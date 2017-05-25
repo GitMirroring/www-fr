@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home-pkgblurbs.html\n"
-"POT-Creation-Date: 2017-04-21 12:27+0000\n"
-"PO-Revision-Date: 2017-04-21 20:25+0200\n"
+"POT-Creation-Date: 2017-05-25 09:27+0000\n"
+"PO-Revision-Date: 2017-05-25 12:03+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -3610,6 +3610,26 @@ msgstr ""
 "d'autres applications. On a ainsi un moyen pratique d'ajouter des "
 "fonctionnalités à l'application sans avoir besoin de récrire le code.  "
 "<small>(<a href=\"/manual/manual.html#guile\">doc</a>)</small>"
+
+#. type: Content of: <h4>
+msgid "<a href=\"/software/guile-cv/\">Guile-cv</a>"
+msgstr "<a href=\"/software/guile-cv/\">Guile-cv</a>"
+
+#. type: Content of: <p>
+msgid ""
+"Guile-CV is a Computer Vision functional programming library for the Guile "
+"Scheme language. Guile-CV is based on Vigra (Vision with Generic "
+"Algorithms). It comprises a direct binding to vigra_c (a C wrapper to a "
+"subset of the Vigra library), and a higher level API written in Guile "
+"Scheme.  <small>(<a href=\"/manual/manual.html#guile-cv\">doc</a>)</small>"
+msgstr ""
+"Guile-CV est une bibliothèque de vision par ordinateur pour Guile utilisant "
+"la programmation fonctionnelle. Elle est basée sur <abbr title=\"Vision with "
+"Generic Algorithms\">Vigra</abbr> (vision à l'aide d'algorithmes "
+"génériques). Elle comprend une liaison directe à vigra_c (adaptateur C pour "
+"un sous-ensemble de la bibliothèque Vigra) et une API de haut niveau écrite "
+"en Guile Scheme.  <small>(<a href=\"/manual/manual.html#guile-cv\">doc</a>)</"
+"small>"
 
 #. type: Content of: <h4>
 msgid "<a href=\"/software/guile-dbi/\">Guile-dbi</a>"

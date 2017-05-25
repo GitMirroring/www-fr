@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gcc-exception-translations.html\n"
-"POT-Creation-Date: 2015-07-13 16:26+0000\n"
-"PO-Revision-Date: 2017-05-23 16:24+0200\n"
+"POT-Creation-Date: 2017-05-24 19:26+0000\n"
+"PO-Revision-Date: 2017-05-25 09:42+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -61,7 +61,7 @@ msgid ""
 "GCC RLE.  In order for them to do that, translations need to be basically "
 "accurate even if not perfect.  To produce a good translation, it is "
 "essential to have fully understood fundamental concepts such as <a href=\"/"
-"copyleft/copyleft.html\">copyleft</a> and the <a href=\"/philosophy/free-sw."
+"licenses/copyleft.html\">copyleft</a> and the <a href=\"/philosophy/free-sw."
 "html\">free software definition</a>.  For this reason, those who wish to "
 "contribute translations should make sure they are well acquainted with these "
 "concepts as well as other philosophical principles that may appear in the "
@@ -72,7 +72,7 @@ msgstr ""
 "<abbr title=\"Runtime Library Exception\">RLE</abbr>). Pour cela, les "
 "traductions ont besoin d'être assez précises, même si elles ne sont pas "
 "parfaites. Pour faire une bonne traduction, il est essentiel d'avoir "
-"parfaitement compris des concepts fondamentaux comme le <a href=\"/copyleft/"
+"parfaitement compris des concepts fondamentaux comme le <a href=\"/licenses/"
 "copyleft.html\">copyleft</a> et la <a href=\"/philosophy/free-sw.html"
 "\">définition du logiciel libre</a>. C'est pourquoi les personnes qui "
 "veulent contribuer aux traductions doivent s'assurer qu'elles sont "
@@ -175,9 +175,10 @@ msgstr ""
 #. TRANSLATORS: If you translate this paragraph, retain the English
 #. text and put your translation below.  The entire <blockquote>
 #.  element
-#. has dir="ltr" to work by default with RTL languages when the notice is
-#. not translated, so if your language is RTL, you *must* put your
-#. translation within <span dir="rtl">.
+#. has <p dir="ltr" style="text-align:left"> to work by default with RTL
+#. languages when the notice is not translated, so if your language is RTL,
+#. you *must* put your translation within
+#. </p><p dir="rtl" style="text-align:right">......</p><p> 
 #. type: Content of: <blockquote><p>
 msgid ""
 "This is an unofficial translation of the GCC Runtime Library Exception into "
@@ -216,14 +217,13 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"These are translations of old versions of the GCC Runtime Library Exception, "
-"which are <em>not</em> the latest version. Translations of current licenses "
-"can be found on <a href=\"/licenses/translations.html\"> http://www.gnu.org/"
-"licenses/translations.html</a>."
+"These are translations of an older version of the GCC RLE. Translations of "
+"current licenses can be found <a href=\"/licenses/translations.html\">here</"
+"a>."
 msgstr ""
-"Voici les traductions d'anciennes versions de la GCC RLE. <em>Il ne s'agit "
-"pas de la dernière version.</em> Les traductions des licences actuelles se "
-"trouvent <a href=\"/licenses/translations.html\">ici</a>."
+"Voici les traductions d'une ancienne version de la GCC RLE. Les traductions "
+"des licences actuelles se trouvent <a href=\"/licenses/translations.html"
+"\">ici</a>."
 
 #. type: Content of: <h3>
 msgid "GCC Runtime Library Exception, version 3.0"
@@ -246,6 +246,15 @@ msgid ""
 msgstr ""
 "<code>[sk]</code> Traduction en <a href=\"http://jxself.org/translations/gcc-"
 "rtle-3.0.sk.shtml\">slovaque</a> de la GCC RLE."
+
+#.  RT #715288 and #1198827 
+#. type: Content of: <ul><li>
+msgid ""
+"<code>[zh-tw]</code> <a href=\"http://www.chinasona.org/gnu/gnu-gcc.html\"> "
+"Chinese (Traditional)</a> translation of the GCC RLE 3"
+msgstr ""
+"<code>[zh-tw]</code> Traduction en <a href=\"http://www.chinasona.org/gnu/"
+"gnu-gcc.html\">chinois (traditionnel)</a> de la GCC RLE"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -295,10 +304,10 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2004, 2005, 2006, 2007, 2008, 2009, "
-"2011, 2013, 2014, 2015 Free Software Foundation, Inc."
+"2011, 2013, 2014, 2015, 2017 Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2004, 2005, 2006, 2007, 2008, 2009, "
-"2011, 2013, 2014, 2015 Free Software Foundation, Inc."
+"Copyright &copy; 1996-1999, 2004-2009, 2011, 2013-2015, 2017 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

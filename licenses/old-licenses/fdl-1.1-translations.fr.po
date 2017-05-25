@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: fdl-1.1-translations.html\n"
-"POT-Creation-Date: 2017-03-06 07:26+0000\n"
-"PO-Revision-Date: 2017-05-23 16:24+0200\n"
+"POT-Creation-Date: 2017-05-24 19:26+0000\n"
+"PO-Revision-Date: 2017-05-25 09:42+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -59,7 +59,7 @@ msgid ""
 "FDL.  In order for them to do that, translations need to be basically "
 "accurate even if not perfect.  To produce a good translation, it is "
 "essential to have fully understood fundamental concepts such as <a href=\"/"
-"copyleft/copyleft.html\">copyleft</a> and the <a href=\"/philosophy/free-sw."
+"licenses/copyleft.html\">copyleft</a> and the <a href=\"/philosophy/free-sw."
 "html\">free software definition</a>.  For this reason, those who wish to "
 "contribute translations should make sure they are well acquainted with these "
 "concepts as well as other philosophical principles that may appear in the "
@@ -69,7 +69,7 @@ msgstr ""
 "gens à comprendre nos licences. Pour cela, les traductions ont besoin d'être "
 "assez précises, même si elles ne sont pas parfaites. Pour faire une bonne "
 "traduction, il est essentiel d'avoir parfaitement compris des concepts "
-"fondamentaux comme le <a href=\"/copyleft/copyleft.html\">copyleft</a> et la "
+"fondamentaux comme le <a href=\"/licenses/copyleft.html\">copyleft</a> et la "
 "<a href=\"/philosophy/free-sw.html\">définition du logiciel libre</a>. C'est "
 "pourquoi les personnes qui veulent contribuer aux traductions doivent "
 "s'assurer qu'elles sont familières avec ces concepts ainsi qu'avec les "
@@ -171,9 +171,10 @@ msgstr ""
 #. TRANSLATORS: If you translate this paragraph, retain the English
 #. text and put your translation below.  The entire <blockquote>
 #.  element
-#. has dir="ltr" to work by default with RTL languages when the notice is
-#. not translated, so if your language is RTL, you *must* put your
-#. translation within <span dir="rtl">.
+#. has <p dir="ltr" style="text-align:left"> to work by default with RTL
+#. languages when the notice is not translated, so if your language is RTL,
+#. you *must* put your translation within
+#. </p><p dir="rtl" style="text-align:right">......</p><p> 
 #. type: Content of: <blockquote><p>
 msgid ""
 "This is an unofficial translation of the GNU Free Documentation License into "
