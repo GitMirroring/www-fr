@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: whats-wrong-with-youtube.html\n"
-"POT-Creation-Date: 2016-12-30 17:56+0000\n"
-"PO-Revision-Date: 2016-12-30 21:34+0100\n"
+"POT-Creation-Date: 2017-06-25 12:25+0000\n"
+"PO-Revision-Date: 2017-06-26 17:06+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -63,28 +63,21 @@ msgstr ""
 
 #. type: Content of: <ul><li><ul><li>
 msgid ""
-"In the non-HTML5 mode, it involves use of Flash Player, which is nonfree.  "
-"It even tells users to install Flash Player.  (This mode was deprecated by "
-"YouTube as of January 2015.)"
+"In the (deprecated) non-HTML5 mode, it involves use of Flash Player, which "
+"is nonfree.  It even tells users to install Flash Player."
 msgstr ""
-"Le mode non HTML5 (rendu obsolète par YouTube en janvier 2015) implique "
-"l'utilisation du lecteur Flash, qui est non libre. Il demande même aux "
-"utilisateurs d'installer ce lecteur."
+"Le mode non HTML5 (obsolète) implique l'utilisation du lecteur Flash, qui "
+"est non libre. Il demande même aux utilisateurs d'installer ce lecteur."
 
 #. type: Content of: <ul><li>
-msgid "YouTube tries to stop people from downloading copies."
-msgstr "YouTube essaie d'empêcher les gens de télécharger des copies."
-
-#. type: Content of: <ul><li><p>
 msgid ""
-"The developers of youtube-dl need to keep changing it as the site changes. "
-"The mere <em>attempt</em> to stop you from downloading a file is wrongdoing "
-"even if you can overcome it."
+"YouTube tries to stop people from downloading copies.  The nonfree "
+"JavaScript code for some videos does not allow the browser to save a copy.  "
+"This is a form of DRM."
 msgstr ""
-"Les développeurs de youtube-dl ont sans arrêt besoin de l'adapter aux "
-"changements du site. La simple <em>tentative</em> de vous empêcher de "
-"télécharger un fichier est une mauvaise action, même si vous pouvez la "
-"mettre en échec."
+"YouTube essaie d'empêcher les gens de télécharger des copies. Le code "
+"JavaScript non libre qui accompagne certaines vidéos ne permet pas au "
+"navigateur de les sauvegarder. C'est une forme de DRM."
 
 #. type: Content of: <p>
 msgid ""
@@ -231,8 +224,8 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015, 2016 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2015, 2016 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2015, 2016, 2017 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2015, 2016, 2017 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -256,17 +249,3 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
-
-#~ msgid ""
-#~ "There are ways to access most YouTube videos without running that nonfree "
-#~ "software &mdash; Users who are in the know can avoid doing so. For "
-#~ "instance, you can access most non-HTML5 videos with <a href=\"/software/"
-#~ "gnash/\">Gnash</a>, and you can get most HTML5 videos with <a href="
-#~ "\"http://youtube-dl.org/\">youtube-dl</a> (or some other programs).  ."
-#~ msgstr ""
-#~ "Il existe des moyens d'accéder à la plupart des vidéos de YouTube sans "
-#~ "faire tourner ces logiciels non libres – les utilisateurs qui sont au "
-#~ "courant peuvent éviter de le faire. Par exemple, on peut accéder à la "
-#~ "plupart des vidéos non HTML5 avec <a href=\"/software/gnash/\">Gnash</a> "
-#~ "et télécharger la plupart des vidéos HTML5 avec <a href=\"http://youtube-"
-#~ "dl.org/\">youtube-dl</a> (ou tout autre programme)."
