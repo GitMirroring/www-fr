@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-surveillance.html\n"
-"POT-Creation-Date: 2017-07-04 05:56+0000\n"
-"PO-Revision-Date: 2017-07-07 10:29-0400\n"
+"POT-Creation-Date: 2017-07-12 11:55+0000\n"
+"PO-Revision-Date: 2017-07-13 09:14+0200\n"
 "Last-Translator: Félicien Pillot <felicien AT gnu.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -119,12 +119,14 @@ msgid "<a href=\"#SpywareInMobileApps\">Spyware in Mobile Applications</a>"
 msgstr "<a href=\"#SpywareInMobileApps\">Applications mobiles</a>"
 
 #. type: Content of: <div><div><ul><li><ul><li>
-msgid "<a href=\"#SpywareInGames\">Spyware in Games</a>"
-msgstr "<a href=\"#SpywareInGames\">Jeux</a>"
-
-#. type: Content of: <div><div><ul><li><ul><li>
 msgid "<a href=\"#SpywareInToys\">Spyware in Toys</a>"
 msgstr "<a href=\"#SpywareInToys\">Jouets</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#SpywareOnSmartWatches\">Spyware on Smart Watches</a>"
+msgstr ""
+"<a href=\"#SpywareOnSmartWatches\">Espions dans les montres "
+"« intelligentes »</a>"
 
 #. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#SpywareAtLowLevel\">Spyware at Low Level</a>"
@@ -136,7 +138,7 @@ msgstr "<a href=\"#SpywareInBIOS\">BIOS</a>"
 
 #. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#SpywareAtWork\">Spyware at Work</a>"
-msgstr "<a href=\"#SpywareAtWork\">Espions sur le lieu de travail</a>"
+msgstr "<a href=\"#SpywareAtWork\">Espions au travail</a>"
 
 #. type: Content of: <div><div><ul><li><ul><li>
 msgid "<a href=\"#SpywareInSkype\">Spyware in Skype</a>"
@@ -167,8 +169,12 @@ msgid "<a href=\"#SpywareInTVSets\">Spyware in TV Sets</a>"
 msgstr "<a href=\"#SpywareInTVSets\">Téléviseurs</a>"
 
 #. type: Content of: <div><div><ul><li>
-msgid "<a href=\"#SpywareAtPlay\">Spyware at Play</a>"
-msgstr "<a href=\"#SpywareAtPlay\">Espions dans les jeux</a>"
+msgid "<a href=\"#SpywareInGames\">Spyware in Games</a>"
+msgstr "<a href=\"#SpywareInGames\">Espions dans les jeux</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#SpywareInRecreation\">Spyware in Recreation</a>"
+msgstr "<a href=\"#SpywareInRecreation\">Espions pendant les loisirs</a>"
 
 #. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#SpywareOnTheWeb\">Spyware on the Web</a>"
@@ -188,7 +194,7 @@ msgstr "<a href=\"#SpywareEverywhere\">Espions partout</a>"
 
 #. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#SpywareInVR\">Spyware In VR</a>"
-msgstr "<a href=\"#SpywareInVR\">Réalité virtuelle</a>"
+msgstr "<a href=\"#SpywareInVR\">Espions dans la réalité virtuelle</a>"
 
 #. type: Content of: <div><h3>
 msgid "Introduction"
@@ -627,27 +633,6 @@ msgid ""
 msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInAndroid"
 "\">#SpywareInAndroid</a>)</span>"
-
-#. type: Content of: <ul><li><p>
-msgid ""
-"A very cheap &ldquo;smart watch&rdquo; comes with an Android app <a href="
-"\"https://www.theregister.co.uk/2016/03/02/"
-"chinese_backdoor_found_in_ebays_popular_cheap_smart_watch/\">that connects "
-"to an unidentified site in China</a>."
-msgstr ""
-"Une « montre intelligente » très bon marché est livrée avec une appli "
-"Android <a href=\"https://www.theregister.co.uk/2016/03/02/"
-"chinese_backdoor_found_in_ebays_popular_cheap_smart_watch/\">qui se connecte "
-"à un site non identifié localisé en Chine</a>."
-
-#. type: Content of: <ul><li><p>
-msgid ""
-"The article says this is a back door, but that could be a misunderstanding.  "
-"However, it is certainly surveillance, at least."
-msgstr ""
-"L'article dit que c'est une porte dérobée, mais il pourrait s'agir d'un "
-"malentendu. Quoi qu'il en soit, c'est certainement de la surveillance, ou "
-"pire."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -1596,53 +1581,6 @@ msgstr ""
 "quiconque ? Une application lampe de poche libre ne le ferait pas."
 
 #. type: Content of: <div><h4>
-msgid "Spyware in Games"
-msgstr "Jeux"
-
-#. type: Content of: <div>
-msgid ""
-"<span class=\"anchor-reference-id\">(<a href=\"#SpywareInGames"
-"\">#SpywareInGames</a>)</span>"
-msgstr ""
-"<span class=\"anchor-reference-id\">(<a href=\"#SpywareInGames"
-"\">#SpywareInGames</a>)</span>"
-
-#. type: Content of: <ul><li><p>
-msgid ""
-"nVidia's proprietary GeForce Experience <a href=\"http://www.gamersnexus.net/"
-"industry/2672-geforce-experience-data-transfer-analysis\">makes users "
-"identify themselves and then sends personal data about them to nVidia "
-"servers</a>."
-msgstr ""
-"La carte graphique privatrice nVidia GeForce Experience <a href=\"http://www."
-"gamersnexus.net/industry/2672-geforce-experience-data-transfer-analysis"
-"\">oblige les utilisateurs à s'identifier, puis envoie leurs données "
-"personnelles aux serveurs de nVidia</a>."
-
-#. type: Content of: <ul><li><p>
-msgid ""
-"Angry Birds <a href=\"http://www.nytimes.com/2014/01/28/world/spy-agencies-"
-"scour-phone-apps-for-personal-data.html\"> spies for companies, and the NSA "
-"takes advantage to spy through it too</a>.  Here's information on <a href="
-"\"http://confabulator.blogspot.com/2012/11/analysis-of-what-information-"
-"angry.html\"> more spyware apps</a>."
-msgstr ""
-"Angry Birds <a href=\"http://www.nytimes.com/2014/01/28/world/spy-agencies-"
-"scour-phone-apps-for-personal-data.html\">espionne pour les entreprises et "
-"la NSA en profite pour espionner également</a>. Voici des renseignements sur "
-"<a href=\"http://confabulator.blogspot.com/2012/11/analysis-of-what-"
-"information-angry.html\">d'autres applis espionnes</a>."
-
-#. type: Content of: <ul><li><p>
-msgid ""
-"<a href=\"http://www.propublica.org/article/spy-agencies-probe-angry-birds-"
-"and-other-apps-for-personal-data\"> More about NSA app spying</a>."
-msgstr ""
-"<a href=\"http://www.propublica.org/article/spy-agencies-probe-angry-birds-"
-"and-other-apps-for-personal-data\">Apprenez-en plus sur l'espionnage "
-"pratiqué par la NSA au moyen des applis</a>."
-
-#. type: Content of: <div><h4>
 msgid "Spyware in Toys"
 msgstr "Jouets"
 
@@ -1776,6 +1714,50 @@ msgstr ""
 "Barbie <a href=\"http://www.mirror.co.uk/news/technology-science/technology/"
 "wi-fi-spy-barbie-records-childrens-5177673\">va fliquer les enfants et les "
 "adultes</a>."
+
+#. type: Content of: <div><h3>
+msgid "Spyware on &ldquo;Smart&rdquo; Watches"
+msgstr "Espions dans les montres « intelligentes »"
+
+#. type: Content of: <div>
+msgid ""
+"<span class=\"anchor-reference-id\"> (<a href=\"#SpywareOnSmartWatches"
+"\">#SpywareOnSmartWatches</a>)</span>"
+msgstr ""
+"<span class=\"anchor-reference-id\"> (<a href=\"#SpywareOnSmartWatches"
+"\">#SpywareOnSmartWatches</a>)</span>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"An LG &ldquo;smart&rdquo; watch is designed <a href=\"http://www."
+"huffingtonpost.co.uk/2014/07/09/lg-kizon-smart-watch_n_5570234.html\"> to "
+"report its location to someone else and to transmit conversations too</a>."
+msgstr ""
+"Une montre « intelligente » de LG est conçue <a href=\"http://www."
+"huffingtonpost.co.uk/2014/07/09/lg-kizon-smart-watch_n_5570234.html\">pour "
+"communiquer sa localisation à quelqu'un d'autre et aussi pour transmettre "
+"les conversations</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"A very cheap &ldquo;smart watch&rdquo; comes with an Android app <a href="
+"\"https://www.theregister.co.uk/2016/03/02/"
+"chinese_backdoor_found_in_ebays_popular_cheap_smart_watch/\"> that connects "
+"to an unidentified site in China</a>."
+msgstr ""
+"Une « montre intelligente » très bon marché est livrée avec une appli "
+"Android <a href=\"https://www.theregister.co.uk/2016/03/02/"
+"chinese_backdoor_found_in_ebays_popular_cheap_smart_watch/\">qui se connecte "
+"à un site non identifié localisé en Chine</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The article says this is a back door, but that could be a misunderstanding.  "
+"However, it is certainly surveillance, at least."
+msgstr ""
+"L'article dit que c'est une porte dérobée, mais il pourrait s'agir d'un "
+"malentendu. Quoi qu'il en soit, c'est certainement de la surveillance, ou "
+"pire."
 
 #. type: Content of: <div><h3>
 msgid "Spyware at Low Level"
@@ -2391,44 +2373,51 @@ msgstr ""
 "programmes les gens regardent et même lesquels ils veulent enregistrer</a>."
 
 #. type: Content of: <div><h3>
-msgid "Spyware at Play"
+msgid "Spyware in Games"
 msgstr "Espions dans les jeux"
 
 #. type: Content of: <div>
 msgid ""
-"<span class=\"anchor-reference-id\">(<a href=\"#SpywareAtPlay"
-"\">#SpywareAtPlay</a>)</span>"
+"<span class=\"anchor-reference-id\">(<a href=\"#SpywareInGames"
+"\">#SpywareInGames</a>)</span>"
 msgstr ""
-"<span class=\"anchor-reference-id\">(<a href=\"#SpywareAtPlay"
-"\">#SpywareAtPlay</a>)</span>"
+"<span class=\"anchor-reference-id\">(<a href=\"#SpywareInGames"
+"\">#SpywareInGames</a>)</span>"
 
 #. type: Content of: <ul><li><p>
 msgid ""
-"Users are suing Bose for <a href=\"https://www.washingtonpost.com/news/the-"
-"switch/wp/2017/04/19/bose-headphones-have-been-spying-on-their-customers-"
-"lawsuit-claims/\"> distributing a spyware app for its headphones</a>.  "
-"Specifically, the app would record the names of the audio files users listen "
-"to along with the headphone's unique serial number."
+"nVidia's proprietary GeForce Experience <a href=\"http://www.gamersnexus.net/"
+"industry/2672-geforce-experience-data-transfer-analysis\">makes users "
+"identify themselves and then sends personal data about them to nVidia "
+"servers</a>."
 msgstr ""
-"Des utilisateurs sont en train d'attaquer Bose en justice <a href=\"https://"
-"www.washingtonpost.com/news/the-switch/wp/2017/04/19/bose-headphones-have-"
-"been-spying-on-their-customers-lawsuit-claims/\">pour avoir distribué une "
-"appli espionne en complément de ses écouteurs</a>. Plus précisément, l'appli "
-"enregistrait les noms des fichiers musicaux écoutés, ainsi que le numéro de "
-"série unique de l'appareil."
+"La carte graphique privatrice nVidia GeForce Experience <a href=\"http://www."
+"gamersnexus.net/industry/2672-geforce-experience-data-transfer-analysis"
+"\">oblige les utilisateurs à s'identifier, puis envoie leurs données "
+"personnelles aux serveurs de nVidia</a>."
 
 #. type: Content of: <ul><li><p>
 msgid ""
-"The suit accuses that this was done without the users' consent.  If the fine "
-"print of the app said that users gave consent for this, would that make it "
-"acceptable? No way! It should be flat out <a href=\"/philosophy/surveillance-"
-"vs-democracy.html\"> illegal to design the app to snoop at all</a>."
+"Angry Birds <a href=\"http://www.nytimes.com/2014/01/28/world/spy-agencies-"
+"scour-phone-apps-for-personal-data.html\"> spies for companies, and the NSA "
+"takes advantage to spy through it too</a>.  Here's information on <a href="
+"\"http://confabulator.blogspot.com/2012/11/analysis-of-what-information-"
+"angry.html\"> more spyware apps</a>."
 msgstr ""
-"On reproche à Bose d'avoir fait cela sans le consentement des utilisateurs. "
-"Est-ce que ce serait devenu acceptable si les clauses en petits caractères "
-"de l'appli avaient dit que l'utilisateur donnait son accord ?  Jamais de la "
-"vie ! Dès le départ, il aurait dû être illégal de <a href=\"/philosophy/"
-"surveillance-vs-democracy.html\">concevoir cette appli pour espionner</a>."
+"Angry Birds <a href=\"http://www.nytimes.com/2014/01/28/world/spy-agencies-"
+"scour-phone-apps-for-personal-data.html\">espionne pour les entreprises et "
+"la NSA en profite pour espionner également</a>. Voici des renseignements sur "
+"<a href=\"http://confabulator.blogspot.com/2012/11/analysis-of-what-"
+"information-angry.html\">d'autres applis espionnes</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"<a href=\"http://www.propublica.org/article/spy-agencies-probe-angry-birds-"
+"and-other-apps-for-personal-data\"> More about NSA app spying</a>."
+msgstr ""
+"<a href=\"http://www.propublica.org/article/spy-agencies-probe-angry-birds-"
+"and-other-apps-for-personal-data\">Apprenez-en plus sur l'espionnage "
+"pratiqué par la NSA au moyen des applis</a>."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -2489,6 +2478,46 @@ msgid ""
 msgstr ""
 "Bien que cet article décrive des jeux gratuits, les jeux payants pouvent "
 "utiliser la même tactique."
+
+#. type: Content of: <div><h3>
+msgid "Spyware at Recreation"
+msgstr "Espions pendant les loisirs"
+
+#. type: Content of: <div>
+msgid ""
+"<span class=\"anchor-reference-id\"> (<a href=\"#SpywareAtRecreation"
+"\">#SpywareAtRecreation</a>)</span>"
+msgstr ""
+"<span class=\"anchor-reference-id\"> (<a href=\"#SpywareAtRecreation"
+"\">#SpywareAtRecreation</a>)</span>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Users are suing Bose for <a href=\"https://www.washingtonpost.com/news/the-"
+"switch/wp/2017/04/19/bose-headphones-have-been-spying-on-their-customers-"
+"lawsuit-claims/\"> distributing a spyware app for its headphones</a>.  "
+"Specifically, the app would record the names of the audio files users listen "
+"to along with the headphone's unique serial number."
+msgstr ""
+"Des utilisateurs sont en train d'attaquer Bose en justice <a href=\"https://"
+"www.washingtonpost.com/news/the-switch/wp/2017/04/19/bose-headphones-have-"
+"been-spying-on-their-customers-lawsuit-claims/\">pour avoir distribué une "
+"appli espionne en complément de ses écouteurs</a>. Plus précisément, l'appli "
+"enregistrait les noms des fichiers musicaux écoutés, ainsi que le numéro de "
+"série unique de l'appareil."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The suit accuses that this was done without the users' consent.  If the fine "
+"print of the app said that users gave consent for this, would that make it "
+"acceptable? No way! It should be flat out <a href=\"/philosophy/surveillance-"
+"vs-democracy.html\"> illegal to design the app to snoop at all</a>."
+msgstr ""
+"On reproche à Bose d'avoir fait cela sans le consentement des utilisateurs. "
+"Est-ce que ce serait devenu acceptable si les clauses en petits caractères "
+"de l'appli avaient dit que l'utilisateur donnait son accord ?  Jamais de la "
+"vie ! Dès le départ, il aurait dû être illégal de <a href=\"/philosophy/"
+"surveillance-vs-democracy.html\">concevoir cette appli pour espionner</a>."
 
 #. type: Content of: <div><h3>
 msgid "Spyware on the Web"
@@ -2765,7 +2794,7 @@ msgstr ""
 
 #. type: Content of: <div><h3>
 msgid "Spyware In VR"
-msgstr "Réalité virtuelle"
+msgstr "Espions dans la réalité virtuelle"
 
 #. type: Content of: <div>
 msgid ""
