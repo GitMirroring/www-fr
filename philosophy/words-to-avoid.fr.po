@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
-"POT-Creation-Date: 2017-03-20 14:26+0000\n"
-"PO-Revision-Date: 2017-03-20 19:45+0100\n"
+"POT-Creation-Date: 2017-08-01 04:26+0000\n"
+"PO-Revision-Date: 2017-08-01 15:05+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -263,6 +263,11 @@ msgstr "« <a href=\"#PowerPoint\">PowerPoint</a> » |"
 
 #.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
+msgid "&ldquo;<a href=\"#Product\">Product</a>&rdquo; |"
+msgstr "« <a href=\"#Product\">Produit</a> » |"
+
+#.  GNUN-SORT-NEXT-ITEM 
+#. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Protection\">Protection</a>&rdquo; |"
 msgstr "« <a href=\"#Protection\">protection</a> » |"
 
@@ -419,6 +424,18 @@ msgstr ""
 "particulier accès par téléchargement au code source d'un programme au lieu "
 "de lui donner une copie physique du code source. Ceci s'applique au cas "
 "spécial où l'utilisateur a déjà une copie du programme sous forme non source."
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"Instead of <b>with free software, the public has access to the program</b>, "
+"we say, <b>with free software, the users have the essential freedoms</b> and "
+"<b>with free software, the users have control of what the program does for "
+"them</b>."
+msgstr ""
+"Au lieu de dire <em>Avec le logiciel libre, le public a accès au programme</"
+"em>, nous disons <b>Avec le logiciel libre, les utilisateurs ont les "
+"libertés fondamentales</b> et <b>Avec le logiciel libre, les utilisateurs "
+"ont la maîtrise de ce que le programme fait pour eux</b>."
 
 #. type: Content of: <h3>
 msgid "&ldquo;Alternative&rdquo;"
@@ -1372,6 +1389,12 @@ msgstr ""
 "recherchez, « FLOSS » est un meilleur choix. Mais si vous voulez montrez que "
 "vous êtes partisan de la liberté, n'employez pas de terme neutre."
 
+#. type: Content of: <blockquote><p>
+msgid ""
+"Instead of <b>FOSS</b>, we say, <b>free software</b> or <b>free (libre) "
+"software</b>."
+msgstr "Au lieu de <em>FOSS</em>, nous disons <b>logiciel libre</b>."
+
 #. type: Content of: <h3>
 msgid "&ldquo;Freely available&rdquo;"
 msgstr "<!--« gratuitement+ » --> « Disponible gratuitement »"
@@ -1696,26 +1719,27 @@ msgstr ""
 msgid "&ldquo;MP3 Player&rdquo;"
 msgstr "<!--« MP3-->« Lecteur MP3 »"
 
+#.  The MP3 patents will reportedly expire by 2018.  
 #. type: Content of: <p>
 msgid ""
 "In the late 1990s it became feasible to make portable, solid-state digital "
-"audio players. Most support the patented MP3 codec, but not all.  Some "
-"support the patent-free audio codecs Ogg Vorbis and FLAC, and may not even "
-"support MP3-encoded files at all, precisely to avoid these patents.  To call "
-"such players &ldquo;MP3 players&rdquo; is not only confusing, it also "
-"privileges the MP3 that we ought to reject.  We suggest the terms &ldquo;"
-"digital audio player,&rdquo; or simply &ldquo;audio player&rdquo; if context "
-"permits."
+"audio players. Most supported the patented MP3 codec, but not all.  Some "
+"players support the patent-free audio codecs Ogg Vorbis and FLAC, and may "
+"not even support MP3-encoded files at all, precisely to avoid these "
+"patents.  To call such players &ldquo;MP3 players&rdquo; is not only "
+"confusing, it also privileges the MP3 format that we ought to reject.  We "
+"suggest the terms &ldquo;digital audio player,&rdquo; or simply &ldquo;audio "
+"player&rdquo; when that's clear enough."
 msgstr ""
 "A la fin des années 90, il est devenu possible de fabriquer des lecteurs "
-"audio numériques, portables et compacts. La plupart gèrent le codec breveté "
-"MP3, mais pas tous. Certains gèrent les codecs audio libres de brevet Ogg "
-"Vorbis et FLAC et ne peuvent parfois même pas lire les fichiers codés en "
-"MP3, précisément pour éviter les brevets. Appeler de tels lecteurs "
-"« lecteurs MP3 » non seulement prête à confusion, mais aussi privilégie ce "
-"dernier format, que nous devrions rejeter. Nous suggérons les termes "
-"« lecteur audio numérique », ou simplement « lecteur audio » si le contexte "
-"le permet."
+"audio numériques, portables et compacts. La plupart décodent le format "
+"breveté MP3, mais pas tous. Certains lecteurs utilisent les codecs audio "
+"libres de brevet Ogg Vorbis et FLAC et ne peuvent parfois même pas lire les "
+"fichiers codés en MP3, précisément pour éviter les brevets. Appeler de tels "
+"lecteurs « lecteurs MP3 » non seulement prête à confusion, mais aussi "
+"privilégie ce dernier format, que nous devrions rejeter. Nous suggérons les "
+"termes « lecteur audio numérique », ou simplement « lecteur audio » si le "
+"contexte le permet."
 
 #. type: Content of: <h3>
 msgid "&ldquo;Open&rdquo;"
@@ -1748,6 +1772,12 @@ msgstr ""
 "ce nom, mais veuillez ne pas l'utiliser pour parler de nous, de nos "
 "logiciels ou de nos idées, car cela conduit les gens à supposer que nos "
 "idées sont semblables aux leurs."
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"Instead of <b>open source</b>, we say, <b>free software</b> or <b>free "
+"(libre) software</b>."
+msgstr "Au lieu d'<em>open source</em>, nous disons <b>logiciel libre</b>."
 
 #. type: Content of: <h3>
 msgid "&ldquo;PC&rdquo;"
@@ -1849,16 +1879,36 @@ msgid ""
 "Please avoid using the term &ldquo;PowerPoint&rdquo; to mean any kind of "
 "slide presentation.  &ldquo;PowerPoint&rdquo; is just the name of one "
 "particular proprietary program to make presentations.  For your freedom's "
-"sake, you should use only free software to make your presentations.  "
-"Recommended options include TeX's <tt>beamer</tt> class and LibreOffice."
-"org's Impress."
+"sake, you should use only free software to make your presentations&mdash;"
+"which means, <em>not PowerPoint</em>.  Recommended options include TeX's "
+"<tt>beamer</tt> class and LibreOffice.org's Impress."
 msgstr ""
 "Veuillez éviter d'utiliser le terme « PowerPoint » pour parler d'une "
 "quelconque présentation par diapositives. « PowerPoint » est juste le nom "
 "d'un programme privateur particulier servant à faire des présentations. Dans "
 "l'intérêt de votre liberté, vous ne devez utiliser que du logiciel libre "
-"pour les vôtres. Parmi les choix recommandés, il y a la classe <tt>beamer</"
-"tt> de TeX, et « Impress » de LibreOffice."
+"pour les vôtres – qui par conséquent ne seront pas des « PowerPoint ». Parmi "
+"les choix recommandés, il y a la classe <tt>beamer</tt> de TeX, et "
+"« Impress » de LibreOffice."
+
+#. type: Content of: <h3>
+msgid "&ldquo;Product&rdquo;"
+msgstr "« Produit »"
+
+#. type: Content of: <p>
+msgid ""
+"If you're talking about a product, by all means call it that.  However, when "
+"referring to a service, please do not call it a &ldquo;product.&rdquo; If a "
+"service provider calls the service a &ldquo;product,&rdquo; please firmly "
+"insist on calling it a &ldquo;service.&rdquo; If a service provider calls a "
+"package deal a &ldquo;product,&rdquo; please firmly insist on calling it a "
+"&ldquo;deal.&rdquo;"
+msgstr ""
+"Si vous parlez d'un produit, n'hésitez pas à l'appeler ainsi ; mais s'il "
+"s'agit d'un service, ne l'appelez pas « produit ». Si un fournisseur de "
+"service appelle ce service « produit », insistez avec fermeté pour l'appeler "
+"« service ». Si un fournisseur de service appelle une formule forfaitaire "
+"« produit », insistez avec fermeté pour l'appeler « forfait »."
 
 #. type: Content of: <h3>
 msgid "&ldquo;Protection&rdquo;"
