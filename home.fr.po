@@ -10,8 +10,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2017-05-27 11:55+0000\n"
-"PO-Revision-Date: 2017-05-27 14:04+0200\n"
+"POT-Creation-Date: 2017-08-12 18:26+0000\n"
+"PO-Revision-Date: 2017-08-12 20:44+0200\n"
 "Last-Translator: Jean-Philippe Mengual <mengualjeanphi AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -99,7 +99,7 @@ msgstr "<a href=\"/distros/screenshot-gnewsense.html\">"
 msgid "Screenshot of GNU"
 msgstr "Copie d'écran de GNU"
 
-#. type: Content of: <div><div><div><h3>
+#. type: Content of: <div><div><div>
 msgid "</a>"
 msgstr "</a>"
 
@@ -272,38 +272,19 @@ msgstr ""
 msgid "<a href=\"/gnu/gnu.html\">More information</a>"
 msgstr "<a href=\"/gnu/gnu.html\">En savoir plus</a>"
 
-#. type: Content of: <div><div><div><h3><a>
-msgid ""
-"<a href=\"http://planet.gnu.org/\">Planet GNU</a> <a href=\"http://planet."
-"gnu.org/rss20.xml\">"
-msgstr ""
-"<a href=\"http://planet.gnu.org/\">Planet GNU</a> <a href=\"http://planet."
-"gnu.org/rss20.xml\">"
-
-#. type: Attribute 'alt' of: <div><div><div><h3><a><img>
-msgid "RSS Feed"
-msgstr "Flux RSS"
-
-#. type: Content of: <div><div><div><p>
-msgid ""
-"For more news, see <a href=\"http://planet.gnu.org/\">Planet GNU</a> and the "
-"list of <a href=\"/software/recent-releases.html\">recent GNU releases</a>."
-msgstr ""
-"Tenez-vous au courant avec <a href=\"http://planet.gnu.org/\">Planet GNU</a> "
-"et la <a href=\"/software/recent-releases.html\">liste des publications "
-"récentes de GNU</a>."
-
 #. type: Content of: <div><div><div><h3>
 msgid "Take Action"
 msgstr "Agissez !"
 
 #. type: Content of: <div><div><div><ul><li>
 msgid ""
-"<strong><a href=\"http://www.fsf.org/campaigns\">Support current FSF "
-"campaigns</a></strong>."
+"<strong>Support the efforts on net neutrality <a href=\"http://www."
+"savetheinternet.com\" title=\"Net neutrality in the United States of America"
+"\">in the USA</a></strong>, and in your home country."
 msgstr ""
-"<strong><a href=\"http://www.fsf.org/campaigns\">Soutenez les dernières "
-"campagnes de la FSF</a></strong>."
+"<strong>Défendez la neutralité du net <a href=\"http://www.savetheinternet."
+"com\" title=\"Net neutrality in the United States of America\">aux États-"
+"Unis</a></strong> et dans votre pays."
 
 #. type: Content of: <div><div><div><ul><li>
 msgid ""
@@ -320,25 +301,21 @@ msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
 msgid ""
-"Support the efforts on net neutrality in Europe, <a href=\"http://www."
-"savetheinternet.com\" title=\"Net neutrality in the United States of America"
-"\">in the USA</a> and <a href=\"http://saveournet.ca/\" title=\"Net "
-"neutrality in Canada\">in Canada</a>."
+"<strong><a href=\"http://www.fsf.org/campaigns\">Support current FSF "
+"campaigns</a></strong>."
 msgstr ""
-"Soutenez la défense de la neutralité du net en Europe, <a href=\"http://www."
-"savetheinternet.com\" title=\"Net neutrality in the United States of America"
-"\">aux USA</a> et <a href=\"http://saveournet.ca/\" title=\"Net neutrality "
-"in Canada\">au Canada</a>."
+"<strong><a href=\"http://www.fsf.org/campaigns\">Soutenez les dernières "
+"campagnes de la FSF</a></strong>."
 
 #. type: Content of: <div><div><div><ul><li>
 msgid ""
-"<strong>Fight against software patents:</strong> <a href=\"http://www."
-"endsoftpatents.org\">worldwide</a>, <a href=\"/server/takeaction.html#swpat"
-"\">and Europe</a>."
+"Fight against software patents: <a href=\"http://www.endsoftpatents.org"
+"\">worldwide</a>, and <a href=\"/server/takeaction.html#swpat\">in Europe</"
+"a>."
 msgstr ""
-"<strong>Luttez contre les brevets logiciels</strong> <a href=\"http://www."
-"endsoftpatents.org\">dans le monde</a> et <a href=\"/server/takeaction."
-"html#swpat\">en Europe</a>."
+"Luttez contre les brevets logiciels <a href=\"http://www.endsoftpatents.org"
+"\">dans le monde</a> et <a href=\"/server/takeaction.html#swpat\">en Europe</"
+"a>."
 
 #. type: Content of: <div><div><div><p>
 msgid "<a href=\"/server/takeaction.html\">More action items</a>"
@@ -400,15 +377,24 @@ msgstr ""
 ". Consultez les pages web de ces logiciels pour plus ample information."
 
 #. type: Content of: <div><div><div><p>
-msgid "Today's random package&hellip;"
-msgstr "Un paquet au hasard&hellip;"
+msgid ""
+"<strong><a href=\"/software/recent-releases.html\">Recent GNU releases</a></"
+"strong>"
+msgstr ""
+"<strong><a href=\"/software/recent-releases.html\">Publications récentes de "
+"GNU</a></strong>"
 
 #. type: Content of: <div><div><div><p>
 msgid ""
-"<small><a href=\"/manual/blurbs.html\">Short descriptions for all GNU "
-"packages</a></small>"
+"<strong><a href=\"/manual/blurbs.html\">Short descriptions for all GNU "
+"packages</a></strong>"
 msgstr ""
-"<a href=\"/manual/blurbs.html\">Présentation de tous les logiciels GNU</a>"
+"<strong><a href=\"/manual/blurbs.html\">Présentation de tous les logiciels "
+"GNU</a></strong>"
+
+#. type: Content of: <div><div><div><p>
+msgid "Today's random package&hellip;"
+msgstr "Un paquet au hasard&hellip;"
 
 #. type: Content of: <div><div><div><h3>
 msgid "Try some parts of GNU"
