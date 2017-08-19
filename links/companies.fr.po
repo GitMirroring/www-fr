@@ -1,14 +1,14 @@
-# This is the French translation of http://www.gnu.org/links/companies.html
+# French translation of http://www.gnu.org/links/companies.html
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2007, 2008.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2013, 2014.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2013, 2014, 2017.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: companies.html\n"
-"POT-Creation-Date: 2017-01-28 08:26+0000\n"
-"PO-Revision-Date: 2017-01-28 09:55+0100\n"
+"POT-Creation-Date: 2017-08-19 01:25+0000\n"
+"PO-Revision-Date: 2017-08-19 07:42+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -36,53 +36,23 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"<a href=\"http://minifree.org/\">Minifree</a> offers replacement of "
-"proprietary firmware with <a href=\"http://www.libreboot.org\">LibreBoot</"
-"a>, a 100% free software BIOS, and sells laptops that bear the <a href="
-"\"http://www.fsf.org/resources/hw/endorsement/respects-your-freedom"
-"\">Respects Your Freedom</a> certification mark. These ship preinstalled "
-"with LibreBoot and a <a href=\"/distros\">fully free GNU/Linux distribution</"
-"a> such as Trisquel, gNewSense or Parabola."
+"<a href=\"https://fsf.org/ryf\">FSF.org/ryf</a> contains a list of companies "
+"that sell computers endorsed by the FSF's Respects Your Freedom (RYF) "
+"certification program."
 msgstr ""
-"<a href=\"http://minifree.org/\"><cite>Minifree</cite></a> propose le "
-"remplacement des micrologiciels <cite>[firmware]</cite> privateurs par <a "
-"href=\"http://www.libreboot.org\">LibreBoot</a>, un BIOS 100% libre, et vend "
-"des ordinateurs portables qui portent la marque de certification de la FSF "
-"<a href=\"http://www.fsf.org/resources/hw/endorsement/respects-your-freedom"
-"\"><cite>Respects Your Freedom</cite></a> (respecte votre liberté), et sont "
-"livrés avec LibreBoot ainsi qu'avec une <a href=\"/distros\">distribution "
-"GNU/Linux entièrement libre</a> comme Trisquel, gNewSense ou Parabola."
+"<a href=\"https://fsf.org/ryf\">FSF.org/ryf</a> contient une liste de "
+"sociétés qui vendent des ordinateurs labélisés par le programme de "
+"certification RYF (<cite>Respect Your Freedom</cite> – respecte votre "
+"liberté) de la FSF."
 
 #. type: Content of: <p>
 msgid ""
-"<a href=\"https://lacpdx.com/gnu/Start\">Los Alamos Computers (LAC)</a> "
-"sells laptops, desktops and servers preinstalled with <a href=\"/distros"
-"\">fully free <acronym>GNU</acronym>/Linux distributions</a>, including <a "
-"href=\"http://gnewsense.org\">gNewSense</a>. In addition, they donate a "
-"portion of every sale of such systems to the FSF."
+"There are also <a href=\"/links/non-ryf.html\">companies that sell "
+"computers, not endorsed by the FSF's RYF program</a>, with GNU/Linux pre-"
+"installed."
 msgstr ""
-"<a href=\"https://lacpdx.com/gnu/Start\">Los Alamos Computers (LAC)</a> vend "
-"des portables, des ordinateurs de bureau et des serveurs préinstallés avec "
-"des <a href=\"/distros\">distributions <acronym>GNU</acronym>/Linux "
-"totalement libres</a>, dont <a href=\"http://gnewsense.org\">gNewSense</a>. "
-"De plus, ils donnent une fraction du produit de chaque vente de ces systèmes "
-"à la FSF."
-
-#. type: Content of: <p>
-msgid ""
-"<a href=\"http://www.inatux.com/gnu\">InaTux</a> also offers computers "
-"preinstalled with gNewSense."
-msgstr ""
-"<a href=\"http://www.inatux.com/gnu\">InaTux</a> propose aussi des "
-"ordinateurs préinstallés avec gNewSense."
-
-#. type: Content of: <p>
-msgid ""
-"<a href=\"http://libre.thinkpenguin.com/\">ThinkPenguin.com</a> offers "
-"computers preinstalled with Trisquel."
-msgstr ""
-"<a href=\"http://libre.thinkpenguin.com/\">ThinkPenguin.com</a> propose des "
-"ordinateurs préinstallés avec Trisquel."
+"Il existe également des <a href=\"/links/non-ryf.html\">sociétés qui vendent "
+"des ordinateurs non certifiés RYF</a>, préinstallés avec GNU/Linux."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
