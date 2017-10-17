@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-system-distribution-guidelines.html\n"
-"POT-Creation-Date: 2015-06-25 16:55+0000\n"
-"PO-Revision-Date: 2015-11-15 20:18+0100\n"
+"POT-Creation-Date: 2017-10-17 09:29+0000\n"
+"PO-Revision-Date: 2017-10-17 11:36+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -42,15 +42,16 @@ msgstr "Introduction"
 #. type: Content of: <p>
 msgid ""
 "The purpose of these guidelines is to explain what it means for an "
-"installable system distribution (such as a GNU/Linux distribution) to "
-"qualify as <a href=\"/philosophy/free-sw.html\">free</a> (libre), and help "
-"distribution developers make their distributions qualify."
+"installable system distribution (such as a <a href=\"/gnu/linux-and-gnu.html"
+"\">GNU/Linux</a> distribution) to qualify as <a href=\"/philosophy/free-sw."
+"html\">free</a> (libre), and help distribution developers make their "
+"distributions qualify."
 msgstr ""
 "Ces recommandations ont pour but d'expliquer les critères que doivent "
-"remplir les distributions systèmes installables (par exemple les "
-"distributions GNU/Linux) pour être qualifiées de <a href=\"/philosophy/free-"
-"sw.html\">libres</a>, et d'aider leurs développeurs à les rendre conformes à "
-"ces critères."
+"remplir les distributions systèmes installables (par exemple une <a href=\"/"
+"gnu/linux-and-gnu.html\">distribution GNU/Linux</a>) pour être qualifiées de "
+"<a href=\"/philosophy/free-sw.html\">libres</a>, et d'aider leurs "
+"développeurs à les rendre conformes à ces critères."
 
 #. type: Content of: <p>
 msgid ""
@@ -181,6 +182,16 @@ msgstr ""
 "contiennent aujourd'hui que des logiciels libres, cela peut changer demain. "
 "Les programmes du système ne doivent pas suggérer d'installer des greffons "
 "non libres, de la documentation non libre, etc."
+
+#. type: Content of: <p>
+msgid ""
+"For instance, a free system distribution must not contain browsers that "
+"implement EME, the browser functionality designed to load DRM modules."
+msgstr ""
+"Par exemple, une distribution système libre ne doit pas contenir de "
+"navigateur qui mette en œuvre la spécification <abbr title=\"Encrypted Media "
+"Extension\">EME</abbr> (extension pour médias chiffrés), fonctionnalité "
+"conçue pour charger des modules de gestion numérique des restrictions (DRM)."
 
 #. type: Content of: <p>
 msgid ""
@@ -718,8 +729,8 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014, 2015, 2017 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2015, 2017 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
