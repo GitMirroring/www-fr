@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gpl-2.0-translations.html\n"
-"POT-Creation-Date: 2017-08-26 07:56+0000\n"
-"PO-Revision-Date: 2017-06-08 20:44+0200\n"
+"POT-Creation-Date: 2017-10-27 09:26+0000\n"
+"PO-Revision-Date: 2017-10-27 20:48+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -238,13 +238,20 @@ msgstr ""
 "<code>[pt]</code> Traduction en <a href=\"http://www.neoscopio.com/"
 "licenca_GPL_pt.txt\">portugais</a> de la GPL"
 
+#.  RT #1249115 
 #. type: Content of: <ul><li>
 msgid ""
-"<code>[pt-br]</code> <a href=\"http://www.magnux.org/doc/GPL-pt_BR.txt"
-"\">Brazilian Portuguese</a> translation of the GPL"
+"<code>[pt-br]</code> Brazilian Portuguese translation of the GPL (<a href="
+"\"http://licencas.softwarelivre.org/gpl-2.0.pt-br.html\">HTML</a>, <a href="
+"\"http://licencas.softwarelivre.org/gpl-2.0.pt-br.md\">Markdown</a> <a href="
+"\"http://licencas.softwarelivre.org/gpl-2.0.pt-br.pdf\">PDF</a>, <a href="
+"\"http://licencas.softwarelivre.org/gpl-2.0.pt-br.odt\">ODT</a>)"
 msgstr ""
-"<code>[pt-br]</code> Traduction en <a href=\"http://www.magnux.org/doc/GPL-"
-"pt_BR.txt\">portugais brésilien</a> de la GPL"
+"<code>[pt-br]</code> Traduction en portugais brésilien de la GPL (<a href="
+"\"http://licencas.softwarelivre.org/gpl-2.0.pt-br.html\">HTML</a>, <a href="
+"\"http://licencas.softwarelivre.org/gpl-2.0.pt-br.md\">Markdown</a> <a href="
+"\"http://licencas.softwarelivre.org/gpl-2.0.pt-br.pdf\">PDF</a>, <a href="
+"\"http://licencas.softwarelivre.org/gpl-2.0.pt-br.odt\">ODT</a>)"
 
 #.  RT #1198511 
 #. type: Content of: <ul><li>
@@ -364,3 +371,10 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+#~ msgid ""
+#~ "<code>[pt-br]</code> <a href=\"http://www.magnux.org/doc/GPL-pt_BR.txt"
+#~ "\">Brazilian Portuguese</a> translation of the GPL"
+#~ msgstr ""
+#~ "<code>[pt-br]</code> Traduction en <a href=\"http://www.magnux.org/doc/"
+#~ "GPL-pt_BR.txt\">portugais brésilien</a> de la GPL"
