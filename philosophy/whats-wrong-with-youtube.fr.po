@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: whats-wrong-with-youtube.html\n"
-"POT-Creation-Date: 2017-09-14 15:56+0000\n"
-"PO-Revision-Date: 2017-09-14 18:23+0200\n"
+"POT-Creation-Date: 2017-11-09 19:26+0000\n"
+"PO-Revision-Date: 2017-11-10 23:30+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -88,6 +88,17 @@ msgstr ""
 "YouTube essaie d'empêcher les gens de télécharger des copies. Le code "
 "JavaScript non libre qui accompagne certaines vidéos ne permet pas au "
 "navigateur de les sauvegarder. C'est une forme de DRM."
+
+#. type: Content of: <ul><li>
+msgid ""
+"There is a free program, <a href=\"https://www.npmjs.com/package/ytdl"
+"\">ytdl</a>, which can download the video for some YouTube pages, but there "
+"is no complete free software solution for access in a browser."
+msgstr ""
+"Il existe un programme libre, <a href=\"https://www.npmjs.com/package/ytdl"
+"\">ytdl</a>, qui peut télécharger la vidéo de certaines pages de YouTube, "
+"mais il n'y a pas de solution libre complète pour y accéder dans un "
+"navigateur."
 
 #. type: Content of: <p>
 msgid ""
