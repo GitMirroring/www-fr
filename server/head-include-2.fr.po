@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: master.fr.po\n"
-"POT-Creation-Date: 2017-12-30 06:27+0000\n"
+"POT-Creation-Date: 2018-01-03 16:55+0000\n"
 "PO-Revision-Date: 2017-11-16 14:15+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -22,98 +22,3 @@ msgstr ""
 #. type: Attribute 'content' of: <meta>
 msgid "width=device-width, initial-scale=1"
 msgstr "width=device-width, initial-scale=1"
-
-#.  #translations
-#. {
-#.   border-bottom: .2em solid #123e3f;
-#. }
-#. #header
-#. {
-#.   clear: both;
-#.   background: linear-gradient(#deeefc, white);
-#. }
-#. #fsf-frame
-#. {
-#.   margin: .3em 1em;
-#. } 
-#. #gnu-banner
-#. {
-#.   float: none;
-#.   padding-bottom: .5em;
-#. }
-#. div#fundraiser
-#. {
-#.   direction: ltr;
-#.   background-color: #123e3f;
-#. }
-#. #fundraiser p
-#. {
-#.   font-size: 1.1em;
-#.   padding: .2em 0 .6em;
-#.   margin: 0 3%;
-#.   color: white;
-#.   text-align: center;
-#. }
-#. #fundraiser p.contribute
-#. {
-#.   line-height: 1.5em;
-#.   text-align: center;
-#.   padding: 0 0 .5em;
-#. }
-#. #fundraiser a
-#. {
-#.   border-radius: 1em;
-#.   -moz-border-radius: 1em;
-#.   -khtml-border-radius: 1em;
-#.   -webkit-border-radius: 1em;
-#.   -opera-border-radius: 1em;
-#.   color: white;
-#.   padding: 0 .5em 0 .5em;
-#.   display: inline-block;
-#.   margin: .3em .5em;
-#.   text-decoration: none;
-#. }
-#. #fundraiser .donate
-#. {
-#.   background-color: #1abc9c;
-#. }
-#. #fundraiser .join
-#. {
-#.   background-color: #3498db;
-#. }
-#. #fundraiser b
-#. {
-#.   color: yellow;
-#. }
-#. .progress
-#. {
-#.   width: 100%;
-#.   height: 1.2em;
-#.   line-height: 1.2em;
-#.   text-align: right;
-#.   background: #36a9aa;
-#.   color: black;
-#.   font-weight: bold;
-#. }
-#. .progress-bar
-#. {
-#.   line-height: 1.2em;
-#.   margin: 0;
-#.   min-width: 4em;
-#.   background: #feb916;
-#.   text-align: right;
-#. } 
-#. type: Content of: <style>
-#, no-wrap
-msgid ""
-"\n"
-"#fundraiser .donate, #fundraiser .join\n"
-"{\n"
-"  width: 4em;\n"
-"}\n"
-msgstr ""
-"\n"
-"#fundraiser .donate, #fundraiser .join\n"
-"{\n"
-"  width: 6em;\n"
-"}\n"

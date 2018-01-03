@@ -1,14 +1,14 @@
 # French translation of http://www.gnu.org/philosophy/proprietary-surveillance.html
 # Copyright (C) 2013 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Thérèse Godefroy <godef.th AT free.fr>, 2013-2017.
+# Thérèse Godefroy <godef.th AT free.fr>, 2013-2018.
 # Félicien Pillot <felicien AT gnu.org>, 2017.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-surveillance.html\n"
-"POT-Creation-Date: 2017-12-19 03:26+0000\n"
-"PO-Revision-Date: 2017-12-19 19:48+0100\n"
+"POT-Creation-Date: 2018-01-03 17:56+0000\n"
+"PO-Revision-Date: 2018-01-03 19:11+0100\n"
 "Last-Translator: Félicien Pillot <felicien AT gnu.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -2736,6 +2736,17 @@ msgstr ""
 
 #. type: Content of: <ul><li><p>
 msgid ""
+"Some JavaScript malware <a href=\"https://www.theverge."
+"com/2017/12/30/16829804/browser-password-manager-adthink-princeton-research"
+"\"> swipes usernames from browser-based password managers</a>."
+msgstr ""
+"Certains logiciels JavaScript malveillants raflent <a href=\"https://www."
+"theverge.com/2017/12/30/16829804/browser-password-manager-adthink-princeton-"
+"research\">les identifiants provenant des gestionnaires de mots de passe</a> "
+"associés aux navigateurs."
+
+#. type: Content of: <ul><li><p>
+msgid ""
 "Some websites send JavaScript code to collect all the user's input, <a href="
 "\"https://freedom-to-tinker.com/2017/11/15/no-boundaries-exfiltration-of-"
 "personal-data-by-session-replay-scripts/\">which can then be used to "
@@ -2747,19 +2758,25 @@ msgstr ""
 "qui permet de reproduire l'ensemble de la session</a>."
 
 #. type: Content of: <ul><li><p>
-msgid "If you use LibreJS, it will block that malicious Javascript code."
+msgid "If you use LibreJS, it will block that malicious JavaScript code."
 msgstr "Si vous utilisez LibreJS, il bloquera ce code JavaScript malveillant."
 
 #. type: Content of: <ul><li><p>
 msgid ""
 "Many web sites use JavaScript code <a href=\"http://gizmodo.com/before-you-"
-"hit-submit-this-company-has-already-logge-1795906081\">to snoop on "
-"information that users have typed into a form but not sent</a>."
+"hit-submit-this-company-has-already-logge-1795906081\"> to snoop on "
+"information that users have typed into a form but not sent</a>, in order to "
+"learn their identity. Some are <a href=\"https://www.manatt.com/Insights/"
+"Newsletters/Advertising-Law/Sites-Illegally-Tracked-Consumers-New-Suits-"
+"Allege\"> getting sued</a> for this."
 msgstr ""
 "De nombreux sites web utilisent du code JavaScript <a href=\"http://gizmodo."
 "com/before-you-hit-submit-this-company-has-already-logge-1795906081\">pour "
 "récupérer l'information que les utilisateurs ont saisie dans un formulaire "
-"mais n'ont pas envoyée</a>."
+"mais n'ont pas envoyée</a>, et ainsi découvrir leur identité. Certains ont "
+"été <a href=\"https://www.manatt.com/Insights/Newsletters/Advertising-Law/"
+"Sites-Illegally-Tracked-Consumers-New-Suits-Allege\">poursuivis</a> pour "
+"cela."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -3109,8 +3126,8 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015, 2016, 2017 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2015, 2016, 2017 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
