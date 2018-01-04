@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: google-engineering-talk.html\n"
-"POT-Creation-Date: 2016-05-04 09:58+0000\n"
-"PO-Revision-Date: 2016-05-04 14:34+0200\n"
+"POT-Creation-Date: 2018-01-04 13:26+0000\n"
+"PO-Revision-Date: 2018-01-04 14:44+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -3298,10 +3298,10 @@ msgid ""
 "covering LZW compression, which is used in GIF format.  And someone has a "
 "patent he claims covers JPEG format and is actually suing a bunch of "
 "companies. And then there's a patent on MP3 audio, so that the free software "
-"MP3 encoders have been driven underground in the US. That's why people "
-"should switch to Ogg Vorbis format. And then, if you look at, say, MPEG-2 "
-"video, there are 39 different US patents said to cover aspects of MPEG-2. So "
-"there are a lot of such problems."
+"MP3 encoders have been driven underground in the US [<a href=\"#ft1\">1</"
+"a>]. That's why people should switch to Ogg Vorbis format. And then, if you "
+"look at, say, MPEG-2 video, there are 39 different US patents said to cover "
+"aspects of MPEG-2. So there are a lot of such problems."
 msgstr ""
 "<b>RICHARD :</b> Eh bien, parmi les formats de fichiers populaires, les "
 "seuls dont je sais qu'ils sont secrets sont certains formats de Microsoft. "
@@ -3310,10 +3310,11 @@ msgstr ""
 "format GIF. Et quelqu'un a un brevet qui, d'après lui, couvre le format "
 "JPEG ; il est effectivement en train de poursuivre plusieurs sociétés. Et "
 "puis il y a un brevet sur l'audio MP3, de sorte que les encodeurs MP3 libres "
-"ont été poussés dans la clandestinité aux États-Unis ; c'est pourquoi les "
-"gens devraient passer au format Ogg Vorbis. Et si l'on regarde, disons, la "
-"vidéo MPEG-2, il y a 39 brevets américains qui sont censées couvrir ses "
-"particularités. Donc il y a beaucoup de problèmes de ce type."
+"ont été poussés dans la clandestinité aux États-Unis [<a href=\"#ft1\">1</"
+"a>] ; c'est pourquoi les gens devraient passer au format Ogg Vorbis. Et si "
+"l'on regarde, disons, la vidéo MPEG-2, il y a 39 brevets américains qui sont "
+"censées couvrir ses particularités. Donc il y a beaucoup de problèmes de ce "
+"type."
 
 #. type: Content of: <h3>
 msgid "28. Games as free software"
@@ -3966,6 +3967,14 @@ msgstr ""
 "Alors, merci, et si quelqu'un veut acheter un de ces trucs de la FSF "
 "ou&hellip;"
 
+#. type: Content of: <h4>
+msgid "Footnote"
+msgstr "Note"
+
+#. type: Content of: <ol><li>
+msgid "All the patents on MP3 will have expired by 2018."
+msgstr "Tous les brevets sur le format MP3 auront expiré en 2018."
+
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
@@ -4074,8 +4083,8 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2004, 2010, 2015, 2016 Richard Stallman"
-msgstr "Copyright &copy; 2004, 2010, 2015, 2016 Richard Stallman"
+msgid "Copyright &copy; 2004, 2010, 2015, 2016, 2018 Richard Stallman"
+msgstr "Copyright &copy; 2004, 2010, 2015, 2016, 2018 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
