@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: for-windows.html\n"
-"POT-Creation-Date: 2018-01-01 06:00+0000\n"
-"PO-Revision-Date: 2018-01-01 17:57+0100\n"
+"POT-Creation-Date: 2018-01-11 12:56+0000\n"
+"PO-Revision-Date: 2018-01-11 14:53+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -38,8 +38,8 @@ msgstr ""
 "installant ces logiciels."
 
 #. type: Content of: <div><a>
-msgid "<a href=\"http://www.upgradefromwindows8.com\">"
-msgstr "<a href=\"http://www.upgradefromwindows8.com\">"
+msgid "<a href=\"http://upgradefromwindows.com\">"
+msgstr "<a href=\"http://upgradefromwindows.com\">"
 
 #. type: Attribute 'alt' of: <div><a><img>
 msgid "Close Windows, Open Doors"
@@ -202,6 +202,10 @@ msgid "Firefox<a href=\"#f2\"><sup>2</sup></a>, Chrome, Internet Explorer"
 msgstr "Firefox<a href=\"#f2\"><sup>2</sup></a>, Chrome, Internet Explorer"
 
 #. type: Content of: <table><tbody><tr><td>
+msgid "<a href=\"#Iridium\">Iridium</a>"
+msgstr "<a href=\"#Iridium\">Iridium</a>"
+
+#. type: Content of: <table><tbody><tr><td>
 msgid "<a href=\"#QupZilla\">QupZilla</a>"
 msgstr "<a href=\"#QupZilla\">QupZilla</a>"
 
@@ -232,14 +236,6 @@ msgstr "Windows USB/DVD Download Tool, WinToFlash, Windows USB Installer Maker"
 #. type: Content of: <table><tbody><tr><td>
 msgid "<a href=\"#UNetbootin\">UNetbootin</a>"
 msgstr "<a href=\"#UNetbootin\">UNetbootin</a>"
-
-#. type: Content of: <table><tbody><tr><td>
-msgid ""
-"Disk Utility (Mac OS X), Windows USB/DVD Download Tool, WinToFlash, Windows "
-"USB Installer Maker"
-msgstr ""
-"Disk Utility (Mac OS X), Windows USB/DVD Download Tool, WinToFlash, Windows "
-"USB Installer Maker"
 
 #. type: Content of: <table><tbody><tr><td>
 msgid "Multimedia"
@@ -321,7 +317,7 @@ msgid ""
 "serves to limit Freedom 2 to gratis distribution only, making the software "
 "nonfree."
 msgstr ""
-"Pourquoi ne pas recommander Firefox ? Comme nous l'avons expliqué dans notre "
+"Pourquoi ne pas recommander Firefox ? Comme nous l'avons expliqué dans notre "
 "<a href=\"/philosophy/free-sw.html\">définition du logiciel libre</a>, les "
 "quatre libertés doivent être assurées autant d'un point de vue commercial "
 "que non commercial. Les spécificités de la politique de Mozilla restreignent "
@@ -446,6 +442,25 @@ msgstr ""
 "entièrement libre, qui ne recommande aucun module ni aucune extension non "
 "libre. Des dispositifs de protection de la vie privée en font partie "
 "intégrante."
+
+#. type: Content of: <dl><dt>
+msgid "<a href=\"https://directory.fsf.org/wiki/Iridium\">Iridium</a>"
+msgstr "<a href=\"https://directory.fsf.org/wiki/Iridium\">Iridium</a>"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"Iridium is a free/libre Chromium-based web browser, with privacy "
+"enhancements in several key areas. Automatic transmission of partial "
+"queries, keywords and metrics to central services is inhibited and only "
+"occurs with consent. In addition, all the builds are reproducible, and "
+"modifications are auditable."
+msgstr ""
+"Iridium est un navigateur web libre basé sur Chromium, dans lequel le "
+"respect de la vie privée est amélioré sur plusieurs points critiques. La "
+"transmission automatique des requêtes, des mots-clés et des paramètres aux "
+"services centraux est inhibée et n'intervient que sur consentement. De plus, "
+"toutes les constructions binaires obtenues à partir du code source sont "
+"reproductibles et les modifications peuvent être auditées."
 
 #. type: Content of: <dl><dt>
 msgid "<a href=\"http://www.claws-mail.org/\">Claws Mail</a>"
@@ -598,12 +613,10 @@ msgstr "<a href=\"https://unetbootin.github.io/\">UNetbootin</a>"
 msgid ""
 "Similar to Rufus, UNetbootin is a program that allows you to create bootable "
 "USB flash drives by burning an ISO (operating system image)  onto a USB "
-"stick. UNetbootin is cross-platform, meaning you can use it on all major "
-"platforms (Windows, GNU/Linux, Mac OS X)."
+"stick. UNetbootin is cross-platform."
 msgstr ""
 "Comme Rufus, UNetbootin permet de créer des clés USB amorçables en gravant "
-"une ISO (image de système d'exploitation). UNetbootin est multiplateforme, "
-"ce qui veut dire qu'on peut l'utiliser sur Windows, GNU/Linux et MacOS X."
+"une ISO (image de système d'exploitation). UNetbootin est multiplateforme."
 
 #. type: Content of: <dl><dt>
 msgid "<a href=\"http://directory.fsf.org/blender.html\">Blender 3D</a>"
