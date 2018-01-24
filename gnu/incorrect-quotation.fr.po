@@ -1,0 +1,204 @@
+# French translation of https://www.gnu.org/gnu/incorrect-quotation.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Thérèse Godefroy <godef.th AT free.fr>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: incorrect-quotation.html\n"
+"POT-Creation-Date: 2018-01-10 15:56+0000\n"
+"PO-Revision-Date: 2018-01-24 15:31+0100\n"
+"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"Language-Team: French <trad-gnu@april.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Content of: <title>
+msgid "Incorrect Quotation - GNU Project - Free Software Foundation"
+msgstr "Citation erronée - Projet GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Incorrect Quotation"
+msgstr "Citation erronée"
+
+#. type: Content of: <p>
+msgid ""
+"A quotation circulates on the Internet, attributed to me, but it wasn't "
+"written by me."
+msgstr ""
+"Une citation qui m'est attribuée circule sur Internet, mais elle n'a pas été "
+"écrite par moi."
+
+#. type: Content of: <p>
+msgid ""
+"Here's the text that is circulating.  Most of it was copied from statements "
+"I have made, but the part italicized here is not from me.  It makes points "
+"that are mistaken or confused."
+msgstr ""
+"Voici le texte en question. Pour l'essentiel, c'est une copie de "
+"déclarations que j'ai faites, mais les parties que j'ai mises en italique ne "
+"sont pas de moi. Ce texte énonce des arguments inexacts ou confus."
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"I'd just like to interject for a moment.  What you're referring to as Linux, "
+"is in fact, GNU/Linux, or as I've recently taken to calling it, GNU plus "
+"Linux.  Linux is not an operating system <em>unto itself</em>, but rather "
+"<em>another free component of a fully functioning GNU system made useful by "
+"the GNU corelibs, shell utilities and vital system components comprising a "
+"full OS as defined by POSIX.</em> Many computer users run a modified version "
+"of the GNU system every day, without realizing it.  Through a peculiar turn "
+"of events, the version of GNU which is widely used today is often called "
+"&ldquo;Linux,&rdquo; and many of its users are not aware that it is "
+"basically the GNU system, developed by the GNU Project.  There really is a "
+"Linux, and these people are using it, but it is just a part of the system "
+"they use."
+msgstr ""
+"Je voudrais seulement prendre un moment pour intervenir. Ce à quoi vous vous "
+"référez sous le nom de Linux est en fait GNU/Linux, ou comme j'ai récemment "
+"commencé à l'appeler, GNU plus Linux. Linux n'est pas un système "
+"d'exploitation <em>en soi</em> mais plutôt <em>l'un des composants libres "
+"d'un système GNU complètement fonctionnel, rendu utilisable par les "
+"<cite>corelibs</cite> de GNU, les utilitaire du <cite>Shell</cite> et les "
+"composants systèmes vitaux qui constituent un système d'exploitation complet "
+"tel défini par POSIX.</em>. Beaucoup d'utilisateurs de l'informatique "
+"utilisent une version modifiée du système GNU tous les jours sans même s'en "
+"rendre compte. À la suite d'une tournure particulière des événements, la "
+"version de GNU qui est largement utilisée aujourd'hui est souvent appelée "
+"« Linux » et beaucoup de ses utilisateurs ne savent pas qu'il s'agit "
+"essentiellement du système GNU, développé par le projet GNU. Il existe bien "
+"un Linux, et ces personnes l'utilisent, mais c'est juste une partie du "
+"système qu'ils utilisent."
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"Linux is the kernel: the program in the system that allocates the machine's "
+"resources to the other programs that you run.  The kernel is an essential "
+"part of an operating system, but useless by itself; it can only function in "
+"the context of a complete operating system.  Linux is normally used in "
+"combination with the GNU operating system: the whole system is basically GNU "
+"with Linux added, or GNU/Linux.  All the so-called &ldquo;Linux&rdquo; "
+"distributions are really distributions of GNU/Linux."
+msgstr ""
+"Linux est le noyau, c'est-à-dire le programme du système qui alloue les "
+"ressources de la machine aux autres programmes qu'on exécute. Le noyau est "
+"une partie essentielle du système d'exploitation, mais seul il est inutile ; "
+"il ne peut fonctionner que dans le contexte d'un système d'exploitation "
+"complet. Linux est normalement utilisé en combinaison avec le système "
+"d'exploitation GNU : le système complet est essentiellement GNU auquel on a "
+"ajouté Linux, ou GNU/Linux. Toutes les distributions appelées « Linux » sont "
+"en réalité des distributions de GNU/Linux."
+
+#. type: Content of: <p>
+msgid ""
+"The main error is that Linux is <em>not</em> strictly speaking part of the "
+"GNU system&mdash;whose kernel is GNU Hurd.  The version with Linux, we call "
+"&ldquo;GNU/Linux.&rdquo; It is OK to call it &ldquo;GNU&rdquo; when you want "
+"to be really short, but it is better to call it &ldquo;GNU/Linux&rdquo; so "
+"as to give Torvalds some credit."
+msgstr ""
+"L'erreur principale est que Linux n'est <em>pas</em> à proprement parler une "
+"partie du système GNU – dont le noyau est GNU Hurd. La version où il est "
+"associé à Linux, nous l'appelons « GNU/Linux » ; c'est correct de l'appeler "
+"« GNU » quand vous voulez faire très court, mais c'est mieux de l'appeler "
+"&ldquo;GNU/Linux&rdquo; pour reconnaître la contribution de Torvalds  "
+
+#. type: Content of: <p>
+msgid ""
+"We don't use the term &ldquo;corelibs,&rdquo; and I am not sure what that "
+"would mean, but GNU is much more than the specific packages we developed for "
+"it.  I set out in 1983 to develop an operating system, calling it GNU, and "
+"that job required developing whichever important packages we could not find "
+"elsewhere."
+msgstr ""
+"Nous n'utilisons pas le terme « corelibs » et je ne suis pas certain de ce "
+"qu'il pourrait signifier, mais GNU est bien plus que les logiciels "
+"particuliers que nous avons développés pour lui. J'ai entrepris en 1983 de "
+"développer un système d'exploitation que j'ai appelé GNU, et cette tâche "
+"nécessitait de développer les logiciels importants que nous ne pouvions "
+"trouver ailleurs, quels qu'ils soient."
+
+#. type: Content of: <p>
+msgid ""
+"See <a href=\"/gnu/linux-and-gnu.html\">Linux and GNU</a> and <a href=\"/gnu/"
+"gnu-linux-faq.html\">GNU/Linux FAQ</a>, plus the history in <a href=\"/gnu/"
+"thegnuproject.html\">The GNU Project</a>."
+msgstr ""
+"Voir <a href=\"/gnu/linux-and-gnu.html\">Linux et GNU</a> et la <a href=\"/"
+"gnu/gnu-linux-faq.html\">FAQ GNU/Linux</a>, ainsi que le déroulé de "
+"l'histoire dans <a href=\"/gnu/thegnuproject.html\">Le Projet GNU</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Veuillez envoyer les requêtes concernant la FSF et GNU à <a href=\"mailto:"
+"gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>. Il existe aussi <a href=\"/contact/"
+"\">d'autres moyens de contacter</a> la FSF. Les liens orphelins et autres "
+"corrections ou suggestions peuvent être signalés à <a href=\"mailto:"
+"webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Nous faisons le maximum pour proposer des traductions fidèles et de bonne "
+"qualité, mais nous ne sommes pas parfaits. Merci d'adresser vos commentaires "
+"sur cette page, ainsi que vos suggestions d'ordre général sur les "
+"traductions, à <a href=\"mailto:web-translators@gnu.org\"> &lt;web-"
+"translators@gnu.org&gt;</a>.</p>\n"
+"<p>Pour tout renseignement sur la coordination et la soumission des "
+"traductions de nos pages web, reportez-vous au <a href=\"/server/standards/"
+"README.translations.html\">guide de traduction</a>."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2018 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2018 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Cette page peut être utilisée suivant les conditions de la licence <a rel="
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduction : Thérèse Godefroy<br />\n"
+"Révision : <a href=\"mailto:trad-gnu&#64;april.org\">trad-gnu&#64;april.org</"
+"a>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Dernière mise à jour :"
