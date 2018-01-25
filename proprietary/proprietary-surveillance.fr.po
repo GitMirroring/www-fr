@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-surveillance.html\n"
-"POT-Creation-Date: 2018-01-17 13:56+0000\n"
-"PO-Revision-Date: 2018-01-17 16:51+0100\n"
+"POT-Creation-Date: 2018-01-25 18:26+0000\n"
+"PO-Revision-Date: 2018-01-25 20:39+0100\n"
 "Last-Translator: Félicien Pillot <felicien AT gnu.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -185,8 +185,8 @@ msgid "<a href=\"#SpywareInChrome\">Spyware in Chrome</a>"
 msgstr "<a href=\"#SpywareInChrome\">Chrome</a>"
 
 #. type: Content of: <div><div><ul><li><ul><li>
-msgid "<a href=\"#SpywareInFlash\">Spyware in Flash</a>"
-msgstr "<a href=\"#SpywareInFlash\">Flash</a>"
+msgid "<a href=\"#SpywareInFlash\">Spyware in JavaScript and Flash</a>"
+msgstr "<a href=\"#SpywareInFlash\">JavaScript et Flash</a>"
 
 #. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#SpywareInDrones\">Spyware in Drones</a>"
@@ -2808,50 +2808,6 @@ msgstr ""
 
 #. type: Content of: <ul><li><p>
 msgid ""
-"Some JavaScript malware <a href=\"https://www.theverge."
-"com/2017/12/30/16829804/browser-password-manager-adthink-princeton-research"
-"\"> swipes usernames from browser-based password managers</a>."
-msgstr ""
-"Certains logiciels JavaScript malveillants raflent <a href=\"https://www."
-"theverge.com/2017/12/30/16829804/browser-password-manager-adthink-princeton-"
-"research\">les identifiants provenant des gestionnaires de mots de passe</a> "
-"associés aux navigateurs."
-
-#. type: Content of: <ul><li><p>
-msgid ""
-"Some websites send JavaScript code to collect all the user's input, <a href="
-"\"https://freedom-to-tinker.com/2017/11/15/no-boundaries-exfiltration-of-"
-"personal-data-by-session-replay-scripts/\">which can then be used to "
-"reproduce the whole session</a>."
-msgstr ""
-"Certains sites envoient du code JavaScript pour collecter tout ce qui est "
-"saisi par l'utilisateur, <a href=\"https://freedom-to-tinker.com/2017/11/15/"
-"no-boundaries-exfiltration-of-personal-data-by-session-replay-scripts/\">ce "
-"qui permet de reproduire l'ensemble de la session</a>."
-
-#. type: Content of: <ul><li><p>
-msgid "If you use LibreJS, it will block that malicious JavaScript code."
-msgstr "Si vous utilisez LibreJS, il bloquera ce code JavaScript malveillant."
-
-#. type: Content of: <ul><li><p>
-msgid ""
-"Many web sites use JavaScript code <a href=\"http://gizmodo.com/before-you-"
-"hit-submit-this-company-has-already-logge-1795906081\"> to snoop on "
-"information that users have typed into a form but not sent</a>, in order to "
-"learn their identity. Some are <a href=\"https://www.manatt.com/Insights/"
-"Newsletters/Advertising-Law/Sites-Illegally-Tracked-Consumers-New-Suits-"
-"Allege\"> getting sued</a> for this."
-msgstr ""
-"De nombreux sites web utilisent du code JavaScript <a href=\"http://gizmodo."
-"com/before-you-hit-submit-this-company-has-already-logge-1795906081\">pour "
-"récupérer l'information que les utilisateurs ont saisie dans un formulaire "
-"mais n'ont pas envoyée</a>, et ainsi découvrir leur identité. Certains ont "
-"été <a href=\"https://www.manatt.com/Insights/Newsletters/Advertising-Law/"
-"Sites-Illegally-Tracked-Consumers-New-Suits-Allege\">poursuivis</a> pour "
-"cela."
-
-#. type: Content of: <ul><li><p>
-msgid ""
 "When a page uses Disqus for comments, <a href=\"https://blog.dantup."
 "com/2017/01/visiting-a-site-that-uses-disqus-comments-when-not-logged-in-"
 "sends-the-url-to-facebook\">the proprietary Disqus software loads a Facebook "
@@ -2955,6 +2911,84 @@ msgstr ""
 "d'examiner directement les données des utilisateurs</a>."
 
 #. type: Content of: <div><h4>
+msgid "Spyware in JavaScript and Flash"
+msgstr "JavaScript et Flash"
+
+#. type: Content of: <div>
+msgid ""
+"<span class=\"anchor-reference-id\">(<a href=\"#SpywareInFlash"
+"\">#SpywareInFlash</a>)</span>"
+msgstr ""
+"<span class=\"anchor-reference-id\">(<a href=\"#SpywareInFlash"
+"\">#SpywareInFlash</a>)</span>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Some JavaScript malware <a href=\"https://www.theverge."
+"com/2017/12/30/16829804/browser-password-manager-adthink-princeton-research"
+"\"> swipes usernames from browser-based password managers</a>."
+msgstr ""
+"Certains logiciels JavaScript malveillants raflent <a href=\"https://www."
+"theverge.com/2017/12/30/16829804/browser-password-manager-adthink-princeton-"
+"research\">les identifiants provenant des gestionnaires de mots de passe</a> "
+"associés aux navigateurs."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Some websites send JavaScript code to collect all the user's input, <a href="
+"\"https://freedom-to-tinker.com/2017/11/15/no-boundaries-exfiltration-of-"
+"personal-data-by-session-replay-scripts/\">which can then be used to "
+"reproduce the whole session</a>."
+msgstr ""
+"Certains sites envoient du code JavaScript pour collecter tout ce qui est "
+"saisi par l'utilisateur, <a href=\"https://freedom-to-tinker.com/2017/11/15/"
+"no-boundaries-exfiltration-of-personal-data-by-session-replay-scripts/\">ce "
+"qui permet de reproduire l'ensemble de la session</a>."
+
+#. type: Content of: <ul><li><p>
+msgid "If you use LibreJS, it will block that malicious JavaScript code."
+msgstr "Si vous utilisez LibreJS, il bloquera ce code JavaScript malveillant."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Many web sites use JavaScript code <a href=\"http://gizmodo.com/before-you-"
+"hit-submit-this-company-has-already-logge-1795906081\"> to snoop on "
+"information that users have typed into a form but not sent</a>, in order to "
+"learn their identity. Some are <a href=\"https://www.manatt.com/Insights/"
+"Newsletters/Advertising-Law/Sites-Illegally-Tracked-Consumers-New-Suits-"
+"Allege\"> getting sued</a> for this."
+msgstr ""
+"De nombreux sites web utilisent du code JavaScript <a href=\"http://gizmodo."
+"com/before-you-hit-submit-this-company-has-already-logge-1795906081\">pour "
+"récupérer l'information que les utilisateurs ont saisie dans un formulaire "
+"mais n'ont pas envoyée</a>, et ainsi découvrir leur identité. Certains ont "
+"été <a href=\"https://www.manatt.com/Insights/Newsletters/Advertising-Law/"
+"Sites-Illegally-Tracked-Consumers-New-Suits-Allege\">poursuivis</a> pour "
+"cela."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Flash Player's <a href=\"http://www.imasuper.com/66/technology/flash-cookies-"
+"the-silent-privacy-killer/\"> cookie feature helps web sites track visitors</"
+"a>."
+msgstr ""
+"<a href=\"http://www.imasuper.com/66/technology/flash-cookies-the-silent-"
+"privacy-killer/\">Un cookie du lecteur Flash aide les sites web à suivre "
+"les  visiteurs à la trace</a>)."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Flash and JavaScript are also used for <a href=\"http://arstechnica.com/"
+"security/2013/10/top-sites-and-maybe-the-nsa-track-users-with-device-"
+"fingerprinting/\"> &ldquo;fingerprinting&rdquo; devices</a> to identify "
+"users."
+msgstr ""
+"Flash et JavaScript sont est aussi employés dans <a href=\"http://"
+"arstechnica.com/security/2013/10/top-sites-and-maybe-the-nsa-track-users-"
+"with-device-fingerprinting/\">des dispositifs de « profilage » <cite>"
+"[fingerprinting]</cite></a> destinés à identifier les utilisateurs."
+
+#. type: Content of: <div><h4>
 msgid "Spyware in Chrome"
 msgstr "Chrome"
 
@@ -3009,47 +3043,6 @@ msgstr ""
 "labs.detectify.com/2015/07/28/how-i-disabled-your-chrome-security-extensions/"
 "\">espionner en détail la navigation de l'utilisateur</a>, et beaucoup ne "
 "s'en privent pas. "
-
-#. type: Content of: <div><h4>
-msgid "Spyware in Flash"
-msgstr "Flash"
-
-#. type: Content of: <div>
-msgid ""
-"<span class=\"anchor-reference-id\">(<a href=\"#SpywareInFlash"
-"\">#SpywareInFlash</a>)</span>"
-msgstr ""
-"<span class=\"anchor-reference-id\">(<a href=\"#SpywareInFlash"
-"\">#SpywareInFlash</a>)</span>"
-
-#. type: Content of: <ul><li><p>
-msgid ""
-"Flash Player's <a href=\"http://www.imasuper.com/66/technology/flash-cookies-"
-"the-silent-privacy-killer/\"> cookie feature helps web sites track visitors</"
-"a>."
-msgstr ""
-"<a href=\"http://www.imasuper.com/66/technology/flash-cookies-the-silent-"
-"privacy-killer/\">Un cookie du lecteur Flash aide les sites web à suivre "
-"les  visiteurs à la trace</a>)."
-
-#. type: Content of: <ul><li><p>
-msgid ""
-"Flash is also used for <a href=\"http://arstechnica.com/security/2013/10/top-"
-"sites-and-maybe-the-nsa-track-users-with-device-fingerprinting/\"> &ldquo;"
-"fingerprinting&rdquo; devices </a> to identify users."
-msgstr ""
-"Flash est aussi employé dans <a href=\"http://arstechnica.com/"
-"security/2013/10/top-sites-and-maybe-the-nsa-track-users-with-device-"
-"fingerprinting/\">des dispositifs de « profilage » <cite>[fingerprinting]</"
-"cite></a> destinés à identifier les utilisateurs."
-
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/philosophy/javascript-trap.html\">JavaScript code</a> is another "
-"method of &ldquo;fingerprinting&rdquo; devices."
-msgstr ""
-"Une autre méthode de profilage fait usage de <a href=\"/philosophy/"
-"javascript-trap.html\">code JavaScript</a>. "
 
 #. type: Content of: <div><h3>
 msgid "Spyware in Drones"
@@ -3223,3 +3216,10 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+#~ msgid ""
+#~ "<a href=\"/philosophy/javascript-trap.html\">JavaScript code</a> is "
+#~ "another method of &ldquo;fingerprinting&rdquo; devices."
+#~ msgstr ""
+#~ "Une autre méthode de profilage fait usage de <a href=\"/philosophy/"
+#~ "javascript-trap.html\">code JavaScript</a>. "
