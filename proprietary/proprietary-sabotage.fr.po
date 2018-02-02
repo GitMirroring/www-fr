@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-sabotage.html\n"
-"POT-Creation-Date: 2017-11-28 14:57+0000\n"
-"PO-Revision-Date: 2017-11-28 18:03+0100\n"
+"POT-Creation-Date: 2018-02-02 16:26+0000\n"
+"PO-Revision-Date: 2018-02-02 20:02+0100\n"
 "Last-Translator: Félicien Pillot <felicien AT gnu.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -57,6 +57,19 @@ msgid ""
 msgstr ""
 "Voici des exemples de logiciels privateurs qui ont des caractéristiques "
 "encore pires qu'une porte dérobée."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"MacOS High Sierra forcibly reformats SSD boot drives, and <a href=\"https://"
+"www.macworld.com/article/3230498/storage/apple-file-system-apfs-faq.html\"> "
+"changes the file system from HFS+ to APFS</a>, which cannot be accessed from "
+"GNU/Linux, Windows or even older versions of MacOS."
+msgstr ""
+"MacOS High Sierra reformate d'office les disques de démarrages SSD et <a "
+"href=\"https://www.macworld.com/article/3230498/storage/apple-file-system-"
+"apfs-faq.html\">remplace le système de fichiers HFS+ par APFS</a>, système "
+"auquel ni GNU/Linux, ni Windows, ni même les anciennes versions de MacOS ne "
+"peuvent accéder."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -757,8 +770,10 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2013, 2015, 2016, 2017 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2013, 2015, 2016, 2017 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2013, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2013, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
