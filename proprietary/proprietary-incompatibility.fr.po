@@ -1,0 +1,186 @@
+# French translation of https://www.gnu.org/proprietary/proprietary-incompatibility.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Thérèse Godefroy <godef.th AT free.fr>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: proprietary-incompatibility.html\n"
+"POT-Creation-Date: 2018-02-10 13:56+0000\n"
+"PO-Revision-Date: 2018-02-11 18:44+0100\n"
+"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"Language-Team: French <trad-gnu@april.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Content of: <title>
+msgid "Proprietary Incompatibility - GNU Project - Free Software Foundation"
+msgstr ""
+"Incompatibilité du logiciel privateur - GNU Project - Free Software "
+"Foundation"
+
+#. type: Content of: <h2>
+msgid "Proprietary Incompatibility"
+msgstr "Incompatibilité du logiciel privateur"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/proprietary/proprietary.html\">Other examples of proprietary "
+"malware</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary.html\">Autres exemples de malveillance "
+"dans le logiciel privateur</a>"
+
+#. type: Content of: <p>
+msgid ""
+"The &ldquo;incompatibility&rdquo; category includes the use of secret "
+"formats or protocols in proprietary software. This directly blocks or "
+"hinders users from switching to any alternative program&mdash;and, in "
+"particular, from switching to free software which can liberate the device "
+"the software runs on."
+msgstr ""
+"La catégorie « incompatibilité » comprend l'utilisation de formats ou de "
+"protocoles secrets par le logiciel privateur. Cela rend difficile ou "
+"impossible le passage à un programme concurrent – en particulier un "
+"programme libre, qui permettrait de libérer l'appareil sur lequel tourne le "
+"logiciel."
+
+#. type: Content of: <p>
+msgid ""
+"Apart from being deliberately anticompetitive, secret formats put users' "
+"digital data at risk. For instance, retrieval of old data will become very "
+"difficult if support for the proprietary software that can read it is "
+"discontinued."
+msgstr ""
+"Outre qu'ils sont délibérément anticoncurrentiels, les formats secrets "
+"mettent en danger les données numériques de l'utilisateur. Par exemple, la "
+"récupértion de données anciennes sera très difficile si le logiciel "
+"privateur qui peut les lire n'est plus pris en charge."
+
+#. type: Content of: <p>
+msgid ""
+"Another sort of incompatibility occurs when a system makes some important "
+"operation which would be necessary for migrating data to any other system so "
+"cumbersome or so slow that it isn't doable for more than a small amount of "
+"data."
+msgstr ""
+"Une autre sorte d'incompatibilité se manifeste lorqu'un système rend une "
+"opération importante, nécessaire pour faire migrer des données vers un autre "
+"système, si compliquée ou si lente qu'elle n'est pas faisable pour une "
+"quantité significative de données."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"iWork (office software that runs on MacOS, iOS and iCloud) uses secret "
+"formats and <a href=\"https://en.wikipedia.org/wiki/IWork\">provides no "
+"means of converting them to or from Open Document Formats</a>. iWork formats "
+"have changed several times since they were first introduced. This may have "
+"had the effect of thwarting <a href=\"https://github.com/obriensp/"
+"iWorkFileFormat\">reverse engineering efforts</a>, thus preventing free "
+"software from fully supporting them."
+msgstr ""
+"iWork (logiciel de bureautique qui tourne sur MacOS, iOS et iCloud) utilise "
+"des formats secrets et <a href=\"https://en.wikipedia.org/wiki/IWork\">ne "
+"fournit aucun moyen de les convertir en formats <abbr title=\"Open Document "
+"Format\">ODF</abbr>, ni de faire l'inverse</a>. Ceci a pu avoir pour effet "
+"de contrecarrer <a href=\"https://github.com/obriensp/iWorkFileFormat\">les "
+"efforts de rétroingénierie</a>, empêchant ainsi le logiciel libre de gérer "
+"complètement ces formats."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"iWork formats are considered <a href=\"https://wiki.harvard.edu/confluence/"
+"download/attachments/204385883/Format%20profile%20-%20Apple%20iWork%20Pages"
+"%20v04.docx?version=1&amp;modificationDate=1459873751000&amp;api=v2\"> unfit "
+"for document preservation</a>."
+msgstr ""
+"Les formats iWork sont considérés comme <a href=\"https://wiki.harvard.edu/"
+"confluence/download/attachments/204385883/Format%20profile%20-%20Apple"
+"%20iWork%20Pages%20v04.docx?version=1&amp;modificationDate=1459873751000&amp;"
+"api=v2\">impropres à la conservation des documents</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"In MacOS and iOS, the procedure for <a href=\"https://support.apple.com/"
+"guide/photos/export-photos-videos-and-slideshows-pht6e157c5f/mac\"> "
+"converting images from the Photos format</a> to a free format is so tedious "
+"and time-consuming that users just give up if they have a lot of them."
+msgstr ""
+"Dans MacOS et iOS, la <a href=\"https://support.apple.com/guide/photos/"
+"export-photos-videos-and-slideshows-pht6e157c5f/mac\">procédure de "
+"conversion d'images au format Photos</a> vers un format libre est si longue "
+"et si fastidieuse que les utilisateurs renoncent s'ils en ont beaucoup."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Veuillez envoyer les requêtes concernant la FSF et GNU à <a href=\"mailto:"
+"gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>. Il existe aussi <a href=\"/contact/"
+"\">d'autres moyens de contacter</a> la FSF. Les liens orphelins et autres "
+"corrections ou suggestions peuvent être signalés à <a href=\"mailto:"
+"webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Nous faisons le maximum pour proposer des traductions fidèles et de bonne "
+"qualité, mais nous ne sommes pas parfaits. Merci d'adresser vos commentaires "
+"sur cette page, ainsi que vos suggestions d'ordre général sur les "
+"traductions, à <a href=\"mailto:web-translators@gnu.org\"> &lt;web-"
+"translators@gnu.org&gt;</a>.</p>\n"
+"<p>Pour tout renseignement sur la coordination et la soumission des "
+"traductions de nos pages web, reportez-vous au <a href=\"/server/standards/"
+"README.translations.html\">guide de traduction</a>."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2018 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2018 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Cette page peut être utilisée suivant les conditions de la licence <a rel="
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduction et révision : <a href=\"mailto:trad-gnu&#64;april.org\">trad-"
+"gnu&#64;april.org</a>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Dernière mise à jour :"
