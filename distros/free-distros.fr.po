@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the original article.
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2009.
 # Denis Barbier <bouzim AT gmail.com>, 2011.
-# Thérèse Godefroy <godef.th AT free.fr>, 2011, 2012, 2013, 2014.
+# Thérèse Godefroy <godef.th AT free.fr>, 2011, 2012, 2013, 2014, 2018.
 # Sébastien Poher <sbphr @T volted.net>, 2014.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
-"POT-Creation-Date: 2017-12-21 17:56+0000\n"
-"PO-Revision-Date: 2017-12-21 19:09+0100\n"
+"POT-Creation-Date: 2018-04-14 13:56+0000\n"
+"PO-Revision-Date: 2018-04-14 15:46+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -31,63 +31,89 @@ msgstr ""
 msgid "Free GNU/Linux distributions"
 msgstr "Distributions GNU/Linux libres"
 
-#. type: Content of: <blockquote><p>
-msgid ""
-"<em><span class=\"highlight\">The <a href=\"http://www.fsf.org/\">Free "
-"Software Foundation</a> is not responsible for other web sites, or how up-to-"
-"date their information is.</span></em>"
+#. type: Content of: <div><h3>
+msgid "Table of Contents"
+msgstr "Table des matières"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#intro\">Introduction</a>"
+msgstr "<a href=\"#intro\">Introduction</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#for-pc\">GNU/Linux distros for PCs and workstations</a>"
 msgstr ""
-"<em><span class=\"highlight\">La <a href=\"http://www.fsf.org/\">Free "
-"Software Foundation</a> n'est pas responsable des autres sites web ni de "
-"l'actualisation de l'information qui s'y trouve.</span></em>"
+"<a href=\"#for-pc\">Distributions GNU/Linux pour PC et stations de travail</"
+"a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#small-distros\">Small GNU/Linux distros</a>"
+msgstr "<a href=\"#small-distros\">Distributions GNU/Linux légères</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#howto-get\">How to get free GNU/Linux distros</a>"
+msgstr ""
+"<a href=\"#howto-get\">Comment se procurer des distributions GNU/Linux</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#NewDistro\">See something we missed?</a>"
+msgstr "<a href=\"#NewDistro\">Vous voyez quelque chose qui manque ?</a>"
+
+#. type: Content of: <div><p>
+msgid ""
+"<em>The <a href=\"http://www.fsf.org/\">Free Software Foundation</a> is not "
+"responsible for other websites, or how up-to-date their information is.</em>"
+msgstr ""
+"<em>La <a href=\"http://www.fsf.org/\">Free Software Foundation</a> n'est "
+"pas responsable des autres sites web ni de l'actualisation de l'information "
+"qui s'y trouve.</em>"
+
+#. type: Content of: <h3>
+msgid "Introduction"
+msgstr "Introduction"
 
 #. type: Content of: <p>
 msgid ""
 "This page lists the <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> "
 "distributions that are entirely <a href=\"/philosophy/free-sw.html\">free</"
-"a> as in freedom.  All of the distributions that follow are installable to a "
-"computer's hard drive; most can be run live."
+"a> as in freedom.  <a href=\"/distros/free-non-gnu-distros.html\">Non-GNU-"
+"based free system distributions</a> are listed separately."
 msgstr ""
 "Cette page répertorie les distributions <a href=\"/gnu/linux-and-gnu.html"
 "\">GNU/Linux</a> qui sont entièrement <a href=\"/philosophy/free-sw.html"
-"\">libres</a> (comme dans liberté). Toutes les distributions énumérées ci-"
-"après sont installables sur le disque dur d'un ordinateur ; la plupart "
-"peuvent fonctionner en mode « live » (sans installation)."
+"\">libres</a> (comme dans liberté). Les distributions libres de <a href=\"/"
+"distros/free-non-gnu-distros.html\">systèmes non basés sur GNU</a> sont dans "
+"une liste séparée."
 
 #. type: Content of: <p>
 msgid ""
 "The Free Software Foundation recommends and endorses these GNU/Linux "
-"distros, although we do not try to judge or compare them based on any "
-"criterion other than freedom; therefore, we list them in alphabetical "
-"order.  We encourage you to read these brief descriptions and to consult "
-"their respective web sites and other information to choose the one best for "
-"you."
+"distros, although <strong>we do not try to judge or compare them based on "
+"any criterion other than freedom</strong>; therefore, we list them in "
+"alphabetical order."
 msgstr ""
 "La Free Software Foundation recommande et cautionne ces distributions GNU/"
-"Linux. Nous n'essayons pas de les juger ni de les comparer sur la base de "
-"critères autres que la liberté ; c'est pourquoi elles sont classées ici par "
-"ordre alphabétique. Nous vous encourageons à lire ces brèves descriptions et "
-"à consulter leurs sites web respectifs ainsi que les autres sources "
-"d'information, pour choisir celle qui vous convient le mieux."
+"Linux. <strong>Nous n'essayons pas de les juger ni de les comparer sur la "
+"base de critères autres que la liberté</strong> ; c'est pourquoi elles sont "
+"classées ici par ordre alphabétique."
 
 #. type: Content of: <p>
 msgid ""
 "These distros are ready-to-use full systems whose developers have made a "
 "commitment to follow the <a href=\"/distros/free-system-distribution-"
 "guidelines.html\">Guidelines for Free System Distributions</a>.  This means "
-"these distros will include, and propose, exclusively free software.  They "
-"will reject nonfree applications, nonfree programming platforms, nonfree "
-"drivers, nonfree firmware &ldquo;blobs&rdquo;, nonfree games, and any other "
-"nonfree software, as well as nonfree manuals or documentation."
+"they will include, and propose, exclusively free software.  They will reject "
+"nonfree applications, nonfree programming platforms, nonfree drivers, "
+"nonfree firmware &ldquo;blobs&rdquo;, nonfree games, and any other nonfree "
+"software, as well as nonfree manuals or documentation."
 msgstr ""
 "Ces distributions sont des systèmes complets, prêts à l'emploi, dont les "
 "développeurs se sont engagés à suivre les <a href=\"/distros/free-system-"
 "distribution-guidelines.html\">recommandations pour les distributions "
-"libres</a>. Cela veut dire que ces distributions n'incluront et ne "
-"proposeront que des logiciels libres. Elles rejetteront les applications non "
-"libres, les plateformes de programmation non libres, les pilotes non libres, "
-"les « blobs » de micrologiciel <cite>[firmware]</cite> non libres, les jeux "
-"non libres et tout autre logiciel non libre, ainsi que les manuels et la "
+"libres</a>. Cela veut dire qu'elles n'incluront et ne proposeront que des "
+"logiciels libres. Elles rejetteront les applications non libres, les "
+"plateformes de programmation non libres, les pilotes non libres, les "
+"« blobs » de micrologiciel <cite>[firmware]</cite> non libres, les jeux non "
+"libres et tout autre logiciel non libre, ainsi que les manuels et la "
 "documentation non libres."
 
 #. type: Content of: <p>
@@ -139,36 +165,36 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"<strong>All of the distributions that follow are installable to a computer's "
-"hard drive; most can be run live.  Not all hardware works in the free world; "
-"each distro's site should say which hardware it supports.</strong>"
+"Please note that not all hardware works in the free world; each distro's "
+"site should say which hardware it supports. We suggest that, after reading "
+"the short descriptions below, you consult these sites as well as other "
+"available information, to judge which distro is most convenient for you."
 msgstr ""
-"<strong>Les distributions suivantes sont toutes installables sur un disque "
-"dur d'ordinateur et la plupart peuvent être exécutées à partir d'un "
-"périphérique amovible. Les composants matériels ne fonctionnent pas tous "
-"dans le monde du libre ; le site de chaque distribution doit indiquer quels "
-"matériels elle gère.</strong>"
+"Veuillez noter que les composants matériels ne fonctionnent pas tous dans le "
+"monde du libre ; le site de chaque distribution doit indiquer quels "
+"matériels elle gère. Après avoir lu les brèves descriptions ci-dessous, nous "
+"vous invitons à consulter ces sites ainsi que les autres sources "
+"d'information pour décider laquelle vous convient le mieux."
+
+#. type: Content of: <h3>
+msgid "GNU/Linux distros for PCs and workstations"
+msgstr "Distributions GNU/Linux pour PC et stations de travail"
 
 #. type: Content of: <p>
 msgid ""
-"We endorse these distros only for freedom.  We do not try to judge or "
-"compare these distros based on any other criterion; therefore, we list them "
-"in alphabetical order.  We suggest you consult their respective web sites "
-"and other information to judge which one is most convenient for you."
+"The distributions that follow are installable to a computer's hard drive and/"
+"or can be run live."
 msgstr ""
-"Nous ne cautionnons ces distributions que du point de vue de la liberté. "
-"Nous n'essayons pas de les juger ni de les comparer sur la base d'autres "
-"critères ; c'est pourquoi elles sont classées ici par ordre alphabétique. "
-"Nous vous invitons à consulter leurs sites web respectifs ainsi que les "
-"autres sources d'information pour décider laquelle vous convient le mieux."
+"Les distributions suivantes sont installables sur un disque dur d'ordinateur "
+"ou peuvent être exécutées à partir d'un périphérique amovible."
 
 #. type: Content of: <table><thead><tr><th>
 msgid "Distribution"
 msgstr "Distribution"
 
 #. type: Content of: <table><thead><tr><th>
-msgid "Description"
-msgstr "Description"
+msgid "Brief Description"
+msgstr "Brèves description"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"http://www.blagblagblag.org/\">"
@@ -187,8 +213,8 @@ msgid "BLAG Linux and GNU, a GNU/Linux distribution based on Fedora."
 msgstr "BLAG Linux et GNU, une distribution GNU/Linux basée sur Fedora."
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"http://dragora.org\">"
-msgstr "<a href=\"http://dragora.org\">"
+msgid "<a href=\"https://dragora.org/\">"
+msgstr "<a href=\"https://dragora.org\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "Dragora GNU/Linux-Libre"
@@ -213,10 +239,13 @@ msgstr "Dynebolic"
 #. type: Content of: <table><tr><td>
 msgid ""
 "Dynebolic, a GNU/Linux distribution with special emphasis on audio and video "
-"editing."
+"editing. This is a &ldquo;static&rdquo; distro, normally run from a live CD. "
+"Since it will not receive security updates, it should be used offline."
 msgstr ""
 "Dynebolic, une distribution GNU/Linux qui met l'accent sur le montage audio "
-"et vidéo."
+"et vidéo. Il s'agit d'une distribution « statique », qu'on fait normalement "
+"tourner à partir d'un CD autonome <cite>[live CD]</cite>. Comme elle ne "
+"recevra pas de mises à jour de sécurité, elle doit être utilisée hors ligne."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"http://www.gnewsense.org/\">"
@@ -264,14 +293,19 @@ msgstr "Musix GNU+Linux"
 #. type: Content of: <table><tr><td>
 msgid ""
 "Musix, a GNU+Linux distribution based on Knoppix, with special emphasis on "
-"audio production."
+"audio production. This is a &ldquo;static&rdquo; distro, normally run from a "
+"live CD. Since it will not receive security updates, it should be used "
+"offline."
 msgstr ""
 "Musix, une distribution GNU/Linux basée sur Knoppix, qui met l'accent sur la "
-"production audio."
+"production audio. Il s'agit d'une distribution « statique », qu'on fait "
+"normalement tourner à partir d'un CD autonome <cite>[live CD]</cite>. Comme "
+"elle ne recevra pas de mises à jour de sécurité, elle doit être utilisée "
+"hors ligne."
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"http://www.parabola.nu/https/\">"
-msgstr "<a href=\"http://www.parabola.nu/https/\">"
+msgid "<a href=\"https://www.parabola.nu\">"
+msgstr "<a href=\"https://www.parabola.nu\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "Parabola GNU/Linux-libre"
@@ -302,8 +336,8 @@ msgstr ""
 "respect de la vie privée, la sécurité et la commodité."
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"http://trisquel.info/\">"
-msgstr "<a href=\"http://trisquel.info/\">"
+msgid "<a href=\"https://trisquel.info/\">"
+msgstr "<a href=\"https://trisquel.info/\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "Trisquel"
@@ -327,11 +361,15 @@ msgstr "Ututo"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"Ututo XS, a GNU/Linux distribution based on Gentoo.  It was the first fully "
-"free GNU/Linux system recognized by the GNU Project."
+"Ututo S, a GNU/Linux 100% free distribution.  It was the first fully free "
+"GNU/Linux system recognized by the GNU Project."
 msgstr ""
-"Ututo XS, une distribution GNU/Linux basée sur Gentoo. Ce fut le premier "
-"système GNU/Linux entièrement libre reconnu par le projet GNU."
+"Ututo S, une distribution GNU/Linux 100% libre. Ce fut le premier système "
+"GNU/Linux entièrement libre reconnu par le projet GNU."
+
+#. type: Content of: <h3>
+msgid "Small GNU/Linux distros"
+msgstr "Distributions GNU/Linux légères"
 
 #. type: Content of: <p>
 msgid ""
@@ -387,6 +425,10 @@ msgstr ""
 "configurer les paquets binaires au moment de la compilation ou au moment de "
 "l'exécution pour des appareils et des usages divers."
 
+#. type: Content of: <h3>
+msgid "How to get free GNU/Linux distros"
+msgstr "Comment se procurer des distributions GNU/Linux libres"
+
 #. type: Content of: <p>
 msgid ""
 "In addition to their own sites, many of these distributions are available "
@@ -404,29 +446,22 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"Non-GNU-based free system distributions are listed in <a href=\"/distros/"
-"free-non-gnu-distros.html\">a separate file</a>."
-msgstr ""
-"Les distributions libres de systèmes non basés sur GNU sont dans <a href=\"/"
-"distros/free-non-gnu-distros.html\">une liste séparée.</a>"
-
-#. type: Content of: <p>
-msgid ""
-"We list <a href=\"/links/companies.html\">companies that sell hardware "
-"preinstalled with a free GNU/Linux distribution</a> separately."
-msgstr ""
-"Nous référençons séparément les <a href=\"/links/companies.html\">sociétés "
-"qui vendent du matériel avec des distributions GNU/Linux libres "
-"préinstallées</a>."
-
-#. type: Content of: <p>
-msgid ""
 "<a href=\"/software/software.html\">Individual GNU packages</a> (most of "
 "which are included in the free distributions here)  are described separately."
 msgstr ""
 "<a href=\"/software/software.html\">Les paquets GNU individuels</a> (la "
 "plupart faisant partie des distributions libres présentées ici) sont "
 "disponibles séparément."
+
+#. type: Content of: <p>
+msgid ""
+"We list <a href=\"https://www.fsf.org/resources/hw/endorsement/respects-your-"
+"freedom\"> companies that sell hardware preinstalled with a free GNU/Linux "
+"distribution</a> separately."
+msgstr ""
+"Nous référençons séparément les <a href=\"/https://www.fsf.org/resources/hw/"
+"endorsement/respects-your-freedom\">sociétés qui vendent du matériel avec "
+"des distributions GNU/Linux libres préinstallées</a>."
 
 #. type: Content of: <h3>
 msgid "See something we missed?"
@@ -526,8 +561,10 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -551,9 +588,3 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
-
-#~ msgid "<a href=\"http://www.dynebolic.org\">"
-#~ msgstr "<a href=\"http://www.dynebolic.org\">"
-
-#~ msgid "Dragora"
-#~ msgstr "Dragora"
