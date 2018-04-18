@@ -1,0 +1,459 @@
+# French translation of https://www.gnu.org/licenses/identify-licenses-clearly.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# sogal <sogal@member.fsf.org>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: identify-licenses-clearly.html\n"
+"POT-Creation-Date: 2018-02-18 21:56+0000\n"
+"PO-Revision-Date: 2018-04-18 16:24+0200\n"
+"Last-Translator: sogal <sogal@member.fsf.org>\n"
+"Language-Team: français <trad-gnu@april.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Gtranslator 2.91.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Report-Msgid-Bugs-To: trad-gnu@april.org\n"
+
+#. type: Content of: <title>
+msgid ""
+"Don't Say &ldquo;Licensed under GNU GPL 2&rdquo;! - GNU Project - Free "
+"Software Foundation"
+msgstr ""
+"Ne dites pas « Sous licence GNU GPL 2 » ! - Projet GNU - Free Software "
+"Foundation"
+
+#. type: Content of: <h2>
+msgid ""
+"For Clarity's Sake, Please Don't Say &ldquo;Licensed under GNU GPL 2&rdquo;!"
+msgstr "Par souci de clarté, ne dites pas « sous licence GNU GPL 2 » !"
+
+#. type: Content of: <p>
+msgid ""
+"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
+msgstr ""
+"par <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></"
+"a>"
+
+#. type: Content of: <p>
+msgid ""
+"When I wrote the GNU General Public License (GNU GPL), in 1989, I recognized "
+"that changes might be necessary: the FSF might someday have reasons to "
+"publish a new version. So I called the license &ldquo;version 1,&rdquo; and "
+"set up a framework to enable users to upgrade programs to later license "
+"versions."
+msgstr ""
+"Lorsque j'ai écrit la license publique générale GNU (GNU <abbr title="
+"\"General Public License\">GPL</abbr>) en 1989, je savais que des "
+"changements pourraient être nécessaires et que la FSF pourrait un jour avoir "
+"à publier une nouvelle version. J'ai donc nommé la licence « version 1 » et "
+"défini un cadre permettant à ses utilisateurs de mettre à jour leurs "
+"programmes vers les versions ultérieures de la licence."
+
+#. type: Content of: <p>
+msgid ""
+"There was no customary way of doing this with a free license; as far as I "
+"know, it had never been done before. Developers had released a new version "
+"of a program under a different license, and maybe they had made new releases "
+"of old versions offering use under a different license, but they had never "
+"set up a systematic way to offer users the choice of using a future license "
+"version for already-released versions of a program."
+msgstr ""
+"Il n'existait pas de moyen établi de faire cela avec une licence libre ; "
+"autant que je sache, cela n'avait jamais été fait. Il était déjà arrivé que "
+"des développeurs publient une nouvelle version d'un programme sous une "
+"licence différente, ou peut-être qu'ils republient d'anciennes versions en "
+"permettant de les utiliser sous une licence différente, mais ils n'avaient "
+"jamais mis en place un moyen systématique d'offrir à leurs utilisateurs la "
+"possibilité de choisir une version future d'une licence pour des versions "
+"déjà publiées d'un programme."
+
+#. type: Content of: <p>
+msgid ""
+"I did not know how developers would respond to this innovation, so I decided "
+"to give each developer a choice about allowing future versions. This meant "
+"developers could release a program under GNU GPL version 1 <b>only</b>, or "
+"release it under GPL version 1 <b>or any later version</b>. The way "
+"developers state their choice is in the <b>license notice</b> that goes at "
+"the start of each source file. That's where the GPL says the decision is "
+"stated."
+msgstr ""
+"Ne sachant pas comment les développeurs allaient accueillir cette "
+"innovation, j'ai décidé de donner à chacun d'eux le choix d'autoriser les "
+"versions futures. Cela signifiait que les développeurs pouvaient publier un "
+"programme sous GNU GPL 1 <b>seulement</b> <cite>[only]</cite> ou bien sous "
+"GPL version 1 <b>ou toute version ultérieure</b> <cite>[or any later version]"
+"</cite>. Les développeurs font part de leur choix dans l'<b>avis de licence</"
+"b> placé au début de chaque fichier source. C'est à cet endroit que la GPL "
+"demande de le faire."
+
+#. type: Content of: <p>
+msgid ""
+"The Free Software Foundation urged developers to choose <b>or any later "
+"version</b>, since that meant users would be free to use that program under "
+"GNU GPL version 1, or under version 2 (once there was a version 2), or under "
+"version 3 (once there was a version 3). And they will be free to use it "
+"under version 4, if we ever have to make a version 4."
+msgstr ""
+"La Free Software Foundation exhorta les développeurs à choisir <b>ou toute "
+"version ultérieure</b>, ce qui donnait aux utilisateurs la liberté de faire "
+"usage du logiciel sous la GNU GPL, soit dans sa version 1, soit dans sa "
+"version 2 (quand elle serait disponible), ou encore dans sa version 3 (dès "
+"qu'elle paraîtrait). Et ils seront libres de l'utiliser sous la version 4 de "
+"la licence si jamais nous sommes obligés de faire une version 4."
+
+#. type: Content of: <p>
+msgid ""
+"Since then, the FSF has released GNU GPL version 2 in 1991 and version 3 in "
+"2007. Each version offers developers the choice to insist on that one "
+"license version only, or permit use under future license versions. (GPL 3 "
+"also permits the &ldquo;proxy&rdquo; option, where a specified Web page can "
+"subsequently give permission to use a particular future version.)"
+msgstr ""
+"Depuis, la FSF a publié la version 2 de la GNU GPL (en 1991) ainsi que la "
+"version 3 (en 2007). Chacune donne le choix aux développeurs d'exiger la "
+"version en question ou de permettre l'utilisation de leur œuvre sous une "
+"version ultérieure (la GPL 3 permet également l'option « proxy » dans "
+"laquelle on spécifie une page web pouvant par la suite donner la permission "
+"d'utiliser une version ultérieure déterminée)."
+
+#. type: Content of: <p>
+msgid ""
+"Publishing programs with license upgrade permission is vital to avoid "
+"incompatibility between programs released under different GPL versions."
+msgstr ""
+"Publier un programme avec la permission d'actualiser sa licence est vital "
+"pour éviter des incompatibilités entre logiciels publiés sous différentes "
+"versions de la GPL."
+
+#. type: Content of: <p>
+msgid ""
+"Two different copyleft licenses are almost inevitably incompatible in the "
+"absence of some explicit compatibility mechanism. That is because each one "
+"necessarily requires modified versions of a program to be released under "
+"that very same license. As a consequence, code released under GPL version 2 "
+"only can't be merged with code released under GPL version 3 only."
+msgstr ""
+"Deux licences de type copyleft sont presque inévitablement incompatibles en "
+"l'absence d'un mécanisme de compatibilité explicite. Cela est dû au fait que "
+"chacune d'elles exige que les versions modifiées d'un programme soient "
+"publiées exactement sous la même licence. Par conséquent, du code mis à "
+"disposition sous GPL « version 2 seulement » ne peut pas être inclus dans du "
+"code publié sous GPL « version 3 seulement »."
+
+#. type: Content of: <p>
+msgid ""
+"The mechanism for compatibility between GPL versions is to release a program "
+"under &ldquo;version N or any later version.&rdquo; A program released under "
+"GPL-2.0-or-later can be merged with code under GPL-3.0-or-later, because "
+"&ldquo;3 or later&rdquo; is a subset of &ldquo;2 or later&rdquo;."
+msgstr ""
+"Le mécanisme de compatibilité entre versions de la GPL consiste à publier un "
+"programme sous « version N ou toute version ultérieure ». Un programme "
+"publié sous GPL-2.0 ou ultérieure peut être inclus dans du code sous GPL-3.0 "
+"ou ultérieure car « 3 ou ultérieure » découle de « 2 ou ultérieure »."
+
+#. type: Content of: <p>
+msgid ""
+"Some developers say, &ldquo;I will release now under GNU GPL version 3 "
+"only.  When I see GPL version 4, if I like it, I will relicense my program "
+"to allow use under version 4.&rdquo; That will work fine if you are the only "
+"author, provided you're still alive, healthy, contactable, and paying "
+"attention at that time. But copyright lasts an insanely long time nowadays; "
+"in the absence of major reforms, the copyright on your code will last 70 "
+"years after your death, in the US (and 100 years, in Mexico). Have you made "
+"arrangements for your heirs to consider the question of relicensing your "
+"code to GPL version 4 if you are no longer around to consider it?"
+msgstr ""
+"Certains développeurs se disent « Je vais publier mon travail maintenant "
+"sous GNU GPL version 3 seulement. Lors de la sortie de la GPL version 4, si "
+"elle me convient, je modifierai la licence de mon programme afin d'en "
+"autoriser l'utilisation sous la version 4. » Cela fonctionnera bien si vous "
+"êtes l'unique auteur, à supposer qu'à ce moment-là vous soyez toujours "
+"vivant, en bonne santé, joignable et attentif à la sortie de la nouvelle "
+"version. Mais le copyright s'étend sur une période de temps absurde de nos "
+"jours ; en l'absence de réforme majeure, le copyright sur votre code prendra "
+"fin 70 ans après votre décès aux États-Unis (et 100 au Mexique). Avez-vous "
+"pris vos dispositions pour que vos héritiers examinent la question du "
+"passage de votre code à la GPL version 4 si vous n'êtes plus là pour le "
+"faire ?"
+
+#. type: Content of: <p>
+msgid ""
+"But trouble will happen even during your lifetime. What if we release GNU "
+"GPL version 4 ten years from now, and by that time 50 others have added to "
+"your program, releasing their added code under GPL-3.0-only simply because "
+"you did? You could approve GPL 4 for the program you initially released, but "
+"it would be a big job to contact the 50 subsequent developers at that time "
+"to get their permission for GPL 4 usage of their additions."
+msgstr ""
+"Mais même de votre vivant il y aura des ennuis. Que se passera-t-il si nous "
+"publions la version 4 de la GNU GPL dans dix ans, et qu'à ce moment-là "
+"cinquante autres personnes ont ajouté du code à votre programme et publié "
+"leurs ajouts sous « GPL-3.0 seulement » pour suivre votre exemple ? Vous "
+"pouvez approuver l'utilisation de la GPL 4 pour le programme que vous avez "
+"initialement publié, mais ce serait un travail énorme que de contacter les "
+"cinquante autres développeurs à ce moment-là pour obtenir leur permission "
+"d'utiliser le code qu'ils ont ajouté sous les termes de la GPL 4."
+
+#. type: Content of: <p>
+msgid ""
+"The way to avoid these problems is by approving future GPL versions in the "
+"license notice at the outset. Please put on each nontrivial file of the "
+"source release a license notice of the form shown at the end of the GPL "
+"version you are using."
+msgstr ""
+"La solution pour éviter ces problèmes est d'approuver les futures versions "
+"de la GPL dans l'avis de licence, dès le début. Placez dans chaque fichier "
+"source non trivial un avis de licence conforme au modèle présenté à la fin "
+"de la version de la GPL que vous utilisez."
+
+#. type: Content of: <p>
+msgid ""
+"Because we handle license compatibility this way, when people tell you a "
+"program is released &ldquo;under GNU GPL version 2,&rdquo; they are leaving "
+"the licensing of the program unclear. Is it released under GPL-2.0-only, or "
+"GPL-2.0-or-later? Can you merge the code with packages released under "
+"GPL-3.0-or-later?"
+msgstr ""
+"Du fait de notre façon de gérer la compatibilité entre licences, lorsque les "
+"gens vous disent qu'un programme est publié sous « GNU GPL version 2 », il "
+"reste une ambiguité sur sa licence. S'agit-il de la GPL-2.0 seulement, ou "
+"bien de la GPL-2.0 ou ultérieure ? Pouvez-vous fusionner ce code avec des "
+"logiciels publiés sous GPL-3.0 ou ultérieure ?"
+
+#. type: Content of: <p>
+msgid ""
+"When sites such as GitHub invite developers to choose &ldquo;GPL 3&rdquo; or "
+"&ldquo;GPL 2&rdquo; among other license options, and don't raise the issue "
+"of future versions, this leads thousands of developers to leave their code's "
+"licensing unclear. Asking those users to choose between &ldquo;only&rdquo; "
+"and &ldquo;or later&rdquo; would lead them to make their code's licensing "
+"clear. It also provides an opportunity to explain how the latter choice "
+"avoids future incompatibility."
+msgstr ""
+"Lorsque des sites tels que GitHub invitent les développeurs à choisir "
+"« GPL 3 » ou « GPL 2 » parmi d'autres licences sans jamais soulever la "
+"question des versions à venir, cela conduit des milliers de développeurs à "
+"laisser planer un doute sur la licence de leur code. Demander à leurs "
+"utilisateurs de choisir entre « seulement » ou « ultérieure » leur "
+"permettrait de lever cette ambiguité. Ce serait également l'occasion "
+"d'expliquer en quoi ce dernier choix évite des incompatibilités futures. "
+
+#. type: Content of: <p>
+msgid ""
+"Abbreviated license indicators such as &ldquo;GPL-2.0&rdquo; or &ldquo;"
+"GPL-3.0&rdquo; will lead to confusion too. People and organizations that "
+"don't recognize the difference between &ldquo;2 only&rdquo; and &ldquo;2 or "
+"later&rdquo; will be prone to write &ldquo;GPL-2.0&rdquo; in both cases, not "
+"realizing there is a distinction to be made."
+msgstr ""
+"Les indicateurs abrégés de licence tels que « GPL-2.0 » ou « GPL-3.0 » "
+"entraînent également une confusion. Les personnes ou organisations ne "
+"connaissant pas la différence entre « 2 seulement » et « 2 ou ultérieure » "
+"seront tentées d'écrire « GPL-2.0 » dans les deux cas sans réaliser qu'on "
+"doit faire la distinction."
+
+#. type: Content of: <p>
+msgid "Therefore, when you use SPDX license indicators, please use these:"
+msgstr ""
+"Par conséquent, lorsque vous utilisez les indicateurs de licence <abbr title="
+"\"Software Package Data Exchange\">SPDX</abbr>, veuillez utilisez ceux-ci :"
+
+#. type: Content of: <ul><li>
+msgid "GPL-2.0-only or GPL-2.0-or-later"
+msgstr "GPL-2.0-only ou GPL-2.0-or-later"
+
+#. type: Content of: <ul><li>
+msgid "GPL-3.0-only or GPL-3.0-or-later"
+msgstr "GPL-3.0-only ou GPL-3.0-or-later"
+
+#. type: Content of: <ul><li>
+msgid "LGPL-2.0-only or LGPL-2.0-or-later"
+msgstr "LGPL-2.0-only ou LGPL-2.0-or-later"
+
+#. type: Content of: <ul><li>
+msgid "LGPL-2.1-only or LGPL-2.1-or-later"
+msgstr "LGPL-2.1-only ou LGPL-2.1-or-later"
+
+#. type: Content of: <ul><li>
+msgid "LGPL-3.0-only or LGPL-3.0-or-later"
+msgstr "LGPL-3.0-only ou LGPL-3.0-or-later"
+
+#. type: Content of: <ul><li>
+msgid "AGPL-3.0-only or AGPL-3.0-or-later"
+msgstr "AGPL-3.0-only ou AGPL-3.0-or-later"
+
+#. type: Content of: <ul><li>
+msgid "GFDL-1.3-only or GFDL-1.3-or-later"
+msgstr "GFDL-1.3-only ou GFDL-1.3-or-later"
+
+#. type: Content of: <p>
+msgid ""
+"Please do not use the old, ambiguous license indicators, which will be "
+"deprecated:"
+msgstr ""
+"Et s'il vous plaît, ne faites pas usage des anciens indicateurs de licence, "
+"qui sont ambigus et vont devenir obsolètes :"
+
+#. type: Content of: <ul><li>
+msgid "GPL-2.0"
+msgstr "GPL-2.0"
+
+#. type: Content of: <ul><li>
+msgid "GPL-3.0"
+msgstr "GPL-3.0"
+
+#. type: Content of: <ul><li>
+msgid "LGPL-2.0"
+msgstr "LGPL-2.0"
+
+#. type: Content of: <ul><li>
+msgid "LGPL-2.1"
+msgstr "LGPL-2.1"
+
+#. type: Content of: <ul><li>
+msgid "LGPL-3.0"
+msgstr "LGPL-3.0"
+
+#. type: Content of: <ul><li>
+msgid "AGPL-3.0"
+msgstr "AGPL-3.0"
+
+#. type: Content of: <ul><li>
+msgid "GFDL-1.3."
+msgstr "GFDL-1.3"
+
+#. type: Content of: <p>
+msgid ""
+"Giving developers the choice of GPL version &ldquo;1 only&rdquo; or GPL "
+"version &ldquo;1 or later&rdquo; seemed obligatory in 1989, but it has "
+"created a complexity that we would be better off without. Meanwhile, several "
+"licenses that unconditionally give users the choice to upgrade to later "
+"license versions have become widely accepted. These include the Mozilla "
+"Public License, the Eclipse Public License, and all the Creative Commons "
+"licenses. Each version says that a user is free to use the work under later "
+"versions, if any, of the same license."
+msgstr ""
+"Offrir aux développeurs le choix entre GPL version « 1 seulement» et GPL "
+"version « 1 ou ultérieure » paraissait nécessaire en 1989 mais cela a créé "
+"une complexité dont nous pourrions nous passer. Depuis, plusieurs licences "
+"offrant inconditionnellement aux utilisateurs la possibilité de choisir une "
+"version actualisée ont été largement adoptées. On peut citer la Mozilla "
+"Public License, l'Eclipse Public License ou encore toutes les licences "
+"Creative Commons. Chaque version déclare que l'utilisateur est libre "
+"d'utiliser l'œuvre sous une version ultérieure de la même licence le cas "
+"échéant."
+
+#. type: Content of: <p>
+msgid ""
+"Perhaps we should switch to that approach for future versions of the GNU "
+"GPL. But that is something to think about in the future."
+msgstr ""
+"Peut-être devrions-nous adopter une telle approche pour les prochaines "
+"versions de la GNU GPL ; c'est une chose à garder en tête pour plus tard."
+
+#. type: Content of: <p>
+msgid ""
+"We thank SPDX for deciding to change the the short identifiers for the GNU "
+"family of licenses to make the &ldquo;or later&rdquo; versus &ldquo;"
+"only&rdquo; choice explicit. The upcoming version of the SPDX License List "
+"for license identifiers will use the identifiers recommended above. The "
+"confusing identifiers, such as &ldquo;GPL-2.0,&rdquo; will be deprecated. We "
+"ask people to replace them with the new unambiguous identifiers as soon as "
+"possible."
+msgstr ""
+"Nous sommes reconnaissants à SPDX de leur décision de modifier les "
+"identifiants courts des licences GNU afin de rendre plus explicite le choix "
+"entre « ou ultérieure » et « seulement ». La prochaine version de la liste "
+"d'identifiants reconnus par SPDX <cite>(SPDX License List)</cite> utilisera "
+"les recommandations ci-dessus. Les identifiants prêtant à confusion tels que "
+"« GPL-2.0 » deviendront obsolètes. Nous prions les personnes qui les "
+"utilisent encore de bien vouloir les remplacer dès que possible par les "
+"nouveaux identifiants, plus explicites."
+
+#. type: Content of: <p>
+msgid ""
+"By using identifiers that are explicit as to <b>only</b> or <b>any later "
+"version</b>, we can make the community aware of the difference and encourage "
+"developers to state their decisions clearly."
+msgstr ""
+"En employant des indicateurs de licence explicites du type <b>seulement</b> "
+"et <b>ou toute version ultérieure</b>, nous pouvons rendre la communauté "
+"attentive à la différence entre les deux et encourager les développeurs à "
+"faire clairement état de leur choix."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Veuillez envoyer les requêtes concernant la FSF et GNU à <a href=\"mailto:"
+"gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>. Il existe aussi <a href=\"/contact/"
+"\">d'autres moyens de contacter</a> la FSF. Les liens orphelins et autres "
+"corrections ou suggestions peuvent être signalés à <a href=\"mailto:"
+"webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+
+#. TRANSLATORS: Ignore the original text in this paragraph,
+#. replace it with the translation of these two:
+#. We work hard and do our best to provide accurate, good quality
+#. translations.  However, we are not exempt from imperfection.
+#. Please send your comments and general suggestions in this regard
+#. to <a href="mailto:web-translators@gnu.org">
+#. &lt;web-translators@gnu.org&gt;</a>.</p>
+#. <p>For information on coordinating and submitting translations of
+#. our web pages, see <a
+#. href="/server/standards/README.translations.html">Translations
+#. README</a>.
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Nous faisons le maximum pour proposer des traductions fidèles et de bonne "
+"qualité, mais nous ne sommes pas parfaits. Merci d'adresser vos commentaires "
+"sur cette page, ainsi que vos suggestions d'ordre général sur les "
+"traductions, à <a href=\"mailto:web-translators@gnu.org\"> &lt;web-"
+"translators@gnu.org&gt;</a>.</p>\n"
+"<p>Pour tout renseignement sur la coordination et la soumission des "
+"traductions de nos pages web, reportez-vous au <a href=\"/server/standards/"
+"README.translations.html\">guide de traduction</a>."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2017, 2018 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2017, 2018 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Cette page peut être utilisée suivant les conditions de la licence <a rel="
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduction : Sogal Boogalsky.<br />Révision : <a href=\"mailto:trad-gnu&#64;"
+"april.org\">trad-gnu&#64;april.org</a>"
+
+#. timestamp start
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Dernière mise à jour :"
