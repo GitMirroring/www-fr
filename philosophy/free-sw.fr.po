@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-sw.html\n"
-"POT-Creation-Date: 2018-04-01 07:56+0000\n"
-"PO-Revision-Date: 2018-04-02 10:42+0200\n"
+"POT-Creation-Date: 2018-04-23 18:26+0000\n"
+"PO-Revision-Date: 2018-04-23 21:12+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -144,10 +144,10 @@ msgstr "Les quatre libertés essentielles"
 #. type: Content of: <p>
 msgid ""
 "A program is free software if the program's users have the four essential "
-"freedoms:"
+"freedoms: <a href=\"#f1\">[1]</a>"
 msgstr ""
 "Un programme est un logiciel libre si vous, en tant qu'utilisateur de ce "
-"programme, avez les quatre libertés essentielles :"
+"programme, avez les quatre libertés essentielles <a href=\"#f1\">[1]</a> :"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -1150,6 +1150,25 @@ msgstr ""
 "changements, vous pouvez le faire sur l'<a href=\"http://web.cvs.savannah."
 "gnu.org/viewvc/www/philosophy/free-sw.html?root=www&amp;view=log\">interface "
 "cvsweb</a>."
+
+#. type: Content of: <h3>
+msgid "Footnote"
+msgstr "Note"
+
+#. type: Content of: <ol><li>
+msgid ""
+"The reason they are numbered 0, 1, 2 and 3 is historical. Around 1990 there "
+"were three freedoms, numbered 1, 2 and 3. Then we realized that the freedom "
+"to run the program needed to be mentioned explicitly.  It was clearly more "
+"basic than the other three, so it properly should precede them. Rather than "
+"renumber the others, we made it freedom&nbsp;0."
+msgstr ""
+"La raison pour laquelle elles sont numérotées de 0 à 3 est historique. Vers "
+"1990 il y avait trois libertés, numérotées de 1 à 3. Puis nous nous sommes "
+"rendu compte qu'il était nécessaire de mentionner la liberté d'exécuter le "
+"programme explicitement. Comme elle était à l'évidence plus basique que les "
+"trois autres, elle devait les précéder. Plutôt que de renuméroter les "
+"autres, nous l'avons appelée liberté 0."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
