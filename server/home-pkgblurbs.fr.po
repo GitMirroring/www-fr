@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home-pkgblurbs.html\n"
-"POT-Creation-Date: 2017-05-25 09:27+0000\n"
-"PO-Revision-Date: 2017-09-12 16:44+0200\n"
+"POT-Creation-Date: 2018-06-04 08:57+0000\n"
+"PO-Revision-Date: 2018-06-04 22:01+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -897,8 +897,8 @@ msgstr ""
 "small>"
 
 #. type: Content of: <h4>
-msgid "<a href=\"/software/commoncpp/\">(u)Common C++</a>"
-msgstr "<a href=\"/software/commoncpp/\">(u)Common C++</a>"
+msgid "<a href=\"/software/commoncpp/\">[u]Common C++</a>"
+msgstr "<a href=\"/software/commoncpp/\">[u]Common C++</a>"
 
 #. type: Content of: <p>
 msgid ""
@@ -1790,6 +1790,10 @@ msgstr ""
 "objet de Guile, GOOPS.  <small>(<a href=\"/manual/manual.html#g-golf\">doc</"
 "a>)</small>"
 
+#. type: Attribute 'alt' of: <h4><img>
+msgid "logo for gama"
+msgstr "logo de gama"
+
 #. type: Content of: <h4>
 msgid "<a href=\"/software/gama/\">Gama</a>"
 msgstr "<a href=\"/software/gama/\">Gama</a>"
@@ -2621,16 +2625,21 @@ msgstr ""
 "planifiées.  <small>(<a href=\"/manual/manual.html#gnucash\">doc</a>)</small>"
 
 #. type: Content of: <h4>
-msgid "<a href=\"/software/gnucomm/\">GNUCOMM</a>"
-msgstr "<a href=\"/software/gnucomm/\">GNUCOMM</a>"
+msgid "<a href=\"/software/gnucomm/\">GnuComm</a>"
+msgstr "<a href=\"/software/gnucomm/\">GnuComm</a>"
 
 #. type: Content of: <p>
 msgid ""
-"See <a href=\"#sipwitch\">sipwitch</a>.  <small>(<a href=\"/manual/manual."
-"html#gnucomm\">doc</a>)</small>"
+"Telecom subsystem of the GNU Project: umbrella project for GNU Telephony "
+"software, currently Bayonne, SIP Witch, and their supporting libraries "
+"(Common C++ / uCommon, ccAudio, ccScript, ccRTP and ZRTP / ZRTP4J).  <small>"
+"(<a href=\"/manual/manual.html#gnucomm\">doc</a>)</small>"
 msgstr ""
-"Voir <a href=\"#sipwitch\">sipwitch</a>.  <small>(<a href=\"/manual/manual."
-"html#gnucomm\">doc</a>)</small>"
+"Sous-système du projet GNU pour les télécommunications: projet-cadre pour "
+"les logiciels de téléphonie de GNU, actuellement Bayonne, SIP Witch et les "
+"bibliothèques requises (Common C++ / uCommon, ccAudio, ccScript, ccRTP et "
+"ZRTP / ZRTP4J).  <small>(<a href=\"/manual/manual.html#gnucomm\">doc</a>)</"
+"small>"
 
 #. type: Content of: <h4>
 msgid "<a href=\"/software/gnudos/\">GnuDOS</a>"
@@ -2835,14 +2844,14 @@ msgstr "<a href=\"/software/gnump3d/\">GNUmp3d</a>"
 
 #. type: Content of: <p>
 msgid ""
-"GNUMP3d is a streaming server for MP3s and OGG vorbis audio files, movies, "
+"GNUMP3d is a streaming server for MP3 and Ogg Vorbis audio files, movies, "
 "and other media formats.  It is small and self-contained, presenting a "
 "simple, themeable HTML interface.  The audio files can then be played in any "
 "player that supports streaming over HTTP.  <small>(<a href=\"/manual/manual."
 "html#gnump3d\">doc</a>)</small>"
 msgstr ""
 "GNUMP3d est un serveur de diffusion <cite>[streaming]</cite> pour l'audio "
-"MP3 ou OGG vorbis, les vidéos, et autres formats multimédia. Il est léger, "
+"MP3 ou Ogg Vorbis, les vidéos, et autres formats multimédia. Il est léger, "
 "indépendant, et possède une interface HTML simple et personnalisable. Il "
 "permet de lire des fichiers audio avec n'importe quel lecteur de flux HTTP. "
 "<small>(<a href=\"/manual/manual.html#gnump3d\">doc</a>)</small>"
@@ -5030,6 +5039,28 @@ msgstr ""
 "a>)</small>"
 
 #. type: Content of: <h4>
+msgid "<a href=\"/software/mempool/\">MemPool</a>"
+msgstr "<a href=\"/software/mempool/\">MemPool</a>"
+
+#. type: Content of: <p>
+msgid ""
+"The MemPool library is a stand-alone memory allocation library. It is a "
+"block allocator library that uses a single fixed size memory pool to "
+"allocate variable sized memory blocks, and exports functions similar to "
+"malloc, realloc and free. It is intended to either simulate low memory "
+"targets on GNU/Linux and other systems, or to completely replace the system "
+"memory management.  <small>(<a href=\"/manual/manual.html#mempool\">doc</a>)"
+"</small>"
+msgstr ""
+"MemPool est une bibliothèque autonome d'allocation de mémoire. Elle utilise "
+"un pool unique de mémoire de taille fixe pour allouer des blocs de taille "
+"variable et exporte des fonctions similaires à <code>malloc</code>, "
+"<code>realloc</code> et <code>free</code>. Elle est destinée à simuler des "
+"cibles de faible capacité mémoire sur GNU/Linux et autres systèmes, ou à "
+"remplacer complètement le gestionnaire de mémoire système.  <small>(<a href="
+"\"/manual/manual.html#mempool\">doc</a>)</small>"
+
+#. type: Content of: <h4>
 msgid "<a href=\"/software/metahtml/\">Metahtml</a>"
 msgstr "<a href=\"/software/metahtml/\">Metahtml</a>"
 
@@ -6394,6 +6425,27 @@ msgstr ""
 "highlite\">doc</a>)</small>"
 
 #. type: Content of: <h4>
+msgid "<a href=\"/software/ssw/\">Spread Sheet Widget</a>"
+msgstr "<a href=\"/software/ssw/\">Spread Sheet Widget</a>"
+
+#. type: Content of: <p>
+msgid ""
+"A Gtk+ widget providing a 2 dimensional array to view and manipulate tabular "
+"data similar to that provided by popular spread sheet programs. The design "
+"follows the model-view-controller paradigm and is O(1) in both time and "
+"space, providing very fast and efficient operation even on very large data.  "
+"Features such as cut and paste, drag and drop etc are included.  <small>(<a "
+"href=\"/manual/manual.html#ssw\">doc</a>)</small>"
+msgstr ""
+"Il s'agit d'un Widget Gtk+ qui fournit un tableau bidimmensionnel pour "
+"afficher et manipuler les données tabulaires, similaire à ceux que proposent "
+"les tableurs connus. Il est conçu selon le paradigme modèle-vue-controlleur "
+"et il est O(1) aussi bien dans le temps que dans l'espace, ce qui permet une "
+"opération très rapide et efficace même sur de très grandes quantités de "
+"données. Des fonctionnalités telles que couper-coller, glisser-déposer, etc. "
+"sont incluses.  <small>(<a href=\"/manual/manual.html#ssw\">doc</a>)</small>"
+
+#. type: Content of: <h4>
 msgid "<a href=\"/software/stow/\">Stow</a>"
 msgstr "<a href=\"/software/stow/\">Stow</a>"
 
@@ -7061,8 +7113,8 @@ msgid ""
 "a. Compact Disc File System, filesystems and it allows session-wise "
 "manipulation of them.  It features a formatter and burner for CD, DVD and "
 "BD.  It can operate on existing ISO images or it can create new ones.  "
-"xorriso can then be used to copy files directly into or out of ISO files.  "
-"<small>(<a href=\"/manual/manual.html#xorriso\">doc</a>)</small>"
+"xorriso can then be used to copy files directly into or out of ISO file "
+"systems.  <small>(<a href=\"/manual/manual.html#xorriso\">doc</a>)</small>"
 msgstr ""
 "GNU Xorriso est un outil pour copier des fichiers vers ou depuis des "
 "arborescences ISO 9660 RockRidge (système de fichiers des disques compacts) "
@@ -7070,8 +7122,8 @@ msgstr ""
 "outil de formatage et un graveur de CD, DVD et disques Blu-ray. Il peut "
 "traiter des images ISO préexistantes ou en créer de nouvelles. xorriso peut "
 "même s'utiliser pour copier des fichiers directement vers ou depuis des "
-"fichiers ISO.  <small>(<a href=\"/manual/manual.html#xorriso\">doc</a>)</"
-"small>"
+"systèmes de fichiers ISO.  <small>(<a href=\"/manual/manual.html#xorriso"
+"\">doc</a>)</small>"
 
 #. type: Content of: <h4>
 msgid "<a href=\"/software/zile/\">Zile</a>"
