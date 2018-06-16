@@ -11,7 +11,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-sw.html\n"
-"POT-Creation-Date: 2018-04-23 18:26+0000\n"
+"POT-Creation-Date: 2018-06-12 19:26+0000\n"
 "PO-Revision-Date: 2018-04-23 21:12+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -49,7 +49,11 @@ msgstr ""
 msgid "What is free software?"
 msgstr "Qu'est-ce que le logiciel libre ?"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><h3>
+msgid "The Free Software Definition"
+msgstr "Définition du logiciel libre"
+
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "Have a question about free software licensing not answered here? See our "
 "other <a href=\"http://www.fsf.org/licensing\">licensing resources</a>, and "
@@ -62,11 +66,7 @@ msgstr ""
 "licences et de la conformité de la FSF à <a href=\"mailto:licensing@fsf.org"
 "\">licensing@fsf.org</a>."
 
-#. type: Content of: <h3>
-msgid "The Free Software Definition"
-msgstr "Définition du logiciel libre"
-
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The free software definition presents the criteria for whether a particular "
 "software program qualifies as free software.  From time to time we revise "
@@ -80,7 +80,7 @@ msgstr ""
 "difficiles. Si vous souhaitez avoir un aperçu de ces changements, veuillez "
 "consulter la section <a href=\"#History\">Historique</a> ci-dessous."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "&ldquo;Open source&rdquo; is something different: it has a very different "
 "philosophy based on different values.  Its practical definition is different "
@@ -95,7 +95,7 @@ msgstr ""
 "misses-the-point.html\">En quoi l'open source perd de vue l'éthique du "
 "logiciel libre</a> »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "&ldquo;Free software&rdquo; means software that respects users' freedom and "
 "community.  Roughly, it means that <b>the users have the freedom to run, "
@@ -117,7 +117,7 @@ msgstr ""
 "anglais l'expression <cite>libre software</cite>, qui emprunte au français "
 "ou à l'espagnol."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We campaign for these freedoms because everyone deserves them.  With these "
 "freedoms, the users (both individually and collectively) control the program "
@@ -137,11 +137,11 @@ msgstr ""
 "href=\"/philosophy/free-software-even-more-important.html\">l'instrument "
 "d'un pouvoir injuste</a>."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "The four essential freedoms"
 msgstr "Les quatre libertés essentielles"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A program is free software if the program's users have the four essential "
 "freedoms: <a href=\"#f1\">[1]</a>"
@@ -149,14 +149,14 @@ msgstr ""
 "Un programme est un logiciel libre si vous, en tant qu'utilisateur de ce "
 "programme, avez les quatre libertés essentielles <a href=\"#f1\">[1]</a> :"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The freedom to run the program as you wish, for any purpose (freedom 0)."
 msgstr ""
 "la liberté d'exécuter le programme comme vous voulez, pour n'importe quel "
 "usage (liberté 0) ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The freedom to study how the program works, and change it so it does your "
 "computing as you wish (freedom 1). Access to the source code is a "
@@ -166,12 +166,12 @@ msgstr ""
 "qu'il effectue vos tâches informatiques comme vous le souhaitez "
 "(liberté 1) ; l'accès au code source est une condition nécessaire ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "The freedom to redistribute copies so you can help others (freedom 2)."
 msgstr ""
 "la liberté de redistribuer des copies, donc d'aider les autres (liberté 2) ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The freedom to distribute copies of your modified versions to others "
 "(freedom 3).  By doing this you can give the whole community a chance to "
@@ -183,7 +183,7 @@ msgstr ""
 "possibilité de profiter de vos changements ; l'accès au code source est une "
 "condition nécessaire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A program is free software if it gives users adequately all of these "
 "freedoms.  Otherwise, it is nonfree.  While we can distinguish various "
@@ -196,7 +196,7 @@ msgstr ""
 "distribution non libres, en quantifiant ce qui leur manque pour être libres, "
 "nous les considérons tous comme équivalents dans leur manque d'éthique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In any given scenario, these freedoms must apply to whatever code we plan to "
 "make use of, or lead others to make use of.  For instance, consider a "
@@ -215,7 +215,7 @@ msgstr ""
 "Cependant, si nous projetons de modifier A de telle sorte qu'il n'utilise "
 "pas B, alors seul A doit être libre ; B n'est pas pertinent dans ce cas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "&ldquo;Free software&rdquo; does not mean &ldquo;noncommercial&rdquo;.  A "
 "free program must be available for commercial use, commercial development, "
@@ -236,7 +236,7 @@ msgstr ""
 "copier et de modifier le logiciel et même d'en <a href=\"/philosophy/selling."
 "html\">vendre des copies</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The rest of this page clarifies certain points about what makes specific "
 "freedoms adequate or not."
@@ -244,11 +244,11 @@ msgstr ""
 "La suite de cette page s'attache à clarifier certains détails sur ce qui "
 "fait que des libertés particulières sont adéquates ou non."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "The freedom to run the program as you wish"
 msgstr "La liberté d'exécuter le programme comme vous le souhaitez"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The freedom to run the program means the freedom for any kind of person or "
 "organization to use it on any kind of computer system, for any kind of "
@@ -269,7 +269,7 @@ msgstr ""
 "d'autre, cette personne est libre de l'exécuter comme bon lui semble, mais "
 "vous n'êtes pas autorisé à lui imposer vos conditions."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The freedom to run the program as you wish means that you are not forbidden "
 "or stopped from making it run.  This has nothing to do with what "
@@ -284,11 +284,11 @@ msgstr ""
 "capable de fonctionner dans un environnement donné ou utile à une activité "
 "informatique particulière."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "The freedom to study the source code and make changes"
 msgstr "La liberté d'étudier le code source et de le modifier"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In order for freedoms 1 and 3 (the freedom to make changes and the freedom "
 "to publish the changed versions) to be meaningful, you must have access to "
@@ -303,7 +303,7 @@ msgstr ""
 "<cite>[obfuscated]</cite> n'est pas du vrai code source et ne compte pas "
 "comme code source."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Freedom 1 includes the freedom to use your changed version in place of the "
 "original.  If the program is delivered in a product designed to run someone "
@@ -324,7 +324,7 @@ msgstr ""
 "sens plutôt qu'une liberté concrète. Ces binaires ne sont pas libres, même "
 "si le code source à partir duquel ils ont été compilés l'est."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "One important way to modify a program is by merging in available free "
 "subroutines and modules.  If the program's license says that you cannot "
@@ -340,7 +340,7 @@ msgstr ""
 "sup></a> sur tout code que vous ajoutez, alors la licence est trop "
 "restrictive pour être qualifiée de libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Whether a change constitutes an improvement is a subjective matter.  If your "
 "right to modify a program is limited, in substance, to changes that someone "
@@ -351,11 +351,11 @@ msgstr ""
 "que quelqu'un d'autre considère comme une amélioration, ce n'est pas un "
 "programme libre."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "The freedom to redistribute if you wish: basic requirements"
 msgstr "La liberté de redistribuer si vous le souhaitez : exigences de base"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Freedom to distribute (freedoms 2 and 3) means you are free to redistribute "
 "copies, either with or without modifications, either gratis or charging a "
@@ -369,7 +369,7 @@ msgstr ""
 "faire tout cela signifie (entre autres) que vous n'avez pas à demander ni à "
 "payer pour en avoir la permission."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You should also have the freedom to make modifications and use them "
 "privately in your own work or play, without even mentioning that they "
@@ -381,7 +381,7 @@ msgstr ""
 "l'existence. Si vous publiez vos modifications, vous n'êtes pas obligé de "
 "prévenir quelqu'un en particulier ou de le faire d'une manière particulière."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Freedom 3 includes the freedom to release your modified versions as free "
 "software.  A free license may also permit other ways of releasing them; in "
@@ -397,7 +397,7 @@ msgstr ""
 "les versions modifiées soient non libres ne peut pas être qualifiée de "
 "licence libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The freedom to redistribute copies must include binary or executable forms "
 "of the program, as well as source code, for both modified and unmodified "
@@ -417,11 +417,11 @@ msgstr ""
 "avoir la liberté de distribuer des versions de ce type si vous trouvez ou si "
 "vous concevez un moyen d'en produire."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Copyleft"
 msgstr "Copyleft"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Certain kinds of rules about the manner of distributing free software are "
 "acceptable, when they don't conflict with the central freedoms.  For "
@@ -438,7 +438,7 @@ msgstr ""
 "qui nie les libertés fondamentales des autres. Cette règle n'entre pas en "
 "conflit avec les libertés fondamentales ; en fait, elle les protège."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the GNU project, we use copyleft to protect the four freedoms legally for "
 "everyone.  We believe there are important reasons why <a href=\"/philosophy/"
@@ -458,11 +458,11 @@ msgstr ""
 "de logiciels libres</a> pour une discussion des relations entre « logiciel "
 "libre », « logiciel copylefté », et encore d'autres catégories de logiciel)."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Rules about packaging and distribution details"
 msgstr "Règles concernant l'empaquetage et les détails de distribution"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Rules about how to package a modified version are acceptable, if they don't "
 "substantively limit your freedom to release modified versions, or your "
@@ -483,7 +483,7 @@ msgstr ""
 "elles sont acceptables. Vous avez déjà fait d'autres changements dans le "
 "programme, alors vous n'aurez pas de mal à en faire quelques-uns de plus."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Rules that &ldquo;if you make your version available in this way, you must "
 "make it available in that way also&rdquo; can be acceptable too, on the same "
@@ -504,7 +504,7 @@ msgstr ""
 "utilisateurs pour les versions que vous mettez à la disposition du public "
 "sont également acceptables."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A special issue arises when a license requires changing the name by which "
 "the program will be invoked from other programs.  That effectively hampers "
@@ -520,11 +520,11 @@ msgstr ""
 "Ce type d'exigence n'est acceptable que s'il existe une possibilité de "
 "spécifier le nom du programme original comme alias de la version modifiée."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Export regulations"
 msgstr "Contrôle de l'exportation"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Sometimes government <a id=\"exportcontrol\">export control regulations</a> "
 "and trade sanctions can constrain your freedom to distribute copies of "
@@ -548,7 +548,7 @@ msgstr ""
 "l'exportation comme préalable à l'une des libertés essentielles, quelle "
 "qu'elle soit, dans la mesure où ce règlement a une incidence pratique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Merely mentioning the existence of export regulations, without making them a "
 "condition of the license itself, is acceptable since it does not restrict "
@@ -566,11 +566,11 @@ msgstr ""
 "faire que cette exigence ait des conséquences pratiques et donc rende le "
 "logiciel non libre."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Legal considerations"
 msgstr "Considérations juridiques"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In order for these freedoms to be real, they must be permanent and "
 "irrevocable as long as you do nothing wrong; if the developer of the "
@@ -584,7 +584,7 @@ msgstr ""
 "des clauses restrictives, sans que vous ayez fait quoi que ce soit de mal "
 "pour le justifier, le logiciel n'est pas libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A free license may not require compliance with the license of a nonfree "
 "program.  Thus, for instance, if a license requires you to comply with the "
@@ -599,7 +599,7 @@ msgstr ""
 "licences de ces programmes non libres, et rendrait par conséquent la licence "
 "non libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is acceptable for a free license to specify which jurisdiction's law "
 "applies, or where litigation must be done, or both."
@@ -607,11 +607,11 @@ msgstr ""
 "Il est acceptable qu'une licence libre précise la juridiction dont le droit "
 "s'applique, la cour compétente pour régler les litiges, ou bien les deux."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Contract-based licenses"
 msgstr "Licences basées sur des contrats"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Most free software licenses are based on copyright, and there are limits on "
 "what kinds of requirements can be imposed through copyright.  If a copyright-"
@@ -633,7 +633,7 @@ msgstr ""
 "puisse restreindre de manière inacceptable la liberté des utilisateurs et "
 "ainsi devenir non libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We can't possibly list all the ways that might happen.  If a contract-based "
 "license restricts the user in an unusual way that copyright-based licenses "
@@ -646,11 +646,11 @@ msgstr ""
 "se conformer, et qui n'est pas mentionnée ici comme légitime, nous devrons y "
 "réfléchir et nous conclurons probablement qu'elle n'est pas libre."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Use the right words when talking about free software"
 msgstr "Utilisez les mots justes pour parler du logiciel libre"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When talking about free software, it is best to avoid using terms like "
 "&ldquo;give away&rdquo; or &ldquo;for free,&rdquo; because those terms imply "
@@ -671,11 +671,11 @@ msgstr ""
 "philosophy/fs-translations.html\">traductions correctes de <cite>free "
 "software</cite></a> dans de nombreuses langues."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "How we interpret these criteria"
 msgstr "Comment nous interprétons ces critères"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Finally, note that criteria such as those stated in this free software "
 "definition require careful thought for their interpretation.  To decide "
@@ -703,11 +703,11 @@ msgstr ""
 "mettions à jour ces critères pour qu'on sache plus facilement pourquoi telle "
 "licence s'y conforme, ou non."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Get help with free licenses"
 msgstr "Où trouver de l'aide au sujet des licences libres"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you are interested in whether a specific license qualifies as a free "
 "software license, see our <a href=\"/licenses/license-list.html\">list of "
@@ -722,7 +722,7 @@ msgstr ""
 "courriel à <a href=\"mailto:licensing@gnu.org\">&lt;licensing@gnu.org&gt;</"
 "a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you are contemplating writing a new license, please contact the Free "
 "Software Foundation first by writing to that address. The proliferation of "
@@ -737,7 +737,7 @@ msgstr ""
 "voulant comprendre ces licences ; nous pouvons vous aider à trouver une "
 "licence de logiciel libre existante qui réponde à vos besoins."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If that isn't possible, if you really need a new license, with our help you "
 "can ensure that the license really is a free software license and avoid "
@@ -747,11 +747,11 @@ msgstr ""
 "licence, avec notre aide vous pouvez faire en sorte que cette licence soit "
 "vraiment une licence de logiciel libre, et éviter divers problèmes pratiques."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Beyond Software"
 msgstr "Au-delà du logiciel"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"/philosophy/free-doc.html\">Software manuals must be free</a>, for "
 "the same reasons that software must be free, and because the manuals are in "
@@ -761,7 +761,7 @@ msgstr ""
 "libres</a>, pour les mêmes raisons que les logiciels doivent être libres, et "
 "parce que les manuels font en fait partie des logiciels."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The same arguments also make sense for other kinds of works of practical use "
 "&mdash; that is to say, works that embody useful knowledge, such as "
@@ -773,7 +773,7 @@ msgstr ""
 "utile, tels que le matériel pédagogique et les ouvrages de référence. <a "
 "href=\"http://wikipedia.org\">Wikipedia</a> en est l'exemple le plus connu."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Any kind of work <em>can</em> be free, and the definition of free software "
 "has been extended to a definition of <a href=\"http://freedomdefined.org/\"> "
@@ -784,11 +784,11 @@ msgstr ""
 "Definition/Fr\">œuvres culturelles libres</a>, applicable à tout type "
 "d'œuvre."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Open Source?"
 msgstr "Open Source ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another group uses the term &ldquo;open source&rdquo; to mean something "
 "close (but not identical) to &ldquo;free software&rdquo;.  We prefer the "
