@@ -10,9 +10,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2018-07-10 06:56+0000\n"
-"PO-Revision-Date: 2018-07-10 15:17+0200\n"
-"Last-Translator: Jean-Philippe Mengual <mengualjeanphi AT free.fr>\n"
+"POT-Creation-Date: 2018-07-11 09:56+0000\n"
+"PO-Revision-Date: 2018-07-11 12:12+0200\n"
+"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -101,15 +101,51 @@ msgstr "</a>"
 
 #. type: Content of: <div><div><div><p>
 msgid ""
-"<a href=\"https://trisquel.info\">Trisquel&nbsp;8</a> with MATE desktop, "
-"Abrowser (web browser), and Inkscape (vector graphics editor)"
+"<small><a href=\"https://trisquel.info\">Trisquel&nbsp;8</a> with <a href="
+"\"https://mate-desktop.org/\">MATE</a> desktop, Abrowser web browser, and "
+"Inkscape vector graphics editor</small>"
 msgstr ""
 "<a href=\"https://trisquel.info\">Trisquel&nbsp;8</a> avec le bureau MATE, "
-"Abrowser (navigateur web) et Inkscape (éditeur de dessin vectoriel)"
+"le navigateur web Abrowser et l'éditeur de dessins vectoriels Inkscape"
+
+#. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
+msgstr "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><div><table><tr><td><a><img>
+msgid "&nbsp;[Screenshot of GuixSD with GNOME&nbsp;3 desktop]&nbsp;"
+msgstr "&nbsp;[Capture d'écran de GuixSD avec le bureau GNOME&nbsp;3]&nbsp;"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<small><a href=\"/software/guix/\">GuixSD</a> with <a href=\"https://www."
+"gnome.org/\">GNOME&nbsp;3</a> desktop, Epiphany web browser, Totem video "
+"player, and GNOME terminal emulator</small>"
+msgstr ""
+"<small><a href=\"/software/guix/\">GuixSD</a> avec le bureau <a href="
+"\"https://www.gnome.org/\">GNOME&nbsp;3</a>, le navigateur web Epiphany, le "
+"lecteur vidéo Totem et l'émulateur de terminal de GNOME</small>"
+
+#. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/distros/screenshots/gnome3-medium.jpg\">"
+msgstr "<a href=\"/distros/screenshots/gnome3-medium.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><div><table><tr><td><a><img>
+msgid "&nbsp;[Screenshot of GNOME&nbsp;3 desktop]&nbsp;"
+msgstr "&nbsp;[Capture d'écran du bureau GNOME&nbsp;3]&nbsp;"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<small><a href=\"https://www.gnome.org/\">GNOME&nbsp;3</a> desktop with "
+"IceCat web browser, and Gimp image editor</small>"
+msgstr ""
+"<small>Environnement de bureau <a href=\"https://www.gnome.org/"
+"\">GNOME&nbsp;3</a> avec le navigateur web IceCat web browser et l'éditeur "
+"d'images Gimp</small>"
 
 #. type: Content of: <div><div><div><table><tr><td><a>
-msgid "<a href=\"/distros/screenshot.html\">"
-msgstr "<a href=\"/distros/screenshot.html\">"
+msgid "<a href=\"/home.html.html?distro=trisquel8#gnu-linux\">"
+msgstr "<a href=\"/home.html.html?distro=trisquel8#gnu-linux\">"
 
 #. type: Attribute 'alt' of: <div><div><div><table><tr><td><a><img>
 msgid "&nbsp;[Screenshot of Trisquel&nbsp;7 with Gnome Classic desktop]&nbsp;"
@@ -117,28 +153,20 @@ msgstr ""
 "&nbsp;[Capture d'écran de Trisquel&nbsp;7 avec le bureau Gnome Classic]&nbsp;"
 
 #. type: Content of: <div><div><div><table><tr><td><a>
-msgid "<a href=\"/software/guix/\">"
-msgstr "<a href=\"/software/guix/\">"
-
-#. type: Attribute 'alt' of: <div><div><div><table><tr><td><a><img>
-msgid "&nbsp;[Screenshot of guixSD with GNOME&nbsp;3 desktop]&nbsp;"
-msgstr "&nbsp;[Capture d'écran de guixSD avec le bureau GNOME&nbsp;3]&nbsp;"
+msgid "<a href=\"/home.html.html?distro=guix#gnu-linux\">"
+msgstr "<a href=\"/home.html.html?distro=guix#gnu-linux\">"
 
 #. type: Content of: <div><div><div><table><tr><td><a>
-msgid "<a href=\"https://www.gnome.org/\">"
-msgstr "<a href=\"https://www.gnome.org/\">"
-
-#. type: Attribute 'alt' of: <div><div><div><table><tr><td><a><img>
-msgid "&nbsp;[Screenshot of GNOME&nbsp;3 desktop]&nbsp;"
-msgstr "&nbsp;[Capture d'écran du bureau GNOME&nbsp;3]&nbsp;"
+msgid "<a href=\"/home.html?distro=gnome3#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=gnome3#gnu-linux\">"
 
 #. type: Content of: <div><div><div><table><tr><td>
-msgid "<small>Trisquel&nbsp;7 / GNOME Classic</small>"
-msgstr "<small>Trisquel&nbsp;7 / GNOME Classic</small>"
+msgid "<small>Trisquel&nbsp;8 &amp; MATE</small>"
+msgstr "<small>Trisquel&nbsp;8 &amp; MATE</small>"
 
 #. type: Content of: <div><div><div><table><tr><td>
-msgid "<small>GuixSD / GNOME&nbsp;3</small>"
-msgstr "<small>GuixSD / GNOME&nbsp;3</small>"
+msgid "<small>GuixSD &amp; GNOME&nbsp;3</small>"
+msgstr "<small>GuixSD &amp; GNOME&nbsp;3</small>"
 
 #. type: Content of: <div><div><div><table><tr><td>
 msgid "<small>GNOME&nbsp;3</small>"
