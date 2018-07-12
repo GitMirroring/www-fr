@@ -10,8 +10,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2018-07-11 09:56+0000\n"
-"PO-Revision-Date: 2018-07-11 12:12+0200\n"
+"POT-Creation-Date: 2018-07-12 08:26+0000\n"
+"PO-Revision-Date: 2018-07-12 10:16+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -91,7 +91,7 @@ msgstr "<a href=\"/distros/free-distros.html\">Essayer GNU/Linux</a>"
 msgid "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
 msgstr "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><div><div><a><img>
+#. type: Attribute 'alt' of: <div><div><div><table><tr><td><a><img>
 msgid "&nbsp;[Screenshot of Trisquel&nbsp;8 with MATE desktop]&nbsp;"
 msgstr "&nbsp;[Capture d'écran de Trisquel&nbsp;8 avec le bureau MATE]&nbsp;"
 
@@ -106,7 +106,7 @@ msgid ""
 "Inkscape vector graphics editor</small>"
 msgstr ""
 "<a href=\"https://trisquel.info\">Trisquel&nbsp;8</a> avec le bureau MATE, "
-"le navigateur web Abrowser et l'éditeur de dessins vectoriels Inkscape"
+"le navigateur web Abrowser et l'éditeur de dessin vectoriel Inkscape"
 
 #. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
@@ -141,20 +141,15 @@ msgid ""
 msgstr ""
 "<small>Environnement de bureau <a href=\"https://www.gnome.org/"
 "\">GNOME&nbsp;3</a> avec le navigateur web IceCat web browser et l'éditeur "
-"d'images Gimp</small>"
+"d'image Gimp</small>"
 
 #. type: Content of: <div><div><div><table><tr><td><a>
-msgid "<a href=\"/home.html.html?distro=trisquel8#gnu-linux\">"
-msgstr "<a href=\"/home.html.html?distro=trisquel8#gnu-linux\">"
-
-#. type: Attribute 'alt' of: <div><div><div><table><tr><td><a><img>
-msgid "&nbsp;[Screenshot of Trisquel&nbsp;7 with Gnome Classic desktop]&nbsp;"
-msgstr ""
-"&nbsp;[Capture d'écran de Trisquel&nbsp;7 avec le bureau Gnome Classic]&nbsp;"
+msgid "<a href=\"/home.html?distro=trisquel8#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=trisquel8#gnu-linux\">"
 
 #. type: Content of: <div><div><div><table><tr><td><a>
-msgid "<a href=\"/home.html.html?distro=guix#gnu-linux\">"
-msgstr "<a href=\"/home.html.html?distro=guix#gnu-linux\">"
+msgid "<a href=\"/home.html?distro=guix#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=guix#gnu-linux\">"
 
 #. type: Content of: <div><div><div><table><tr><td><a>
 msgid "<a href=\"/home.html?distro=gnome3#gnu-linux\">"
