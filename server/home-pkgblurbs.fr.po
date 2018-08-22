@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home-pkgblurbs.html\n"
-"POT-Creation-Date: 2018-06-04 08:57+0000\n"
-"PO-Revision-Date: 2018-06-04 22:01+0200\n"
+"POT-Creation-Date: 2018-08-22 13:27+0000\n"
+"PO-Revision-Date: 2018-08-22 20:58+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -2263,13 +2263,13 @@ msgstr "<a href=\"/software/global/\">Global</a>"
 
 #. type: Content of: <p>
 msgid ""
-"GLOBAL is a source code tagging system that functions in the same way across "
-"a wide array of environments, such as different text editors, shells and web "
-"browsers.  The resulting tags are useful for quickly moving around in a "
-"large, deeply nested project.  <small>(<a href=\"/manual/manual.html#global"
-"\">doc</a>)</small>"
+"GNU GLOBAL is a source code tagging system that functions in the same way "
+"across a wide array of environments, such as different text editors, shells "
+"and web browsers.  The resulting tags are useful for quickly moving around "
+"in a large, deeply nested project.  <small>(<a href=\"/manual/manual."
+"html#global\">doc</a>)</small>"
 msgstr ""
-"GLOBAL est un système de marquage de code source fonctionnant de façon "
+"GNU GLOBAL est un système de marquage de code source fonctionnant de façon "
 "identique au sein d'un large panel d'environnements de travail, tels que des "
 "éditeurs de texte, terminaux et navigateurs web variés. Les balises ainsi "
 "créées permettent de se déplacer rapidement au sein d'un gros projet très "
@@ -2364,10 +2364,12 @@ msgstr ""
 "afin d'assurer de bonnes performances.  <small>(<a href=\"/manual/manual."
 "html#gnash\">doc</a>)</small>"
 
+#.  TRANSLATORS: stale 
 #. type: Content of: <h4>
 msgid "<a href=\"/software/gnat/\">GNAT</a>"
 msgstr "<a href=\"/software/gnat/\">GNAT</a>"
 
+#.  TRANSLATORS: stale 
 #. type: Content of: <p>
 msgid ""
 "See <a href=\"#gcc\">gcc</a>.  <small>(<a href=\"/manual/manual.html#gnat"
@@ -3803,6 +3805,23 @@ msgstr ""
 "<small>(<a href=\"/manual/manual.html#gvpe\">doc</a>)</small>"
 
 #. type: Content of: <h4>
+msgid "<a href=\"/software/gwl/\">GWL</a>"
+msgstr "<a href=\"/software/gwl/\">GWL</a>"
+
+#. type: Content of: <p>
+msgid ""
+"GWL is a workflow language that extends Guix's declarative language for "
+"package management to automate execution of programs.  Additionally, GWL can "
+"use Grid Engine to offload program execution.  <small>(<a href=\"/manual/"
+"manual.html#gwl\">doc</a>)</small>"
+msgstr ""
+"GWL est un langage de flux de travaux <cite>[workflow]</cite> qui étend le "
+"langage déclaratif de Guix pour l'exécution automatique de programmes par le "
+"gestionnaire de paquets. En outre, GWL peut utiliser Grid Engine pour se "
+"décharger de l'exécution des programmes.  <small>(<a href=\"/manual/manual."
+"html#gwl\">doc</a>)</small>"
+
+#. type: Content of: <h4>
 msgid "<a href=\"/software/gxmessage/\">Gxmessage</a>"
 msgstr "<a href=\"/software/gxmessage/\">Gxmessage</a>"
 
@@ -4349,8 +4368,8 @@ msgstr ""
 "manual/manual.html#libdbh\">doc</a>)</small>"
 
 #. type: Content of: <h4>
-msgid "<a href=\"/software/liberty-eiffel/\">Liberty-eiffel</a>"
-msgstr "<a href=\"/software/liberty-eiffel/\">Liberty-eiffel</a>"
+msgid "<a href=\"/software/liberty-eiffel/\">Liberty Eiffel</a>"
+msgstr "<a href=\"/software/liberty-eiffel/\">Liberty Eiffel</a>"
 
 #. type: Content of: <p>
 msgid ""
@@ -5059,6 +5078,24 @@ msgstr ""
 "cibles de faible capacité mémoire sur GNU/Linux et autres systèmes, ou à "
 "remplacer complètement le gestionnaire de mémoire système.  <small>(<a href="
 "\"/manual/manual.html#mempool\">doc</a>)</small>"
+
+#. type: Content of: <h4>
+msgid "<a href=\"/software/mes/\">Mes</a>"
+msgstr "<a href=\"/software/mes/\">Mes</a>"
+
+#. type: Content of: <p>
+msgid ""
+"GNU Mes aims to help create full source bootstrapping for GNU/Linux systems "
+"such as GuixSD.  It features a mutual self-hosting Scheme interpreter "
+"written in a simple C, and a Nyacc-based C compiler written in GNU Guile-"
+"compatible Scheme.  The Mes C library supports bootstrapping gcc.  <small>"
+"(<a href=\"/manual/manual.html#mes\">doc</a>)</small>"
+msgstr ""
+"GNU Mes vise à la génération complète de systèmes GNU/Linux comme GuixSD à "
+"partir des sources. Il inclut un interpréteur Scheme écrit en C simple, et "
+"un compilateur C, basé sur Nyacc, capables de se générer mutuellement. La "
+"bibliothèque C de Mes permet la génération initiale de gcc.  <small>(<a href="
+"\"/manual/manual.html#mes\">doc</a>)</small>"
 
 #. type: Content of: <h4>
 msgid "<a href=\"/software/metahtml/\">Metahtml</a>"
@@ -6282,6 +6319,7 @@ msgstr "logo de smalltalk"
 msgid "<a href=\"/software/smalltalk/\">Smalltalk</a>"
 msgstr "<a href=\"/software/smalltalk/\">Smalltalk</a>"
 
+#.  TRANSLATORS: stale 
 #. type: Content of: <p>
 msgid ""
 "GNU Smalltalk is a free implementation of the Smalltalk language.  It "
@@ -7113,8 +7151,8 @@ msgid ""
 "a. Compact Disc File System, filesystems and it allows session-wise "
 "manipulation of them.  It features a formatter and burner for CD, DVD and "
 "BD.  It can operate on existing ISO images or it can create new ones.  "
-"xorriso can then be used to copy files directly into or out of ISO file "
-"systems.  <small>(<a href=\"/manual/manual.html#xorriso\">doc</a>)</small>"
+"xorriso can then be used to copy files directly into or out of ISO files.  "
+"<small>(<a href=\"/manual/manual.html#xorriso\">doc</a>)</small>"
 msgstr ""
 "GNU Xorriso est un outil pour copier des fichiers vers ou depuis des "
 "arborescences ISO 9660 RockRidge (système de fichiers des disques compacts) "
@@ -7122,8 +7160,8 @@ msgstr ""
 "outil de formatage et un graveur de CD, DVD et disques Blu-ray. Il peut "
 "traiter des images ISO préexistantes ou en créer de nouvelles. xorriso peut "
 "même s'utiliser pour copier des fichiers directement vers ou depuis des "
-"systèmes de fichiers ISO.  <small>(<a href=\"/manual/manual.html#xorriso"
-"\">doc</a>)</small>"
+"fichiers ISO.  <small>(<a href=\"/manual/manual.html#xorriso\">doc</a>)</"
+"small>"
 
 #. type: Content of: <h4>
 msgid "<a href=\"/software/zile/\">Zile</a>"
