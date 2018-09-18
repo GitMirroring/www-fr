@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: common-distros.html\n"
-"POT-Creation-Date: 2018-08-31 08:55+0000\n"
-"PO-Revision-Date: 2018-08-31 11:05+0200\n"
+"POT-Creation-Date: 2018-09-18 13:55+0000\n"
+"PO-Revision-Date: 2018-09-18 22:14+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -527,6 +527,25 @@ msgstr ""
 "ou significatives qui ne satisfont pas aux critères de liberté."
 
 #. type: Content of: <h3>
+msgid "Android"
+msgstr "Android"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/philosophy/android-and-users-freedom.html\">Android</a> as "
+"released by Google contains many nonfree parts as well as many free parts.  "
+"Most of the free parts are covered by a pushover license (not <a href=\"/"
+"licenses/copyleft.html\">copyleft</a>), so manufacturers that distribute "
+"Android in a product sometimes make those parts nonfree as well."
+msgstr ""
+"<a href=\"/philosophy/android-and-users-freedom.html\">Android</a> tel qu'il "
+"est publié par Google, contient beaucoup de portions non libres ainsi que "
+"beaucoup de portions libres. La plupart des portions libres sont couvertes "
+"par une licence très permissive (sans <a href=\"/licenses/copyleft.html"
+"\">copyleft</a>), de sorte que les fabricants qui distribuent Android dans "
+"un de leurs produits rendent quelquefois ces portions non libres également."
+
+#. type: Content of: <h3>
 msgid "BSD systems"
 msgstr "Systèmes BSD"
 
@@ -562,42 +581,12 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"No BSD distribution has policies against proprietary binary-only firmware "
-"that might be loaded even by free drivers."
+"None of those BSD distributions has policies against proprietary binary-only "
+"firmware that might be loaded even by free drivers."
 msgstr ""
-"Aucune distribution BSD n'a de règle contre les micrologiciels privateurs "
-"fournis sans le code source, que même des pilotes libres peuvent charger."
-
-#. type: Content of: <h3>
-msgid "Haiku"
-msgstr "Haiku"
-
-#. type: Content of: <p>
-msgid ""
-"Haiku includes some software that you're not allowed to modify.  It also "
-"includes nonfree firmware blobs."
-msgstr ""
-"Haiku contient certains logiciels dont la modification n'est pas autorisée. "
-"Elle contient également des blobs de micrologiciel non libre."
-
-#. type: Content of: <h3>
-msgid "Android"
-msgstr "Android"
-
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/philosophy/android-and-users-freedom.html\">Android</a> as "
-"released by Google contains many nonfree parts as well as many free parts.  "
-"Most of the free parts are covered by a pushover license (not <a href=\"/"
-"licenses/copyleft.html\">copyleft</a>), so manufacturers that distribute "
-"Android in a product sometimes make those parts nonfree as well."
-msgstr ""
-"<a href=\"/philosophy/android-and-users-freedom.html\">Android</a> tel qu'il "
-"est publié par Google, contient beaucoup de portions non libres ainsi que "
-"beaucoup de portions libres. La plupart des portions libres sont couvertes "
-"par une licence très permissive (sans <a href=\"/licenses/copyleft.html"
-"\">copyleft</a>), de sorte que les fabricants qui distribuent Android dans "
-"un de leurs produits rendent quelquefois ces portions non libres également."
+"Aucune de ces distributions BSD n'a de règle contre les micrologiciels "
+"privateurs fournis sans le code source, que même des pilotes libres peuvent "
+"charger."
 
 #. type: Content of: <h3>
 msgid "Chrome OS"
@@ -610,6 +599,30 @@ msgid ""
 msgstr ""
 "La partie centrale de Chrome OS est le navigateur non libre Chrome. Il peut "
 "contenir également d'autres éléments non libres."
+
+#. type: Content of: <h3>
+msgid "/e/"
+msgstr "/e/"
+
+#. type: Content of: <p>
+msgid ""
+"/e/ (formerly eelo) is a modified version of Android, which contains nonfree "
+"libraries."
+msgstr ""
+"/e/ (anciennement eelo) est une version modifiée d'Android qui contient des "
+"bibliothèques non libres."
+
+#. type: Content of: <h3>
+msgid "Haiku"
+msgstr "Haiku"
+
+#. type: Content of: <p>
+msgid ""
+"Haiku includes some software that you're not allowed to modify.  It also "
+"includes nonfree firmware blobs."
+msgstr ""
+"Haiku contient certains logiciels dont la modification n'est pas autorisée. "
+"Elle contient également des blobs de micrologiciel non libre."
 
 #. type: Content of: <h3>
 msgid "LineageOS"
