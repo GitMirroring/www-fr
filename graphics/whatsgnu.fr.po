@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: whatsgnu.html\n"
-"POT-Creation-Date: 2015-06-28 16:25+0000\n"
-"PO-Revision-Date: 2015-07-27 16:55+0200\n"
+"POT-Creation-Date: 2018-09-29 11:26+0000\n"
+"PO-Revision-Date: 2018-09-29 19:49+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -29,10 +29,9 @@ msgstr "Qu'est-ce que GNU"
 msgid "<a href=\"/graphics/whats-gnu-sm.jpg\">"
 msgstr "<a href=\"/graphics/whats-gnu-sm.jpg\">"
 
-# Dans un attribut alt, on ne peut pas mettre de balises HTML
 #. type: Attribute 'alt' of: <p><a><img>
-msgid "[image of What's GNU]"
-msgstr "[Image de « What's GNU »]"
+msgid "&nbsp;[GNU head with motto on banderoles]&nbsp;"
+msgstr " [Tête de gnou avec devise sur des banderoles] "
 
 #. type: Content of: <p>
 msgid "</a>"
@@ -153,8 +152,10 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2007, 2013, 2014, 2015 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2007, 2013, 2014, 2015 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2007, 2013, 2014, 2015, 2018 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2007, 2013, 2014, 2015, 2018 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

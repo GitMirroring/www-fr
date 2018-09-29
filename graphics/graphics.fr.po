@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: graphics.html\n"
-"POT-Creation-Date: 2018-08-27 12:57+0000\n"
-"PO-Revision-Date: 2018-08-27 15:09+0200\n"
+"POT-Creation-Date: 2018-09-29 11:26+0000\n"
+"PO-Revision-Date: 2018-09-29 19:49+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -184,16 +184,32 @@ msgid "What's new?"
 msgstr "Quoi de neuf ?"
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"/graphics/gg3po.html\">"
-msgstr "<a href=\"/graphics/gg3po.html\">"
+msgid "<a href=\"/graphics/barr-gnu.html\">"
+msgstr "<a href=\"/graphics/barr-gnu.html\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "X"
-msgstr "X"
+msgid "&nbsp;[GNU logo]&nbsp;"
+msgstr " [Logo pour GNU] "
 
 #. type: Content of: <table><tr><td>
 msgid "</a>"
 msgstr "</a>"
+
+#. type: Content of: <table><tr><td>
+msgid "September 2018: GNU logo"
+msgstr "Septembre 2018 : Un logo pour GNU"
+
+#. type: Content of: <table><tr><td>
+msgid "<small>by Paul Barr</small>"
+msgstr "<small>par Paul Barr</small>"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/gg3po.html\">"
+msgstr "<a href=\"/graphics/gg3po.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[New GNU]&nbsp;"
+msgstr "&nbsp;[Nouveau GNU]&nbsp;"
 
 #. type: Content of: <table><tr><td>
 msgid "August 2018: New GNU"
@@ -207,6 +223,10 @@ msgstr "<small>par gg3po</small>"
 msgid "<a href=\"/graphics/arantxa.html\">"
 msgstr "<a href=\"/graphics/arantxa.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Glitch]&nbsp;"
+msgstr " [« Glitch » (Déformation)] "
+
 #. type: Content of: <table><tr><td>
 msgid "July 2018: GNU designs"
 msgstr "Juillet 2018 : Graphismes GNU"
@@ -218,6 +238,10 @@ msgstr "<small>par Arantxa Serantes</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"https://librefan.eu.org/node/787\">"
 msgstr "<a href=\"https://librefan.eu.org/node/787\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Pepper &amp; Carrot]&nbsp;"
+msgstr " [Pepper &amp; Carrot] "
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -235,6 +259,10 @@ msgstr "<small>par Librefan</small>"
 msgid "<a href=\"/graphics/freedom-reflection.html\">"
 msgstr "<a href=\"/graphics/freedom-reflection.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Reflecting on GNU and freedom]&nbsp;"
+msgstr " [Réflexion sur GNU et la liberté] "
+
 #. type: Content of: <table><tr><td>
 msgid "May 2018: Freedom Reflection"
 msgstr "Mai 2018 : Réflexion sur la liberté"
@@ -251,6 +279,10 @@ msgstr ""
 "<a href=\"https://goblinrefuge.com/mediagoblin/u/emacsomancer/m/my-god-it-s-"
 "full-of-car-s-png\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Meditating GNU with Lisp on background]&nbsp;"
+msgstr " [Gnou en méditation avec Lisp en fond de tableau] "
+
 #. type: Content of: <table><tr><td>
 msgid "January 2018: My God, it's full of &lsquo;car&rsquo;s!"
 msgstr "Janvier 2018 : <cite>My God, it's full of &lsquo;car&rsquo;s!</cite>"
@@ -262,6 +294,10 @@ msgstr "<small>par Benjamin Slade</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/flying-gnu.html\">"
 msgstr "<a href=\"/graphics/flying-gnu.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Flying GNU Design]&nbsp;"
+msgstr " [Gnou volant] "
 
 #. type: Content of: <table><tr><td>
 msgid "October 2017: Flying Gnu"
@@ -275,6 +311,10 @@ msgstr "<small>par Ernesto Bazzano</small>"
 msgid "<a href=\"/graphics/r4sh-gnu-vaporwave.html\">"
 msgstr "<a href=\"/graphics/r4sh-gnu-vaporwave.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU Vaporwave Design]&nbsp;"
+msgstr " [Graphisme GNU dans le style vaporwave] "
+
 #. type: Content of: <table><tr><td>
 msgid "September 2017: GNU Vaporwave Design"
 msgstr "Septembre 2017 : Graphisme GNU dans le style vaporwave"
@@ -282,18 +322,6 @@ msgstr "Septembre 2017 : Graphisme GNU dans le style vaporwave"
 #. type: Content of: <table><tr><td>
 msgid "<small>by R4sH</small>"
 msgstr "<small>par R4sH</small>"
-
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"/graphics/gnu-linux-logos.html\">"
-msgstr "<a href=\"/graphics/gnu-linux-logos.html\">"
-
-#. type: Content of: <table><tr><td>
-msgid "June 2017: GNU/Linux logo"
-msgstr "Juin 2017 : Logo GNU/Linux"
-
-#. type: Content of: <table><tr><td>
-msgid "<small>by Burkhard Jäckel.</small>"
-msgstr "<small>by Burkhard Jäckel</small>"
 
 #. type: Content of: <h3>
 msgid "GNU Art on this site"
@@ -307,9 +335,13 @@ msgstr "<a href=\"#collections\">Section suivante</a>"
 msgid "<a href=\"/graphics/3dbabygnutux.html\">"
 msgstr "<a href=\"/graphics/3dbabygnutux.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[3D baby GNU and baby Tux]&nbsp;"
+msgstr " [Bébé Gnou et bébé Tux en 3D] "
+
 #. type: Content of: <table><tr><td>
 msgid "3D Baby Gnu &amp; Baby Tux"
-msgstr "Bébé Gnou et et bébé Tux en 3D"
+msgstr "Bébé Gnou et bébé Tux en 3D"
 
 #. type: Content of: <table><tr><td>
 msgid "<small>by Nicolas Rougier</small>"
@@ -318,6 +350,10 @@ msgstr "<small>par Nicolas Rougier</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/3dgnuhead.html\">"
 msgstr "<a href=\"/graphics/3dgnuhead.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[3D GNU Head]&nbsp;"
+msgstr " [Tête de GNU en 3D] "
 
 #. type: Content of: <table><tr><td>
 msgid "3D GNU Head"
@@ -331,6 +367,10 @@ msgstr "<small>par Dale Mellor</small>"
 msgid "<a href=\"/graphics/agnubody.html\">"
 msgstr "<a href=\"/graphics/agnubody.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[A GNU Body]&nbsp;"
+msgstr " [Gnou en pied] "
+
 #. type: Content of: <table><tr><td>
 msgid "A Gnu Body"
 msgstr "Un Gnou en pied"
@@ -342,6 +382,10 @@ msgstr "<small>par Graham Wilson</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/agnuhead.html\">"
 msgstr "<a href=\"/graphics/agnuhead.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Image of the head of a GNU]&nbsp;"
+msgstr " [Tête de GNU] "
 
 #. type: Content of: <table><tr><td>
 msgid "A GNU Head"
@@ -359,6 +403,10 @@ msgstr "et images dérivées</small>"
 msgid "<a href=\"/graphics/agnuheadterm.html\">"
 msgstr "<a href=\"/graphics/agnuheadterm.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU Head]&nbsp;"
+msgstr " [Tête de GNU] "
+
 #. type: Content of: <table><tr><td>
 msgid "A GNU Head for terminals"
 msgstr "Une tête de GNU pour les terminaux"
@@ -371,9 +419,13 @@ msgstr "<small>par Mattias Andrée</small>"
 msgid "<a href=\"/graphics/ahurdlogo.html\">"
 msgstr "<a href=\"/graphics/ahurdlogo.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[image of a Spherical Hurd Logo]&nbsp;"
+msgstr " [Logo de HURD au-dessus d'une sphère] "
+
 #. type: Content of: <table><tr><td>
 msgid "Hurd logos"
-msgstr "Logos de Hurd"
+msgstr "Logos pour Hurd"
 
 #. type: Content of: <table><tr><td>
 msgid "<small>resp. by Teddy Hogeborn and Stephen McCamant</small>"
@@ -383,9 +435,13 @@ msgstr "<small>par Teddy Hogeborn et Stephen McCamant, resp.</small>"
 msgid "<a href=\"/graphics/anfsflogo.html\">"
 msgstr "<a href=\"/graphics/anfsflogo.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[image of an FSF Logo on black]&nbsp;"
+msgstr " [Logo sur fond noir pour la FSF ] "
+
 #. type: Content of: <table><tr><td>
 msgid "An FSF logo"
-msgstr "Un logo de la FSF"
+msgstr "Un logo pour la FSF"
 
 #. type: Content of: <table><tr><td>
 msgid "<small>by Shawn Ewald</small>"
@@ -395,9 +451,14 @@ msgstr "<small>par Shawn Ewald</small>"
 msgid "<a href=\"/graphics/anlpflogo.html\">"
 msgstr "<a href=\"/graphics/anlpflogo.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid ""
+"&nbsp;[image of the Statue of Liberty Protecting Software Freedoms]&nbsp;"
+msgstr " [Statue de la liberté protégeant le logiciel libre] "
+
 #. type: Content of: <table><tr><td>
 msgid "An LPF logo"
-msgstr "Un logo de la LPF"
+msgstr "Un logo pour la LPF"
 
 #. type: Content of: <table><tr><td>
 msgid "<small>by Etienne Suvasa</small>"
@@ -407,9 +468,13 @@ msgstr "<small>par Etienne Suvasa</small>"
 msgid "<a href=\"/graphics/atypinggnu.html\">"
 msgstr "<a href=\"/graphics/atypinggnu.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[image of a Typing GNU Hacker]&nbsp;"
+msgstr " [Hacker Gnou à son clavier] "
+
 #. type: Content of: <table><tr><td>
 msgid "A typing Gnu hacker"
-msgstr "Un hacker GNU à son clavier"
+msgstr "Un hacker Gnou à son clavier"
 
 #. type: Content of: <table><tr><td>
 msgid "<small>by Jamal Hannah</small>"
@@ -418,6 +483,10 @@ msgstr "<small>par Jamal Hannah</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/anothertypinggnu.html\">"
 msgstr "<a href=\"/graphics/anothertypinggnu.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[image of Another GNU Hacker]&nbsp;"
+msgstr " [Un autre hacker GNU] "
 
 #. type: Content of: <table><tr><td>
 msgid "Another typing Gnu hacker"
@@ -435,13 +504,25 @@ msgstr "Graphismes GNU"
 msgid "<a href=\"/graphics/babygnu.html\">"
 msgstr "<a href=\"/graphics/babygnu.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[image of a Baby GNU]&nbsp;"
+msgstr " [Bébé Gnou] "
+
 #. type: Content of: <table><tr><td>
 msgid "Baby Gnu"
 msgstr "Bébé Gnou"
 
+#. type: Content of: <table><tr><td>
+msgid "GNU logo"
+msgstr "Un logo pour GNU"
+
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/bokma-gnu.html\">"
 msgstr "<a href=\"/graphics/bokma-gnu.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[image of a GNU]&nbsp;"
+msgstr " [« GNU » avec tête en arrière-plan] "
 
 #. type: Content of: <table><tr><td>
 msgid "GNU and Emacs logos"
@@ -455,6 +536,10 @@ msgstr "<small>par John Bokma</small>"
 msgid "<a href=\"/graphics/bold-initiative-GNU-head.html\">"
 msgstr "<a href=\"/graphics/bold-initiative-GNU-head.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Bold Initiative GNU Head]&nbsp;"
+msgstr " [Tête de GNU alternative contrastée] "
+
 #. type: Content of: <table><tr><td>
 msgid "Winking GNU"
 msgstr "Clin d'œil GNU"
@@ -464,8 +549,12 @@ msgid "<small>by Bravo Edison</small>"
 msgstr "<small>par Bravo Edison</small>"
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"/graphics/bvbn.html\">"
-msgstr "<a href=\"/graphics/bvbn.html\">"
+msgid "<a href=\"/graphics/BVBN.html\">"
+msgstr "<a href=\"/graphics/BVBN.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU Head logo]&nbsp;"
+msgstr " [Tête de gnou] "
 
 #. type: Content of: <table><tr><td>
 msgid "Useful GNU art"
@@ -479,6 +568,10 @@ msgstr "<small>par Vladimir Tsarkov</small>"
 msgid "<a href=\"/graphics/bwcartoon.html\">"
 msgstr "<a href=\"/graphics/bwcartoon.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[B &amp; W Cartoon]&nbsp;"
+msgstr " [Le duo dynamique : le Gnou et le Manchot en vol] "
+
 #. type: Content of: <table><tr><td>
 msgid "The Dynamic Duo: The Gnu and the Penguin in flight"
 msgstr "Le duo dynamique : le Gnou et le Manchot en vol"
@@ -487,9 +580,13 @@ msgstr "Le duo dynamique : le Gnou et le Manchot en vol"
 msgid "<a href=\"/graphics/copyleft-sticker.html\">"
 msgstr "<a href=\"/graphics/copyleft-sticker.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[&quot;Copyleft (L)&quot; sticker]&nbsp;"
+msgstr " [Autocollant “Copyleft (L)”] "
+
 #. type: Content of: <table><tr><td>
 msgid "&ldquo;Copyleft (L)&rdquo; sticker"
-msgstr "Autocollant « Copyleft (C) »"
+msgstr "Autocollant « Copyleft (L) »"
 
 #. type: Content of: <table><tr><td>
 msgid "<small>by Don Hopkins</small>"
@@ -498,6 +595,10 @@ msgstr "<small>par Don Hopkins</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/digital-restrictions-management.html\">"
 msgstr "<a href=\"/graphics/digital-restrictions-management.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[iChains]&nbsp;"
+msgstr " [iChaînes] "
 
 #. type: Content of: <table><tr><td>
 msgid "Digital Restrictions Management"
@@ -511,6 +612,10 @@ msgstr "<small>par Chris Hayes</small>"
 msgid "<a href=\"/graphics/distros-dragora.html\">"
 msgstr "<a href=\"/graphics/distros-dragora.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Dragora Logo]&nbsp;"
+msgstr " [Logo de Dragora] "
+
 #. type: Content of: <table><tr><td>
 msgid "Dragora logo"
 msgstr "Logo de Dragora"
@@ -518,6 +623,10 @@ msgstr "Logo de Dragora"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/dog.html\">"
 msgstr "<a href=\"/graphics/dog.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Dog, wondering at pop-up ads]&nbsp;"
+msgstr " [Chien perplexe devant des pubs] "
 
 #. type: Content of: <table><tr><td>
 msgid "Dog Cartoon"
@@ -530,6 +639,10 @@ msgstr "<small>par Richard Stallman et Antonomakia</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/emacs-ref.html\">"
 msgstr "<a href=\"/graphics/emacs-ref.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Reference card with GNU face]&nbsp;"
+msgstr " [Fiche de référence avec tête de GNU] "
 
 #. type: Content of: <table><tr><td>
 msgid "GNU Emacs Reference Wallpaper"
@@ -547,6 +660,10 @@ msgstr "Gnou volant"
 msgid "<a href=\"/graphics/freedom.html\">"
 msgstr "<a href=\"/graphics/freedom.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Levitating RMS speaking about freedom]&nbsp;"
+msgstr " [RMS en lévitation parlant de la liberté] "
+
 #. type: Content of: <table><tr><td>
 msgid "What Freedom Means"
 msgstr "Ce que signifie « liberté »"
@@ -563,6 +680,14 @@ msgstr "Réflexion sur la liberté"
 msgid "<a href=\"/graphics/free-software-dealers.html\">"
 msgstr "<a href=\"/graphics/free-software-dealers.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid ""
+"&nbsp;[Gnu and Tux as messengers of free software in the desolate land of "
+"proprietary software]&nbsp;"
+msgstr ""
+"&nbsp;[Gnou and Tux, messagers du logiciel libre au pays dévasté du logiciel "
+"privateur] "
+
 #. type: Content of: <table><tr><td>
 msgid "Free-Software Dealers"
 msgstr "Messagers du logiciel libre"
@@ -574,6 +699,10 @@ msgstr "<small>par Péhä</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/free-your-soul.html\">"
 msgstr "<a href=\"/graphics/free-your-soul.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[ Free Your Soul Wallpaper ]&nbsp;"
+msgstr " [Fond d'écran « Libérez votre esprit »] "
 
 #. type: Content of: <table><tr><td>
 msgid "Free Your Soul"
@@ -587,6 +716,10 @@ msgstr "<small>par Sayem Chaklader</small>"
 msgid "<a href=\"/graphics/french-motto.html\">"
 msgstr "<a href=\"/graphics/french-motto.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[liberty, equality, brotherhood button]&nbsp;"
+msgstr " [Bouton « Liberté Égalité Fraternité »] "
+
 #. type: Content of: <table><tr><td>
 msgid "French motto"
 msgstr "Liberté Égalité Fraternité"
@@ -598,6 +731,10 @@ msgstr "<small>par Lutz Bürger</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/fromagnulinux.html\">"
 msgstr "<a href=\"/graphics/fromagnulinux.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Fromagnulinux]&nbsp;"
+msgstr " [Fromagnulinux] "
 
 #. type: Content of: <table><tr><td>
 msgid "Fromagnulinux"
@@ -611,6 +748,10 @@ msgstr "<small>par Denis Trimaille</small>"
 msgid "<a href=\"/graphics/fsf-logo.html\">"
 msgstr "<a href=\"/graphics/fsf-logo.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[The Official FSF Logo]&nbsp;"
+msgstr " [Logo officiel de la FSF] "
+
 #. type: Content of: <table><tr><td>
 msgid "Free Software Foundation logo"
 msgstr "Logo de la Free Software Foundation"
@@ -622,6 +763,10 @@ msgstr "<small>par Li Jiang</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/FSFS-logo.html\">"
 msgstr "<a href=\"/graphics/FSFS-logo.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[The book cover logo for 'Free Software, Free Society']&nbsp;"
+msgstr " [Logo-titre du livre « Free Software, Free Society »] "
 
 #. type: Content of: <table><tr><td>
 msgid "Book cover logo for Free Software, Free Society"
@@ -635,6 +780,10 @@ msgstr "Nouveau GNU"
 msgid "<a href=\"/graphics/gleesons.html\">"
 msgstr "<a href=\"/graphics/gleesons.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[colorful rounded image of the Head of a GNU]&nbsp;"
+msgstr " [Tête de GNU arrondie en couleur] "
+
 #. type: Content of: <table><tr><td>
 msgid "GNU art"
 msgstr "Illustrations GNU"
@@ -644,8 +793,12 @@ msgid "<small>by Brendon Gleeson</small>"
 msgstr "<small>par Brendon Gleeson</small>"
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"/graphics/gnewsense.html\">"
-msgstr "<a href=\"/graphics/gnewsense.html\">"
+msgid "<a href=\"/graphics/gNewSense.html\">"
+msgstr "<a href=\"/graphics/gNewSense.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[gNewSense Logo]&nbsp;"
+msgstr " [Logo de gNewSense] "
 
 #. type: Content of: <table><tr><td>
 msgid "gNewSense logo"
@@ -655,6 +808,10 @@ msgstr "Logo de gNewSense"
 msgid "<a href=\"/graphics/gnu-30.html\">"
 msgstr "<a href=\"/graphics/gnu-30.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU 30th - Celebrating 30 years]&nbsp;"
+msgstr " [Badge célébrant les 30 ans de GNU] "
+
 #. type: Content of: <table><tr><td>
 msgid "GNU 30th birthday"
 msgstr "30ème anniversaire de GNU"
@@ -662,6 +819,10 @@ msgstr "30ème anniversaire de GNU"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnu-alternative.html\">"
 msgstr "<a href=\"/graphics/gnu-alternative.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[image of the Head of a GNU]&nbsp;"
+msgstr " [Tête de GNU alternative] "
 
 #. type: Content of: <table><tr><td>
 msgid "Alternative GNU Head"
@@ -671,9 +832,13 @@ msgstr "Tête de GNU alternative"
 msgid "<a href=\"/graphics/gnu-ascii.html\">"
 msgstr "<a href=\"/graphics/gnu-ascii.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[ASCII Gnu]&nbsp;"
+msgstr " [Gnou en ASCII] "
+
 #. type: Content of: <table><tr><td>
 msgid "An ASCII GNU"
-msgstr "Un GNU en ASCII"
+msgstr "Un gnou en ASCII"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnu-ascii2.html\">"
@@ -681,7 +846,7 @@ msgstr "<a href=\"/graphics/gnu-ascii2.html\">"
 
 #. type: Content of: <table><tr><td>
 msgid "Another ASCII GNU (for email signatures)"
-msgstr "Un autre GNU en ASCII (pour signer les courriels)"
+msgstr "Un autre gnou en ASCII (pour signer les courriels)"
 
 #. type: Content of: <table><tr><td>
 msgid "<small>by Martin Dickopp</small>"
@@ -690,6 +855,10 @@ msgstr "<small>par Martin Dickopp</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnu-ascii-liberty.html\">"
 msgstr "<a href=\"/graphics/gnu-ascii-liberty.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[ASCII Gnu is liberty]&nbsp;"
+msgstr " [« GNU is Liberty » en ASCII] "
 
 #. type: Content of: <table><tr><td>
 msgid "An ASCII &ldquo;GNU is Liberty&rdquo;"
@@ -703,6 +872,10 @@ msgstr "<small>par Carlos Contreras A.</small>"
 msgid "<a href=\"/graphics/gnu-born-free-run-free.html\">"
 msgstr "<a href=\"/graphics/gnu-born-free-run-free.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[A gnu running]&nbsp;"
+msgstr " [Un gnou courant aussi vite que le vent] "
+
 #. type: Content of: <table><tr><td>
 msgid "GNU Born Free Runs Free"
 msgstr "<cite>GNU Born Free Runs Free</cite> (GNU, né libre, tourne librement)"
@@ -714,6 +887,10 @@ msgstr "<small>par Alicia Lapekas</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnu-head-luk.html\">"
 msgstr "<a href=\"/graphics/gnu-head-luk.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Luk's GNU head]&nbsp;"
+msgstr " [Tête de GNU de Luk] "
 
 #. type: Content of: <table><tr><td>
 msgid "GNU Head"
@@ -727,6 +904,10 @@ msgstr "<small>par Luk</small>"
 msgid "<a href=\"/graphics/gnu-head-shadow.html\">"
 msgstr "<a href=\"/graphics/gnu-head-shadow.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU banner saying: run free run gnu]&nbsp;"
+msgstr " [Bannière GNU avec « Run free run GNU »] "
+
 #. type: Content of: <table><tr><td>
 msgid "A GNU Head shadowed"
 msgstr "Une tête de GNU en ombres chinoises"
@@ -738,6 +919,10 @@ msgstr "<small>par Vladimir Zúñiga</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnu-inside.html\">"
 msgstr "<a href=\"/graphics/gnu-inside.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Fragment of the head of a GNU]&nbsp;"
+msgstr " [Portion de la tête de GNU] "
 
 #. type: Content of: <table><tr><td>
 msgid "GNU Inside"
@@ -751,17 +936,29 @@ msgstr "<small>par Mike Gerwitz</small>"
 msgid "<a href=\"/graphics/gnu-jacket.html\">"
 msgstr "<a href=\"/graphics/gnu-jacket.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Gnu wearing a jacket]&nbsp;"
+msgstr " [Un gnou portant une veste] "
+
 #. type: Content of: <table><tr><td>
 msgid "A Gnu wearing a jacket"
-msgstr "Un Gnou portant une veste"
+msgstr "Un gnou portant une veste"
 
 #. type: Content of: <table><tr><td>
 msgid "<small>by Sarah Katzenell Rabkin</small>"
 msgstr "<small>par Sarah Katzenell Rabkin</small>"
 
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/gnu-linux-logos.html\">"
+msgstr "<a href=\"/graphics/gnu-linux-logos.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Powered by GNU/Linux]&nbsp;"
+msgstr " [Propulsé par GNU/Linux] "
+
 #. type: Content of: <table><tr><td>
 msgid "GNU/Linux logos"
-msgstr "Logos de GNU/Linux"
+msgstr "Logos pour GNU/Linux"
 
 #. type: Content of: <table><tr><td>
 msgid "<small>by Burkhard Jäckel</small>"
@@ -770,6 +967,10 @@ msgstr "<small>par Burkhard Jäckel</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnu-slash-linux.html\">"
 msgstr "<a href=\"/graphics/gnu-slash-linux.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU/Linux on black]&nbsp;"
+msgstr " [GNU/Linux sur fond noir] "
 
 #. type: Content of: <table><tr><td>
 msgid "GNU/Linux art"
@@ -783,6 +984,10 @@ msgstr "<small>par Rui Damas</small>"
 msgid "<a href=\"/graphics/gnubanner.html\">"
 msgstr "<a href=\"/graphics/gnubanner.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Come and see what GNU creates for YOU]&nbsp;"
+msgstr " [Venez voir ce que GNU crée pour VOUS] "
+
 #. type: Content of: <table><tr><td>
 msgid "GNU banners"
 msgstr "Bannières GNU"
@@ -795,17 +1000,25 @@ msgstr "<small>par Stefan Rieken, Lalo Martins et SpAwN, resp.</small>"
 msgid "<a href=\"/graphics/gnuhornedlogo.html\">"
 msgstr "<a href=\"/graphics/gnuhornedlogo.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU Horned Word Logo]&nbsp;"
+msgstr " [Logo avec le mot « GNU » surmonté de cornes] "
+
 #. type: Content of: <table><tr><td>
 msgid "A GNU logo with horns"
-msgstr "Un logo GNU avec des cornes"
+msgstr "Un logo pour GNU avec des cornes"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnulove.html\">"
 msgstr "<a href=\"/graphics/gnulove.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU Love]&nbsp;"
+msgstr " [Amour GNU] "
+
 #. type: Content of: <table><tr><td>
 msgid "A Penguin Hugging A Gnu"
-msgstr "Un Manchot enlaçant un Gnou"
+msgstr "Un manchot enlaçant un gnou"
 
 #. type: Content of: <table><tr><td>
 msgid "<small>by Alison Upton</small>"
@@ -814,6 +1027,10 @@ msgstr "<small>par Alison Upton</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnuolantern.html\">"
 msgstr "<a href=\"/graphics/gnuolantern.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNUoLantern]&nbsp;"
+msgstr " [Lanterne-citrouille GNU] "
 
 #. type: Content of: <table><tr><td>
 msgid "GNU o Lantern"
@@ -827,9 +1044,13 @@ msgstr "<small>sculptée par Lorena Cid-Montiel</small>"
 msgid "<a href=\"/graphics/gnupascal.html\">"
 msgstr "<a href=\"/graphics/gnupascal.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[image of a Gnu and Blaise Pascal]&nbsp;"
+msgstr " [Gnou avec Blaise Pascal] "
+
 #. type: Content of: <table><tr><td>
 msgid "Gnu and Blaise Pascal"
-msgstr "Le Gnou avec Blaise Pascal"
+msgstr "Gnou avec Blaise Pascal"
 
 #. type: Content of: <table><tr><td>
 msgid "<small>by Markus Gerwinski</small>"
@@ -838,6 +1059,10 @@ msgstr "<small>par Markus Gerwinski</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnupumpkin.html\">"
 msgstr "<a href=\"/graphics/gnupumpkin.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU Pumpkin]&nbsp;"
+msgstr " [Citrouille GNU] "
 
 #. type: Content of: <table><tr><td>
 msgid "GNU Pumpkin"
@@ -851,6 +1076,10 @@ msgstr "<small>sculptée par Jimmy Rustles</small>"
 msgid "<a href=\"/graphics/groff-head.html\">"
 msgstr "<a href=\"/graphics/groff-head.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[image of the Head of a GNU with a printing press]&nbsp;"
+msgstr " [Tête de GNU avec une presse d'imprimeur] "
+
 #. type: Content of: <table><tr><td>
 msgid "Groff Head"
 msgstr "Tête de Groff"
@@ -862,6 +1091,10 @@ msgstr "<small>par Imogen Mulley</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/heckert_gnu.html\">"
 msgstr "<a href=\"/graphics/heckert_gnu.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Bold image of the head of a GNU]&nbsp;"
+msgstr " [Version contrastée de la tête de GNU] "
 
 #. type: Content of: <table><tr><td>
 msgid "Bold alternative GNU Head"
@@ -875,6 +1108,10 @@ msgstr "<small>par Aurelio A. Heckert</small>"
 msgid "<a href=\"/graphics/hitflip-gnu.html\">"
 msgstr "<a href=\"/graphics/hitflip-gnu.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Hitflip 1 small]&nbsp;"
+msgstr " [Photo d'une pièce gravée avec la tête de GNU] "
+
 #. type: Content of: <table><tr><td>
 msgid "GNU coin and herd"
 msgstr "Pièce GNU et troupeau de gnous"
@@ -886,6 +1123,10 @@ msgstr "<small>par la Hitflip Team</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/httptunnel-logo.html\">"
 msgstr "<a href=\"/graphics/httptunnel-logo.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[httptunnel logo]&nbsp;"
+msgstr " [Logo de HTTP-Tunnel] "
 
 #. type: Content of: <table><tr><td>
 msgid "HTTP-Tunnel logo"
@@ -899,6 +1140,10 @@ msgstr "<small>par Harri Manni</small>"
 msgid "<a href=\"/graphics/hurd_mf.html\">"
 msgstr "<a href=\"/graphics/hurd_mf.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[small image of a Hurd Metafont Logo]&nbsp;"
+msgstr " [Petit logo de Hurd en Metafont] "
+
 #. type: Content of: <table><tr><td>
 msgid "Hurd logos in Metafont"
 msgstr "Logos de Hurd en Metafont"
@@ -910,6 +1155,10 @@ msgstr "<small>par Stephen McCamant</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/jesus-cartoon.html\">"
 msgstr "<a href=\"/graphics/jesus-cartoon.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Bill Gates and Jesus]&nbsp;"
+msgstr " [Bill Gates et Jésus] "
 
 #. type: Content of: <table><tr><td>
 msgid "A cartoon featuring Jesus and..."
@@ -923,9 +1172,13 @@ msgstr "<small>par Phil Garcia et Don Berry</small>"
 msgid "<a href=\"/graphics/kafa.html\">"
 msgstr "<a href=\"/graphics/kafa.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Abstract art of the GNU]&nbsp;"
+msgstr " [Gnou dans le style abstrait] "
+
 #. type: Content of: <table><tr><td>
 msgid "Abstract GNU Art"
-msgstr "Art GNU abstrait"
+msgstr "Gnou dans le style abstrait"
 
 #. type: Content of: <table><tr><td>
 msgid "<small>by Kursad Karatas</small>"
@@ -934,6 +1187,10 @@ msgstr "<small>par Kursad Karatas</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/listen.html\">"
 msgstr "<a href=\"/graphics/listen.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Listening Gnu]&nbsp;"
+msgstr " [Gnou aux écouteurs] "
 
 #. type: Content of: <table><tr><td>
 msgid "Listening Gnu"
@@ -947,6 +1204,10 @@ msgstr "<small>par la Nevrax Design Team</small>"
 msgid "<a href=\"/graphics/lovchik-gnu.html\">"
 msgstr "<a href=\"/graphics/lovchik-gnu.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Colored GNU head]&nbsp;"
+msgstr " [Tête de GNU en couleur] "
+
 #. type: Content of: <table><tr><td>
 msgid "Colored GNU Head"
 msgstr "Tête de GNU en couleur"
@@ -959,6 +1220,10 @@ msgstr "<small>by Lisa J. Lovchik</small>"
 msgid "<a href=\"/graphics/meditate.html\">"
 msgstr "<a href=\"/graphics/meditate.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Levitating, Meditating, Flue-playing Gnu]&nbsp;"
+msgstr " [Gnou en lévitation et en méditation jouant de la flûte] "
+
 #. type: Content of: <table><tr><td>
 msgid "Levitating, Meditating, Flute-playing Gnu"
 msgstr "Gnou en lévitation et en méditation jouant de la flûte"
@@ -966,6 +1231,10 @@ msgstr "Gnou en lévitation et en méditation jouant de la flûte"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnu-and-tux-icon.html\">"
 msgstr "<a href=\"/graphics/gnu-and-tux-icon.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU and Tux]&nbsp;"
+msgstr " [Gnou et Tux] "
 
 #. type: Content of: <table><tr><td>
 msgid "Gnu and Tux Icon"
@@ -979,6 +1248,10 @@ msgstr "<small>by Sventsitskaya Nadezda</small>"
 msgid "<a href=\"/graphics/nandakumar-gnu.html\">"
 msgstr "<a href=\"/graphics/nandakumar-gnu.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU liberating a computer]&nbsp;"
+msgstr " [Gnou libérant un ordinateur] "
+
 #. type: Content of: <table><tr><td>
 msgid "GNU Gives Freedom"
 msgstr "GNU donne la liberté"
@@ -990,6 +1263,10 @@ msgstr "<small>par Nandakumar</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/navaneeth-gnu.html\">"
 msgstr "<a href=\"/graphics/navaneeth-gnu.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[A computer dreaming about GNU for freedom]&nbsp;"
+msgstr " [Un ordinateur rêvant de GNU et de liberté] "
 
 #. type: Content of: <table><tr><td>
 msgid "Give Me Freedom"
@@ -1003,6 +1280,10 @@ msgstr "<small>par Navaneeth</small>"
 msgid "<a href=\"/graphics/philosophicalgnu.html\">"
 msgstr "<a href=\"/graphics/philosophicalgnu.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Philosophical Gnu]&nbsp;"
+msgstr " [Gnou philosophe] "
+
 #. type: Content of: <table><tr><td>
 msgid "A Philosophical Gnu"
 msgstr "Gnou philosophe"
@@ -1010,6 +1291,10 @@ msgstr "Gnou philosophe"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/philosoputer.html\">"
 msgstr "<a href=\"/graphics/philosoputer.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Digital philosopher]&nbsp;"
+msgstr " [Philosophe numérique] "
 
 #. type: Content of: <table><tr><td>
 msgid "Philosoputer"
@@ -1023,6 +1308,10 @@ msgstr "<small>par Braydon Fuller</small>"
 msgid "<a href=\"/graphics/plant-onion.html\">"
 msgstr "<a href=\"/graphics/plant-onion.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Gnu and Tux plant onions]&nbsp;"
+msgstr " [Gnou et Tux plantent des oignons] "
+
 #. type: Content of: <table><tr><td>
 msgid "Plant Onions!"
 msgstr "Plantez des oignons !"
@@ -1034,6 +1323,10 @@ msgstr "Graphisme GNU dans le style vaporwave"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/reiss-gnuhead.html\">"
 msgstr "<a href=\"/graphics/reiss-gnuhead.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Head of a GNU]&nbsp;"
+msgstr " [Tête de GNU] "
 
 #. type: Content of: <table><tr><td>
 msgid "Color GNU Head"
@@ -1047,6 +1340,10 @@ msgstr "<small>par Joseph W. Reiss</small>"
 msgid "<a href=\"/graphics/runfreegnu.html\">"
 msgstr "<a href=\"/graphics/runfreegnu.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;['Run free run GNU' banner]&nbsp;"
+msgstr " [Bannière « Run free run GNU »] "
+
 #. type: Content of: <table><tr><td>
 msgid "Run free run GNU"
 msgstr "<cite>Run free run GNU</cite>"
@@ -1055,9 +1352,13 @@ msgstr "<cite>Run free run GNU</cite>"
 msgid "<a href=\"/graphics/santa-gnu.html\">"
 msgstr "<a href=\"/graphics/santa-gnu.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Santa Claus GNU]&nbsp;"
+msgstr " [Gnou en Père Noël] "
+
 #. type: Content of: <table><tr><td>
 msgid "Santa Claus Gnu"
-msgstr "Père Noël GNU"
+msgstr "Gnou en Père Noël"
 
 #. type: Content of: <table><tr><td>
 msgid "<small>by Luciano Lourenço</small>"
@@ -1066,6 +1367,10 @@ msgstr "<small>par Luciano Lourenço</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/scowcroft.html\">"
 msgstr "<a href=\"/graphics/scowcroft.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU with stars]&nbsp;"
+msgstr " [Gnou coloré, habillé de motifs décoratifs] "
 
 #. type: Content of: <table><tr><td>
 msgid "Gnu Characters"
@@ -1079,9 +1384,13 @@ msgstr "<small>par Carol Anne Scowcroft</small>"
 msgid "<a href=\"/graphics/skwetu-gnu-logo.html\">"
 msgstr "<a href=\"/graphics/skwetu-gnu-logo.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Skwetu's GNU Logo]&nbsp;"
+msgstr " [Tête de gnou stylisée, très colorée (rouge et bleue)] "
+
 #. type: Content of: <table><tr><td>
 msgid "A Shishalh GNU logo"
-msgstr "Un logo GNU dans le style salish"
+msgstr "Logo pour GNU dans le style salish"
 
 #. type: Content of: <table><tr><td>
 msgid "<small>by Skwetu</small>"
@@ -1091,13 +1400,21 @@ msgstr "<small>par Skwetu</small>"
 msgid "<a href=\"/graphics/skwid-wallpapers.html\">"
 msgstr "<a href=\"/graphics/skwid-wallpapers.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Free Side of the Force wallpaper]&nbsp;"
+msgstr " [Fond d'écran « Du côté libre de la force »] "
+
 #. type: Content of: <table><tr><td>
 msgid "<small>by Ben &ldquo;Skwid&rdquo; Gailly</small>"
-msgstr "<small>by Ben « Skwid » Gailly</small>"
+msgstr "<small>par Ben « Skwid » Gailly</small>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/slickgnu.html\">"
 msgstr "<a href=\"/graphics/slickgnu.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[The Spirit of Freedom]&nbsp;"
+msgstr " [L'esprit de la liberté] "
 
 #. type: Content of: <table><tr><td>
 msgid "A slick GNU logo"
@@ -1110,6 +1427,10 @@ msgstr "<small>par Brian Bush</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/social.html\">"
 msgstr "<a href=\"/graphics/social.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU social Logo]&nbsp;"
+msgstr " [Logo de GNU Social] "
 
 #. type: Content of: <table><tr><td>
 msgid "The GNU Social logo"
@@ -1135,6 +1456,10 @@ msgstr "<small>par Denís Fernández Cabrera</small>"
 msgid "<a href=\"/graphics/stallman-as-saint-ignucius.html\">"
 msgstr "<a href=\"/graphics/stallman-as-saint-ignucius.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Stallman as Saint Ignucius]&nbsp;"
+msgstr " [Stallman en Saint Ignace] "
+
 #. type: Content of: <table><tr><td>
 msgid "Stallman as Saint Ignucius"
 msgstr "Stallman en Saint Ignace"
@@ -1142,6 +1467,10 @@ msgstr "Stallman en Saint Ignace"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/stark-gnuherd.html\">"
 msgstr "<a href=\"/graphics/stark-gnuherd.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU banner]&nbsp;"
+msgstr " [Bannière « Les gnous vivent en horde »] "
 
 #. type: Content of: <table><tr><td>
 msgid "Herd Banner"
@@ -1155,6 +1484,10 @@ msgstr "<small>par Jochen St&auml;rk</small>"
 msgid "<a href=\"/graphics/supergnu-ascii.html\">"
 msgstr "<a href=\"/graphics/supergnu-ascii.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[ASCII Super Gnu]&nbsp;"
+msgstr " [Un Supergnou en ASCII] "
+
 #. type: Content of: <table><tr><td>
 msgid "An ASCII Super Gnu"
 msgstr "Un Supergnou en ASCII"
@@ -1167,6 +1500,10 @@ msgstr "<small>par Vijay Kumar</small>"
 msgid "<a href=\"/graphics/alternative-ascii.html\">"
 msgstr "<a href=\"/graphics/alternative-ascii.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[ASCII GNU head]&nbsp;"
+msgstr " [Tête de gnou en ASCII] "
+
 #. type: Content of: <table><tr><td>
 msgid "Another ASCII GNU"
 msgstr "Un autre GNU en ASCII"
@@ -1174,6 +1511,10 @@ msgstr "Un autre GNU en ASCII"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/this-is-freedom-wallpaper.html\">"
 msgstr "<a href=\"/graphics/this-is-freedom-wallpaper.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;['this is freedom' wallpaper]&nbsp;"
+msgstr " [Fond d'écran « Voici la liberté »] "
 
 #. type: Content of: <table><tr><td>
 msgid "This is Freedom"
@@ -1184,8 +1525,12 @@ msgid "<small>by Vadim Gush</small>"
 msgstr "<small>par Vadim Gush</small>"
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"/graphics/trisquel.html\">"
-msgstr "<a href=\"/graphics/trisquel.html\">"
+msgid "<a href=\"/graphics/Trisquel.html\">"
+msgstr "<a href=\"/graphics/Trisquel.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Trisquel Logo]&nbsp;"
+msgstr " [Logo de Trisquel] "
 
 #. type: Content of: <table><tr><td>
 msgid "Trisquel logo"
@@ -1194,6 +1539,10 @@ msgstr "Logo de Trisquel"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/usegnu.html\">"
 msgstr "<a href=\"/graphics/usegnu.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Pseudo-Lisp (Use 'GNU)]&nbsp;"
+msgstr " [Pseudo-Lisp (Use 'GNU)] "
 
 #. type: Content of: <table><tr><td>
 msgid "Use 'GNU"
@@ -1207,6 +1556,10 @@ msgstr "<small>par Etienne Suvasa et l'équipe de la FSF</small>"
 msgid "<a href=\"/graphics/whatsgnu.html\">"
 msgstr "<a href=\"/graphics/whatsgnu.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU head with motto on banderoles]&nbsp;"
+msgstr " [Tête de gnou avec devise sur des banderoles] "
+
 #. type: Content of: <table><tr><td>
 msgid "What's GNU"
 msgstr "<cite>What's GNU</cite>"
@@ -1214,6 +1567,10 @@ msgstr "<cite>What's GNU</cite>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/winkler-gnu.html\">"
 msgstr "<a href=\"/graphics/winkler-gnu.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Kyle's Alternative GNU logo]&nbsp;"
+msgstr " [Logo alternatif pour GNU] "
 
 #. type: Content of: <table><tr><td>
 msgid "Alternative GNU logo"
@@ -1224,24 +1581,36 @@ msgid "<small>by Kyle Winkler</small>"
 msgstr "<small>par Kyle Winkler</small>"
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"/graphics/adrienne/\">"
-msgstr "<a href=\"/graphics/adrienne/\">"
+msgid "<a href=\"/graphics/adrienne/index.html\">"
+msgstr "<a href=\"/graphics/adrienne/index.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[A dancing GNU]&nbsp;"
+msgstr " [Un gnou dançant] "
 
 #. type: Content of: <table><tr><td>
 msgid "<small>by Adrienne Thompson</small>"
 msgstr "<small>par Adrienne Thompson</small>"
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"/graphics/bahlon/\">"
-msgstr "<a href=\"/graphics/bahlon/\">"
+msgid "<a href=\"/graphics/bahlon/index.html\">"
+msgstr "<a href=\"/graphics/bahlon/index.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[3D Gnu head]&nbsp;"
+msgstr " [Tête de GNU en 3D] "
 
 #. type: Content of: <table><tr><td>
 msgid "<small>by Georg Bahlon</small>"
 msgstr "<small>par Georg Bahlon</small>"
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"/graphics/behroze/\">"
-msgstr "<a href=\"/graphics/behroze/\">"
+msgid "<a href=\"/graphics/behroze/index.html\">"
+msgstr "<a href=\"/graphics/behroze/index.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[We run GNU]&nbsp;"
+msgstr " [« We run GNU »] "
 
 #. type: Content of: <table><tr><td>
 msgid "GNU buttons"
@@ -1255,13 +1624,21 @@ msgstr "<small>par Behroze Nejaati</small>"
 msgid "<a href=\"/graphics/fsfsociety/fsfsociety.html\">"
 msgstr "<a href=\"/graphics/fsfsociety/fsfsociety.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU party]&nbsp;"
+msgstr " [Fête GNU] "
+
 #. type: Content of: <table><tr><td>
 msgid "Graphics from <i>Free Software, Free Society</i>"
 msgstr "Illustrations du livre de Stallman <i>Free Software, Free Society</i>"
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"/graphics/gnu-post/\">"
-msgstr "<a href=\"/graphics/gnu-post/\">"
+msgid "<a href=\"/graphics/gnu-post/index.html\">"
+msgstr "<a href=\"/graphics/gnu-post/index.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU Post seal]&nbsp;"
+msgstr " [Cachet postal GNU] "
 
 #. type: Content of: <table><tr><td>
 msgid "GNU Post images"
@@ -1274,6 +1651,10 @@ msgstr "<small>par Tomasz W. Koz&#322;owski</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnu-and-freedo/gnu-and-freedo.html\">"
 msgstr "<a href=\"/graphics/gnu-and-freedo/gnu-and-freedo.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU + Freedo]&nbsp;"
+msgstr " [Gnou et Freedo] "
 
 #. type: Content of: <table><tr><td>
 msgid "Gnu + Freedo characters"
@@ -1289,6 +1670,10 @@ msgstr ""
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/umsa/umsa.html\">"
 msgstr "<a href=\"/graphics/umsa/umsa.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Tux riding GNU]&nbsp;"
+msgstr " [Tux montant Gnou en rodéo] "
 
 #. type: Content of: <table><tr><td>
 msgid "Designs for the UMSA course &ldquo;Núcleo GNU/Linux&rdquo;"
@@ -1308,6 +1693,10 @@ msgstr "Collections"
 msgid "<a href=\"/graphics/avatars.html\">"
 msgstr "<a href=\"/graphics/avatars.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[An avatar based on Georg Bahlon's 3D GNU head]&nbsp;"
+msgstr " [Avatar basé sur la tête de GNU en 3D de Georg Bahlon] "
+
 #. type: Content of: <table><tr><td>
 msgid "Avatars"
 msgstr "Avatars"
@@ -1315,6 +1704,10 @@ msgstr "Avatars"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnusvgart.html\">"
 msgstr "<a href=\"/graphics/gnusvgart.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Running GNU]&nbsp;"
+msgstr " [Gnou caracolant] "
 
 #. type: Content of: <table><tr><td>
 msgid "GNU art in SVG format"
@@ -1324,6 +1717,10 @@ msgstr "Illustrations GNU au format SVG"
 msgid "<a href=\"/graphics/historic-gnu-press.html\">"
 msgstr "<a href=\"/graphics/historic-gnu-press.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Emacs logo]&nbsp;"
+msgstr " [Logo d'Emacs] "
+
 #. type: Content of: <table><tr><td>
 msgid "Historic GNU press items"
 msgstr "Objets de collection <cite>GNU Press</cite>"
@@ -1331,6 +1728,10 @@ msgstr "Objets de collection <cite>GNU Press</cite>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/license-logos.html\">"
 msgstr "<a href=\"/graphics/license-logos.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GFDL logo]&nbsp;"
+msgstr " [Logo de la GFDL] "
 
 #. type: Content of: <table><tr><td>
 msgid "GNU license logos"
@@ -1340,6 +1741,10 @@ msgstr "Logos des licences GNU"
 msgid "<a href=\"/graphics/package-logos.html\">"
 msgstr "<a href=\"/graphics/package-logos.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[gnowsys logo]&nbsp;"
+msgstr " [Logo de Gnowsys] "
+
 #. type: Content of: <table><tr><td>
 msgid "Logos of GNU packages"
 msgstr "Logos des paquets GNU"
@@ -1347,6 +1752,10 @@ msgstr "Logos des paquets GNU"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/wallpapers.html\">"
 msgstr "<a href=\"/graphics/wallpapers.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Alternative GNU wallpaper]&nbsp;"
+msgstr " [Fond d'écran basé sur la tête de GNU alternative] "
 
 #. type: Content of: <table><tr><td>
 msgid "Wallpapers"
@@ -1370,6 +1779,10 @@ msgstr "<cite>My God, it's full of &lsquo;car&rsquo;s!</cite>"
 msgid "<a href=\"http://www.techtux.be/fsf/index.html\">"
 msgstr "<a href=\"http://www.techtux.be/fsf/index.html\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU wallpaper]&nbsp;"
+msgstr " [Fond d'écran GNU] "
+
 #. type: Content of: <table><tr><td>
 msgid "More GNU designs"
 msgstr "Autres graphismes GNU"
@@ -1381,6 +1794,10 @@ msgid ""
 msgstr ""
 "<a href=\"http://www.davidam.com/art/free-software/free-software-art.tar.gz"
 "\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[FSF art]&nbsp;"
+msgstr " [« FSF », lettres coloriées au graphisme original] "
 
 #. type: Content of: <table><tr><td>
 msgid "Free software art"
@@ -1394,6 +1811,10 @@ msgstr "<small>par David Arroyo Menéndez</small>"
 msgid "<a href=\"https://apolonis.deviantart.com/art/Le-Sage-285523519\">"
 msgstr "<a href= \"https://apolonis.deviantart.com/art/Le-Sage-285523519\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;['United Geekdom of GNU Linux' poster]&nbsp;"
+msgstr " [Fond d'écran « United Geekdom of GNU Linux »] "
+
 #. type: Content of: <table><tr><td>
 msgid "Le Sage"
 msgstr "Le Sage"
@@ -1406,6 +1827,10 @@ msgstr "<small>par Apolonis</small>"
 msgid "<a href=\"http://gnuart.onshore.com\">"
 msgstr "<a href=\"http://gnuart.onshore.com\">"
 
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;['I want GNU' poster]&nbsp;"
+msgstr " [Poster « I want GNU »] "
+
 #. type: Content of: <table><tr><td>
 msgid "<small>by Raul Silva</small>"
 msgstr "<small>par Raul Silva</small>"
@@ -1413,6 +1838,10 @@ msgstr "<small>par Raul Silva</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"https://lispmachine.wordpress.com/category/art/\">"
 msgstr "<a href=\"https://lispmachine.wordpress.com/category/art/\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Hebrew copyleft sign]&nbsp;"
+msgstr " [Signe « Copyleft » en hébreu] "
 
 #. type: Content of: <table><tr><td>
 msgid "Various logos"
@@ -1425,6 +1854,10 @@ msgstr "<small>par Arnuld Uttre</small>"
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"http://www.gerwinski.de/~anja/gnuart/\">"
 msgstr "<a href=\"http://www.gerwinski.de/~anja/gnuart/\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU and Europa]&nbsp;"
+msgstr " [GNU et Europa] "
 
 #. type: Content of: <table><tr><td>
 msgid "GNU themed artwork"
@@ -1441,6 +1874,10 @@ msgid ""
 msgstr ""
 "<a href=\"https://web.archive.org/web/20110513011151/http://graphics."
 "rootmode.com/\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;['Powered by GNU' button]&nbsp;"
+msgstr " [Bouton « Powered by GNU » (Propulsé par GNU)] "
 
 #. type: Content of: <table><tr><td>
 msgid "Favicon and buttons (archived)"
