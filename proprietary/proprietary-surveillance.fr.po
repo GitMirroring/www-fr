@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-surveillance.html\n"
-"POT-Creation-Date: 2018-09-30 18:25+0000\n"
-"PO-Revision-Date: 2018-09-30 23:07+0200\n"
+"POT-Creation-Date: 2018-10-01 19:55+0000\n"
+"PO-Revision-Date: 2018-10-01 23:03+0200\n"
 "Last-Translator: Félicien Pillot <felicien AT gnu.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -1744,11 +1744,11 @@ msgstr ""
 
 #. type: Content of: <ul><li><p>
 msgid ""
-"Following is a non-exhaustive list of proprietary VPN apps from the research "
-"paper that tracks and infringes the privacy of users:"
+"Following is a non-exhaustive list, taken from the research paper, of some "
+"proprietary VPN apps that track users and infringe their privacy:"
 msgstr ""
 "La liste suivante, non exhaustive, est tirée de cet article. Elle répertorie "
-"des applis VPN privatrices qui traquent les utilisateurs et portent atteinte "
+"des applis VPN privatrices qui pistent les utilisateurs et portent atteinte "
 "à leur vie privée."
 
 #. type: Content of: <ul><li><dl><dt>
@@ -1825,12 +1825,13 @@ msgstr "WiFi Protector VPN"
 msgid ""
 "Injects JavaScript code into HTML pages, and also uses roughly five tracking "
 "libraries. Developers of this app have confirmed that the non-premium "
-"version of the app does JavaScript injection for tracking and display ads."
+"version of the app does JavaScript injection for tracking the user and "
+"displaying ads."
 msgstr ""
 "Injecte du code JavaScript dans les pages HTML et utilise également cinq "
 "bibliothèques de pistage. Ses développeurs ont confirmé que l'injection de "
-"JavaScript par la version gratuite de l'appli sert au pistage et à "
-"l'affichage de pubs."
+"JavaScript par la version gratuite de l'appli sert au pistage des "
+"utilisateurs et à l'affichage de pubs."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -2924,6 +2925,33 @@ msgstr ""
 
 #. type: Content of: <ul><li><p>
 msgid ""
+"Honeywell's &ldquo;smart&rdquo; thermostats communicate only through the "
+"company's server. They have all the nasty characteristics of such devices: "
+"<a href=\"https://www.businessinsider.com/honeywell-iot-thermostats-server-"
+"outage-2018-9\"> surveillance, and danger of sabotage</a> (of a specific "
+"user, or of all users at once), as well as the risk of an outage (which is "
+"what just happened)."
+msgstr ""
+"Les thermostats « intelligents » d'Honeywell communiquent par "
+"l'intermédiaire du serveur de la société. Ils ont toutes les "
+"caractéristiques de ce genre d'appareil : <a href=\"https://www."
+"businessinsider.com/honeywell-iot-thermostats-server-"
+"outage-2018-9\">surveillance et risque de sabotage</a> (d'un utilisateur "
+"particulier ou de tous les utilisateurs en même temps), sans compter le "
+"risque de panne du serveur (c'est ce qui vient d'arriver)."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"In addition, setting the desired temperature requires running nonfree "
+"software. With an old-fashioned thermostat, you can do it using controls "
+"right on the thermostat."
+msgstr ""
+"De plus, le réglage de la température se fait au moyen d'un logiciel non "
+"libre. Avec un thermostat traditionnel, on peut le faire directement sur le "
+"thermostat."
+
+#. type: Content of: <ul><li><p>
+msgid ""
 "Crackers found a way to break the security of an Amazon device, and <a href="
 "\"https://boingboing.net/2018/08/12/alexa-bob-carol.html\"> turn it into a "
 "listening device</a> for them."
@@ -3317,7 +3345,7 @@ msgstr ""
 "plus populaires a montré que <a href=\"https://www.law.berkeley.edu/research/"
 "bclt/research/privacy-at-bclt/web-privacy-census/\">84% d'entre eux (le 17 "
 "mai 2012) servaient à leurs visiteurs des cookies tierces permettant à "
-"d'autres sites de les suivre à la trace</a>. "
+"d'autres sites de les suivre à la trace</a>."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -3632,144 +3660,3 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
-
-#~ msgid "<a href=\"#SpywareAtWork\">Spyware at Work</a>"
-#~ msgstr "<a href=\"#SpywareAtWork\">Espions au travail</a>"
-
-#~ msgid "<a href=\"#SpywareOnTheRoad\">Spyware on the Road</a>"
-#~ msgstr "<a href=\"#SpywareOnTheRoad\">Espions sur la route</a>"
-
-#~ msgid "<a href=\"#SpywareInRecreation\">Spyware in Recreation</a>"
-#~ msgstr "<a href=\"#SpywareInRecreation\">Espions pendant les loisirs</a>"
-
-#~ msgid "<a href=\"#SpywareEverywhere\">Spyware Everywhere</a>"
-#~ msgstr "<a href=\"#SpywareEverywhere\">Espions partout</a>"
-
-#~ msgid "Spyware in Operating Systems"
-#~ msgstr "Espions dans les systèmes d'exploitation"
-
-#~ msgid "Spyware in Windows"
-#~ msgstr "Windows"
-
-#~ msgid ""
-#~ "<a href=\"http://www.infoworld.com/article/2611451/microsoft-windows/a-"
-#~ "look-at-the-black-underbelly-of-windows-8-1--blue-.html\"> Windows 8.1 "
-#~ "snoops on local searches.</a>."
-#~ msgstr ""
-#~ "<a href=\"http://www.infoworld.com/article/2611451/microsoft-windows/a-"
-#~ "look-at-the-black-underbelly-of-windows-8-1--blue-.html\">Windows 8.1 "
-#~ "espionne les recherches locales</a>."
-
-#~ msgid ""
-#~ "And there's a <a href=\"http://www.marketoracle.co.uk/Article40836.html"
-#~ "\"> secret NSA key in Windows</a>, whose functions we don't know."
-#~ msgstr ""
-#~ "Et il existe, toujours dans Windows, <a href=\"http://www.marketoracle.co."
-#~ "uk/Article40836.html\">une clé secrète de la NSA</a> dont nous ne "
-#~ "connaissons pas la fonction. "
-
-#~ msgid "Spyware in MacOS"
-#~ msgstr "MacOS"
-
-#~ msgid "Spyware in Android"
-#~ msgstr "Android"
-
-#~ msgid "Spyware in iThings"
-#~ msgstr "iTrucs"
-
-#~ msgid ""
-#~ "Around 47% of the most popular iOS apps <a class=\"not-a-duplicate\" href="
-#~ "\"http://jots.pub/a/2015103001/index.php\">share personal, behavioral and "
-#~ "location information</a> of their users with third parties."
-#~ msgstr ""
-#~ "Environ 47% des applis les plus populaires pour iOS <a class=\"not-a-"
-#~ "duplicate\" href=\"http://jots.pub/a/2015103001/index.php\">partagent "
-#~ "certaines données personnelles, comportementales ou de géolocalisation de "
-#~ "leurs utilisateurs avec des tiers</a>."
-
-#~ msgid ""
-#~ "<span class=\"anchor-reference-id\"> (<a href=\"#SpywareOnSmartWatches"
-#~ "\">#SpywareOnSmartWatches</a>)</span>"
-#~ msgstr ""
-#~ "<span class=\"anchor-reference-id\"> (<a href=\"#SpywareOnSmartWatches"
-#~ "\">#SpywareOnSmartWatches</a>)</span>"
-
-#~ msgid "Spyware at Low Level"
-#~ msgstr "Espions de bas-niveau"
-
-#~ msgid ""
-#~ "<span class=\"anchor-reference-id\">(<a href=\"#SpywareAtLowLevel"
-#~ "\">#SpywareAtLowLevel</a>)</span>"
-#~ msgstr ""
-#~ "<span class=\"anchor-reference-id\">(<a href=\"#SpywareAtLowLevel"
-#~ "\">#SpywareAtLowLevel</a>)</span>"
-
-#~ msgid "Spyware in BIOS"
-#~ msgstr "BIOS"
-
-#~ msgid "Spyware at Work"
-#~ msgstr "Espions sur le lieu de travail"
-
-#~ msgid ""
-#~ "<span class=\"anchor-reference-id\">(<a href=\"#SpywareAtWork"
-#~ "\">#SpywareAtWork</a>)</span>"
-#~ msgstr ""
-#~ "<span class=\"anchor-reference-id\">(<a href=\"#SpywareAtWork"
-#~ "\">#SpywareAtWork</a>)</span>"
-
-#~ msgid "Spyware in Skype"
-#~ msgstr "Skype"
-
-#~ msgid "Spyware on The Road"
-#~ msgstr "Espions sur la route"
-
-#~ msgid ""
-#~ "<span class=\"anchor-reference-id\">(<a href=\"#SpywareOnTheRoad"
-#~ "\">#SpywareOnTheRoad</a>)</span>"
-#~ msgstr ""
-#~ "<span class=\"anchor-reference-id\">(<a href=\"#SpywareOnTheRoad"
-#~ "\">#SpywareOnTheRoad</a>)</span>"
-
-#~ msgid "Spyware in Cameras"
-#~ msgstr "Appareils photo et caméras"
-
-#~ msgid "Spyware in e-Readers"
-#~ msgstr "Liseuses"
-
-#~ msgid "Spyware in Vehicles"
-#~ msgstr "Véhicules"
-
-#~ msgid "Spyware at Home"
-#~ msgstr "Espions à la maison"
-
-#~ msgid "Spyware in TV Sets"
-#~ msgstr "Téléviseurs"
-
-#~ msgid "Spyware in Games"
-#~ msgstr "Espions dans les jeux"
-
-#~ msgid "Spyware at Recreation"
-#~ msgstr "Espions pendant les loisirs"
-
-#~ msgid ""
-#~ "<span class=\"anchor-reference-id\"> (<a href=\"#SpywareAtRecreation"
-#~ "\">#SpywareAtRecreation</a>)</span>"
-#~ msgstr ""
-#~ "<span class=\"anchor-reference-id\"> (<a href=\"#SpywareAtRecreation"
-#~ "\">#SpywareAtRecreation</a>)</span>"
-
-#~ msgid "Spyware in Drones"
-#~ msgstr "Espions dans les drones"
-
-#~ msgid "Spyware Everywhere"
-#~ msgstr "Espions partout"
-
-#~ msgid ""
-#~ "<span class=\"anchor-reference-id\">(<a href=\"#SpywareEverywhere"
-#~ "\">#SpywareEverywhere</a>)</span>"
-#~ msgstr ""
-#~ "<span class=\"anchor-reference-id\">(<a href=\"#SpywareEverywhere"
-#~ "\">#SpywareEverywhere</a>)</span>"
-
-#~ msgid "Spyware In VR"
-#~ msgstr "Espions dans la réalité virtuelle"
