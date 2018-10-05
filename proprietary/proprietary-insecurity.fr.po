@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-insecurity.html\n"
-"POT-Creation-Date: 2018-10-01 09:56+0000\n"
-"PO-Revision-Date: 2018-10-01 13:15+0200\n"
+"POT-Creation-Date: 2018-10-05 12:56+0000\n"
+"PO-Revision-Date: 2018-10-05 18:44+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -36,7 +36,7 @@ msgstr ""
 "<a href=\"/proprietary/proprietary.html\">Autres exemples de malveillance "
 "dans le logiciel privateur</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Nonfree (proprietary) software is very often malware (designed to mistreat "
 "the user). Nonfree software is controlled by its developers, which puts them "
@@ -51,16 +51,7 @@ msgstr ""
 "base</a>. Les développeurs exercent souvent ce pouvoir au détriment des "
 "utilisateurs qu'ils devraient servir."
 
-#. type: Content of: <p>
-msgid ""
-"This page lists clearly established cases of insecurity in proprietary "
-"software that has grave consequences or is otherwise noteworthy."
-msgstr ""
-"Cette page répertorie des failles de sécurité de logiciels privateurs, "
-"failles clairement établies qui ont des conséquences graves ou méritent "
-"d'être mentionnées pour d'autres raisons. "
-
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is incorrect to compare free software with a fictitious idea of "
 "proprietary software as perfect, but the press often implicitly does that "
@@ -74,7 +65,7 @@ msgstr ""
 "exemples ci-dessous montrent que le logiciel privateur n'est pas parfait et "
 "qu'il est souvent tout à fait bâclé."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It would be equally incorrect to compare proprietary software with a "
 "fictitious idea of free software as perfect.  Every nontrivial program has "
@@ -97,6 +88,29 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
+"This page lists clearly established cases of insecurity in proprietary "
+"software that has grave consequences or is otherwise noteworthy."
+msgstr ""
+"Cette page répertorie des failles de sécurité de logiciels privateurs, "
+"failles clairement établies qui ont des conséquences graves ou méritent "
+"d'être mentionnées pour d'autres raisons. "
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/proprietary/proprietary-tethers.html\">Tethered appliances and "
+"applications</a> are intrinsically insecure because there is always a chance "
+"that the server will go offline accidentally, making them useless. We don't "
+"list them here unless they have documented vulnerabilities in addition to "
+"the fact that they are tethered."
+msgstr ""
+"Par leur conception-même, les <a href=\"/proprietary/proprietary-tethers.html"
+"\">appareils et applications qui dépendent d'un serveur</a> ne sont pas "
+"sûres puisqu'ils risquent en permanence d'être mis hors service par une "
+"panne du serveur. Nous ne citons sur cette page que ceux qui ont des "
+"vulnérabilités reconnues en plus de leur dépendance à un serveur."
+
+#. type: Content of: <p>
+msgid ""
 "If you know of an example that ought to be in this page but isn't here, "
 "please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
 "org&gt;</a> to inform us. Please include the URL of a trustworthy reference "
@@ -107,33 +121,6 @@ msgstr ""
 "webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> pour nous en informer. "
 "Merci de fournir les URL d'une ou deux références fiables décrivant le "
 "problème."
-
-#. type: Content of: <ul><li><p>
-msgid ""
-"Honeywell's &ldquo;smart&rdquo; thermostats communicate only through the "
-"company's server. They have all the nasty characteristics of such devices: "
-"<a href=\"https://www.businessinsider.com/honeywell-iot-thermostats-server-"
-"outage-2018-9\"> surveillance, and danger of sabotage</a> (of a specific "
-"user, or of all users at once), as well as the risk of an outage (which is "
-"what just happened)."
-msgstr ""
-"Les thermostats « intelligents » d'Honeywell communiquent par "
-"l'intermédiaire du serveur de la société. Ils ont toutes les "
-"caractéristiques de ce genre d'appareil : <a href=\"https://www."
-"businessinsider.com/honeywell-iot-thermostats-server-"
-"outage-2018-9\">surveillance et risque de sabotage</a> (d'un utilisateur "
-"particulier ou de tous les utilisateurs en même temps), sans compter le "
-"risque de panne du serveur (c'est ce qui vient d'arriver)."
-
-#. type: Content of: <ul><li><p>
-msgid ""
-"In addition, setting the desired temperature requires running nonfree "
-"software. With an old-fashioned thermostat, you can do it using controls "
-"right on the thermostat."
-msgstr ""
-"De plus, le réglage de la température se fait au moyen d'un logiciel non "
-"libre. Avec un thermostat traditionnel, on peut le faire directement sur le "
-"thermostat."
 
 #. type: Content of: <ul><li><p>
 msgid ""
