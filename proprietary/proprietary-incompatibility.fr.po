@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-incompatibility.html\n"
-"POT-Creation-Date: 2018-09-29 20:26+0000\n"
+"POT-Creation-Date: 2018-10-07 22:25+0000\n"
 "PO-Revision-Date: 2018-09-30 23:07+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -33,7 +33,7 @@ msgstr ""
 "<a href=\"/proprietary/proprietary.html\">Autres exemples de malveillance "
 "dans le logiciel privateur</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The &ldquo;incompatibility&rdquo; category includes the use of secret "
 "formats or protocols in proprietary software. This directly blocks or "
@@ -47,7 +47,7 @@ msgstr ""
 "programme libre, qui permettrait de libérer l'appareil sur lequel tourne le "
 "logiciel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Apart from being deliberately anticompetitive, secret formats put users' "
 "digital data at risk. For instance, retrieval of old data will become very "
@@ -59,7 +59,7 @@ msgstr ""
 "récupération de données anciennes sera très difficile si le logiciel "
 "privateur qui peut les lire n'est plus pris en charge."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another sort of incompatibility occurs when a system makes some important "
 "operation which would be necessary for migrating data to any other system so "
@@ -71,7 +71,7 @@ msgstr ""
 "système, si compliquée ou si lente qu'elle n'est pas faisable pour une "
 "quantité significative de données."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If you know of an example that ought to be in this page but isn't here, "
 "please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
