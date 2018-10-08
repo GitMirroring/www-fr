@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-back-doors.html\n"
-"POT-Creation-Date: 2018-10-05 20:56+0000\n"
-"PO-Revision-Date: 2018-10-05 23:28+0200\n"
+"POT-Creation-Date: 2018-10-07 22:25+0000\n"
+"PO-Revision-Date: 2018-10-08 19:03+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -35,7 +35,7 @@ msgstr ""
 "<a href=\"/proprietary/proprietary.html\">Autres exemples de malveillance "
 "dans le logiciel privateur</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Nonfree (proprietary) software is very often malware (designed to mistreat "
 "the user). Nonfree software is controlled by its developers, which puts them "
@@ -50,7 +50,7 @@ msgstr ""
 "base</a>. Les développeurs exercent souvent ce pouvoir au détriment des "
 "utilisateurs qu'ils devraient servir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Here are examples of demonstrated back doors in proprietary software.  They "
 "are sorted out according to what they are known to allow. Back doors that "
@@ -62,7 +62,7 @@ msgstr ""
 "portes dérobées qui permettent de prendre totalement le contrôle du système "
 "d'exploitation sont dites « universelles »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If you know of an example that ought to be in this page but isn't here, "
 "please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
@@ -77,16 +77,17 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"<a href=\"#spy\">Spying</a> | <a href=\"#alter-data\">Altering&nbsp;"
-"user's&nbsp;data/settings</a> | <a href=\"#install-delete\">Installing/"
-"deleting&nbsp;programs</a> | <a href=\"#universal\">Full&nbsp;control</a> | "
-"<a href=\"#other\">Other/undefined</a>"
+"&nbsp;<a href=\"#spy\">Spying</a>&nbsp; &nbsp;<a href=\"#alter-data"
+"\">Altering&nbsp;user's&nbsp;data/settings</a>&nbsp; &nbsp;<a href="
+"\"#install-delete\">Installing/deleting&nbsp;programs</a>&nbsp; &nbsp;<a "
+"href=\"#universal\">Full&nbsp;control</a>&nbsp; &nbsp;<a href=\"#other"
+"\">Other/undefined</a>&nbsp;"
 msgstr ""
-"<a href=\"#spy\">Espionner</a> | <a href=\"#alter-data\">Altérer&nbsp;"
-"les&nbsp;données/préférences&nbsp;de l'utilisateur</a> | <a href=\"#install-"
-"delete\">Installer/supprimer&nbsp;des&nbsp;programmes</a> | <a href="
-"\"#universal\">Contrôle&nbsp;total</a> | <a href=\"#other\">Autre/non&nbsp;"
-"défini</a>"
+"&nbsp;<a href=\"#spy\">Espionner</a>&nbsp; &nbsp;<a href=\"#alter-data"
+"\">Altérer&nbsp;les&nbsp;données/préférences&nbsp;de l'utilisateur</a>&nbsp; "
+"&nbsp;<a href=\"#install-delete\">Installer/supprimer&nbsp;des&nbsp;"
+"programmes</a>&nbsp; &nbsp;<a href=\"#universal\">Contrôle&nbsp;total</"
+"a>&nbsp; &nbsp;<a href=\"#other\">Autre/non&nbsp;défini</a>&nbsp;"
 
 #. type: Content of: <h3>
 msgid "Spying"

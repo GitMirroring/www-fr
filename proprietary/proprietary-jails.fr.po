@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-jails.html\n"
-"POT-Creation-Date: 2018-09-28 19:55+0000\n"
-"PO-Revision-Date: 2018-09-28 23:28+0200\n"
+"POT-Creation-Date: 2018-10-07 22:26+0000\n"
+"PO-Revision-Date: 2018-10-08 19:06+0200\n"
 "Last-Translator: Félicien Pillot <felicien AT gnu.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -34,7 +34,7 @@ msgstr ""
 "<a href=\"/proprietary/proprietary.html\">Autres exemples de malveillance "
 "dans le logiciel privateur</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Nonfree (proprietary) software is very often malware (designed to mistreat "
 "the user). Nonfree software is controlled by its developers, which puts them "
@@ -49,7 +49,7 @@ msgstr ""
 "base</a>. Les développeurs exercent souvent ce pouvoir au détriment des "
 "utilisateurs qu'ils devraient servir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Here are examples of proprietary operating systems that are <em>jails</em>: "
 "they are designed to impose censorship of which applications the user can "
@@ -61,7 +61,18 @@ msgstr ""
 "l'installation d'applications par l'utilisateur. Une <a href=\"http://i."
 "imgur.com/ZRViDum.jpg\">image de l'iPrison</a> illustre ce problème."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
+msgid ""
+"These systems are platforms for censorship imposed by the company that owns "
+"the system.  Selling products designed as platforms for a company to impose "
+"censorship ought to be forbidden by law, but it isn't."
+msgstr ""
+"Ces systèmes servent de plateformes à la censure imposée par les entreprises "
+"qui en sont propriétaires. Vendre des produits conçus comme des plateformes "
+"servant à une société pour imposer la censure devrait être interdit par la "
+"loi, mais ce n'est pas le cas."
+
+#. type: Content of: <div><div><p>
 msgid ""
 "We also include specific examples of apps that were blocked using that "
 "censorship power.  If you know of additional examples, please email the "
@@ -73,22 +84,13 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"These systems are platforms for censorship imposed by the company that owns "
-"the system.  Selling products designed as platforms for a company to impose "
-"censorship ought to be forbidden by law, but it isn't."
+"&nbsp;<a href=\"#apple\">Apple&nbsp;jails</a>&nbsp; &nbsp;<a href="
+"\"#microsoft\">Microsoft&nbsp;jails</a>&nbsp; &nbsp;<a href=\"#consoles"
+"\">Game consoles</a>&nbsp;"
 msgstr ""
-"Ces systèmes servent de plateformes à la censure imposée par les entreprises "
-"qui en sont propriétaires. Vendre des produits conçus comme des plateformes "
-"servant à une société pour imposer la censure devrait être interdit par la "
-"loi, mais ce n'est pas le cas."
-
-#. type: Content of: <p>
-msgid ""
-"<a href=\"#apple\">Apple&nbsp;jails</a> | <a href=\"#microsoft"
-"\">Microsoft&nbsp;jails</a> | <a href=\"#consoles\">Game consoles</a>"
-msgstr ""
-"<a href=\"#apple\">Prisons d'Apple</a> | <a href=\"#microsoft\">Prisons de "
-"Microsoft</a> | <a href=\"#consoles\">Consoles de jeu</a>"
+"&nbsp;<a href=\"#apple\">Prisons d'Apple</a>&nbsp; &nbsp;<a href=\"#microsoft"
+"\">Prisons de Microsoft</a>&nbsp; &nbsp;<a href=\"#consoles\">Consoles de "
+"jeu</a>&nbsp;"
 
 #. type: Content of: <h3>
 msgid "Apple jails"

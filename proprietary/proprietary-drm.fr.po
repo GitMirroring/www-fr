@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-drm.html\n"
-"POT-Creation-Date: 2018-10-05 20:56+0000\n"
-"PO-Revision-Date: 2018-10-05 23:28+0200\n"
+"POT-Creation-Date: 2018-10-07 21:25+0000\n"
+"PO-Revision-Date: 2018-10-08 19:03+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -33,7 +33,7 @@ msgstr ""
 "<a href=\"/proprietary/proprietary.html\">Autres exemples de malveillance "
 "dans le logiciel privateur</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Nonfree (proprietary) software is very often malware (designed to mistreat "
 "the user). Nonfree software is controlled by its developers, which puts them "
@@ -48,7 +48,7 @@ msgstr ""
 "base</a>. Les développeurs exercent souvent ce pouvoir au détriment des "
 "utilisateurs qu'ils devraient servir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Here are examples of proprietary programs and systems that implement "
 "<em>digital restrictions management</em> (DRM): functionalities designed "
@@ -61,7 +61,7 @@ msgstr ""
 "conçues dans l'intention de restreindre ce que les utilisateurs peuvent "
 "faire. Ces fonctionnalités sont aussi appelées <em>menottes numériques</em>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "DRM is reinforced by <a href=\"http://www.theguardian.com/technology/"
 "blog/2014/feb/05/digital-rights-management\"> censorship laws</a> that ban "
@@ -75,6 +75,19 @@ msgstr ""
 "briser. Au lieu de ces lois, c'est l'illégalité des DRM qu'il aurait fallu "
 "promulguer. Merci de soutenir notre campagne pour <a href=\"http://"
 "DefectiveByDesign.org/\">l'abolition des DRM</a>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"If you know of an example that ought to be in this page but isn't here, "
+"please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a> to inform us. Please include the URL of a trustworthy reference "
+"or two to present the specifics."
+msgstr ""
+"Si vous avez connaissance d'un exemple qui devrait se trouver sur cette page "
+"mais n'y figure pas, n'hésitez pas à écrire à <a href=\"mailto:"
+"webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> pour nous en informer. "
+"Merci de fournir les URLs d'une ou deux références fiables décrivant le "
+"problème."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -98,33 +111,6 @@ msgstr ""
 "\"https://boingboing.net/2017/11/25/la-la-la-cant-hear-you.html\">illégal "
 "d'étudier la manière dont les applis sous iOS espionnent l'utilisateur</a> "
 "car cela suppose de contourner le DRM d'iOS."
-
-#. type: Content of: <ul><li><p>
-msgid ""
-"<a href=\"http://techin.oureverydaylife.com/kindle-drm-17841.html\"> The "
-"Amazon Kindle has DRM</a>.  That article is flawed in that it fails to treat "
-"DRM as an ethical question; it takes for granted that whatever Amazon might "
-"do to its users is legitimate.  It refers to DRM as digital &ldquo;"
-"rights&rdquo; management, which is the spin term used to promote DRM.  "
-"Nonetheless it serves as a reference for the facts."
-msgstr ""
-"<a href=\"http://techin.oureverydaylife.com/kindle-drm-17841.html\">Le "
-"Kindle d'Amazon a des menottes numériques</a>. Cet article a un défaut : il "
-"néglige la dimension éthique des DRM ; il prend pour acquis que tout ce "
-"qu'Amazon peut faire à ses utilisateurs est légitime. Il se réfère aux DRM "
-"comme gestion numérique des « droits », baratin utilisé pour promouvoir ces "
-"dispositifs. Néanmoins, il sert de référence factuelle."
-
-#. type: Content of: <ul><li><p>
-msgid ""
-"We refer to that product as the <a href=\"/philosophy/why-call-it-the-"
-"swindle.html\"> Amazon Swindle</a> because of this and <a href=\"/philosophy/"
-"ebooks.html\"> other malicious functionalities</a>."
-msgstr ""
-"C'est pour cette raison que nous appelons ce produit <a href=\"/philosophy/"
-"why-call-it-the-swindle.html\"><cite>Amazon Swindle</cite> (l'arnaque "
-"d'Amazon)</a>, et aussi à cause d'<a href=\"/philosophy/ebooks.html\">autres "
-"fonctionnalités malveillantes</a>."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -153,6 +139,33 @@ msgstr ""
 "appareils rootés et refuser de fonctionner sur ces derniers</a>. L'appli de "
 "Netflix est privatrice et personne ne doit l'utiliser, mais ce qu'a fait "
 "Google n'en est pas moins répréhensible."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"<a href=\"http://techin.oureverydaylife.com/kindle-drm-17841.html\"> The "
+"Amazon Kindle has DRM</a>.  That article is flawed in that it fails to treat "
+"DRM as an ethical question; it takes for granted that whatever Amazon might "
+"do to its users is legitimate.  It refers to DRM as digital &ldquo;"
+"rights&rdquo; management, which is the spin term used to promote DRM.  "
+"Nonetheless it serves as a reference for the facts."
+msgstr ""
+"<a href=\"http://techin.oureverydaylife.com/kindle-drm-17841.html\">Le "
+"Kindle d'Amazon a des menottes numériques</a>. Cet article a un défaut : il "
+"néglige la dimension éthique des DRM ; il prend pour acquis que tout ce "
+"qu'Amazon peut faire à ses utilisateurs est légitime. Il se réfère aux DRM "
+"comme gestion numérique des « droits », baratin utilisé pour promouvoir ces "
+"dispositifs. Néanmoins, il sert de référence factuelle."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"We refer to that product as the <a href=\"/philosophy/why-call-it-the-"
+"swindle.html\"> Amazon Swindle</a> because of this and <a href=\"/philosophy/"
+"ebooks.html\"> other malicious functionalities</a>."
+msgstr ""
+"C'est pour cette raison que nous appelons ce produit <a href=\"/philosophy/"
+"why-call-it-the-swindle.html\"><cite>Amazon Swindle</cite> (l'arnaque "
+"d'Amazon)</a>, et aussi à cause d'<a href=\"/philosophy/ebooks.html\">autres "
+"fonctionnalités malveillantes</a>."
 
 #. type: Content of: <ul><li><p>
 msgid ""
