@@ -10,8 +10,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2018-10-11 07:55+0000\n"
-"PO-Revision-Date: 2018-10-11 10:57+0200\n"
+"POT-Creation-Date: 2018-10-11 08:56+0000\n"
+"PO-Revision-Date: 2018-10-11 17:14+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -441,22 +441,30 @@ msgstr ""
 
 #. type: Content of: <div><div><div><ul><li>
 msgid ""
-"<strong>Can you take over the <a href=\"/server/takeaction.html#unmaint"
+"<strong>Can you take over an <a href=\"/server/takeaction.html#unmaint"
 "\">unmaintained GNU package</a>?</strong>"
 msgstr ""
-"<strong>Pouvez-vous adopter ce <a href=\"/server/takeaction.html#unmaint"
+"<strong>Pouvez-vous adopter un <a href=\"/server/takeaction.html#unmaint"
 "\">paquet GNU orphelin</a> ?</strong>"
 
 #. type: Content of: <div><div><div><ul><li>
-msgid "<a href=\"/software/halifax/\">halifax</a>"
-msgstr "<a href=\"/software/halifax/\">halifax</a>"
+msgid ""
+"<a href=\"/software/cfengine/\">cfengine</a>, <a href=\"/software/freetalk/"
+"\">freetalk</a>, <a href=\"/software/halifax/\">halifax</a>, <a href=\"/"
+"software/mcron/\">mcron</a>, <a href=\"/software/quickthreads/"
+"\">quickthreads</a>"
+msgstr ""
+"<a href=\"/software/cfengine/\">cfengine</a>, <a href=\"/software/freetalk/"
+"\">freetalk</a>, <a href=\"/software/halifax/\">halifax</a>, <a href=\"/"
+"software/mcron/\">mcron</a> et <a href=\"/software/quickthreads/"
+"\">quickthreads</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 msgid ""
-"is <a href=\"/server/takeaction.html#unmaint\">looking for maintainers</a>.  "
-"Also, these packages are looking for co-maintainers:"
+", are all <a href=\"/server/takeaction.html#unmaint\">looking for "
+"maintainers</a>.  Also, these packages are looking for co-maintainers:"
 msgstr ""
-" est <a href=\"/server/takeaction.html#unmaint\">à la recherche d'un "
+" sont tous <a href=\"/server/takeaction.html#unmaint\">à la recherche d'un "
 "repreneur</a>. Et ceux-ci sont à la recherche d'un comainteneur :"
 
 #. type: Content of: <div><div><div><ul><li>
@@ -581,3 +589,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+#~ msgid "<a href=\"/software/halifax/\">halifax</a>"
+#~ msgstr "<a href=\"/software/halifax/\">halifax</a>"
