@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary.html\n"
-"POT-Creation-Date: 2018-10-14 11:55+0000\n"
-"PO-Revision-Date: 2018-10-14 13:36+0200\n"
+"POT-Creation-Date: 2018-10-22 10:25+0000\n"
+"PO-Revision-Date: 2018-10-22 17:36+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -87,13 +87,13 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"As of September, 2018, the pages in this directory list nearly 350 instances "
-"of malicious functionalities (with close to 400 references to back them up), "
-"but there are surely thousands more we don't know about."
+"As of October 22, 2018, the pages in this directory list 339 instances of "
+"malicious functionalities (with 403 references to back them up), but there "
+"are surely thousands more we don't know about."
 msgstr ""
-"En septembre 2018, les pages de ce répertoire dénombraient environ 350 cas "
-"de fonctionnalités malveillante (appuyés par près de 400 références), mais "
-"il y en a sûrement des milliers d'autres dont nous ne savons rien."
+"Le 22 octobre 2018, les pages de ce répertoire dénombraient 339 cas de "
+"fonctionnalités malveillante (appuyés par 403 références), mais il y en a "
+"sûrement des milliers d'autres dont nous ne savons rien."
 
 #. type: Content of: <table><tr><th>
 msgid "Injustices or techniques"
@@ -290,6 +290,34 @@ msgstr "Ajouts récents"
 
 #. type: Content of: <ul><li><p>
 msgid ""
+"Printer manufacturers are very innovative&mdash;at blocking the use of "
+"independent replacement ink cartridges. Their &ldquo;security "
+"upgrades&rdquo; occasionally impose new forms of cartridge DRM. <a href="
+"\"https://motherboard.vice.com/en_us/article/pa98ab/printer-makers-are-"
+"crippling-cheap-ink-cartridges-via-bogus-security-updates\"> HP and Epson "
+"have done this</a>."
+msgstr ""
+"Les fabricants d'imprimantes ont l'esprit inventif&hellip; lorsqu'il s'agit "
+"d'interdire l'usage de cartouches de remplacement non officielles. Leurs "
+"« mises à niveau de sécurité » imposent de temps à autre de nouvelles formes "
+"de DRM pour les cartouches. <a href=\"https://motherboard.vice.com/en_us/"
+"article/pa98ab/printer-makers-are-crippling-cheap-ink-cartridges-via-bogus-"
+"security-updates\">HP et Epson le font</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"A nonfree video game, available through the nonfree Steam client, <a href="
+"\"https://www.extremetech.com/gaming/274552-great-now-games-are-hijacking-"
+"systems-with-\"> included a &ldquo;miner&rdquo;</a>, i.e. an executable that "
+"hijacks the CPU in users' computers to mine a cryptocurrency."
+msgstr ""
+"Un jeu vidéo non libre proposé par le client Steam non libre <a href="
+"\"https://www.extremetech.com/gaming/274552-great-now-games-are-hijacking-"
+"systems-with-\">comprenait un « mineur »</a>, c'est-à-dire un exécutable qui "
+"pirate le processeur de l'ordinateur client pour générer une cryptomonnaie."
+
+#. type: Content of: <ul><li><p>
+msgid ""
 "A cracker used an exploit in outdated software to <a href=\"https://www."
 "pcmag.com/news/360968/400-websites-secretly-served-cryptocurrency-miners-to-"
 "visito\"> inject a &ldquo;miner&rdquo; in web pages</a> served to visitors. "
@@ -321,18 +349,6 @@ msgstr ""
 "\">LibreJS</a>. Il existe également plusieurs extensions de navigateurs qui "
 "<a href=\"https://www.cnet.com/how-to/how-to-stop-sites-from-using-your-cpu-"
 "to-mine-coins/\">bloquent spécifiquement les mineurs JavaScript</a>."
-
-#. type: Content of: <ul><li><p>
-msgid ""
-"A nonfree video game, available through the nonfree Steam client, <a href="
-"\"https://www.extremetech.com/gaming/274552-great-now-games-are-hijacking-"
-"systems-with-\"> included a &ldquo;miner&rdquo;</a>, i.e. an executable that "
-"hijacks the CPU in users' computers to mine a cryptocurrency."
-msgstr ""
-"Un jeu vidéo non libre proposé par le client Steam non libre <a href="
-"\"https://www.extremetech.com/gaming/274552-great-now-games-are-hijacking-"
-"systems-with-\">comprenait un « mineur »</a>, c'est-à-dire un exécutable qui "
-"pirate le processeur de l'ordinateur client pour générer une cryptomonnaie."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -372,24 +388,6 @@ msgstr ""
 "english/press-releases/2018-09-24-it-security-secret-messages-alexa-and-co"
 "\">cacher des commandes vocales dans d'autres flux audio</a>. Elles sont "
 "inaudibles pour les humains, mais Alexa et Siri peuvent les entendre."
-
-#. type: Content of: <ul><li><p>
-msgid ""
-"Android has a <a href=\"https://www.theverge.com/platform/"
-"amp/2018/9/14/17861150/google-battery-saver-android-9-pie-remote-settings-"
-"change\"> back door for remotely changing &ldquo;user&rdquo; settings</a>."
-msgstr ""
-"Android a une <a href=\"https://www.theverge.com/platform/"
-"amp/2018/9/14/17861150/google-battery-saver-android-9-pie-remote-settings-"
-"change\">porte dérobée permettant de modifier à distance la configuration "
-"« utilisateur »</a>."
-
-#. type: Content of: <ul><li><p>
-msgid ""
-"The article suggests it might be a universal back door, but this isn't clear."
-msgstr ""
-"L'article suggère qu'il pourrait s'agir d'une porte dérobée universelle, "
-"mais ce n'est pas clair."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -466,6 +464,23 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+#~ msgid ""
+#~ "Android has a <a href=\"https://www.theverge.com/platform/"
+#~ "amp/2018/9/14/17861150/google-battery-saver-android-9-pie-remote-settings-"
+#~ "change\"> back door for remotely changing &ldquo;user&rdquo; settings</a>."
+#~ msgstr ""
+#~ "Android a une <a href=\"https://www.theverge.com/platform/"
+#~ "amp/2018/9/14/17861150/google-battery-saver-android-9-pie-remote-settings-"
+#~ "change\">porte dérobée permettant de modifier à distance la configuration "
+#~ "« utilisateur »</a>."
+
+#~ msgid ""
+#~ "The article suggests it might be a universal back door, but this isn't "
+#~ "clear."
+#~ msgstr ""
+#~ "L'article suggère qu'il pourrait s'agir d'une porte dérobée universelle, "
+#~ "mais ce n'est pas clair."
 
 #~ msgid ""
 #~ "One version of Windows 10 <a href=\"https://www.ghacks.net/2018/09/12/"
