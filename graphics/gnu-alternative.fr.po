@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnu-alternative.html\n"
 "POT-Creation-Date: 2014-04-05 00:00+0000\n"
-"PO-Revision-Date: 2014-04-05 09:19+0200\n"
+"PO-Revision-Date: 2018-11-29 21:22+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -32,7 +32,7 @@ msgstr "<a href=\"/graphics/gnu-alternative.jpg\">"
 
 #. type: Attribute 'alt' of: <p><a><img>
 msgid "[image of the Head of a GNU]"
-msgstr "[Image d'une tête de GNU]"
+msgstr " [Image d'une tête de GNU] "
 
 #. type: Content of: <p>
 msgid "</a>"
@@ -43,9 +43,9 @@ msgid ""
 "This is a new image of a GNU head that can be used as an alternative to the "
 "<a href=\"/graphics/agnuhead.html\">default GNU head</a>."
 msgstr ""
-"Ceci est une nouvelle image d'une tête de GNU qui peut être utilisée comme "
-"alternative à la <a href=\"/graphics/agnuhead.html\">tête de GNU par défaut</"
-"a>."
+"Voici une nouvelle interprétation de la tête de GNU. On peut l'utiliser "
+"comme alternative à la <a href=\"/graphics/agnuhead.html\">tête de GNU "
+"traditionnelle</a>."
 
 #. type: Content of: <p>
 msgid "This picture is available in the following formats:"
@@ -53,27 +53,31 @@ msgstr "Ce dessin est disponible aux formats suivants :"
 
 #. type: Content of: <ul><li>
 msgid "jpeg <a href=\"/graphics/gnu-alternative.jpg\">10k</a>"
-msgstr "jpeg <a href=\"/graphics/gnu-alternative.jpg\">10 ko</a>"
+msgstr "JPEG  <a href=\"/graphics/gnu-alternative.jpg\">10 ko</a> (291x219)"
 
 #. type: Content of: <ul><li>
 msgid "png <a href=\"/graphics/gnu-alternative.png\">3k</a>"
-msgstr "png <a href=\"/graphics/gnu-alternative.png\">3 ko</a>"
+msgstr "PNG  <a href=\"/graphics/gnu-alternative.png\">3 ko</a> (291x219)"
 
 #. type: Content of: <p>
 msgid "Two wallpapers based on the alternative GNU head."
-msgstr "Deux fonds d'écran basés sur la tête de GNU alternative."
+msgstr "Deux fonds d'écran basés sur la tête de GNU alternative :"
 
 #. type: Content of: <p>
 msgid "This pictures are available in the following formats:"
-msgstr "Ces dessins sont disponibles dans les formats suivants :"
+msgstr " "
 
 #. type: Content of: <ul><li>
 msgid "png <a href=\"/graphics/gnu-alt-wp1.png\">wallpaper 1 - 844k</a>"
-msgstr "png <a href=\"/graphics/gnu-alt-wp1.png\">Fond d'écran 1 - 844 ko</a>"
+msgstr ""
+"Fond d'écran 1 : PNG <a href=\"/graphics/gnu-alt-wp1.png\">471 ko</a> "
+"(1024x768)"
 
 #. type: Content of: <ul><li>
 msgid "png <a href=\"/graphics/gnu-alt-wp2.png\">wallpaper 2 - 487k</a>"
-msgstr "png <a href=\"/graphics/gnu-alt-wp2.png\">Fond d'écran 2 - 487 ko</a>"
+msgstr ""
+"Fond d'écran 2 : PNG <a href=\"/graphics/gnu-alt-wp2.png\">489 ko</a> "
+"(1024x768)"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bwcartoon.html\n"
 "POT-Creation-Date: 2014-04-05 00:00+0000\n"
-"PO-Revision-Date: 2014-04-05 09:19+0200\n"
+"PO-Revision-Date: 2018-11-29 21:22+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -36,7 +36,7 @@ msgstr "<a href=\"/graphics/bwcartoon-m.jpg\">"
 
 #. type: Attribute 'alt' of: <p><a><img>
 msgid "[B &amp; W Cartoon]"
-msgstr "[B &amp; W Cartoon]"
+msgstr " [Le duo dynamique] "
 
 #. type: Content of: <p>
 msgid "</a>"
@@ -44,7 +44,7 @@ msgstr "</a>"
 
 #. type: Content of: <p>
 msgid "A picture of a the Dynamic Duo: the Gnu and the Penguin in flight."
-msgstr "Un dessin du duo dynamique : le Gnou et le Manchot en vol."
+msgstr " "
 
 #. type: Content of: <p>
 msgid "This picture is available in the following formats:"
@@ -55,16 +55,16 @@ msgid ""
 "jpeg <a href=\"/graphics/bwcartoon-m.jpg\">64k</a>, <a href=\"/graphics/"
 "bwcartoon.jpg\">185k</a>"
 msgstr ""
-"jpeg <a href=\"/graphics/bwcartoon-m.jpg\">64k</a>, <a href=\"/graphics/"
-"bwcartoon.jpg\">185k</a>"
+"JPEG  <a href=\"/graphics/bwcartoon-m.jpg\">66 ko</a> (598x637), <a href=\"/"
+"graphics/bwcartoon.jpg\">187 ko</a> (1197x1275)"
 
 #. type: Content of: <ul><li>
 msgid "pnm <a href=\"/graphics/bwcartoon.pnm\">190k</a>"
-msgstr "pnm <a href=\"/graphics/bwcartoon.pnm\">190k</a>"
+msgstr "PNM  <a href=\"/graphics/bwcartoon.pnm\">191 ko</a> (1197x1275)"
 
 #. type: Content of: <p>
 msgid "They are also available as color images in the following formats:"
-msgstr "Ils sont aussi disponibles en couleur aux formats suivants :"
+msgstr "Il existe aussi en couleur aux formats suivants :"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -72,9 +72,10 @@ msgid ""
 "\"/graphics/gnu-and-penguin-color-300x276.jpg\">48k</a>, <a href=\"/graphics/"
 "gnu-and-penguin-color-1024x946.jpg\">412k</a>."
 msgstr ""
-"JPEG <a href=\"/graphics/gnu-and-penguin-color-100x92.jpg\">8k</a>, <a href="
-"\"/graphics/gnu-and-penguin-color-300x276.jpg\">48k</a>, <a href=\"/graphics/"
-"gnu-and-penguin-color-1024x946.jpg\">412k</a>."
+"JPEG  <a href=\"/graphics/gnu-and-penguin-color-100x92.jpg\">8 ko</a> "
+"(100x92),  <a href=\"/graphics/gnu-and-penguin-color-300x276.jpg\">48 ko</a> "
+"(300x276),  <a href=\"/graphics/gnu-and-penguin-color-1024x946.jpg\">419 ko</"
+"a> (1024x946)"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -82,37 +83,37 @@ msgid ""
 "\"/graphics/gnu-and-penguin-color-300x276.png\">83k</a>, <a href=\"/graphics/"
 "gnu-and-penguin-color-1024x946.png\">790k</a>."
 msgstr ""
-"PNG <a href=\"/graphics/gnu-and-penguin-color-100x92.png\">12k</a>, <a href="
-"\"/graphics/gnu-and-penguin-color-300x276.png\">83k</a>, <a href=\"/graphics/"
-"gnu-and-penguin-color-1024x946.png\">790k</a>."
+"PNG  <a href=\"/graphics/gnu-and-penguin-color-100x92.png\">12 ko</a> "
+"(100x92),  <a href=\"/graphics/gnu-and-penguin-color-300x276.png\">83 ko</a> "
+"(300x276),  <a href=\"/graphics/gnu-and-penguin-color-1024x946.png\">800 ko</"
+"a> (1024x946)"
 
 #. type: Content of: <ul><li>
 msgid "XCF <a href=\"/graphics/gnu-and-penguin-color-original.xcf\">5250k</a>."
 msgstr ""
-"XCF <a href=\"/graphics/gnu-and-penguin-color-original.xcf\">5250k</a>."
+"XCF  <a href=\"/graphics/gnu-and-penguin-color-original.xcf\">5250 ko</a> "
+"(2193x2027)"
 
 #. type: Content of: <p>
 msgid ""
 "<a href=\"/graphics/graphics.html\">Other art</a> in the GNU Art Gallery."
-msgstr ""
-"<a href=\"/graphics/graphics.html\">D'autres illustrations</a> dans la "
-"galerie GNU."
+msgstr " "
 
 #. type: Content of: <p>
 msgid "The images linked to from this page are:"
-msgstr "Les images liées dans cette page sont sous :"
+msgstr "Les images mises en lien sur cette page sont sous :"
 
 #. type: Content of: <p>
 msgid "Copyright (C) 1999, Free Software Foundation, Inc."
-msgstr "Copyright (C) 1999, Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1999, Free Software Foundation, Inc."
 
 #. type: Content of: <p>
 msgid ""
 "Permission is granted to copy, distribute and/or modify this image under the "
 "terms either:"
 msgstr ""
-"L'autorisation est donnée de copier, distribuer et/ou modifier cette image "
-"sous les termes de l'une des deux licences :"
+"L'autorisation est donnée de copier, distribuer ou modifier cette image sous "
+"les termes de l'une des deux licences :"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -120,9 +121,9 @@ msgid ""
 "published by the Free Software Foundation; either version 2 of the License, "
 "or (at your option) any later version, or"
 msgstr ""
-"la <a href=\"/copyleft/gpl.html\">GNU General Public License</a> telle que "
-"publiée par la <i>Free Software Foundation</i> ; soit la version 2 de la "
-"licence, soit (à votre convenance) toute version postérieure, ou"
+"la <a href=\"/copyleft/gpl.html\">licence publique générale GNU</a> telle "
+"que publiée par la <i>Free Software Foundation</i> ; soit la version 2 de la "
+"licence, soit (à votre convenance) toute version ultérieure, ou"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -131,9 +132,9 @@ msgid ""
 "with the no Invariant Sections, with no Front-Cover Texts and with no Back-"
 "Cover Texts."
 msgstr ""
-"la <a href=\"/copyleft/fdl.html\">GNU Free Documentation License</a>, "
+"la <a href=\"/copyleft/fdl.html\">licence GNU de documentation libre</a>, "
 "version 1.1 ou toute version ultérieure publiée par la <i>Free Software "
-"Foundation</i> ; sans section invariante, sans texte de couverture ni de "
+"Foundation</i>, sans section invariante et sans texte de couverture ni de "
 "quatrième de couverture."
 
 #. type: Content of: <p>
@@ -146,7 +147,7 @@ msgstr ""
 "Ces images sont distribuées dans l'espoir qu'elles vous seront utiles, mais "
 "SANS GARANTIE ; sans même la garantie tacite de QUALITÉ MARCHANDE ou "
 "D'ADÉQUATION À UN BUT PARTICULIER. Voir la <a href=\"/copyleft/gpl.html"
-"\">GNU General Public License</a> pour plus de détails."
+"\">licence publique générale GNU</a> pour plus de détails."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>

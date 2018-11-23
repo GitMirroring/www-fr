@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnu-slash-linux.html\n"
 "POT-Creation-Date: 2015-11-28 23:55+0000\n"
-"PO-Revision-Date: 2015-11-29 11:01+0100\n"
+"PO-Revision-Date: 2018-11-29 21:22+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -32,7 +32,7 @@ msgstr "<a href=\"/graphics/gnu-linux-on-black.png\">"
 
 #. type: Attribute 'alt' of: <p><a><img>
 msgid "[GNU/Linux on black]"
-msgstr "[GNU/Linux sur fond noir]"
+msgstr " [GNU/Linux sur fond noir] "
 
 #. type: Content of: <p>
 msgid "</a>"
@@ -40,79 +40,79 @@ msgstr "</a>"
 
 #. type: Content of: <p>
 msgid "The following art in PNG format is available in different sizes:"
-msgstr "Ce dessin au format PNG est disponible en différentes tailles :"
+msgstr "Ce dessin au format PNG est disponible en différentes versions :"
 
 #. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/graphics/small-gnu-linux-on-black.png\"> 5k (a small gnu-linux-on-"
 "black.)</a>"
 msgstr ""
-"<a href=\"/graphics/small-gnu-linux-on-black.png\"> 5 ko (petite sur fond "
-"noir)</a>"
+"petite taille sur fond noir : <a href=\"/graphics/small-gnu-linux-on-black."
+"png\">2,4 ko</a> (140x90)"
 
 #. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/graphics/small-gnu-linux-on-white.png\"> 5.1k (a small gnu-linux-"
 "on-white.)</a>"
 msgstr ""
-"<a href=\"/graphics/small-gnu-linux-on-white.png\"> 5,1 ko (petite sur fond "
-"blanc)</a>"
+"petite taille sur fond blanc : <a href=\"/graphics/small-gnu-linux-on-white."
+"png\">2,6 ko</a> (140x90)"
 
 #. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/graphics/gnu-linux-on-black.png\"> 13.3k (a medium sized gnu-"
 "linux-on-black.)</a>"
 msgstr ""
-"<a href=\"/graphics/gnu-linux-on-black.png\"> 13,3 ko (moyenne sur fond noir)"
-"</a>"
+"taille moyenne sur fond noir : <a href=\"/graphics/gnu-linux-on-black.png"
+"\">5,9 ko</a> (300x192)"
 
 #. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/graphics/gnu-linux-on-white.png\"> 13.3k (a medium sized gnu-"
 "linux-on-white.)</a>"
 msgstr ""
-"<a href=\"/graphics/gnu-linux-on-white.png\"> 13,3 ko (moyenne sur fond "
-"blanc)</a>"
+"taille moyenne sur fond blanc : <a href=\"/graphics/gnu-linux-on-white.png"
+"\">6,2 ko</a> (300x192)"
 
 #. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/graphics/gnu-linux-black-wallpaper.png\"> (a gnu-linux-black-"
 "wallpaper.)</a>"
 msgstr ""
-"<a href=\"/graphics/gnu-linux-black-wallpaper.png\"> (fond d'écran sur fond "
-"noir)</a>"
+"fond d'écran sur fond noir : <a href=\"/graphics/gnu-linux-black-wallpaper."
+"png\">403 ko</a> (1600x1200)"
 
 #. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/graphics/gnu-linux-white-wallpaper.png\"> (a gnu-linux-white-"
 "wallpaper.)</a>"
 msgstr ""
-"<a href=\"/graphics/gnu-linux-white-wallpaper.png\"> (fond d'écran sur fond "
-"blanc)</a>"
+"fond d'écran sur fond blanc : <a href=\"/graphics/gnu-linux-white-wallpaper."
+"png\">553 ko</a> (1600x1200)"
 
 #. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/graphics/gnu-linux-color-wallpaper.png\"> (a gnu-linux-color-"
 "wallpaper.)</a>"
 msgstr ""
-"<a href=\"/graphics/gnu-linux-color-wallpaper.png\"> (fond d'écran coloré)</"
-"a>"
+"fond d'écran en couleur : <a href=\"/graphics/gnu-linux-color-wallpaper.png"
+"\">667 ko</a> (1600x1200)"
 
 #. type: Content of: <p>
 msgid "The images linked to from this page are:"
-msgstr "Les images liées dans cette page sont sous :"
+msgstr "Les images en lien sur cette page sont sous :"
 
 #. type: Content of: <p>
 msgid "Copyright (C) 2005, 2006 Free Software Foundation, Inc."
-msgstr "Copyright (C) 2005, 2006 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2005, 2006 Free Software Foundation, Inc."
 
 #. type: Content of: <p>
 msgid ""
 "Permission is granted to copy, distribute and/or modify this image under the "
 "terms of:"
 msgstr ""
-"Il est permis de copier, distribuer et/ou modifier ces images sous les "
-"termes de :"
+"Il est permis de copier, distribuer ou modifier ces images sous les termes "
+"de :"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -120,9 +120,9 @@ msgid ""
 "published by the Free Software Foundation; either version 2 of the License, "
 "or (at your option) any later version, or"
 msgstr ""
-"la <a href=\"/copyleft/gpl.html\">GNU General Public License</a> telle que "
-"publiée par la <i>Free Software Foundation</i> ; soit la version 2 de la "
-"licence, soit (à votre convenance) toute version postérieure, ou"
+"la <a href=\"/copyleft/gpl.html\">licence publique générale GNU</a> telle "
+"que publiée par la <i>Free Software Foundation</i> ; soit la version 2 de la "
+"licence, soit (à votre convenance) toute version ultérieure."
 
 #. type: Content of: <p>
 msgid ""
@@ -193,7 +193,7 @@ msgid ""
 "gpl.html\">GNU General Public License version 2 or later</a>."
 msgstr ""
 "Les illustrations GNU/Linux de cette page sont sont disponibles sous les "
-"conditions de la <a href=\"/copyleft/gpl.html\"> licence publique générale "
+"conditions de la <a href=\"/copyleft/gpl.html\">licence publique générale "
 "GNU, version 2 ou ultérieure</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.

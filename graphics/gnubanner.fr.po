@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnubanner.html\n"
 "POT-Creation-Date: 2014-04-05 00:00+0000\n"
-"PO-Revision-Date: 2014-04-05 09:19+0200\n"
+"PO-Revision-Date: 2018-11-29 21:22+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -32,7 +32,7 @@ msgstr "<a href=\"/graphics/gnubanner.jpg\">"
 
 #. type: Attribute 'alt' of: <p><a><img>
 msgid "[Come and see what GNU creates for YOU]"
-msgstr "[Venez voir ce que GNU crée pour VOUS]"
+msgstr " [Venez voir ce que GNU crée pour VOUS] "
 
 #. type: Content of: <p>
 msgid "</a>"
@@ -44,30 +44,29 @@ msgid ""
 "what GNU creates for YOU\". It is probably best to use this if you wish to "
 "make a link to the GNU Project."
 msgstr ""
-"Ceci est une belle tête de GNU en bannière avec le texte <i>Come and see "
-"what GNU creates for YOU</i> (Venez voir ce que GNU crée pour VOUS). "
-"Probablement l'idéal à utiliser si vous souhaitez faire un lien vers le "
-"projet GNU."
+"Voici une belle tête de GNU en bannière avec le texte <i>Come and see what "
+"GNU creates for YOU</i> (Venez voir ce que GNU crée pour VOUS). Probablement "
+"l'idéal si vous souhaitez faire un lien vers le projet GNU."
 
 #. type: Content of: <p>
 msgid ""
 "We thank Stefan Rieken <a href=\"mailto:StefanRieken@SoftHome.net\"> &lt;"
 "StefanRieken@SoftHome.net&gt;</a> for this art."
 msgstr ""
-"Nous remercions Stefan Rieken <a href=\"mailto:StefanRieken@SoftHome.net\"> "
-"&lt;StefanRieken@SoftHome.net&gt;</a> pour ce dessin."
+"Nous remercions Stefan Rieken <a href=\"mailto:StefanRieken@SoftHome.net"
+"\">&lt;StefanRieken@SoftHome.net&gt;</a> pour ce dessin."
 
 #. type: Content of: <p>
 msgid "This picture is available in the following formats:"
-msgstr "Ce dessin est disponible aux formats suivants :"
+msgstr "Il est disponible aux formats suivants :"
 
 #. type: Content of: <ul><li>
 msgid "jpeg <a href=\"/graphics/gnubanner.jpg\">9k</a>"
-msgstr "jpeg <a href=\"/graphics/gnubanner.jpg\">9 ko</a>"
+msgstr "JPEG  <a href=\"/graphics/gnubanner.jpg\">10 ko</a> (468x60)"
 
 #. type: Content of: <ul><li>
 msgid "png <a href=\"/graphics/gnubanner.png\">15k</a>"
-msgstr "png <a href=\"/graphics/gnubanner.png\">15 ko</a>"
+msgstr "PNG  <a href=\"/graphics/gnubanner.png\">15 ko</a> (468x60)"
 
 #. type: Content of: <p>
 msgid "Lalo Martins created an alternative version:"
@@ -79,15 +78,15 @@ msgstr "<a href=\"/graphics/gnubanner-alt.png\">"
 
 #. type: Attribute 'alt' of: <p><a><img>
 msgid "[Alternative version of the GNU Banner]"
-msgstr "[Version alternative de la bannière GNU]"
+msgstr " [Version alternative de la bannière GNU] "
 
 #. type: Content of: <p>
 msgid ""
 "It is available in <a href=\"/graphics/gnubanner-alt.png\">png</a> and <a "
 "href=\"/graphics/gnubanner-alt.xcf\">xcf</a> formats."
 msgstr ""
-"Elle est disponible aux formats <a href=\"/graphics/gnubanner-alt.png\">png</"
-"a> et <a href=\"/graphics/gnubanner-alt.xcf\">xcf</a>."
+"Elle est disponible aux formats <a href=\"/graphics/gnubanner-alt.png\">PNG</"
+"a> et <a href=\"/graphics/gnubanner-alt.xcf\">XCF</a>."
 
 #. type: Content of: <p><a>
 msgid "<a href=\"/graphics/gnubanner-2.png\">"
@@ -95,14 +94,14 @@ msgstr "<a href=\"/graphics/gnubanner-2.png\">"
 
 #. type: Attribute 'alt' of: <p><a><img>
 msgid "[ GNU Link]"
-msgstr "[Lien GNU]"
+msgstr " [Lien vers le projet GNU] "
 
 #. type: Content of: <p>
 msgid ""
 "This is a smaller, more colorful banner you can use to link to the GNU "
 "project."
 msgstr ""
-"Ceci est une version plus petite et plus colorée de la bannière, que vous "
+"Voici une version plus petite et plus colorée de la bannière, que vous "
 "pouvez utiliser pour faire un lien vers le projet GNU."
 
 #. type: Content of: <p>
@@ -110,12 +109,12 @@ msgid ""
 "We thank SpAwN <a href=\"mailto:spawn@technetworkz.com\"> &lt;"
 "spawn@technetworkz.com&gt;</a> for this art."
 msgstr ""
-"Nous remercions SpAwN <a href=\"mailto:spawn@technetworkz.com\"> &lt;"
+"Nous remercions SpAwN <a href=\"mailto:spawn@technetworkz.com\">&lt;"
 "spawn@technetworkz.com&gt;</a> pour ce dessin."
 
 #. type: Content of: <ul><li>
 msgid "png <a href=\"/graphics/gnubanner-2.png\">4k</a>"
-msgstr "png <a href=\"/graphics/gnubanner-2.png\">4 ko</a>"
+msgstr "PNG  <a href=\"/graphics/gnubanner-2.png\">3 ko</a> (88x31)"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
