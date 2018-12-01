@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 3dbabygnutux.html\n"
 "POT-Creation-Date: 2015-09-22 17:26+0000\n"
-"PO-Revision-Date: 2015-09-26 09:02+0200\n"
+"PO-Revision-Date: 2018-11-29 12:11+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -32,7 +32,7 @@ msgstr "<a href=\"/graphics/babies/BabyGnuTux-Big.png\">"
 
 #. type: Attribute 'alt' of: <p><a><img>
 msgid "[3D baby GNU and baby Tux]"
-msgstr "[Bébé GNU et bébé Tux en 3D]"
+msgstr " [Bébé GNU et bébé Tux en 3D] "
 
 #. type: Content of: <p>
 msgid "</a>"
@@ -43,57 +43,82 @@ msgid ""
 "Nicolas Rougier has contributed all of these nice graphics, a sample of "
 "which is shown above."
 msgstr ""
-"Nicolas Rougier a réalisé tous ces jolis dessins dont un échantillon est "
+"Nicolas Rougier a réalisé tous ces jolis dessins, dont un échantillon est "
 "présenté ci-dessus."
 
 #. type: Content of: <ul><li>
 msgid "<a href=\"babies/BabyGnu.png\">Baby GNU</a>"
-msgstr "<a href=\"babies/BabyGnu.png\">Bébé GNU</a>"
+msgstr ""
+"<p style=\"display:inline-block; width:15em\">Bébé GNU sur fond blanc :</p> "
+"PNG <a href=\"babies/BabyGnu.png\">238 ko</a> (800x800)"
 
 #. type: Content of: <ul><li>
 msgid "<a href=\"babies/BabyGnuAlpha.png\">Baby GNU - alpha</a>"
-msgstr "<a href=\"babies/BabyGnuAlpha.png\">Bébé GNU - alpha</a>"
+msgstr ""
+"<p style=\"display:inline-block; width:15em\">Bébé GNU sur fond transparent :"
+"</p> PNG <a href=\"babies/BabyGnuAlpha.png\">251 ko</a> (800x800)"
 
 #. type: Content of: <ul><li>
 msgid "<a href=\"babies/BabyGnuBlack.png\">Baby GNU - black</a>"
-msgstr "<a href=\"babies/BabyGnuBlack.png\">Bébé GNU - noir</a>"
+msgstr ""
+"<p style=\"display:inline-block; width:15em\">Bébé GNU sur fond noir :</p> "
+"PNG <a href=\"babies/BabyGnuBlack.png\">278</a> (800x800)"
 
 #. type: Content of: <ul><li>
 msgid "<a href=\"babies/BabyTux.png\">Baby Tux</a>"
-msgstr "<a href=\"babies/BabyTux.png\">Bébé Tux</a>"
+msgstr ""
+"<p style=\"display:inline-block; width:15em\">Bébé Tux sur fond blanc :</p> "
+"PNG <a href=\"babies/BabyTux.png\">147 ko</a> (800x800)"
 
 #. type: Content of: <ul><li>
 msgid "<a href=\"babies/BabyTuxAlpha.png\">Baby Tux - alpha</a>"
-msgstr "<a href=\"babies/BabyTuxAlpha.png\">Bébé Tux - alpha</a>"
+msgstr ""
+"<p style=\"display:inline-block; width:15em\">Bébé Tux sur fond transparent :"
+"</p> PNG <a href=\"babies/BabyTuxAlpha.png\">145 ko</a> (800x800)"
 
 #. type: Content of: <ul><li>
 msgid "<a href=\"babies/BabyTuxBlack.png\">Baby Tux - black</a>"
-msgstr "<a href=\"babies/BabyTuxBlack.png\">Bébé Tux - noir</a>"
+msgstr ""
+"<span style=\"width:15em\">Bébé Tux sur fond noir :</span> PNG <a href="
+"\"babies/BabyTuxBlack.png\">190 ko</a> (800x800)"
 
 #. type: Content of: <ul><li>
 msgid "<a href=\"babies/BabyTuxSit.png\">Baby Tux sitting</a>"
-msgstr "<a href=\"babies/BabyTuxSit.png\">Bébé Tux assis</a>"
+msgstr ""
+"<span style=\"width:15em\">Bébé Tux assis sur fond blanc :</span> PNG <a "
+"href=\"babies/BabyTuxSit.png\">135 ko</a> (800x800)"
 
 #. type: Content of: <ul><li>
 msgid "<a href=\"babies/BabyTuxSitAlpha.png\">Baby Tux sitting - alpha</a>"
-msgstr "<a href=\"babies/BabyTuxSitAlpha.png\">Bébé Tux assis - alpha</a>"
+msgstr ""
+"<span style=\"width:15em\">Bébé Tux assis sur fond transparent :</span> PNG "
+"<a href=\"babies/BabyTuxSitAlpha.png\">128 ko</a> (800x800)"
 
 #. type: Content of: <ul><li>
 msgid "<a href=\"babies/BabyTuxSitBlack.png\">Baby Tux sitting - black</a>"
-msgstr "<a href=\"babies/BabyTuxSitBlack.png\">Bébé Tux assis - noir</a>"
+msgstr ""
+"<span style=\"width:15em\">Bébé Tux assis sur fond noir :</span> PNG <a href="
+"\"babies/BabyTuxSitBlack.png\">183 ko</a> (800x800)"
 
 #. type: Content of: <ul><li>
 msgid "<a href=\"babies/BabyGnuTux-Big.png\">Baby GNU and Tux - big</a>"
-msgstr "<a href=\"babies/BabyGnuTux-Big.png\">Bébé GNU et bébé Tux - grand</a>"
+msgstr ""
+"<span style=\"width:15em\">Bébé GNU et bébé Tux :</span> PNG <a href="
+"\"babies/BabyGnuTux-Small.png\">11 ko</a> (180x90), <a href=\"babies/"
+"BabyGnuTux-Med.png\">114 ko</a> (800x400), <a href=\"babies/BabyGnuTux-Big."
+"png\">354 ko</a> (1600x800)"
 
 #. type: Content of: <ul><li>
 msgid "<a href=\"babies/BabyGnuTux-Med.png\">Baby GNU and Tux - medium</a>"
-msgstr "<a href=\"babies/BabyGnuTux-Med.png\">Bébé GNU et bébé Tux - moyen</a>"
+msgstr ""
+"<span style=\"width:15em\">Fond d'écran GNU/Tux blanc :</span> JPG <a href="
+"\"babies/GnuTux.jpg\">93 ko</a> (1280x1024)"
 
 #. type: Content of: <ul><li>
 msgid "<a href=\"babies/BabyGnuTux-Small.png\">Baby GNU and Tux - small</a>"
 msgstr ""
-"<a href=\"babies/BabyGnuTux-Small.png\">Bébé GNU et bébé Tux - petit</a>"
+"<span style=\"width:15em\">Fond d'écran GNU/Tux noir :</span> JPG <a href="
+"\"babies/GnuTuxBlack.jpg\">94 ko</a> (1280x1024)"
 
 #. type: Content of: <p>
 msgid ""
@@ -102,35 +127,33 @@ msgid ""
 "formats, which has been modified to include only <a href=\"/distros/free-"
 "distros.html\">fully free GNU/Linux distros</a>:"
 msgstr ""
-"Nicolas a aussi réalisé ce poster GNU/Linux (<a href=\"babies/gnu-and-tux-"
-"babies-poster-not-recommended.odp\">sources</a>) en plusieurs versions et "
+"Nicolas a aussi réalisé ce poster GNU/Linux en plusieurs versions et "
 "plusieurs formats. Il a été modifié pour n'inclure que des <a href=\"/"
 "distros/free-distros.html\">distributions GNU/Linux entièrement libres</a> :"
 
 #. type: Content of: <ul><li>
 msgid ""
 "<a href=\"babies/gnu-and-tux-babies-poster.pdf\">GNU/Linux poster - pdf</a>"
-msgstr ""
-"<a href=\"babies/gnu-and-tux-babies-poster.pdf\">Poster GNU/Linux - pdf</a>"
+msgstr "PDF <a href=\"babies/gnu-and-tux-babies-poster.pdf\">7,2 Mo</a>"
 
 #. type: Content of: <ul><li>
 msgid ""
 "<a href=\"babies/gnu-and-tux-babies-poster.png\">GNU/Linux poster - png</a>"
 msgstr ""
-"<a href=\"babies/gnu-and-tux-babies-poster.png\">Poster GNU/Linux - png</a>"
+"PNG <a href=\"babies/gnu-and-tux-babies-poster.png\">435 ko</a> (983x1311)"
 
 #. type: Content of: <ul><li>
 msgid ""
 "<a href=\"babies/gnu-and-tux-babies-poster.jpg\">GNU/Linux poster - jpg</a>"
 msgstr ""
-"<a href=\"babies/gnu-and-tux-babies-poster.jpg\">Poster GNU/Linux - jpg</a>"
+"JPEG <a href=\"babies/gnu-and-tux-babies-poster.jpg\">225 ko</a> (983x1311) "
 
 #. type: Content of: <ul><li>
 msgid ""
 "<a href=\"babies/gnu-and-tux-babies-poster.odp\">GNU/Linux poster - odp "
 "sources</a>"
 msgstr ""
-"<a href=\"babies/gnu-and-tux-babies-poster.odp\">Poster GNU/Linux - odp</a>"
+"ODP sources <a href=\"babies/gnu-and-tux-babies-poster.odp\">4,7 Mo</a>"
 
 #. type: Content of: <p>
 msgid "The images linked to from this page are:"
