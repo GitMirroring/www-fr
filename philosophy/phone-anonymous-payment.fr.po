@@ -1,0 +1,139 @@
+# French translation of https://www.gnu.org/philosophy/phone-anonymous-payment.html
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Christian Renaudineau <crenaudineau at april.org>, 2018.
+# Thérèse Godefroy <godef.th AT free.fr>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: phone-anonymous-payment.html\n"
+"POT-Creation-Date: 2018-11-27 06:27+0000\n"
+"PO-Revision-Date: 2018-12-20 10:26+0100\n"
+"Last-Translator: Christian Renaudineau <crenaudineau at april.org>\n"
+"Language-Team: French <trad-gnu@april.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Content of: <title>
+msgid "Anonymous Payment by Phone - GNU Project - Free Software Foundation"
+msgstr "Paiement anonyme par téléphone - Projet GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Anonymous Payment by Phone"
+msgstr "Paiement anonyme par téléphone"
+
+#. type: Content of: <p>
+msgid ""
+"Here is an idea for an anonymous payment system that would be useful for "
+"some applications."
+msgstr ""
+"Voici une idée de système anonyme de paiement qui serait utile dans certains "
+"cas."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The seller sets up a phone number that charges N dollars per minute to any "
+"caller."
+msgstr ""
+"Le vendeur met en place un numéro de téléphone qui facture N dollars par "
+"minute à tout appelant."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The customer chooses a code, calls that number (which requires paying N "
+"dollars), and enters the code. A voice-generation system speaks the code "
+"back so the customer can confirm it."
+msgstr ""
+"Le client choisit un code, appelle le numéro surtaxé (ce qui nécessite de "
+"payer N dollars) et entre le code. Un système de génération vocale renvoie "
+"le code pour que le client puisse le confirmer."
+
+#. type: Content of: <ul><li>
+msgid ""
+"That code represents a payment of N dollars. The customer enters it in a web "
+"site, or a kiosk, and it constitutes payment for whatever."
+msgstr ""
+"Ce code représente un paiement de N dollars. Le client le saisit sur un site "
+"web ou un kiosque, et il permet de payer n'importe quoi."
+
+#. type: Content of: <p>
+msgid ""
+"It should be possible to do this using a phone card on a payphone or anyone "
+"else's telephone."
+msgstr ""
+"Il devrait être possible de faire ceci à l'aide d'une carte téléphonique, "
+"dans une cabine publique ou sur le téléphone d'une autre personne."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Veuillez envoyer les requêtes concernant la FSF et GNU à <a href=\"mailto:"
+"gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>. Il existe aussi <a href=\"/contact/"
+"\">d'autres moyens de contacter</a> la FSF. Les liens orphelins et autres "
+"corrections ou suggestions peuvent être signalés à <a href=\"mailto:"
+"webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Nous faisons le maximum pour proposer des traductions fidèles et de bonne "
+"qualité, mais nous ne sommes pas parfaits. Merci d'adresser vos commentaires "
+"sur cette page, ainsi que vos suggestions d'ordre général sur les "
+"traductions, à <a href=\"mailto:web-translators@gnu.org\"> &lt;web-"
+"translators@gnu.org&gt;</a>.</p>\n"
+"<p>Pour tout renseignement sur la coordination et la soumission des "
+"traductions de nos pages web, reportez-vous au <a href=\"/server/standards/"
+"README.translations.html\">guide de traduction</a>."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2018 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2018 Free Software Foundation, Inc"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Cette page peut être utilisée suivant les conditions de la licence <a rel="
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduction : Christian Renaudineau<br /> Révision : <a href=\"mailto:trad-"
+"gnu&#64;april.org\">trad-gnu&#64;april.org</a>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Dernière mise à jour :"
