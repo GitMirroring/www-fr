@@ -10,8 +10,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2018-10-14 09:26+0000\n"
-"PO-Revision-Date: 2018-10-14 13:36+0200\n"
+"POT-Creation-Date: 2018-12-20 11:56+0000\n"
+"PO-Revision-Date: 2018-12-20 13:14+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -423,29 +423,48 @@ msgstr ""
 msgid "<a href=\"/server/takeaction.html\">More action items</a>"
 msgstr "<a href=\"/server/takeaction.html\">Toutes les actions</a>"
 
-#. type: Content of: <div><div><div><ul><li>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "<strong>Can you contribute to any of these <a href=\"//www.fsf.org/campaigns/"
-"priority-projects/\">High Priority Areas</a>?</strong> Free phone operating "
-"system; decentralization, federation, and self-hosting; free drivers, "
-"firmware, and hardware designs; real-time voice and video chat; encourage "
-"contribution by people underrepresented in the community, and more."
+"priority-projects/\">High Priority Areas</a>?</strong>"
 msgstr ""
 "<strong>Pouvez-vous contribuer à certains de ces <a href=\"//www.fsf.org/"
-"campaigns/priority-projects/\">projets prioritaires</a> ?</strong> Système "
-"d'exploitation libre pour smartphones ; décentralisation, fédération et "
-"autohébergement ; pilotes, micrologiciels <cite>[firmware]</cite> et plans "
-"de matériel libres ; chat audio et vidéo en temps réel ; aides à la "
-"participation des catégories de population sous-représentées dans la "
-"communauté, et plus encore."
+"campaigns/priority-projects/\">projets prioritaires</a> ?</strong>"
 
 #. type: Content of: <div><div><div><ul><li>
-msgid ""
-"<strong>Can you take over an <a href=\"/server/takeaction.html#unmaint"
-"\">unmaintained GNU package</a>?</strong>"
+msgid "Free phone operating system,"
+msgstr "Système d'exploitation libre pour smartphones,"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "decentralization, federation and self-hosting,"
+msgstr "décentralisation, fédération et autohébergement,"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "free drivers, firmware and hardware designs,"
 msgstr ""
-"<strong>Pouvez-vous adopter un <a href=\"/server/takeaction.html#unmaint"
-"\">paquet GNU orphelin</a> ?</strong>"
+"pilotes, micrologiciels <cite>[firmware]</cite> et plans de matériel libres,"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "real-time voice and video chat,"
+msgstr "chat audio et vidéo en temps réel,"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "encourage contribution by people underrepresented in the community,"
+msgstr ""
+"aides à la participation des catégories de population sous-représentées dans "
+"la communauté"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "and more."
+msgstr "et plus encore."
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<strong>Can you help <a href=\"/server/takeaction.html#unmaint\">maintain a "
+"GNU package</a>?</strong>"
+msgstr ""
+"<strong>Pouvez-vous contribuer à la <a href=\"/server/takeaction.html#unmaint"
+"\">maintenance d'un paquet GNU</a> ?</strong>"
 
 #. type: Content of: <div><div><div><ul><li>
 msgid ""
@@ -460,12 +479,14 @@ msgstr ""
 "\">quickthreads</a>"
 
 #. type: Content of: <div><div><div><ul><li>
-msgid ""
-", are all <a href=\"/server/takeaction.html#unmaint\">looking for "
-"maintainers</a>.  Also, these packages are looking for co-maintainers:"
+msgid ", are all looking for maintainers."
 msgstr ""
 " sont tous <a href=\"/server/takeaction.html#unmaint\">à la recherche d'un "
-"repreneur</a>. Et ceux-ci sont à la recherche d'un comainteneur :"
+"repreneur</a>."
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "Also, these packages are looking for co-maintainers:"
+msgstr "Et ceux-ci sont à la recherche d'un comainteneur :"
 
 #. type: Content of: <div><div><div><ul><li>
 msgid ""
@@ -482,9 +503,12 @@ msgstr ""
 "\">xboard</a>"
 
 #. type: Content of: <div><div><div><ul><li>
-msgid ".  See the package web pages for more information."
-msgstr ""
-". Consultez les pages web de ces logiciels pour plus ample information."
+msgid "."
+msgstr "."
+
+#. type: Content of: <div><div><div><p>
+msgid "See the package web pages for more information."
+msgstr "Consultez les pages web de ces logiciels pour plus ample information."
 
 #. type: Content of: <div><div><div><p>
 msgid ""
