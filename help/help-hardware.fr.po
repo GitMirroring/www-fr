@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: help-hardware.html\n"
-"POT-Creation-Date: 2014-04-05 00:01+0000\n"
-"PO-Revision-Date: 2014-04-05 09:19+0200\n"
+"POT-Creation-Date: 2019-01-25 10:26+0000\n"
+"PO-Revision-Date: 2019-01-25 11:51+0100\n"
 "Last-Translator: Romain GUERZEDER <romain.guerzeder@wanadoo.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -37,42 +37,70 @@ msgid ""
 msgstr ""
 "Le projet GNU accepterait volontiers en don le matériel suivant. Merci de "
 "n'envoyer que du matériel réputé en état de marche. Vous pouvez envoyer vos "
-"propositions à <a href=\"mailto:hardware-donations@gnu.org\"> &lt;hardware-"
-"donations@gnu.org&gt;</a>."
-
-#. type: Content of: <ul><li>
-msgid "Modern rackmount server and workstation computers."
-msgstr "Des serveurs en rack et des stations de travail modernes."
-
-#. type: Content of: <ul><li>
-msgid "Monitors that support 1600x1200 or better resolution (or LCD panels)."
-msgstr "Des moniteurs de résolution 1600x1200 ou plus (ou des écrans LCD)."
-
-#. type: Content of: <ul><li>
-msgid "Three-year-old or newer laptop computers."
-msgstr "Des ordinateurs portables de moins de 3 ans."
-
-#. type: Content of: <ul><li>
-msgid "10/100 or gigabit managed ethernet switches."
-msgstr "Des commutateurs administrables en 10/100 ou gigabit Ethernet."
+"propositions à &lt;<a href=\"mailto:hardware-donations@gnu.org\">hardware-"
+"donations@gnu.org</a>&gt;."
 
 #. type: Content of: <ul><li>
 msgid ""
-"Three-year-old or newer Postscript printers, and printers that work with <a "
-"href=\"/software/ghostscript/\">GNU Ghostscript</a>."
+"Computers (and other devices) listed in <a href=\"https://ryf.fsf.org\">ryf."
+"fsf.org</a>."
 msgstr ""
-"Des imprimantes Postscript de moins de 3 ans, et des imprimantes qui "
-"fonctionnent avec <a href=\"/software/ghostscript/\">GNU Ghostscript</a>."
+"Des ordinateurs (et autres appareils) <a href=\"https://ryf.fsf.org"
+"\">certifiés RYF</a>."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Modern rackmount server chassis for Extended-ATX motherboards (without "
+"motherboard, unless RYF certified, see above)."
+msgstr ""
+"Des châssis de serveurs en rack pour carte mère Extended-ATX (sans carte "
+"mère, sauf si elle est certifiée RYF ; voir plus haut)."
+
+#. type: Content of: <ul><li>
+msgid "Monitors that support 1600x1200 or better resolution."
+msgstr "Des moniteurs de résolution 1600x1200 ou plus."
+
+#. type: Content of: <ul><li>
+msgid "Gigabit or 10gbps unmanaged ethernet switches."
+msgstr "Des commutateurs Ethernet non gérés Gigabit ou 10 Gbit/s."
+
+#. type: Content of: <ul><li>
+msgid ""
+"PostScript printers that are fully-free-software-compatible, and printers "
+"that work with GNU Ghostscript."
+msgstr ""
+"Des imprimantes PostScript entièrement compatibles avec le logiciel libre et "
+"des imprimantes fonctionnant avec GNU Ghostscript."
 
 #. type: Content of: <ul><li>
 msgid "Uninterruptible power supplies with good batteries."
 msgstr "Des alimentations sans coupure (onduleurs) avec de bonnes batteries."
 
 #. type: Content of: <ul><li>
-msgid "A T1 router and CSU/DSU."
+msgid "New large (4TB or bigger) hard drives, or new SSD drives."
 msgstr ""
-"Un routeur T1 avec <abbr title=\"Channel Service Unit/Data Service Unit"
-"\">CSU/DSU</abbr>."
+"Des disques durs neufs de haute capacité (au moins 4 To) ou des disques SSD "
+"neufs."
+
+#. type: Content of: <ul><li>
+msgid "Asterisk-compatible, analog telephony cards."
+msgstr "Des cartes de téléphonie analogique compatibles avec Asterisk."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Analog A/V equipment such as microphones, mixers, cables, stands, etc. "
+"Lighting and photographic equipment."
+msgstr ""
+"De l'équipement audio vidéo analogique (micros, câbles, supports, etc.) et "
+"de l'équipement pour l'éclairage et la photographie."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Devices listed as fully-free-software-compatible on <a href=\"https://h-node."
+"org\">h-node.org</a>."
+msgstr ""
+"Des appareils répertoriés sur <a href=\"https://h-node.org\">h-node.org</a>, "
+"entièrement compatibles avec le logiciel libre."
 
 #. type: Content of: <p>
 msgid ""
@@ -146,22 +174,22 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2001, 2007, 2009, 2012, 2013, 2014 Free Software "
+"Copyright &copy; 2001, 2007, 2009, 2012, 2013, 2014, 2019 Free Software "
 "Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2001, 2007, 2009, 2012, 2013, 2014 Free Software "
+"Copyright &copy; 2001, 2007, 2009, 2012, 2013, 2014, 2019 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution de paternité, pas de modification, 3.0 États-"
-"Unis (CC BY-ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
