@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: fr.po\n"
-"POT-Creation-Date: 2019-01-28 23:56+0000\n"
-"PO-Revision-Date: 2019-01-29 09:53+0100\n"
+"POT-Creation-Date: 2019-02-03 17:03+0100\n"
+"PO-Revision-Date: 2019-02-03 17:41+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -239,7 +239,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction et Révision : <a href=\"mailto:trad-gnu&#64;april.org\">trad-"
+"Traduction et révision : <a href=\"mailto:trad-gnu&#64;april.org\">trad-"
 "gnu&#64;april.org</a>"
 
 #.  timestamp start 
@@ -3674,7 +3674,7 @@ msgid ""
 "policy/2016/06/if-you-used-to-run-linux-on-your-ps3-you-could-get-55-from-"
 "sony/\"> now paying for the sabotage</a>."
 msgstr ""
-"Après un règlement à l'amiable, Sony <a href=\"http://arstechnica.com/tech-"
+"Après un règlement à l'amiable, <a href=\"http://arstechnica.com/tech-"
 "policy/2016/06/if-you-used-to-run-linux-on-your-ps3-you-could-get-55-from-"
 "sony/\">le moment est venu pour Sony de payer pour ce sabotage</a>."
 
@@ -3716,6 +3716,10 @@ msgstr ""
 #. type: Content of: <div><h3>
 msgid "<strong>Type&nbsp;of malware</strong>"
 msgstr "<strong>Type de malveillance</strong>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#interference\">Interference</a>"
+msgstr "<a href=\"#interference\">Ingérence</a>"
 
 #. type: Content of: <h3>
 msgid "Google Back Doors"
@@ -3926,6 +3930,38 @@ msgstr ""
 #. type: Content of: <h3>
 msgid "Google Insecurity"
 msgstr "Insécurité"
+
+#. type: Content of: <h3>
+msgid "Google Interference"
+msgstr "Ingérence"
+
+#. type: Content of: <p>
+msgid ""
+"This section gives examples of Google software harassing or annoying the "
+"user, or causing trouble for the user.  These actions are like sabotage but "
+"the word &ldquo;sabotage&rdquo; is too strong for them."
+msgstr ""
+"Cette section décrit comment certains logiciels de Google importunent ou "
+"harcèlent l'utilisateur, ou bien lui causent des ennuis. Cela ressemble à du "
+"sabotage, mais le mot « sabotage » est trop fort."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Google is modifying Chromium so that <a href=\"https://tech.slashdot.org/"
+"story/19/01/23/0048202/google-proposes-changes-to-chromium-browser-that-will-"
+"break-content-blocking-extensions-including-various-ad-blockers\"> "
+"extensions won't be able to alter or block whatever the page contains</a>. "
+"Users could conceivably reverse the change in a fork of Chromium, but surely "
+"Chrome (nonfree) will have the same change, and users can't fix it there."
+msgstr ""
+"Google est en train de modifier Chromium de telle sorte que <a href="
+"\"https://tech.slashdot.org/story/19/01/23/0048202/google-proposes-changes-"
+"to-chromium-browser-that-will-break-content-blocking-extensions-including-"
+"various-ad-blockers\">les extensions ne puissent plus altérer ni bloquer ce "
+"que contient la page</a>. Il est concevable que les utilisateurs annulent ce "
+"changement dans un fork de Chromium, mais il est certain que Chrome (non "
+"libre) le contiendra également, et là les utilisateurs ne pourront pas "
+"l'annuler."
 
 #. type: Content of: <h3>
 msgid "Google Sabotage"
@@ -4238,10 +4274,6 @@ msgstr ""
 "la malveillance des logiciels Microsoft."
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"#interference\">Interference</a>"
-msgstr "<a href=\"#interference\">Interférence</a>"
-
-#. type: Content of: <div><ul><li>
 msgid "<a href=\"#subscriptions\">Subscriptions</a>"
 msgstr "<a href=\"#subscriptions\">Abonnements</a>"
 
@@ -4399,20 +4431,17 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "Microsoft Interference"
-msgstr "Interférence"
+msgstr "Ingérence"
 
 #. type: Content of: <p>
 msgid ""
-"Various proprietary programs often mess up the user's system. They are like "
-"sabotage, but they are not grave enough to qualify for the word &ldquo;"
-"sabotage&rdquo;. Nonetheless, they are nasty and wrong. This section "
-"describes examples of Microsoft committing interference."
+"This section gives examples of Microsoft software harassing or annoying the "
+"user, or causing trouble for the user.  These actions are like sabotage but "
+"the word &ldquo;sabotage&rdquo; is too strong for them."
 msgstr ""
-"Divers programmes privateurs mettent le désordre dans le système de "
-"l'utilisateur. C'est comme du sabotage, mais ce n'est pas assez grave pour "
-"justifier le mot « sabotage ». Néanmoins, ces programmes sont malfaisants et "
-"contraires à l'éthique. Cette section décrit des cas d'interférence dont "
-"Microsoft est responsable."
+"Cette page décrit comment certains logiciels de Microsoft importunent ou "
+"harcèlent l'utilisateur, ou bien lui causent des ennuis. Cela ressemble à du "
+"sabotage, mais le mot « sabotage » est trop fort."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -5522,6 +5551,16 @@ msgstr ""
 msgid "Mobile Interference"
 msgstr "Ingérence"
 
+#. type: Content of: <p>
+msgid ""
+"This section gives examples of mobile apps harassing or annoying the user, "
+"or causing trouble for the user.  These actions are like sabotage but the "
+"word &ldquo;sabotage&rdquo; is too strong for them."
+msgstr ""
+"Cette page décrit comment certaines applis mobiles importunent ou harcèlent "
+"l'utilisateur, ou bien lui causent des ennuis. Cela ressemble à du sabotage, "
+"mais le mot « sabotage » est trop fort."
+
 #. type: Content of: <ul><li><p>
 msgid ""
 "Samsung phones come preloaded with <a href=\"https://www.bloomberg.com/news/"
@@ -5592,6 +5631,36 @@ msgstr ""
 "<a href=\"https://motherboard.vice.com/en_us/article/gy77wy/stop-using-third-"
 "party-weather-apps\">D'autres applis météo</a>, en particulier Accuweather "
 "et WeatherBug, suivent l'utilisateur à la trace."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Around 40% of gratis Android apps <a href=\"https://privacyinternational.org/"
+"report/2647/how-apps-android-share-data-facebook-report\"> report on the "
+"user's actions to Facebook</a>."
+msgstr ""
+"Environ 40 % des applis gratuites pour Android <a href=\"https://"
+"privacyinternational.org/report/2647/how-apps-android-share-data-facebook-"
+"report\">rapportent à Facebook les actions de l'utilisateur</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Often they send the machine's &ldquo;advertising ID,&rdquo; so that Facebook "
+"can correlate the data it obtains from the same machine via various apps. "
+"Some of them send Facebook detailed information about the user's activities "
+"in the app; others only say that the user is using that app, but that alone "
+"is often quite informative."
+msgstr ""
+"Souvent, elles envoient l'« identifiant publicitaire » de la machine pour "
+"que Facebook puisse corréler les données envoyées de la même machine par "
+"diverses applis. Certaines envoient à Facebook des informations détaillées "
+"sur les activités de l'utilisateur dans l'appli ; d'autres disent seulement "
+"qu'il l'utilise, mais ce simple renseignement est souvent très instructif."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"This spying occurs regardless of whether the user has a Facebook account."
+msgstr ""
+"Cet espionnage se produit que l'utilisateur ait un compte Facebook ou non."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -6171,9 +6240,8 @@ msgid ""
 "is &ldquo;gratis.&rdquo;"
 msgstr ""
 "Cet article n'aurait pas dû décrire ces applis comme <cite>free</cite> – ce "
-"ne sont pas des logiciels libres <cite>[free software]</cite><a name="
-"\"TransNote1-rev\" href=\"#TransNote1\"><sup>1</sup></a>. Pour être clair en "
-"anglais lorsqu'on parle de « coût nul », il faut dire <cite>gratis</cite>."
+"ne sont pas des logiciels libres. Pour être clair en anglais lorsqu'on parle "
+"de « coût nul », il faut dire <cite>gratis</cite>."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -7834,7 +7902,7 @@ msgstr "Produits ou sociétés"
 
 #. type: Content of: <table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-addictions.html\">Addictions</a>"
-msgstr "<a href=\"/proprietary/proprietary-deception.html\">Addiction</a>"
+msgstr "<a href=\"/proprietary/proprietary-addictions.html\">Addiction</a>"
 
 #. type: Content of: <table><tr><td><ul><li>
 msgid ""
@@ -7977,7 +8045,7 @@ msgid ""
 "their computers."
 msgstr ""
 "<em>Gestion numérique des restrictions ou « <abbr title=\"Digital "
-"Restriction Management\">DRM</abbr> » :</em>  fonctionnalités conçues pour "
+"Restrictions Management\">DRM</abbr> » :</em>  fonctionnalités conçues pour "
 "limiter ce que les utilisateurs peuvent faire avec leurs ordinateurs."
 
 #. type: Content of: <table><tr><td><ol><li>
@@ -8020,6 +8088,37 @@ msgstr ""
 #. type: Content of: <h3>
 msgid "Latest additions"
 msgstr "Ajouts récents"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Foundry's graphics software <a href=\"https://torrentfreak.com/software-"
+"company-fines-pirates-after-monitoring-their-computers-181102/\"> reports "
+"information to identify who is running it</a>. The result is often a legal "
+"threat demanding a lot of money."
+msgstr ""
+"Les logiciels de Foundry <a href=\"https://torrentfreak.com/software-company-"
+"fines-pirates-after-monitoring-their-computers-181102/\">font remonter des "
+"informations permettant d'identifier qui les utilise</a>. Cela se traduit "
+"souvent par la demande d'une grosse somme d'argent sous la menace d'un "
+"procès."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The fact that this is used for repression of forbidden sharing makes it even "
+"more vicious."
+msgstr ""
+"Le fait qu'il soit utilisé pour réprimer le partage non autorisé rend ce "
+"procédé encore plus vicieux."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"This illustrates that making unauthorized copies of nonfree software is not "
+"a cure for the injustice of nonfree software. It may avoid paying for the "
+"nasty thing, but cannot make it less nasty."
+msgstr ""
+"Ceci montre que la copie non autorisée de logiciels non libres n'est pas un "
+"remède contre l'injustice qu'ils représentent. Elle permet ne pas payer pour "
+"ces choses malfaisantes, mais ne peut pas les rendre moins malfaisantes."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -8313,8 +8412,12 @@ msgid "<a href=\"#SpywareInApplications\">Spyware in Applications</a>"
 msgstr "<a href=\"#SpywareInApplications\">Espions dans les applications</a>"
 
 #. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#SpywareInDesktopApps\">Desktop Apps</a>"
+msgstr "<a href=\"#SpywareInDesktopApps\">Sur ordinateur de bureau</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
 msgid "<a href=\"#SpywareInMobileApps\">Mobile Apps</a>"
-msgstr "<a href=\"#SpywareInMobileApps\">Applications mobiles</a>"
+msgstr "<a href=\"#SpywareInMobileApps\">Sur mobile</a>"
 
 #. type: Content of: <div><div><ul><li><ul><li>
 msgid "<a href=\"#SpywareInSkype\">Skype</a>"
@@ -8653,8 +8756,20 @@ msgstr ""
 "\">#SpywareInApplications</a>)</span>"
 
 #. type: Content of: <div><h4>
+msgid "Desktop Apps"
+msgstr "Sur ordinateur de bureau"
+
+#. type: Content of: <div>
+msgid ""
+"<span class=\"anchor-reference-id\">(<a href=\"#SpywareInDesktopApps"
+"\">#SpywareInDesktopApps</a>)</span>"
+msgstr ""
+"<span class=\"anchor-reference-id\">(<a href=\"#SpywareInDesktopApps"
+"\">#SpywareInDesktopApps</a>)</span>"
+
+#. type: Content of: <div><h4>
 msgid "Mobile Apps"
-msgstr "Applications mobiles"
+msgstr "Sur mobile"
 
 #. type: Content of: <div>
 msgid ""
