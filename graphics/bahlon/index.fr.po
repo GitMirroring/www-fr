@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: index.html\n"
-"POT-Creation-Date: 2014-04-05 00:01+0000\n"
-"PO-Revision-Date: 2014-04-05 09:19+0200\n"
+"POT-Creation-Date: 2019-02-04 18:26+0000\n"
+"PO-Revision-Date: 2019-02-04 20:06+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -17,27 +17,65 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Content of: <title>
-msgid "Georg Bahlon's 3D GNU head - GNU Project - Free Software Foundation"
+msgid "Georg Bahlon's 3D GNU Head - GNU Project - Free Software Foundation"
 msgstr ""
 "Tête de GNU en 3D de Georg Bahlon - Projet GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
-msgid "Georg Bahlon's 3D GNU head"
-msgstr "Tête de GNU en 3D de Georg Bahlon"
+msgid "GNU Head in&nbsp;3D"
+msgstr "Tête de GNU en 3D"
 
 #. type: Content of: <p>
-msgid ""
-"This <a href=\"3d-gnu-head.jpg\">image</a> is available under the GNU GPL.  "
-"It is created with Blender and the GIMP; the <tt>.blender</tt> file is <a "
-"href=\"3d-gnu-head.blend\"> available</a>."
-msgstr ""
-"Cette <a href=\"3d-gnu-head.jpg\">image</a> est disponible sous la GNU GPL. "
-"Elle a été créée avec Blender et GIMP ; le fichier <tt>.blender</tt> est <a "
-"href=\"3d-gnu-head.blend\">disponible</a>."
+msgid "by Georg Bahlon"
+msgstr "de Georg Bahlon"
 
-#. type: Attribute 'alt' of: <img>
-msgid "A 3D Gnu head"
-msgstr "Une tête de Gnou en 3D"
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/bahlon/3d-gnu-head.jpg\">"
+msgstr "<a href=\"/graphics/bahlon/3d-gnu-head.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[A 3D Gnu head]&nbsp;"
+msgstr "&nbsp;[Une tête de Gnou en 3D]&nbsp;"
+
+#. type: Content of: <div><div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p>
+msgid ""
+"A beautifully rendered GNU head with rounded horns and a light fuzzy beard, "
+"proudly looking straight ahead. This image was created with Blender and the "
+"Gimp."
+msgstr ""
+"Une tête de GNU au rendu magnifique, aux cornes arrondies et à la barbe "
+"douce et légère, qui regarde fièrement droit devant. Cette image a été créée "
+"avec Blender et Gimp."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"JPEG&nbsp; <a href=\"/graphics/bahlon/3d-gnu-head.jpg\">148kB</a> (580x560)"
+msgstr ""
+"JPEG&nbsp; <a href=\"/graphics/bahlon/3d-gnu-head.jpg\">148 ko</a> (580x560)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Blender source file&nbsp; <a href=\"/graphics/bahlon/3d-gnu-head.blend"
+"\">281kB</a>"
+msgstr ""
+"Fichier source de Blender&nbsp; <a href=\"/graphics/bahlon/3d-gnu-head.blend"
+"\">281 ko</a>"
+
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 2007 Georg Bahlon"
+msgstr "Copyright &copy; 2007 Georg Bahlon"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This image is available under the <a rel=\"license\" href=\"/licenses/gpl."
+"html\">GNU General Public License</a>."
+msgstr ""
+"Cette image est disponible sous la <a rel=\"license\" href=\"/licenses/gpl."
+"html\">licence publique générale GNU</a>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -85,19 +123,22 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2007, 2012, 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2007, 2012, 2014 Free Software Foundation, Inc."
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution de paternité, pas de modification, 3.0 États-"
-"Unis (CC BY-ND 3.0 US)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale (CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
