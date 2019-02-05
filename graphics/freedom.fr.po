@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: freedom.html\n"
-"POT-Creation-Date: 2015-11-01 23:25+0000\n"
-"PO-Revision-Date: 2018-11-29 21:22+0100\n"
+"POT-Creation-Date: 2019-02-07 15:56+0000\n"
+"PO-Revision-Date: 2019-02-07 18:23+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -18,31 +18,68 @@ msgstr ""
 "X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
-msgid "What Freedom Means - GNU Project - Free Software Foundation"
-msgstr "Ce que signifie la liberté - Projet GNU - Free Software Foundation"
+msgid ""
+"What Freedom Means by Michael Pagnotti - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"Ce que signifie la liberté, de Michael Pagnotti - Projet GNU - Free Software "
+"Foundation"
 
 #. type: Content of: <h2>
 msgid "What Freedom Means"
 msgstr "Ce que signifie la liberté"
 
-#. type: Attribute 'alt' of: <img>
-msgid "[Levitating RMS speaking about freedom]"
+#. type: Content of: <p>
+msgid "by Michael Pagnotti"
+msgstr "de Michael Pagnotti"
+
+#.  GNUN: localize URL /graphics/stallman.png 
+#.  GNUN: localize URL /graphics/stallman.medium.png 
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/stallman.png\">"
+msgstr "<a href=\"/graphics/stallman.png\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[Levitating RMS speaking about freedom]&nbsp;"
 msgstr " [RMS en lévitation parlant de la liberté] "
 
-#. type: Content of: <h3>
-msgid "Licensing"
-msgstr "Licence"
+#. type: Content of: <div><div>
+msgid "</a>"
+msgstr "</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"This image by Michael Pagnotti is licensed under the terms of the <a href="
-"\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
-"Attribution ShareAlike 3.0 Unported License</a>."
+"A bearded RMS is levitating behind his computer, which bears a Free Software "
+"Foundation sticker. While typing, he says, <cite>&ldquo;&hellip;in the area "
+"of computing, freedom means not using proprietary software.&rdquo;</cite>"
 msgstr ""
-"Ce dessin, réalisé par Micheal Pagnotti, est distribué sous les termes de la "
-"<a href=\"http://creativecommons.org/licenses/by-sa/3.0/deed.fr\">licence "
-"Creative Commons attribution, partage dans les mêmes conditions 3.0, non "
-"transposée (CC BY-SA 3.0)</a>."
+"Un RMS barbu en lévitation derrière son ordinateur, orné d'un autocollant de "
+"la Free Software Foundation. Tout en écrivant, il dit : <cite>« &hellip; "
+"dans le domaine de l'informatique, la liberté signifie ne pas utiliser de "
+"logiciel privateur. »</cite>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/stallman.medium.png\">134kB</a> (600x559),"
+"&nbsp; <a href=\"/graphics/stallman.png\">316kB</a>&nbsp;(1686x1572)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/stallman.medium.png\">134 ko</a> (600x559),"
+"&nbsp; <a href=\"/graphics/stallman.png\">316kB</a>&nbsp;(1686x1572)"
+
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 2012 Michael Pagnotti"
+msgstr "Copyright &copy; 2012 Michael Pagnotti"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This image is available under the <a rel=\"license\" href=\"https://"
+"creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution "
+"ShareAlike 3.0 Unported License</a>."
+msgstr ""
+"Cette image est disponible sous la licence <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-sa/3.0/deed.fr\">Creative Commons "
+"attribution, partage dans les mêmes conditions, 3.0 non transposée (CC BY-SA "
+"3.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -90,19 +127,22 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Image is copyrighted &copy; 2012 Michael Pagnotti"
-msgstr "Image sous copyright &copy; 2012 Michael Pagnotti"
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"&ldquo;What Freedom Means&rdquo; image is licensed under a <a rel=\"license"
-"\" href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
-"Attribution ShareAlike 3.0 Unported License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Le dessin « What Freedom Means » est distribué sous les termes de la licence "
-"<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/3.0/deed."
-"fr\">Creative Commons attribution, partage dans les mêmes conditions, "
-"3.0 non transposée (CC BY-SA 3.0)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
