@@ -2,13 +2,13 @@
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza, 2007.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: digital-restrictions-management.html\n"
-"POT-Creation-Date: 2015-12-26 05:25+0000\n"
-"PO-Revision-Date: 2018-11-29 21:22+0100\n"
+"POT-Creation-Date: 2019-02-06 15:56+0000\n"
+"PO-Revision-Date: 2019-02-06 17:31+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -32,49 +32,88 @@ msgstr "Art GNU - Gestion numérique des restrictions"
 
 #. type: Content of: <p>
 msgid ""
-"This wonderful image about the dangers of <a href=\"http://defectivebydesign."
-"org/\">Digital Restrictions Management</a> comes from <a href=\"http://"
-"cbhworld.wordpress.com/\">Chris Hayes</a>, aka cbhworld."
+"by <a href=\"http://cbhworld.wordpress.com/\">Chris Hayes</a>, a.k.a. "
+"cbhworld"
 msgstr ""
-"Ce superbe dessin représentant les dangers de la <a href=\"http://"
-"defectivebydesign.org/\">Gestion numérique des restrictions</a> provient de "
-"<a href=\"http://cbhworld.wordpress.com/\">Chris Hayes</a>, aussi connu sous "
-"le pseudo cbhworld."
+"de <a href=\"http://cbhworld.wordpress.com/\">Chris Hayes</a>, alias cbhworld"
 
-#. type: Content of: <p>
+#. type: Content of: <div><h3>
+msgid "iChain"
+msgstr "iChain"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/ichain.png\">"
+msgstr "<a href=\"/graphics/ichain.png\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[The chains of Digital Restrictions Management]&nbsp;"
+msgstr "&nbsp;[Les chaînes de la gestion numérique des restrictions]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p>
 msgid ""
-"As well as the PNG version, Chris also makes the Inkscape SVG sources "
-"available, plus an amusing alternative to the GNU Head., of Stuart "
-"Langridge, free software developer and host of the GNU/Linux radio show, "
-"Lugradio."
+"This wonderful image is about the dangers of <a href=\"http://"
+"defectivebydesign.org/\">DRM</a>. It depicts a row of various devices "
+"(presumably iThings) over a black background. Music notes, held by heavy "
+"chains, are sadly hanging down from them, and &ldquo;Digital Restrictions "
+"Management&ldquo; is written above."
 msgstr ""
-"En plus de la version PNG, Chris met à disposition les sources SVG Inkscape, "
-"ainsi qu'une alternative amusante à la tête de GNU dessinée par Stuart "
-"Langridge, développeur de logiciels libres et hôte de l'émission de radio "
-"sur GNU/Linux, Lugradio."
+"Ce beau dessin illustre les dangers des <a href=\"http://defectivebydesign."
+"org/\">DRM</a>. Il représente une rangée d'appareils mobiles (probablement "
+"des iTrucs) sur fond noir. Des notes de musique retenues par de lourdes "
+"chaînes en pendent lamentablement et les mots « Gestion Numérique des "
+"Restrictions » sont écrits au-dessus."
 
-#. type: Content of: <h3>
-msgid "Download"
-msgstr "Téléchargement"
+#. type: Content of: <div><ul><li>
+msgid "PNG&nbsp; <a href=\"ichain.png\">90kB</a> (886x673)"
+msgstr "PNG&nbsp; <a href=\"ichain.png\">90 ko</a> (886x673)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><ul><li>
+msgid "SVG&nbsp; <a href=\"ichain.svg\">108kB</a>"
+msgstr "SVG&nbsp; <a href=\"ichain.svg\">108 ko</a>"
+
+#. type: Content of: <div><h3>
+msgid "&ldquo;Aq&rdquo;"
+msgstr "« Aq »"
+
+#. type: Content of: <div><a>
+msgid "<a href=\"/graphics/aq.svg\">"
+msgstr "<a href=\"/graphics/aq.svg\">"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;['Aq' - amusing GNU head]&nbsp;"
+msgstr "&nbsp;['Aq' - tête de GNU amusante]&nbsp;"
+
+#. type: Content of: <div><p>
 msgid ""
-"All these images are licensed under the Creative Commons Attribution-"
-"ShareAlike license."
+"Chris also made this amusing alternative to the GNU Head, that of Stuart "
+"Langridge, a.k.a. &ldquo;Aq&rdquo;, free software developer and host of the "
+"former GNU/Linux radio show, Lugradio."
 msgstr ""
-"Toutes ces images sont sous licence Creative Commons Attribution-ShareAlike."
+"Chris a également dessiné cette amusante alternative à la tête de GNU, celle "
+"de Stuart Langridge, alias « Aq », développeur de logiciels libres et hôte "
+"de l'émission de radio sur GNU/Linux, Lugradio."
 
-#. type: Content of: <ul><li>
-msgid "<a href=\"ichain.png\">iChain (PNG)</a>"
-msgstr "<a href=\"ichain.png\">iChain (PNG)</a>"
+#. type: Content of: <div><ul><li>
+msgid "SVG&nbsp; <a href=\"/graphics/aq.svg\">50kB</a>"
+msgstr "SVG&nbsp; <a href=\"/graphics/aq.svg\">50 ko</a>"
 
-#. type: Content of: <ul><li>
-msgid "<a href=\"ichain.svg\">iChain (SVG)</a>"
-msgstr "<a href=\"ichain.svg\">iChain (SVG)</a>"
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 2007 Chris Hayes"
+msgstr "Copyright &copy; 2007 Chris Hayes"
 
-#. type: Content of: <ul><li>
-msgid "<a href=\"aq.svg\">'Aq' (SVG)</a>"
-msgstr "<a href=\"aq.svg\">'Aq' (SVG)</a>"
+#. type: Content of: <div><div><p>
+msgid ""
+"These images are available under the <a rel=\"license\" href=\"https://"
+"creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-"
+"ShareAlike 3.0 License</a>."
+msgstr ""
+"Ces images sont disponibles sous la licence <a rel=\"license\" href="
+"\"https://creativecommons.org/licenses/by-sa/3.0/deed.fr\">Creative Commons "
+"attribution, partage dans les mêmes conditions, 3.0 (CC BY-SA 3.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -122,19 +161,22 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014 Chris Hayes."
-msgstr "Copyright &copy; 2014 Chris Hayes."
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"All images in this page are under a <a rel=\"license\" href=\"https://"
-"creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-"
-"ShareAlike 3.0 License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Toutes les images de cette page sont disponibles sous les conditions de la "
-"licence <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-"
-"sa/3.0/deed.fr\">Creative Commons attribution, partage dans les mêmes "
-"conditions, 3.0 (CC BY-SA 3.0)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
