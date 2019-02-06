@@ -2,13 +2,13 @@
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza, 2007.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: index.html\n"
-"POT-Creation-Date: 2018-09-29 07:56+0000\n"
-"PO-Revision-Date: 2018-09-29 19:49+0200\n"
+"POT-Creation-Date: 2019-02-05 14:26+0000\n"
+"PO-Revision-Date: 2019-02-05 19:50+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -17,56 +17,125 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Content of: <title>
-msgid "Behroze Nejaati's GNU art - GNU Project - Free Software Foundation"
-msgstr "Art GNU de Behroze Nejaati - Projet GNU - Free Software Foundation"
+msgid "Behroze Nejaati's GNU buttons - GNU Project - Free Software Foundation"
+msgstr "Badges GNU, de Behroze Nejaati - Projet GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
-msgid "Behroze Nejaati's GNU art"
-msgstr "Art GNU de Behroze Nejaati"
+msgid "GNU buttons"
+msgstr "Badges GNU"
 
 #. type: Content of: <p>
-msgid ""
-"These images are available under the GNU General Public License, v2 or later."
-msgstr ""
-"Ces images sont disponibles sous la licence publique générale GNU, v2 ou "
-"ultérieure."
+msgid "by Behroze Nejaati"
+msgstr "de Behroze Nejaati"
 
-#. type: Content of: <p>
-msgid ""
-"A GNU button (<a href=\"behroze-gnu-button1.jpg\">jpg</a>, <a href=\"behroze-"
-"gnu-button1.png\">png</a>, <a href=\"behroze-gnu-button1.svg\">svg</a>):"
-msgstr ""
-"Un bouton GNU (<a href=\"behroze-gnu-button1.jpg\">jpg</a>, <a href="
-"\"behroze-gnu-button1.png\">png</a>, <a href=\"behroze-gnu-button1.svg"
-"\">svg</a>) :"
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/behroze/behroze-gnu-button1.png\">"
+msgstr "<a href=\"/graphics/behroze/behroze-gnu-button1.png\">"
 
-#. type: Attribute 'alt' of: <p><img>
+#. type: Attribute 'alt' of: <div><div><a><img>
 msgid "&nbsp;[GNU // We run GNU]&nbsp;"
 msgstr " [GNU // « We run GNU »] "
 
-#. type: Content of: <p>
-msgid ""
-"Another GNU button: (<a href=\"behroze-gnu-button2.jpg\">jpg</a>, <a href="
-"\"behroze-gnu-button2.png\">png</a>, <a href=\"behroze-gnu-button2.svg"
-"\">svg</a>):"
-msgstr ""
-"Un autre bouton GNU (<a href=\"behroze-gnu-button2.jpg\">jpg</a>, <a href="
-"\"behroze-gnu-button2.png\">png</a>, <a href=\"behroze-gnu-button2.svg"
-"\">svg</a>):"
+#. type: Content of: <div><div>
+msgid "</a>"
+msgstr "</a>"
 
-#. type: Attribute 'alt' of: <p><img>
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"JPEG&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button1.jpg\">96kB</"
+"a>&nbsp;(800x365)"
+msgstr ""
+"JPEG&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button1.jpg\">96 ko</"
+"a>&nbsp;(800x365)"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button1-small.png\">20kB</"
+"a>&nbsp;(300x137),&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button1.png"
+"\">75kB</a>&nbsp;(800x365)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button1-small.png\">20 ko</"
+"a>&nbsp;(300x137),&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button1.png"
+"\">75 ko</a>&nbsp;(800x365)"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"SVG&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button1.svg\">64kB</a>"
+msgstr ""
+"SVG&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button1.svg\">64 ko</a>"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/behroze/behroze-gnu-button2.png\">"
+msgstr "<a href=\"/graphics/behroze/behroze-gnu-button2.png\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
 msgid "&nbsp;[GNU // Free as in freedom]&nbsp;"
 msgstr " [GNU // « Free as in freedom »] "
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><ul><li>
 msgid ""
-"A third GNU button: (<a href=\"behroze-gnu-button3.jpg\">jpg</a>, <a href="
-"\"behroze-gnu-button3.png\">png</a>, <a href=\"behroze-gnu-button3.svg"
-"\">svg</a>):"
+"JPEG&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button2.jpg\">100kB</"
+"a>&nbsp;(800x365)"
 msgstr ""
-"Un troisième bouton GNU (<a href=\"behroze-gnu-button3.jpg\">jpg</a>, <a "
-"href=\"behroze-gnu-button3.png\">png</a>, <a href=\"behroze-gnu-button3.svg"
-"\">svg</a>):"
+"JPEG&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button2.jpg\">100 ko</"
+"a>&nbsp;(800x365)"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button2-small.png\">20kB</"
+"a>&nbsp;(300x137),&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button2.png"
+"\">77kB</a>&nbsp;(800x365)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button2-small.png\">20 ko</"
+"a>&nbsp;(300x137),&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button2.png"
+"\">77 ko</a>&nbsp;(800x365)"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"SVG&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button2.svg\">73kB</a>"
+msgstr ""
+"SVG&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button2.svg\">73 ko</a>"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/behroze/behroze-gnu-button3.png\">"
+msgstr "<a href=\"/graphics/behroze/behroze-gnu-button3.png\">"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"JPEG&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button3.jpg\">122kB</"
+"a>&nbsp;(600x746)"
+msgstr ""
+"JPEG&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button3.jpg\">122 ko</"
+"a>&nbsp;(600x746)"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button3-small.png\">26kB</"
+"a> (241x300),&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button3.png"
+"\">92kB</a>&nbsp;(600x746)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button3-small.png\">26 ko</"
+"a> (241x300),&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button3.png"
+"\">92 ko</a>&nbsp;(600x746)"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"SVG&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button3.svg\">82kB</a>"
+msgstr ""
+"SVG&nbsp; <a href=\"/graphics/behroze/behroze-gnu-button3.svg\">82 ko</a>"
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2006 Behroze Nejaati"
+msgstr "Copyright &copy; 2006 Behroze Nejaati"
+
+#. type: Content of: <div><p>
+msgid ""
+"These images are available under the <a rel=\"license\" href=\"/licenses/gpl."
+"html\">GNU General Public License</a>, version&nbsp;2 or any later version."
+msgstr ""
+"Ces images sont disponibles sous la <a rel=\"license\" href=\"/licenses/gpl."
+"html\">licence publique générale GNU</a>, version 2 ou toute version "
+"ultérieure."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -114,19 +183,22 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2007, 2012, 2014, 2018 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2007, 2012, 2014, 2018 Free Software Foundation, Inc."
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
-"NoDerivatives 4.0 International License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
-"\">Creative Commons attribution, pas de modification, 4.0 internationale "
-"(CC BY-ND 4.0)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

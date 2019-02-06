@@ -2,13 +2,13 @@
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza, 2007.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2013.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2013, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: index.html\n"
-"POT-Creation-Date: 2018-09-29 11:26+0000\n"
-"PO-Revision-Date: 2018-11-23 18:20+0100\n"
+"POT-Creation-Date: 2019-02-05 20:56+0000\n"
+"PO-Revision-Date: 2019-02-05 21:03+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -27,233 +27,375 @@ msgid "GNU Post images"
 msgstr "Timbres GNU"
 
 #. type: Content of: <p>
-msgid "Here are some nice snail mail images by Tomasz W. Koz&#322;owski."
-msgstr "Ci-dessous quelques jolis timbres-poste, par Tomasz W. Koz&#322;owski."
+msgid "by Tomasz W. Koz&#322;owski"
+msgstr "de Tomasz W. Koz&#322;owski"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"Alternative-GNU-stamp.png\">Alternative GNU stamp</a> (<a href="
-"\"Alternative-GNU-stamp.svg\">SVG</a>)"
-msgstr ""
-"<a href=\"Alternative-GNU-stamp.png\">timbre « GNU alternatif »</a> (<a href="
-"\"Alternative-GNU-stamp.svg\">SVG</a>)"
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/gnu-post/GNU-stamp.png\">"
+msgstr "<a href=\"/graphics/gnu-post/GNU-stamp.png\">"
 
-#. type: Attribute 'alt' of: <p><img>
-msgid "&nbsp;[GNU Post stamp]&nbsp;"
-msgstr " [Timbres postaux GNU] "
-
-#. type: Content of: <p>
-msgid ""
-"<a href=\"FSF-airmail.png\">FSF Airmail</a> (<a href=\"FSF-airmail.svg"
-"\">SVG</a>)"
-msgstr ""
-"<a href=\"FSF-airmail.png\">FSF Airmail</a> (<a href=\"FSF-airmail.svg"
-"\">SVG</a>)"
-
-#. type: Attribute 'alt' of: <p><img>
-msgid "&nbsp;[FSF Airmail sticker]&nbsp;"
-msgstr " [Autocollant « FSF Airmail »] "
-
-#. type: Content of: <p>
-msgid ""
-"<a href=\"GNU-Emacs-stamp.png\">GNU Emacs stamp</a> (<a href=\"GNU-Emacs-"
-"stamp.svg\">SVG</a>)"
-msgstr ""
-"<a href=\"GNU-Emacs-stamp.png\">Timbre GNU Emacs</a> (<a href=\"GNU-Emacs-"
-"stamp.svg\">SVG</a>)"
-
-#. type: Attribute 'alt' of: <p><img>
-msgid "&nbsp;[Emacs logo in a stamp]&nbsp;"
-msgstr " [Timbre avec le logo d'Emacs] "
-
-#. type: Content of: <p>
-msgid ""
-"<a href=\"GNU-Free-as-in-Freedom.png\">Free as in &ldquo;freedom&rdquo;</a> "
-"(<a href=\"GNU-Free-as-in-Freedom.svg\">SVG</a>)"
-msgstr ""
-"<cite><a href=\"GNU-Free-as-in-Freedom.png\">Free as in Freedom</a></cite> "
-"(<a href=\"GNU-Free-as-in-Freedom.svg\">SVG</a>)"
-
-#. type: Attribute 'alt' of: <p><img>
-msgid "&nbsp;[GNU logo with Free as in freedom]&nbsp;"
-msgstr " [Logo GNU avec « Free as in freedom »] "
-
-#. type: Content of: <p>
-msgid ""
-"<a href=\"GNU-Hurd-stamp.png\">GNU Hurd stamp</a> (<a href=\"GNU-Hurd-stamp."
-"svg\">SVG</a>)"
-msgstr ""
-"<a href=\"GNU-Hurd-stamp.png\">Timbre GNU Hurd</a> (<a href=\"GNU-Hurd-stamp."
-"svg\">SVG</a>)"
-
-#. type: Attribute 'alt' of: <p><img>
-msgid "&nbsp;[HURD logo in a stamp]&nbsp;"
-msgstr " [Timbre avec le logo de HURD] "
-
-#. type: Content of: <p>
-msgid ""
-"<a href=\"GNU-Post-2007.png\">GNU Post 2007</a> (<a href=\"GNU-Post-2007.svg"
-"\">SVG</a>)"
-msgstr ""
-"<a href=\"GNU-Post-2007.png\">Cachet postal <cite>GNU Post 2007</cite></a> "
-"(<a href=\"GNU-Post-2007.svg\">SVG</a>)"
-
-#. type: Attribute 'alt' of: <p><img>
-msgid "&nbsp;[GNU Post seal]&nbsp;"
-msgstr " [Cachet postal de GNU] "
-
-#. type: Content of: <p>
-msgid ""
-"<a href=\"GNU-stamp.png\">GNU stamp</a> (<a href=\"GNU-stamp.svg\">SVG</a>)"
-msgstr ""
-"<a href=\"GNU-stamp.png\">Timbre GNU</a> (<a href=\"GNU-stamp.svg\">SVG</a>)"
-
-#. type: Attribute 'alt' of: <p><img>
+#. type: Attribute 'alt' of: <div><div><a><img>
 msgid "&nbsp;[Original GNU Post stamp]&nbsp;"
 msgstr " [Timbre original GNU Post] "
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"GPLv3-stamp.png\">GPLv3 stamp</a> (<a href=\"GPLv3-stamp.svg"
-"\">SVG</a>)"
-msgstr ""
-"<a href=\"GPLv3-stamp.png\">Timbre GPLv3</a> (<a href=\"GPLv3-stamp.svg"
-"\">SVG</a>)"
+#. type: Content of: <div><div>
+msgid "</a>"
+msgstr "</a>"
 
-#. type: Attribute 'alt' of: <p><img>
+#. type: Content of: <div><div><p>
+msgid "<em>GNU stamp</em>"
+msgstr "<em>Timbre GNU</em>"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/gnu-post/GNU-stamp.png\">67kB</a> (450x450)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/gnu-post/GNU-stamp.png\">67 ko</a> (450x450)"
+
+#. type: Content of: <div><div><ul><li>
+msgid "SVG&nbsp; <a href=\"/graphics/gnu-post/GNU-stamp.svg\">253kB</a>"
+msgstr "SVG&nbsp; <a href=\"/graphics/gnu-post/GNU-stamp.svg\">253 ko</a>"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/gnu-post/Alternative-GNU-stamp.png\">"
+msgstr "<a href=\"/graphics/gnu-post/Alternative-GNU-stamp.png\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[Alternative GNU stamp]&nbsp;"
+msgstr " [Timbre GNU Post alternatif] "
+
+#. type: Content of: <div><div><p>
+msgid "<em>Alternative GNU stamp</em>"
+msgstr "<em>Timbre GNU Post alternatif</em>"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/gnu-post/Alternative-GNU-stamp.png\">37kB</a> "
+"(450x450)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/gnu-post/Alternative-GNU-stamp.png\">37 ko</a> "
+"(450x450)"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"SVG&nbsp; <a href=\"/graphics/gnu-post/Alternative-GNU-stamp.svg\">34kB</a>"
+msgstr ""
+"SVG&nbsp; <a href=\"/graphics/gnu-post/Alternative-GNU-stamp.svg\">34 ko</a>"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/gnu-post/GNU-Free-as-in-Freedom.png\">"
+msgstr "<a href=\"/graphics/gnu-post/GNU-Free-as-in-Freedom.png\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[GNU logo with Free as in freedom]&nbsp;"
+msgstr " [Logo GNU avec « Free as in freedom »] "
+
+#. type: Content of: <div><div><p>
+msgid "<em>Free as in &ldquo;freedom&rdquo;</em>"
+msgstr "<em>« Free as in Freedom »</em>"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/gnu-post/GNU-Free-as-in-Freedom.png\">57kB</a> "
+"(450x287)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/gnu-post/GNU-Free-as-in-Freedom.png\">57 ko</"
+"a> (450x287)"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"SVG&nbsp; <a href=\"/graphics/gnu-post/GNU-Free-as-in-Freedom.svg\">275kB</a>"
+msgstr ""
+"SVG&nbsp; <a href=\"/graphics/gnu-post/GNU-Free-as-in-Freedom.svg\">275 ko</"
+"a>"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/gnu-post/GNU-Emacs-stamp.png\">"
+msgstr "<a href=\"/graphics/gnu-post/GNU-Emacs-stamp.png\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[Emacs logo in a stamp]&nbsp;"
+msgstr " [Timbre avec le logo d'Emacs] "
+
+#. type: Content of: <div><div><p>
+msgid "<em>GNU Emacs stamp</em>"
+msgstr "<em>Timbre GNU Emacs</em>"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/gnu-post/GNU-Emacs-stamp.png\">57kB</a> "
+"(450x373)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/gnu-post/GNU-Emacs-stamp.png\">57 ko</a> "
+"(450x373)"
+
+#. type: Content of: <div><div><ul><li>
+msgid "SVG&nbsp; <a href=\"/graphics/gnu-post/GNU-Emacs-stamp.svg\">44kB</a>"
+msgstr "SVG&nbsp; <a href=\"/graphics/gnu-post/GNU-Emacs-stamp.svg\">44 ko</a>"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/gnu-post/GPLv3-stamp.png\">"
+msgstr "<a href=\"/graphics/gnu-post/GPLv3-stamp.png\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
 msgid "&nbsp;[GPLv3 logo in a stamp]&nbsp;"
 msgstr " [Timbre avec le logo de la GPLv3] "
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"postcard1.png\">GNU postcard</a> (<a href=\"postcard1-large.png"
-"\">larger</a>, <a href=\"postcard1.svg\">SVG</a>)"
-msgstr ""
-"<a href=\"postcard1.png\">Carte postale GNU</a> (<a href=\"postcard1-large."
-"png\">plus grande</a>, <a href=\"postcard1.svg\">SVG</a>)"
+#. type: Content of: <div><div><p>
+msgid "<em>GPLv3 stamp</em>"
+msgstr "<em>Timbre GPLv3</em>"
 
-#. type: Attribute 'alt' of: <p><img>
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/gnu-post/GPLv3-stamp.png\">29kB</a> (450x213)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/gnu-post/GPLv3-stamp.png\">29 ko</a> (450x213)"
+
+#. type: Content of: <div><div><ul><li>
+msgid "SVG&nbsp; <a href=\"/graphics/gnu-post/GPLv3-stamp.svg\">45kB</a>"
+msgstr "SVG&nbsp; <a href=\"/graphics/gnu-post/GPLv3-stamp.svg\">45 ko</a>"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/gnu-post/GNU-Hurd-stamp.png\">"
+msgstr "<a href=\"/graphics/gnu-post/GNU-Hurd-stamp.png\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[Hurd logo in a stamp]&nbsp;"
+msgstr " [Timbre avec le logo de Hurd] "
+
+#. type: Content of: <div><div><p>
+msgid "<em>GNU Hurd stamp</em>"
+msgstr "<em>Timbre GNU Hurd</em>"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/gnu-post/GNU-Hurd-stamp.png\">23kB</a> "
+"(450x203)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/gnu-post/GNU-Hurd-stamp.png\">23 ko</a> "
+"(450x203)"
+
+#. type: Content of: <div><div><ul><li>
+msgid "SVG&nbsp; <a href=\"/graphics/gnu-post/GNU-Hurd-stamp.svg\">48kB</a>"
+msgstr "SVG&nbsp; <a href=\"/graphics/gnu-post/GNU-Hurd-stamp.svg\">48 ko</a>"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/gnu-post/GNU-Post-2007.png\">"
+msgstr "<a href=\"/graphics/gnu-post/GNU-Post-2007.png\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[GNU Post seal]&nbsp;"
+msgstr " [Cachet postal de GNU] "
+
+#. type: Content of: <div><div><p>
+msgid "<em>GNU Post 2007</em>"
+msgstr "<em>Poste GNU 2007</em>"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/gnu-post/GNU-Post-2007.png\">30kB</a> (385x386)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/gnu-post/GNU-Post-2007.png\">30 ko</a> "
+"(385x386)"
+
+#. type: Content of: <div><div><ul><li>
+msgid "SVG&nbsp; <a href=\"/graphics/gnu-post/GNU-Post-2007.svg\">28kB</a>"
+msgstr "SVG&nbsp; <a href=\"/graphics/gnu-post/GNU-Post-2007.svg\">28 ko</a>"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/gnu-post/FSF-airmail.png\">"
+msgstr "<a href=\"/graphics/gnu-post/FSF-airmail.png\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[FSF Airmail sticker]&nbsp;"
+msgstr " [Autocollant « FSF Airmail »] "
+
+#. type: Content of: <div><div><p>
+msgid "<em>FSF Airmail</em>"
+msgstr "<em>Étiquette par avion FSF</em>"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/gnu-post/FSF-airmail.png\">17kB</a> (450x120)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/gnu-post/FSF-airmail.png\">17 ko</a> (450x120)"
+
+#. type: Content of: <div><div><ul><li>
+msgid "SVG&nbsp; <a href=\"/graphics/gnu-post/FSF-airmail.svg\">68kB</a>"
+msgstr "SVG&nbsp; <a href=\"/graphics/gnu-post/FSF-airmail.svg\">68 ko</a>"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/gnu-post/postcard1.png\">"
+msgstr "<a href=\"/graphics/gnu-post/postcard1.png\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
 msgid ""
 "&nbsp;[GNU with Tux: &quot;United... We'll show the users that freedom means "
-"also better quality&quot; GNU/Linux: because quality matters.]&nbsp;"
+"also better quality&quot; // GNU/Linux: because quality matters.]&nbsp;"
 msgstr ""
 " [GNU avec Tux : « Unis&hellip; Nous montrerons aux utilisateurs que liberté "
-"signifie également meilleure qualité » – GNU/Linux : parce que la qualité "
+"signifie également meilleure qualité » // GNU/Linux : parce que la qualité "
 "est importante.] "
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"postcard2.png\">GNU postcard (back)</a> (<a href=\"postcard2-large."
-"png\">larger</a>, <a href=\"postcard2.svg\">SVG</a>)"
-msgstr ""
-"<a href=\"postcard2.png\">Carte postale GNU (verso)</a> (<a href=\"postcard2-"
-"large.png\">plus grande</a>, <a href=\"postcard2.svg\">SVG</a>)"
+#. type: Content of: <div><div><p>
+msgid "<em>GNU postcard</em>"
+msgstr "<em>Carte postale GNU (recto)</em>"
 
-#. type: Attribute 'alt' of: <p><img>
+#. type: Content of: <div><div><ul><li>
 msgid ""
-"&nbsp;[Join us now and share the software, hackers, you'll be free.  (...)  "
+"PNG&nbsp; <a href=\"/graphics/gnu-post/postcard1.png\">62kB</a>&nbsp;"
+"(1069x450),&nbsp; <a href=\"/graphics/gnu-post/postcard1-large.png\">150kB</"
+"a>&nbsp;(2138x900)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/gnu-post/postcard1.png\">62 ko</a>&nbsp;"
+"(1069x450),&nbsp; <a href=\"/graphics/gnu-post/postcard1-large.png\">150 ko</"
+"a>&nbsp;(2138x900)"
+
+#. type: Content of: <div><div><ul><li>
+msgid "SVG&nbsp; <a href=\"postcard1.svg\">98kB</a>"
+msgstr "SVG&nbsp; <a href=\"postcard1.svg\">98 ko</a>"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/gnu-post/postcard2.png\">"
+msgstr "<a href=\"/graphics/gnu-post/postcard2.png\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid ""
+"&nbsp;[Join us now and share the software, hackers, you'll be free. (...)  "
 "When we have enough free software at our call, hackers, at our call, we'll "
-"throw out these dirty licenses, ever more, hackers, ever more.  GNU Post "
-"Free Software Foundation]&nbsp;"
+"throw out these dirty licenses, ever more, hackers, ever more. // GNU "
+"Post // Free Software Foundation]&nbsp;"
 msgstr ""
 " [Rejoins-nous, partage le logiciel. Libère-toi, hacker, libère-toi. (...) "
 "Quand nous aurons assez de programmes, libres pour nous, hacker, libres pour "
 "nous, ces licences néfastes nous les jetterons, pour toujours, hacker, pour "
 "toujours. // Poste GNU – Free Software Foundation] "
 
-#. type: Content of: <h4>
-msgid "Copyright information"
-msgstr "Informations de copyright"
+#. type: Content of: <div><div><p>
+msgid "<em>GNU postcard (back)</em>"
+msgstr "<em>Carte postale GNU (verso)</em>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
-"Alternative GNU stamp &mdash; available under the same license as the <a "
-"href=\"/graphics/gnu-alternative.html\">Alternative GNU Head</a>"
+"PNG&nbsp; <a href=\"/graphics/gnu-post/postcard2.png\">91kB</a>&nbsp;"
+"(1069x450),&nbsp; <a href=\"/graphics/gnu-post/postcard2-large.png\">219kB</"
+"a>&nbsp;(2138x900)"
 msgstr ""
-"Timbre « GNU alternatif » – disponible sous la même licence que la <a href="
-"\"/graphics/gnu-alternative.html\">Tête de GNU alternative</a>."
+"PNG&nbsp; <a href=\"/graphics/gnu-post/postcard2.png\">91 ko</a>&nbsp;"
+"(1069x450),&nbsp; <a href=\"/graphics/gnu-post/postcard2-large.png\">219 ko</"
+"a>&nbsp;(2138x900)"
 
-#. type: Content of: <ul><li>
-msgid ""
-"FSF Airmail &mdash; based on the official Free Software Foundation logo "
-"created by Li Jiang and available under the GNU General Public License; "
-"either version 2, or any later version"
-msgstr ""
-"FSF Airmail – basé sur le logo officiel de la <cite>Free Software "
-"Foundation</cite> créé par Li Jiang et disponible sous la <cite>GNU General "
-"Public License</cite>, en version 2 ou toute version ultérieure."
+#. type: Content of: <div><div><ul><li>
+msgid "SVG&nbsp; <a href=\"postcard2.svg\">158kB</a>"
+msgstr "SVG&nbsp; <a href=\"postcard2.svg\">158 ko</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><h3>
+msgid "Copyright and license"
+msgstr "Copyright et licence"
+
+#. type: Content of: <div><ul><li>
 msgid ""
-"GNU Emacs stamp &mdash; the original GNU Emacs logo was created by Luis "
-"Fernandes and vectorised by Dmitry Dzhus.  The vector version of the logo is "
-"released under the terms of the GNU General Public License; either version 2 "
-"or any later version"
+"<em>GNU stamp</em> &mdash; based on the official <a href=\"/graphics/"
+"agnuhead.html\">GNU Head</a> logo originally created by Etienne Suvasa and "
+"re-drawn by Peter Gerwinski; available under the <a rel=\"license\" href=\"/"
+"licenses/gpl.html\">GNU General Public License</a>."
 msgstr ""
-"Timbre GNU Emacs – le logo original GNU Emacs a été créé par Luis Fernandes "
-"et vectorisé par Dmitry Dzhus. La version vectorisée du logo est publiée "
-"sous les termes de la licence publique générale GNU, version 2 ou toute "
+"<em>Timbre GNU</em> – basé sur le logo GNU officiel (la <a href=\"/graphics/"
+"agnuhead.html\">Tête de GNU</a>) créé à l'origine par Etienne Suvasa et "
+"redessiné par Peter Garwinski ; disponible sous la <a rel=\"license\" href="
+"\"/licenses/gpl.html\">licence publique générale GNU</a>."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<em>Alternative GNU stamp</em> &mdash; available under the same license as "
+"the <a href=\"/graphics/gnu-alternative.html\">Alternative GNU Head</a>."
+msgstr ""
+"<em>Timbre GNU alternatif</em> – disponible sous la même licence que la <a "
+"href=\"/graphics/gnu-alternative.html\">Tête de GNU alternative</a>."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<em>Free as in &ldquo;freedom&rdquo;</em> &mdash; based on the official GNU "
+"Head logo; available under the GNU General Public License."
+msgstr ""
+"<em>« Free as in Freedom »</em> – basé sur le logo GNU officiel (la Tête de "
+"GNU) ; disponible sous la licence publique générale GNU."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<em>GNU Emacs stamp</em> &mdash; based on the GNU Emacs logo, created by "
+"Luis Fernandes and vectorised by Dmitry Dzhus.  The vector version of the "
+"logo is available under the GNU General Public License, either "
+"version&nbsp;2 or any later version."
+msgstr ""
+"<em>Timbre GNU Emacs</em> – basé sur le logo de GNU Emacs a été créé par "
+"Luis Fernandes et vectorisé par Dmitry Dzhus. La version vectorisée du logo "
+"est publiée sous les termes de la licence publique générale GNU, version 2 "
+"ou toute version ultérieure."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<em>GPLv3 stamp</em> &mdash; based on the original <a href=\"/graphics/"
+"license-logos.html#license-logos\">GNU GPLv3 button</a> and available under "
+"the same terms."
+msgstr ""
+"<em>Timbre GPLv3</em> – basé sur le <a href=\"/graphics/license-logos."
+"html#license-logos\">logo de la GNU GPLv3</a> et disponible sous les mêmes "
+"termes."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<em>GNU Hurd stamp</em> &mdash; based on the original <a href=\"/graphics/"
+"ahurdlogo.html#hurd-metafont\">Hurd Metafont Logo</a> designed by Stephen "
+"McCamant, and available under the same license."
+msgstr ""
+"<em>Timbre GNU Hurd</em> – basé sur le <a href=\"/graphics/ahurdlogo."
+"html#hurd-metafont\">logo de Hurd en Metafont</a> conçu par Stephen McCamant "
+"et disponible sous la même licence."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<em>GNU Post</em> &mdash; created from scratch by Tomasz W. Koz&#322;owski; "
+"the image is in the public domain."
+msgstr ""
+"<em>Cachet GNU</em> – créé par Tomasz W. Koz&#322;owski ; cette image est "
+"dans le domaine public."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<em>FSF Airmail</em> &mdash; based on the official <a href=\"/graphics/fsf-"
+"logo.html\">Free Software Foundation logo</a> created by Li Jiang, and "
+"available under the GNU General Public License, either version&nbsp;2 or any "
+"later version."
+msgstr ""
+"<em>Étiquette par avion FSF</em> – basée sur le logo officiel de la "
+"<cite>Free Software Foundation</cite> créé par Li Jiang et disponible sous "
+"la <cite>GNU General Public License</cite>, version 2 ou toute version "
+"ultérieure."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<em>GNU postcard</em> &mdash; based on Victor Siame's vector version of "
+"&ldquo;<a href=\"/graphics/bwcartoon.html\">The Dynamic Duo: The Gnu and the "
+"Penguin in flight</a>,&rdquo; and available under the same license."
+msgstr ""
+"<em>Carte postale GNU (recto)</em> – basée sur la version vectorisée de "
+"l'image « <a href=\"/graphics/bwcartoon.html\">Le duo dynamique : le Gnou et "
+"le Manchot en vol</a> », créée par Victor Siame et publiée sous licence Art "
+"libre."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<em>GNU postcard</em> (back) &mdash; created by Tomasz; the elements are "
+"trivial and it falls in the public domain, but because it embeds the GNU "
+"Emacs image under GPL, it is distributed as a whole under the GNU General "
+"Public License, either version&nbsp;2 or any later version."
+msgstr ""
+"<em>Carte postale GNU (verso)</em> – créée par Tomasz ; les éléments sont "
+"triviaux et elle tomberait dans le domaine public, si ce n'est qu'elle "
+"intègre l'image de GNU Emacs, qui est sous GPL. Elle est donc distribuée "
+"comme un tout sous la licence publique générale GNU, version 2 ou toute "
 "version ultérieure."
-
-#. type: Content of: <ul><li>
-msgid ""
-"Free as in &ldquo;freedom&rdquo; &mdash; based on the official GNU Head logo "
-"originally created by Etienne Suvasa and re-drawn by Peter Garwinski; "
-"available under the GNU General Public License"
-msgstr ""
-"<cite>Free as in Freedom</cite> – basé sur le logo GNU officiel (la Tête de "
-"GNU) créé à l'origine par Etienne Suvasa et redessiné par Peter Garwinski ; "
-"disponible sous la licence publique générale GNU."
-
-#. type: Content of: <ul><li>
-msgid ""
-"GNU Hurd stamp &mdash; based on the original Hurd Metafont Logo designed by "
-"Stephen McCamant and available under the same license"
-msgstr ""
-"Timbre GNU Hurd – basé sur le logo original Hurd Metafont conçu par Stephen "
-"McCamant et disponible sous la même licence."
-
-#. type: Content of: <ul><li>
-msgid ""
-"GNU Post &mdash; created from scratch by Tomasz W. Koz&#322;owski; the image "
-"is in the public domain"
-msgstr ""
-"Cachet GNU – créé par Tomasz W. Koz&#322;owski ; cette image est dans le "
-"domaine public."
-
-#. type: Content of: <ul><li>
-msgid "GNU stamp &mdash; GNU General Public License"
-msgstr "Timbre GNU – <cite>GNU General Public License</cite>."
-
-#. type: Content of: <ul><li>
-msgid ""
-"GPLv3 stamp &mdash; based on the original FSF GPLv3 button and available "
-"under the same terms"
-msgstr ""
-"Timbre GPLv3 – basé sur le bouton GPLv3 original de la FSF GPLv3 et "
-"disponible sous les mêmes termes."
-
-#. type: Content of: <ul><li>
-msgid ""
-"GNU postcard &mdash; based on the vector version of &ldquo;The Dynamic Duo: "
-"The Gnu and the Penguin in flight&rdquo; image, originally created by Victor "
-"Siame and released under the Free Art License"
-msgstr ""
-"Carte postale GNU – basée sur la version vectorisée de l'image « Le duo "
-"dynamique : le Gnou et le Manchot en vol », créée à l'origine par Victor "
-"Siame et publiée sous licence Art libre."
-
-#. type: Content of: <ul><li>
-msgid ""
-"GNU postcard (back) &mdash; created by Tomasz; the elements are trivial and "
-"it falls in the public domain, but because it embeds the GNU Emacs image "
-"under GPL it is distributed as a whole under the GNU General Public License, "
-"either version 2 or any later version"
-msgstr ""
-"Carte postale GNU (verso) – créée par Tomasz ; les éléments sont triviaux et "
-"elle tomberait dans le domaine public, si ce n'est qu'elle intègre l'image "
-"de GNU Emacs, qui est sous GPL. Elle est donc distribuée comme un tout sous "
-"la licence publique générale GNU, version 2 ou toute version ultérieure."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -299,6 +441,24 @@ msgstr ""
 "<p>Pour tout renseignement sur la coordination et la soumission des "
 "traductions de nos pages web, reportez-vous au <a href=\"/server/standards/"
 "README.translations.html\">guide de traduction</a>."
+
+#. type: Content of: <div><p>
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
+msgstr ""
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
