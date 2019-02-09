@@ -2,13 +2,13 @@
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza, 2007.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-ascii2.html\n"
-"POT-Creation-Date: 2015-11-02 01:28+0000\n"
-"PO-Revision-Date: 2018-11-29 21:22+0100\n"
+"POT-Creation-Date: 2019-02-08 13:56+0000\n"
+"PO-Revision-Date: 2019-02-09 18:03+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -20,13 +20,17 @@ msgstr ""
 
 #. type: Content of: <title>
 msgid "Another ASCII Gnu - GNU Project - Free Software Foundation"
-msgstr "Un autre petit GNU en ASCII - Projet GNU - Free Software Foundation"
+msgstr "Un autre GNU en ASCII - Projet GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
 msgid "Another ASCII Gnu"
-msgstr "Un autre petit GNU en ASCII"
+msgstr "Un autre GNU en ASCII"
 
-#. type: Content of: <pre>
+#. type: Content of: <p>
+msgid "by Martin Dickopp"
+msgstr "de Martin Dickopp"
+
+#. type: Content of: <div><pre>
 #, no-wrap
 msgid ""
 "  ,= ,-_-. =.\n"
@@ -39,21 +43,19 @@ msgstr ""
 "  `-'(. .)`-'\n"
 "      \\_/\n"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"This is an ASCII drawing of a gnu's head.  It fits into four lines of text, "
+"This is an ASCII drawing of a Gnu's head.  It fits into four lines of text, "
 "the maximum length of email and usenet signatures."
 msgstr ""
 "Voici un dessin en ASCII d'une tête de gnou. Il tient sur quatre lignes, ce "
 "qui est la longueur maximale pour les signatures de courriel et Usenet."
 
-#.  Martin Dickopp (firefly-mail@gmx.net) contributed this 
-#.  webmasters@gnu.org, saved in RT #177546 
-#. type: Content of: <p>
-msgid "The ASCII image above is: Copyright (C) 2004, Martin Dickopp"
-msgstr "L'image ci-dessus est sous : Copyright &copy; 2004, Martin Dickopp"
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 2004 Martin Dickopp"
+msgstr "Copyright &copy; 2004 Martin Dickopp"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Permission is given to copy or distribute (or both) the above ASCII image, "
 "with or without modifications."
@@ -107,8 +109,22 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2004, Martin Dickopp."
-msgstr "Copyright &copy; 2004 Martin Dickopp"
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
+msgstr ""
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

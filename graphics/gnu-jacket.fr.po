@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-jacket.html\n"
-"POT-Creation-Date: 2015-11-28 23:55+0000\n"
-"PO-Revision-Date: 2018-11-29 21:22+0100\n"
+"POT-Creation-Date: 2019-02-08 14:26+0000\n"
+"PO-Revision-Date: 2019-02-09 18:03+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -19,62 +19,77 @@ msgstr ""
 "X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
-msgid "A Gnu wearing a jacket - GNU Project - Free Software Foundation"
-msgstr "Un Gnou portant une veste - Projet GNU - Free Software Foundation"
+msgid ""
+"A Gnu Wearing a Jacket by Sarah Katzenell Rabkin - GNU Project - Free "
+"Software Foundation"
+msgstr ""
+"Un gnou portant une veste, de Sarah Katzenell Rabkin - Projet GNU - Free "
+"Software Foundation"
 
 #. type: Content of: <h2>
-msgid "A Gnu wearing a jacket"
-msgstr "Un Gnou portant une veste"
-
-#. type: Content of: <p><a>
-msgid "<a href=\"/graphics/gnu-jacket-small.jpg\">"
-msgstr "<a href=\"/graphics/gnu-jacket-small.jpg\">"
-
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[Gnu wearing a jacket]"
-msgstr " [Un Gnou portant une veste] "
+msgid "A Gnu Wearing a Jacket"
+msgstr "Un gnou portant une veste"
 
 #. type: Content of: <p>
+msgid "by Sarah Katzenell Rabkin"
+msgstr "de Sarah Katzenell Rabkin."
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/gnu-jacket.jpg\">"
+msgstr "<a href=\"/graphics/gnu-jacket.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[Gnu wearing a jacket]&nbsp;"
+msgstr " [Un gnou portant une veste] "
+
+#. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "This drawing depicts the torso of a smart-looking Gnu wearing a jacket."
-msgstr "Ce dessin représente le buste d'un Gnou portant une veste."
+msgstr "Ce dessin représente le buste d'un gnou élégant portant une veste."
 
-#. type: Content of: <p>
-msgid "We thank Sarah Katzenell Rabkin for drawing this nice picture."
-msgstr "Nous remercions Sarah Katzenell Rabkin pour ce beau dessin."
-
-#. type: Content of: <p>
-msgid "This picture is available in the following formats:"
-msgstr "Il est disponible aux formats suivants :"
-
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"JPEG <a href=\"/graphics/gnu-jacket-small.jpg\">6 k - 135 x 153 pixels</a> "
-"<a href=\"/graphics/gnu-jacket.jpg\">68k - 466 x 528 pixels</a>"
+"JPEG&nbsp; <a href=\"/graphics/gnu-jacket-small.jpg\">6kB</a> (135x153),"
+"&nbsp; <a href=\"/graphics/gnu-jacket.jpg\">70kB</a>&nbsp;(466x528)"
 msgstr ""
-"JPEG  <a href=\"/graphics/gnu-jacket-small.jpg\">6 ko</a> (135x153),  <a "
-"href=\"/graphics/gnu-jacket.jpg\">68 ko</a> (466x528)"
+"JPEG&nbsp; <a href=\"/graphics/gnu-jacket-small.jpg\">6 ko</a> (135x153),"
+"&nbsp; <a href=\"/graphics/gnu-jacket.jpg\">70 ko</a>&nbsp;(466x528)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"PNG <a href=\"/graphics/gnu-jacket-large.png\">1.1 Mb - 2178 x 2952 pixels</"
-"a>"
-msgstr "PNG  <a href=\"/graphics/gnu-jacket-large.png\">493 Mo</a> (2178x2952)"
-
-#. type: Content of: <h3>
-msgid "Licensing"
-msgstr "Licence"
-
-#. type: Content of: <p>
-msgid ""
-"This artwork is licensed under the <a href=\"http://creativecommons.org/"
-"licenses/by-sa/2.0/\">CC BY-SA 2.0</a> license."
+"PNG&nbsp; <a href=\"/graphics/gnu-jacket-large.png\">493MB</a> (2178x2952)"
 msgstr ""
-"Cette œuvre est sous licence <a href=\"http://creativecommons.org/licenses/"
-"by-sa/2.0/deed.fr\">CC BY-SA 2.0</a>"
+"PNG&nbsp; <a href=\"/graphics/gnu-jacket-large.png\">493 Mo</a> (2178x2952)"
+
+#. type: Content of: <div><ul><li>
+msgid "SVG&nbsp; <a href=\"/graphics/gnu2.svg\">12kB</a> by Victor Siame"
+msgstr ""
+"SVG&nbsp; <a href=\"/graphics/gnu2.svg\">12 ko</a> vectorisé par Victor Siame"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"See also <a href=\"https://commons.wikimedia.org/wiki/File:Gnu_jacket.png\"> "
+"Wikimedia Commons</a>."
+msgstr ""
+"Voir également <a href=\"https://commons.wikimedia.org/wiki/File:Gnu_jacket."
+"png\">Wikimedia Commons</a>."
+
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 2004 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2004 Free Software Foundation, Inc."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This image is licensed under the <a rel=\"license\" href=\"https://directory."
+"fsf.org/wiki/License:CC_ASA2.0\">Creative Commons Attribution-ShareAlike 2.0 "
+"License</a>."
+msgstr ""
+"Cette image est disponible sous la licence <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-sa/2.0/deed.fr\">Creative Commons "
+"attribution, partage dans les mêmes conditions 2.0</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -122,18 +137,22 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2004 Sarah Katzenell Rabkin."
-msgstr "Copyright &copy; 2004 Sarah Katzenell Rabkin."
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"&ldquo;A Gnu wearing a jacket&rdquo; is licensed under the <a rel=\"license"
-"\" href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC BY-SA 2.0</a> "
-"license."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"« Un Gnou portant une veste » est disponible sous les conditions de la "
-"licence <a href=\"http://creativecommons.org/licenses/by-sa/2.0/deed.fr"
-"\">CC BY-SA 2.0</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
