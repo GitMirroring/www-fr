@@ -2,43 +2,47 @@
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza, 2007.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: listen.html\n"
-"POT-Creation-Date: 2014-04-05 00:00+0000\n"
-"PO-Revision-Date: 2014-04-05 09:19+0200\n"
+"POT-Creation-Date: 2019-02-11 19:26+0000\n"
+"PO-Revision-Date: 2019-02-12 11:36+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 "X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
-msgid "Listening Gnu - GNU Project - Free Software Foundation"
-msgstr "Gnou avec écouteurs - Projet GNU - Free Software Foundation"
+msgid "Listening Gnu by Nevrax - GNU Project - Free Software Foundation"
+msgstr "Gnou aux écouteurs, par Nevrax - Projet GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
-msgid "Listening Gnu by the Nevrax Design Team"
-msgstr "Gnou avec écouteurs, par la <i>Nevrax Design Team</i>"
-
-#. type: Content of: <p><a>
-msgid "<a href=\"/graphics/listen-tiny.jpg\">"
-msgstr "<a href=\"/graphics/listen-tiny.jpg\">"
-
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[Listening Gnu]"
-msgstr "[Gnou avec écouteurs]"
+msgid "Listening Gnu"
+msgstr " [Gnou aux écouteurs] "
 
 #. type: Content of: <p>
+msgid "by the Nevrax Design Team"
+msgstr "par la <i>Nevrax Design Team</i>"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/listen-half.jpg\">"
+msgstr "<a href=\"/graphics/listen-half.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[Listening Gnu]&nbsp;"
+msgstr " [Gnou avec écouteurs] "
+
+#. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This color drawing depicts a gnu lounging comfortably in a golden robe.  He "
 "wears large headphones.  His eyes are closed, and he has a look of "
@@ -54,100 +58,54 @@ msgstr ""
 "CD jonchent le sol devant lui. Il y a également deux haut-parleurs sur le "
 "sol qui sont aussi branchés sur son baladeur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><ul><li>
 msgid ""
-"We thank the artists of the Nevrax Design Team, for drawing this beautiful "
-"picture, and their employer, Nevrax Limited, for giving him time to work on "
+"JPEG&nbsp; <a href=\"/graphics/listen-tiny.jpg\">7kB</a> (213x130),&nbsp; <a "
+"href=\"/graphics/listen-eighth.jpg\">33kB</a> (581x356),&nbsp; <a href=\"/"
+"graphics/listen-quarter.jpg\">98kB</a> (1161x712),&nbsp; <a href=\"/graphics/"
+"listen-half.jpg\">290kB</a> (2320x1423),&nbsp; <a href=\"/graphics/listen.jpg"
+"\">4MB</a> (4641x2847)"
+msgstr ""
+"JPEG&nbsp; <a href=\"/graphics/listen-tiny.jpg\">7 ko</a> (213x130),&nbsp; "
+"<a href=\"/graphics/listen-eighth.jpg\">33 ko</a> (581x356),&nbsp; <a href="
+"\"/graphics/listen-quarter.jpg\">98 ko</a> (1161x712),&nbsp; <a href=\"/"
+"graphics/listen-half.jpg\">290 ko</a> (2320x1423),&nbsp; <a href=\"/graphics/"
+"listen.jpg\">4MB</a> (4641x2847)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"See also <a href=\"https://commons.wikimedia.org/wiki/File:Gnu-listen-half."
+"jpg\"> Wikimedia Commons</a>."
+msgstr ""
+"Voir également <a href=\"https://commons.wikimedia.org/wiki/File:Gnu-listen-"
+"half.jpg\">Wikimedia Commons</a>."
+
+#. type: Content of: <div><p>
+msgid ""
+"We thank the artists of the Nevrax Design Team for drawing this beautiful "
+"picture, and their employer, Nevrax Limited, for giving them time to work on "
 "it."
 msgstr ""
 "Nous remercions les artistes de la <i>Nevrax Design Team</i>, pour ce très "
 "beau dessin, et leur employeur, <i>Nevrax Limited</i>, pour leur avoir donné "
 "du temps pour y travailler."
 
-#. type: Content of: <p>
-msgid "This color picture is available in the following formats:"
-msgstr "Ce dessin en couleur est disponible aux formats suivants :"
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 2001 Nevrax Ltd."
+msgstr "Copyright &copy; 2001 Nevrax Ltd."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><p>
 msgid ""
-"JPEG <a href=\"/graphics/listen-tiny.jpg\">6.3k (around 10% of full size and "
-"reasonable quality)</a>, <a href=\"/graphics/listen-eighth.jpg\">32k (an "
-"eighth of the size of the full image)</a>, <a href=\"/graphics/listen-"
-"quarter.jpg\">96k (a quarter of the size of the full image)</a>, <a href=\"/"
-"graphics/listen-half.jpg\">283k (half the size of the full image)</a>, <a "
-"href=\"/graphics/listen.jpg\">3.8M (full size and quality)</a>"
+"This image is available under the <a rel=\"license\" href=\"/licenses/gpl."
+"html\">GNU General Public License</a>, version&nbsp;3 or any later version, "
+"or the <a rel=\"license\" href=\"/licenses/fdl.html\">GNU Free Documentation "
+"License</a>, version&nbsp;1.1 or any later version."
 msgstr ""
-"JPEG <a href=\"/graphics/listen-tiny.jpg\">6,3 ko (environ 10% de la taille "
-"réelle et de qualité raisonnable)</a>, <a href=\"/graphics/listen-eighth.jpg"
-"\">32 ko (un huitième de la taille réelle)</a>, <a href=\"/graphics/listen-"
-"quarter.jpg\">96 ko (un quart de la taille réelle)</a>, <a href=\"/graphics/"
-"listen-half.jpg\">283 ko (la moitié de la taille réelle)</a>, <a href=\"/"
-"graphics/listen.jpg\">3,8 Mo (taille réelle et haute qualité)</a>"
-
-#. type: Content of: <p>
-msgid "The images linked to from this page are:"
-msgstr "Les images liées dans cette page sont sous :"
-
-#. type: Content of: <p>
-msgid "Copyright (C) 2001, Free Software Foundation, Inc."
-msgstr "Copyright (C) 2001, Free Software Foundation, Inc."
-
-#. type: Content of: <p>
-msgid ""
-"Permission is granted to copy, distribute and/or modify this image under the "
-"terms either:"
-msgstr ""
-"L'autorisation est donnée de copier, distribuer et/ou modifier cette image "
-"sous les termes de l'une des deux licences :"
-
-#. type: Content of: <ul><li>
-msgid ""
-"the <a href=\"/copyleft/gpl.html\">GNU General Public License</a> as "
-"published by the Free Software Foundation; either version 3 of the License, "
-"or (at your option) any later version, or"
-msgstr ""
-"la <a href=\"/copyleft/gpl.html\">GNU General Public License</a> telle que "
-"publiée par la <i>Free Software Foundation</i> ; en version 2 de la licence, "
-"ou (à votre convenance) toute version ultérieure, ou"
-
-#. type: Content of: <ul><li>
-msgid ""
-"the <a href=\"/copyleft/fdl.html\"> GNU Free Documentation License</a>, "
-"Version 1.1 or any later version published by the Free Software Foundation; "
-"with the no Invariant Sections, with no Front-Cover Texts and with no Back-"
-"Cover Texts."
-msgstr ""
-"la <a href=\"/copyleft/fdl.html\">GNU Free Documentation License</a>, "
-"version 1.1 ou toute version ultérieure publiée par la <i>Free Software "
-"Foundation</i> ; sans section invariante, sans texte de couverture ni de "
-"quatrième de couverture."
-
-#. type: Content of: <p>
-msgid ""
-"These images are distributed in the hope that it will be useful, but WITHOUT "
-"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
-"FITNESS FOR A PARTICULAR PURPOSE.  See the <a href=\"/copyleft/gpl.html"
-"\">GNU General Public License</a> for more details."
-msgstr ""
-"Ces images sont distribuées dans l'espoir qu'elles vous seront utiles, mais "
-"SANS GARANTIE ; sans même la garantie tacite de QUALITÉ MARCHANDE ou "
-"D'ADÉQUATION À UN BUT PARTICULIER. Voir la <a href=\"/copyleft/gpl.html"
-"\">GNU General Public License</a> pour plus de détails."
-
-#. type: Content of: <p>
-msgid ""
-"You can find a copy of the <a href=\"/copyleft/gpl.html\">GNU General Public "
-"License</a> and the <a href=\"/copyleft/fdl.html\">GNU Free Documentation "
-"License</a> via the preceding links.  If you have trouble downloading it, "
-"write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth "
-"Floor, Boston, MA 02110-1301, USA."
-msgstr ""
-"Vous pouvez trouver une copie de la <a href=\"/copyleft/gpl.html\">GNU "
-"General Public License</a> et de la <a href=\"/copyleft/fdl.html\">GNU Free "
-"Documentation License</a> en suivant les liens précédents. Si vous "
-"rencontrez des problèmes pour la télécharger, écrivez à : Free Software "
-"Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, "
-"USA."
+"Ces images sont disponibles sous la <a rel=\"license\" href=\"/licenses/gpl."
+"html\">licence publique générale GNU</a>, version 3 ou toute version "
+"ultérieure, ou bien la <a rel=\"license\" href=\"/licenses/fdl.html"
+"\">licence GNU de documentation libre</a>, version 1.1 ou toute version "
+"ultérieure."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -195,19 +153,22 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution de paternité, pas de modification, 3.0 États-"
-"Unis (CC BY-ND 3.0 US)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

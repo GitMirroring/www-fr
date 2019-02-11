@@ -2,39 +2,45 @@
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza, 2007.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2013.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2013, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: kafa.html\n"
-"POT-Creation-Date: 2014-04-05 00:00+0000\n"
-"PO-Revision-Date: 2014-04-05 09:19+0200\n"
+"POT-Creation-Date: 2019-02-10 22:25+0000\n"
+"PO-Revision-Date: 2019-02-12 11:36+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 "X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
-msgid "Abstract GNU Art - GNU Project - Free Software Foundation"
-msgstr "Art GNU abstrait - Projet GNU - Free Software Foundation"
+msgid ""
+"Abstract GNU Art by Kursad Karatas - GNU Project - Free Software Foundation"
+msgstr ""
+"Art GNU abstrait de Kursad Karatas - Projet GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
 msgid "Abstract GNU Art"
 msgstr "Art GNU abstrait"
 
-#. type: Content of: <p><a>
-msgid "<a href=\"/graphics/kafa_gnu.jpg\">"
-msgstr "<a href=\"/graphics/kafa_gnu.jpg\">"
-
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[Abstract art of the GNU]"
-msgstr "[Art GNU abstrait]"
-
 #. type: Content of: <p>
+msgid "by Kursad Karatas"
+msgstr "de Kursad Karatas"
+
+#. type: Content of: <div><a>
+msgid "<a href=\"/graphics/kafa_gnu.large.jpg\">"
+msgstr "<a href=\"/graphics/kafa_gnu.large.jpg\">"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Abstract art of the GNU]&nbsp;"
+msgstr " [Art GNU abstrait] "
+
+#. type: Content of: <div>
 msgid "</a>"
 msgstr "</a>"
 
@@ -49,17 +55,17 @@ msgstr ""
 
 #. type: Content of: <blockquote><p>
 msgid ""
-"<i>I just wanted to express \"wisdom\", the wisdom of knowledge, wisdom of "
-"love, wisdom of fertility, wisdom of humanity, wisdom of brotherhood. This "
-"is what we need and what I feel modern society currently lacks. There are a "
-"lot of great artists who have created great works for GNU (as shown on the "
-"art page), and I wanted to express an alternative reality, or alternative "
-"understanding of GNU.</i>"
+"<i>I just wanted to express &ldquo;wisdom&rdquo;, the wisdom of knowledge, "
+"wisdom of love, wisdom of fertility, wisdom of humanity, wisdom of "
+"brotherhood. This is what we need and what I feel modern society currently "
+"lacks. There are a lot of great artists who have created great works for GNU "
+"(as shown on the art page), and I wanted to express an alternative reality, "
+"or alternative understanding of GNU.</i>"
 msgstr ""
 "<i>Je voulais juste exprimer la « sagesse », la sagesse de la connaissance, "
 "la sagesse de l'amour, la sagesse de la fertilité, la sagesse de l'humanité, "
-"la sagesse de la fraternité.  C'est ce dont nous avons besoin et ce dont je "
-"pense que la société moderne manque actuellement.  Il y a beaucoup de grands "
+"la sagesse de la fraternité. C'est ce dont nous avons besoin et ce dont je "
+"pense que la société moderne manque actuellement. Il y a beaucoup de grands "
 "artistes qui ont créé de grandes œuvres pour GNU (comme indiqué sur la page "
 "Art), et je voulais exprimer une réalité alternative ou une compréhension "
 "alternative de GNU.</i>"
@@ -74,7 +80,7 @@ msgid ""
 "victory, because I know that one day information and thought will be free "
 "and we all will be victorious.</i>"
 msgstr ""
-"<i>Je voulais faire une œuvre pour GNU car je crois que l'information est "
+"<i>Je voulais faire une œuvre pour GNU, car je crois que l'information est "
 "universelle, que personne ne peut se l'approprier. Le partage de "
 "l'information est un résultat direct du langage, et le langage appartient à "
 "tous. Pas à une personne, pas à une société, pas à un État, pas à une "
@@ -87,13 +93,13 @@ msgid ""
 "<i>The cherries and apple symbolizes wisdom, the beard symbolizes a special "
 "kind of wisdom that comes from a journey of knowledge and beauty that no "
 "other person can take, and the GNU's eyes express a profound dedication. The "
-"blue background is simply freedom as in \"birds\".</i>"
+"blue background is simply freedom as in &ldquo;birds&rdquo;.</i>"
 msgstr ""
 "<i>Les cerises et la pomme symbolisent la sagesse, la barbe symbolise un "
 "certain type de sagesse qui provient d'un voyage de la connaissance et de la "
 "beauté que personne d'autre ne peut prendre, et les yeux du GNU expriment "
-"une profonde dévotion. Le fond bleu est simplement la liberté, comme pour "
-"les « oiseaux ».</i>"
+"une profonde dévotion. Le fond bleu est simplement la liberté, comme dans "
+"« oiseaux ».</i>"
 
 #. type: Content of: <blockquote><p>
 msgid ""
@@ -110,17 +116,38 @@ msgstr ""
 "que j'ai essayé de montrer, cela ne signifie pas nécessairement que j'y sois "
 "parvenu. C'est au public d'en décider. :)</i>"
 
-#. type: Content of: <p>
-msgid "This picture is available in the following formats:"
-msgstr "Ce dessin est disponible aux formats suivants :"
+#. type: Content of: <ul><li>
+msgid ""
+"JPEG&nbsp; <a href=\"/graphics/kafa_gnu.tiny.jpg\">4kB</a> (94x134),&nbsp; "
+"<a href=\"/graphics/kafa_gnu.jpg\">65kB</a> (505x700),&nbsp; <a href=\"/"
+"graphics/kafa_gnu.large.jpg\">166kB</a> (1200x1665)"
+msgstr ""
+"JPEG&nbsp; <a href=\"/graphics/kafa_gnu.tiny.jpg\">4 ko</a> (94x134),&nbsp; "
+"<a href=\"/graphics/kafa_gnu.jpg\">65 ko</a> (505x700),&nbsp; <a href=\"/"
+"graphics/kafa_gnu.large.jpg\">166 ko</a> (1200x1665)"
 
 #. type: Content of: <ul><li>
 msgid ""
-"jpeg: <a href=\"/graphics/kafa_gnu.tiny.jpg\">4k</a>, <a href=\"/graphics/"
-"kafa_gnu.jpg\">65k</a>, <a href=\"/graphics/kafa_gnu.large.jpg\">166k</a>"
+"See also <a href=\"https://commons.wikimedia.org/wiki/File:Kafa_gnu.png\"> "
+"Wikimedia Commons</a>."
 msgstr ""
-"jpeg : <a href=\"/graphics/kafa_gnu.tiny.jpg\">4 ko</a>, <a href=\"/graphics/"
-"kafa_gnu.jpg\">65 ko</a>, <a href=\"/graphics/kafa_gnu.large.jpg\">166 ko</a>"
+"Voir également <a href=\"https://commons.wikimedia.org/wiki/File:Kafa_gnu.png"
+"\"> Wikimedia Commons</a>."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2004 Kursad Karatas"
+msgstr "Copyright &copy; 2004 Kursad Karatas"
+
+#. type: Content of: <div><p>
+msgid ""
+"The copyright holder of this file allows anyone to use it for any purpose, "
+"provided that the copyright holder is properly attributed. Redistribution, "
+"derivative work, commercial use, and all other uses are permitted."
+msgstr ""
+"Le détenteur du copyright sur ce fichier en permet l'utilisation à quiconque "
+"à n'importe quelles fins, pourvu que la paternité en soit correctement "
+"attribuée au détenteur du copyright. La redistribution, la création d'œuvres "
+"dérivées, l'utilisation commerciale et tous les autres usages sont permis."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -168,19 +195,22 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
+msgid ""
+"<em>Page text (except the quote from the artist):</em>&nbsp; Copyright "
+"&copy; 2019 Free Software Foundation, Inc."
+msgstr ""
+"<em>Texte de la page (sauf la citation de l'artiste) :</em>&nbsp; Copyright "
+"&copy; 2019 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution de paternité, pas de modification, 3.0 États-"
-"Unis (CC BY-ND 3.0 US)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

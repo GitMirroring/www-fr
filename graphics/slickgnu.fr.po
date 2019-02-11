@@ -2,47 +2,52 @@
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza, 2007.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: slickgnu.html\n"
-"POT-Creation-Date: 2014-04-05 00:00+0000\n"
-"PO-Revision-Date: 2014-04-05 09:19+0200\n"
+"POT-Creation-Date: 2019-02-12 10:26+0000\n"
+"PO-Revision-Date: 2019-02-12 11:36+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 "X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
-msgid "Slick GNU - GNU Project - Free Software Foundation"
-msgstr "Un logo GNU affiné - Projet GNU - Free Software Foundation"
+msgid "A Slick GNU Logo by Brian Bush - GNU Project - Free Software Foundation"
+msgstr ""
+"Un logo GNU affiné, de Brian Bush - Projet GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
-msgid "A slick GNU logo by Brian Bush"
-msgstr "Un logo GNU affiné par Brian Bush"
-
-#. type: Content of: <p><a>
-msgid "<a href=\"/graphics/slickgnu.tiny.png\">"
-msgstr "<a href=\"/graphics/slickgnu.tiny.png\">"
-
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[The Spirit of Freedom]"
-msgstr "[L'esprit de la liberté]"
+msgid "A Slick GNU Logo"
+msgstr "Un logo GNU affiné"
 
 #. type: Content of: <p>
+msgid "by Brian Bush"
+msgstr "de Brian Bush"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/slickgnu.png\">"
+msgstr "<a href=\"/graphics/slickgnu.png\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[A slick GNU logo]&nbsp;"
+msgstr " [Un logo GNU affiné] "
+
+#. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "As most of us do, Brian loves the official GNU logo. But he thought it would "
-"be nice to create a more polished and slick logo.  It symbolizes the free "
-"and natural aspects of Free Software as well as the professional, stable and "
+"be nice to create a more polished and slick logo. It symbolizes the free and "
+"natural aspects of free software as well as the professional, stable and "
 "robust aspects of GNU software."
 msgstr ""
 "Comme la plupart d'entre nous, Brian aime bien le logo GNU officiel. Mais il "
@@ -50,63 +55,30 @@ msgstr ""
 "symbolise le côté libre et naturel des logiciels libres, tout comme le côté "
 "professionnel, stable et robuste des logiciels GNU."
 
-#. type: Content of: <p>
-msgid "This picture is available in the following formats:"
-msgstr "Ce dessin est disponible aux formats suivants :"
-
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"PNG <a href=\"/graphics/slickgnu.tiny.png\">2.6k (a small picture.)</a>, <a "
-"href=\"/graphics/slickgnu.png\">5.8k (a big and good quality picture.)</a>"
+"PNG&nbsp; <a href=\"/graphics/slickgnu.tiny.png\">3kB</a> (150x60),&nbsp; <a "
+"href=\"/graphics/slickgnu.png\">4kB</a> (500x200)"
 msgstr ""
-"PNG <a href=\"/graphics/slickgnu.tiny.png\">2,6 ko (une petite image)</a>, "
-"<a href=\"/graphics/slickgnu.png\">5,8 ko (une grande image de bonne qualité)"
-"</a>"
+"PNG&nbsp; <a href=\"/graphics/slickgnu.tiny.png\">3 ko</a> (150x60),&nbsp; "
+"<a href=\"/graphics/slickgnu.png\">4 ko</a> (500x200)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
+msgid "SVG&nbsp; <a href=\"/graphics/slickgnu.svg\">17kB</a> (529x212)"
+msgstr "SVG&nbsp; <a href=\"/graphics/slickgnu.svg\">17 ko</a> (529x212)"
+
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 2005 Brian Bush"
+msgstr "Copyright &copy; 2005 Brian Bush"
+
+#. type: Content of: <div><div><p>
 msgid ""
-"SVG <a href=\"/graphics/slickgnu.svg\">17k (a vector image of the logo.)</a>"
+"This image is available under the <a rel=\"license\" href=\"/licenses/gpl."
+"html\">GNU General Public License</a>, version&nbsp;2 or any later version."
 msgstr ""
-"SVG <a href=\"/graphics/slickgnu.svg\">17 ko (une image vectorielle du logo)"
-"</a>"
-
-#. type: Content of: <p>
-msgid "The images linked to from this page are:"
-msgstr "Les images liées dans cette page sont sous :"
-
-#. type: Content of: <p>
-msgid "Copyright (C) 2005, Free Software Foundation, Inc."
-msgstr "Copyright (C) 2005, Free Software Foundation, Inc."
-
-#. type: Content of: <p>
-msgid ""
-"Permission is granted to copy, distribute and/or modify this image under the "
-"terms of:"
-msgstr ""
-"La permission est donnée de copier, distribuer et/ou modifier ces images "
-"sous les termes suivants :"
-
-#. type: Content of: <ul><li>
-msgid ""
-"the <a href=\"/copyleft/gpl.html\">GNU General Public License</a> as "
-"published by the Free Software Foundation; either version 2 of the License, "
-"or (at your option) any later version."
-msgstr ""
-"la <a href=\"/copyleft/gpl.html\">GNU General Public License</a> telle que "
-"publiée par la <i>Free Software Foundation</i> ; en version 2 de la licence, "
-"ou (à votre convenance) toute version ultérieure, ou"
-
-#. type: Content of: <p>
-msgid ""
-"These images are distributed in the hope that it will be useful, but WITHOUT "
-"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
-"FITNESS FOR A PARTICULAR PURPOSE.  See the <a href=\"/copyleft/gpl.html"
-"\">GNU General Public License</a> for more details."
-msgstr ""
-"Ces images sont distribuées dans l'espoir qu'elles vous seront utiles, mais "
-"SANS GARANTIE ; sans même la garantie tacite de QUALITÉ MARCHANDE ou "
-"D'ADÉQUATION À UN BUT PARTICULIER. Voir la <a href=\"/copyleft/gpl.html"
-"\">GNU General Public License</a> pour plus de détails."
+"Cette image est disponible sous la <a rel=\"license\" href=\"/licenses/gpl."
+"html\">licence publique générale GNU</a>, version 2 ou toute version "
+"ultérieure."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -154,19 +126,22 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution de paternité, pas de modification, 3.0 États-"
-"Unis (CC BY-ND 3.0 US)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

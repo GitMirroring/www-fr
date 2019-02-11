@@ -2,13 +2,13 @@
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza, 2007.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2017.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2017, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: meditate.html\n"
-"POT-Creation-Date: 2018-01-01 05:57+0000\n"
-"PO-Revision-Date: 2018-01-01 17:56+0100\n"
+"POT-Creation-Date: 2019-02-11 19:26+0000\n"
+"PO-Revision-Date: 2019-02-12 11:36+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -20,31 +20,33 @@ msgstr ""
 
 #. type: Content of: <title>
 msgid ""
-"Levitating, Meditating, Flute-playing Gnu - GNU Project - Free Software "
-"Foundation"
-msgstr ""
-"Gnou en méditation, en lévitation et jouant de la flûte - Projet GNU - Free "
+"Levitating, Meditating, Flute-playing Gnu by Nevrax - GNU Project - Free "
 "Software Foundation"
+msgstr ""
+"Gnou en méditation, en lévitation et jouant de la flûte, par Nevrax - Projet "
+"GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
-msgid "Levitating, Meditating, Flute-playing Gnu by the Nevrax Design Team"
-msgstr ""
-"Gnou en méditation, en lévitation et jouant de la flûte, par la Nevrax "
-"Design Team"
-
-#. type: Content of: <p><a>
-msgid "<a href=\"/graphics/meditate-tiny.jpg\">"
-msgstr "<a href=\"/graphics/meditate-tiny.jpg\">"
-
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[Levitating, Meditating, Flue-playing Gnu]"
-msgstr "[Gnou en méditation, en lévitation et jouant de la flûte]"
+msgid "Levitating, Meditating, Flute-playing Gnu"
+msgstr "Gnou en méditation, en lévitation et jouant de la flûte"
 
 #. type: Content of: <p>
+msgid "by the Nevrax Design Team"
+msgstr "par la <i>Nevrax Design Team</i>"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/meditate.jpg\">"
+msgstr "<a href=\"/graphics/meditate.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[Levitating, Meditating, Flute-playing Gnu]&nbsp;"
+msgstr " [Gnou en méditation, en lévitation et jouant de la flûte] "
+
+#. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This color drawing depicts a levitating gnu, deep in meditation, wrapped "
 "snugly in a gold robe.  Both he and his computer float gracefully above the "
@@ -60,50 +62,51 @@ msgstr ""
 "venait de trouver l'inspiration pour charmer son ordinateur. Il a une lueur "
 "dans le regard alors qu'il contemple l'écran."
 
-#. type: Content of: <p>
-msgid "This picture is available in the following formats:"
-msgstr "Ce dessin est disponible aux formats suivants :"
-
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"JPEG <a href=\"/graphics/meditate-tiny.jpg\">4.4kB</a> (10% of full size and "
-"reasonable quality), <a href=\"/graphics/meditate-small-half.jpg\">11kB</a> "
-"(half size and low quality), <a href=\"/graphics/meditate-small.jpg\">36kB</"
-"a> (full size and low quality), <a href=\"/graphics/meditate.jpg\">580kB</a> "
-"(full size and quality)"
+"JPEG&nbsp; <a href=\"/graphics/meditate-tiny.jpg\">5kB</a> (150x130),&nbsp; "
+"<a href=\"/graphics/meditate-small-half.jpg\">11kB</a>&nbsp;(640x556),&nbsp; "
+"<a href=\"/graphics/meditate-small.jpg\">37kB</a>&nbsp;(1280x1112), <a href="
+"\"/graphics/meditate.jpg\">594kB</a>&nbsp;(1280x1112)"
 msgstr ""
-"JPEG <a href=\"/graphics/meditate-tiny.jpg\">4,4 ko</a> (10% de la taille "
-"originale et de qualité raisonnable), <a href=\"/graphics/meditate-small-"
-"half.jpg\">11 ko</a> (50% de la taille originale et de faible qualité), <a "
-"href=\"/graphics/meditate-small.jpg\">36 ko</a> (taille réelle et de faible "
-"qualité), <a href=\"/graphics/meditate.jpg\">580 ko</a> (taille réelle et de "
-"bonne qualité)"
+"JPEG&nbsp; <a href=\"/graphics/meditate-tiny.jpg\">5 ko</a> (150x130),&nbsp; "
+"<a href=\"/graphics/meditate-small-half.jpg\">11 ko</a>&nbsp;(640x556),"
+"&nbsp; <a href=\"/graphics/meditate-small.jpg\">37 ko</a>&nbsp;(1280x1112), "
+"<a href=\"/graphics/meditate.jpg\">594 ko</a>&nbsp;(1280x1112)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"PNG <a href=\"/graphics/meditate.png\">594kB</a> (full size and quality with "
-"transparent background)"
+"PNG (transparent background)&nbsp; <a href=\"/graphics/meditate.png\">512kB</"
+"a>&nbsp;(1280x1112)"
 msgstr ""
-"PNG <a href=\"/graphics/meditate.png\">594 ko</a> (taille réelle et de bonne "
-"qualité avec un fond transparent)"
+"PNG (fond transparent)&nbsp; <a href=\"/graphics/meditate.png\">512 ko</"
+"a>&nbsp;(1280x1112)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"XCF <a href=\"/graphics/meditate.xcf.gz\">2.0MB</a> (GIMP's native format, "
-"full size and quality, gzip'ed)"
+"XCF (gzipped)&nbsp; <a href=\"/graphics/meditate.xcf.gz\">2.1MB</a>&nbsp;"
+"(3000x2608)"
 msgstr ""
-"XCF <a href=\"/graphics/meditate.xcf.gz\">2,0 Mo</a> (archive gzip, taille "
-"réelle et de bonne qualité au format GIMP natif)"
+"XCF (gzipped)&nbsp; <a href=\"/graphics/meditate.xcf.gz\">2,1 Mo</a>&nbsp;"
+"(3000x2608)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"SVG <a href=\"/graphics/meditate.svg\">1.5MB</a>, made with Inkscape from "
-"the original GIMP version. Thanks to Mar&iacute;a del Pilar Saenz."
+"SVG&nbsp; <a href=\"/graphics/meditate.svg\">1.6MB</a>, made with Inkscape "
+"from the original GIMP version by María del Pilar Saenz."
 msgstr ""
-"SVG <a href=\"/graphics/meditate.svg\">1.5 Mo</a>, créé avec Inkscape à "
-"partir du format GIMP. Merci à Mar&iacute;a del Pilar Saenz."
+"SVG  <a href=\"/graphics/meditate.svg\">1,6 Mo</a>, créé avec Inkscape à "
+"partir de la version GIMP par María del Pilar Saenz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><ul><li>
+msgid ""
+"See also <a href=\"https://commons.wikimedia.org/wiki/File:"
+"Gnu_meditate_levitate.jpg\"> Wikimedia Commons</a>"
+msgstr ""
+"Voir également <a href=\"https://commons.wikimedia.org/wiki/File:"
+"Gnu_meditate_levitate.jpg\">Wikimedia Commons</a>"
+
+#. type: Content of: <div><p>
 msgid ""
 "We thank the artists of the Nevrax Design Team for drawing this beautiful "
 "picture, and their employer, Nevrax Limited, for giving them time to work on "
@@ -113,144 +116,104 @@ msgstr ""
 "beau dessin, et leur employeur, <i>Nevrax Limited</i>, pour leur avoir donné "
 "du temps pour y travailler."
 
-#. type: Content of: <p>
-msgid "Copyright &copy; 2001 Free Software Foundation, Inc."
-msgstr "Copyright &copy;  2001 Free Software Foundation, Inc."
+#. type: Content of: <div><h3>
+msgid "Free Software poster"
+msgstr "Poster <cite>Free Software</cite>"
 
-#. type: Content of: <h3>
-msgid "Variants"
-msgstr "Variantes"
+#. type: Content of: <div><p>
+msgid ""
+"The words &ldquo;Free Software&rdquo; are written in very large print (light "
+"gray over white) behind the flute-playing Gnu."
+msgstr ""
+"Les mots <cite>Free Software</cite> sont écrits en très grandes lettres "
+"grises sur fond blanc derrière le gnou."
 
-#. type: Content of: <h4>
-msgid "With the words &ldquo;Free Software&rdquo; behind the image"
-msgstr "Avec les mots <cite>Free Software</cite> derrière l'image"
+#. type: Content of: <div><ul><li>
+msgid "JPEG&nbsp; <a href=\"/graphics/meditate-fs.jpg\">1.5MB</a> (3000x4000)"
+msgstr ""
+"JPEG&nbsp; <a href=\"/graphics/meditate-fs.jpg\">1,5 Mo</a> (3000x4000)"
 
-#. type: Content of: <p>
-msgid "1. Gray text, white background:"
-msgstr "1. Texte gris, fond blanc :"
+#. type: Content of: <div><h3>
+msgid "Free Software wallpaper"
+msgstr "Fond d'écran <cite>Free Software</cite>"
 
-#. type: Content of: <ul><li>
-msgid "JPEG <a href=\"/graphics/meditate-fs.jpg\">1.4MB</a>"
-msgstr "JPEG <a href=\"/graphics/meditate-fs.jpg\">1,4 Mo</a>"
+#. type: Content of: <div><p>
+msgid ""
+"A black-background variant of the Free Software poster, made by Gonzalo "
+"Pineda."
+msgstr ""
+"Une variante sur fond noir du poster <cite>Free Software</cite>, faite par "
+"Gonzalo Pineda."
 
-#. type: Content of: <p>
-msgid "2. Gray text, black background:"
-msgstr "2. Texte gris, fond noir :"
-
-#. type: Content of: <ul><li>
-msgid "JPEG <a href=\"/graphics/meditate_fel.jpg\">480kB</a>"
+#. type: Content of: <div><ul><li>
+msgid "JPEG&nbsp; <a href=\"/graphics/meditate_fel.jpg\">491kB</a> (3000x2248)"
 msgstr "JPEG <a href=\"/graphics/meditate_fel.jpg\">480 ko</a>"
 
-#. type: Content of: <ul><li>
-msgid "PNG <a href=\"/graphics/meditate_fel.png\">1.4MB</a>"
+#. type: Content of: <div><ul><li>
+msgid "PNG&nbsp; <a href=\"/graphics/meditate_fel.png\">1.4MB</a> (3000x2248)"
 msgstr "PNG <a href=\"/graphics/meditate_fel.png\">1,4 Mo</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"XCF <a href=\"/graphics/meditate_fel_xcf.tar.gz\">2.0MB</a> (GIMP's native "
-"format, full size and quality, gzip'ed)"
+"XCF (gzipped)&nbsp;<a href=\"/graphics/meditate_fel_xcf.tar.gz\">2.1MB</a>"
 msgstr ""
-"XCF <a href=\"/graphics/meditate_fel_xcf.tar.gz\">2,0 Mo</a> (archive tar."
-"gzip, taille réelle et de bonne qualité au format GIMP natif)"
+"XCF (archive GZIP)&nbsp;<a href=\"/graphics/meditate_fel_xcf.tar.gz"
+"\">2,1 Mo</a>"
 
-#. type: Content of: <p>
-msgid "Thanks to Gonzalo Pineda for this nice wallpaper."
-msgstr "Merci à Gonzalo Pineda pour ce joli fond d'écran."
+#. type: Content of: <div><h3>
+msgid "Microphone variant"
+msgstr "Variante au micro"
 
-#. type: Content of: <p>
-msgid "Copyright &copy; 2001, 2004 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2001, 2004 Free Software Foundation, Inc."
-
-#. type: Content of: <h4>
-msgid "With a microphone replacing the computer"
-msgstr "Avec un micro à la place de l'ordinateur"
-
-#. type: Content of: <ul><li>
-msgid "PNG <a href=\"/graphics/meditate-papolivre-small.png\">111kB</a>"
-msgstr "PNG <a href=\"/graphics/meditate-papolivre-small.png\">111 ko</a>"
-
-#. type: Content of: <ul><li>
-msgid "PNG <a href=\"/graphics/meditate-papolivre.png\">739kB</a>"
-msgstr "PNG <a href=\"/graphics/meditate-papolivre.png\">739 ko</a>"
-
-#. type: Content of: <ul><li>
-msgid "SVG <a href=\"/graphics/meditate-papolivre.svg\">431kB</a>"
-msgstr "SVG <a href=\"/graphics/meditate-papolivre.svg\">431 ko</a>"
-
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"Thanks to Aur&eacute;lio Heckert for this modified version, which was made "
-"for the website of <cite><a href=\"https://papolivre.org/\">Papo Livre</a></"
-"cite> (Free Chat), a Brazilian podcast on free software."
+"The computer is replaced with a microphone. This modified version was made "
+"by Aurélio A. Heckert for the website of <cite><a href=\"https://papolivre."
+"org/\">Papo Livre</a></cite> (Free Chat), a Brazilian podcast on free "
+"software."
 msgstr ""
-"Merci à Aurélio Heckert pour cette version modifiée, qui a été faite pour le "
-"site de <cite><a href=\"https://papolivre.org/\">Papo Livre</a></cite> "
-"(papotage libre), un podcast brésilien sur le logiciel libre."
+"L'ordinateur est remplacé par un micro. Cette version modifiée a été faite "
+"par Aurélio A. Heckert pour le site de <cite><a href=\"https://papolivre.org/"
+"\">Papo Livre</a></cite> (papotage libre), un podcast brésilien sur le "
+"logiciel libre."
 
-#. type: Content of: <p>
-msgid "Copyright &copy; 2001, 2017 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2001, 2017 Free Software Foundation, Inc."
-
-#. type: Content of: <h3>
-msgid "Licensing"
-msgstr "Licence"
-
-#. type: Content of: <p>
+#. type: Content of: <div><ul><li>
 msgid ""
-"Permission is granted to copy, distribute and/or modify these images under "
-"the terms of either:"
+"PNG&nbsp; <a href=\"/graphics/meditate-papolivre-small.png\">111kB</a> "
+"(336x480),&nbsp; <a href=\"/graphics/meditate-papolivre.png\">739kB</a>&nbsp;"
+"(1485x2123)"
 msgstr ""
-"L'autorisation est donnée de copier, distribuer et/ou modifier ces images "
-"sous les termes de l'une des deux licences :"
+"PNG&nbsp; <a href=\"/graphics/meditate-papolivre-small.png\">111 ko</a> "
+"(336x480),&nbsp; <a href=\"/graphics/meditate-papolivre.png\">739 ko</"
+"a>&nbsp;(1485x2123)"
 
-#. type: Content of: <ul><li>
-msgid ""
-"the <a href=\"/licenses/gpl.html\">GNU General Public License</a> as "
-"published by the Free Software Foundation; either version 3 of the License, "
-"or (at your option) any later version, or"
-msgstr ""
-"la <a href=\"/licenses/gpl.html\">GNU General Public License</a> telle que "
-"publiée par la <i>Free Software Foundation</i> ; en version 2 de la licence, "
-"ou (à votre convenance) toute version ultérieure, ou"
+#. type: Content of: <div><ul><li>
+msgid "SVG&nbsp; <a href=\"/graphics/meditate-papolivre.svg\">431kB</a>"
+msgstr "SVG&nbsp; <a href=\"/graphics/meditate-papolivre.svg\">431 ko</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><p>
 msgid ""
-"the <a href=\"/licenses/fdl.html\"> GNU Free Documentation License</a>, "
-"Version 1.1 or any later version published by the Free Software Foundation; "
-"with the no Invariant Sections, with no Front-Cover Texts and with no Back-"
-"Cover Texts."
+"Copyright &copy; 2001 Free Software Foundation, Inc. (original image and "
+"poster)"
 msgstr ""
-"la <a href=\"/licenses/fdl.html\">GNU Free Documentation License</a>, "
-"version 1.1 ou toute version ultérieure publiée par la <i>Free Software "
-"Foundation</i> ; sans section invariante, sans texte de couverture ni de "
-"quatrième de couverture."
+"Copyright &copy; 2001 Free Software Foundation, Inc. (image originale et "
+"poster)"
 
-#. type: Content of: <p>
-msgid ""
-"These images are distributed in the hope that they will be useful, but "
-"WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY "
-"or FITNESS FOR A PARTICULAR PURPOSE.  See the <a href=\"/licenses/gpl.html"
-"\">GNU General Public License</a> for more details."
-msgstr ""
-"Ces images sont distribuées dans l'espoir qu'elles vous seront utiles, mais "
-"SANS GARANTIE ; sans même la garantie tacite de QUALITÉ MARCHANDE ou "
-"D'ADÉQUATION À UN BUT PARTICULIER. Voir la <a href=\"/licenses/gpl.html"
-"\">GNU General Public License</a> pour plus de détails."
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 2017 Aur&eacute;lio A. Heckert (microphone variant)"
+msgstr "Copyright &copy; 2017 Aur&eacute;lio A. Heckert (variante au micro)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"You can find a copy of the <a href=\"/licenses/gpl.html\">GNU General Public "
-"License</a> and the <a href=\"/licenses/fdl.html\">GNU Free Documentation "
-"License</a> via the preceding links.  If you have trouble downloading it, "
-"write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth "
-"Floor, Boston, MA 02110-1301, USA."
+"These images are available under the <a rel=\"license\" href=\"/licenses/gpl."
+"html\">GNU General Public License</a>, version&nbsp;3 or any later version, "
+"or the <a rel=\"license\" href=\"/licenses/fdl.html\">GNU Free Documentation "
+"License</a>, version&nbsp;1.1 or any later version."
 msgstr ""
-"Vous pouvez trouver une copie de la <a href=\"/licenses/gpl.html\">GNU "
-"General Public License</a> et de la <a href=\"/licenses/fdl.html\">GNU Free "
-"Documentation License</a> en suivant les liens précédents. Si vous "
-"rencontrez des problèmes pour la télécharger, écrivez à : Free Software "
-"Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, "
-"USA."
+"Ces images sont disponibles sous la <a rel=\"license\" href=\"/licenses/gpl."
+"html\">licence publique générale GNU</a>, version 3 ou toute version "
+"ultérieure, ou bien la <a rel=\"license\" href=\"/licenses/fdl.html"
+"\">licence GNU de documentation libre</a>, version 1.1 ou toute version "
+"ultérieure."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -299,22 +262,21 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2007, 2008, 2009, 2014, 2017, 2018 Free Software "
-"Foundation, Inc."
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
 msgstr ""
-"Copyright &copy; 2007, 2008, 2009, 2014, 2017, 2018 Free Software "
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
-"NoDerivatives 4.0 International License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
-"\">Creative Commons attribution, pas de modification, 4.0 internationale "
-"(CC BY-ND 4.0)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

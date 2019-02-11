@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnupascal.html\n"
-"POT-Creation-Date: 2018-11-23 13:25+0000\n"
-"PO-Revision-Date: 2018-11-29 21:22+0100\n"
+"POT-Creation-Date: 2019-02-12 09:56+0000\n"
+"PO-Revision-Date: 2019-02-12 11:36+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -18,62 +18,92 @@ msgstr ""
 "Plural-Forms:  \n"
 
 #. type: Content of: <title>
-msgid "GNU and Blaise Pascal - GNU Project - Free Software Foundation"
-msgstr "GNU et Blaise Pascal - Projet GNU - Free Software Foundation"
+msgid ""
+"GNU and Blaise Pascal by Markus Gerwinski - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"GNU et Blaise Pascal, de Markus Gerwinski - Projet GNU - Free Software "
+"Foundation"
 
 #. type: Content of: <h2>
 msgid "GNU and Blaise Pascal"
 msgstr "GNU et Blaise Pascal"
 
-#. type: Content of: <p><a>
-msgid "<a href=\"/graphics/Gnu+Pascal.small.jpg\">"
-msgstr "<a href=\"/graphics/Gnu+Pascal.small.jpg\">"
-
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[image of a Gnu and Blaise Pascal]"
-msgstr " [Image d'un Gnou et de Blaise Pascal] "
-
 #. type: Content of: <p>
+msgid "by Markus Gerwinski"
+msgstr "de Markus Gerwinski"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/Gnu+Pascal.jpg\">"
+msgstr "<a href=\"/graphics/Gnu+Pascal.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[A Gnu and Blaise Pascal]&nbsp;"
+msgstr " [Un Gnou et Blaise Pascal] "
+
+#. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A long-haired Blaise Pascal and a long-bearded GNU; both stare thoughtfully "
-"into space."
+"into space. This image is the logo of <a href=\"http://www.gnu-pascal.de/"
+"\">GNU Pascal</a>."
 msgstr ""
 "Un Blaise Pascal aux cheveux longs et un GNU avec une longue barbe, tous "
-"deux fixant le vide pensivement."
+"deux fixant le vide pensivement. Cette image est le logo de <a href=\"http://"
+"www.gnu-pascal.de/\">GNU Pascal</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><ul><li>
 msgid ""
-"We thank Markus Gerwinski <a href=\"mailto:markus@theo-phys.uni-essen.de"
-"\">&lt;markus@theo-phys.uni-essen.de&gt;</a>, the artist of this <a href="
-"\"http://www.gnu-pascal.de\">GNU Pascal</a> art."
+"JPEG&nbsp; <a href=\"/graphics/Gnu+Pascal.small.jpg\">3.4kB</a> (123x99),"
+"&nbsp; <a href=\"/graphics/Gnu+Pascal.jpg\">61.8kB</a> (736x594)"
 msgstr ""
-"Nous remercions Markus Gerwinski <a href=\"mailto:markus@theo-phys.uni-essen."
-"de\">&lt;markus@theo-phys.uni-essen.de&gt;</a>, l'auteur de ce « <a href="
-"\"http://www.gnu-pascal.de\">GNU Pascal</a> »."
+"JPEG&nbsp; <a href=\"/graphics/Gnu+Pascal.small.jpg\">3,4 ko</a> (123x99),"
+"&nbsp; <a href=\"/graphics/Gnu+Pascal.jpg\">61,8 ko</a> (736x594)"
 
-#. type: Content of: <p>
-msgid "This picture is available in the following formats:"
-msgstr "Ce dessin est disponible aux formats suivants :"
-
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"JPEG&nbsp; <a href=\"/graphics/Gnu+Pascal.small.jpg\">3.4kB</a> (123x99), <a "
-"href=\"/graphics/Gnu+Pascal.jpg\">61.8kB</a> (736x594)"
+"PNG&nbsp; <a href=\"/graphics/Gnu+Pascal.small.png\">3.2kB</a> (123x99),"
+"&nbsp; <a href=\"/graphics/Gnu+Pascal.png\">9.2kB</a> (736x594)"
 msgstr ""
-"JPEG  <a href=\"/graphics/Gnu+Pascal.small.jpg\">3,4 ko</a> (123x99), <a "
-"href=\"/graphics/Gnu+Pascal.jpg\">61,8 ko</a> (736x594)"
+"PNG&nbsp; <a href=\"/graphics/Gnu+Pascal.small.png\">3,2 ko</a> (123x99),"
+"&nbsp; <a href=\"/graphics/Gnu+Pascal.png\">9,2 ko</a> (736x594)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"PNG&nbsp; <a href=\"/graphics/Gnu+Pascal.small.png\">3.2kB</a> (123x99), <a "
-"href=\"/graphics/Gnu+Pascal.png\">9.2kB</a> (736x594)"
+"SVG on <a href=\"https://commons.wikimedia.org/wiki/File:GnuPascal.svg\"> "
+"Wikimedia Commons</a>"
 msgstr ""
-"PNG  <a href=\"/graphics/Gnu+Pascal.small.png\">3,4 ko</a> (123x99), <a href="
-"\"/graphics/Gnu+Pascal.png\">9,2 ko</a> (736x594)"
+"SVG sur <a href=\"https://commons.wikimedia.org/wiki/File:GnuPascal.svg\"> "
+"Wikimedia Commons</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"More formats on <a href=\"http://www.gnu-pascal.de/gpc/h-resources."
+"html#Drawing\">GNU Pascal's website</a>"
+msgstr ""
+"D'autres formats sur <a href=\"http://www.gnu-pascal.de/gpc/h-resources."
+"html#Drawing\">le site de GNU Pascal</a>"
+
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 1996 Markus Gerwinski"
+msgstr "Copyright &copy; 1996 Markus Gerwinski"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This image is available under the <a rel=\"license\" href=\"/licenses/fdl."
+"html\">GNU Free Documentation License</a>, version&nbsp;1.2 or any later "
+"version, or the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike 3.0 Unported "
+"License</a>."
+msgstr ""
+"Cette image est disponible sous la <a rel=\"license\" href=\"/licenses/fdl."
+"html\">licence GNU de documentation libre</a>, version 1.2 ou toute version "
+"ultérieure, ou bien la licence <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.fr\">Creative Commons "
+"attribution, pas de modification, 3.0 non transposée </a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -121,19 +151,22 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2018 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2018 Free Software Foundation, Inc."
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
-"NoDerivatives 4.0 International License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
-"\">Creative Commons attribution, pas de modification, 4.0 internationale "
-"(CC BY-ND 4.0)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

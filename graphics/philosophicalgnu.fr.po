@@ -2,95 +2,109 @@
 # Copyright (C) 2004 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Pierre-Yves Enderlin, 2004.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: philosophicalgnu.html\n"
-"POT-Creation-Date: 2014-04-05 00:00+0000\n"
-"PO-Revision-Date: 2014-04-05 09:19+0200\n"
+"POT-Creation-Date: 2019-02-11 21:26+0000\n"
+"PO-Revision-Date: 2019-02-12 11:36+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  \n"
 
 #. type: Content of: <title>
-msgid "A Philosophical GNU - GNU Project - Free Software Foundation"
-msgstr "Un GNU philosophe - Projet GNU - Free Software Foundation"
+msgid ""
+"A Philosophical GNU by Markus Gerwinski - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"Un GNU philosophe par Markus Gerwinski - Projet GNU - Free Software "
+"Foundation"
 
 #. type: Content of: <h2>
 msgid "A Philosophical GNU"
 msgstr "Un GNU philosophe"
 
-#. type: Content of: <p><a>
-msgid "<a href=\"/graphics/philosophical-gnu-sm.jpg\">"
-msgstr "<a href=\"/graphics/philosophical-gnu-sm.jpg\">"
-
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[image of a Philosophical Gnu]"
-msgstr "[image d'un GNU philosophe]"
-
 #. type: Content of: <p>
+msgid "by Markus Gerwinski"
+msgstr "par Markus Gerwinski"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/philosophical-gnu.png\">"
+msgstr "<a href=\"/graphics/philosophical-gnu.png\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[image of a Philosophical Gnu]&nbsp;"
+msgstr " [Dessin d'un GNU philosophe] "
+
+#. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <p>
-msgid "This GNU, looking particularly smart with arched eyebrows."
-msgstr ""
-"C'est un GNU à l'attitude particulièrement éveillée, avec ses sourcils "
-"espiègles."
-
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"We thank Markus Gerwinski <a href=\"mailto:markus@theo-phys.uni-essen.de"
-"\">&lt;markus@theo-phys.uni-essen.de&gt;</a>, the artist of this "
-"Philosophical GNU."
+"This GNU looks particularly smart with arched eyebrows.  It was used to help "
+"identify the pages on this server that deal with the <a href=\"/philosophy/"
+"philosophy.html\">philosophy</a> of the GNU Project."
 msgstr ""
-"Nous tenons à remercier Markus Gerwinski <a href=\"mailto:markus@theo-phys."
-"uni-essen.de\">&lt;markus@theo-phys.uni-essen.de&gt;</a>, l'artiste qui a "
-"créé ce GNU philosophe."
+"C'est un gnou à l'attitude particulièrement éveillée, avec ses sourcils "
+"espiègles. Il était utilisé pour aider à l'identification des pages de ce "
+"serveur concernant la <a href=\"/philosophy/philosophy.html\">philosophie</"
+"a> du projet GNU."
 
-#. type: Content of: <p>
+#. type: Content of: <div><ul><li>
 msgid ""
-"It is used to help identify the pages on this server that deal with the <a "
-"href=\"/philosophy/philosophy.html\">philosophy</a> of the GNU Project."
+"JPEG&nbsp; <a href=\"/graphics/philosophical-gnu-sm.jpg\">6kB</a> (160x200),"
+"&nbsp; <a href=\"/graphics/philosophical-gnu.jpg\">141kB</a>&nbsp;(1424x1763)"
 msgstr ""
-"Il est utilisé pour aider à l'identification des pages de ce serveur "
-"concernant la <a href=\"/philosophy/philosophy.html\">philosophie</a> du "
-"projet GNU."
+"JPEG&nbsp; <a href=\"/graphics/philosophical-gnu-sm.jpg\">6 ko</a> (160x200),"
+"&nbsp; <a href=\"/graphics/philosophical-gnu.jpg\">141 ko</a>&nbsp;"
+"(1424x1763)"
 
-#. type: Content of: <p>
-msgid "This picture is available in the following formats:"
-msgstr "Ce dessin est disponible aux formats suivants :"
-
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"jpeg <a href=\"/graphics/philosophical-gnu-sm.jpg\">7k</a>, <a href=\"/"
-"graphics/philosophical-gnu.jpg\">141k</a>"
+"PNG&nbsp; <a href=\"/graphics/philosophical-gnu-sm.png\">10kB</a> (160x200),"
+"&nbsp; <a href=\"/graphics/philosophical-gnu-med.png\">21kB</a>&nbsp;"
+"(288x339&mdash;transparent background),&nbsp; <a href=\"/graphics/"
+"philosophical-gnu.png\">18kB</a>&nbsp;(1424x1763)"
 msgstr ""
-"jpeg <a href=\"/graphics/philosophical-gnu-sm.jpg\">7 ko</a>, <a href=\"/"
-"graphics/philosophical-gnu.jpg\">141 ko</a>"
+"PNG&nbsp; <a href=\"/graphics/philosophical-gnu-sm.png\">10 ko</a> (160x200),"
+"&nbsp; <a href=\"/graphics/philosophical-gnu-med.png\">21 ko</a>&nbsp;"
+"(288x339&mdash;transparent background),&nbsp; <a href=\"/graphics/"
+"philosophical-gnu.png\">18 ko</a>&nbsp;(1424x1763)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"png <a href=\"/graphics/philosophical-gnu-sm.png\">10k</a>, <a href=\"/"
-"graphics/philosophical-gnu.png\">18k</a>"
+"Greyscale PNG&nbsp; <a href=\"/graphics/philosophical-gnu-sm-256.png\">5kB</"
+"a>&nbsp;(159x200), by Paolo Melchiorre"
 msgstr ""
-"png <a href=\"/graphics/philosophical-gnu-sm.png\">10 ko</a>, <a href=\"/"
-"graphics/philosophical-gnu.png\">18 ko</a>"
+"PNG en niveaux de gris&nbsp; <a href=\"/graphics/philosophical-gnu-sm-256.png"
+"\">5 ko</a>&nbsp;(159x200), fait par Paolo Melchiorre."
 
-#. type: Content of: <ul><li>
-msgid "greyscale png <a href=\"/graphics/philosophical-gnu-sm-256.png\">7k</a>"
+#. type: Content of: <div><ul><li>
+msgid ""
+"SVG&nbsp; <a href=\"/graphics/philosophical-gnu.svg\">40kB</a>, vectorized "
+"by Victor Siame"
 msgstr ""
-"png en niveaux de gris <a href=\"/graphics/philosophical-gnu-sm-256.png\">7 "
-"Ko</a>"
+"SVG&nbsp; <a href=\"/graphics/philosophical-gnu.svg\">40 ko</a>, vectorisé "
+"par Victor Siame"
 
-#. type: Content of: <ul><li>
-msgid "svg <a href=\"/graphics/philosophical-gnu-sm.svg\">24k</a>"
-msgstr "svg <a href=\"/graphics/philosophical-gnu-sm.svg\">24k</a>"
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 1997 Markus Gerwinski"
+msgstr "Copyright &copy; 1997 Markus Gerwinski"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This image is available under the <a rel=\"license\" href=\"/licenses/gpl."
+"html\">GNU General Public License</a>, version&nbsp;2 or any later version."
+msgstr ""
+"Cette image est disponible sous la <a rel=\"license\" href=\"/licenses/gpl."
+"html\">licence publique générale GNU</a>, version 2 ou toute version "
+"ultérieure."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -139,22 +153,21 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2013, 2014 Free Software Foundation, Inc."
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
 msgstr ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2013, 2014 Free Software Foundation, Inc."
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution de paternité, pas de modification, 3.0 États-"
-"Unis (CC BY-ND 3.0 US)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

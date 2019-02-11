@@ -2,13 +2,13 @@
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2007, 2008.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2015.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2015, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: whatsgnu.html\n"
-"POT-Creation-Date: 2018-09-29 11:26+0000\n"
-"PO-Revision-Date: 2018-09-29 19:49+0200\n"
+"POT-Creation-Date: 2019-02-12 09:56+0000\n"
+"PO-Revision-Date: 2019-02-12 11:36+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -18,93 +18,83 @@ msgstr ""
 "Plural-Forms:  \n"
 
 #. type: Content of: <title>
-msgid "What's GNU - GNU Project - Free Software Foundation"
-msgstr "Qu'est-ce que GNU - Projet GNU - Free Software Foundation"
+msgid "What's GNU by Etienne Suvasa - GNU Project - Free Software Foundation"
+msgstr ""
+"Qu'est-ce que GNU, par Etienne Suvasa - Projet GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
 msgid "What's GNU"
 msgstr "Qu'est-ce que GNU"
 
-#. type: Content of: <p><a>
-msgid "<a href=\"/graphics/whats-gnu-sm.jpg\">"
-msgstr "<a href=\"/graphics/whats-gnu-sm.jpg\">"
+#. type: Content of: <p>
+msgid "by Etienne Suvasa"
+msgstr "par Etienne Suvasa"
 
-#. type: Attribute 'alt' of: <p><a><img>
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/whats-gnu.jpg\">"
+msgstr "<a href=\"/graphics/whats-gnu.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
 msgid "&nbsp;[GNU head with motto on banderoles]&nbsp;"
 msgstr " [Tête de gnou avec devise sur des banderoles] "
 
-#. type: Content of: <p>
+#. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"Two banners enclose a GNU in this image, one reading \"What's GNU?\" and the "
-"other \"GNU's Not Unix!\".  In the center, a face similar to the GNU Head "
-"above rests proudly."
+"Two banners enclose a GNU in this image, one reading &ldquo;What's GNU?"
+"&rdquo; and the other &ldquo;GNU's Not Unix!&rdquo; In the center, a face "
+"similar to the GNU Head above rests proudly."
 msgstr ""
-"Dans cette image, deux bannières entourent un GNU, une indiquant <i>What's "
-"GNU</i> et l'autre <i>GNU's Not Unix !</i> Au centre, un fier visage "
-"similaire à la « Tête de GNU »."
+"Dans cette image, deux bannières entourent un GNU, une indiquant "
+"<cite>What's GNU</cite> et l'autre <cite>GNU's Not Unix!</cite> Au centre, "
+"un fier visage similaire à la « Tête de GNU »."
 
-#. type: Content of: <p>
-msgid "We thank Etienne Suvasa for drawing this What's GNU art."
-msgstr "Nous remercions Etienne Suvasa d'avoir fait ce dessin."
-
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"It is used on this web site to indicate pages that describe what GNU is, "
-"including:"
+"This image was used to indicate pages that describe what GNU is, including: "
+"<a href=\"/gnu/gnu-history.html\">Overview of the GNU System</a>, and <a "
+"href=\"/gnu/manifesto.html\">The GNU Manifesto</a>."
 msgstr ""
-"Il est utilisé sur ce site Web pour indiquer les pages décrivant GNU, entre "
-"autres :"
+"Cette image servait à indiquer les pages décrivant le projet GNU, en "
+"particulier <a href=\"/gnu/gnu-history.html\">Présentation du système GNU</"
+"a> et <a href=\"/gnu/manifesto.html\">Le manifeste GNU</a>."
 
-#. type: Content of: <ul><li>
-msgid "<a href=\"/gnu/gnu-history.html\">GNU Project</a>"
-msgstr "<a href=\"/gnu/gnu-history.html\">Le projet GNU</a>"
-
-#. type: Content of: <ul><li>
-msgid "the <a href=\"/gnu/manifesto.html\">GNU Manifesto (31k characters)</a>"
-msgstr ""
-"<a href=\"/gnu/manifesto.html\">Le manifeste GNU (31 000 caractères)</a>"
-
-#. type: Content of: <p>
-msgid "This picture is available in the following formats:"
-msgstr "Ce dessin est disponible aux formats suivants :"
-
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"jpeg <a href=\"/graphics/whats-gnu-sm.jpg\">8k</a>, <a href=\"/graphics/"
-"whats-gnu.jpg\">21k</a>"
+"JPEG&nbsp; <a href=\"/graphics/whats-gnu-sm.jpg\">6kB</a> (125x120),&nbsp; "
+"<a href=\"/graphics/whats-gnu.jpg\">20kB</a>&nbsp;(276x256)"
 msgstr ""
-"jpeg <a href=\"/graphics/whats-gnu-sm.jpg\">8 ko</a>, <a href=\"/graphics/"
-"whats-gnu.jpg\">21 ko</a>"
+"JPEG&nbsp; <a href=\"/graphics/whats-gnu-sm.jpg\">6 ko</a> (125x120),&nbsp; "
+"<a href=\"/graphics/whats-gnu.jpg\">20 ko</a>&nbsp;(276x256)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"png <a href=\"/graphics/whats-gnu-sm.png\">2k</a>, <a href=\"/graphics/whats-"
-"gnu.png\">5k</a>"
+"PNG&nbsp; <a href=\"/graphics/whats-gnu-sm.png\">2kB</a> (125x120),&nbsp; <a "
+"href=\"/graphics/whats-gnu.png\">5kB</a>&nbsp;(276x256)"
 msgstr ""
-"png <a href=\"/graphics/whats-gnu-sm.png\">2 ko</a>, <a href=\"/graphics/"
-"whats-gnu.png\">5 ko</a>"
+"PNG&nbsp; <a href=\"/graphics/whats-gnu-sm.png\">2 ko</a> (125x120),&nbsp; "
+"<a href=\"/graphics/whats-gnu.png\">5 ko</a>&nbsp;(276x256)"
 
-#. type: Content of: <ul><li>
-msgid "svg <a href=\"/graphics/whats-gnu.svg\">48k</a>"
-msgstr "svg <a href=\"/graphics/whats-gnu.svg\">48 ko</a>"
+#. type: Content of: <div><ul><li>
+msgid "SVG&nbsp; <a href=\"/graphics/whats-gnu.svg\">46kB</a> (245x220)"
+msgstr "SVG&nbsp; <a href=\"/graphics/whats-gnu.svg\">46 ko</a> (245x220)>"
 
-#. type: Content of: <h3>
-msgid "Licensing"
-msgstr "Licence"
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 1998 Etienne Suvasa"
+msgstr "Copyright &copy; 1998 Etienne Suvasa"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"These images are available for use under the <a href=\"https://"
-"creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0 International</a> "
-"license."
+"This image is available under the <a rel=\"license\" href=\"https://"
+"creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-"
+"ShareAlike 4.0 International License</a>."
 msgstr ""
-"Ces images peuvent être utilisées suivant les conditions de la licence <a "
-"rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.fr"
-"\">CC BY-SA 4.0 internationale</a>."
+"Cette image est disponible sous la licence <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/deed.fr\">Creative Commons "
+"attribution, pas de modification, 4.0 internationale</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -153,20 +143,21 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2007, 2013, 2014, 2015, 2018 Free Software Foundation, Inc."
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
 msgstr ""
-"Copyright &copy; 2007, 2013, 2014, 2015, 2018 Free Software Foundation, Inc."
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
-"NoDerivatives 4.0 International License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
-"\">Creative Commons attribution, pas de modification, 4.0 internationale "
-"(CC BY-ND 4.0)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

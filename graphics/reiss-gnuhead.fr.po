@@ -2,13 +2,13 @@
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza, 2007.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: reiss-gnuhead.html\n"
-"POT-Creation-Date: 2018-09-29 11:26+0000\n"
-"PO-Revision-Date: 2018-09-29 19:49+0200\n"
+"POT-Creation-Date: 2019-02-11 21:26+0000\n"
+"PO-Revision-Date: 2019-02-12 11:36+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -19,47 +19,83 @@ msgstr ""
 "X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
-msgid "Color Gnu Head - GNU Project - Free Software Foundation"
-msgstr "Tête de GNU en couleur - Projet GNU - Free Software Foundation"
+msgid ""
+"Color GNU Head by Joseph W. Reiss - GNU Project - Free Software Foundation"
+msgstr ""
+"Tête de GNU en couleur, de Joseph W. Reiss - Projet GNU - Free Software "
+"Foundation"
 
 #. type: Content of: <h2>
-msgid "Color Gnu Head"
+msgid "Color GNU Head"
 msgstr "Tête de GNU en couleur"
 
-#. type: Content of: <p><a>
+#. type: Content of: <p>
+msgid "by Joseph W. Reiss"
+msgstr "de Joseph W. Reiss"
+
+#. type: Content of: <div><div><a>
 msgid "<a href=\"/graphics/reiss-head.jpg\">"
 msgstr "<a href=\"/graphics/reiss-head.jpg\">"
 
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "&nbsp;[Head of a GNU]&nbsp;"
-msgstr " [Tête de GNU] "
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[Colored GNU head]&nbsp;"
+msgstr " [Tête de GNU en couleur] "
 
-#. type: Content of: <p>
+#. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"We thank Joseph W. Reiss for this color image of a GNU head.  He has "
-"transferred copyright of the image to the FSF, and we are making it "
-"available under either Free Art License or the GNU GPLv2 or later, at your "
-"option."
+"This is a colored version of the <a href=\"/graphics/agnuhead.html\">GNU "
+"Head</a> originally drawn by Etienne Suvasa. The natural colors (brown for "
+"the face, and tan for the horns) were applied with gradual shades that give "
+"the drawing a three-dimensional look."
 msgstr ""
-"Nous remercions Joseph W. Reiss pour ce dessin en couleur d'une tête de GNU. "
-"Il en a transféré le copyright à la FSF, et nous le mettons à disposition "
-"sous licence Art libre ou GNU GPLv2 ou ultérieure, à votre convenance."
+"C'est une version en couleur de la <a href=\"/graphics/agnuhead.html\">Tête "
+"de GNU</a> dessinée par Etienne Suvasa (visage brun et cornes beiges). "
+"L'impression tridimensionnelle est donnée par les ombres dégradées."
 
-#. type: Content of: <p>
-msgid "This picture is available in the following formats:"
-msgstr "Ce dessin est disponible aux formats suivants :"
-
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"jpeg <a href=\"/graphics/reiss-head-sm.jpg\">6k</a>, <a href=\"/graphics/"
-"reiss-head.jpg\">21k</a>"
+"JPEG&nbsp; <a href=\"/graphics/reiss-head-sm.jpg\">6kB</a> (125x122),&nbsp; "
+"<a href=\"/graphics/reiss-head.jpg\">22kB</a>&nbsp;(259x253)"
 msgstr ""
-"jpeg <a href=\"/graphics/reiss-head-sm.jpg\">6 ko</a>, <a href=\"/graphics/"
-"reiss-head.jpg\">21 ko</a>"
+"JPEG&nbsp; <a href=\"/graphics/reiss-head-sm.jpg\">6 ko</a> (125x122),&nbsp; "
+"<a href=\"/graphics/reiss-head.jpg\">22 ko</a>&nbsp;(259x253)"
+
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 2000 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2000 Free Software Foundation, Inc."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This image is available under the <a rel=\"license\" href=\"/licenses/gpl."
+"html\">GNU General Public License</a>, version&nbsp;2 or any later version, "
+"or the <a rel=\"license\" href=\"https://directory.fsf.org/wiki/License:Free-"
+"Art-L-v1.3\">Free Art License</a>"
+msgstr ""
+"Cette image est disponible sous la <a rel=\"license\" href=\"/licenses/gpl."
+"html\">licence publique générale GNU</a>, version 2 ou toute version "
+"ultérieure, ou bien la <a rel=\"license\" href=\"http://artlibre.org/"
+"\">licence art libre</a>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The GNU head is, however, also a trademark for the GNU Project.  <strong>If "
+"you want to use the GNU head to link to a website run by the Free Software "
+"Foundation or the GNU project, feel free, or if you're using it in contexts "
+"talking about GNU in a supportive and accurate way, you can also do this "
+"without permission.  For any other requests, please ask &lt;<a href=\"mailto:"
+"licensing@fsf.org\">licensing@fsf.org</a>&gt; for permission first.</strong>"
+msgstr ""
+"Toutefois, la tête de GNU est aussi un logo déposé du projet GNU. <strong>Si "
+"vous voulez vous servir de cette tête de GNU pour mettre en lien un site web "
+"de la <cite>Free Software Foundation</cite> ou du projet GNU, n'hésitez "
+"pas ; de même, vous n'avez pas besoin de permission supplémentaire pour "
+"l'utiliser dans des contextes qui parlent de GNU de manière positive et "
+"exacte. Pour tout autre usage, veuillez au préalable demander la permission "
+"à <a href=\"mailto:licensing@fsf.org\">licensing@fsf.org</a>.</strong>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -107,20 +143,22 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2015, 2018 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2015, 2018 Free Software Foundation, Inc."
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"&ldquo;Color Gnu Head&rdquo; is licensed under the <a rel=\"license\" href="
-"\"//directory.fsf.org/wiki/License:Free-Art-L-v1.3\">Free Art License</a> "
-"and the <a rel=\"license\" href=\"/licenses/gpl-2.0.html\">GNU General "
-"Public License</a> either version 2 or later."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Le dessin « Color Gnu Head » (Tête de GNU en couleur) est publié sous les "
-"termes de la <a rel=\"license\" href=\"//artlibre.org/licence/lal\"> licence "
-"Art libre</a> et de la <a rel=\"license\" href=\"/licenses/gpl-2.0.html\"> "
-"licence publique générale GNU</a>, version 2 ou ultérieure."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
