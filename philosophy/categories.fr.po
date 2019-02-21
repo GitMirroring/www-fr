@@ -4,15 +4,15 @@
 # Frédéric Nakhlé, 1997. http://web.archive.org/web/19971009070944/http://april.org/
 # Katixa Rybalka and Olivier Berger, 2000.
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2008.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2013.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2013, 2019.
 # Félicien Pillot <felicien AT gnu.org>, 2017.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: categories.html\n"
-"POT-Creation-Date: 2018-01-01 05:58+0000\n"
-"PO-Revision-Date: 2018-09-05 18:08+0200\n"
-"Last-Translator: Félicien Pillot <felicien AT gnu.org>\n"
+"POT-Creation-Date: 2019-02-21 01:56+0000\n"
+"PO-Revision-Date: 2019-02-21 12:12+0100\n"
+"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -180,17 +180,21 @@ msgid ""
 "more or less the same category as free software. It is not exactly the same "
 "class of software: they accept some licenses that we consider too "
 "restrictive, and there are free software licenses they have not accepted. "
-"However, the differences in extension of the category are small: nearly all "
-"free software is open source, and nearly all open source software is free."
+"However, the differences in extension of the category are small: we know of "
+"only a few cases of source code that is open source but not free.  In "
+"principle it could happen that some free programs are rejected as open "
+"source, but we don't know if that has ever happened."
 msgstr ""
 "Le terme « open source » (littéralement, à code source ouvert) est utilisé "
 "par certains pour qualifier plus ou moins la même catégorie que le logiciel "
 "libre. Il ne s'agit pas exactement de la même classe de logiciel : ils "
 "acceptent certaines licences que nous considérons comme trop restrictives et "
 "il y a des licences de logiciel libre qu'ils n'ont pas acceptées. Toutefois, "
-"les différences entre les deux catégories sont minimes : pratiquement tous "
-"les logiciels libres sont open source et presque tous les logiciels open "
-"source sont libres."
+"les différences entre les deux catégories sont minimes : nous ne connaissons "
+"que très peu de cas de code source open source mais non libre. En théorie, "
+"il pourrait arriver que certains programmes libres ne répondent pas aux "
+"critères de l'open source, mais nous ne savons pas si cela s'est déjà "
+"produit."
 
 #. type: Content of: <p>
 msgid ""
@@ -899,10 +903,10 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 2001, 2006, 2007, 2009, 2010, 2014, 2015, "
-"2016, 2017, 2018 Free Software Foundation, Inc."
+"2016, 2017, 2018, 2019 Free Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 2001, 2006, 2007, 2009, 2010, 2014, 2015, "
-"2016, 2017, 2018 Free Software Foundation, Inc."
+"2016, 2017, 2018, 2019 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
