@@ -7,85 +7,121 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: fromagnulinux.html\n"
-"POT-Creation-Date: 2014-04-05 00:00+0000\n"
-"PO-Revision-Date: 2018-11-29 21:22+0100\n"
+"POT-Creation-Date: 2019-02-21 19:56+0000\n"
+"PO-Revision-Date: 2019-02-22 16:46+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 "X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
-msgid "Fromagnulinux - GNU Project - Free Software Foundation"
-msgstr "Fromagnulinux - Projet GNU - Free Software Foundation"
+msgid ""
+"Fromagnulinux by Denis Trimaille - GNU Project - Free Software Foundation"
+msgstr ""
+"Fromagnulinux, de Denis Trimaille - Projet GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
-msgid "Fromagnulinux by Denis Trimaille"
-msgstr "Fromagnulinux par Denis Trimaille"
-
-#. type: Content of: <p><a>
-msgid "<a href=\"/graphics/fromagnulinux.tiny.png\">"
-msgstr "<a href=\"/graphics/fromagnulinux.tiny.png\">"
-
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[Fromagnulinux]"
-msgstr " [Fromagnulinux] "
+msgid "Fromagnulinux"
+msgstr "Fromage GNU/Linux"
 
 #. type: Content of: <p>
+msgid "by Denis Trimaille"
+msgstr "de Denis Trimaille"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/fromagnulinux.png\">"
+msgstr "<a href=\"/graphics/fromagnulinux.png\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[Fromagnulinux]&nbsp;"
+msgstr " [Fromage GNU/Linux] "
+
+#. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"Denis used the \"Laughing Cow\" (La vache qui rit) as a starting point for "
-"this artwork.  He decided to create \"The smiling gnu\" (Le gnou qui "
-"sourit). Many people will recognize the origin of this artwork.  It's all "
-"about french cheese in small round boxes. The title of this work comes from "
-"\"From a GNU Linux\" inferred from the french title \"Fromage GNU/Linux"
-"\" (Cheese GNU Linux)."
+"Denis created &ldquo;The smiling gnu&rdquo; <cite>(Le gnou qui sourit)</"
+"cite> on the model of &ldquo;The Laughing Cow&rdquo; <cite>(La vache qui rit)"
+"</cite>.  Many people will recognize the origin of this artwork. It's all "
+"about a French cheese in small round boxes. The English title (From a GNU/"
+"Linux) is phonetically similar to the French title <cite>&ldquo;Fromage GNU/"
+"Linux&rdquo;</cite> (Cheese GNU/Linux)."
 msgstr ""
-"Denis s'est servi de « La vache qui rit » comme point de départ de son "
-"travail. Il a décidé de créer « Le gnou qui sourit ». Beaucoup de gens "
-"reconnaîtront l'origine de ce travail. Il s'agit d'un fromage français dans "
-"de petites boîtes rondes. Le titre de cette œuvre est une contraction de "
-"<cite>From a GNU Linux</cite>, qui dérive du titre français « Fromage GNU/"
-"Linux »."
+"Denis a dessiné « Le gnou qui sourit » sur le modèle de « La vache qui "
+"rit ». Beaucoup de gens reconnaîtront l'origine de ce dessin. Il s'agit d'un "
+"fromage français dans de petites boîtes rondes. Le titre anglais <cite>From "
+"a GNU Linux</cite> est phonétiquement similaire au titre français « Fromage "
+"GNU/Linux »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"Also take a look at Denis his page: <a href=\"http://web.archive.org/"
-"web/20080309004718/http://www.linuxfranch-county.org/artlinux.html\">http://"
-"www.linuxfranch-county.org/artlinux.html#label_fromagnulinux [Archived Page]"
-"</a>"
+"This image is based on <a href=\"/graphics/agnuhead.html\">A GNU Head</a>, "
+"by Etienne Suvasa, and <a href=\"https://commons.wikimedia.org/wiki/File:Tux."
+"png\">Tux</a>, by Larry Ewing."
 msgstr ""
-"Allez aussi visiter la page de Denis : <a href=\"http://web.archive.org/"
-"web/20080309004718/http://www.linuxfranch-county.org/artlinux.html\">http://"
-"www.linuxfranch-county.org/artlinux.html#label_fromagnulinux [page archivée]"
-"</a>"
+"Cette image est basée sur la <a href=\"/graphics/agnuhead.html\">Tête de "
+"GNU</a> d'Etienne Suvasa et <a href=\"https://commons.wikimedia.org/wiki/"
+"File:Tux.png\">Tux</a>, de Larry Ewing."
 
-#. type: Content of: <p>
-msgid "This color picture is available in the following formats:"
-msgstr "Ce dessin en couleur est disponible dans les formats suivants :"
-
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"PNG <a href=\"/graphics/fromagnulinux.tiny.png\">27k (a very tiny and low "
-"quality picture.)</a>, <a href=\"/graphics/fromagnulinux.png\">123k (a good "
-"quality picture.)</a> <a href=\"/graphics/fromagnulinux.big.png\">276k (a "
-"good quality and big picture.)</a>"
+"PNG&nbsp; <a href=\"/graphics/fromagnulinux.tiny.png\">22kB</a> (130x130), "
+"<a href=\"/graphics/fromagnulinux.png\">112kB</a> (354x354), <a href=\"/"
+"graphics/fromagnulinux.big.png\">280kB</a> (1024x1024)"
 msgstr ""
-"PNG  <a href=\"/graphics/fromagnulinux.tiny.png\">22 ko</a> (130x130), <a "
-"href=\"/graphics/fromagnulinux.png\">112 ko</a> (354x354), <a href=\"/"
+"PNG&nbsp; <a href=\"/graphics/fromagnulinux.tiny.png\">22 ko</a> (130x130), "
+"<a href=\"/graphics/fromagnulinux.png\">112 ko</a> (354x354), <a href=\"/"
 "graphics/fromagnulinux.big.png\">280 ko</a> (1024x1024)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
+msgid "XCF&nbsp; <a href=\"/graphics/fromagnulinux.xcf\">677kB</a> (1024x1024)"
+msgstr ""
+"XCF&nbsp; <a href=\"/graphics/fromagnulinux.xcf\">677 ko</a> (1024x1024)"
+
+#. type: Content of: <div><p>
 msgid ""
-"XCF <a href=\"/graphics/fromagnulinux.xcf\">661k (a file in the GIMP's "
-"native format)</a>"
-msgstr "XCF  <a href=\"/graphics/fromagnulinux.xcf\">677 ko</a> (1024x1024)"
+"Also take a look at <a href=\"http://web.archive.org/web/20060719060454/"
+"http://www.linuxfranch-county.org/artlinux.html\"> Denis' web page</a> "
+"[Archived]."
+msgstr ""
+"Allez aussi faire un tour sur le <a href=\"http://web.archive.org/"
+"web/20080309004718/http://www.linuxfranch-county.org/artlinux.html\">site de "
+"Denis</a> [archivé]."
+
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 2004, 2005 Cr&eacute;ations LinuxFranch-County"
+msgstr "Copyright &copy; 2004, 2005 Créations LinuxFranch-County"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This image is available under the <a rel=\"license\" href=\"https://"
+"directory.fsf.org/wiki/License:FAL1.3\">Free Art License</a>."
+msgstr ""
+"Cette page est disponible sous la <a rel=\"license\" href=\"http://artlibre."
+"org/\">licence art libre</a>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The GNU head is, however, also a trademark for the GNU Project.  <strong>If "
+"you want to use the GNU head to link to a website run by the Free Software "
+"Foundation or the GNU project, feel free, or if you're using it in contexts "
+"talking about GNU in a supportive and accurate way, you can also do this "
+"without permission.  For any other requests, please ask &lt;<a href=\"mailto:"
+"licensing@fsf.org\">licensing@fsf.org</a>&gt; for permission first.</strong>"
+msgstr ""
+"Toutefois, la tête de GNU est aussi un logo déposé du projet GNU. <strong>Si "
+"vous voulez vous servir de cette tête de GNU pour mettre en lien un site web "
+"de la <cite>Free Software Foundation</cite> ou du projet GNU, n'hésitez "
+"pas ; de même, vous n'avez pas besoin de permission supplémentaire pour "
+"l'utiliser dans des contextes qui parlent de GNU de manière positive et "
+"exacte. Pour tout autre usage, veuillez au préalable demander la permission "
+"à <a href=\"mailto:licensing@fsf.org\">licensing@fsf.org</a>.</strong>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -133,19 +169,22 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution de paternité, pas de modification, 3.0 États-"
-"Unis (CC BY-ND 3.0 US)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

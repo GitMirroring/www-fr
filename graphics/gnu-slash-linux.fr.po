@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-slash-linux.html\n"
-"POT-Creation-Date: 2015-11-28 23:55+0000\n"
-"PO-Revision-Date: 2018-11-29 21:22+0100\n"
+"POT-Creation-Date: 2019-02-22 07:57+0000\n"
+"PO-Revision-Date: 2019-02-22 16:46+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -19,122 +19,111 @@ msgstr ""
 "X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
-msgid "GNU/Linux art - GNU Project - Free Software Foundation"
-msgstr "Art GNU/Linux - Projet GNU - Free Software Foundation"
+msgid "GNU/Linux Art by Rui Damas - GNU Project - Free Software Foundation"
+msgstr "Art GNU/Linux de Rui Damas - Projet GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
-msgid "GNU/Linux art by Rui Damas"
-msgstr "Art GNU/Linux par Rui Damas"
+msgid "GNU/Linux Art"
+msgstr "Art GNU/Linux"
 
-#. type: Content of: <p><a>
+#. type: Content of: <p>
+msgid "by Rui Damas"
+msgstr "de Rui Damas"
+
+#. type: Content of: <div><div><a>
 msgid "<a href=\"/graphics/gnu-linux-on-black.png\">"
 msgstr "<a href=\"/graphics/gnu-linux-on-black.png\">"
 
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[GNU/Linux on black]"
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[GNU/Linux on black]&nbsp;"
 msgstr " [GNU/Linux sur fond noir] "
 
-#. type: Content of: <p>
+#. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <p>
-msgid "The following art in PNG format is available in different sizes:"
-msgstr "Ce dessin au format PNG est disponible en différentes versions :"
-
-#. type: Content of: <ul><li>
+#. type: Content of: <div><p>
 msgid ""
-"<a href=\"/graphics/small-gnu-linux-on-black.png\"> 5k (a small gnu-linux-on-"
-"black.)</a>"
+"The outlines of a big gnu and a small penguin that are looking at each "
+"other, with the text &ldquo;GNU/Linux.&rdquo;"
 msgstr ""
-"petite taille sur fond noir : <a href=\"/graphics/small-gnu-linux-on-black."
-"png\">2,4 ko</a> (140x90)"
+"Les silhouettes d'un grand gnou et d'un petit manchot qui se regardent, avec "
+"le texte « GNU/Linux »"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><blockquote><p>
 msgid ""
-"<a href=\"/graphics/small-gnu-linux-on-white.png\"> 5.1k (a small gnu-linux-"
-"on-white.)</a>"
+"<em>These images were based on an image which I downloaded from the net "
+"years ago. I like very much this image, but don't remember where it comes "
+"from, and have no way of knowing about its licence.</em> -- Rui Damas"
 msgstr ""
-"petite taille sur fond blanc : <a href=\"/graphics/small-gnu-linux-on-white."
-"png\">2,6 ko</a> (140x90)"
+"<em>Ces images sont basées sur une image que j'ai téléchargée sur le net il "
+"y a des années. Je l'aime beaucoup mais ne me rappelle plus d'où elle vient "
+"et n'ai aucun moyen de trouver sa licence.</em> -- Rui Damas"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/graphics/gnu-linux-on-black.png\"> 13.3k (a medium sized gnu-"
-"linux-on-black.)</a>"
+"GNU/Linux on black: PNG&nbsp; <a href=\"/graphics/small-gnu-linux-on-black."
+"png\">2.4kB</a> (140x90),&nbsp; <a href=\"/graphics/gnu-linux-on-black.png"
+"\">5.9kB</a>&nbsp;(300x192)"
 msgstr ""
-"taille moyenne sur fond noir : <a href=\"/graphics/gnu-linux-on-black.png"
-"\">5,9 ko</a> (300x192)"
+"GNU/Linux sur fond noir : PNG&nbsp; <a href=\"/graphics/small-gnu-linux-on-"
+"black.png\">2,4 ko</a> (140x90),&nbsp; <a href=\"/graphics/gnu-linux-on-"
+"black.png\">5,9 ko</a>&nbsp;(300x192)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/graphics/gnu-linux-on-white.png\"> 13.3k (a medium sized gnu-"
-"linux-on-white.)</a>"
+"GNU/Linux on white: PNG&nbsp; <a href=\"/graphics/small-gnu-linux-on-white."
+"png\">2.6kB</a> (140x90),&nbsp; <a href=\"/graphics/gnu-linux-on-white.png"
+"\">6.2kB</a>&nbsp;(300x192)"
 msgstr ""
-"taille moyenne sur fond blanc : <a href=\"/graphics/gnu-linux-on-white.png"
-"\">6,2 ko</a> (300x192)"
+"GNU/Linux sur fond blanc : PNG&nbsp; <a href=\"/graphics/small-gnu-linux-on-"
+"white.png\">2,6 ko</a> (140x90),&nbsp; <a href=\"/graphics/gnu-linux-on-"
+"white.png\">6,2 ko</a>&nbsp;(300x192)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/graphics/gnu-linux-black-wallpaper.png\"> (a gnu-linux-black-"
-"wallpaper.)</a>"
+"GNU/Linux black wallpaper: PNG&nbsp; <a href=\"/graphics/gnu-linux-black-"
+"wallpaper.png\">402kB</a> (1600x1200)"
 msgstr ""
-"fond d'écran sur fond noir : <a href=\"/graphics/gnu-linux-black-wallpaper."
-"png\">403 ko</a> (1600x1200)"
+"Fond d'écran GNU/Linux noir : PNG&nbsp; <a href=\"/graphics/gnu-linux-black-"
+"wallpaper.png\">402 ko</a> (1600x1200)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/graphics/gnu-linux-white-wallpaper.png\"> (a gnu-linux-white-"
-"wallpaper.)</a>"
+"GNU/Linux white wallpaper: PNG&nbsp; <a href=\"/graphics/gnu-linux-white-"
+"wallpaper.png\">553kB</a> (1600x1200)"
 msgstr ""
-"fond d'écran sur fond blanc : <a href=\"/graphics/gnu-linux-white-wallpaper."
-"png\">553 ko</a> (1600x1200)"
+"Fond d'écran GNU/Linux blanc : PNG&nbsp; <a href=\"/graphics/gnu-linux-white-"
+"wallpaper.png\">553 ko</a> (1600x1200)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/graphics/gnu-linux-color-wallpaper.png\"> (a gnu-linux-color-"
-"wallpaper.)</a>"
+"GNU/Linux color wallpaper: PNG&nbsp; <a href=\"/graphics/gnu-linux-color-"
+"wallpaper.png\">667kB</a> (1600x1200)"
 msgstr ""
-"fond d'écran en couleur : <a href=\"/graphics/gnu-linux-color-wallpaper.png"
-"\">667 ko</a> (1600x1200)"
+"Fond d'écran GNU/Linux en couleur : PNG&nbsp; <a href=\"/graphics/gnu-linux-"
+"color-wallpaper.png\">667 ko</a> (1600x1200)"
 
-#. type: Content of: <p>
-msgid "The images linked to from this page are:"
-msgstr "Les images en lien sur cette page sont sous :"
-
-#. type: Content of: <p>
-msgid "Copyright (C) 2005, 2006 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2005, 2006 Free Software Foundation, Inc."
-
-#. type: Content of: <p>
+#. type: Content of: <div><ul><li>
 msgid ""
-"Permission is granted to copy, distribute and/or modify this image under the "
-"terms of:"
+"SVG on <a href=\"https://en.m.wikipedia.org/wiki/File:Gnu_linux.svg"
+"\">Wikimedia Commons</a>"
 msgstr ""
-"Il est permis de copier, distribuer ou modifier ces images sous les termes "
-"de :"
+"SVG sur <a href=\"https://en.m.wikipedia.org/wiki/File:Gnu_linux.svg"
+"\">Wikimedia Commons</a>"
 
-#. type: Content of: <ul><li>
-msgid ""
-"the <a href=\"/copyleft/gpl.html\">GNU General Public License</a> as "
-"published by the Free Software Foundation; either version 2 of the License, "
-"or (at your option) any later version, or"
-msgstr ""
-"la <a href=\"/copyleft/gpl.html\">licence publique générale GNU</a> telle "
-"que publiée par la <i>Free Software Foundation</i> ; soit la version 2 de la "
-"licence, soit (à votre convenance) toute version ultérieure."
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 2006 Rui Damas"
+msgstr "Copyright &copy; 2006 Rui Damas"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"These images are distributed in the hope that it will be useful, but WITHOUT "
-"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
-"FITNESS FOR A PARTICULAR PURPOSE.  See the <a href=\"/copyleft/gpl.html"
-"\">GNU General Public License</a> for more details."
+"These images are available under the <a rel=\"license\" href=\"/licenses/gpl."
+"html\">GNU General Public License</a>, version&nbsp;2 or any later version."
 msgstr ""
-"Ces images sont distribuées dans l'espoir qu'elles vous seront utiles, mais "
-"SANS GARANTIE ; sans même la garantie tacite de QUALITÉ MARCHANDE ou "
-"D'ADÉQUATION À UN BUT PARTICULIER. Voir la <a href=\"/copyleft/gpl.html"
-"\">GNU General Public License</a> pour plus de détails."
+"Ces images sont disponibles sous la <a rel=\"license\" href=\"/licenses/gpl."
+"html\">licence publique générale GNU</a>, version 2 ou toute version "
+"ultérieure."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -183,18 +172,21 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2005, 2006, 2007, 2014, 2015 Free Software Foundation, Inc."
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
 msgstr ""
-"Copyright &copy; 2005, 2006, 2007, 2014, 2015 Free Software Foundation, Inc."
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"The GNU/Linux artwork in this page is licensed under the <a href=\"/copyleft/"
-"gpl.html\">GNU General Public License version 2 or later</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Les illustrations GNU/Linux de cette page sont sont disponibles sous les "
-"conditions de la <a href=\"/copyleft/gpl.html\">licence publique générale "
-"GNU, version 2 ou ultérieure</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

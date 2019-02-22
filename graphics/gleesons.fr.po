@@ -7,13 +7,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gleesons.html\n"
-"POT-Creation-Date: 2014-04-05 00:00+0000\n"
-"PO-Revision-Date: 2018-11-29 21:22+0100\n"
+"POT-Creation-Date: 2019-02-21 19:56+0000\n"
+"PO-Revision-Date: 2019-02-22 16:46+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 "X-Generator: Gtranslator 2.91.5\n"
@@ -23,67 +23,104 @@ msgid "Gleeson's GNU Art - GNU Project - Free Software Foundation"
 msgstr "Art GNU de Gleeson - Projet GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
-msgid "Gleeson's GNU Art"
-msgstr "Art GNU de Gleeson"
+msgid "GNU Art"
+msgstr "Art GNU"
 
-#. type: Content of: <p><a>
+#. type: Content of: <p>
+msgid "by Brendon Gleeson"
+msgstr "de Brendon Gleeson"
+
+#. type: Content of: <div><p>
+msgid ""
+"You may prefer to use the <a href=\"/graphics/heckert_gnu.html\">Bold GNU "
+"Head</a>, which is the version now used by the Free Software Foundation on "
+"any new GNU-emblem items and stickers."
+msgstr ""
+"Vous souhaiterez peut-être utiliser la <a href=\"/graphics/heckert_gnu.html"
+"\">tête de GNU contrastée</a>. C'est la version utilisée actuellement par la "
+"Free Software Foundation sur tous les nouveaux objets portant l'emblème de "
+"GNU, ainsi que sur les autocollants."
+
+#. type: Content of: <div><p>
+msgid ""
+"This image is inspired from <a href=\"/graphics/agnuhead.html\">A GNU Head</"
+"a> but is in color. Two variants are also offered, perhaps for linking to "
+"the GNU project."
+msgstr ""
+"Ce dessin est inspiré de la <a href=\"/graphics/agnuhead.html\">Tête de GNU</"
+"a>, avec la couleur en plus. Deux variantes en sont proposées, peut-être "
+"utilisables pour mettre en lien le projet GNU."
+
+#. type: Content of: <div><div><a>
 msgid "<a href=\"/graphics/gleeson_head.jpg\">"
 msgstr "<a href=\"/graphics/gleeson_head.jpg\">"
 
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[colorful rounded image of the Head of a GNU]"
-msgstr " [Image colorée d'une tête de GNU] "
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[colorful rounded image of the Head of a GNU]&nbsp;"
+msgstr " [Image colorée d'une tête de GNU avec impression de relief] "
 
-#. type: Content of: <p>
+#. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dt>
+msgid "Simple head"
+msgstr "Tête isolée"
+
+#. type: Content of: <div><dl><dd><p>
 msgid ""
-"This art is similar to the <a href=\"/graphics/agnuhead.html\">GNU Head</a> "
-"but is in colour and is offered in a few variations, perhaps for use to link "
-"to the GNU project?"
+"It was used until 2007 to help identify pages in the <a href=\"/fun/humor."
+"html\">GNU Humor</a> section. This is also the logo of GNU TeXmacs."
 msgstr ""
-"Ce dessin est similaire à la <a href=\"/graphics/agnuhead.html\">tête de "
-"GNU</a>, mais en couleur. Quelques variations en sont proposées, peut-être "
-"utilisables pour mettre en lien le projet GNU."
+"Elle a servi jusqu'en 2007 à identifier les pages de la section <a href=\"/"
+"fun/humor.html\">Rions avec le GNU</a>. c'est aussi le logo de GNU TeXmacs."
 
-#. type: Content of: <p>
-msgid "We thank Brendon Gleeson for these images."
-msgstr "Nous remercions Brendon Gleeson pour ces dessins."
+#. type: Content of: <div><dl><dd><ul><li>
+msgid "JPEG&nbsp; <a href=\"/graphics/gleeson_head.jpg\">6kB</a> (153x128)"
+msgstr "JPEG&nbsp; <a href=\"/graphics/gleeson_head.jpg\">6 ko</a> (153x128)"
 
-#. type: Content of: <p>
-msgid "This artwork available in the following versions:"
-msgstr "Ils sont disponibles dans les versions suivantes :"
+#. type: Content of: <div><dl><dt>
+msgid "Gnu saying &ldquo;Gnu's Not Unix&rdquo;"
+msgstr "Gnu disant « Gnu's Not Unix »"
 
-#. type: Content of: <ul><li>
-msgid "jpeg <a href=\"/graphics/gleeson_head.jpg\">simple head (6k)</a>"
-msgstr ""
-"Sans texte : JPEG <a href=\"/graphics/gleeson_head.jpg\">6 ko</a> (153x128)"
+#. type: Content of: <div><dl><dd><ul><li>
+msgid "JPEG&nbsp; <a href=\"/graphics/gnu_not_unix.jpg\">17kB</a> (342x186)"
+msgstr "JPEG&nbsp; <a href=\"/graphics/gnu_not_unix.jpg\">17 ko</a> (342x186)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><dl><dt>
+msgid "GNU &mdash; Free Software Foundation"
+msgstr "GNU – Free Software Foundation"
+
+#. type: Content of: <div><dl><dd><ul><li>
+msgid "JPEG&nbsp; <a href=\"/graphics/gleeson_logo.jpg\">12kB</a> (371x120)"
+msgstr "JPEG&nbsp; <a href=\"/graphics/gleeson_logo.jpg\">12 ko</a> (371x120)"
+
+#. type: Content of: <div><div><p>
 msgid ""
-"This version is used to help identify the pages on this server that deal "
-"with <a href=\"/fun/humor.html\">GNU Humor</a>."
+"These images are available under the <a rel=\"license\" href=\"https://"
+"creativecommons.org/publicdomain/zero/1.0/\">Creative Commons Zero 1.0 "
+"Universal License</a>."
 msgstr ""
-"Cette version était utilisée avant 2007 pour identifier les pages de la "
-"section <a href=\"/fun/humor.html\">Rions avec le GNU</a>."
+"Ces images sont disponibles sous la licence <a rel=\"license\" href="
+"\"https://creativecommons.org/publicdomain/zero/1.0/deed.fr\">CC0 1.0 "
+"universelle</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><p>
 msgid ""
-"jpeg <a href=\"/graphics/gnu_not_unix.jpg\">gnu saying ``Gnu's Not "
-"Unix'' (16k)</a>"
+"The GNU head is, however, also a trademark for the GNU Project.  <strong>If "
+"you want to use the GNU head to link to a website run by the Free Software "
+"Foundation or the GNU project, feel free, or if you're using it in contexts "
+"talking about GNU in a supportive and accurate way, you can also do this "
+"without permission.  For any other requests, please ask &lt;<a href=\"mailto:"
+"licensing@fsf.org\">licensing@fsf.org</a>&gt; for permission first.</strong>"
 msgstr ""
-"Avec bulle « Gnu's Not Unix » : JPEG <a href=\"/graphics/gnu_not_unix.jpg"
-"\">17 ko</a> (342x186)"
-
-#. type: Content of: <ul><li>
-msgid ""
-"jpeg <a href=\"/graphics/gleeson_logo.jpg\">GNU - Free Software Foundation "
-"(12k)</a>"
-msgstr ""
-"Avec « GNU - Free Software Foundation » : JPEG <a href=\"/graphics/"
-"gleeson_logo.jpg\">12 ko</a> (371x120)"
+"Toutefois, la tête de GNU est aussi un logo déposé du projet GNU. <strong>Si "
+"vous voulez vous servir de cette tête de GNU pour mettre en lien un site web "
+"de la <cite>Free Software Foundation</cite> ou du projet GNU, n'hésitez "
+"pas ; de même, vous n'avez pas besoin de permission supplémentaire pour "
+"l'utiliser dans des contextes qui parlent de GNU de manière positive et "
+"exacte. Pour tout autre usage, veuillez au préalable demander la permission "
+"à <a href=\"mailto:licensing@fsf.org\">licensing@fsf.org</a>.</strong>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -131,19 +168,22 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution de paternité, pas de modification, 3.0 États-"
-"Unis (CC BY-ND 3.0 US)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

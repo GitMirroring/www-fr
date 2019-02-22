@@ -2,13 +2,13 @@
 # Copyright (C) 2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2009.
-# Thérèse Godefroy <godef.th AT free.fr>, 2011, 2012, 2013, 2017.
+# Thérèse Godefroy <godef.th AT free.fr>, 2011, 2012, 2013, 2017, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: javascript-trap.html\n"
-"POT-Creation-Date: 2018-05-05 21:26+0000\n"
-"PO-Revision-Date: 2018-09-06 21:45+0200\n"
+"POT-Creation-Date: 2019-02-22 09:56+0000\n"
+"PO-Revision-Date: 2019-02-22 16:46+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -307,34 +307,69 @@ msgstr ""
 "résultats, plutôt que de déterminer la seule réponse correcte."
 
 #. type: Content of: <p>
-msgid "Our tentative policy is to consider a JavaScript program nontrivial if:"
+msgid ""
+"Our current criterion is to consider a JavaScript program nontrivial if any "
+"of these conditions is met:"
 msgstr ""
-"À titre d'essai, nous considérons un programme JavaScript comme non trivial "
-"si"
+"Actuellement, nous considérons un programme JavaScript comme non trivial "
+"s'il répond à l'une des conditions suivantes :"
+
+#. type: Content of: <ul><li>
+msgid "it is referred to as an external script (from another page)."
+msgstr "il est appelé en tant que script externe (à partir d'une autre page) ;"
+
+#. type: Content of: <ul><li>
+msgid "it declares an array more than 50 elements long."
+msgstr "il déclare un tableau contenant plus de 50 éléments ;"
 
 #. type: Content of: <ul><li>
 msgid ""
-"it makes an AJAX request or is loaded along with scripts that make an AJAX "
-"request,"
+"it defines a named entity (function or method) that calls anything other "
+"than a primitive."
 msgstr ""
-"il fait une requête Ajax ou est chargé en même temps que des scripts qui "
-"font des requêtes Ajax,"
+"il définit une entité nommée (fonction ou méthode) qui appelle autre chose "
+"qu'une primitive ;"
 
 #. type: Content of: <ul><li>
 msgid ""
-"it loads external scripts dynamically or is loaded along with scripts that "
-"do,"
+"it defines a named entity with more than three conditional constructs and "
+"loop construction."
 msgstr ""
-"il charge des scripts externes de manière dynamique, ou bien est chargé en "
-"même temps que des scripts qui le font,"
+"il définit une entité nommée comprenant plus de trois éléments de "
+"construction conditionnels et une construction en boucle ;"
 
 #. type: Content of: <ul><li>
 msgid ""
-"it defines functions or methods and either loads an external script (from "
-"html) or is loaded as one,"
+"code outside of named definitions calls anything but primitives and "
+"functions defined further up in the page."
 msgstr ""
-"il définit des fonctions ou des méthodes et charge un script externe (à "
-"partir de l'HTML) ou bien est chargé comme tel,"
+"le code n'appartenant pas que définitions nommées appelle autre chose que "
+"des primitives et des fonctions définites pour haut dans la page ;"
+
+#. type: Content of: <ul><li>
+msgid ""
+"code outside of named definitions contains more than three conditional "
+"constructs and loop construction, total."
+msgstr ""
+"le code n'appartenant pas aux définitions nommées comprend, au total, plus "
+"de trois éléments de construction conditionnels et une construction en "
+"boucle ;"
+
+#. type: Content of: <ul><li>
+msgid "it calls <b>eval</b>."
+msgstr "il fait appel à <b>eval</b> ;"
+
+#. type: Content of: <ul><li>
+msgid "it does Ajax calls."
+msgstr "il fait des requêtes Ajax ;"
+
+#. type: Content of: <ul><li>
+msgid "it does <b>[&hellip;]</b> calls."
+msgstr "il fait des appels <b>[&hellip;]</b> ;"
+
+#. type: Content of: <ul><li>
+msgid "it alters the DOM."
+msgstr "il modifie le <abbr title=\"Document Object Model\">DOM</abbr> ;"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -344,12 +379,8 @@ msgid ""
 msgstr ""
 "il utilise des constructions dynamiques JavaScript qui sont difficiles à "
 "analyser sans interpréter le programme, ou bien il est chargé en même temps "
-"que des scripts qui utilisent de telles constructions. Ces constructions "
+"que des scripts qui utilisent de telles constructions ; ces constructions "
 "sont :"
-
-#. type: Content of: <ul><li><ul><li>
-msgid "using the eval function,"
-msgstr "l'utilisation de la fonction eval,"
 
 #. type: Content of: <ul><li><ul><li>
 msgid "calling methods with the square bracket notation,"
@@ -513,8 +544,8 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2009-2013, 2016, 2017, 2018 Richard Stallman"
-msgstr "Copyright &copy; 2009-2013, 2016, 2017, 2018 Richard Stallman"
+msgid "Copyright &copy; 2009-2013, 2016, 2017, 2018, 2019 Richard Stallman"
+msgstr "Copyright &copy; 2009-2013, 2016, 2017, 2018, 2019 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
