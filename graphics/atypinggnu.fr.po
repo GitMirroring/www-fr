@@ -2,102 +2,110 @@
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2007, 2008.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: atypinggnu.html\n"
-"POT-Creation-Date: 2014-04-04 23:59+0000\n"
-"PO-Revision-Date: 2018-11-29 21:22+0100\n"
+"POT-Creation-Date: 2019-02-22 20:26+0000\n"
+"PO-Revision-Date: 2019-02-23 20:39+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  \n"
 
 #. type: Content of: <title>
-msgid "A Typing GNU Hacker - GNU Project - Free Software Foundation"
-msgstr "Un hacker GNU sur son clavier - Projet GNU - Free Software Foundation"
+msgid ""
+"A Typing GNU Hacker by Jamal Hannah - GNU Project - Free Software Foundation"
+msgstr ""
+"Un hacker GNU sur son clavier, de Jamal Hannah - Projet GNU - Free Software "
+"Foundation"
 
 #. type: Content of: <h2>
 msgid "A Typing GNU Hacker"
 msgstr "Un hacker GNU sur son clavier"
 
-#. type: Content of: <p><a>
-msgid "<a href=\"/graphics/gnu-type-sm.jpg\">"
-msgstr "<a href=\"/graphics/gnu-type-sm.jpg\">"
-
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[image of a Typing GNU Hacker]"
-msgstr " [Un hacker GNU sur son clavier] "
-
 #. type: Content of: <p>
+msgid "by Jamal Hannah"
+msgstr "de Jamal Hannah"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/gnu-type.jpg\">"
+msgstr "<a href=\"/graphics/gnu-type.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[Typing GNU Hacker]&nbsp;"
+msgstr " [Hacker GNU sur son clavier] "
+
+#. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This GNU hunches over a microcomputer, no doubt running free software! The "
-"GNU is enclosed in an arch, with \"GNU's Not Unix\" written above, and "
-"\"Free Software Foundation\" below it."
+"GNU is enclosed in an arch, with &ldquo;GNU's Not Unix&rdquo; written above, "
+"and &ldquo;Free Software Foundation&rdquo; below it."
 msgstr ""
 "Ce GNU penché sur un ordinateur utilise sans aucun doute des logiciels "
 "libres ! Il est sous une arche, avec « GNU's Not Unix » écrit au-dessus et "
 "« Free Software Foundation » au-dessous."
 
-#. type: Content of: <p>
-msgid "We thank Jamal Hannah for drawing this Typing GNU Hacker."
-msgstr "Nous remercions Jamal Hannah pour ce dessin."
-
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"It was used on the front of an earlier <a href=\"/order/t-shirts.html\">GNU "
-"T-shirt</a> sold by the FSF."
+"This image was used on the front of an earlier <a href=\"https://shop.fsf."
+"org/collection/gnu-gear\">GNU t-shirt</a> sold by the FSF, and as a marker "
+"for pages that list people who are helping or have helped the GNU Project; "
+"for example the <a href=\"/people/people.html\">GNU's Who</a> (the People of "
+"the GNU Project), and the <a href=\"/people/webmeisters.html\">GNU "
+"Webmasters</a>."
 msgstr ""
-"Il a été utilisé sur le devant d'un <a href=\"/order/t-shirts.html\">T-shirt "
-"GNU</a> vendu par la FSF."
+"Ce dessin ornait le devant d'un ancien <a href=\"https://shop.fsf.org/"
+"collection/gnu-gear\">t-shirt GNU</a> vendu par la FSF et servait à indiquer "
+"les pages citant des personnes qui aident le projet GNU, par exemple le <a "
+"href=\"/people/people.html\">GNU's Who</a> (les participants du projet GNU) "
+"et la liste des <a href=\"/people/webmeisters.html\">webmestres GNU</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><ul><li>
 msgid ""
-"It is used on this web site to indicate pages that list people who are "
-"helping or have helped the GNU Project, including these pages:"
+"JPEG&nbsp; <a href=\"/graphics/gnu-type-sm.jpg\">6kB</a>&nbsp;(137x114),"
+"&nbsp; <a href=\"/graphics/gnu-type.jpg\">18kB</a>&nbsp;(293x243)"
 msgstr ""
-"Il servait également, avant 2007, à identifier les pages du site "
-"répertoriant les personnes qui aident ou ont aidé le projet GNU; en "
-"particulier :"
+"JPEG&nbsp; <a href=\"/graphics/gnu-type-sm.jpg\">6 ko</a>&nbsp;(137x114),"
+"&nbsp; <a href=\"/graphics/gnu-type.jpg\">18 ko</a>&nbsp;(293x243)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/people/people.html\">GNU's Who</a> - the People of the GNU Project"
+"PNG&nbsp; <a href=\"/graphics/gnu-type-sm.png\">2kB</a>&nbsp;(137x114),"
+"&nbsp; <a href=\"/graphics/gnu-type.png\">4kB</a>&nbsp;(293x243)"
 msgstr ""
-"<a href=\"/people/people.html\">GNU's Who</a> : les participants du projet "
-"GNU"
+"PNG&nbsp; <a href=\"/graphics/gnu-type-sm.png\">2 ko</a>&nbsp;(137x114),"
+"&nbsp; <a href=\"/graphics/gnu-type.png\">4 ko</a>&nbsp;(293x243)"
 
-#. type: Content of: <ul><li>
-msgid "<a href=\"/people/webmeisters.html\">The GNU Webmasters</a>"
-msgstr "<a href=\"/people/webmeisters.html\">Les webmestres de GNU</a>"
-
-#. type: Content of: <p>
-msgid "This picture is available in the following formats:"
-msgstr "Ce dessin est disponible aux formats suivants :"
-
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"jpeg <a href=\"/graphics/gnu-type-sm.jpg\">7k</a>, <a href=\"/graphics/gnu-"
-"type.jpg\">19k</a>"
+"SVG&nbsp; <a href=\"/graphics/gnu-type3.svg\">45kB</a>, vectorized by Maciek "
+"Kaliszewski"
 msgstr ""
-"JPEG  <a href=\"/graphics/gnu-type-sm.jpg\">6 ko</a> (137x114),  <a href=\"/"
-"graphics/gnu-type.jpg\">18 ko</a> (293x243)"
+"SVG&nbsp; <a href=\"/graphics/gnu-type3.svg\">45 ko</a>, vectorisé par "
+"Maciek Kaliszewski"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 1998 Jamal Hannah"
+msgstr "Copyright &copy; 1998 Jamal Hannah"
+
+#. type: Content of: <div><div><p>
 msgid ""
-"png <a href=\"/graphics/gnu-type-sm.png\">2k</a>, <a href=\"/graphics/gnu-"
-"type.png\">5k</a>"
+"This image is available under the <a rel=\"license\" href=\"https://"
+"creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-"
+"ShareAlike 4.0 International License</a>."
 msgstr ""
-"PNG  <a href=\"/graphics/gnu-type-sm.png\">2 ko</a> (137x114),  <a href=\"/"
-"graphics/gnu-type.png\">4 ko</a> (293x243)"
+"Cette image est disponible sous la licence <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-sa/4.0/deed.fr\">Creative Commons "
+"attribution, partage dans les mêmes conditions, 4.0 internationale</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -145,19 +153,22 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2007, 2013, 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2007, 2013, 2014 Free Software Foundation, Inc."
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution de paternité, pas de modification, 3.0 États-"
-"Unis (CC BY-ND 3.0 US)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

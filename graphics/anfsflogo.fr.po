@@ -2,96 +2,116 @@
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2007, 2008.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: anfsflogo.html\n"
-"POT-Creation-Date: 2014-04-04 23:59+0000\n"
-"PO-Revision-Date: 2018-11-29 21:22+0100\n"
+"POT-Creation-Date: 2019-02-23 19:56+0000\n"
+"PO-Revision-Date: 2019-02-23 21:07+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  \n"
 
 #. type: Content of: <title>
-msgid "An FSF Logo - GNU Project - Free Software Foundation"
-msgstr "Logos pour la FSF - Projet GNU - Free Software Foundation"
+msgid "FSF Logos by Shawn Ewald - GNU Project - Free Software Foundation"
+msgstr ""
+"Logos pour la FSF, de Shawn Ewald - Projet GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
-msgid "An FSF Logo"
+msgid "FSF Logos"
 msgstr "Logos pour la FSF"
 
-#. type: Content of: <p><a>
+#. type: Content of: <p>
+msgid "by Shawn Ewald"
+msgstr "de Shawn Ewald"
+
+#. type: Content of: <div><div><div><a>
 msgid "<a href=\"/graphics/fsf-bk.jpg\">"
 msgstr "<a href=\"/graphics/fsf-bk.jpg\">"
 
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[image of an FSF Logo on black]"
+#. type: Attribute 'alt' of: <div><div><div><a><img>
+msgid "&nbsp;[FSF Logo on black]&nbsp;"
 msgstr " [Logo de la FSF sur fond noir] "
 
-#. type: Content of: <p><a>
-msgid "</a> <a href=\"/graphics/fsf-wh.jpg\">"
-msgstr "</a> <a href=\"/graphics/fsf-wh.jpg\">"
-
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[image of an FSF Logo on white]"
-msgstr " [Logo de la FSF sur fond blanc] "
-
-#. type: Content of: <p>
+#. type: Content of: <div><div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><div><a>
+msgid "<a href=\"/graphics/fsf-wh.jpg\">"
+msgstr "<a href=\"/graphics/fsf-wh.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><div><a><img>
+msgid "&nbsp;[FSF Logo on white]&nbsp;"
+msgstr " [Logo de la FSF sur fond blanc] "
+
+#. type: Content of: <div><p>
 msgid ""
-"Two similar, rectangular, unofficial logos for the Free Software "
-"Foundation.  <em>FSF</em> is written in red, block-style lettering, with a "
-"string of 0's and 1's in the background."
+"Two similar, rectangular, unofficial logos for the Free Software Foundation. "
+"<em>FSF</em> is written in red, block-style lettering, with a string of 0's "
+"and 1's in the background."
 msgstr ""
 "Deux logos similaires, non officiels, pour la <cite>Free Software "
 "Foundation</cite>. « FSF » est écrit en capitales d'imprimerie rouges sur "
 "fond rectangulaire noir ou blanc, avec une chaîne de 0 et de 1 en arrière-"
 "plan."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"We thank Shawn Ewald <a href=\"mailto:ewald@ctaz.net\">&lt;ewald@ctaz.net&gt;"
-"</a> for designing these FSF logos."
+"Shawn prefers the one with the black background, so this is the one we chose "
+"for the <a href=\"https://web.archive.org/web/19980126185419/http://www.gnu."
+"org/fsf/fsf.html\"> original FSF page</a> (which became the <a href="
+"\"https://www.fsf.org\">FSF website</a>)."
 msgstr ""
-"Nous remercions Shawn Ewald <a href=\"mailto:ewald@ctaz.net\">&lt;ewald@ctaz."
-"net&gt;</a> d'avoir dessiné ces logos."
+"Shawn préfère celui qui a un fond noir, c'est donc lui que nous avions "
+"choisi pour <a href=\"https://web.archive.org/web/19980126185419/http://www."
+"gnu.org/fsf/fsf.html\">l'ancienne page de la FSF</a> (qui est devenue le <a "
+"href=\"https://www.fsf.org\">site de la FSF</a>)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><ul><li>
 msgid ""
-"He prefers the one with the black background, so we used to use that on the "
-"<a href=\"/fsf/fsf.html\">FSF</a> page."
+"<em>Black background</em>&nbsp; (152x63):&nbsp; JPEG&nbsp;<a href=\"/"
+"graphics/fsf-bk.jpg\">7kB</a>,&nbsp; PNG&nbsp;<a href=\"/graphics/fsf-bk.png"
+"\">0.5kB</a>"
 msgstr ""
-"Il préfère celui qui a un fond noir, c'est donc lui que nous avions choisi "
-"pour l'ancienne page de la <a href=\"/fsf/fsf.html\">FSF</a>."
+"<em>Fond noir</em>&nbsp; (152x63):&nbsp; JPEG&nbsp;<a href=\"/graphics/fsf-"
+"bk.jpg\">7 ko</a>,&nbsp; PNG&nbsp;<a href=\"/graphics/fsf-bk.png\">0,5 ko</a>"
 
-#. type: Content of: <p>
-msgid "This picture is available in the following formats:"
-msgstr "Ces logos sont disponibles aux formats suivants :"
-
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"jpeg <a href=\"/graphics/fsf-bk.jpg\">8k (black background)</a>, <a href=\"/"
-"graphics/fsf-wh.jpg\">6k (white background)</a>"
+"<em>White background</em>&nbsp; (150x61):&nbsp; JPEG&nbsp;<a href=\"/"
+"graphics/fsf-wh.jpg\">5kB</a>,&nbsp; PNG&nbsp;<a href=\"/graphics/fsf-wh.png"
+"\">1kB</a>"
 msgstr ""
-"JPEG – fond noir  <a href=\"/graphics/fsf-bk.jpg\">7 ko</a> (fond noir – "
-"152x63),<br /> JPEG – fond blanc  <a href=\"/graphics/fsf-wh.jpg\">5 ko</a> "
-"(fond blanc – 150x61)"
+"<em>Fond blanc</em>&nbsp; (150x61):&nbsp; JPEG&nbsp;<a href=\"/graphics/fsf-"
+"wh.jpg\">5 ko</a>,&nbsp; PNG&nbsp;<a href=\"/graphics/fsf-wh.png\">1 ko</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><p>
 msgid ""
-"png <a href=\"/graphics/fsf-bk.png\">1k (black background)</a>, <a href=\"/"
-"graphics/fsf-wh.png\">1k (white background)</a>"
+"This image is available under the <a rel=\"license\" href=\"https://"
+"creativecommons.org/publicdomain/zero/1.0/\">Creative Commons Zero 1.0 "
+"Universal License</a>."
 msgstr ""
-"PNG – fond noir  <a href=\"/graphics/fsf-bk.png\">0,5 ko (152x63)</a>,<br /> "
-"PNG – fond blanc  <a href=\"/graphics/fsf-wh.png\">1 ko (150x61)</a>"
+"Cette image est disponible sous la licence <a rel=\"license\" href=\"https://"
+"creativecommons.org/publicdomain/zero/1.0/deed.fr\">Creative Commons Zero "
+"1.0 universelle</a>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<strong>If you want to use this logo to link to a website operated by the "
+"FSF, feel free. If you wish to use it for any other purpose, please contact "
+"&lt;<a href=\"mailto:campaigns@fsf.org?subject=FSF Logo\">campaigns@fsf.org</"
+"a>&gt;.</strong>"
+msgstr ""
+"<strong>N'hésitez pas à utiliser ce logo pour mettre en lien un site web "
+"opéré par la FSF. Si vous voulez l'utiliser dans un autre but, quel qu'il "
+"soit, veuillez contacter &lt;<a href=\"mailto:campaigns@fsf.org?subject=FSF "
+"Logo\">campaigns@fsf.org</a>&gt;.</strong>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -139,19 +159,22 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2007, 2013, 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2007, 2013, 2014 Free Software Foundation, Inc."
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution de paternité, pas de modification, 3.0 États-"
-"Unis (CC BY-ND 3.0 US)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

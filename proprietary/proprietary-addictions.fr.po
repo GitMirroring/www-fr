@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-addictions.html\n"
-"POT-Creation-Date: 2019-01-28 23:56+0000\n"
-"PO-Revision-Date: 2019-01-29 09:53+0100\n"
+"POT-Creation-Date: 2019-02-23 11:56+0000\n"
+"PO-Revision-Date: 2019-02-23 20:39+0100\n"
 "Last-Translator: Tom Mounet <tom.m.mounet AT gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -18,7 +18,7 @@ msgstr ""
 #. type: Content of: <title>
 msgid "Proprietary Addictions - GNU Project - Free Software Foundation"
 msgstr ""
-"Pratiques addictives du privateur - Projet GNU - Free Software Foundation"
+"Pratiques addictives du privateur - GNU Project - Free Software Foundation"
 
 #. type: Content of: <h2>
 msgid "Proprietary Addictions"
@@ -67,6 +67,45 @@ msgstr ""
 "webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> pour nous en informer. "
 "Merci de fournir les URL d'une ou deux références fiables et spécifiques "
 "pour l'étayer."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"On-line gambling services (and their nonfree client programs) are <a href="
+"\"https://www.theguardian.com/society/2019/feb/22/gambling-apps-more-"
+"dangerous-than-fobts-study-finds\"> designed to be addictive</a>, much like "
+"on-line games. They achieve this with various different malfunctionalities, "
+"often in combination."
+msgstr ""
+"Les services de jeux d'argent en ligne (ainsi que leurs programmes clients "
+"non libres) sont <a href=\"https://www.theguardian.com/society/2019/feb/22/"
+"gambling-apps-more-dangerous-than-fobts-study-finds\">conçus pour être "
+"addictifs</a>, un peu comme les jeux vidéo en ligne. Ils y parviennent au "
+"moyen de fonctionnalités malveillantes variées, souvent combinées entre "
+"elles."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Many of these malfunctionalities are implemented by the server and the "
+"client program together. In some cases, there is no honest way that the "
+"client program could counteract the nastiness&mdash;for instance, when the "
+"server manipulates amounts won in order to get the user addicted, the only "
+"way the client program could block that is to pretend the win did not "
+"happen, and users would not want that modification."
+msgstr ""
+"Un grand nombre de ces fonctionnalités font intervenir à la fois le serveur "
+"et le programme client. Dans certains cas, le programme client pourrait "
+"contrecarrer les méfaits du serveur. Par exemple, quand le serveur manipule "
+"les sommes gagnées pour pousser l'utilisateur vers l'addiction, le seul "
+"moyen pour le programme client de faire barrage est de prétendre qu'il n'y a "
+"pas eu gain ; mais les utilisateurs ne voudraient pas de cette modification."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"However, modification of the client program could cover up some addictive "
+"behaviors without losing the user anything."
+msgstr ""
+"Cependant, la modification du programme client pourrait masquer certains "
+"comportements addictifs sans rien faire perdre à l'utilisateur."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -164,7 +203,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction et Révision : <a href=\"mailto:trad-gnu&#64;april.org\">trad-"
+"Traduction et révision : <a href=\"mailto:trad-gnu&#64;april.org\">trad-"
 "gnu&#64;april.org</a>"
 
 #.  timestamp start 

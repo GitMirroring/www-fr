@@ -2,91 +2,112 @@
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2007, 2008.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2013.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2013, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: babygnu.html\n"
-"POT-Creation-Date: 2014-04-04 23:59+0000\n"
-"PO-Revision-Date: 2018-11-29 21:22+0100\n"
+"POT-Creation-Date: 2019-02-23 17:58+0000\n"
+"PO-Revision-Date: 2019-02-23 20:39+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 "X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
-msgid "Baby GNU - GNU Project - Free Software Foundation"
-msgstr "Bébé GNU - Projet GNU - Free Software Foundation"
+msgid "Baby GNU by Etienne Suvasa - GNU Project - Free Software Foundation"
+msgstr "Bébé GNU d'Etienne Suvasa - Projet GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
 msgid "Baby GNU"
 msgstr "Bébé GNU"
 
-#. type: Content of: <p><a>
-msgid "<a href=\"/graphics/baby-gnu-sm.jpg\">"
-msgstr "<a href=\"/graphics/baby-gnu-sm.jpg\">"
-
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[image of a Baby GNU]"
-msgstr " [Bébé GNU] "
-
 #. type: Content of: <p>
+msgid "by Etienne Suvasa"
+msgstr "d'Etienne Suvasa"
+
+#. type: Content of: <div><p>
+msgid ""
+"An adorable cartoon-like image of but a wee tyke of a GNU, snuggling its "
+"blanket closely."
+msgstr ""
+"Un adorable personnage de dessin animé. Ce petit chenapan GNU tient sa "
+"couverture bien serrée contre son visage."
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/baby-gnu.jpg\">"
+msgstr "<a href=\"/graphics/baby-gnu.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[Baby GNU sucking its thumb]&nbsp;"
+msgstr "&nbsp;[Bébé GNU suçant son pouce]&nbsp;"
+
+#. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
+msgid "<em>Baby GNU sucking its thumb</em>"
+msgstr "<em>Bébé GNU suçant son pouce</em>"
+
+#. type: Content of: <div><div><ul><li>
 msgid ""
-"The Baby GNU is an adorable cartoon-like image of but a wee tyke of a GNU, "
-"sucking its thumb and snuggling its blanket closely."
+"JPEG&nbsp; <a href=\"/graphics/baby-gnu-sm.jpg\">5kB</a> (101x136),&nbsp; <a "
+"href=\"/graphics/baby-gnu.jpg\">10kB</a>&nbsp;(175x233)"
 msgstr ""
-"Ce bébé GNU ressemble à un personnage de dessin animé, un adorable petit "
-"chenapan GNU suçant son pouce et se pelotonnant dans sa couverture."
+"JPEG&nbsp; <a href=\"/graphics/baby-gnu-sm.jpg\">5 ko</a> (101x136),&nbsp; "
+"<a href=\"/graphics/baby-gnu.jpg\">10 ko</a>&nbsp;(175x233)"
 
-#. type: Content of: <p>
-msgid "We thank Etienne Suvasa for drawing this Baby GNU."
-msgstr "Nous remercions Étienne Suvasa pour avoir dessiné ce bébé GNU."
-
-#. type: Content of: <p>
-msgid "This picture is available in the following formats:"
-msgstr "Ce dessin est disponible aux formats suivants :"
-
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
-"jpeg <a href=\"/graphics/baby-gnu-sm.jpg\">6k</a>, <a href=\"/graphics/baby-"
-"gnu.jpg\">10k</a>"
+"PNG&nbsp; <a href=\"/graphics/baby-gnu-sm.png\">1kB</a> (101x136),&nbsp; <a "
+"href=\"/graphics/baby-gnu.png\">3kB</a>&nbsp;(175x233)"
 msgstr ""
-"JPEG  <a href=\"/graphics/baby-gnu-sm.jpg\">5 ko</a> (101x136),  <a href=\"/"
-"graphics/baby-gnu.jpg\">10 ko</a> (175x233)"
+"PNG&nbsp; <a href=\"/graphics/baby-gnu-sm.png\">1 ko</a> (101x136),&nbsp; <a "
+"href=\"/graphics/baby-gnu.png\">3 ko</a>&nbsp;(175x233)"
 
-#. type: Content of: <ul><li>
-msgid ""
-"png <a href=\"/graphics/baby-gnu-sm.png\">2k</a>, <a href=\"/graphics/baby-"
-"gnu.png\">3k</a>"
-msgstr ""
-"PNG  <a href=\"/graphics/baby-gnu-sm.png\">1,3 ko</a> (101x136),  <a href=\"/"
-"graphics/baby-gnu.png\">2,7 ko</a> (175x233)"
-
-#. type: Content of: <p>
-msgid ""
-"A modified version, &ldquo;Baby GNU with a Glass&rdquo;, was used as a logo "
-"for the <a href=\"http://fsf.org/licensing/\">FSF Free Software Licensing "
-"and Compliance Lab</a>:"
-msgstr ""
-"Une version modifiée, « Bébé GNU avec un verre », a été utilisée comme logo "
-"du <a href=\"http://fsf.org/licensing/\">Free Software Licensing and "
-"Compliance Lab</a> (Labo des licences et de la conformité) de la FSF :"
-
-#. type: Content of: <p><a>
+#. type: Content of: <div><div><a>
 msgid "<a href=\"/graphics/baby-gnu-glass.png\">"
 msgstr "<a href=\"/graphics/baby-gnu-glass.png\">"
 
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[image of a Baby GNU with a Glass]"
-msgstr " [Bébé GNU avec un verre] "
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[Baby GNU with a magnifying glass]&nbsp;"
+msgstr " [Bébé GNU avec une loupe] "
+
+#. type: Content of: <div><div><p>
+msgid "<em>Baby GNU with a magnifying glass</em>"
+msgstr "<em>Bébé GNU avec une loupe</em>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"(the former logo of the <a href=\"https://fsf.org/licensing/\"> FSF "
+"Licensing and Compliance Lab</a>)"
+msgstr ""
+"(ancien logo du du <a href=\"http://fsf.org/licensing/\">Free Software "
+"Licensing and Compliance Lab</a> (Labo des licences et de la conformité) de "
+"la FSF :"
+
+#. type: Content of: <div><div><ul><li>
+msgid "PNG&nbsp; <a href=\"/graphics/baby-gnu.png\">8kB</a> (175x233)"
+msgstr "PNG&nbsp; <a href=\"/graphics/baby-gnu.png\">8 ko</a> (175x233)"
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 1997 Etienne Suvasa"
+msgstr "Copyright &copy; 1997 Etienne Suvasa"
+
+#. type: Content of: <div><p>
+msgid ""
+"These images are available under the <a rel=\"license\" href=\"https://"
+"creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-"
+"ShareAlike 4.0 International License</a>."
+msgstr ""
+"Ces images sont disponibles sous la licence <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-sa/4.0/deed.fr\">Creative Commons "
+"attribution, partage dans les mêmes conditions, 4.0 internationale</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -135,22 +156,21 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2001, 2005, 2007, 2009, 2013, 2014 Free Software "
-"Foundation, Inc."
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
 msgstr ""
-"Copyright &copy; 2001, 2005, 2007, 2009, 2013, 2014 Free Software "
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution de paternité, pas de modification, 3.0 États-"
-"Unis (CC BY-ND 3.0 US)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

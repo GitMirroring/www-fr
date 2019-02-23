@@ -2,18 +2,18 @@
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza, 2007.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: FSFS-logo.html\n"
-"POT-Creation-Date: 2014-04-05 00:00+0000\n"
-"PO-Revision-Date: 2018-11-29 21:22+0100\n"
+"POT-Creation-Date: 2019-02-23 17:58+0000\n"
+"PO-Revision-Date: 2019-02-23 20:39+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 "X-Generator: Gtranslator 2.91.5\n"
@@ -23,24 +23,46 @@ msgid ""
 "Free Software, Free Society Title Logo - GNU Project - Free Software "
 "Foundation"
 msgstr ""
-"Logo titre du livre « Free Software, Free Society » - Projet GNU - Free "
-"Software Foundation"
+"Logo titre de « Free Software, Free Society » - Projet GNU - Free Software "
+"Foundation"
 
 #. type: Content of: <h2>
-msgid "The book cover logo for Free Software, Free Society"
-msgstr "Logo titre du livre « Free Software, Free Society »"
+msgid "The book cover logo for <cite>Free Software, Free Society</cite>"
+msgstr "Logo titre de <cite>Free Software, Free Society</cite>"
 
-#. type: Content of: <p><a>
+#. type: Content of: <p>
+msgid "by Jonathan Richard"
+msgstr "de Jonathan Richard"
+
+#. type: Content of: <div><p>
+msgid "This logo was on the hard cover of the first edition (2002)."
+msgstr "Ce logo était sur la couverture de la première édition (2002)"
+
+#. type: Content of: <div><div><a>
 msgid "<a href=\"/graphics/FSFS-title2.jpg\">"
 msgstr "<a href=\"/graphics/FSFS-title2.jpg\">"
 
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[The book cover logo for 'Free Software, Free Society']"
-msgstr " [Logo titre du livre « Free Software, Free Society »] "
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[The book cover logo for 'Free Software, Free Society']&nbsp;"
+msgstr " [Logo titre de 'Free Software, Free Society'] "
 
-#. type: Content of: <p>
+#. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "JPEG&nbsp; <a href=\"/graphics/FSFS-title2.jpg\">17kB</a> (555x117)"
+msgstr "JPEG&nbsp; <a href=\"/graphics/FSFS-title2.jpg\">17 ko</a> (555x117)"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This image is available under the <a rel=\"license\" href=\"https://"
+"creativecommons.org/publicdomain/zero/1.0/\">Creative Commons Zero 1.0 "
+"Universal License</a>."
+msgstr ""
+"Cette image est disponible sous la licence <a rel=\"license\" href=\"https://"
+"creativecommons.org/publicdomain/zero/1.0/deed.fr\">Creative Commons Zero "
+"1.0 universelle</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -88,19 +110,22 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2002, 2003, 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2002, 2003, 2014 Free Software Foundation, Inc."
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution de paternité, pas de modification, 3.0 États-"
-"Unis (CC BY-ND 3.0 US)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

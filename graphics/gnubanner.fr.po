@@ -7,114 +7,170 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnubanner.html\n"
-"POT-Creation-Date: 2014-04-05 00:00+0000\n"
-"PO-Revision-Date: 2018-11-29 21:22+0100\n"
+"POT-Creation-Date: 2019-02-23 17:58+0000\n"
+"PO-Revision-Date: 2019-02-23 20:39+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 "X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
-msgid "A GNU Banner - GNU Project - Free Software Foundation"
-msgstr "Une bannière GNU - Projet GNU - Free Software Foundation"
+msgid "GNU banners and link - GNU Project - Free Software Foundation"
+msgstr "Bannières et bouton GNU - Projet GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
-msgid "A GNU Banner"
-msgstr "Une bannière GNU"
-
-#. type: Content of: <p><a>
-msgid "<a href=\"/graphics/gnubanner.jpg\">"
-msgstr "<a href=\"/graphics/gnubanner.jpg\">"
-
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[Come and see what GNU creates for YOU]"
-msgstr " [Venez voir ce que GNU crée pour VOUS] "
+msgid "GNU banners and link"
+msgstr "Bannières et bouton GNU"
 
 #. type: Content of: <p>
-msgid "</a>"
-msgstr "</a>"
+msgid "by Stefan Rieken, John M. Wooten and SpAwN"
+msgstr "de Stefan Rieken, John M. Wooten et SpAwN"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"This is the handsome GNU Head done as a banner with the text \"Come and see "
-"what GNU creates for YOU\". It is probably best to use this if you wish to "
-"make a link to the GNU Project."
+"They can be used to link to the GNU Project. See also the <a href=\"/"
+"graphics/gnu-inside.html\">GNU Inside</a> mini-banner."
 msgstr ""
-"Voici une belle tête de GNU en bannière avec le texte <i>Come and see what "
-"GNU creates for YOU</i> (Venez voir ce que GNU crée pour VOUS). Probablement "
-"l'idéal si vous souhaitez faire un lien vers le projet GNU."
+"On peut s'en servir pour mettre en lien le projet GNU. Voir également la "
+"minibannière <a href=\"/graphics/gnu-inside.html\">GNU à l'intérieur</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><h3>
+msgid "Large banner"
+msgstr "Grande bannière"
+
+#. type: Content of: <div><p>
 msgid ""
-"We thank Stefan Rieken <a href=\"mailto:StefanRieken@SoftHome.net\"> &lt;"
-"StefanRieken@SoftHome.net&gt;</a> for this art."
+"This banner, based on Etienne Suvasa's <a href=\"/graphics/agnuhead.html"
+"\">GNU Head</a>, was designed by Stefan Rieken and slightly modified by Lalo "
+"Martins."
 msgstr ""
-"Nous remercions Stefan Rieken <a href=\"mailto:StefanRieken@SoftHome.net"
-"\">&lt;StefanRieken@SoftHome.net&gt;</a> pour ce dessin."
+"Elle a été créée par Stefan Rieken à partir de la <a href=\"/graphics/"
+"agnuhead.html\">Tête de GNU</a> d'Etienne Suvasa et légèrement modifiée par "
+"Lalo Martins."
 
-#. type: Content of: <p>
-msgid "This picture is available in the following formats:"
-msgstr "Il est disponible aux formats suivants :"
-
-#. type: Content of: <ul><li>
-msgid "jpeg <a href=\"/graphics/gnubanner.jpg\">9k</a>"
-msgstr "JPEG  <a href=\"/graphics/gnubanner.jpg\">10 ko</a> (468x60)"
-
-#. type: Content of: <ul><li>
-msgid "png <a href=\"/graphics/gnubanner.png\">15k</a>"
-msgstr "PNG  <a href=\"/graphics/gnubanner.png\">15 ko</a> (468x60)"
-
-#. type: Content of: <p>
-msgid "Lalo Martins created an alternative version:"
-msgstr "Lalo Martins a créé une version alternative :"
-
-#. type: Content of: <p><a>
+#. type: Content of: <div><p><a>
 msgid "<a href=\"/graphics/gnubanner-alt.png\">"
 msgstr "<a href=\"/graphics/gnubanner-alt.png\">"
 
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[Alternative version of the GNU Banner]"
-msgstr " [Version alternative de la bannière GNU] "
+#. type: Attribute 'alt' of: <div><p><a><img>
+msgid "&nbsp;[Come and see what GNU creates for YOU]&nbsp;"
+msgstr " [Venez voir ce que GNU crée pour VOUS] "
 
-#. type: Content of: <p>
-msgid ""
-"It is available in <a href=\"/graphics/gnubanner-alt.png\">png</a> and <a "
-"href=\"/graphics/gnubanner-alt.xcf\">xcf</a> formats."
-msgstr ""
-"Elle est disponible aux formats <a href=\"/graphics/gnubanner-alt.png\">PNG</"
-"a> et <a href=\"/graphics/gnubanner-alt.xcf\">XCF</a>."
+#. type: Content of: <div><div>
+msgid "</a>"
+msgstr "</a>"
 
-#. type: Content of: <p><a>
+#. type: Content of: <div><ul><li>
+msgid "PNG&nbsp; <a href=\"/graphics/gnubanner-alt.png\">8kB</a> (468x60)"
+msgstr "PNG&nbsp; <a href=\"/graphics/gnubanner-alt.png\">8 ko</a> (468x60)"
+
+#. type: Content of: <div><ul><li>
+msgid "XCF&nbsp; <a href=\"/graphics/gnubanner-alt.xcf\">153kB</a> (468x60)"
+msgstr "XCF&nbsp; <a href=\"/graphics/gnubanner-alt.xcf\">153 ko</a> (468x60)"
+
+#. type: Content of: <div><h3>
+msgid "GNU link"
+msgstr "Bouton GNU"
+
+#. type: Content of: <div><div><a>
 msgid "<a href=\"/graphics/gnubanner-2.png\">"
 msgstr "<a href=\"/graphics/gnubanner-2.png\">"
 
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[ GNU Link]"
-msgstr " [Lien vers le projet GNU] "
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[GNU Link]&nbsp;"
+msgstr " [Bouton GNU] "
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"This is a smaller, more colorful banner you can use to link to the GNU "
-"project."
+"This tiny banner was made by SpAwN from Aur&eacute;lio A. Heckert's <a href="
+"\"/graphics/heckert_gnu.html\">Bold GNU Head</a>. It would be ideal for a "
+"footer link."
 msgstr ""
-"Voici une version plus petite et plus colorée de la bannière, que vous "
-"pouvez utiliser pour faire un lien vers le projet GNU."
+"Cette minuscule bannière a été créée par SpAwN à partir de la <a href=\"/"
+"graphics/heckert_gnu.html\">Tête de GNU contrastée</a> d'Aurélio A. Heckert. "
+"Elle ferait un bouton idéal pour un pied de page."
 
-#. type: Content of: <p>
+#. type: Content of: <div><ul><li>
+msgid "PNG&nbsp; <a href=\"/graphics/gnubanner-2.png\">3kB</a> (88x31)"
+msgstr "PNG&nbsp; <a href=\"/graphics/gnubanner-2.png\">3 ko</a> (88x31)"
+
+#. type: Content of: <div><h3>
+msgid "Small colorful banners"
+msgstr "Petites bannières colorées"
+
+#. type: Content of: <div><p>
 msgid ""
-"We thank SpAwN <a href=\"mailto:spawn@technetworkz.com\"> &lt;"
-"spawn@technetworkz.com&gt;</a> for this art."
+"John M. Wooten made these banners from a fragment of Etienne Suvasa's <a "
+"href=\"/graphics/agnuhead.html\">GNU Head</a>, which he placed over "
+"backgrounds of different colors."
 msgstr ""
-"Nous remercions SpAwN <a href=\"mailto:spawn@technetworkz.com\">&lt;"
-"spawn@technetworkz.com&gt;</a> pour ce dessin."
+"Pour créer ces bannières, John M. Wooten a pris un fragment de la <a href=\"/"
+"graphics/agnuhead.html\">Tête de GNU</a> d'Etienne Suvasa et l'a placé sur "
+"des fonds de différentes couleurs."
 
-#. type: Content of: <ul><li>
-msgid "png <a href=\"/graphics/gnubanner-2.png\">4k</a>"
-msgstr "PNG  <a href=\"/graphics/gnubanner-2.png\">3 ko</a> (88x31)"
+#. type: Content of: <div><ul><li>
+msgid "PNG&nbsp; 1.3kB (120x120)"
+msgstr "PNG&nbsp; 1,3 ko (120x120)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/graphics/gnuwooblk.png\">Black</a> | <a href=\"/graphics/"
+"gnuwoogrn.png\">Green</a> | <a href=\"/graphics/gnuwoored.png\">Red</a> | <a "
+"href=\"/graphics/gnuwoowht.png\">White</a> | <a href=\"/graphics/gnuwooylw."
+"png\">Yellow</a>"
+msgstr ""
+"<a href=\"/graphics/gnuwooblk.png\">fond noir</a> | <a href=\"/graphics/"
+"gnuwoogrn.png\">fond vert</a> | <a href=\"/graphics/gnuwoored.png\">fond "
+"rouge</a> | <a href=\"/graphics/gnuwoowht.png\">fond blanc</a> | <a href=\"/"
+"graphics/gnuwooylw.png\">fond jaune</a>"
+
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 1999 Stefan Rieken (banner)"
+msgstr "Copyright &copy; 1999 Stefan Rieken (bannière)"
+
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 2004 Leandro &ldquo;SpAwN&rdquo; Da Silva (GNU link)"
+msgstr ""
+"Copyright &copy; 2004 Leandro &ldquo;SpAwN&rdquo; Da Silva (bouton GNU)"
+
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 2006 John M. Wooten (small colorful banners)"
+msgstr "Copyright &copy; 2006 John M. Wooten (petites bannières colorées)"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"These images are available under the <a rel=\"license\" href=\"/licenses/fdl."
+"html\">GNU Free Documentation License v1.3</a>, or the <a rel=\"license\" "
+"href=\"https://directory.fsf.org/wiki/License:FAL1.3\">Free Art License</a>, "
+"or the <a rel=\"license\" href=\"https://directory.fsf.org/wiki/License:"
+"CC_ASA2.0\">Creative Commons Attribution-ShareAlike 2.0 License</a>."
+msgstr ""
+"Ces images sont disponibles sous la <a rel=\"license\" href=\"/licenses/fdl."
+"html\">licence GNU de documentation libre</a> v1.3, ou la <a rel=\"license\" "
+"href=\"http://artlibre.org/\">licence art libre</a>, ou la licence <a rel="
+"\"license\" href=\"http://creativecommons.org/licenses/by-sa/2.0/deed.fr"
+"\">Creative Commons attribution, partage dans les mêmes conditions 2.0</a>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The GNU head is, however, also a trademark for the GNU Project.  <strong>If "
+"you want to use the GNU head to link to a website run by the Free Software "
+"Foundation or the GNU project, feel free, or if you're using it in contexts "
+"talking about GNU in a supportive and accurate way, you can also do this "
+"without permission.  For any other requests, please ask &lt;<a href=\"mailto:"
+"licensing@fsf.org\">licensing@fsf.org</a>&gt; for permission first.</strong>"
+msgstr ""
+"Toutefois, la tête de GNU est aussi un logo déposé du projet GNU. <strong>Si "
+"vous voulez vous servir de cette tête de GNU pour mettre en lien un site web "
+"de la <cite>Free Software Foundation</cite> ou du projet GNU, n'hésitez "
+"pas ; de même, vous n'avez pas besoin de permission supplémentaire pour "
+"l'utiliser dans des contextes qui parlent de GNU de manière positive et "
+"exacte. Pour tout autre usage, veuillez au préalable demander la permission "
+"à <a href=\"mailto:licensing@fsf.org\">licensing@fsf.org</a>.</strong>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -162,19 +218,21 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
+msgid ""
+"<em>Page text:</em> Copyright &copy; 2019 Free Software Foundation, Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"Text is available under the <a rel=\"license\" href=\"https://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution de paternité, pas de modification, 3.0 États-"
-"Unis (CC BY-ND 3.0 US)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
