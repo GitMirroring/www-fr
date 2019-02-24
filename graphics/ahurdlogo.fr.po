@@ -7,128 +7,90 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ahurdlogo.html\n"
-"POT-Creation-Date: 2014-04-04 23:59+0000\n"
-"PO-Revision-Date: 2018-11-29 21:22+0100\n"
+"POT-Creation-Date: 2019-02-24 11:26+0000\n"
+"PO-Revision-Date: 2019-02-24 13:35+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 "X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
-msgid "A Hurd Logo - GNU Project - Free Software Foundation"
-msgstr "Logos de Hurd - Projet GNU - Free Software Foundation"
+msgid ""
+"Spherical Hurd Logo by Teddy Hogeborn - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"Logo sphérique pour Hurd, de Teddy Hogeborn - Projet GNU - Free Software "
+"Foundation"
 
 #. type: Content of: <h2>
-msgid "A Hurd Logo"
-msgstr "Logos de Hurd"
+msgid "Spherical Hurd Logo"
+msgstr "Logo sphérique pour Hurd"
 
-#. type: Content of: <p><a>
+#. type: Content of: <p>
+msgid "by Teddy Hogeborn"
+msgstr "de Teddy Hogeborn"
+
+#. type: Content of: <div><div><a>
 msgid "<a href=\"/graphics/hurd-logo-sm.jpg\">"
 msgstr "<a href=\"/graphics/hurd-logo-sm.jpg\">"
 
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[image of a Spherical Hurd Logo]"
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[Spherical Hurd Logo]&nbsp;"
 msgstr " [Logo sphérique pour Hurd] "
 
-#. type: Content of: <p>
+#. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"A lovely HURD logo: a blue sphere on gray backing with the \"HURD\" "
-"emblazoned across it in green lettering."
+"A lovely logo: a blue sphere with &ldquo;HURD&rdquo; emblazoned across it in "
+"green lettering. It was displayed on the Hurd website before 2000.  (The "
+"Hurd site currently uses the <a href=\"/graphics/hurd_mf.html\">Metafont "
+"logo</a>.)"
 msgstr ""
 "Un ravissant logo pour HURD : une sphère bleue avec « HURD » écrit en "
-"surimpression en lettres vertes."
+"surimpression en lettres vertes. Il était affiché sur le site de Hurd avant "
+"2000 (la version actuelle du site utilise le <a href=\"/graphics/hurd_mf.html"
+"\">Logo en Metafont</a>)."
 
-# Lien supprimé le 13-2-13 pour coller à la VO :
-# http://web-archive.org/web/20070206050719//http://www.fukt.hk-r.se/~teddy/
-#. type: Content of: <p>
+#. type: Content of: <div><ul><li>
 msgid ""
-"We thank Teddy Hogeborn <a href=\"mailto:teddy@fukt.bth.se\">&lt;teddy@fukt."
-"bth.se&gt;</a> for this Spherical Hurd Logo."
+"JPEG&nbsp; <a href=\"/graphics/hurd-logo-sm.jpg\">10kB</a>&nbsp;(280x182),"
+"&nbsp; <a href=\"/graphics/hurd-logo.jpg\">45kB</a>&nbsp;(640x416)"
 msgstr ""
-"Nous remercions Teddy Hogeborn <a href=\"mailto:teddy@fukt.bth.se\">&lt;"
-"teddy@fukt.bth.se&gt;</a> pour ce logo de Hurd sphérique."
+"JPEG&nbsp; <a href=\"/graphics/hurd-logo-sm.jpg\">10 ko</a>&nbsp;(280x182),"
+"&nbsp; <a href=\"/graphics/hurd-logo.jpg\">45 ko</a>&nbsp;(640x416)"
 
-#. type: Content of: <p>
-msgid "This picture is available in the following formats:"
-msgstr "Ce dessin est disponible aux formats suivants :"
-
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"jpeg <a href=\"/graphics/hurd-logo-sm.jpg\">10k</a>, <a href=\"/graphics/"
-"hurd-logo.jpg\">44k</a>"
+"PNG&nbsp; <a href=\"/graphics/hurd-logo-sm.png\">27kB</a>&nbsp;(280x182),"
+"&nbsp; <a href=\"/graphics/hurd-logo.png\">46kB</a>&nbsp;(640x416)"
 msgstr ""
-"JPEG  <a href=\"/graphics/hurd-logo-sm.jpg\">10 ko</a> (280x182),  <a href="
-"\"/graphics/hurd-logo.jpg\">44 ko</a> (640x416)"
+"PNG&nbsp; <a href=\"/graphics/hurd-logo-sm.png\">27 ko</a>&nbsp;(280x182),"
+"&nbsp; <a href=\"/graphics/hurd-logo.png\">46 ko</a>&nbsp;(640x416)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"png <a href=\"/graphics/hurd-logo-sm.png\">28k</a>, <a href=\"/graphics/hurd-"
-"logo.png\">51k</a>"
+"Other formats at <a href=\"https://www.recompile.se/~teddy/hurd/\">recompile."
+"se</a>"
 msgstr ""
-"PNG  <a href=\"/graphics/hurd-logo-sm.png\">27 ko</a> (280x182),  <a href=\"/"
-"graphics/hurd-logo.png\">46 ko</a> (640x416)"
+"Autres formats sur <a href=\"https://www.recompile.se/~teddy/hurd/"
+"\">recompile.se</a>"
 
-#. type: Content of: <h3>
-msgid "Hurd Metafont Logo"
-msgstr "Logo de Hurd en Metafont"
-
-#. type: Content of: <p><a>
-msgid "<a href=\"/graphics/hurd_sm_mf.jpg\">"
-msgstr "<a href=\"/graphics/hurd_sm_mf.jpg\">"
-
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[image of a Hurd Metafont Logo]"
-msgstr " [Logo de Hurd en Metafont] "
-
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"A large and very handsome logo, in black and white.  ``HURD'' is spelled out "
-"in calligraphic lettering, with a graph structure to the left bearing four "
-"vertices."
+"This image is available under the <a rel=\"license\" href=\"https://"
+"creativecommons.org/publicdomain/zero/1.0/\">Creative Commons Zero 1.0 "
+"Universal</a> Public Domain Dedication."
 msgstr ""
-"Un grand et beau logo, en noir et blanc. « HURD » est écrit en lettres "
-"calligraphiées, avec à gauche une structure graphique portant quatre sommets."
-
-#. type: Content of: <p>
-msgid ""
-"We thank Stephen McCamant <a href=\"mailto:smcc@member.gnu.org\">&lt;"
-"smcc@member.gnu.org&gt;</a> for designing the following Hurd logo using <a "
-"href=\"http://www.math.utah.edu/~beebe/fonts/metafont.html\">Metafont</a>.  "
-"Here is the <a href=\"/graphics/hurd_mf.html\">source code</a> for this Hurd "
-"logo."
-msgstr ""
-"Nous remercions Stephen McCamant <a href=\"mailto:smcc@member.gnu.org\">&lt;"
-"smcc@member.gnu.org&gt;</a> pour avoir conçu ce logo de Hurd, en utilisant "
-"<a href=\"http://www.math.utah.edu/~beebe/fonts/metafont.html\">Metafont</"
-"a>. Voici le <a href=\"/graphics/hurd_mf.html\">code source</a> de ce logo."
-
-#. type: Content of: <p>
-msgid "It is used on most of the Hurd pages on this server."
-msgstr "Il est utilisé sur la plupart des pages du site consacrées à Hurd."
-
-#. type: Content of: <ul><li>
-msgid ""
-"jpeg <a href=\"/graphics/hurd_sm_mf.jpg\">10k</a>, <a href=\"/graphics/"
-"hurd_mf.jpg\">20k</a>"
-msgstr ""
-"JPEG  <a href=\"/graphics/hurd_sm_mf.jpg\">10 ko</a>,  <a href=\"/graphics/"
-"hurd_mf.jpg\">20 ko</a>"
-
-#. type: Content of: <ul><li>
-msgid ""
-"png <a href=\"/graphics/hurd_sm_mf.png\">1k</a>, <a href=\"/graphics/hurd_mf."
-"png\">3k</a>"
-msgstr ""
-"PNG  <a href=\"/graphics/hurd_sm_mf.png\">1 ko</a>,  <a href=\"/graphics/"
-"hurd_mf.png\">3 ko</a>"
+"Cette image a été versée au domaine public selon les termes de <a rel="
+"\"license\" href=\"https://creativecommons.org/publicdomain/zero/1.0/"
+"\">Creative Commons Zero 1.0 universel (CC0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -176,19 +138,22 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution de paternité, pas de modification, 3.0 États-"
-"Unis (CC BY-ND 3.0 US)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
@@ -201,3 +166,16 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+#~ msgid ""
+#~ "We thank Stephen McCamant <a href=\"mailto:smcc@member.gnu.org\">&lt;"
+#~ "smcc@member.gnu.org&gt;</a> for designing the following Hurd logo using "
+#~ "<a href=\"http://www.math.utah.edu/~beebe/fonts/metafont.html\">Metafont</"
+#~ "a>.  Here is the <a href=\"/graphics/hurd_mf.html\">source code</a> for "
+#~ "this Hurd logo."
+#~ msgstr ""
+#~ "Nous remercions Stephen McCamant <a href=\"mailto:smcc@member.gnu.org"
+#~ "\">&lt;smcc@member.gnu.org&gt;</a> pour avoir conçu ce logo de Hurd, en "
+#~ "utilisant <a href=\"http://www.math.utah.edu/~beebe/fonts/metafont.html"
+#~ "\">Metafont</a>. Voici le <a href=\"/graphics/hurd_mf.html\">code source</"
+#~ "a> de ce logo."
