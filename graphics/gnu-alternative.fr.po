@@ -2,18 +2,18 @@
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza, 2007.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2013.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2013, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-alternative.html\n"
-"POT-Creation-Date: 2014-04-05 00:00+0000\n"
-"PO-Revision-Date: 2018-11-29 21:22+0100\n"
+"POT-Creation-Date: 2019-02-25 12:56+0000\n"
+"PO-Revision-Date: 2019-02-25 14:58+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 "X-Generator: Gtranslator 2.91.5\n"
@@ -26,58 +26,81 @@ msgstr "Tête de GNU alternative - Projet GNU - Free Software Foundation"
 msgid "GNU Alternative"
 msgstr "Tête de GNU alternative"
 
-#. type: Content of: <p><a>
+#. type: Content of: <p>
+msgid "by an anonymous artist"
+msgstr "par un artiste anonyme"
+
+#. type: Content of: <div><div><a>
 msgid "<a href=\"/graphics/gnu-alternative.jpg\">"
 msgstr "<a href=\"/graphics/gnu-alternative.jpg\">"
 
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[image of the Head of a GNU]"
-msgstr " [Image d'une tête de GNU] "
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[Stylized gnu mask]&nbsp;"
+msgstr " [Masque de gnou stylisé] "
 
-#. type: Content of: <p>
+#. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"This is a new image of a GNU head that can be used as an alternative to the "
-"<a href=\"/graphics/agnuhead.html\">default GNU head</a>."
+"This black and white stylized gnu mask can be used as an alternative to the "
+"<a href=\"/graphics/heckert_gnu.html\">Bold GNU Head</a>."
 msgstr ""
-"Voici une nouvelle interprétation de la tête de GNU. On peut l'utiliser "
-"comme alternative à la <a href=\"/graphics/agnuhead.html\">tête de GNU "
-"traditionnelle</a>."
+"Ce masque de gnou stylisé noir et blanc peut être utilisé comme alternative "
+"à la <a href=\"/graphics/heckert_gnu.html\">Tête de GNU contrastée</a>."
 
-#. type: Content of: <p>
-msgid "This picture is available in the following formats:"
-msgstr "Ce dessin est disponible aux formats suivants :"
-
-#. type: Content of: <ul><li>
-msgid "jpeg <a href=\"/graphics/gnu-alternative.jpg\">10k</a>"
-msgstr "JPEG  <a href=\"/graphics/gnu-alternative.jpg\">10 ko</a> (291x219)"
-
-#. type: Content of: <ul><li>
-msgid "png <a href=\"/graphics/gnu-alternative.png\">3k</a>"
-msgstr "PNG  <a href=\"/graphics/gnu-alternative.png\">3 ko</a> (291x219)"
-
-#. type: Content of: <p>
-msgid "Two wallpapers based on the alternative GNU head."
-msgstr "Deux fonds d'écran basés sur la tête de GNU alternative :"
-
-#. type: Content of: <p>
-msgid "This pictures are available in the following formats:"
-msgstr " "
-
-#. type: Content of: <ul><li>
-msgid "png <a href=\"/graphics/gnu-alt-wp1.png\">wallpaper 1 - 844k</a>"
+#. type: Content of: <div><ul><li>
+msgid "JPEG&nbsp; <a href=\"/graphics/gnu-alternative.jpg\">10kB</a> (291x219)"
 msgstr ""
-"Fond d'écran 1 : PNG <a href=\"/graphics/gnu-alt-wp1.png\">471 ko</a> "
-"(1024x768)"
+"JPEG&nbsp; <a href=\"/graphics/gnu-alternative.jpg\">10 ko</a> (291x219)"
 
-#. type: Content of: <ul><li>
-msgid "png <a href=\"/graphics/gnu-alt-wp2.png\">wallpaper 2 - 487k</a>"
+#. type: Content of: <div><ul><li>
+msgid "PNG&nbsp; <a href=\"/graphics/gnu-alternative.png\">3kB</a> (291x219)"
+msgstr "PNG&nbsp; <a href=\"/graphics/gnu-alternative.png\">3 ko</a> (291x219)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"SVG&nbsp; <a href=\"/graphics/gnu-alternative.svg\">14kB</a>, vectorized by "
+"Sergiy S. Kolesnikov"
 msgstr ""
-"Fond d'écran 2 : PNG <a href=\"/graphics/gnu-alt-wp2.png\">489 ko</a> "
-"(1024x768)"
+"SVG&nbsp; <a href=\"/graphics/gnu-alternative.svg\">14 ko</a>, vectorisé par "
+"Sergiy S. Kolesnikov"
+
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 2000 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2000 Free Software Foundation, Inc."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This image is available under the <a rel=\"license\" href=\"/licenses/fdl"
+"\">GNU Free Documentation License</a>, version&nbsp;1.2 or any later "
+"version, or the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike 3.0 "
+"International License</a>."
+msgstr ""
+"Cette image est disponible sous la <a rel=\"license\" href=\"/licenses/fdl"
+"\">licence GNU de documentation libre</a>, version 1.2 ou toute version "
+"ultérieure, ou bien la licence <a rel=\"license\" href=\"https://"
+"creativecommons.org/licenses/by-sa/3.0/deed.fr\">Creative Commons "
+"attribution, partage dans les mêmes conditions, 3.0 internationale</a>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The GNU head is, however, also a trademark for the GNU Project.  <strong>If "
+"you want to use the GNU head to link to a website run by the Free Software "
+"Foundation or the GNU project, feel free, or if you're using it in contexts "
+"talking about GNU in a supportive and accurate way, you can also do this "
+"without permission.  For any other requests, please ask &lt;<a href=\"mailto:"
+"licensing@fsf.org\">licensing@fsf.org</a>&gt; for permission first.</strong>"
+msgstr ""
+"Toutefois, la tête de GNU est aussi un logo déposé du projet GNU. <strong>Si "
+"vous voulez vous servir de cette tête de GNU pour mettre en lien un site web "
+"de la <cite>Free Software Foundation</cite> ou du projet GNU, n'hésitez "
+"pas ; de même, vous n'avez pas besoin de permission supplémentaire pour "
+"l'utiliser dans des contextes qui parlent de GNU de manière positive et "
+"exacte. Pour tout autre usage, veuillez au préalable demander la permission "
+"à <a href=\"mailto:licensing@fsf.org\">licensing@fsf.org</a>.</strong>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -125,19 +148,22 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution de paternité, pas de modification, 3.0 États-"
-"Unis (CC BY-ND 3.0 US)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

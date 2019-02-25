@@ -2,13 +2,13 @@
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza, 2007.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-ascii.html\n"
-"POT-Creation-Date: 2015-11-02 01:28+0000\n"
-"PO-Revision-Date: 2018-11-29 21:22+0100\n"
+"POT-Creation-Date: 2019-02-25 13:26+0000\n"
+"PO-Revision-Date: 2019-02-25 14:58+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -19,14 +19,21 @@ msgstr ""
 "X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
-msgid "ASCII Gnu - GNU Project - Free Software Foundation"
-msgstr "GNU en ASCII - Projet GNU - Free Software Foundation"
+msgid ""
+"ASCII Gnu by Przemys&#322;aw Borys - GNU Project - Free Software Foundation"
+msgstr ""
+"GNU en ASCII, de Przemys&#322;aw Borys - Projet GNU - Free Software "
+"Foundation"
 
 #. type: Content of: <h2>
 msgid "ASCII Gnu"
 msgstr "GNU en ASCII"
 
-#. type: Content of: <pre>
+#. type: Content of: <p>
+msgid "by Przemys&#322;aw Borys"
+msgstr "de Przemys&#322;aw Borys"
+
+#. type: Content of: <div><pre>
 #, no-wrap
 msgid ""
 "  ,           , \n"
@@ -49,7 +56,7 @@ msgstr ""
 "      :o_o:\n"
 "       \"-\"\n"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This is an ASCII drawing of a gnu's head, suitable for non-graphical "
 "terminals."
@@ -57,55 +64,21 @@ msgstr ""
 "Voici un dessin en ASCII d'une tête de gnou, adaptée aux terminaux non "
 "graphiques."
 
-#. type: Content of: <p>
-msgid "The ASCII image above is:"
-msgstr "L'image ASCII ci-dessus est sous :"
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 2001 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2001 Free Software Foundation, Inc."
 
-#. type: Content of: <p>
-msgid "Copyright (C) 2001, Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2001, Free Software Foundation, Inc."
-
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"Permission is granted to copy, distribute and/or modify this image under the "
-"terms either:"
+"This work is available under the <a rel=\"license\" href=\"/licenses/old-"
+"licenses/gpl-2.0.html\">GNU General Public License</a>, version&nbsp;2 or "
+"any later version, or the <a rel=\"license\" href=\"/licenses/fdl.html\">GNU "
+"Free Documentation License</a>, version&nbsp;1.1 or any later version."
 msgstr ""
-"L'autorisation est donnée de copier, distribuer ou modifier cette image sous "
-"les termes de l'une des deux licences :"
-
-#. type: Content of: <ul><li>
-msgid ""
-"the <a href=\"/copyleft/gpl.html\">GNU General Public License</a> as "
-"published by the Free Software Foundation; either version 2 of the License, "
-"or (at your option) any later version, or"
-msgstr ""
-"la <a href=\"/copyleft/gpl.html\">licence publique générale GNU</a> telle "
-"que publiée par la <i>Free Software Foundation</i> ; soit la version 2 de la "
-"licence, soit (à votre convenance) toute version ultérieure, ou"
-
-#. type: Content of: <ul><li>
-msgid ""
-"the <a href=\"/copyleft/fdl.html\"> GNU Free Documentation License</a>, "
-"Version 1.1 or any later version published by the Free Software Foundation; "
-"with the no Invariant Sections, with no Front-Cover Texts and with no Back-"
-"Cover Texts."
-msgstr ""
-"la <a href=\"/copyleft/fdl.html\">licence GNU de documentation libre</a>, "
-"version 1.1 ou toute version ultérieure publiée par la <i>Free Software "
-"Foundation</i> ; sans section invariante et sans texte de couverture ni de "
-"quatrième de couverture."
-
-#. type: Content of: <p>
-msgid ""
-"These images are distributed in the hope that it will be useful, but WITHOUT "
-"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
-"FITNESS FOR A PARTICULAR PURPOSE.  See the <a href=\"/copyleft/gpl.html"
-"\">GNU General Public License</a> for more details."
-msgstr ""
-"Ces dessins sont distribués dans l'espoir qu'ils vous seront utiles, mais "
-"SANS GARANTIE ; sans même la garantie tacite de QUALITÉ MARCHANDE ou "
-"D'ADÉQUATION À UN BUT PARTICULIER. Voir la <a href=\"/copyleft/gpl.html"
-"\">GNU General Public License</a> pour plus de détails."
+"Cette image est disponibe sous la <a href=\"/licenses/old-licenses/gpl-2.0."
+"html\">licence publique générale GNU</a>, version 2 ou toute version "
+"ultérieure, ou bien la <a href=\"/licenses/fdl.html\">licence GNU de "
+"documentation libre</a>, version 1.1 ou toute version ultérieure."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -153,20 +126,22 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2001, 2015 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2001, 2015 Free Software Foundation, Inc."
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"ASCII Gnu is licensed under the the <a href=\"/licenses/gpl-2.0.html\">GNU "
-"General Public License</a> either version 2 or later and the <a href=\"/"
-"licenses/fdl-1.1.html\">GNU Free Documentation License</a> version 1.1 or "
-"any later."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Le GNU en ASCI peut être utilisé suivant les conditions de la <a href=\"/"
-"licenses/gpl-2.0.html\">licence publique générale GNU</a> en version 2 ou "
-"ultérieure, ou de la <a href=\"/licenses/fdl-1.1.html\">licence GNU de "
-"documentation libre</a>, version 1.1 ou ultérieure."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

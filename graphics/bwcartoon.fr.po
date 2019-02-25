@@ -2,18 +2,18 @@
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza, 2007.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: bwcartoon.html\n"
-"POT-Creation-Date: 2014-04-05 00:00+0000\n"
-"PO-Revision-Date: 2018-11-29 21:22+0100\n"
+"POT-Creation-Date: 2019-02-25 12:56+0000\n"
+"PO-Revision-Date: 2019-02-25 14:58+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 "X-Generator: Gtranslator 2.91.5\n"
@@ -30,124 +30,110 @@ msgstr ""
 msgid "The Dynamic Duo: The Gnu and the Penguin in flight"
 msgstr "Le duo dynamique : le Gnou et le Manchot en vol"
 
-#. type: Content of: <p><a>
-msgid "<a href=\"/graphics/bwcartoon-m.jpg\">"
-msgstr "<a href=\"/graphics/bwcartoon-m.jpg\">"
-
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "[B &amp; W Cartoon]"
-msgstr " [Le duo dynamique] "
-
 #. type: Content of: <p>
+msgid "by an anonymous artist"
+msgstr "par un artiste anonyme"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/gnu-and-penguin-color-1024x946.jpg\">"
+msgstr "<a href=\"/graphics/gnu-and-penguin-color-1024x946.jpg\">)"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[The Gnu and the Penguin in flight]&nbsp;"
+msgstr " [Le Gnou et le Manchot en vol] "
+
+#. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <p>
-msgid "A picture of a the Dynamic Duo: the Gnu and the Penguin in flight."
-msgstr " "
-
-#. type: Content of: <p>
-msgid "This picture is available in the following formats:"
-msgstr "Ce dessin est disponible aux formats suivants :"
-
-#. type: Content of: <ul><li>
+#. type: Content of: <div><p>
 msgid ""
-"jpeg <a href=\"/graphics/bwcartoon-m.jpg\">64k</a>, <a href=\"/graphics/"
-"bwcartoon.jpg\">185k</a>"
+"Gnu and Tux in their GPL armors are flying to the rescue of free software."
 msgstr ""
-"JPEG  <a href=\"/graphics/bwcartoon-m.jpg\">66 ko</a> (598x637), <a href=\"/"
-"graphics/bwcartoon.jpg\">187 ko</a> (1197x1275)"
+"Gnu et Tux volent au secours du logiciel libre dans leur armure de GPL."
 
-#. type: Content of: <ul><li>
-msgid "pnm <a href=\"/graphics/bwcartoon.pnm\">190k</a>"
-msgstr "PNM  <a href=\"/graphics/bwcartoon.pnm\">191 ko</a> (1197x1275)"
+#. type: Content of: <div><p>
+msgid "<em>Black and white drawing</em>"
+msgstr "<em>Dessin noir et blanc</em>"
 
-#. type: Content of: <p>
-msgid "They are also available as color images in the following formats:"
-msgstr "Il existe aussi en couleur aux formats suivants :"
-
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"JPEG <a href=\"/graphics/gnu-and-penguin-color-100x92.jpg\">8k</a>, <a href="
-"\"/graphics/gnu-and-penguin-color-300x276.jpg\">48k</a>, <a href=\"/graphics/"
-"gnu-and-penguin-color-1024x946.jpg\">412k</a>."
+"JPEG&nbsp; <a href=\"/graphics/bwcartoon-m.jpg\">66kB</a> (598x637),&nbsp; "
+"<a href=\"/graphics/bwcartoon.jpg\">187kB</a>&nbsp;(1197x1275)"
 msgstr ""
-"JPEG  <a href=\"/graphics/gnu-and-penguin-color-100x92.jpg\">8 ko</a> "
-"(100x92),  <a href=\"/graphics/gnu-and-penguin-color-300x276.jpg\">48 ko</a> "
-"(300x276),  <a href=\"/graphics/gnu-and-penguin-color-1024x946.jpg\">419 ko</"
+"JPEG&nbsp; <a href=\"/graphics/bwcartoon-m.jpg\">66 ko</a> (598x637),&nbsp; "
+"<a href=\"/graphics/bwcartoon.jpg\">187 ko</a>&nbsp;(1197x1275)"
+
+#. type: Content of: <div><ul><li>
+msgid "PNM&nbsp; <a href=\"/graphics/bwcartoon.pnm\">191kB</a> (1197x1275)"
+msgstr "PNM&nbsp; <a href=\"/graphics/bwcartoon.pnm\">191 ko</a> (1197x1275)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"SVG&nbsp; <a href=\"/graphics/bwcartoon-m.svg\">81kB</a> by Victor Siame"
+msgstr ""
+"SVG&nbsp; <a href=\"/graphics/bwcartoon-m.svg\">81 ko</a> by Victor Siame"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"See also <a href=\"https://commons.wikimedia.org/wiki/File:Tux-gnu-dynamic-"
+"duo.png\"> Wikimedia Commons</a>."
+msgstr ""
+"Voir également <a href=\"https://commons.wikimedia.org/wiki/File:Tux-gnu-"
+"dynamic-duo.png\">Wikimedia Commons</a>."
+
+#. type: Content of: <div><p>
+msgid "<em>Colored version</em>"
+msgstr "<em>Version en couleur</em>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"JPEG&nbsp; <a href=\"/graphics/gnu-and-penguin-color-100x92.jpg\">8kB</a> "
+"(100x92),&nbsp; <a href=\"/graphics/gnu-and-penguin-color-300x276.jpg"
+"\">48kB</a>&nbsp;(300x276),&nbsp; <a href=\"/graphics/gnu-and-penguin-"
+"color-1024x946.jpg\">419kB</a>&nbsp;(1024x946)"
+msgstr ""
+"JPEG&nbsp; <a href=\"/graphics/gnu-and-penguin-color-100x92.jpg\">8 ko</a> "
+"(100x92),&nbsp; <a href=\"/graphics/gnu-and-penguin-color-300x276.jpg"
+"\">48 ko</a>&nbsp;(300x276),&nbsp; <a href=\"/graphics/gnu-and-penguin-"
+"color-1024x946.jpg\">419 ko</a>&nbsp;(1024x946)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/gnu-and-penguin-color-100x92.png\">12kB</a> "
+"(100x92),&nbsp; <a href=\"/graphics/gnu-and-penguin-color-300x276.png"
+"\">83kB</a>&nbsp;(300x276),&nbsp; <a href=\"/graphics/gnu-and-penguin-"
+"color-1024x946.png\">800kB</a>&nbsp;(1024x946)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/gnu-and-penguin-color-100x92.png\">12 ko</a> "
+"(100x92),&nbsp; <a href=\"/graphics/gnu-and-penguin-color-300x276.png"
+"\">83 ko</a>&nbsp;(300x276),&nbsp; <a href=\"/graphics/gnu-and-penguin-"
+"color-1024x946.png\">800 ko</a>&nbsp;(1024x946)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"XCF&nbsp; <a href=\"/graphics/gnu-and-penguin-color-original.xcf\">5250kB</"
+"a> (1024x946)"
+msgstr ""
+"XCF&nbsp; <a href=\"/graphics/gnu-and-penguin-color-original.xcf\">5250 ko</"
 "a> (1024x946)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 1999 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1999 Free Software Foundation, Inc."
+
+#. type: Content of: <div><div><p>
 msgid ""
-"PNG <a href=\"/graphics/gnu-and-penguin-color-100x92.png\">12k</a>, <a href="
-"\"/graphics/gnu-and-penguin-color-300x276.png\">83k</a>, <a href=\"/graphics/"
-"gnu-and-penguin-color-1024x946.png\">790k</a>."
+"This image is available under the <a rel=\"license\" href=\"/licenses/old-"
+"licenses/gpl-2.0.html\">GNU General Public License</a>, version&nbsp;2 or "
+"any later version, or the <a rel=\"license\" href=\"/licenses/fdl.html\">GNU "
+"Free Documentation License</a>, version&nbsp;1.1 or any later version."
 msgstr ""
-"PNG  <a href=\"/graphics/gnu-and-penguin-color-100x92.png\">12 ko</a> "
-"(100x92),  <a href=\"/graphics/gnu-and-penguin-color-300x276.png\">83 ko</a> "
-"(300x276),  <a href=\"/graphics/gnu-and-penguin-color-1024x946.png\">800 ko</"
-"a> (1024x946)"
-
-#. type: Content of: <ul><li>
-msgid "XCF <a href=\"/graphics/gnu-and-penguin-color-original.xcf\">5250k</a>."
-msgstr ""
-"XCF  <a href=\"/graphics/gnu-and-penguin-color-original.xcf\">5250 ko</a> "
-"(2193x2027)"
-
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/graphics/graphics.html\">Other art</a> in the GNU Art Gallery."
-msgstr " "
-
-#. type: Content of: <p>
-msgid "The images linked to from this page are:"
-msgstr "Les images mises en lien sur cette page sont sous :"
-
-#. type: Content of: <p>
-msgid "Copyright (C) 1999, Free Software Foundation, Inc."
-msgstr "Copyright &copy; 1999, Free Software Foundation, Inc."
-
-#. type: Content of: <p>
-msgid ""
-"Permission is granted to copy, distribute and/or modify this image under the "
-"terms either:"
-msgstr ""
-"L'autorisation est donnée de copier, distribuer ou modifier cette image sous "
-"les termes de l'une des deux licences :"
-
-#. type: Content of: <ul><li>
-msgid ""
-"the <a href=\"/copyleft/gpl.html\">GNU General Public License</a> as "
-"published by the Free Software Foundation; either version 2 of the License, "
-"or (at your option) any later version, or"
-msgstr ""
-"la <a href=\"/copyleft/gpl.html\">licence publique générale GNU</a> telle "
-"que publiée par la <i>Free Software Foundation</i> ; soit la version 2 de la "
-"licence, soit (à votre convenance) toute version ultérieure, ou"
-
-#. type: Content of: <ul><li>
-msgid ""
-"the <a href=\"/copyleft/fdl.html\"> GNU Free Documentation License</a>, "
-"Version 1.1 or any later version published by the Free Software Foundation; "
-"with the no Invariant Sections, with no Front-Cover Texts and with no Back-"
-"Cover Texts."
-msgstr ""
-"la <a href=\"/copyleft/fdl.html\">licence GNU de documentation libre</a>, "
-"version 1.1 ou toute version ultérieure publiée par la <i>Free Software "
-"Foundation</i>, sans section invariante et sans texte de couverture ni de "
-"quatrième de couverture."
-
-#. type: Content of: <p>
-msgid ""
-"These images are distributed in the hope that it will be useful, but WITHOUT "
-"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
-"FITNESS FOR A PARTICULAR PURPOSE.  See the <a href=\"/copyleft/gpl.html"
-"\">GNU General Public License</a> for more details."
-msgstr ""
-"Ces images sont distribuées dans l'espoir qu'elles vous seront utiles, mais "
-"SANS GARANTIE ; sans même la garantie tacite de QUALITÉ MARCHANDE ou "
-"D'ADÉQUATION À UN BUT PARTICULIER. Voir la <a href=\"/copyleft/gpl.html"
-"\">licence publique générale GNU</a> pour plus de détails."
+"Cette image est disponible sous la <a rel=\"license\" href=\"/licenses/old-"
+"licenses/gpl-2.0.html\">licence publique générale GNU</a>, version 2 ou "
+"toute version ultérieure, ou bien la <a rel=\"license\" href=\"/licenses/fdl."
+"html\">licence GNU de documentation libre</a>, version 1.1 ou toute version "
+"ultérieure."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -195,19 +181,22 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution de paternité, pas de modification, 3.0 États-"
-"Unis (CC BY-ND 3.0 US)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

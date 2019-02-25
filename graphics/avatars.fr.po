@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: avatars.html\n"
-"POT-Creation-Date: 2018-11-22 15:26+0000\n"
-"PO-Revision-Date: 2018-11-22 19:38+0100\n"
+"POT-Creation-Date: 2019-02-25 13:26+0000\n"
+"PO-Revision-Date: 2019-02-25 14:58+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -27,290 +27,242 @@ msgid "GNU Avatars"
 msgstr "Avatars GNU"
 
 #. type: Content of: <p>
+msgid "by Joakim Olsson and Diego G&oacute;mez"
+msgstr "de Joakim Olsson et Diego G&oacute;mez"
+
+#. type: Content of: <div><p>
 msgid ""
-"This page is for GNU avatars. You can use these avatars on forums, in <abbr "
-"title=\"Instant messaging\">IM</abbr> programs, etc. Using these avatars is "
-"a good way to promote GNU and free software in general and to show others "
-"that you are pro-freedom."
+"You can use these avatars on forums, in <abbr title=\"Instant messaging"
+"\">IM</abbr> programs, etc. This is a good way to promote GNU and free "
+"software in general, and to show others that you are pro-freedom. The first "
+"seven avatars were made by Joakim, and the last one by Diego."
 msgstr ""
-"Cette page est destinée aux avatars GNU. Vous pouvez les utiliser sur les "
-"forums, dans les programmes de messagerie instantanée, etc. C'est un bon "
-"moyen de promouvoir GNU et le logiciel libre en général, et de montrer aux "
-"autres que vous êtes pour la liberté."
+"Vous pouvez utiliser ces avatars sur les forums, dans les programmes de "
+"messagerie instantanée, etc. C'est un bon moyen de promouvoir GNU et le "
+"logiciel libre en général, et de montrer aux autres que vous êtes pour la "
+"liberté. Les sept premiers sont de Joakim et le dernier de Diego."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"Avatar submissions are welcome and encouraged. Our policy for avatars is "
-"that all of these are true:"
+"Avatar submissions are welcome and encouraged. Your avatar should fulfill "
+"all these conditions:"
 msgstr ""
-"Les propositions d'avatars sont les bienvenues. Votre avatar doit satisfaire "
-"aux conditions suivantes :"
+"Les propositions d'avatars sont les bienvenues. Votre image doit avoir les "
+"caractéristiques suivantes :"
 
-#. type: Content of: <ol><li>
-msgid "It is small like a normal avatar."
-msgstr "Il doit être de petite taille, comme il sied à un avatar."
+#. type: Content of: <div><ol><li>
+msgid "It is the proper size for an avatar (typically, 100x100)."
+msgstr "sa taille convient à un avatar (typiquement 100x100) ;"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid "It has something to do with GNU or free software in general."
-msgstr "Il doit être en rapport avec GNU ou le logiciel libre en général."
+msgstr "elle est en rapport avec GNU ou le logiciel libre en général ;"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid "It has no copyright problems."
-msgstr "Il ne doit pas avoir de problème de copyright."
+msgstr "elle n'a pas de problème de copyright ;"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid "It is not libelous."
-msgstr "Il ne doit pas être diffamatoire."
+msgstr "elle n'est pas diffamatoire ;"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid "It won't offend most ordinary hackers more than is reasonable in humor."
-msgstr "Son humour ne doit pas heurter le hacker ordinaire plus que de raison."
+msgstr "son humour ne heurte par le hacker ordinaire plus que de raison."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We would like the avatars to say &ldquo;www.gnu.org&rdquo; or &ldquo;gnu."
 "org&rdquo; so that more people will find out about GNU and free software in "
 "general."
 msgstr ""
-"Nous aimerions qu'il mentionne « www.gnu.org » ou « gnu.org » afin qu'un "
-"plus grand nombre de gens découvrent GNU et le logiciel libre en général."
+"Nous aimerions que votre avatar mentionne « www.gnu.org » ou « gnu.org » "
+"afin qu'un plus grand nombre de gens découvrent GNU et le logiciel libre en "
+"général."
 
-#. type: Content of: <table><tr><th>
+#. type: Content of: <div><table><tr><th>
 msgid "Avatar"
 msgstr "Avatar"
 
-#. type: Content of: <table><tr><th>
+#. type: Content of: <div><table><tr><th>
 msgid "Based on"
 msgstr "Basé sur"
 
-#. type: Content of: <table><tr><th>
-msgid "Licensing of the avatar"
-msgstr "Licence de l'avatar"
-
-#. type: Content of: <table><tr><td><a>
+#. type: Content of: <div><table><tr><td><a>
 msgid "<a href=\"/graphics/avatar-bold-gnu.png\">"
 msgstr "<a href=\"/graphics/avatar-bold-gnu.png\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "&nbsp;[Avatar based on A Bold GNU Head]&nbsp;"
 msgstr " [Avatar basé sur « Une tête de GNU contrastée »] "
 
-#. type: Content of: <table><tr><td>
+#. type: Content of: <div><table><tr><td>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <table><tr><td>
+#. type: Content of: <div><table><tr><td><p>
 msgid ""
-"<a href=\"/graphics/heckert_gnu.html\">A&nbsp;Bold&nbsp;GNU&nbsp;Head</a> by "
-"Aurelio A. Heckert"
+"<a href=\"/graphics/heckert_gnu.html\">A Bold GNU Head</a> <small>by "
+"Aur&eacute;lio A. Heckert</small>"
 msgstr ""
-"<a href=\"/graphics/heckert_gnu.html\">Une tête de GNU contrastée</a>, par "
-"Aurelio A. Heckert"
+"<a href=\"/graphics/heckert_gnu.html\">Tête de GNU contrastée</a> "
+"<small>d'Aurélio A. Heckert</small>"
 
-#. type: Content of: <table><tr><td>
-msgid "Copyright &copy; 2004 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2004 Free Software Foundation, Inc."
+#. type: Content of: <div><table><tr><td><p><small>
+msgid "<small>Copyright &copy; 2003 Free Software Foundation, Inc."
+msgstr "<small>Copyright &copy; 2003 Free Software Foundation, Inc."
 
-#. type: Content of: <table><tr><td><p>
+#. type: Content of: <div><table><tr><td><p>
 msgid ""
-"Copyright &copy; 2007 <a href=\"http://lirhost.net/~jocke/\">Joakim Olsson</"
-"a> <a href=\"mailto:jocke@gnu.org\">&lt;jocke@gnu.org&gt;</a>"
+"License: <a rel=\"license\" href=\"/licenses/fdl.html\">FDL</a> v1.3, or <a "
+"rel=\"license\" href=\"https://directory.fsf.org/wiki/License:FAL1.3\"> Free "
+"Art</a>, or <a rel=\"license\" href=\"https://directory.fsf.org/wiki/License:"
+"CC_ASA2.0\"> CC&nbsp;BY-SA&nbsp;2.0</a>.</small>"
 msgstr ""
-"Copyright &copy; 2007 <a href=\"http://lirhost.net/~jocke/\">Joakim Olsson</"
-"a> <a href=\"mailto:jocke@gnu.org\">&lt;jocke@gnu.org&gt;</a>"
+"Licence: <a rel=\"license\" href=\"/licenses/fdl.html\">FDL</a> v1.3, ou <a "
+"rel=\"license\" href=\"http://artlibre.org\">Art libre</a>, ou <a rel="
+"\"license\" href=\"https://directory.fsf.org/wiki/License:"
+"CC_ASA2.0\">CC&nbsp;BY-SA&nbsp;2.0</a>.</small>"
 
-#. type: Content of: <table><tr><td><p>
-msgid ""
-"<a href=\"//directory.fsf.org/wiki/License:Free-Art-L-v1.3\">Free Art "
-"License</a>"
-msgstr "<a href=\"//artlibre.org/\">Licence art libre</a>"
-
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"/graphics/avatar-meditate.png\">"
-msgstr "<a href=\"/graphics/avatar-meditate.png\">"
-
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "&nbsp;[Avatar based on Levitating, Meditating, Flute-playing Gnu]&nbsp;"
-msgstr ""
-" [Avatar basé sur le « Gnou méditant en lévitation et jouant de la flûte »] "
-
-#. type: Content of: <table><tr><td>
-msgid ""
-"<a href=\"/graphics/meditate.html\">Levitating, Meditating, Flute-playing "
-"Gnu</a> by the Nevrax Design Team"
-msgstr ""
-"<a href=\"/graphics/meditate.html\">Gnou méditant en lévitation et jouant de "
-"la flûte</a>, par la <i>Nevrax Design Team</i>"
-
-#. type: Content of: <table><tr><td>
-msgid "Copyright &copy; 2001 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2001 Free Software Foundation, Inc."
-
-#. type: Content of: <table><tr><td><p>
-msgid "Copyright &copy; 2007 Diego Gómez"
-msgstr "Copyright &copy; 2007 Diego Gómez"
-
-#. type: Content of: <table><tr><td><p>
-msgid ""
-"<a href=\"/licenses/gpl.html\">GNU General Public License</a>, version 2 or "
-"later, or"
-msgstr ""
-"<a href=\"/licenses/gpl.html\">Licence publique générale GNU</a>, version 2 "
-"ou ultérieure, ou"
-
-#. type: Content of: <table><tr><td><p>
-msgid ""
-"<a href=\"/licenses/fdl.html\">GNU Free Documentation License</a>, version "
-"1.1 or later"
-msgstr ""
-"<a href=\"/licenses/fdl.html\">licence GNU de documentation libre</a>, "
-"version 1.1 ou ultérieure"
-
-#. type: Content of: <table><tr><td><a>
+#. type: Content of: <div><table><tr><td><a>
 msgid "<a href=\"/graphics/avatar-3d-gnu.png\">"
 msgstr "<a href=\"/graphics/avatar-3d-gnu.png\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "&nbsp;[Avatar based on 3D GNU head]&nbsp;"
-msgstr " [Avatar basé sur une « Tête de GNU en 3D »] "
+msgstr " [Avatar basé sur la « Tête de GNU en 3D »] "
 
-#. type: Content of: <table><tr><td>
-msgid "<a href=\"/graphics/bahlon/index.html\">3D GNU head</a>"
-msgstr "<a href=\"/graphics/bahlon/index.html\">Tête de GNU en 3D</a>"
+#. type: Content of: <div><table><tr><td><p>
+msgid "<a href=\"/graphics/bahlon/index.html\">GNU Head in 3D</a>"
+msgstr "<a href=\"/graphics/bahlon/index.html\">GNU Head in 3D</a>"
 
-#. type: Content of: <table><tr><td>
-msgid "Copyright &copy; 2007 Georg Bahlon"
-msgstr "Copyright &copy; 2007 Georg Bahlon"
+#. type: Content of: <div><table><tr><td><p><small>
+msgid "<small>Copyright &copy; 2007 Georg Bahlon"
+msgstr "<small>Copyright &copy; 2007 Georg Bahlon"
 
-#. type: Content of: <table><tr><td><p>
-msgid "Copyright &copy; 2007 Joakim Olsson"
-msgstr "Copyright &copy; 2007 Joakim Olsson"
-
-#. type: Content of: <table><tr><td><p>
+#. type: Content of: <div><table><tr><td><p>
 msgid ""
-"<a href=\"/licenses/old-licenses/gpl-2.0.html\">GNU General Public License</"
-"a>, version 2"
+"License: <a rel=\"license\" href=\"/licenses/gpl.html\">GPL</a>.</small>"
 msgstr ""
-"<a href=\"/licenses/old-licenses/gpl-2.0.html\">Licence publique générale "
-"GNU</a>, version 2"
+"Licence: <a rel=\"license\" href=\"/licenses/gpl.html\">GPL</a>.</small>"
 
-#. type: Content of: <table><tr><td><a>
+#. type: Content of: <div><table><tr><td><a>
 msgid "<a href=\"/graphics/avatar-ascii-gnu.png\">"
 msgstr "<a href=\"/graphics/avatar-ascii-gnu.png\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "&nbsp;[Avatar based on Another Small Ascii Gnu]&nbsp;"
 msgstr " [Avatar basé sur « Un autre petit Gnou en Ascii »] "
 
-#. type: Content of: <table><tr><td>
-msgid "<a href=\"/graphics/gnu-ascii2.html\">Another Small Ascii Gnu</a>"
-msgstr ""
-"<a href=\"/graphics/gnu-ascii2.html\">Un autre petit Gnou en Ascii</a> :"
+#. type: Content of: <div><table><tr><td><p>
+msgid "<a href=\"/graphics/gnu-ascii2.html\">Another ASCII Gnu</a>"
+msgstr "<a href=\"/graphics/gnu-ascii2.html\">Another ASCII Gnu</a>"
 
-#. type: Content of: <table><tr><td>
-msgid "Copyright &copy; 2004 Martin Dickopp"
-msgstr "Copyright &copy; 2004 Martin Dickopp"
+#. type: Content of: <div><table><tr><td><p><small>
+msgid "<small>Copyright &copy; 2004 Martin Dickopp"
+msgstr "<small>Copyright &copy; 2004 Martin Dickopp"
 
-#. type: Content of: <table><tr><td><p>
+#. type: Content of: <div><table><tr><td><p>
 msgid ""
-"Permission is given to copy or distribute (or both) this avatar, with or "
-"without modifications."
+"Permission is given to copy or distribute (or both) this image, with or "
+"without modifications.</small>"
 msgstr ""
-"La copie ou la distribution de cet avatar sont autorisées, avec ou sans "
-"modification."
+"La copie ou la distribution de cette image sont autorisées, avec ou sans "
+"modification.</small>"
 
-#. type: Content of: <table><tr><td><a>
+#. type: Content of: <div><table><tr><td><a>
 msgid "<a href=\"/graphics/avatar-3d-baby-gnu.png\">"
 msgstr "<a href=\"/graphics/avatar-3d-baby-gnu.png\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "&nbsp;[Avatar based on 3D Baby GNU]&nbsp;"
 msgstr " [Avatar basé sur le « Bébé GNU en 3D »] "
 
-#. type: Content of: <table><tr><td>
-msgid "<a href=\"/graphics/3dbabygnutux.html\">3D Baby GNU</a>"
-msgstr "<a href=\"/graphics/3dbabygnutux.html\">Bébé GNU en 3D</a>"
-
-#. type: Content of: <table><tr><td>
-msgid "Copyright &copy; 2005 Nicolas Rougier"
-msgstr "Copyright &copy; 2005 Nicolas Rougier"
-
-#. type: Content of: <table><tr><td><p>
+#. type: Content of: <div><table><tr><td><p>
 msgid ""
-"<a href=\"/licenses/gpl.html\">GNU General Public License</a>, version 2 or "
-"later"
+"<a href=\"/graphics/3dbabygnutux.html\">3D Baby GNU</a> <small>by Nicolas "
+"Rougier</small>"
 msgstr ""
-"<a href=\"/licenses/gpl.html\">Licence publique générale GNU</a>, version 2 "
-"ou ultérieure"
+"<a href=\"/graphics/3dbabygnutux.html\">Bébé GNU en 3D</a> <small>de Nicolas "
+"Rougier</small>"
 
-#. type: Content of: <table><tr><td><a>
+#. type: Content of: <div><table><tr><td><p><small>
+msgid "<small>Copyright &copy; 2011 Free Software Foundation, Inc."
+msgstr "<small>Copyright &copy; 2011 Free Software Foundation, Inc."
+
+#. type: Content of: <div><table><tr><td><p>
+msgid ""
+"License: <a rel=\"license\" href=\"/licenses/old-licenses/gpl-2.0.html\"> "
+"GPL</a> v2 or later</small>."
+msgstr ""
+"Licence: <a rel=\"license\" href=\"/licenses/old-licenses/gpl-2.0.html\"> "
+"GPL</a> v2 ou ultérieure</small>."
+
+#. type: Content of: <div><table><tr><td><a>
 msgid "<a href=\"/graphics/avatar-aq.png\">"
 msgstr "<a href=\"/graphics/avatar-aq.png\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "&nbsp;[Avatar based on an amusing alternative to the GNU Head]&nbsp;"
 msgstr " [Avatar basé sur une alternative amusante à la Tête de GNU] "
 
-#. type: Content of: <table><tr><td>
+#. type: Content of: <div><table><tr><td><p>
 msgid ""
-"<a href=\"/graphics/digital-restrictions-management.html\">Amusing "
-"alternative to the GNU Head</a>"
+"<a href=\"/graphics/digital-restrictions-management.html#aq\"> &ldquo;"
+"Aq&rdquo;</a>"
 msgstr ""
-"<a href=\"/graphics/digital-restrictions-management.html\">Alternative "
-"amusante à la Tête de GNU</a>"
+"<a href=\"/graphics/digital-restrictions-management.html#aq\">« Aq »</a>"
 
-#. type: Content of: <table><tr><td>
-msgid "<a href=\"/graphics/aq.svg\">SVG version</a>:"
-msgstr "<a href=\"/graphics/aq.svg\">Version SVG</a>:"
+#. type: Content of: <div><table><tr><td><p><small>
+msgid "<small>Copyright &copy; 2007 Chris Hayes"
+msgstr "<small>Copyright &copy; 2007 Chris Hayes"
 
-#. type: Content of: <table><tr><td>
-msgid "Copyright &copy; 2007 Stuart Langridge"
-msgstr "Copyright &copy; 2007 Stuart Langridge"
-
-#. type: Content of: <table><tr><td>
-msgid "Copyright &copy; 2007 Chris Hayes"
-msgstr "Copyright &copy; 2007 Chris Hayes"
-
-#. type: Content of: <table><tr><td><p>
+#. type: Content of: <div><table><tr><td><p>
 msgid ""
-"<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\"> Creative&nbsp;"
-"Commons Attribution-ShareAlike 3.0 License</a>"
+"License: <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-"
+"sa/3.0/\"> CC&nbsp;BY-SA&nbsp;3.0</a>.</small>"
 msgstr ""
-"<a href=\"http://creativecommons.org/licenses/by-sa/3.0/us/deed.fr\">Licence "
-"Creative Commons attribution, partage dans les mêmes conditions, 3.0</a>"
+"Licence: <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-"
+"sa/3.0/\"> CC&nbsp;BY-SA&nbsp;3.0</a>.</small>"
 
-#. type: Content of: <table><tr><td><a>
+#. type: Content of: <div><table><tr><td><a>
 msgid "<a href=\"/graphics/avatar-gnu-alternative.png\">"
 msgstr "<a href=\"/graphics/avatar-gnu-alternative.png\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "&nbsp;[Avatar based on Alternative GNU Head]&nbsp;"
 msgstr " [Avatar basé sur la « Tête de GNU alternative »] "
 
-#. type: Content of: <table><tr><td>
+#. type: Content of: <div><table><tr><td><p>
 msgid "<a href=\"/graphics/gnu-alternative.html\">Alternative GNU Head</a>"
 msgstr "<a href=\"/graphics/gnu-alternative.html\">Tête de GNU alternative</a>"
 
-#. type: Content of: <table><tr><td><p>
-msgid ""
-"<a href=\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative "
-"Commons Attribution-NoDerivs 3.0 United States License</a>"
-msgstr ""
-"<a href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr\">Licence "
-"Creative Commons attribution, pas de modification, 3.0 États-Unis</a>"
+#. type: Content of: <div><table><tr><td><p><small>
+msgid "<small>Copyright &copy; 2001 Free Software Foundation, Inc."
+msgstr "<small>Copyright &copy; 2001 Free Software Foundation, Inc."
 
-#. type: Content of: <table><tr><td><a>
+#. type: Content of: <div><table><tr><td><p>
+msgid ""
+"License: <a rel=\"license\" href=\"/licenses/fdl\">FDL</a> v1.2 or later, or "
+"<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/3.0/\"> "
+"CC&nbsp;BY-SA&nbsp;3.0</a>.</small>"
+msgstr ""
+"Licence: <a rel=\"license\" href=\"/licenses/fdl\">FDL</a> v1.2 ou "
+"ultérieure, ou <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-sa/3.0/\"> CC&nbsp;BY-SA&nbsp;3.0</a>.</small>"
+
+#. type: Content of: <div><table><tr><td><a>
 msgid "<a href=\"/graphics/avatar-dynamic-duo.png\">"
 msgstr "<a href=\"/graphics/avatar-dynamic-duo.png\">"
 
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid ""
 "&nbsp;[avatar based on The Dynamic Duo: The Gnu and the Penguin in flight]"
 "&nbsp;"
 msgstr ""
 " [Avatar basé sur « Le duo dynamique : le Gnou et le Manchot en vol »] "
 
-#. type: Content of: <table><tr><td>
+#. type: Content of: <div><table><tr><td><p>
 msgid ""
 "<a href=\"/graphics/bwcartoon.html\">The Dynamic Duo: The Gnu and the "
 "Penguin in flight</a>"
@@ -318,9 +270,46 @@ msgstr ""
 "<a href=\"/graphics/bwcartoon.html\">Le duo dynamique : le Gnou et le "
 "Manchot en vol »</a>"
 
-#. type: Content of: <table><tr><td>
-msgid "Copyright &copy; 1999 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 1999 Free Software Foundation, Inc."
+#. type: Content of: <div><table><tr><td><p><small>
+msgid "<small>Copyright &copy; 1999 Free Software Foundation, Inc."
+msgstr "<small>Copyright &copy; 1999 Free Software Foundation, Inc."
+
+#. type: Content of: <div><table><tr><td><p>
+msgid ""
+"License: <a rel=\"license\" href=\"/licenses/fdl.html\">FDL</a> v1.1 or "
+"later, or <a rel=\"license\" href=\"/licenses/old-licenses/gpl-2.0.html\"> "
+"GPL</a> v2 or later.</small>"
+msgstr ""
+"Licence: <a rel=\"license\" href=\"/licenses/fdl.html\">FDL</a> v1.1 ou "
+"ultérieure, ou <a rel=\"license\" href=\"/licenses/old-licenses/gpl-2.0.html"
+"\"> GPL</a> v2 ou ultérieure.</small>"
+
+#. type: Content of: <div><table><tr><td><a>
+msgid "<a href=\"/graphics/avatar-meditate.png\">"
+msgstr "<a href=\"/graphics/avatar-meditate.png\">"
+
+#. type: Attribute 'alt' of: <div><table><tr><td><a><img>
+msgid "&nbsp;[Avatar based on Levitating, Meditating, Flute-playing Gnu]&nbsp;"
+msgstr ""
+" [Avatar basé sur le « Gnou méditant en lévitation et jouant de la flûte »] "
+
+#. type: Content of: <div><table><tr><td><p>
+msgid ""
+"<a href=\"/graphics/meditate.html\">Levitating, Meditating, Flute-playing "
+"Gnu</a> <small>by the Nevrax Design Team</small>"
+msgstr ""
+"<a href=\"/graphics/meditate.html\">Gnou méditant en lévitation et jouant de "
+"la flûte</a>, <small>de la <cite>Nevrax Design Team</cite></small>"
+
+#. type: Content of: <div><table><tr><td><p>
+msgid ""
+"License: <a rel=\"license\" href=\"/licenses/gpl.html\">GPL</a> v3 or later, "
+"or <a rel=\"license\" href=\"/licenses/fdl.html\">FDL</a> v1.1 or later.</"
+"small>"
+msgstr ""
+"Licence: <a rel=\"license\" href=\"/licenses/gpl.html\">GPL</a> v3 ou "
+"ultérieure, ou <a rel=\"license\" href=\"/licenses/fdl.html\">FDL</a> v1.1 "
+"ou ultérieure.</small>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -368,19 +357,22 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2018 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2018 Free Software Foundation, Inc."
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
-"NoDerivatives 4.0 International License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
-"\">Creative Commons attribution, pas de modification, 4.0 internationale "
-"(CC BY-ND 4.0)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
