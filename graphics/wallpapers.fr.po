@@ -2,13 +2,13 @@
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza, 2007.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2013, 2016, 2017.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2013, 2016, 2017, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: wallpapers.html\n"
-"POT-Creation-Date: 2018-01-01 05:57+0000\n"
-"PO-Revision-Date: 2018-01-01 17:56+0100\n"
+"POT-Creation-Date: 2019-02-27 19:27+0000\n"
+"PO-Revision-Date: 2019-02-27 23:20+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -26,193 +26,669 @@ msgstr "Fonds d'écran - Projet GNU - Free Software Foundation"
 msgid "Wallpapers"
 msgstr "Fonds d'écran"
 
-#. type: Content of: <ul><li><p>
-msgid ""
-"<a href=\"/graphics/skwid-wallpapers.html\">GNU Wallpapers</a> by Ben &ldquo;"
-"Skwid&rdquo; Gailly."
-msgstr ""
-"<a href=\"/graphics/skwid-wallpapers.html\">Fonds d'écran GNU</a>, par Ben "
-"« Skwid » Gailly."
+#. type: Content of: <div><p>
+msgid "See also:"
+msgstr "Voir également :"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li>
 msgid ""
-"&ldquo;<a href=\"/graphics/plant-onion.html\">Plant Onions!</a>&rdquo; by "
-"Péhä."
+"<a href=\"/graphics/r4sh-gnu-vaporwave.html\">GNU Vaporwave Design</a> by "
+"R4sh,"
 msgstr ""
-"<cite><a href=\"/graphics/plant-onion.html\">Plant Onions!</a></cite> "
-"(Plantez des oignons !), par Péhä."
+"<a href=\"/graphics/r4sh-gnu-vaporwave.html\">Graphisme GNU dans le style "
+"vaporwave</a> de R4sh,"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li>
 msgid ""
-"&ldquo;<a href=\"/graphics/this-is-freedom-wallpaper.html\">This is Freedom</"
-"a>&rdquo; wallpaper, created by Vadim Gush."
+"<a href=\"/graphics/skwid-wallpapers.html\">GNU Designs</a> by Ben &ldquo;"
+"Skwid&rdquo; Gailly,"
 msgstr ""
-"<cite><a href=\"/graphics/this-is-freedom-wallpaper.html\">This is Freedom</"
-"a></cite> (Voici la liberté), par Vadim Gush."
+"<a href=\"/graphics/skwid-wallpapers.html\">Graphismes GNU</a> de Ben &ldquo;"
+"Skwid&rdquo; Gailly,"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li>
 msgid ""
-"&ldquo;<a href=\"/graphics/gnu-born-free-run-free-wallpaper.png\"> GNU Born "
-"Free Run Free</a>&rdquo; wallpaper, by Alicia Lapekas."
+"<a href=\"/graphics/free-your-soul.html\">Free Your Soul wallpaper</a> by "
+"Sayem Chaklader,"
 msgstr ""
-"<cite><a href=\"/graphics/gnu-born-free-run-free-wallpaper.png\">GNU Born "
-"Free Run Free</a></cite> (GNU, né libre, tourne librement), par Alicia "
-"Lapekas."
+"<a href=\"/graphics/winkler-gnu.html\">Fond d'écran « Libérez votre "
+"esprit »</a> de Sayem Chaklader."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li>
 msgid ""
-"&ldquo;<a href=\"/graphics/time_for_freedom.png\">Time For Freedom</"
-"a>&rdquo; wallpaper is by <a href=\"mailto:sueroski@interia.pl\"> Sueroski</"
-"a>."
+"<a href=\"/graphics/plant-onion.html\">Plant Onions!</a> by P&eacute;"
+"h&aacute;,"
 msgstr ""
-"<cite><a href=\"/graphics/time_for_freedom.png\">Time For Freedom</a></cite> "
-"(C'est l'heure de la liberté), par <a href=\"mailto:sueroski@interia.pl"
-"\">Sueroski</a>."
+"<cite><a href=\"/graphics/plant-onion.html\">Plantez des oignons !</a></"
+"cite> de Péhä."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li>
 msgid ""
-"&ldquo;<a href=\"/graphics/I_run_GNU_by_GNUlancer.png\">I run gnu</a>&rdquo; "
-"wallpaper by <a href=\"mailto:idenim@mail.ru\">GNULancer</a>.  Its source is "
-"<a href=\"/graphics/__I_run_GNU___source_file_by_GNUlancer.xcf\">here</a>."
+"<a href=\"/graphics/this-is-freedom-wallpaper.html\">This is Freedom "
+"wallpaper</a> by Vadim Gush,"
 msgstr ""
-"<cite>I run gnu</cite> (Je fais tourner GNU), par <a href=\"mailto:"
-"idenim@mail.ru\">GNULancer</a>, disponible en <a href=\"/graphics/"
-"I_run_GNU_by_GNUlancer.png\">PNG</a> et <a href=\"/graphics/"
-"__I_run_GNU___source_file_by_GNUlancer.xcf\">XCF</a>."
+"<cite><a href=\"/graphics/this-is-freedom-wallpaper.html\">Fond d'écran "
+"« Voici la liberté »</a></cite> de Vadim Gush."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://hpfteam.free.fr/\">Harrypopof</a> has created a set of "
-"&ldquo;Free Software Song&rdquo; wallpapers."
+"<a href=\"/graphics/emacs-ref.html\">GNU Emacs Reference Card</a> by Loic "
+"Duros and FSF Staff."
 msgstr ""
-"Fonds d'écran sur le thème de la « Chanson du logiciel libre », par <a href="
-"\"http://hpfteam.free.fr/\">Harrypopof</a> :"
+"<a href=\"/graphics/emacs-ref.html\">Fond d'écran de référence pour GNU "
+"Emacs</a> par Loic Duros et l'équipe de la FSF."
 
-#. type: Content of: <ul><li><p>
-msgid ""
-"- White font: <a href=\"/graphics/FSS_800.png\">800x600</a> | <a href=\"/"
-"graphics/FSS_1024.png\">1024x768</a> | <a href=\"/graphics/FSS_1280.png"
-"\">1280x960</a>"
-msgstr ""
-"- police blanche : <a href=\"/graphics/FSS_800.png\">800x600</a> | <a href="
-"\"/graphics/FSS_1024.png\">1024x768</a> | <a href=\"/graphics/FSS_1280.png"
-"\">1280x960</a>"
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/Free_as_in_Freedom_gnu-org_fsf-org.png\">"
+msgstr "<a href=\"/graphics/Free_as_in_Freedom_gnu-org_fsf-org.png\">"
 
-#. type: Content of: <ul><li><p>
-msgid ""
-"- Black font: <a href=\"/graphics/FSS-2_800.png\">800x600</a> | <a href=\"/"
-"graphics/FSS-2_1024.png\">1024x768</a> | <a href=\"/graphics/FSS-2_1280.png"
-"\">1280x960</a>"
-msgstr ""
-"- police noire : <a href=\"/graphics/FSS-2_800.png\">800x600</a> | <a href="
-"\"/graphics/FSS-2_1024.png\">1024x768</a> | <a href=\"/graphics/FSS-2_1280."
-"png\">1280x960</a>"
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Free as in Freedom, gnu.org fsf.org wallpaper]&nbsp;"
+msgstr " [Fond d'écran 'Libre comme dans liberté, gnu.org fsf.org'] "
 
-#. type: Content of: <ul><li><p>
-msgid ""
-"&ldquo;<a href=\"/graphics/einstein-gnu-think-freely.png\">Think freely</"
-"a>&rdquo; is a wallpaper created by <a href=\"http://lirhost.net/~jocke/"
-"\">Joakim Olsson</a>. It is a travesty on <a href=\"http://en.wikipedia.org/"
-"wiki/Think_Different\">the &ldquo;Think different&rdquo;-advertising slogan "
-"created for Apple Computer</a>."
-msgstr ""
-"<a href=\"/graphics/einstein-gnu-think-freely.png\"><cite>Think freely</"
-"cite></a> (Pensez librement), par <a href=\"http://lirhost.net/~jocke/"
-"\">Joakim Olsson</a>. C'est une imitation de <a href=\"http://en.wikipedia."
-"org/wiki/Think_Different\"><cite>Think different</cite></a> (le slogan "
-"publicitaire créé pour Apple)."
+#. type: Content of: <table><tr><td>
+msgid "</a>"
+msgstr "</a>"
 
-#. type: Content of: <ul><li>
-msgid ""
-"Shree Kant Bohra made a 900x900 wallpaper &ldquo;<a href=\"/graphics/grab-"
-"your-freedom.jpg\">Grab your freedom today!</a>&rdquo;, promoting the usage "
-"of <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a>."
-msgstr ""
-"<cite><a href=\"/graphics/grab-your-freedom.jpg\">Grab your freedom today!</"
-"a></cite> (Aujourd'hui, emparez-vous de votre liberté !), fond d'écran "
-"900x900 créé par Shree Kant Bohra pour promouvoir l'utilisation de <a href="
-"\"/gnu/linux-and-gnu.html\">GNU/Linux</a>."
+#. type: Content of: <table><tr><td><p>
+msgid "<em>Free As In Freedom</em>"
+msgstr "<em>Libre comme dans liberté</em>"
 
-#. type: Content of: <ul><li><p>
-msgid ""
-"Dustin Jorge made a nice wallpaper inspired by the GNU head. He spent some "
-"time researching copyright for a paper he had to do for a class. In the "
-"meantime he made this desktop (<a href=\"/graphics/gnublue.png\">PNG, 503kB</"
-"a>)."
-msgstr ""
-"Joli fond d'écran inspiré de la tête de GNU (<a href=\"/graphics/gnublue.png"
-"\">PNG, 503 ko</a>), réalisé par Dustin Jorge pendant les temps morts de "
-"recherches assez longues qu'il a dû faire pour un exposé sur le copyright ."
+#. type: Content of: <table><tr><td><p><small>
+msgid "<small>By Caleb Herbert"
+msgstr "<small>de Caleb Herbert"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <table><tr><td><p>
 msgid ""
-"<a href=\"/graphics/gnu-slash-linux.html\">Three GNU/linux wallpapers</a> by "
-"Rui Damas."
+"Public domain <a rel=\"license\" href=\"https://creativecommons.org/"
+"publicdomain/zero/1.0/\"> CC&nbsp;Zero&nbsp;1.0</a></small>"
 msgstr ""
-"<a href=\"/graphics/gnu-slash-linux.html\">Trois fonds d'écran GNU/linux</"
-"a>, par Rui Damas."
+"Domaine public <a rel=\"license\" href=\"https://creativecommons.org/"
+"publicdomain/zero/1.0/\"> CC Zero 1.0</a></small>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <table><tr><td><p>
 msgid ""
-"<a href=\"/graphics/gnu-alternative.html\">Two wallpapers based on the "
-"alternative GNU head</a>."
+"1024x768:&nbsp; PNG <a href=\"/graphics/Free_as_in_Freedom_gnu-org_fsf-org."
+"png\">30kB</a>,&nbsp; XCF&nbsp;<a href=\"/graphics/Free_as_in_Freedom_gnu-"
+"org_fsf-org.xcf\">86kB</a>"
 msgstr ""
-"<a href=\"/graphics/gnu-alternative.html\">Deux fonds d'écran basés sur la "
-"Tête de GNU alternative</a>."
+"1024x768:&nbsp; PNG <a href=\"/graphics/Free_as_in_Freedom_gnu-org_fsf-org."
+"png\">30 ko</a>,&nbsp; XCF&nbsp;<a href=\"/graphics/Free_as_in_Freedom_gnu-"
+"org_fsf-org.xcf\">86 ko</a>"
 
-#. type: Content of: <ul><li><p>
-msgid ""
-"<a href=\"/graphics/meditate.html\">A wallpaper based on &ldquo;Levitating, "
-"Meditating, Flute-playing Gnu&rdquo;</a> by Gonzalo Pineda."
-msgstr ""
-"<a href=\"/graphics/meditate.html\">Fond d'écran basé sur le Gnou en "
-"méditation, en lévitation et jouant de la flûte</a>, par Gonzalo Pineda."
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/gnulinux_rms_phrase.png\">"
+msgstr "<a href=\"/graphics/gnulinux_rms_phrase.png\">"
 
-#. type: Content of: <ul><li><p>
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid ""
-"<a href=\"/graphics/winkler-gnu.html\">A blue wallpaper</a> by Kyle Winkler."
+"&nbsp;[Baby Gnu and baby Tux wallpaper with the GNU Project definition]&nbsp;"
 msgstr ""
-"<a href=\"/graphics/winkler-gnu.html\">Un fond d'écran bleu</a>, par Kyle "
-"Winkler."
+" [Fond d'écran 'Bébé Gnu and bébé Tux avec la définition du projet GNU'] "
 
-#. type: Content of: <ul><li><p>
-msgid ""
-"&ldquo;<a href=\"/graphics/free_as_in_freedom.png\">Free As In Freedom</"
-"a>&rdquo; by <a href=\"mailto:c0rtm4n@gmail.com\">Cortman</a>."
-msgstr ""
-"« <a href=\"/graphics/free_as_in_freedom.png\">Libre comme dans liberté</"
-"a> », par <a href=\"mailto:c0rtm4n@gmail.com\">Cortman</a>."
+#. type: Content of: <table><tr><td><p>
+msgid "<em>Baby Gnu and Baby Tux with the GNU Project definition</em>"
+msgstr "<em>Bébé Gnu and bébé Tux avec la définition du projet GNU</em>"
 
-#. type: Content of: <ul><li><p>
-msgid ""
-"&ldquo;Free As In Freedom&rdquo; — minimalist wallpaper: <a href=\"/graphics/"
-"Free_as_in_Freedom_gnu-org_fsf-org.png\">PNG </a> (30.3kB)  and <a href=\"/"
-"graphics/Free_as_in_Freedom_gnu-org_fsf-org.xcf\">XCF </a> (86.1kB).  "
-"Written in 2015 by Caleb Herbert.  To the extent possible under law, the "
-"author(s) have dedicated all copyright and related and neighboring rights to "
-"this work to the <a href=\"http://creativecommons.org/publicdomain/zero/1.0/"
-"\">public domain</a> worldwide."
-msgstr ""
-"Fond d'écran minimaliste créé en 2015 par Calb Herbert, disponible aux "
-"formats PNG (<a href=\"/graphics/Free_as_in_Freedom_gnu-org_fsf-org.png"
-"\">30.3 ko</a>) et XCF (<a href=\"/graphics/Free_as_in_Freedom_gnu-org_fsf-"
-"org.xcf\">86.1 ko</a>). L'auteur a dédié cette œuvre au <a href=\"http://"
-"creativecommons.org/publicdomain/zero/1.0/\">domaine public</a> en renonçant "
-"dans le monde entier à ses droits sur l’œuvre selon les lois sur le droit "
-"d’auteur, les droits voisins et droits connexes, dans la mesure permise par "
-"la loi."
+#. type: Content of: <table><tr><td><p><small>
+msgid "<small>By Alex M. James"
+msgstr "<small>d'Alex M. James"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <table><tr><td><p><small>
 msgid ""
-"&ldquo;<a href=\"/graphics/gnulinux_rms_phrase.png\">Baby GNU and baby Tux, "
-"with the GNU project definition</a>&rdquo; based on Nicolas Rougier's <a "
-"href=\"http://www.labri.fr/perso/nrougier/artwork/index.html\">renders</a>, "
-"edited by Alex M James."
+"(based on Nicolas Rougier's <a href=\"/graphics/3dbabygnutux.html\">black "
+"wallpaper</a>)"
 msgstr ""
-"<a href=\"/graphics/gnulinux_rms_phrase.png\">Bébé GNU et bébé Tux avec la "
-"définition du projet GNU</a>, basé sur un <a href=\"http://www.labri.fr/"
-"perso/nrougier/artwork/index.html\">rendu</a> de Nicolas Rougier édité par "
-"Alex M. James."
+"(basé sur le <a href=\"/graphics/3dbabygnutux.html\">fond d'écran noir</a> "
+"de Nicolas Rougier)"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"<a rel=\"license\" href=\"/licenses/old-licenses/gpl-2.0.html\">GNU GPL</a> "
+"v2 or later</small>"
+msgstr ""
+"<a rel=\"license\" href=\"/licenses/old-licenses/gpl-2.0.html\">GNU GPL</a> "
+"v2 ou ultérieure</small>"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"2120x1280:&nbsp; PNG <a href=\"/graphics/gnulinux_rms_phrase.png\">1.1MB</a>"
+msgstr ""
+"2120x1280:&nbsp; PNG <a href=\"/graphics/gnulinux_rms_phrase.png\">1,1 Mo</a>"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/free_as_in_freedom.png\">"
+msgstr "<a href=\"/graphics/free_as_in_freedom.png\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Free as in Freedom wallpaper]&nbsp;"
+msgstr "&nbsp;[Fond d'écran 'Libre comme dans liberté']&nbsp;"
+
+#. type: Content of: <table><tr><td><p>
+msgid "<em>Free as in Freedom</em>"
+msgstr "<em>Libre comme dans liberté</em>"
+
+#. type: Content of: <table><tr><td><p><small>
+msgid "<small>By Cortman"
+msgstr "<small>de Cortman"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"1920x1080:&nbsp; PNG <a href=\"/graphics/free_as_in_freedom.png\">64kB</a>"
+msgstr ""
+"1920x1080:&nbsp; PNG <a href=\"/graphics/free_as_in_freedom.png\">64 ko</a>"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/FSS_1280.png\">"
+msgstr "<a href=\"/graphics/FSS_1280.png\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[The Free Software Song wallpaper]&nbsp;"
+msgstr " [Fond d'écran 'La chanson du logiciel libre'] "
+
+#. type: Content of: <table><tr><td><p>
+msgid "<em>The Free Software Song</em>"
+msgstr "<em>La chanson du logiciel libre</em>"
+
+#. type: Content of: <table><tr><td><p><small>
+msgid ""
+"<small>Copyright &copy; 2012 <a href=\"http://hpfteam.free.fr/\">Harrypopof</"
+"a>"
+msgstr ""
+"<small>Copyright &copy; 2012 <a href=\"http://hpfteam.free.fr/\">Harrypopof</"
+"a>"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"<a rel=\"license\" href=\"https://directory.fsf.org/wiki/License:FAL1.3\"> "
+"Free Art License</a></small>"
+msgstr ""
+"<a rel=\"license\" href=\"http://freeart.org/\">Licence art libre</a></small>"
+
+#. type: Content of: <table><tr><td><dl><dt>
+msgid "White font"
+msgstr "Lettres blanches"
+
+#. type: Content of: <table><tr><td><dl><dd>
+msgid "800x600:&nbsp; PNG <a href=\"/graphics/FSS_800.png\">98kB</a>"
+msgstr "800x600:&nbsp; PNG <a href=\"/graphics/FSS_800.png\">98 ko</a>"
+
+#. type: Content of: <table><tr><td><dl><dd>
+msgid "1024x768:&nbsp; PNG <a href=\"/graphics/FSS_1024.png\">141kB</a>"
+msgstr "1024x768:&nbsp; PNG <a href=\"/graphics/FSS_1024.png\">141 ko</a>"
+
+#. type: Content of: <table><tr><td><dl><dd>
+msgid "1280x960:&nbsp; PNG <a href=\"/graphics/FSS_1280.png\">160kB</a>"
+msgstr "1280x960:&nbsp; PNG <a href=\"/graphics/FSS_1280.png\">160 ko</a>"
+
+#. type: Content of: <table><tr><td><dl><dt>
+msgid "Black font"
+msgstr "Lettres noires"
+
+#. type: Content of: <table><tr><td><dl><dd>
+msgid "800x600:&nbsp; PNG <a href=\"/graphics/FSS-2_800.png\">99kB</a>"
+msgstr "800x600:&nbsp; PNG <a href=\"/graphics/FSS-2_800.png\">99 ko</a>"
+
+#. type: Content of: <table><tr><td><dl><dd>
+msgid "1024x768:&nbsp; PNG <a href=\"/graphics/FSS-2_1024.png\">143kB</a>"
+msgstr "1024x768:&nbsp; PNG <a href=\"/graphics/FSS-2_1024.png\">143 ko</a>"
+
+#. type: Content of: <table><tr><td><dl><dd>
+msgid "1280x960:&nbsp; PNG <a href=\"/graphics/FSS-2_1280.png\">161kB</a>"
+msgstr "1280x960:&nbsp; PNG <a href=\"/graphics/FSS-2_1280.png\">161 ko</a>"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/time_for_freedom.png\">"
+msgstr "<a href=\"/graphics/time_for_freedom.png\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Time For Freedom wallpaper]&nbsp;"
+msgstr " [Fond d'écran 'C'est l'heure de la liberté'] "
+
+#. type: Content of: <table><tr><td><p>
+msgid "<em>Time For Freedom</em>"
+msgstr "<em>C'est l'heure de la liberté</em>"
+
+#. type: Content of: <table><tr><td><p><small>
+msgid "<small>Copyright &copy; 2011 Sueroski"
+msgstr "<small>Copyright &copy; 2011 Sueroski"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"<a rel=\"license\" href=\"/licenses/fdl.html\">FDL</a> v1.3 or later</small>"
+msgstr ""
+"<a rel=\"license\" href=\"/licenses/fdl.html\">FDL</a> v1.3 ou ultérieure</"
+"small>"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"1600x1200:&nbsp; PNG <a href=\"/graphics/time_for_freedom.png\">2.6MB</a>"
+msgstr ""
+"1600x1200:&nbsp; PNG <a href=\"/graphics/time_for_freedom.png\">2,6 Mo</a>"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/grab-your-freedom.jpg\">"
+msgstr "<a href=\"/graphics/grab-your-freedom.jpg\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Grab Your Freedom Today wallpaper]&nbsp;"
+msgstr " [Fond d'écran 'Prends ta liberté en mains dès aujourd'hui !'] "
+
+#. type: Content of: <table><tr><td><p>
+msgid "<em>GNU/Linux &mdash; Grab Your Freedom Today!</em>"
+msgstr "<em>GNU/Linux – Prends ta liberté en mains dès aujourd'hui !</em>"
+
+#. type: Content of: <table><tr><td><p><small>
+msgid "<small>Copyright &copy; 2008 Shree Kant Bohra"
+msgstr "<small>Copyright &copy; 2008 Shree Kant Bohra"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"<a href=\"/licenses/old-licenses/gpl-2.0.html\">GPL</a> v2 or later, or <a "
+"rel=\"license\" href=\"/licenses/fdl.html\">FDL</a> v1.2 or later</small>"
+msgstr ""
+"<a href=\"/licenses/old-licenses/gpl-2.0.html\">GPL</a> v2 ou ultérieure, ou "
+"bien <a rel=\"license\" href=\"/licenses/fdl.html\">FDL</a> v1.2 ou "
+"ultérieure</small>"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"900x900:&nbsp; JPEG <a href=\"/graphics/grab-your-freedom.jpg\">74kB</a>"
+msgstr ""
+"900x900:&nbsp; JPEG <a href=\"/graphics/grab-your-freedom.jpg\">74 ko</a>"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/gnu-born-free-run-free-wallpaper.png\">"
+msgstr "<a href=\"/graphics/gnu-born-free-run-free-wallpaper.png\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU Born Free Runs Free wallpaper]&nbsp;"
+msgstr " [Fond d'écran 'GNU, né libre, tourne librement'] "
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"<em><a href=\"/graphics/gnu-born-free-run-free.html\">GNU Born Free Runs "
+"Free</a></em>"
+msgstr ""
+"<em><a href=\"/graphics/gnu-born-free-run-free.html\">GNU, né libre, tourne "
+"librement</a></em>"
+
+#. type: Content of: <table><tr><td><p><small>
+msgid "<small>Copyright &copy; 2007 Alicia Lapekas"
+msgstr "<small>Copyright &copy; 2007 Alicia Lapekas"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/3.0/\"> "
+"CC BY-SA 3.0</a></small>"
+msgstr ""
+"<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/3.0/"
+"deed.fr\"> CC BY-SA 3.0</a></small>"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"1280x800:&nbsp; PNG <a href=\"/graphics/gnu-born-free-run-free-wallpaper.png"
+"\">158kB</a>"
+msgstr ""
+"1280x800:&nbsp; PNG <a href=\"/graphics/gnu-born-free-run-free-wallpaper.png"
+"\">158 ko</a>"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/winkler-gnu-blue.png\">"
+msgstr "<a href=\"/graphics/winkler-gnu-blue.png\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Alternative GNU Logo wallpaper]&nbsp;"
+msgstr " [Fond d'écran bleu avec le logo GNU alternatif] "
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"<em><a href=\"/graphics/winkler-gnu.html\">Alternative GNU Logo</a></em>"
+msgstr ""
+"<em><a href=\"/graphics/winkler-gnu.html\">Logo GNU alternatif</a></em>"
+
+#. type: Content of: <table><tr><td><p><small>
+msgid "<small>Copyright &copy; 2007 Kyle Winkler"
+msgstr "<small>Copyright &copy; 2007 Kyle Winkler"
+
+#. type: Content of: <table><tr><td><p>
+msgid "1280x800:&nbsp; PNG <a href=\"/graphics/winkler-gnu-blue.png\">93kB</a>"
+msgstr ""
+"1280x800:&nbsp; PNG <a href=\"/graphics/winkler-gnu-blue.png\">93 ko</a>"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/einstein-gnu-think-freely.png\">"
+msgstr "<a href=\"/graphics/einstein-gnu-think-freely.png\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Think Freely wallpaper]&nbsp;"
+msgstr " [Think Freely wallpaper] "
+
+#. type: Content of: <table><tr><td><p>
+msgid "<em>Think Freely</em>"
+msgstr "<em>Pense librement</em>"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"<small>(a travesty on the &ldquo;<a href=\"http://en.wikipedia.org/wiki/"
+"Think_Different\">Think different</a>&rdquo; advertising slogan)</small>"
+msgstr ""
+"<small>(parodie du slogan publicitaire « <a href=\"http://en.wikipedia.org/"
+"wiki/Think_Different\">Think different</a> »)</small>"
+
+#. type: Content of: <table><tr><td><p><small>
+msgid "<small>Copyright &copy; 2007 Joakim Olsson"
+msgstr "<small>Copyright &copy; 2007 Joakim Olsson"
+
+#. type: Content of: <table><tr><td><p><small>
+msgid ""
+"(based on a public domain <a href=\"https://commons.wikimedia.org/wiki/File:"
+"Albert_Einstein_1947.jpg\"> photo of Einstein</a>, and Aur&eacute;lio A. "
+"Heckert's <a href=\"/graphics/heckert_gnu.html\">Bold GNU Head</a>)"
+msgstr ""
+"(basé sur une <a href=\"https://commons.wikimedia.org/wiki/File:"
+"Albert_Einstein_1947.jpg\">photo d'Einstein</a> tombée dans le domaine "
+"public, et sur la <a href=\"/graphics/heckert_gnu.html\">Tête de GNU "
+"contrastée</a> d'Aurélio A. Heckert)"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"<a rel=\"license\" href=\"/licenses/old-licenses/gpl-2.0.html\">GPL</a> v2 "
+"or later, or <a rel=\"license\" href=\"/licenses/fdl.html\">FDL</a> v1.2 or "
+"later</small>"
+msgstr ""
+"<a rel=\"license\" href=\"/licenses/old-licenses/gpl-2.0.html\">GPL</a> v2 "
+"ou ultérieure, ou bien <a rel=\"license\" href=\"/licenses/fdl.html\">FDL</"
+"a> v1.2 ou ultérieure</small>"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"1280x1024:&nbsp; PNG <a href=\"/graphics/einstein-gnu-think-freely.png"
+"\">450kB</a>"
+msgstr ""
+"1280x1024:&nbsp; PNG <a href=\"/graphics/einstein-gnu-think-freely.png"
+"\">450 ko</a>"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/gnu-alt-wp1.png\">"
+msgstr "<a href=\"/graphics/gnu-alt-wp1.png\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU powered wallpaper]&nbsp;"
+msgstr " [Fond d'écran 'Propulsé par GNU'] "
+
+#. type: Content of: <table><tr><td><p>
+msgid "<em>GNU powered</em>"
+msgstr "<em>Propulsé par GNU</em>"
+
+#. type: Content of: <table><tr><td><p><small>
+msgid "<small>Copyright &copy; 2006 “Requiem”"
+msgstr "<small>Copyright &copy; 2006 « Requiem »"
+
+#. type: Content of: <table><tr><td><p><small>
+msgid ""
+"(based on the <a href=\"/graphics/gnu-alternative.html\">GNU Alternative</a>)"
+msgstr ""
+"(basé sur la <a href=\"/graphics/gnu-alternative.html\">Tête de GNU "
+"alternative</a>)"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"<a rel=\"license\" href=\"/licenses/fdl\">FDL</a> v1.2 or later, or <a rel="
+"\"license\" href=\"https://creativecommons.org/licenses/by-sa/3.0/\"> "
+"CC&nbsp;BY-SA&nbsp;3.0</a></small>"
+msgstr ""
+"<a rel=\"license\" href=\"/licenses/fdl\">FDL</a> v1.2 ou ultérieure, ou "
+"bien <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-"
+"sa/3.0/\"> CC&nbsp;BY-SA&nbsp;3.0</a></small>"
+
+#. type: Content of: <table><tr><td><p>
+msgid "1024x768:&nbsp; PNG <a href=\"/graphics/gnu-alt-wp1.png\">844kB</a>"
+msgstr "1024x768:&nbsp; PNG <a href=\"/graphics/gnu-alt-wp1.png\">844 ko</a>"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/gnu-alt-wp2.png\">"
+msgstr "<a href=\"/graphics/gnu-alt-wp2.png\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[The way of the General Public License wallpaper]&nbsp;"
+msgstr " [Fond d'écran 'La route de la licence publique générale GNU'] "
+
+#. type: Content of: <table><tr><td><p>
+msgid "<em>The way of the General Public License</em>"
+msgstr "<em>La route de la GPL</em>"
+
+#. type: Content of: <table><tr><td><p>
+msgid "1024x768:&nbsp; PNG <a href=\"/graphics/gnu-alt-wp2.png\">487kB</a>"
+msgstr "1024x768:&nbsp; PNG <a href=\"/graphics/gnu-alt-wp2.png\">487 ko</a>"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/gnu-linux-black-wallpaper.png\">"
+msgstr "<a href=\"/graphics/gnu-linux-black-wallpaper.png\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Gnu and Tux wallpaper, black shapes]&nbsp;"
+msgstr " [Fond d'écran 'Gnu et Tux', silhouettes noires] "
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"<em><a href=\"/graphics/gnu-slash-linux.html\">Gnu and Tux, black</a></em>"
+msgstr ""
+"<em><a href=\"/graphics/gnu-slash-linux.html\">Gnu et Tux, noir</a></em>"
+
+#. type: Content of: <table><tr><td><p><small>
+msgid "<small>By Rui Damas"
+msgstr "<small>de Rui Damas"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"<a rel=\"license\" href=\"/licenses/old-licenses/gpl-2.0.html\">GPL</a> v2 "
+"or later</small>"
+msgstr ""
+"<a rel=\"license\" href=\"/licenses/old-licenses/gpl-2.0.html\">GPL</a> v2 "
+"ou ultérieure</small>"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"1600x1200:&nbsp; PNG <a href=\"/graphics/gnu-linux-black-wallpaper.png"
+"\">402kB</a>"
+msgstr ""
+"1600x1200:&nbsp; PNG <a href=\"/graphics/gnu-linux-black-wallpaper.png"
+"\">402 ko</a>"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/gnu-linux-white-wallpaper.png\">"
+msgstr "<a href=\"/graphics/gnu-linux-white-wallpaper.png\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Gnu and Tux wallpaper, white shapes]&nbsp;"
+msgstr " [Fond d'écran 'Gnu et Tux', silhouettes blanches] "
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"<em><a href=\"/graphics/gnu-slash-linux.html\">Gnu and Tux, white</a></em>"
+msgstr ""
+"<em><a href=\"/graphics/gnu-slash-linux.html\">Gnu et Tux, blanc</a></em>"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"1600x1200:&nbsp; PNG <a href=\"/graphics/gnu-linux-white-wallpaper.png"
+"\">553kB</a>"
+msgstr ""
+"1600x1200:&nbsp; PNG <a href=\"/graphics/gnu-linux-white-wallpaper.png"
+"\">553 koB</a>"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/gnu-linux-color-wallpaper.png\">"
+msgstr "<a href=\"/graphics/gnu-linux-color-wallpaper.png\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Gnu and Tux wallpaper, colored shapes]&nbsp;"
+msgstr " [Fond d'écran 'Gnu et Tux', silhouettes en couleur] "
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"<em><a href=\"/graphics/gnu-slash-linux.html\">Gnu and Tux, color</a></em>"
+msgstr ""
+"<em><a href=\"/graphics/gnu-slash-linux.html\">Gnu et Tux, couleur</a></em>"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"1600x1200:&nbsp; PNG <a href=\"/graphics/gnu-linux-color-wallpaper.png"
+"\">667kB</a>"
+msgstr ""
+"1600x1200:&nbsp; PNG <a href=\"/graphics/gnu-linux-color-wallpaper.png"
+"\">667 ko</a>"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/I_run_GNU_by_GNUlancer.png\">"
+msgstr "<a href=\"/graphics/I_run_GNU_by_GNUlancer.png\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[I Run GNU wallpaper]&nbsp;"
+msgstr " [Fond d'écran 'J'utilise GNU'] "
+
+#. type: Content of: <table><tr><td><p>
+msgid "<em>I Run GNU</em>"
+msgstr "<em>J'utilise GNU</em>"
+
+#. type: Content of: <table><tr><td><p><small>
+msgid "<small>Copyright &copy; 2006 GNULancer"
+msgstr "<small>Copyright &copy; 2006 GNULancer"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"<a rel=\"license\" href=\"/licenses/fdl.html\">FDL</a> v1.2 or later</small>"
+msgstr ""
+"<a rel=\"license\" href=\"/licenses/fdl.html\">FDL</a> v1.2 ou ultérieure</"
+"small>"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"1280x1024:&nbsp; PNG <a href=\"/graphics/I_run_GNU_by_GNUlancer.png\">292kB</"
+"a>, XCF&nbsp;<a href=\"/graphics/__I_run_GNU___source_file_by_GNUlancer.xcf"
+"\">852kB</a>"
+msgstr ""
+"1280x1024:&nbsp; PNG <a href=\"/graphics/I_run_GNU_by_GNUlancer.png"
+"\">292 ko</a>, XCF&nbsp;<a href=\"/graphics/"
+"__I_run_GNU___source_file_by_GNUlancer.xcf\">852 ko</a>"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/gnublue.png\">"
+msgstr "<a href=\"/graphics/gnublue.png\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Free Thought, Free World wallpaper]&nbsp;"
+msgstr " [Fond d'écran 'Pensée libre, monde libre'] "
+
+#. type: Content of: <table><tr><td><p>
+msgid "<em>Free Thought, Free World</em>"
+msgstr "<em>Pensée libre, monde libre</em>"
+
+#. type: Content of: <table><tr><td><p><small>
+msgid "<small>Copyright &copy; 2005 Dustin Jorge"
+msgstr "<small>Copyright &copy; 2005 Dustin Jorge"
+
+#. type: Content of: <table><tr><td><p><small>
+msgid ""
+"(based on Etienne Suvasa's <a href=\"/graphics/agnuhead.html\">GNU Head</a>)"
+msgstr ""
+"(basé sur la <a href=\"/graphics/agnuhead.html\">Tête de GNU</a> d'Etienne "
+"Suvasa)"
+
+#. type: Content of: <table><tr><td><p>
+msgid "1024x768:&nbsp; PNG <a href=\"/graphics/gnublue.png\">300kB</a>"
+msgstr "1024x768:&nbsp; PNG <a href=\"/graphics/gnublue.png\">300 ko</a>"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/babies/GnuTux.jpg\">"
+msgstr "<a href=\"/graphics/babies/GnuTux.jpg\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Baby Gnu and Baby Tux wallpaper]&nbsp;"
+msgstr " [Fond d'écran blanc 'Bébé Gnu et Bébé Tux'] "
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"<em><a href=\"/graphics/3dbabygnutux.html\">Baby Gnu and Baby Tux on white</"
+"a></em>"
+msgstr ""
+"<em><a href=\"/graphics/3dbabygnutux.html\">Bébé Gnu et bébé Tux, fond "
+"blanc</a></em>"
+
+#. type: Content of: <table><tr><td><p><small>
+msgid "<small>By Nicolas Rougier"
+msgstr "<small>de Nicolas Rougier"
+
+#. type: Content of: <table><tr><td><p>
+msgid "1280x1024:&nbsp; JPEG <a href=\"/graphics/babies/GnuTux.jpg\">93kB</a>"
+msgstr ""
+"1280x1024:&nbsp; JPEG <a href=\"/graphics/babies/GnuTux.jpg\">93 ko</a>"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/babies/GnuTuxBlack.jpg\">"
+msgstr "<a href=\"/graphics/babies/GnuTuxBlack.jpg\">"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"<em><a href=\"/graphics/3dbabygnutux.html\">Baby Gnu and Baby Tux on black</"
+"a></em>"
+msgstr ""
+"<em><a href=\"/graphics/3dbabygnutux.html\">Bébé Gnu et bébé Tux, fond "
+"blanc</a></em>"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"1280x1024:&nbsp; JPEG <a href=\"/graphics/babies/GnuTuxBlack.jpg\">94kB</a>"
+msgstr ""
+"1280x1024:&nbsp; JPEG <a href=\"/graphics/babies/GnuTuxBlack.jpg\">94 ko</a>"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/meditate_fel.jpg\">"
+msgstr "<a href=\"/graphics/meditate_fel.jpg\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Flute-playing Gnu - Free Software wallpaper]&nbsp;"
+msgstr " [Fond d'écran 'Gnou jouant de la flute - Free Software'] "
+
+#. type: Content of: <table><tr><td><p>
+msgid "<em>Flute-playing Gnu &mdash; Free Software</em>"
+msgstr "<em>Gnou jouant de la flute - Free Software</em>"
+
+#. type: Content of: <table><tr><td><p><small>
+msgid "<small>By Gonzalo Pineda"
+msgstr "<small>de Gonzalo Pineda"
+
+#. type: Content of: <table><tr><td><p><small>
+msgid ""
+"(based on the Nevrax Team's <a href=\"/graphics/meditate.html#meditate-fs\"> "
+"Flute-playing Gnu poster</a>)"
+msgstr ""
+"(basé sur le <a href=\"/graphics/meditate.html#meditate-fs\">poster « Gnou "
+"jouant de la flute »</a> de Nevrax)"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"<a rel=\"license\" href=\"/licenses/gpl.html\">GPL</a> v3 or later, or <a "
+"rel=\"license\" href=\"/licenses/fdl.html\">FDL</a> v1.1 or later</small>"
+msgstr ""
+"<a rel=\"license\" href=\"/licenses/gpl.html\">GPL</a> v3 ou ultérieure, ou "
+"bien <a rel=\"license\" href=\"/licenses/fdl.html\">FDL</a> v1.1 ou "
+"ultérieure</small>"
+
+#. type: Content of: <table><tr><td><p>
+msgid "3000x2248:&nbsp;"
+msgstr "3000x2248 :&nbsp;"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"JPEG <a href=\"/graphics/meditate_fel.jpg\">491kB</a>,&nbsp; PNG&nbsp;<a "
+"href=\"/graphics/meditate_fel.png\">1.4MB</a>,&nbsp; XCF&nbsp;(gzipped)&nbsp;"
+"<a href=\"/graphics/meditate_fel_xcf.tar.gz\">2.1MB</a>"
+msgstr ""
+"JPEG <a href=\"/graphics/meditate_fel.jpg\">491 ko</a>,&nbsp; PNG&nbsp;<a "
+"href=\"/graphics/meditate_fel.png\">1,4 Mo</a>,&nbsp; XCF&nbsp;(gzipped)"
+"&nbsp;<a href=\"/graphics/meditate_fel_xcf.tar.gz\">2,1 Mo</a>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -261,22 +737,21 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2007, 2008, 2014, 2015, 2016, 2017, 2018 Free Software "
-"Foundation, Inc."
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
 msgstr ""
-"Copyright &copy; 2007, 2008, 2014, 2015, 2016, 2017, 2018 Free Software "
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
-"NoDerivatives 4.0 International License</a>."
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
-"\">Creative Commons attribution, pas de modification, 4.0 internationale "
-"(CC BY-ND 4.0)</a>."
+"Disponible sous la licence <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-nd/4.0/deed.fr\">Creative Commons attribution, pas de "
+"modification, 4.0 internationale</a> (CC BY-ND 4.0)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

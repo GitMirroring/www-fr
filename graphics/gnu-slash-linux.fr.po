@@ -2,13 +2,13 @@
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza, 2007.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-slash-linux.html\n"
-"POT-Creation-Date: 2019-02-22 07:57+0000\n"
-"PO-Revision-Date: 2019-02-22 16:46+0100\n"
+"POT-Creation-Date: 2019-02-27 17:26+0000\n"
+"PO-Revision-Date: 2019-02-27 23:20+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -35,8 +35,8 @@ msgid "<a href=\"/graphics/gnu-linux-on-black.png\">"
 msgstr "<a href=\"/graphics/gnu-linux-on-black.png\">"
 
 #. type: Attribute 'alt' of: <div><div><a><img>
-msgid "&nbsp;[GNU/Linux on black]&nbsp;"
-msgstr " [GNU/Linux sur fond noir] "
+msgid "&nbsp;[Gnu and Tux on black]&nbsp;"
+msgstr " [Gnu et Tux sur fond noir] "
 
 #. type: Content of: <div><div>
 msgid "</a>"
@@ -52,13 +52,15 @@ msgstr ""
 
 #. type: Content of: <div><blockquote><p>
 msgid ""
-"<em>These images were based on an image which I downloaded from the net "
-"years ago. I like very much this image, but don't remember where it comes "
-"from, and have no way of knowing about its licence.</em> -- Rui Damas"
+"<em>These images were based on an <a href=\"/graphics/gnu-linux-origin.jpg"
+"\">image</a> which I downloaded from the net years ago. I like very much "
+"this image, but don't remember where it comes from, and have no way of "
+"knowing about its licence.</em> -- Rui Damas"
 msgstr ""
-"<em>Ces images sont basées sur une image que j'ai téléchargée sur le net il "
-"y a des années. Je l'aime beaucoup mais ne me rappelle plus d'où elle vient "
-"et n'ai aucun moyen de trouver sa licence.</em> -- Rui Damas"
+"<em>Ces images sont basées sur une <a href=\"/graphics/gnu-linux-origin.jpg"
+"\">image</a> que j'ai téléchargée sur le net il y a des années. Je l'aime "
+"beaucoup mais ne me rappelle plus d'où elle vient et n'ai aucun moyen de "
+"trouver sa licence.</em> -- Rui Damas"
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -113,17 +115,22 @@ msgstr ""
 "\">Wikimedia Commons</a>"
 
 #. type: Content of: <div><div><p>
+msgid "Copyright &copy; unknown"
+msgstr "Copyright &copy; inconnu"
+
+#. type: Content of: <div><div><p>
 msgid "Copyright &copy; 2006 Rui Damas"
 msgstr "Copyright &copy; 2006 Rui Damas"
 
 #. type: Content of: <div><div><p>
 msgid ""
-"These images are available under the <a rel=\"license\" href=\"/licenses/gpl."
-"html\">GNU General Public License</a>, version&nbsp;2 or any later version."
+"These images are available under the <a rel=\"license\" href=\"/licenses/old-"
+"licenses/gpl-2.0.html\">GNU General Public License</a>, version&nbsp;2 or "
+"any later version."
 msgstr ""
-"Ces images sont disponibles sous la <a rel=\"license\" href=\"/licenses/gpl."
-"html\">licence publique générale GNU</a>, version 2 ou toute version "
-"ultérieure."
+"Ces images sont disponibles sous la <a rel=\"license\" href=\"/licenses/old-"
+"licenses/gpl-2.0.html\">licence publique générale GNU</a>, version 2 ou "
+"toute version ultérieure."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
