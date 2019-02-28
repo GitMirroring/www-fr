@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-drm.html\n"
-"POT-Creation-Date: 2019-01-05 11:26+0000\n"
-"PO-Revision-Date: 2019-01-05 17:13+0100\n"
+"POT-Creation-Date: 2019-02-28 21:56+0000\n"
+"PO-Revision-Date: 2019-02-28 23:15+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -88,6 +88,29 @@ msgstr ""
 "webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> pour nous en informer. "
 "Merci de fournir les URL d'une ou deux références fiables et spécifiques "
 "pour l'étayer."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The HP <a href=\"https://boingboing.net/2019/02/08/inkjet-dystopias.html\"> "
+"&ldquo;ink subscription&rdquo; cartridges have DRM that constantly "
+"communicates with HP servers</a> to make sure the user is still paying for "
+"the subscription, and hasn't printed more pages than were paid for."
+msgstr ""
+"Les <a href=\"https://boingboing.net/2019/02/08/inkjet-dystopias.html"
+"\">cartouches HP pour forfait d'impression ont un DRM qui communique en "
+"permanence avec les serveurs de HP</a> pour s'assurer que l'utilisateur "
+"continue à payer son abonnement et n'a pas imprimé plus de pages que prévu."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Even though the ink subscription program may be cheaper in some specific "
+"cases, it spies on users, and involves totally unacceptable restrictions in "
+"the use of ink cartridges that would otherwise be in working order."
+msgstr ""
+"Bien que ce forfait d'impression puisse être source d'économies dans "
+"certains cas particuliers, il implique l'espionnage de l'utilisateur, ainsi "
+"que des restrictions inacceptables dans l'utilisation de cartouches d'encre "
+"par ailleurs en état de marche."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -273,10 +296,11 @@ msgstr ""
 "<a href=\"http://michaelweinberg.org/post/137045828005/free-the-cube"
 "\">L'imprimante 3D « Cube » a été conçue avec un dispositif de gestion "
 "numérique des restrictions</a> ; elle refuse les consommables fournis par "
-"des sociétés tierces. C'est la Keurig<a name=\"TransNote1-rev\" href="
-"\"#TransNote1\"><sup>1</sup></a> des imprimantes. Sa fabrication a été "
-"arrêtée, ce qui signifie qu'à terme ces imprimantes deviendront "
-"inutilisables, les consommables autorisés n'étant plus disponibles."
+"des sociétés tierces. C'est la Keurig des imprimantes [NdT: Keurig est un "
+"fabricant de machines à café connu pour ses pratiques anticoncurrentielles.] "
+"Sa fabrication a été arrêtée, ce qui signifie qu'à terme ces imprimantes "
+"deviendront inutilisables, les consommables autorisés n'étant plus "
+"disponibles."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -533,12 +557,7 @@ msgstr ""
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
-msgstr ""
-"<hr /><b>Notes de traduction</b><ol>\n"
-"<li id=\"TransNote1\">Machine à café haut de gamme fabriquée par la société "
-"Keurig Green Mountain, contre laquelle des actions en justice pour entrave à "
-"la concurrence ont été initiées en 2014. <a href=\"#TransNote1-rev\" class="
-"\"nounderline\">&#8593;</a></li></ol>"
+msgstr " "
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -600,8 +619,8 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Thérèse Godefroy<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
-"april.org\">trad-gnu&#64;april.org</a>"
+"Traduction et révision : <a href=\"mailto:trad-gnu&#64;april.org\">trad-"
+"gnu&#64;april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
