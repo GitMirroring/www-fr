@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
-"POT-Creation-Date: 2018-12-06 20:57+0000\n"
-"PO-Revision-Date: 2018-12-06 22:51+0100\n"
+"POT-Creation-Date: 2019-03-19 18:26+0000\n"
+"PO-Revision-Date: 2019-03-19 20:08+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -292,27 +292,6 @@ msgstr ""
 "support à long terme et privilégiant la simplicité."
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"https://musixdistro.wordpress.com/\">"
-msgstr "<a href=\"https://musixdistro.wordpress.com/\">"
-
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "Musix GNU+Linux"
-msgstr "Musix GNU+Linux"
-
-#. type: Content of: <table><tr><td>
-msgid ""
-"Musix, a GNU+Linux distribution based on Knoppix, with special emphasis on "
-"audio production. This is a &ldquo;static&rdquo; distro, normally run from a "
-"live CD. Since it will not receive security updates, it should be used "
-"offline."
-msgstr ""
-"Musix, une distribution GNU/Linux basée sur Knoppix, qui met l'accent sur la "
-"production audio. Il s'agit d'une distribution « statique », qu'on fait "
-"normalement tourner à partir d'un CD autonome <cite>[live CD]</cite>. Comme "
-"elle ne recevra pas de mises à jour de sécurité, elle doit être utilisée "
-"hors ligne."
-
-#. type: Content of: <table><tr><td><a>
 msgid "<a href=\"https://www.parabola.nu\">"
 msgstr "<a href=\"https://www.parabola.nu\">"
 
@@ -554,6 +533,35 @@ msgstr ""
 "<em>Retirée en juin 2018</em> à la demande de ses mainteneurs, car ils ont "
 "cessé de la mettre à jour."
 
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"https://musixdistro.wordpress.com/\">"
+msgstr "<a href=\"https://musixdistro.wordpress.com/\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "Musix GNU+Linux"
+msgstr "Musix GNU+Linux"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"Musix, a GNU+Linux distribution based on Knoppix, with special emphasis on "
+"audio production. This is a &ldquo;static&rdquo; distro, normally run from a "
+"live CD. Since it will not receive security updates, it should be used "
+"offline."
+msgstr ""
+"Musix, une distribution GNU/Linux basée sur Knoppix, qui met l'accent sur la "
+"production audio. Il s'agit d'une distribution « statique », qu'on fait "
+"normalement tourner à partir d'un CD autonome <cite>[live CD]</cite>. Comme "
+"elle ne recevra pas de mises à jour de sécurité, elle doit être utilisée "
+"hors ligne."
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"<em>Removed March 2019</em>. Removed at the request of the maintainer, as "
+"they had stopped maintaining it."
+msgstr ""
+"<em>Retirée en mars 2019</em> à la demande de ses mainteneurs, car ils ont "
+"cessé de la mettre à jour."
+
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
@@ -607,9 +615,9 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2014, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
-msgstr ""
-"Copyright &copy; 2014, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
+"Foundation, Inc."
+msgstr "Copyright &copy; 2014-2019 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
