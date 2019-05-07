@@ -10,8 +10,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2019-04-10 01:56+0000\n"
-"PO-Revision-Date: 2019-04-10 19:10+0200\n"
+"POT-Creation-Date: 2019-05-07 16:58+0000\n"
+"PO-Revision-Date: 2019-05-07 19:39+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -118,20 +118,20 @@ msgstr ""
 msgid "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
 msgstr "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><div><table><tr><td><a><img>
-msgid "&nbsp;[Screenshot of GuixSD&nbsp;0.15 with GNOME&nbsp;3 desktop]&nbsp;"
+#. type: Attribute 'alt' of: <div><div><div><div><a><img>
+msgid "&nbsp;[Screenshot of Guix&nbsp;0.15 with GNOME&nbsp;3 desktop]&nbsp;"
 msgstr ""
-"&nbsp;[Capture d'écran de GuixSD&nbsp;0.15 avec le bureau GNOME&nbsp;3]&nbsp;"
+"&nbsp;[Capture d'écran de Guix&nbsp;0.15 avec le bureau GNOME&nbsp;3]&nbsp;"
 
 #. type: Content of: <div><div><div><p>
 msgid ""
-"<small><a href=\"/software/guix/\">GuixSD&nbsp;0.15</a> with <a href="
-"\"https://www.gnome.org/\">GNOME&nbsp;3</a> desktop, Epiphany web browser, "
-"Totem video player, and GNOME terminal emulator</small>"
+"<small><a href=\"/software/guix/\">Guix&nbsp;0.15</a> with <a href=\"https://"
+"www.gnome.org/\">GNOME&nbsp;3</a> desktop, Epiphany web browser, Totem video "
+"player, and GNOME terminal emulator</small>"
 msgstr ""
-"<small><a href=\"/software/guix/\">GuixSD&nbsp;0.15</a> avec le bureau <a "
-"href=\"https://www.gnome.org/\">GNOME&nbsp;3</a>, le navigateur web "
-"Epiphany, le lecteur vidéo Totem et l'émulateur de terminal de GNOME</small>"
+"<small><a href=\"/software/guix/\">Guix&nbsp;0.15</a> avec le bureau <a href="
+"\"https://www.gnome.org/\">GNOME&nbsp;3</a>, le navigateur web Epiphany, le "
+"lecteur vidéo Totem et l'émulateur de terminal de GNOME</small>"
 
 #. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
@@ -160,6 +160,11 @@ msgstr "<a href=\"/home.html?distro=trisquel8#gnu-linux\">"
 msgid "<a href=\"/home.html?distro=guix#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=guix#gnu-linux\">"
 
+#. type: Attribute 'alt' of: <div><div><div><table><tr><td><a><img>
+msgid "&nbsp;[Screenshot of GuixSD&nbsp;0.15 with GNOME&nbsp;3 desktop]&nbsp;"
+msgstr ""
+"&nbsp;[Capture d'écran de GuixSD&nbsp;0.15 avec le bureau GNOME&nbsp;3]&nbsp;"
+
 #. type: Content of: <div><div><div><table><tr><td><a>
 msgid "<a href=\"/home.html?distro=pureos8#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=pureos8#gnu-linux\">"
@@ -169,8 +174,8 @@ msgid "<small>Trisquel&nbsp;8 &amp; MATE</small>"
 msgstr "<small>Trisquel&nbsp;8 &amp; MATE</small>"
 
 #. type: Content of: <div><div><div><table><tr><td>
-msgid "<small>GuixSD &amp; GNOME&nbsp;3</small>"
-msgstr "<small>GuixSD &amp; GNOME&nbsp;3</small>"
+msgid "<small>Guix &amp; GNOME&nbsp;3</small>"
+msgstr "<small>Guix &amp; GNOME&nbsp;3</small>"
 
 #. type: Content of: <div><div><div><table><tr><td>
 msgid "<small>PureOS&nbsp;8 &amp; GNOME&nbsp;3</small>"
