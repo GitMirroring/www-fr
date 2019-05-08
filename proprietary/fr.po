@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fr.po\n"
 "POT-Creation-Date: 2019-04-21 07:56+0000\n"
-"PO-Revision-Date: 2019-04-28 15:33+0200\n"
+"PO-Revision-Date: 2019-05-08 18:16+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -612,10 +612,6 @@ msgid "<a href=\"#censorship\">Censorship</a>"
 msgstr "<a href=\"#censorship\">Censure</a>"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"#deception\">Deception</a>"
-msgstr "<a href=\"#deception\">Pratiques trompeuses</a>"
-
-#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"#drm\">Digital restrictions management</a> or &ldquo;DRM&rdquo;"
 "&mdash;functionalities designed to restrict what users can do with the data "
@@ -641,6 +637,10 @@ msgid ""
 msgstr ""
 "<a href=\"#jails\">Prisons</a> – systèmes qui censurent les programmes "
 "d'application."
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#manipulation\">Manipulation</a>"
+msgstr "<a href=\"#manipulation\">Manipulation</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"#pressuring\">Pressuring</a>"
@@ -730,32 +730,6 @@ msgstr ""
 "Apple utilise principalement iOS, une prison typique, pour imposer sa "
 "censure par l'intermédiaire de l'Apple Store. Pour plus de détails, reportez-"
 "vous à la section <a href=\"#jails\">Prisons</a>."
-
-#. type: Content of: <h3>
-msgid "Apple Deception"
-msgstr "Pratiques trompeuses"
-
-#. type: Content of: <ul><li><p>
-msgid ""
-"&ldquo;Dark patterns&rdquo; are <a href=\"http://www.theverge."
-"com/2013/8/29/4640308/dark-patterns-inside-the-interfaces-designed-to-trick-"
-"you\">user interfaces designed to mislead users, or make option settings "
-"hard to find</a>."
-msgstr ""
-"Les <cite>Dark Patterns</cite> sont <a href=\"http://www.theverge."
-"com/2013/8/29/4640308/dark-patterns-inside-the-interfaces-designed-to-trick-"
-"you\">des interfaces web conçues pour piéger les utilisateurs ou rendre "
-"certains réglages difficiles à trouver</a>."
-
-#. type: Content of: <ul><li><p>
-msgid ""
-"This allows a company such as Apple to say, &ldquo;We allow users to turn "
-"this off&rdquo; while ensuring that few will understand how to actually turn "
-"it off."
-msgstr ""
-"Cela permet à une société comme Apple de dire « Nous permettons aux "
-"utilisateurs d'inactiver ceci » tout en s'assurant que peu d'entre eux "
-"comprendront comment le faire."
 
 #. type: Content of: <h3>
 msgid "Apple DRM"
@@ -1187,6 +1161,32 @@ msgstr ""
 "sur le tapis. Après le cinquième rejet, Apple <a href=\"http://mashable."
 "com/2014/02/07/apple-app-tracks-drone-strikes/\">a admis que l'appli était "
 "censurée à cause de son thème</a>."
+
+#. type: Content of: <h3>
+msgid "Apple Manipulation"
+msgstr "Manipulation"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"&ldquo;Dark patterns&rdquo; are <a href=\"http://www.theverge."
+"com/2013/8/29/4640308/dark-patterns-inside-the-interfaces-designed-to-trick-"
+"you\">user interfaces designed to mislead users, or make option settings "
+"hard to find</a>."
+msgstr ""
+"Les <cite>Dark Patterns</cite> sont <a href=\"http://www.theverge."
+"com/2013/8/29/4640308/dark-patterns-inside-the-interfaces-designed-to-trick-"
+"you\">des interfaces web conçues pour piéger les utilisateurs ou rendre "
+"certains réglages difficiles à trouver</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"This allows a company such as Apple to say, &ldquo;We allow users to turn "
+"this off&rdquo; while ensuring that few will understand how to actually turn "
+"it off."
+msgstr ""
+"Cela permet à une société comme Apple de dire « Nous permettons aux "
+"utilisateurs d'inactiver ceci » tout en s'assurant que peu d'entre eux "
+"comprendront comment le faire."
 
 #. type: Content of: <h3>
 msgid "Apple Pressuring"
@@ -1769,6 +1769,25 @@ msgstr ""
 msgid "Some examples of malware in appliances are listed below."
 msgstr ""
 "Voici quelques exemples de malveillance dans divers appareils et équipements."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The Jibo robot toys were tethered to the manufacturer's server, and <a href="
+"\"https://www.apnews.com/99c9ec8ebad242ca88178e22c7642648\"> the company "
+"made them all cease to work</a> by shutting down that server."
+msgstr ""
+"Les robots-jouets Jibo dépendaient du serveur du fabricant. Ce dernier ayant "
+"arrêté son serveur, les robots sont devenus inutilisables."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The shutdown might ironically be good for their users, since the product was "
+"designed to manipulate people by presenting a phony semblance of emotions, "
+"and was most certainly spying on them."
+msgstr ""
+"Paradoxalement, cette fermeture pourrait être bonne pour les utilisateurs, "
+"car ce produit était conçu pour manipuler les gens en simulant des émotions "
+"et très certainement les espionnait."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -3259,6 +3278,33 @@ msgstr ""
 "\"https://www.cnbc.com/2019/03/29/tesla-model-3-keeps-data-like-crash-videos-"
 "location-phone-contacts.html\">les emmènent avec elles quand elles vont à la "
 "casse</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The FordPass Connect feature of some Ford vehicles has <a href=\"https://www."
+"myfordpass.com/content/ford_com/fp_app/en_us/termsprivacy.html\"> near-"
+"complete access to the internal car network</a>. It is constantly connected "
+"to the cellular phone network and sends Ford a lot of data, including car "
+"location. This feature operates even when the ignition key is removed, and "
+"users report that they can't disable it."
+msgstr ""
+"Le système FordPass Connect de certains véhicules Ford a <a href=\"https://"
+"www.myfordpass.com/content/ford_com/fp_app/en_us/termsprivacy.html\">un "
+"accès quasi intégral au réseau interne de la voiture</a>. Il est connecté en "
+"permanence au réseau de téléphonie mobile et envoie à Ford une grande "
+"quantité de données, en particulier de géolocalisation. Il fonctionne même "
+"lorsqu'on retire la clé de contact, et des utilisateurs nous ont signalé "
+"qu'ils ne peuvent pas le désactiver."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"If you own one of these cars, have you succeeded in breaking the "
+"connectivity by disconnecting the cellular modem, or wrapping the antenna in "
+"aluminum foil?"
+msgstr ""
+"Si vous posséder l'une de ces voitures, avez-vous réussi à interrompre la "
+"connexion en débranchant le modem, ou bien en enveloppant l'antenne dans du "
+"papier d'aluminium?"
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -8788,6 +8834,24 @@ msgstr ""
 "informer."
 
 #. type: Content of: <title>
+msgid "Proprietary Manipulation - GNU Project - Free Software Foundation"
+msgstr ""
+"Pratiques manipulatrices du privateur - GNU Project - Free Software "
+"Foundation"
+
+#. type: Content of: <h2>
+msgid "Proprietary Manipulation"
+msgstr "Pratiques manipulatrices du privateur"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page reports instances where proprietary software takes advantage of "
+"human psychology to manipulate users."
+msgstr ""
+"Cette page cite des cas où le logiciel privateur exploite la psychologie "
+"humaine pour manipuler les utilisateurs."
+
+#. type: Content of: <title>
 msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgstr "Logiciel privateur - Projet GNU - Free Software Foundation "
 
@@ -8925,6 +8989,11 @@ msgid ""
 msgstr ""
 "<a href=\"/proprietary/proprietary-jails.html\">Prisons</a> (<a href="
 "\"#f3\">3</a>)"
+
+#. type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/proprietary-manipulation.html\">Manipulation</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-manipulation.html\">Manipulation</a>"
 
 #. type: Content of: <table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-sabotage.html\">Sabotage</a>"
