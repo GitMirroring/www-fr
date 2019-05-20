@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-digital-society\n"
-"POT-Creation-Date: 2018-12-23 09:56+0000\n"
-"PO-Revision-Date: 2018-12-23 11:32+0100\n"
+"POT-Creation-Date: 2019-05-19 18:26+0000\n"
+"PO-Revision-Date: 2019-05-20 13:49+0200\n"
 "Last-Translator: Sébastien Poher <sbphr_AT_volted.net>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -32,76 +32,74 @@ msgstr ""
 "Une société numérique libre - Qu'est-ce qui rend une société numérique bonne "
 "ou mauvaise ?"
 
-#. type: Content of: <p><em>
-msgid "<em>Transcription of a lecture by Richard M. Stallman"
-msgstr "<em>Transcription d'une conférence de Richard M. Stallman"
-
 #. type: Content of: <p>
-msgid "at Sciences Po in Paris, October 19, 2011.</em>"
-msgstr "donnée à Sciences Po Paris le 19 octobre 2011.</em>"
+msgid "by Richard Stallman"
+msgstr "par Richard Stallman"
 
 #. type: Content of: <p>
 msgid ""
-"(A <a href=\"http://audio-video.gnu.org/video/stallman-sciencespo-"
-"freesociety.webm\"> video</a> of this lecture is available.)"
+"<em>Transcription of a lecture at Sciences Po Paris, October 19, 2011</"
+"em>&nbsp; (<a href=\"http://audio-video.gnu.org/video/stallman-sciencespo-"
+"freesociety.webm\">video</a>)"
 msgstr ""
-"(Une <a href=\"http://audio-video.gnu.org/video/stallman-sciencespo-"
-"freesociety.webm\">vidéo</a> de cette conférence est disponible.)"
+"<em>Transcription d'une conférence donnée à Sciences PO Paris le 19 octobre "
+"2011</em>  (<a href=\"http://audio-video.gnu.org/video/stallman-sciencespo-"
+"freesociety.webm\">video</a>)"
 
-#. type: Content of: <p>
-msgid "<strong>Table of Contents</strong>"
-msgstr "<strong><a id=\"TOC\">Table des matières</a></strong>"
+#. type: Content of: <div><h3>
+msgid "Table of Contents"
+msgstr "<a id=\"TOC\">Table des matières</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#intro\">Introduction</a>"
 msgstr "<a href=\"#intro\">Introduction</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#surveillance\">Surveillance</a>"
 msgstr "<a href=\"#surveillance\">La surveillance</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#censorship\">Censorship</a>"
 msgstr "<a href=\"#censorship\">La censure</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#formats\">Restricted data formats</a>"
 msgstr ""
 "<a href=\"#formats\">Les formats de données qui imposent des restrictions</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#proprietary\">Software that isn't free</a>"
 msgstr "<a href=\"#proprietary\">Le logiciel qui n'est pas libre</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#four-freedoms\">The four freedoms of free software</a>"
 msgstr "<a href=\"#four-freedoms\">Les quatre libertés du logiciel libre</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#gnu\">The GNU Project and the Free Software movement</a>"
 msgstr "<a href=\"#gnu\">Le projet GNU et le mouvement du logiciel libre</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#education\">Free software and education</a>"
 msgstr "<a href=\"#education\">Le logiciel libre dans l'enseignement</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#services\">Internet services</a>"
 msgstr "<a href=\"#services\">Les services sur Internet</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#voting\">Computers for voting</a>"
 msgstr "<a href=\"#voting\">Le vote par ordinateur</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#sharing\">The war on sharing</a>"
 msgstr "<a href=\"#sharing\">La guerre contre le partage</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#arts\">Supporting the arts</a>"
 msgstr "<a href=\"#arts\">Comment soutenir les arts</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#rights\">Rights in cyberspace</a>"
 msgstr "<a href=\"#rights\">Nos droits dans le cyberespace</a>"
 
@@ -165,11 +163,12 @@ msgid ""
 "data about the use of the computer. A surveillance feature was discovered in "
 "the iPhone a few months ago, and people started calling it the &ldquo;spy-"
 "phone.&rdquo; Flash player has a surveillance feature too, and so does the "
-"Amazon &ldquo;Swindle.&rdquo; They call it the Kindle, but I call it &ldquo;"
-"the Swindle,&rdquo; <em>l'escroc</em>, because it's meant to swindle users "
-"out of their freedom. It makes people identify themselves whenever they buy "
-"a book, and that means Amazon has a giant list of all the books each user "
-"has read. Such a list must not exist anywhere."
+"Amazon Swindle.&rdquo; They call it the Kindle, but I call it &ldquo;<a href="
+"\"/philosophy/why-call-it-the-swindle.html\">the Swindle</a>,&rdquo; "
+"<em>l'escroc</em>, because it's meant to swindle users out of their freedom. "
+"It makes people identify themselves whenever they buy a book, and that means "
+"Amazon has a giant list of all the books each user has read. Such a list "
+"must not exist anywhere."
 msgstr ""
 "Quelquefois, la surveillance est le fait de nos propres ordinateurs. Par "
 "exemple, si  vous avez un ordinateur qui fonctionne sous Microsoft Windows, "
@@ -180,12 +179,13 @@ msgstr ""
 "appeler ce dernier <cite>spy-phone</cite><a id=\"TransNote1-rev\" href="
 "\"#TransNote1\"><sup>1</sup></a>. Le lecteur Flash a également une "
 "fonctionnalité de surveillance, de même que le <cite>Swindle</cite> "
-"d'Amazon. Ils l'appellent le Kindle, mais je l'appelle <cite>the Swindle</"
-"cite> (l'escroc)<a id=\"TransNote2-rev\" href=\"#TransNote2\"><sup>2</sup></"
-"a> parce qu'il est destiné à escroquer la liberté des utilisateurs. Il "
-"oblige les gens à s'identifier lorsqu'ils achètent un livre, ce qui signifie "
-"qu'Amazon a une liste gigantesque de tous les livres lus par chaque "
-"utilisateur. Une telle liste n'a sa place nulle part."
+"d'Amazon. Ils l'appellent le Kindle, mais je l'appelle le <a href=\"/"
+"philosophy/why-call-it-the-swindle.html\"><cite>Swindle</cite></a> (l'escroc)"
+"<a id=\"TransNote2-rev\" href=\"#TransNote2\"><sup>2</sup></a> parce qu'il "
+"est destiné à escroquer la liberté des utilisateurs. Il oblige les gens à "
+"s'identifier lorsqu'ils achètent un livre, ce qui signifie qu'Amazon a une "
+"liste gigantesque de tous les livres lus par chaque utilisateur. Une telle "
+"liste n'a sa place nulle part."
 
 #. type: Content of: <p>
 msgid ""
@@ -2457,7 +2457,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "Footnotes"
-msgstr "Notes"
+msgstr "Note"
 
 #. type: Content of: <ol><li>
 msgid "As of 2017 the patents on playing MP3 files have reportedly expired."
@@ -2469,7 +2469,7 @@ msgstr ""
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
-"<hr /><b>Notes de traduction</b><ol>\n"
+"<hr /><b>Notes de traduction</b><ol id=\"translator-notes-alpha\">\n"
 "<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
 "\">&#8593;</a> Téléphone espion.</li>\n"
 "<li><a id=\"TransNote2\" href=\"#TransNote2-rev\" class=\"nounderline"
@@ -2534,8 +2534,8 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2017, 2018 Richard Stallman"
-msgstr "Copyright &copy; 2011, 2017, 2018 Richard Stallman"
+msgid "Copyright &copy; 2011, 2017, 2018, 2019 Richard Stallman"
+msgstr "Copyright &copy; 2011, 2017-2019 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
