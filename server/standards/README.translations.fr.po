@@ -4,13 +4,13 @@
 # Mathieu Stumpf, 2005.
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2008.
 # Denis Barbier <bouzim AT gmail.com>, 2011.
-# Thérèse Godefroy <godef.th AT free.fr>, 2011, 2012, 2013, 2014.
+# Thérèse Godefroy <godef.th AT free.fr>, 2011-2014, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: README.translations.html\n"
-"POT-Creation-Date: 2017-12-11 07:56+0000\n"
-"PO-Revision-Date: 2018-09-02 00:24+0200\n"
+"POT-Creation-Date: 2019-05-28 11:56+0000\n"
+"PO-Revision-Date: 2019-05-28 21:49+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -611,30 +611,13 @@ msgstr "Ce qu'il faut traduire"
 
 #. type: Content of: <p>
 msgid ""
-"All essays and articles in the following directories should be translated in "
-"all available languages, but you should first browse our <a href=\"/server/"
-"standards/translations/priorities.html\">Web Translation Priorities</a>:"
+"We accept contributions of translations of all articles in all languages, "
+"but you should first browse our <a href=\"/server/standards/translations/"
+"priorities.html\">Web Translation Priorities</a>."
 msgstr ""
-"Tous les essais et articles des répertoires ci-dessous devraient être "
-"traduits dans toutes les langues possibles, mais vous devriez d'abord "
-"consulter la page <a href=\"/server/standards/translations/priorities.html"
-"\">Web Translation Priorities</a> :"
-
-#. type: Content of: <ul><li>
-msgid "<code>education/</code>"
-msgstr "<code>education/</code>"
-
-#. type: Content of: <ul><li>
-msgid "<code>gnu/</code>"
-msgstr "<code>gnu/</code>"
-
-#. type: Content of: <ul><li>
-msgid "<code>licenses/</code>"
-msgstr "<code>licenses/</code>"
-
-#. type: Content of: <ul><li>
-msgid "<code>philosophy/</code>"
-msgstr "<code>philosophy/</code>"
+"Nous acceptons des traductions de tous les articles dans toutes les langues, "
+"mais vous devriez d'abord consulter la page <a href=\"/server/standards/"
+"translations/priorities.html\">Web Translation Priorities</a> :"
 
 #. type: Content of: <p>
 msgid ""
@@ -645,18 +628,6 @@ msgstr ""
 "traduction de votre langue avant de commencer tout travail, pour prendre des "
 "instructions précises sur la manière de procéder et pour éviter de dupliquer "
 "le travail."
-
-#. type: Content of: <p>
-msgid ""
-"<em><strong>Note:</strong></em> The material in the <code>software/</code> "
-"directory pertains to individual GNU packages. If you would like to "
-"translate something in that directory, please talk with the maintainers of "
-"the package to see what they would like to do."
-msgstr ""
-"<em><strong>Note :</strong></em> Le contenu du répertoire <code>software/</"
-"code> se rapporte aux paquets individuels GNU. Si vous voulez traduire "
-"quelque chose dans ce répertoire, adressez-vous aux mainteneurs du paquet "
-"pour voir ce qu'ils veulent faire."
 
 #. type: Content of: <h4>
 msgid "Translators Manual"
@@ -767,17 +738,15 @@ msgid ""
 "inconvenient to translate using PO files. However, contributions submitted "
 "as plain text format should not be rejected.  To encourage the use of PO "
 "files, coordinators can provide those contributors with a simple guide aimed "
-"at people with little computer skills.  <a href=\"/server/standards/"
-"translations/po-how-to.html\">Here is an example</a>."
+"at people with little computer skills."
 msgstr ""
 "Remarque : certains membres de l'équipe ou certains contributeurs "
 "occasionnels peuvent trouver difficile ou peu pratique d'utiliser le format "
 "PO pour traduire. Cependant, les contributions soumises en format texte brut "
 "ne doivent pas être rejetées. Pour encourager l'utilisation des fichiers ."
 "po, les coordinateurs peuvent donner à ces contributeurs un guide très "
-"simple destiné aux personnes qui n'ont qu'une expertise réduite en "
-"informatique. <a href=\"/server/standards/translations/po-how-to.html\">En "
-"voici un exemple</a>."
+"simple destiné aux personnes n'ayant qu'une expertise réduite en "
+"informatique."
 
 #. type: Content of: <p>
 msgid ""
@@ -926,21 +895,21 @@ msgstr ""
 msgid ""
 "<code>ca</code> - <a href=\"https://savannah.gnu.org/projects/www-ca"
 "\">Catalan</a> (<a href=\"https://savannah.gnu.org/users/puigpe\">Miquel "
-"Puigpelat</a>)"
+"Puigpelat</a> - New coordinator needed)"
 msgstr ""
 "<code>ca</code> – <a href=\"https://savannah.gnu.org/projects/www-ca"
 "\">Catalan</a> (<a href=\"https://savannah.gnu.org/users/puigpe\">Miquel "
-"Puigpelat</a>)"
+"Puigpelat</a> – nouveau coordinateur demandé)"
 
 #. type: Content of: <ul><li>
 msgid ""
 "<code>cs</code> - <a href=\"https://savannah.gnu.org/projects/www-cs"
 "\">Czech</a> (<a href=\"https://savannah.gnu.org/users/franta\">František "
-"Kučera</a>)"
+"Kučera</a> - New coordinator needed)"
 msgstr ""
 "<code>cs</code> – <a href=\"https://savannah.gnu.org/projects/www-cs"
 "\">Tchèque</a> (<a href=\"https://savannah.gnu.org/users/franta\">František "
-"Kučera</a>)"
+"Kučera</a> – nouveau coordinateur demandé)"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -966,11 +935,11 @@ msgstr ""
 msgid ""
 "<code>el</code> - <a href=\"https://savannah.gnu.org/projects/www-el"
 "\">Greek</a> (<a href=\"https://savannah.gnu.org/users/gzarkadas\">Georgios "
-"Zarkadas</a>)"
+"Zarkadas</a> - New coordinator needed)"
 msgstr ""
 "<code>el</code> – <a href=\"https://savannah.gnu.org/projects/www-el\">Grec</"
 "a> (<a href=\"https://savannah.gnu.org/users/gzarkadas\">Georgios Zarkadas</"
-"a>)"
+"a> – nouveau coordinateur demandé)"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -1346,8 +1315,10 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2015, 2016, 2017 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2019 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2019 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1371,10 +1342,3 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
-
-#~ msgid ""
-#~ "<code>pt-br</code> - <a href=\"https://savannah.gnu.org/projects/www-pt-br"
-#~ "\">Brazilian Portuguese</a> (New coordinator needed)"
-#~ msgstr ""
-#~ "<code>pt-br</code> – <a href=\"https://savannah.gnu.org/projects/www-pt-br"
-#~ "\">Portugais brésilien</a> (nouveau coordinateur demandé)"
