@@ -1,5 +1,6 @@
 # This is -*-makefile-gmake-*-, because we adore GNU make.
-# Copyright (C) 2008, 2009, 2010, 2011, 2012 Free Software Foundation, Inc.
+# Copyright (C) 2008, 2009, 2010, 2011, 2012,
+#   2014, 2016 Free Software Foundation, Inc.
 
 # This file is part of GNUnited Nations.
 
@@ -14,7 +15,7 @@
 # GNU General Public License for more details.
 
 # You should have received a copy of the GNU General Public License
-# along with GNUnited Nations.  If not, see <http://www.gnu.org/licenses/>.
+# along with GNUnited Nations.  If not, see <https://www.gnu.org/licenses/>.
 
 ########################################################################
 ### TRANSLATORS: Rename this file as GNUmakefile and install it in the #
@@ -62,10 +63,10 @@ TLA := tla
 NOTIFICATION_PERIOD := 7
 # URL specifications; used in notifications to generate URLs of items.
 # Root URL for "www" files.
-WWW_URL := http://www.gnu.org/
+WWW_URL := https://www.gnu.org/
 # Prefix and postfix of URLs of team's files.
-TEAM_URL_PREFIX := http://cvs.savannah.gnu.org/viewvc/*checkout*/www-bg/
-TEAM_URL_POSTFIX := ?root=www-bg
+TEAM_URL_PREFIX :=  https://git.savannah.nongnu.org/gitweb/?p=www-fr.git;a=blob_plain;f=
+TEAM_URL_POSTFIX := ;hb=HEAD
 # The program to generate differences of two versions of a PO file.
 # Those files will be sent with notifications as attachments.
 ifndef DIFF_PO
@@ -142,7 +143,7 @@ endif
 
 # The command to update the CVS repositories.
 define cvs-update
-$(CVS) $(CVSQUIET) update -d -P
+$(CVS) $(CVSQUIET) update -P
 endef
 
 # The command to update the Subversion repository.
@@ -151,14 +152,17 @@ $(SVN) $(CVSQUIET) update
 endef
 
 .PHONY: all
-all: sync format notify
+all:
+	$(MAKE) $(MAKEFLAGS) sync && $(MAKE) $(MAKEFLAGS) format \
+&& $(MAKE) $(MAKEFLAGS) notify
 
 # Update the master and the team repositories.
-.PHONY: update
-update:
-ifeq ($(VCS),yes)
+.PHONY: update update-team update-www
+update: update-team update-www
+update-www:
 	@echo Updating the repositories...
 	cd $(wwwdir) && $(cvs-update)
+update-team:
 ifeq ($(REPO),CVS)
 	$(cvs-update)
 else ifeq ($(REPO),SVN)
@@ -173,9 +177,6 @@ else ifeq ($(REPO),Hg)
 	$(HG) pull --update $(QUIET)
 else ifeq ($(REPO),Arch)
 	$(TLA) update
-endif
-else
-	$(info Repositories were not updated, you might want "make VCS=yes".)
 endif
 
 # Synchronize (update) the PO files from the master POTs.
@@ -305,6 +306,7 @@ sync-$(1): $(sync-master)
 	      comp="-C $$$$www_po"; \
 	      $$(if $(master), test $$$$file -nt $(master) && ) \
 	      $$(call cmp-POs,$1,$$$${www_po}) \
+	        && echo "$$$${file#./}: Already in sync." \
 	        || { \
 		     echo -n "$$$${file#./}: Merging"; \
 		     $(MSGATTRIB) --no-fuzzy -o $(1)-tmp.www.po $$$$www_po  2>&1; \
@@ -323,6 +325,7 @@ sync-$(1): $(sync-master)
 	    fi; \
 	    $(if $(ADD_FUZZY_DIFF), $(ADD_FUZZY_DIFF) $1 > $1.tmp \
 		 && cmp -s $1 $1.tmp || cp $1.tmp $1; $(RM) $1.tmp;) \
+	    $$(call echo-statistics,$1); \
 	  fi
 sync: sync-$(1)
 endef
@@ -648,16 +651,22 @@ ifneq (,$(HAVE-EMAIL-ALIASES))
   case ",$$$$flags," in \
     *,force,* ) ;; \
     * ) \
-      grep : $(1).note &> /dev/null || notify=no; \
+      grep : $(1).note &> /dev/null \
+      || { notify=no; echo "Note: No files to work on for \`$(1)'."; } \
       ;; \
   esac; \
   case $$$$notify in \
     yes ) \
       timestamp=`head -n1 $(1).note | grep '^#'`; \
       if test "x$$$$timestamp" != x; then \
-        if test $$$$((`date +%s` - $$$${timestamp#?})) -lt $$$$period; then \
+        dt=$$$$((`date +%s` - $$$${timestamp#?})); \
+        if test $$$$dt -lt $$$$period; then \
           notify=no; \
+	  echo "Note: Elapsed time ($$$$dt) is less than \
+period ($$$$period) for \`$(1)'.";\
         fi; \
+      else \
+       echo "Note: New notification for \`$(1)'."; \
       fi; \
       ;; \
   esac; \
