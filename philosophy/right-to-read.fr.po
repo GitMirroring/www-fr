@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: right-to-read.html\n"
-"POT-Creation-Date: 2019-05-19 18:56+0000\n"
+"POT-Creation-Date: 2019-07-23 15:25+0000\n"
 "PO-Revision-Date: 2019-07-23 14:51+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -357,11 +357,11 @@ msgid ""
 "The Electronic Frontier Foundation, a separate organization not related to "
 "the Free Software Foundation, also campaigns against DRM."
 msgstr ""
-"L'<cite>Electronic Frontier Foundation</cite>, une organisation séparée sans "
-"lien avec la <cite>Free Software Fondation</cite>, fait également campagne "
-"contre les DRM."
+"L'<cite>Electronic Frontier Foundation</cite>, une organisation indépendante "
+"de la <cite>Free Software Fondation</cite>, fait également campagne contre "
+"les DRM."
 
-#. type: Content of: <div><div><blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The following note has been updated several times since the first "
 "publication of the story."
@@ -445,7 +445,7 @@ msgstr ""
 "de l'industrie du copyright; il est sur le point d'approuver l'inscription "
 "officielle d'un système de DRM dans les spécifications du web."
 
-#. type: Content of: <div><div><ul><li><div><p>
+#. type: Content of: <div><div><ul><li><div><div><p>
 msgid ""
 "Nonfree software tends to have <a href=\"/proprietary/\">abusive features of "
 "many kinds</a>, which lead to the conclusion that <a href=\"/philosophy/free-"
@@ -618,7 +618,7 @@ msgstr ""
 "Il s'agit d'une approche intéressante du quatrième amendement : conduire la "
 "plupart des gens à renoncer par avance aux droits qu'il leur accorde."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Bad News"
 msgstr "Mauvaises nouvelles"
 
@@ -630,7 +630,7 @@ msgstr ""
 "Jusqu'à présent, la bataille pour le droit de lire tourne à notre détriment. "
 "L'ennemi est organisé, pas nous."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "Today's commercial e-books <a href=\"/philosophy/the-danger-of-ebooks.html"
 "\"> abolish readers' traditional freedoms</a>.  Amazon's e-book reader "
@@ -651,7 +651,7 @@ msgstr ""
 "html\">fonctionnalités orwelliennes</a> avérées dont n'importe laquelle est "
 "une raison de rejeter complètement le produit."
 
-#. type: Content of: <div><div><ul><li><p>
+#. type: Content of: <div><div><div><ul><li><p>
 msgid ""
 "It spies on everything the user does: it reports which book the user is "
 "reading, and which page, and it reports when the user highlights text, and "
@@ -661,12 +661,12 @@ msgstr ""
 "livre il est en train de lire, quelle page, à quel moment il souligne du "
 "texte et quelles notes il prend."
 
-#. type: Content of: <div><div><ul><li><p>
+#. type: Content of: <div><div><div><ul><li><p>
 msgid "It has DRM, which is intended to block users from sharing copies."
 msgstr ""
 "Elle a un DRM conçu pour empêcher l'utilisateur de partager des copies."
 
-#. type: Content of: <div><div><ul><li><p>
+#. type: Content of: <div><div><div><ul><li><p>
 msgid ""
 "It has a back door with which Amazon can remotely erase any book.  In 2009, "
 "it erased thousands of copies of 1984, by George Orwell."
@@ -675,7 +675,7 @@ msgstr ""
 "n'importe quel livre. En 2009, elle a effacé des milliers de copies de "
 "« 1984 », le roman de George Orwell."
 
-#. type: Content of: <div><div><ul><li><p>
+#. type: Content of: <div><div><div><ul><li><p>
 msgid ""
 "In case all that isn't Orwellian enough, there is a universal back door with "
 "which Amazon can remotely change the software, and introduce any other form "
@@ -685,7 +685,7 @@ msgstr ""
 "dérobée universelle par laquelle Amazon peut modifier le logiciel à distance "
 "et introduire n'importe quelle autre forme de vilénie."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "Amazon's e-book distribution is oppressive, too.  It identifies the user and "
 "records what books the user obtains.  It also requires users to agree to an "
@@ -706,7 +706,7 @@ msgstr ""
 "genre de contrat. C'est pourquoi je refuse d'en signer, que ce soit pour du "
 "logiciel, des livres électroniques, de la musique ou n'importe quoi d'autre."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "If we want to stop the bad news and create some good news, we need to "
 "organize and fight.  Subscribe to the FSF's <a href=\"http://"
@@ -723,11 +723,11 @@ msgstr ""
 "travail. Il y a aussi de nombreux moyens d'y <a href=\"/help/help.html"
 "\">participer</a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "References"
 msgstr "Références"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The administration's &ldquo;White Paper&rdquo;: Information Infrastructure "
 "Task Force, Intellectual Property [<a href=\"/philosophy/not-ipr.html\">sic</"
@@ -739,17 +739,17 @@ msgstr ""
 "\">sic</a>] and the National Information Infrastructure: The Report of the "
 "Working Group on Intellectual Property <em>[sic]</em> Rights</cite> (1995)."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<cite><a href=\"http://www.wired.com/wired/archive/4.01/white.paper_pr.html"
-"\">An explanation of the White Paper: The Copyright Grab</a></cite>, Pamela "
-"Samuelson, <cite>Wired</cite>, January 1st, 1996."
+"<a href=\"http://www.wired.com/wired/archive/4.01/white.paper_pr.html\">An "
+"explanation of the White Paper: The Copyright Grab</a>, Pamela Samuelson, "
+"<cite>Wired</cite>, January 1st, 1996."
 msgstr ""
-"Une explication du libre blanc : <a href=\"http://www.wired.com/wired/"
-"archive/4.01/white.paper_pr.html\">The Copyright Grab</a>, Pamela Samuelson, "
-"<cite>Wired</cite>, 1er janvier 1996."
+"Une explication du libre blanc : <cite><a href=\"http://www.wired.com/wired/"
+"archive/4.01/white.paper_pr.html\">The Copyright Grab</a></cite>, "
+"Pamela Samuelson, <cite>Wired</cite>, 1er janvier 1996."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"http://www.law.duke.edu/boylesite/sold_out.htm\">Sold Out</a>, "
 "James Boyle, <cite>New York Times</cite>, March 31, 1996."
@@ -757,7 +757,7 @@ msgstr ""
 "<cite><a href=\"http://www.law.duke.edu/boylesite/sold_out.htm\">Sold Out</"
 "a></cite>, James Boyle, <cite>New York Times</cite>, 31 mars 1996."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"http://web.archive.org/web/20130508120533/http://www.interesting-"
 "people.org/archives/interesting-people/199611/msg00012.html\">Public Data or "
@@ -769,7 +769,7 @@ msgstr ""
 "\">Public Data or Private Data</a></cite>, Dave Farber, <cite>Washington "
 "Post</cite>, 4 novembre 1996."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"https://web.archive.org/web/20151113122141/http://public-domain."
 "org/\">Union for the Public Domain</a>&mdash;an organization which aims to "
