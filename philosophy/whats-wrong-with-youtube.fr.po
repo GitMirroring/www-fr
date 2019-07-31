@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: whats-wrong-with-youtube.html\n"
-"POT-Creation-Date: 2018-05-13 08:26+0000\n"
-"PO-Revision-Date: 2018-05-13 17:02+0200\n"
+"POT-Creation-Date: 2019-07-31 05:55+0000\n"
+"PO-Revision-Date: 2019-07-31 10:03+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -28,19 +28,68 @@ msgstr "Qu'y a-t-il de mal dans YouTube ?"
 
 #. type: Content of: <p>
 msgid ""
-"Please cite <a href=\"http://audio-video.gnu.org/\">audio-video.gnu.org</a> "
-"as the site for videos of my speeches &mdash; not YouTube."
+"Please don't use YouTube as the place to post videos of my talks, and please "
+"don't cite YouTube for that purpose.  If the talk is available in <a href="
+"\"http://audio-video.gnu.org/\">audio-video.gnu.org</a>, please cite that "
+"site."
 msgstr ""
-"Merci de citer <a href=\"http://audio-video.gnu.org/\">audio-video.gnu.org</"
-"a> pour les vidéos de mes discours, pas YouTube."
+"Merci de ne pas utiliser YouTube pour mettre en ligne les vidéos de mes "
+"conférences et de ne pas citer YouTube pour cet usage. Si la conférence est "
+"disponible sur <a href=\"http://audio-video.gnu.org/\">audio-video.gnu.org</"
+"a>, citez ce site."
 
 #. type: Content of: <p>
 msgid ""
-"There are two problems with YouTube as a place to post videos or refer to "
+"As of 2019 there is free software that permits access to YouTube from some "
+"browsers.  It is an add-on which is preinstalled in the GNU browser, IceCat, "
+"and can be loaded into Firefox.  As a result of this, posting videos on "
+"YouTube does not at the moment put them off limits to the free world."
+msgstr ""
+"En 2019, il existe un logiciel libre qui permet d'accéder à YouTube dans "
+"certains navigateurs. C'est une extension qui est préinstallée dans IceCat, "
+"le navigateur de GNU, et peut être téléchargée dans Firefox. Par conséquent, "
+"publier des vidéos sur YouTube ne les met pas hors de portée du monde du "
+"libre, pour le moment."
+
+#. type: Content of: <p>
+msgid ""
+"However, we cannot count on this to keep working.  The add-on already broke "
+"once this year.  This time, a corrected add-on was released after a few "
+"weeks.  Next time, who knows? Thus, posting on YouTube is a fragile solution."
+msgstr ""
+"Cependant nous ne pouvons pas être sûrs que cette solution soit pérenne. "
+"L'extension a déjà cessé de fonctionner une fois cette année. Une correction "
+"a été publiée dans les semaines suivantes, mais la prochaine fois, qui sait "
+"si ce sera le cas ? Mettre en ligne sur YouTube est donc une solution "
+"fragile."
+
+#. type: Content of: <p>
+msgid ""
+"In addition, most people will watch YouTube by running the nonfree software "
+"that Google sends to users.  Let's not encourage people to do that."
+msgstr ""
+"De plus, la plupart des gens regardent YouTube avec un logiciel non libre "
+"que Google envoie aux utilisateurs. Ne les encourageons pas à le faire."
+
+#. type: Content of: <p>
+msgid ""
+"As of mid-July, 2019, the add-on works for vimeo.com, but not for most other "
+"sites."
+msgstr ""
+"Mi-juillet 2019, l'extension fonctionne pour vimeo.com mais pas pour la "
+"plupart des autres sites."
+
+#. type: Content of: <h2>
+msgid "What else <em>Was</em> Wrong with YouTube"
+msgstr "Quoi d'autre y <em>avait</em>-il de mal dans YouTube ?"
+
+#. type: Content of: <p>
+msgid ""
+"These were the problems with YouTube as a place to post videos or refer to "
 "videos."
 msgstr ""
-"Lorsqu'il s'agit de mettre des vidéos en ligne ou de s'y référer, YouTube "
-"pose deux problèmes."
+"Voici les problèmes que posait YouTube pour la mise en ligne ou la mise en "
+"lien de vidéos."
 
 #. type: Content of: <ul><li>
 msgid "Normal use of YouTube involves use of nonfree software."
@@ -100,18 +149,31 @@ msgstr ""
 "mais il n'y a pas de solution libre complète pour y accéder dans un "
 "navigateur."
 
+#. type: Content of: <ul><li>
+msgid ""
+"&ldquo;ContentID is exactly the thing YouTube claims it doesn't do: <a href="
+"\"https://boingboing.net/2018/12/26/youtube-let-a-contentid-scamme.html\"> "
+"privately mediating ownership of [publications] without involving the law</"
+"a>.&rdquo;"
+msgstr ""
+"« ContentID est exactement ce que YouTube affirme ne pas faire : <a href="
+"\"https://boingboing.net/2018/12/26/youtube-let-a-contentid-scamme.html"
+"\">agir comme médiateur privé de la propriété des [publications] sans faire "
+"intervenir la loi</a>. »"
+
 #. type: Content of: <p>
 msgid ""
 "One thing about YouTube that is <em>not</em> a moral strike against it is "
 "nonfree software on YouTube servers &mdash; if there is any.  We as possible "
 "users of YouTube can't tell whether the servers run any nonfree software, "
-"because that has no effect on us &mdash; therefore it doesn't do wrong to us."
+"because that has no effect on us &mdash; therefore it doesn't do any wrong "
+"to us."
 msgstr ""
 "En revanche, ce qui <em>ne peut pas</em> être retenu contre YouTube du point "
 "de vue de l'éthique, c'est le logiciel non libre qui tourne sur ses serveurs "
 "– s'il en existe. En tant qu'utilisateurs potentiels de YouTube, nous ne "
 "pouvons pas savoir si c'est le cas parce que cela ne nous affecte pas. Donc "
-"cela ne nous fait pas de tort."
+"cela ne nous fait aucun tort."
 
 #. type: Content of: <p>
 msgid ""
@@ -130,15 +192,13 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"Dailymotion and Vimeo have the same problem as YouTube's HTML5 option: "
-"viewing their videos in the normal way requires nonfree JavaScript code.  "
-"Archive.org at least permits viewing most videos without you're having to "
-"run any nonfree software to see them."
+"It is also possible that all the software running on YouTube servers is "
+"free&mdash;either published free software or private unreleased free "
+"software."
 msgstr ""
-"Dailymotion et Vimeo ont le même problème que l'option HTML5 de YouTube : "
-"regarder leurs vidéos normalement nécessite du code JavaScript non libre. Au "
-"moins, Archive.org permet d'en regarder la plupart sans avoir à faire "
-"tourner de logiciel non libre."
+"Il est possible également que tous les logiciels tournant sur les serveurs "
+"de YouTube soient libres, que ce soit des logiciels libres publiés ou des "
+"logiciels privés non publiés."
 
 #. type: Content of: <p>
 msgid ""
@@ -221,8 +281,10 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2015, 2016, 2017, 2018, 2019 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2015, 2016, 2017, 2018, 2019 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
