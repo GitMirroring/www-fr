@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: common-distros.html\n"
-"POT-Creation-Date: 2019-01-08 09:56+0000\n"
-"PO-Revision-Date: 2019-01-08 12:39+0100\n"
+"POT-Creation-Date: 2019-07-31 11:25+0000\n"
+"PO-Revision-Date: 2019-08-01 00:01+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -240,10 +240,22 @@ msgstr ""
 "pour les périphériques de la machine."
 
 #. type: Content of: <p>
-msgid "Debian's wiki includes pages about installing nonfree firmware."
+msgid ""
+"In addition, some of the free programs that are officially part of Debian "
+"invite the user to install some nonfree programs.  Specifically, the Debian "
+"versions of Firefox and Chromium suggest nonfree plug-ins to install into "
+"them."
 msgstr ""
-"Il y a dans le wiki de Debian des pages expliquant comment installer des "
-"logiciels privateurs."
+"De plus, certains des programmes libres qui font officiellement partie de "
+"Debian invitent l'utilisateur à installer des programmes non libres. En "
+"particulier, les versions de Firefox et Chrome fournies par Debian suggèrent "
+"des plugins non libres compatibles avec elles."
+
+#. type: Content of: <p>
+msgid "Debian's wiki also includes pages about installing nonfree firmware."
+msgstr ""
+"Il y a également dans le wiki de Debian des pages expliquant comment "
+"installer des micrologiciels privateurs."
 
 #. type: Content of: <p>
 msgid ""
