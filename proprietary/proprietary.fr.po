@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary.html\n"
-"POT-Creation-Date: 2019-08-03 11:25+0000\n"
-"PO-Revision-Date: 2019-08-03 15:58+0200\n"
+"POT-Creation-Date: 2019-08-06 08:25+0000\n"
+"PO-Revision-Date: 2019-08-06 13:21+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -299,6 +299,30 @@ msgstr "Ajouts récents"
 
 #. type: Content of: <ul><li><p>
 msgid ""
+"Out of 21 gratis Android antivirus apps that were tested by security "
+"researchers, eight <a href=\"https://www.comparitech.com/antivirus/android-"
+"antivirus-vulnerabilities/\"> failed to detect a test virus</a>. All of them "
+"asked for dangerous permissions or contained advertising trackers, with "
+"seven being more risky than the average of the 100 most popular Android apps."
+msgstr ""
+"Parmi 21 antivirus pour Android étudiés par des chercheurs en sécurité, huit "
+"se sont révélés <a href=\"https://www.comparitech.com/antivirus/android-"
+"antivirus-vulnerabilities/\">incapables de détecter un virus de test</a>. "
+"Tous demandaient des permissions à risque ou contenaient des pisteurs "
+"publicitaires, et sept étaient plus dangereux que la moyenne des 100 applis "
+"Android les plus populaires."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Note that the article refers to these proprietary apps as &ldquo;"
+"free&rdquo;. It should have said &ldquo;gratis&rdquo; instead."
+msgstr ""
+"Notez que cet article qualifie ces applis privatrices de <cite>free</cite> "
+"(dans le sens de « gratuites »). Il aurait dû dire plutôt <cite>gratis</"
+"cite>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
 "Many unscrupulous mobile-app developers keep finding ways to <a href="
 "\"https://www.cnet.com/news/more-than-1000-android-apps-harvest-your-data-"
 "even-after-you-deny-permissions/\"> bypass user's settings</a>, regulations, "
@@ -412,26 +436,6 @@ msgstr ""
 "(il évitait aux utilisateurs d'être espionnés par des tiers) mais c'est un "
 "autre problème."
 
-#. type: Content of: <ul><li><p>
-msgid ""
-"Many Android apps can track users' movements even when the user says <a href="
-"\"https://www.theverge.com/2019/7/8/20686514/android-covert-channel-"
-"permissions-data-collection-imei-ssid-location\"> not to allow them access "
-"to locations</a>."
-msgstr ""
-"Plusieurs applis pour Android pistent les utilisateurs même quand ils disent "
-"<a href=\"https://www.theverge.com/2019/7/8/20686514/android-covert-channel-"
-"permissions-data-collection-imei-ssid-location\">de ne pas leur donner accès "
-"à la géolocalisation</a>."
-
-#. type: Content of: <ul><li><p>
-msgid ""
-"This involves an apparently unintentional weakness in Android, exploited "
-"intentionally by malicious apps."
-msgstr ""
-"Cela fait intervenir une faille apparemment involontaire d'Android, qui est "
-"exploitée sciemment par les applis malveillantes."
-
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
@@ -505,3 +509,5 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+
