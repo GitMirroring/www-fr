@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary.html\n"
-"POT-Creation-Date: 2019-08-06 08:25+0000\n"
-"PO-Revision-Date: 2019-08-06 13:21+0200\n"
+"POT-Creation-Date: 2019-08-15 10:25+0000\n"
+"PO-Revision-Date: 2019-08-15 16:48+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -299,6 +299,19 @@ msgstr "Ajouts récents"
 
 #. type: Content of: <ul><li><p>
 msgid ""
+"Apple is putting DRM on iPhone batteries, and the system proprietary "
+"software <a href=\"https://www.vice.com/en_us/article/59nz3k/apple-is-"
+"locking-batteries-to-specific-iphones-a-nightmare-for-diy-repair\">turns off "
+"certain features when batteries are replaced other than by Apple.</a>"
+msgstr ""
+"Il y a un DRM dans les batteries de l'iPhone et le système d'exploitation "
+"privateur d'Apple <a href=\"https://www.vice.com/en_us/article/59nz3k/apple-"
+"is-locking-batteries-to-specific-iphones-a-nightmare-for-diy-repair"
+"\">désactive certaines fonctionnalités quand les batteries sont remplacées "
+"par des tiers</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
 "Out of 21 gratis Android antivirus apps that were tested by security "
 "researchers, eight <a href=\"https://www.comparitech.com/antivirus/android-"
 "antivirus-vulnerabilities/\"> failed to detect a test virus</a>. All of them "
@@ -416,26 +429,6 @@ msgstr ""
 "La seule bonne raison de posséder une copie d'un tel jeu privateur est son "
 "étude en vue du développement d'un remplaçant libre."
 
-#. type: Content of: <ul><li><p>
-msgid ""
-"Apple appears to say that <a href=\"https://techcrunch.com/2019/07/10/apple-"
-"silent-update-zoom-app/\"> there is a back door in MacOS</a> for "
-"automatically updating some (all?) apps."
-msgstr ""
-"Apple semble dire que <a href=\"https://techcrunch.com/2019/07/10/apple-"
-"silent-update-zoom-app/\">MacOS possède une porte dérobée</a> permettant de "
-"mettre à jour certaines applis, sinon toutes."
-
-#. type: Content of: <ul><li><p>
-msgid ""
-"The specific change described in the article was not malicious&mdash;it "
-"protected users from surveillance by third parties&mdash;but that is a "
-"separate question."
-msgstr ""
-"Le changement particulier décrit dans cet article n'était pas malveillant "
-"(il évitait aux utilisateurs d'être espionnés par des tiers) mais c'est un "
-"autre problème."
-
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
@@ -509,5 +502,3 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
-
-
