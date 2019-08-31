@@ -61,8 +61,8 @@ set -o pipefail
 
 function version () {
 cat <<EOF
-${0##*\/} version 0.1
-Copyright (C) 2013, 2014 Thérèse Godefroy
+${0##*\/} version 0.2
+Copyright (C) 2013, 2015, 2016, 2019 Thérèse Godefroy
 You may redistribute and/or modify this script under
 the terms of the GNU General Public License, v.3+
 (because it borrows from GNUN, which is under GPLv3+).
@@ -103,11 +103,31 @@ function close_or_exit () {
 if test "$batch" == "1"; then
   exit $1
 else
-  sleep 10
-  exit $1
+  echo -e '\n*** Close the terminal window or press Return.'; read OK
+  test -z "$OK" && exit $1
 fi
 }
 
+
+## Dependencies:
+
+MSGMERGE=$(which msgmerge) \
+|| echo "    msgmerge is not installed.
+    The malware pages won't be merged with mal.fr.po"
+
+PO4A_TRANSLATE=$(which po4a-translate) \
+|| (echo "!!! po4a-translate is not installed - exiting."; close_or_exit 1)
+XMLLINT=$(which xmllint) \
+|| (echo "!!! xmllint is not installed - exiting."; close_or_exit 1)
+
+MSGCAT=$(which msgcat)
+
+# xhtml1-strict.dtd, html5.dtd and entity definitions (xhtml-lat1.ent,
+# xhtml-special.ent, and xhtml-symbol.ent) are assumed to be in the same
+# directory as the script. Otherwise, specify their path (without a trailing
+# slash).
+DTD=${0%\/*}
+#DTD=/usr/local/share/gnun
 
 ## Parameters
 
@@ -118,22 +138,10 @@ if test "$p" == "$PPID"; then
   batch=1
 fi
 
-PO4A_TRANSLATE=$(which po4a-translate) \
-|| (echo "!!! po4a-translate is not installed - exiting."; close_or_exit 1)
-XMLLINT=$(which xmllint) \
-|| (echo "!!! xmllint is not installed - exiting."; close_or_exit 1)
-# msgcat is part of Gettext, which is a dependency of PO4A. Normally it should
-# be installed, but...
-MSGCAT=$(which msgcat) \
-|| (echo "!!! msgcat is not installed - exiting."; close_or_exit 1)
-
-# xhtml1-strict.dtd and html5.dtd are assumed to be in the same directory as
-# the script. Otherwise, specify their path (without a trailing slash).
-DTD=${0%\/*}
 
 # Do not delete obsolete messages and Outdated-Since by default.
 # TODO: split this into 2 functions?
-delobs=0
+delobs=1
 
 # Parse the command line.
 OPTIND=1
@@ -151,8 +159,17 @@ shift $((OPTIND-1))
 
 ## Functions
 
-function check_fuzz () {
+function check_gnun_slot () {
+  # Makes sure a GNUN-SLOT marker hasn't been copied to the msgstr.
+  if grep 'msgstr "\*GNUN-SLOT' $1; then
+    echo "!!! There is a GNUN-SLOT marker in the translation. If
+    you don't have translator's notes/credits, you should
+    replace it with a space."
+    close_or_exit 1
+  fi
+}
 
+function check_fuzz () {
   # Check for fuzzy strings that are not deprecated.
   fuzzy=$(grep -A1 '^#, fuzzy' "$1" |
           sed '/fuzzy/ {N; s,\n,,'} |
@@ -179,7 +196,7 @@ function fix_html () {
 
   cat - "$1" > "$2" << EOF
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+"$DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="$lang" lang="$lang">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -188,7 +205,7 @@ EOF
   if firstline=$(grep '<!--#include virtual="/server/html5-header.html" -->' "$1"); then
     VALIDATE="--dtdvalid $DTD/html5.dtd"
   else
-    VALIDATE="--dtdvalid $DTD/xhtml1-strict.dtd"
+    VALIDATE=--valid
   fi
 
   # If this is a templated page, add missing tags and inactivate SSIs.
@@ -218,33 +235,16 @@ function add_split_tags () {
 function update_po_header () {
 # updates the revision date.
   date=$(date +'%F %R%z')
-  sed -i -e "s,\\(Revision-Date: \\).*,\\1$date\\\\n\"," "$1"
+  sed -i "s,\\(Revision-Date: \\).*,\\1$date\\\\n\"," "$1"
 }
 
 function delete_obsolete () {
-# removes Outdated-Since and useless comments (outdated messages that contain
-# links pointing outside gnu.org or fsf.org are kept).
-  sed -e '/^"Outdated-Since/d' -e '/^# |/d' -e '/^#|/d' "$1" |
-  awk 'BEGIN {
-  FS = " ";
-  RS = ORS = "\n\n";
-  }
-  {
-    if (!/#~/) {
-      print;
-    } else {
-      FS = "href";
-      for (n=2; n<=NF; n++) {
-        if ($n !~ \
-        /\\"http:\/\/("\n#~ ")?(www\.)?("\n#~ ")?(gnu|fsf)\.("\n#~ ")?org/ \
-        && $n ~ /\\"http:\/\//) {
-          print;
-          next;
-        }
-      }
-    }
-  }' |
-  sed ':egin /^\n*$/ {$d; N; begin}' > "$clean_po" && mv "$clean_po" "$1"
+# removes Outdated-Since and obsolete strings.
+  sed -i -e '/^"Outdated-Since/d' \
+         -e '/^# |/d' \
+         -e '/#, fuzzy/ {N; /#, fuzzy\n#~| msgid/d}' \
+         -e '/^#~/d'  $1
+  sed -i ':a;/^[ \n]*$/{$d;N;ba}' $1
 }
 
 function create_addendum () {
@@ -267,11 +267,12 @@ function make_links_absolute () {
 
 #====================
 
+top=$(mktemp -t tvp.XXXXXX)         || close_or_exit 1
+merged=$(mktemp -t tvp.XXXXXX)      || close_or_exit 1
 master=$(mktemp -t tvp.XXXXXX)      || close_or_exit 1
 add_notes=$(mktemp -t tvp.XXXXXX)   || close_or_exit 1
 add_credits=$(mktemp -t tvp.XXXXXX) || close_or_exit 1
-clean_po=$(mktemp -t tvp.XXXXXX)    || close_or_exit 1
-trap 'rm -f "$master" "$add_notes" "$add_credits" "$clean_po"' EXIT
+trap 'rm -f "$top" "$merged" "$master" "$add_notes" "$add_credits"' EXIT
 
 ## Get the PO file and check it.
 
@@ -285,81 +286,100 @@ test -s "$po" -a  "${po%.po}" != "$po" \
 || (echo 1>&2 "!!! $po doesn't exist,
     is empty or is not a PO."; close_or_exit 1)
 
+check_gnun_slot "$po"
+
 # If a relative path has been entered, make it absolute.
 test "${po#/}" != "$po" || po="$(pwd)"/$po
 
 # Test whether the PO is in a www-related directory (www-team or even
 # www-test or www); remove "po/" from the path in case it is in www.
-poname=${po#*\/www*\/} && poname=${poname/po\//}
+poname=${po#*/www*/} && poname=${poname/po\//}
 echo -e "\n=== $poname"
 # Find the common root of www-* and www.
 test "$poname" != "$po" && rootdir=${po%\/www*}
 
 # Get the language code from the name of the PO.
-lang=${po%.po}
-lang=${lang##*.}
-
-exit_code=0
-check_fuzz "$po" || exit_code=$?
-
-## Get the original HTML.
-
-if test ! -f "$original"; then
-  # Check whether the context is that of www.gnu.org, with the PO in
-  # www-*/ and a valid original HTML in www/. Otherwise, ask for it
-  # (except in case of batch transvalidation).
-  original=$rootdir/www/$poname
-  original=${original/.$lang.po/.html}
-  if test ! -f "$original" -a -z "$batch"; then
-    echo "*** Please enter the original file."; read original
-  fi
-  original=${original#\'}; original=${original%\'}
+lang=${poname%.po}
+if [ "${lang##*.}" != "$lang" ] ; then
+  lang=${lang##*.}
+else
+  lang=${lang##*/}
 fi
 
-test -s "$original" -a  "${original%.html}" != "$original" \
-|| (echo  1>&2 "!!! $original doesn't exist,
+if [ "${poname}" != "proprietary/$lang.po" ]; then
+
+  # Merge with fr.po if the file is in proprietary/. This assumes that fr.po
+  # will be updated.
+  if [[ "$poname" =~ 'proprietary' ]] && [ -n $MSMERGE ]; then 
+    sed -n '1,/^#. type: Content of: <title>/p' $po > $top 
+    $MSGMERGE -N -C ${po%/*.*.po}/$lang.po /dev/null $po -o $merged 
+    sed -i '1,/^#. type: Content of:/d' $merged
+    cat $top $merged > $po
+  fi
+
+  exit_code=0
+  check_fuzz "$po" || exit_code=$?
+
+  ## Get the original HTML.
+  if test ! -f "$original"; then
+    # Check whether the context is that of www.gnu.org, with the PO in
+    # www-*/ and a valid original HTML in www/. Otherwise, ask for it
+    # (except in case of batch transvalidation).
+    original=$rootdir/www/$poname
+    original=${original/.$lang.po/.html}
+    if test ! -f "$original" -a -z "$batch"; then
+      echo "*** Please enter the original file."; read original
+    fi
+    original=${original#\'}; original=${original%\'}
+  fi
+
+  test -s "$original" -a  "${original%.html}" != "$original" \
+  || (echo  1>&2 "!!! $original doesn't exist,
     is empty or is not an HTML."; close_or_exit 1)
 
-## Prepare the po4a "master".
+  ## Prepare the po4a "master".
 
-fix_html "$original" "$master"
-remove_last_update "$master"
-add_split_tags "$master"
+  fix_html "$original" "$master"
+  remove_last_update "$master"
+  add_split_tags "$master"
 
-## Generate the translated page.
+  ## Generate the translated page.
 
-translation="${po/.po/-local.html}"
-rm -f "$translation"
+  translation="${po/.po/-local.html}"
+  rm -f "$translation"
 
-if grep "*GNUN-SLOT" "$po" > /dev/null; then
+  if grep "*GNUN-SLOT" "$po" > /dev/null; then
   # If this is a normal gnu.org article:
-  create_addendum "$po" NOTES 'footer.html"' "$add_notes"
-  create_addendum "$po" CREDITS '/server/bottom-notes.html' "$add_credits"
-  # The po4a-translate "k" option, “Minimal threshold for translation
-  # percentage to keep (ie, write) the resulting file” according to the
-  # manual, is set at 30 to allow proofreading of a partial translation
-  # or detection of faulty strings (the default is 80).
-  $PO4A_TRANSLATE -f xhtml -M utf-8 -m "$master" -p "$po" -k 0 -L utf-8 \
-      -l "$translation" -a "$add_credits" -a "$add_notes" || exit_code=$?
-else
-  $PO4A_TRANSLATE -f xhtml -M utf-8 -m "$master" -p "$po" -k 0 -L utf-8 \
-      -l "$translation"  || exit_code=$?
+    create_addendum "$po" NOTES 'footer.html"' "$add_notes"
+    create_addendum "$po" CREDITS '/server/bottom-notes.html' "$add_credits"
+    # The po4a-translate "k" option, “Minimal threshold for translation
+    # percentage to keep (ie, write) the resulting file” according to the
+    # manual, is set at 30 to allow proofreading of a partial translation
+    # or detection of faulty strings (the default is 80).
+    $PO4A_TRANSLATE -f xhtml -M utf-8 -m "$master" -p "$po" -k 0 -L utf-8 \
+        -l "$translation" -a "$add_credits" -a "$add_notes" || exit_code=$?
+  else
+    $PO4A_TRANSLATE -f xhtml -M utf-8 -m "$master" -p "$po" -k 0 -L utf-8 \
+        -l "$translation" || exit_code=$?
+  fi
+
+  ## Validate and tweak the HTML.
+
+  if test "$po" = "${po%/body-include-2.*.po}"; then
+    $XMLLINT $VALIDATE --nonet --noout "$translation" || exit_code=$?
+  fi
+  make_links_absolute "$translation"
 fi
 
-## Validate the HTML and reformat/validate the PO.
-
-if test "$po" = "${po%/body-include-2.*.po}"; then
-  $XMLLINT $VALIDATE --nonet --noout "$translation" || exit_code=$?
-fi
+## Reformat/validate and tweak the PO.
 $MSGCAT -w 79 -o "$po" "$po" || exit_code=$?
 
-## Tweak the translated page and the PO.
-
-make_links_absolute "$translation"
 if test "$delobs" == "1"; then
   delete_obsolete "$po"
 fi
+
 update_po_header "$po"
 
 test "$exit_code" == "0" && echo "    OK"
+
 close_or_exit $exit_code

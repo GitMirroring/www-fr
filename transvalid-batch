@@ -4,7 +4,7 @@
 #    transvalid-batch - batch transvalidation of PO files from www.gnu.org
 
 # SYNOPSIS
-#    transvalid-batch [OPTIONS] .../TEAM_DIRECTORY
+#    transvalid-batch [OPTIONS] .../www-TEAM
 
 # DEPENDENCIES
 #    * Required: transvalid-po in the same directory as transvalid-batch,
@@ -49,8 +49,8 @@ set -o pipefail
 
 function version () {
 cat <<EOF
-$0 version 0.1
-Copyright (C) 2013, 2014 Thérèse Godefroy
+${0##*\/} version 0.1
+Copyright (C) 2013, 2015, 2016 Thérèse Godefroy
 You may redistribute this script and/or modify it under the terms
 of the Creative Commons CC0 license.
 EOF
@@ -59,7 +59,7 @@ EOF
 function usage () {
 cat <<EOF
 
-Usage: ${0##*\/} [OPTIONS] .../TEAM_DIRECTORY
+Usage: ${0##*\/} [OPTIONS] .../www-TEAM
 
   The script assumes the context of www.gnu.org. It helps create a list of
   modified POs. Then, for each item of the list, it calls transvalidate-po
@@ -121,8 +121,8 @@ fi
 ## Functions
 
 function close_term () {
-  sleep 10
-  exit $1
+  echo -e '\n*** Close the terminal window or press Return.'; read OK
+  test -z "$OK" && exit $1
 }
 
 function create_valid_list () {

@@ -4,7 +4,7 @@
 #    www-commit - batch commit to the www repository
 
 # SYNOPSIS
-#    www-commit  -t /.../www-TEAM
+#    www-commit .../www-TEAM
 
 # DEPENDENCIES
 #    required: cvs, git.
@@ -19,15 +19,15 @@
 #    * www and www-team must have the same parent directory.
 #    * www-team must be a Git repository and contain the working copies of the
 #      PO files.
-#    * www must contain the PO files under CVS control
+#    * www must contain the PO files under CVS control.
 
 # OPTIONS AND CURRENT SETTINGS
-#    Displayed by:   cvs-sync -h
+#    Displayed by:   www-commit -h
 #
 #    Configuration file:
 #    The command-line parameters can be set once and for all in a configuration
-#    file (also used by transvalid-batch, cvs-sync, www-commit, and
-#    micro-www-checkout), with the syntax:
+#    file (also used by transvalid-batch, cvs-sync, micro-www-checkout and
+#    check-links, with the syntax:
 #       parameter1="value1"
 #       parameter2="value2"
 #    This configuration overrides the default settings but is superseded by the
@@ -40,8 +40,8 @@ set -o pipefail
 
 function version () {
 cat <<EOF
-${0##*\/} version 0.1
-Copyright (C) 2013, 2014 Thérèse Godefroy
+${0##*\/} version 0.2
+Copyright (C) 2015, 2016, 2019 Thérèse Godefroy
 You may redistribute this script and/or modify it under the terms
 of the Creative Commons CC0 license.
 EOF
@@ -50,7 +50,7 @@ EOF
 function usage () {
 cat <<EOF
 
-Usage: cvs-sync  -t /.../www-TEAM
+Usage: ${0##*\/} .../www-TEAM
 
   The script assumes the context of www.gnu.org, with the team directory
   (www-team) under Git. It copies the modified POs from www-team to www,
@@ -58,9 +58,6 @@ Usage: cvs-sync  -t /.../www-TEAM
   www CVS repository. www and www-team must have the same parent directory.
 
 Options:
-
-  -t /.../www-TEAM         [$teamdir]
-      Specify the absolute path to www-team (required)
   -V  Display version info and exit.
   -h  Display this help and exit.
 
@@ -70,35 +67,9 @@ EOF
 }
 
 function close_term () {
-  sleep 10
-  exit $1
+  echo -e '\n*** Close the terminal window or press Return.'; read OK
+  test -z "$OK" && exit $1
 }
-
-echo "${0##*\/} - batch commit to the www repository"
-
-
-## Parameters
-
-conf="$HOME/.profile"
-teamdir=""
-test -s "$conf" && source $conf
-
-# Parse the command line.
-OPTIND=1
-while getopts "h?Vt:" opt; do
-  case "$opt" in
-    h | \? ) usage; exit 0 ;;
-    V ) version; exit 0 ;;
-    t ) teamdir=$OPTARG ;;
-  esac
-done
-shift $((OPTIND-1))
-[ "$1" = "--" ] && shift
-
-
-conf="$HOME/.profile"
-test -f $conf && source $conf
-
 
 function select_message () {
 # lets the user select a message from the configuration file.
@@ -112,7 +83,7 @@ function select_message () {
         [other] no commit"
   read -s -n1 choice
   case "$choice" in
-    0) echo "Quel est le message de commit ?"; read message ;;
+    0) echo "What is the message?"; read message ;;
     1) message=$message11 ;;
     2) message=$message12 ;;
     3) message=$message13 ;;
@@ -122,9 +93,39 @@ function select_message () {
   esac
 }
 
-cd $teamdir
+echo "${0##*\/} - batch commit to the www repository"
 
-# Create TMP files
+# Initial parameters
+conf="$HOME/.profile"
+teamdir=""
+copyonly=""
+test -s "$conf" && source $conf
+
+# Parse the command line.
+OPTIND=1
+while getopts "h?V" opt; do
+  case "$opt" in
+    h | \? ) usage; exit 0 ;;
+    V ) version; exit 0 ;;
+  esac
+done
+shift $((OPTIND-1))
+[ "$1" = "--" ] && shift
+
+# Team directory input
+test -n "$1" && teamdir=$1
+if test ! -d "$teamdir"; then
+  echo -e "\n*** Please specify your team directory."; read teamdir
+fi
+teamdir=${teamdir%\'}; teamdir=${teamdir#\'}
+# Make sure it can be reached.
+cd "$teamdir" \
+|| (echo 1>&2 "!!! Can't reach $teamdir."; close_term 1)
+
+lang=${teamdir##*www-}
+
+
+# Create TMP files.
 batch1=$(mktemp -t commit.XXXXXX) || exit 1
 batch2=$(mktemp -t commit.XXXXXX) || exit 1
 batch3=$(mktemp -t commit.XXXXXX) || exit 1
@@ -132,39 +133,61 @@ batch4=$(mktemp -t commit.XXXXXX) || exit 1
 d=$(mktemp -t commit.XXXXXX) || exit 1
 trap 'rm -f "$batch1" "$batch2" "$batch3" "$batch4" "$d"' EXIT
 
-# Get lists of modified POs
+# Get lists of modified POs.
 git dn master master^ > $batch1
 git dn master^ master^^ > $batch2
 git dn master^^ master^^^ > $batch3
-git dn master^^^ master^^^^ > $batch4
 
+# Copy and commit.
 echo ''
-for s in $batch1 $batch2 $batch3 $batch4; do
-  echo -e "\n=== Batch to be committed:\n"
-  cat $s                                      # source list (in www-team)
-  sed -e 's,\([^/]*.fr.po\),po/\1,' $s > $d   # destination list (in www)
-  sfiles=($(< $s))                            # source array
-  dfiles=($(< $d))                            # destination array
+n=0
+for s in $batch1 $batch2 $batch3; do
+  let n=n+1 
+  echo -e "\n=== Batch #$n:\n"
+  cat $s                                            # source list (in www-team)
 
-  select_message
-  if [ -z "$message" ]; then
+  echo "        [0] skip
+        [1] copy only
+        [2] commit
+        [other] quit"
+  read -s -n1 choice
+  case "$choice" in
+    0 ) continue ;;
+    1 ) copyonly=1 ;;
+    2 ) copyonly="" ;;
+    * ) exit 0 ;;
+  esac
+
+  sed -e "s,\\([^/]*$lang\\.po\\),po/\\1," $s > $d  # destination list (in www)
+  sfiles=($(< $s))                                  # source array
+  dfiles=($(< $d))                                  # destination array
+
+  i=0
+  while [ "$i" -lt ${#sfiles[@]} ]; do
+    cp ${sfiles[$i]} ../www/${dfiles[$i]}   # copy file from www-team to www
+    cp ${sfiles[$i]} /media/Gnu-local/www/${dfiles[$i]}
+    let i=i+1
+  done
+  if [ -z "$copyonly" ]; then
+    select_message
+    if [ -z "$message" ]; then
       echo "This batch will not be committed."
-  else
-    i=0
-    while [ "$i" -lt ${#sfiles[@]} ]; do
-      cp ${sfiles[$i]} ../www/${dfiles[$i]}   # copy file from www-team to www
-      let i=i+1
-    done
-    echo "cvs commit -m \"$message\" $(< $d)"
-    echo "OK this commit."
-    read -s -n1 OK
-    if [ -z "$OK" ]; then
-      cd ../www && cvs commit -m "$message" $(< $d)
-      echo "Done."
-      cd ../www-fr
     else
-      echo "Not committed."
+      echo "cvs commit -m \"$message\" $(< $d)"
+      echo "OK this commit."
+      read -s -n1 OK
+      if [ -z "$OK" ]; then
+        cd ../www && cvs commit -m "$message" $(< $d) ||
+          (echo 1>&2 "!!! Unable to commit"; close_term 1)
+        echo "Done."
+        cd $teamdir
+      else
+        echo "Copied to www; not committed."
+      fi
     fi
+  else
+    echo "Copied to www; not committed."
   fi
 done
-exit
+
+exit 0

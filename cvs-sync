@@ -22,22 +22,23 @@
 #       untranslated strings, as well as the POs that have been modified or
 #       lack a counterpart in www (possibly indicating that they are new
 #       translations).
-#    4. Up-to-date POs that differ but have the same PO-Revision-Date in www
-#       and www-team are assumed to be formatted differently. The www version
-#       is copied to www-team. Likewise POs that are up-to-date in www but not
+#    4. POs that are up-to-date in www but not in www-team are copied from www
+#       to www-team.
+#    5. Up-to-date POs that differ but have the same PO-Revision-Date in www
+#       and www-team are copied from www to www-team, but the version in
+#       www-team is saved. 
+#    6. If any POs are present in www but not in www-team, they are installed
 #       in www-team.
-#    5. If any POs are present in www but not in www-team, they are installed
-#       in www-team.
-#    6. If a GUI or PO editor has been specified, the outdated PO files are
-#       displayed unless the -n switch is used.
-#    7. [Git repo only] After the report, and optionally the POs, have been
+#    7. If a PO editor has been specified, the outdated PO files are displayed
+#       unless the -n switch is used.
+#    8. [Git repo only] After the report, and optionally the POs, have been
 #       displayed, the user is prompted to send the list of outdated POs to a
 #       specified address and commit them to the Git repo. This requires
 #       setting the email address and subject line. The message is sent with
-#       Mutt. [This could be extended to CVS repos, but the commits would be
-#       irreversible.]
-#    8. [Git repo only] The up-to-date POs that were copied to www-team are
-#       committed to Git.
+#       Mutt.
+#    9. [Git repo only] The up-to-date POs that were copied to www-team are
+#       committed to Git. This could be extended to CVS repos, but the commits
+#       would be irreversible.
 #
 #    Requirements:
 #    * www and www-team must have the same parent directory.
@@ -67,8 +68,8 @@ set -o pipefail
 
 function version () {
 cat <<EOF
-${0##*\/} version 0.1
-Copyright (C) 2013, 2014 Thérèse Godefroy
+${0##*\/} version 0.2
+Copyright (C) 2013, 2015-2017, 2019 Thérèse Godefroy
 You may redistribute this script and/or modify it under the terms
 of the Creative Commons CC0 license.
 EOF
@@ -77,7 +78,7 @@ EOF
 function usage () {
 cat <<EOF
 
-Usage: cvs-sync [OPTIONS] .../www-TEAM
+Usage: ${0##*\/} [OPTIONS] .../www-TEAM
 
   The script assumes the context of www.gnu.org. It synchronizes the
   local reference directory (www) with the CVS repository, and the
@@ -86,17 +87,16 @@ Usage: cvs-sync [OPTIONS] .../www-TEAM
   the local modifications must be made in www-team.
 
 Options:
-  -g GUI_EDITOR         [$geditor]
-      Specify a GUI or PO editor. If none, POs are not displayed.
+  -p PO_EDITOR         [$poeditor]
+      Specify a PO editor. If none, POs are not displayed.
 
-  -n  Do not display the outdated PO in the GUI or PO editor.
+  -n  Do not display the outdated POs in the PO editor.
 
   -a TEAM@ADDRESS       [$address]
       Specify the address of the team mailing list (optional).
       The email will be sent with Mutt.
 
-  -s "SUBJECT_LINE"     [$subject]
-      Specify the path to www-team (required if not in configuration).
+  -s "SUBJECT LINE"     [$subject]
 
   -V  Display version info and exit.
   -h  Display this help and exit.
@@ -110,52 +110,59 @@ Report bugs to <godef.th@free.fr>
 EOF
 }
 
+
 ## Parameters
 
 conf="$HOME/.profile"
 teamdir=""
-geditor=""
+poeditor=""
 display=true
 address=""
-subject="Sync with www $(date +"%y-%m-%d")" # This could be localized.
+subject="Outdated POs $(date +"%y-%m-%d")"
 
 test -s "$conf" && source $conf
 
 # Parse the command line.
 OPTIND=1
-while getopts "h?Va:g:s:n" opt; do
+while getopts "h?Vp:na:s:" opt; do
   case "$opt" in
     h | \? ) usage; exit 0 ;;
     V ) version; exit 0 ;;
-    a ) address=$OPTARG ;;
-    g ) geditor=$OPTARG ;;
-    s ) subject=$OPTARG ;;
+    p ) poeditor=$OPTARG ;;
     n ) display=false ;;
+    a ) address=$OPTARG ;;
+    s ) subject=$OPTARG ;;
   esac
 done
 shift $((OPTIND-1))
 [ "$1" = "--" ] && shift
 
-# Make sure the dependencies are installed (.
-MSGMERGE=$(which msgmerge) \
-|| (echo "!!! msgmerge is not installed."; close_term 1)
-MSGATTRIB=$(which msgattrib) \
-|| (echo "!!! msgattrib is not installed."; close_term 1)
-FUZZY_DIFF=$(which gnun-add-fuzzy-diff) \
-|| echo "*** No diff will be added to the fuzzy strings because
-    gnun-add-fuzzy-diff is not installed."
-MUTT=$(which mutt) \
-|| echo "*** No email will be sent because Mutt is not installed."
+MSGMERGE=$(which msgmerge)
+MSGATTRIB=$(which msgattrib)
+if [ -e "$HOME/bin/gnun-add-fuzzy-diff.1" ]; then
+  FUZZY_DIFF=$HOME/bin/gnun-add-fuzzy-diff.1
+else
+  FUZZY_DIFF=$(which gnun-add-fuzzy-diff) ||
+    echo "*** gnun-add-fuzzy-diff was not found."
+fi
+if [ -n "$poeditor" ] && [ -z "$(which $poeditor)" ]; then
+  echo "*** The specified PO editor is not installed."
+  poeditor=""
+fi
+MUTT=$(which mutt) ||
+  echo "*** No email will be sent because Mutt is not installed."
 
 
 ## Functions
 
 function close_term () {
-  sleep 5
-  exit $1
+  echo -e '\n*** Close the terminal window or press Return.'; read OK
+  test -z "$OK" && exit $1
 }
 
 function check_fuzz () {
+  # Unfuzz if add-fuzzy-diff didn't detect any change.
+  sed -i '/^# || No change/,/^msgid/ { /^msgid/p;d }' "$1"
   # Check for non-deprecated fuzzy strings.
   fuzzy=$(grep -A1 '^#, fuzzy' "$1" |
           sed '/fuzzy/ {N; s,\n,,'} |
@@ -163,8 +170,8 @@ function check_fuzz () {
           grep -c '^#, fuzzy')
 
   # Check for untranslated strings.
-  untr=$(sed -n '/^msgstr ""[[:space:]]*$/ {N;/\n[[:space:]]*$/p}' "$1" \
-       | grep -c msgstr) || true
+  untr=$(sed -n '/^msgstr ""[[:space:]]*$/ {N;/\n[[:space:]]*$/p}' "$1" |
+       grep -c msgstr) || true
   if test "$fuzzy" != "0" -o "$untr" != "0"; then
     return 3
   else
@@ -191,16 +198,16 @@ teamdir="$(pwd)"
 
 ## Update www.
 
-# Make sure www can be reached,
-cd ../www 2>/dev/null \
-|| (echo 1>&2 "!!! $wwwdir doesn't exist or is not reachable.";
-    close_term 1)
-# and is a CVS work tree.
-test -d CVS \
-|| (echo 1>&2 "!!! $wwwdir is not a CVS directory."; close_term 1)
+# Make sure www can be reached,...
+cd ../www 2>/dev/null ||
+  (echo 1>&2 "!!! The www directory doesn't exist or is not reachable.";
+  close_term 1)
+# ... and is a CVS directory.
+test -d CVS ||
+  (echo 1>&2 "!!! $wwwdir is not a CVS directory."; close_term 1)
 wwwdir="$(pwd)"
 
-cvs update
+cvs update || close_term 1
 
 
 ## Synchronize www-team with www, and report.
@@ -215,6 +222,7 @@ if test -d ".git"; then
     echo -e "\n!!! Please move to branch master."
     close_term 1
   fi
+  git pull || true
 fi
 
 # Create temporary files.
@@ -236,23 +244,25 @@ lang=${lang##*.}
 
 # List the POs in www.
 find "$wwwdir" -type f -name "*.$lang.po" |
-        sed "s|$wwwdir|.|;s|po/||;/server\/gnun\//d" | sort > $po_www_list
+  sed "s|$wwwdir|.|;s|po/||;/server\/gnun\//d" | sort > $po_www_list
 
 # Delete the output of the previous run.
-rm -f ../update-report ../update-list ../trivial-list
+rm -f ../update-report ../update-list ../modified-list
 
 # Build the report.
 echo
+
 while read po_team; do
+
   diff_test=0
   fuzz_test_www=0
   fuzz_test_team=0
 
-  section=${po_team%/*}; section=${section#.\/}
+  section=${po_team%/*}; section=${section#./}
   basename=${po_team##*/}
 
   # Test for the presence of the corresponding PO in www, then eliminate
-  # trivial differences and diff the 2 versions of the PO.
+  # some trivial differences and diff the 2 versions of the PO.
   if test -s "../www/$section/po/$basename"; then
     sed 's,charset=utf-8,charset=UTF-8,' \
       "$wwwdir/$section/po/$basename" > "$po_www"
@@ -262,9 +272,15 @@ while read po_team; do
     case $diff_test in
       # There is a difference: merge non-obsolete strings and add the wdiff
       # between old and new msgids.
-      1 ) $MSGATTRIB --no-obsolete "$wwwdir/$section/po/$basename" > "$po_www"
-          $MSGMERGE -U -q --previous "$po_team" "$po_www"
-          test -n $FUZZY_DIFF && $FUZZY_DIFF -i "$po_team"
+      1 ) $MSGATTRIB --no-obsolete "$wwwdir/$section/po/$basename" > "$po_www" ||
+              (2>&1 && close_term $?)
+          $MSGMERGE -U -q --previous "$po_team" "$po_www" || (2>&1 && close_term $?)
+          if [ -n "$FUZZY_DIFF" ]; then
+            $FUZZY_DIFF -i "$po_team"
+            sed -i '/^# || No change/,/^msgid/ { /^msgid/p;d }' "$po_team"
+          else
+            echo "No fuzzy diff."
+          fi
     ;;
       # There is no difference: do nothing.
       0 )
@@ -278,19 +294,18 @@ while read po_team; do
     check_fuzz "$po_team" || fuzz_test_team=$?
 
     case $fuzz_test_team in
+      # Fuzz in www-team
       3 ) case $fuzz_test_www in
             # Fuzz in www: the PO needs updating.
             3 ) echo "$po_team : $fuzzy fuzzy and $untr untranslated."
-               # This could be localized.
                if [ "$po_team1" != "$po_www" ]; then
                  echo "$po_team : $fuzzy fuzzy and $untr untranslated messages." \
                    >> ../update-report
-               fi
-            ;;
+               fi ;;
             # No fuzz in www: most likely the updated version was
             # committed directly to www.
             4 ) cp -b $wwwdir/$section/po/$basename $po_team
-                echo $section/$basename >> ../trivial-list ;;
+                echo $section/$basename >> ../modified-list ;;
             * ) echo "$po_team : !!! Error in the www fuzz test." ;;
           esac
     ;;
@@ -300,11 +315,14 @@ while read po_team; do
             3 ) echo "$po_team seems ready to post." ;;
             # No fuzz in www:
             4 ) if [ "$diff_test" != "0" ]; then
-                  # Same PO-Revision-Date: assume no significant difference.
-                  # Most likely the PO was reformatted by GNUN.
-                  if [ "$(grep 'PO-Revision-Date' $po_team)" = "$(grep 'PO-Revision-Date' $po_www)" ]; then
+                  # Same PO-Revision-Date: most likely the PO was reformatted
+                  # by GNUN. Copy the www version to www-team, but save the old
+                  # file in case the PO had been modified without updating
+                  # PO-Revision-Date.
+                  if [ "$(grep 'PO-Revision-Date' $po_team)" = \
+                       "$(grep 'PO-Revision-Date' $po_www)" ]; then
                     cp -b $wwwdir/$section/po/$basename $po_team
-                    echo $section/$basename >> ../trivial-list
+                    echo $section/$basename >> ../modified-list
                   else
                     echo "$po_team : versions in www and www-team differ."
                   fi
@@ -324,9 +342,10 @@ while read po_team; do
 
 ## Add missing POs to www-team.
 
-  # If the PO is also listed in $po_www_list, remove it from that file.
+  # If the PO is also listed in $po_www_list, remove it from that list.
   grep -v "$po" $po_www_list > $po_www_list1 || true
   mv $po_www_list1 $po_www_list
+
 done < $po_team_list
 
 # If any POs are left in $po_www_list, add them to www-team.
@@ -351,12 +370,10 @@ fi
 if [ -f ../update-report ]; then
   sed -e 's,^\./,,' -e 's, .*,,' ../update-report > ../update-list
 
-  # Display the POs if a GUI/PO editor is set, unless the -n switch is used.
+  # Display the POs if a PO editor is set, unless the -n switch is used.
   if [ "$display" = true ]; then
-    if [ -n "$geditor" ] && [ -n $(which "$geditor") ]; then
-      $geditor $(< ../update-list) &
-    else
-      echo -e "\n*** No valid GUI editor has been specified."
+    if [ -n "$poeditor" ]; then
+      $poeditor $(< ../update-list) &
     fi
   fi
 
@@ -375,17 +392,14 @@ if [ -f ../update-report ]; then
     fi
   fi
 else
-  echo "*** No new outdated PO."
+  echo -e "\n*** No new outdated PO."
 fi
 
-
-## Commit up-to-date POs to www-team.
-
-if [ -d .git ] && [ -f ../trivial-list ]; then
-  git add $(< ../trivial-list)
-  git commit -m "Sync with www." || true
+if [ -f ../modified-list ]; then
+  echo -e "\n*** Modified files with same PO-Revision-Date, copied to www-team:"
+  cat ../modified-list
 fi
 
-echo -e "\n*** Done.\n"
+echo -e "\n*** Done."
 
 close_term 0

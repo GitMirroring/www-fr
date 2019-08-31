@@ -1,62 +1,64 @@
 #!/bin/bash
 
 # NAME
-#    micro-www-checkout - create a minimized www directory for transvalid-batch
+#    micro-www-checkout - check out a subset of www for transvalid-batch
 
 # SYNOPSIS
-#    micro-www-checkout -t .../www-TEAM [-l 'LANG1 [LANG2]...'] [-u CVS_LOGIN]
-#    or
-#    micro-www-checkout -l 'LANG1 [LANG2]...' [-u CVS_LOGIN]
+#    micro-www-checkout [-u SAVANNAH_USER] [-c] [-a] [LANG]
+#                       (options first)
 
 # DEPENDENCIES
 #    cvs, rsync
 
 # DESCRIPTION
-#    This script checks out the files required by transvalid-po to generate
-#    HTML pages from POs for a specific language and validate them.
-#    Transvalidation with GNUN requires some additional files.
+#    This script checks out the files required to use cvs-sync,
+#    transvalid-po and transvalid-batch. Synchronization and transvalidation
+#    with GNUN require some additional files. 
 #
 #    Method:
-#    1. A list of the potentially useful files is obtained from a dry run of
+#    1. Directories:
+#       - If both www and www-LANG (also called www-TEAM) exist, they should
+#         have the same parent.
+#       - The script can be called from www-LANG, www or their parent dir.
+#       - If the script is called from www-LANG, any other LANG argument
+#         is dropped. Otherwise, LANG must be given as a command-line
+#         argument or as user input.
+#       - The same www dir can be used for several languages.
+#       - If www-LANG doesn't exist, it is optionally created.
+#    2. A list of the potentially useful files is obtained from a dry run of
 #       rsync on the CVS repository, exluding irrelevant directories and
 #       keeping only files with .po and .html extensions.
-#    2. The rsync list is further processed to build a checkout list
-#       containing the language-specific POs and the corresponding original
-#       HTMLs.
-#    3. The listed files are downloaded by cvs (with login if the ID is
-#       provided, otherwise anonymous).
+#    3. The rsync list is further processed to build a checkout list
+#       containing: 
+#       - POs that reside in www (*.LANG.po);
+#       - unGNUNified translations (*.LANG.html);
+#       - English originals (*.html) that correspond to POs from www and/or
+#         www-LANG.
+#    4. The listed files are checked out by cvs, using a login if provided,
+#       otherwise anonymous. (The Savannah user name can be entered on the
+#       command line or in the "savannah_user" variable around line 84.)
+#       If www already exists, it is simply updated.
+#    5. The POs that are found in www but not in www-LANG are optionally added
+#       to www-LANG.
 #
-#    Disadvantage:
-#    Update of the micro-www directory does not download the original HTMLs
-#    that have not been translated to the selected language. Those must be
-#    checked out separately. The corresponding POT files must be downloaded
-#    once to create the PO but they don't need to be tracked if www and
-#    www-team are updated with cvs-sync (they would be required by the sync
-#    target of GNUN).
-#
-# OPTIONS AND CURRENT SETTINGS
-#    Displayed by:   micro-www-checkout -h
-#
-#    Configuration file ($conf):
-#    The command-line parameters can be set once and for all in a configuration
-#    file (also used by transvalid-batch, www-commit, cvs-sync, and
-#    check-links), with the syntax:
-#       parameter1="value1"
-#       parameter2="value2"
-#    This configuration overrides the default settings but is superseded by the
-#    command line. The file ($conf) is defined under "Parameters".
-#    The files corresponding to the team specified in the profile will always
-#    be checked out, provided www-team exists locally.
+#    To make a new translation, the POT file must be downloaded once to
+#    create the PO, but it doesn't need to be tracked. After the new PO is
+#    added to www-LANG, micro-www-checkout can be run again to add the
+#    English original to www.
+
+# OPTIONS 
+#    Displayed by "micro-www-checkout -h".
+#    The Savannah user name can be defined in a configuration file, as for
+#    cvs-sync and www-commit.
 
 #==============================================================================
 
 set -e
-set -o pipefail
 
 function version () {
 cat <<EOF
-${0##*\/} version 0.1
-Copyright (C) 2013, 2014 Thérèse Godefroy
+${0##*\/} version 0.2
+Copyright (C) 2013, 2016, 2019 Thérèse Godefroy
 You may redistribute this script and/or modify it under the terms
 of the Creative Commons CC0 license.
 EOF
@@ -66,30 +68,22 @@ function usage () {
 cat <<EOF
 
 Usage:
-  micro-www-checkout -t .../www-TEAM [-l 'LANG1 [LANG2]...'] [-u CVS_LOGIN]
-  or  micro-www-checkout -l 'LANG1 [LANG2]...' [-u CVS_LOGIN]
+  ${0##*\/} [-u SAVANNAH_USER] [-c] [-a] [LANG]
+            (options first)
+    
+  This script checks out a subset of the www.gnu.org cvs repo,
+  essentially *.LANG.po and corresponding *.html, for use with
+  cvs-sync, transvalid-po and transvalid-batch.
 
-  The script checks out the POs for a list of languages and the
-  corresponding original pages, from the CVS repo of www.gnu.org.
+  If the www-LANG directory doesn't exist, it is optionally created.
 
 Options and current settings:
-
-  -l 'LANG1 LANG2...'        [$langs]
-      Specify one or several space-separated language codes (one
-      code is required if no working directory is specified).
-
-  -u CVS_LOGIN               [$user]
+  -u SAVANNAH_USER               [$savannah_user]
       Specify your login if you have write access to www (optional).
-
-  -t .../www-TEAM            [$teamdir]
-      Specify the team directory (required if no language code is given).
-
+  -c  Create the team directory (www-LANG) if it doesn't exist.
+  -a  Add missing POs to www-LANG.
   -V  Display version info and exit.
   -h  Display this help and exit.
-
-The parameters can be specified in a configuration file:
-      $conf
-One line per parameter, with syntax: param='VALUE'
 
 Report bugs to <godef.th@free.fr>
 
@@ -101,80 +95,76 @@ function close_term () {
   exit $1
 }
 
-
-echo "${0##*\/} - create a minimized www directory for transvalid-batch"
-
-## Parameters
-
+# Initial parameters:
 conf="$HOME/.profile"
-langs=""
-teamdir=""
-user="anonymous"
-protocole="pserver"
+savannah_user="anonymous"
+create_teamdir=""
+add_missing=""
 test -s "$conf" && source $conf
-
 
 # Parse the command line.
 OPTIND=1
-while getopts "h?Vl:t:u:" opt; do
+while getopts "h?Vu:ca" opt; do
   case "$opt" in
     h | \? ) usage; exit 0 ;;
     V ) version; exit 0 ;;
-    l ) langs=$OPTARG ;;
-    t ) teamdir=$OPTARG ;;
-    u ) user=$OPTARG ;;
+    u ) savannah_user=$OPTARG ;;
+    c ) create_teamdir=1 ;;
+    a ) add_missing=1 ;;
   esac
 done
 shift $((OPTIND-1))
 [ "$1" = "--" ] && shift
 
-
-## Get valid language codes
-
-# Several methods:
-# - from the command line or conf file;
-langs=($langs)
-n=${#langs[@]}
-
-# - from the name of the team directory if it exists (move to its parent dir);
-if test "$teamdir" != "$HOME" -a -d "$teamdir"; then
-  cd "$teamdir" && cd ../
-  l=${teamdir#*www-}
-  langs[$n]=$l
-else                  # (or else create the parent dir of www and move there);
-  mkdir -p $HOME/GNU && cd $HOME/GNU
+# Get the language code...
+if [[ "$PWD" =~ 'www-' ]]; then  # ... from the name of the team dir,
+  l=${PWD#*www-}
+elif [ -n "$1" ]; then           # ... or from the command line,
+  l=$1
+else                             # ... or from user input.
+  echo "Please enter a language code."
+  read l
 fi
 
-# - from user input.
-if test -z "$langs"; then
-  echo -e "\n*** Please enter one or several language codes."; read l
-  langs=($l)
-fi
-
-# Test the validity of the language codes.
+# Test the validity of the language code.
 ref_lang_codes='af ar az bg bn bs ca cs da de el en eo es et fa fi fr gl he \
 hr hu id it ja kn ko mk ml lt nb nl nn pl pt pt-br ro ru sh sk sl sq sr sv ta \
-th tl tr uk uz vi zh-cn zh-tw'
-(vlangs)=""
-for l in ${langs[@]}; do
-  [[ "$ref_lang_codes" =~ "$l" ]] && vlangs=($vlangs $l)
-done
-test -z "$vlangs" && (echo 1>&2 "!!! No valid language."; close_term 1)
+te th tl tr uk uz vi zh-cn zh-tw'
 
+[[ "$ref_lang_codes" =~ "$l" ]] ||
+  (echo 1>&2 "!!! Not a valid language code."; close_term 1)
+lang=$l
 
-## List the relevant files in www
+echo "language code: $lang"
 
-# Create temporary files.
-TMP1=$(mktemp -t co.XXXXXX) || close_term 1  # rsync output
-TMP2=$(mktemp -t co.XXXXXX) || close_term 1  # *.lang.po
-TMP3=$(mktemp -t co.XXXXXX) || close_term 1  # *.lang.html / co list: verified
-TMP4=$(mktemp -t co.XXXXXX) || close_term 1  # checkout list: rough / final
-trap 'rm -f "$TMP1" "$TMP2" "$TMP3" "$TMP4"' EXIT
-
-if [ -d "www" ]; then
-  mv www www.bak || close_term 1
+if [[ "$PWD" =~ www ]]; then
+  cd ../
 fi
 
+# Optionally create www-LANG if it doesn't exist.
+if [ ! -d www-$lang ] && [ "$create_teamdir" == '1' ]; then
+  echo "Creating the www-$lang directory."
+  mkdir www-$lang || (echo 1>&2 "Can't make www-$lang."; close_term 1) 
+fi
+
+
+## Select files to check out.
+
+# Create temporary files.
+TMP1=$(mktemp -t co.XXXXXX) || (echo 1>&2 "Can't make TMP1"; exit 1)
+TMP2=$(mktemp -t co.XXXXXX) || (echo 1>&2 "Can't make TMP2"; exit 1)
+TMP3=$(mktemp -t co.XXXXXX) || (echo 1>&2 "Can't make TMP3"; exit 1)
+TMP4=$(mktemp -t co.XXXXXX) || (echo 1>&2 "Can't make TMP4"; exit 1)
+TMP5=$(mktemp -t co.XXXXXX) || (echo 1>&2 "Can't make TMP5"; exit 1)
+trap 'rm -f "$TMP1" "$TMP2" "$TMP3" "$TMP4" "$TMP4"' EXIT
+
+# List the POs in www-LANG.
+if [ -d "www-$lang" ]; then
+  find www-$lang -name '*.po' > $TMP2
+fi
+
+echo "${0##*\/} - create a minimized www directory for $lang
+"
 # List the files in the www repository with a dry run of rsync, excluding
 # some irrelevant directories and files. The destination directory is
 # specified to avoid listing the file attributes, but it is not created.
@@ -198,44 +188,67 @@ sed -i -e '/^www/!d' \
        -e '/\/$/d' \
        -e 's:,v$::' $TMP1
 
-# Select what's needed for each language.
-# NOTE: if some translations are not gnunified, lines (1), (2), (3)  and (5)
-# should be uncommented, and line (4) may be commented out.
+# Select POs in www that have counterparts in www-LANG.
+sed -i "s:^www-$lang:www:" $TMP2               # *LANG.po in www-LANG
+sed "s:\([^/]*$lang\\.po\)$:po/\1:" $TMP2 > $TMP3 
 
-for lang in ${vlangs[@]}; do
-  echo "language code: $lang"
+# Select POs in www (some of them may not be in www-LANG).
+grep "[./]$lang\.po$" $TMP1 > $TMP2 || true    # *LANG.po in www
 
-  sed -n "/\\.$lang\\.po/p" $TMP1 > $TMP2                         # *.lang.po
-  cat $TMP2 >> $TMP4
-#  sed -n "/\\.$lang\\.html/p" $TMP1 > $TMP3                       # (1) *.lang.html
-#  cat $TMP3 >> $TMP4                                              # (2)
-#  sed "s:\\.po$:-diff.html:" $TMP3 >> $TMP4                       # (3) *.lang-diff.html
-  sed "s:po/\\([^/]*\\)\\.$lang\\.po$:\\1.html:" $TMP2  >> $TMP4  # (4) from *.lang.po
-#  sed "s:$lang\\.html$:html:" $TMP3 >> $TMP4                      # (5) from *.lang.html
+# Figure out which POs are in www but not www-LANG.
+while read f; do
+  grep -q "$f" $TMP3 || echo "$f" >> $TMP4
+done < $TMP2  # POS in www
 
-  # Check that all the listed files exist (some POs may not have corresponding
-  # HTMLs because they have been renamed or misplaced, or the HTML has been
-  # removed from the repository).
-  while read f; do
-    grep "$f" $TMP1 >> $TMP3 || true
-  done < $TMP4
-done
+# Add the corresponding originals to the checkout list.
+sed "s:po/\([^/]*\)\\.$lang\\.po$:\1.html:" $TMP2 > $TMP3
+cat $TMP3 >> $TMP2                              # ==> *.html
 
-# List each file only once
-sort $TMP3 | uniq > $TMP4
+#### If some translations are not GNUNified, uncomment (1) to (3). #####
+
+# Select all HTML translations...
+#grep ".$lang.html$" $TMP1 > $TMP3 || true      # (1)
+#cat $TMP3 >> $TMP2                             # (2) *.LANG.html
+# ... and the corresponding originals.
+#sed "s:$lang\.html$:html:" $TMP3 >> $TMP2      # (3) ==> *.html
+
+# Sort alphabetically and remove duplicates.
+sort $TMP2 | uniq > $TMP3
+
+# Make sure all the selected files exist (some POs may not correspond to any
+# originals because they have been renamed or misplaced, or the originals
+# have been removed from the repository).
+while read f; do
+  grep "$f" $TMP1 >> $TMP5 || true
+done < $TMP3
 
 
-## Checkout the listed files.
+## Check out the selected files.
 
-if [ -s $TMP4 ]; then
+if [ -s "$TMP5" ]; then
   # Define the protocole.
-  if test -n "$user" -a "$user" != "anonymous"; then
+  if test -n "$savannah_user" -a "$savannah_user" != "anonymous"; then
     protocole="ext"
+  else
+    protocole="pserver"
   fi
-  cvs -z3 -d:$protocole:$user@cvs.savannah.gnu.org:/webcvs/www co $(< $TMP4)
-
+  echo "*** Creating or updating the www directory.
+"
+  cvs -z3 -d:$protocole:$savannah_user@cvs.sv.gnu.org:/web/www co $(< $TMP5)
 else
-  echo  1>&2 "!!! There is no file in the checkout list." && close_term 1
+  echo  1>&2 "!!! There is no file in the checkout list."; close_term 1
+fi
+
+if [ "$add_missing" == "1" ] && [ -s "$TMP4" ]; then
+  cd www-$lang
+  echo "*** Adding missing POs to www-$lang."
+
+  while read f; do
+    f1=${f/\/po\//\/} && f1=${f1/www\//}
+    dir=$(dirname "$f1")
+    mkdir -p $dir
+    cp ../"$f" "$f1"
+  done < $TMP4
 fi
 
 exit 0

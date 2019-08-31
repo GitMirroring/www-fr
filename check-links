@@ -134,8 +134,8 @@ shift $((OPTIND-1))
 
 
 function close_term () {
-  sleep 5
-  exit $1
+  echo -e '\n*** Close the terminal window or press Return.'; read OK
+  test -z "$OK" && exit $1
 }
 
 function isolate_links () {
