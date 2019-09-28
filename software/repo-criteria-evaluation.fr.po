@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: repo-criteria-evaluation.html\n"
-"POT-Creation-Date: 2018-01-01 06:00+0000\n"
-"PO-Revision-Date: 2018-09-02 00:24+0200\n"
+"POT-Creation-Date: 2019-09-28 11:25+0000\n"
+"PO-Revision-Date: 2019-09-28 13:49+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -244,14 +244,24 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"GitHub also encourages bad licensing practice, including no license; failure "
-"to state the license on each source file; and failure to say which GPL "
-"versions apply. (<a href=\"/software/repo-criteria.html#B2\">B2</a>)"
+"The worst thing that GitHub does is to encourage bad licensing practice: "
+"failure to include a license, failure to state the license on each source "
+"file, and failure to specify &ldquo;version 3 or later&rdquo; when using the "
+"GNU GPL.  (<a href=\"/software/repo-criteria.html#B2\">B2</a>)"
 msgstr ""
-"Github encourage aussi de mauvaises pratiques en matière de licence, en "
-"particulier l'absence de licence, l'omission de l'avis de licence dans "
-"certains fichiers sources et le manque d'indication sur les versions de la "
-"GPL qui s'appliquent. (<a href=\"/software/repo-criteria.html#B2\">B2</a>)"
+"Ce que Github fait de pire est d'encourager les mauvaises pratiques en "
+"matière de licence, par exemple omettre d'indiquer la licence, omettre "
+"l'avis de licence dans certains fichiers sources ou omettre d'indiquer "
+"« version 3 ou ultérieure » quand on utilise la GPL. (<a href=\"/software/"
+"repo-criteria.html#B2\">B2</a>)"
+
+#. type: Content of: <p>
+msgid ""
+"Here are <a href=\"https://sanctum.geek.nz/why-not-github.html\"> additional "
+"reasons to avoid GitHub</a>."
+msgstr ""
+"Il y a aussi <a href=\"https://sanctum.geek.nz/why-not-github.html"
+"\">d'autres raisons d'éviter GitHub</a>."
 
 #. type: Content of: <h3>
 msgid "SourceForge — F"
@@ -329,8 +339,8 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2016, 2017, 2018 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2016, 2017, 2018 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2016, 2017, 2018, 2019 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2016, 2017, 2018, 2019 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
