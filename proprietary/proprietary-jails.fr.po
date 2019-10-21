@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-jails.html\n"
-"POT-Creation-Date: 2019-10-16 07:25+0000\n"
-"PO-Revision-Date: 2019-10-16 12:46+0200\n"
+"POT-Creation-Date: 2019-10-21 06:55+0000\n"
+"PO-Revision-Date: 2019-10-21 11:28+0200\n"
 "Last-Translator: Félicien Pillot <felicien AT gnu.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -96,7 +96,45 @@ msgstr ""
 msgid "Apple jails"
 msgstr "Prisons d'Apple"
 
-#. type: Content of: <p>
+#. type: Content of: <ul><li><p>
+msgid ""
+"Apple plans to require that <a href=\"https://www.macrumors.com/2019/04/08/"
+"mac-apps-notarization-macos-10-14-5/\"> all application software for MacOS "
+"be approved by Apple first</a>."
+msgstr ""
+"Apple a l'intention d'exiger que <a href=\"https://www.macrumors."
+"com/2019/04/08/mac-apps-notarization-macos-10-14-5/\">toutes les "
+"applications pour MacOS reçoivent son approbation préalable</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Offering a checking service as an option could be useful and would not be "
+"wrong.  Requiring users to get Apple's approval is tyranny. Apple says the "
+"check will only look for malware (not counting the malware that is <a href="
+"\"/proprietary/malware-apple.html#TOC\">part of the operating system</a>), "
+"but Apple could change that policy step by step.  Or perhaps Apple will "
+"define malware to include any app that China does not like."
+msgstr ""
+"Proposer un service de vérification en option serait légitime et pourrait "
+"avoir son utilité. En revanche, exiger des utilisateurs qu'ils reçoivent "
+"l'approbation d'Apple est de la tyrannie. Apple dit que cette vérification "
+"ne fera que rechercher les programmes malveillants (à l'exclusion de ceux "
+"qui <a href=\"/proprietary/malware-apple.html#TOC\">font partie du système "
+"d'exploitation</a>), mais Apple pourrait modifier cette pratique petit à "
+"petit, ou peut-être inclure parmi les programmes malveillants toute "
+"application qui ne plaît pas à la Chine."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"For free software, this means users will need to get Apple's approval after "
+"compilation.  This amounts to a system of surveilling the use of free "
+"programs."
+msgstr ""
+"Pour le logiciel libre, cela signifie que les utilisateurs devront obtenir "
+"l'approbation d'Apple après compilation. Cela équivaut à un système de "
+"surveillance de l'utilisation des programmes libres."
+
+#. type: Content of: <ul><li><p>
 msgid ""
 "<a href=\"https://en.wikipedia.org/w/index.php?title=IOS_jailbreaking&amp;"
 "oldid=835861046\"> iOS, the operating system of the Apple iThings, is the "
@@ -108,7 +146,7 @@ msgstr ""
 "prison</a>. C'est Apple qui la première a conçu des ordinateurs polyvalents "
 "intégrant la censure des programmes d'application."
 
-#. type: Content of: <p>
+#. type: Content of: <ul><li><p>
 msgid ""
 "Here is an article about the <a href=\"http://weblog.rogueamoeba."
 "com/2008/03/07/code-signing-and-you/\"> code signing</a> that the iThings "
@@ -118,7 +156,7 @@ msgstr ""
 "code-signing-and-you/\">signature du code</a> que les iTrucs utilisent pour "
 "enfermer l'utilisateur."
 
-#. type: Content of: <p>
+#. type: Content of: <ul><li><p>
 msgid ""
 "Curiously, Apple is beginning to allow limited passage through the walls of "
 "the iThing jail: users can now install apps built from source code, provided "

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: proprietary/\n"
 "POT-Creation-Date: 2019-10-15 09:25+0000\n"
-"PO-Revision-Date: 2019-10-16 12:46+0200\n"
+"PO-Revision-Date: 2019-10-21 11:28+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -719,10 +719,6 @@ msgstr ""
 "<a href=\"#tyrants\">Tyrans</a> – systèmes qui rejettent tout système "
 "d'exploitation non « autorisé » par le fabricant."
 
-#. type: Content of: <h3>
-msgid "Apple Back Doors"
-msgstr "Portes dérobées"
-
 #. type: Content of: <ul><li><p>
 msgid ""
 "Apple appears to say that <a href=\"https://techcrunch.com/2019/07/10/apple-"
@@ -795,7 +791,7 @@ msgstr ""
 "possède ce pouvoir, car naturellement nous pouvons lui faire confiance."
 
 #. type: Content of: <h3>
-msgid "Apple Censorship"
+msgid "Censorship"
 msgstr "Censure"
 
 #. type: Content of: <p>
@@ -807,10 +803,6 @@ msgstr ""
 "Apple utilise principalement iOS, une prison typique, pour imposer sa "
 "censure par l'intermédiaire de l'Apple Store. Pour plus de détails, reportez-"
 "vous à la section <a href=\"#jails\">Prisons</a>."
-
-#. type: Content of: <h3>
-msgid "Apple DRM"
-msgstr "DRM"
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -879,7 +871,7 @@ msgstr ""
 "vidéos qu'ils ont achetées</a>."
 
 #. type: Content of: <h3>
-msgid "Apple Incompatibility"
+msgid "Incompatibility"
 msgstr "Incompatibilité"
 
 #. type: Content of: <p>
@@ -949,7 +941,7 @@ msgstr ""
 "api=v2\">impropres à la conservation des documents</a>."
 
 #. type: Content of: <h3>
-msgid "Apple Insecurity"
+msgid "Insecurity"
 msgstr "Insécurité"
 
 #. type: Content of: <p>
@@ -1038,7 +1030,7 @@ msgstr ""
 "bogues dans le logiciel de radio des téléphones</a>."
 
 #. type: Content of: <h3>
-msgid "Apple Interference"
+msgid "Interference"
 msgstr "Ingérence"
 
 #. type: Content of: <p>
@@ -1067,10 +1059,48 @@ msgstr ""
 "par des tiers</a>."
 
 #. type: Content of: <h3>
-msgid "Apple Jails"
+msgid "Jails"
 msgstr "Prisons"
 
-#. type: Content of: <p>
+#. type: Content of: <ul><li><p>
+msgid ""
+"Apple plans to require that <a href=\"https://www.macrumors.com/2019/04/08/"
+"mac-apps-notarization-macos-10-14-5/\"> all application software for MacOS "
+"be approved by Apple first</a>."
+msgstr ""
+"Apple a l'intention d'exiger que <a href=\"https://www.macrumors."
+"com/2019/04/08/mac-apps-notarization-macos-10-14-5/\">toutes les "
+"applications pour MacOS reçoivent son approbation préalable</a>."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Offering a checking service as an option could be useful and would not be "
+"wrong.  Requiring users to get Apple's approval is tyranny. Apple says the "
+"check will only look for malware (not counting the malware that is <a href="
+"\"/proprietary/malware-apple.html#TOC\">part of the operating system</a>), "
+"but Apple could change that policy step by step.  Or perhaps Apple will "
+"define malware to include any app that China does not like."
+msgstr ""
+"Proposer un service de vérification en option serait légitime et pourrait "
+"avoir son utilité. En revanche, exiger des utilisateurs qu'ils reçoivent "
+"l'approbation d'Apple est de la tyrannie. Apple dit que cette vérification "
+"ne fera que rechercher les programmes malveillants (à l'exclusion de ceux "
+"qui <a href=\"/proprietary/malware-apple.html#TOC\">font partie du système "
+"d'exploitation</a>), mais Apple pourrait modifier cette pratique petit à "
+"petit, ou peut-être inclure parmi les programmes malveillants toute "
+"application qui ne plaît pas à la Chine."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"For free software, this means users will need to get Apple's approval after "
+"compilation.  This amounts to a system of surveilling the use of free "
+"programs."
+msgstr ""
+"Pour le logiciel libre, cela signifie que les utilisateurs devront obtenir "
+"l'approbation d'Apple après compilation. Cela équivaut à un système de "
+"surveillance de l'utilisation des programmes libres."
+
+#. type: Content of: <ul><li><p>
 msgid ""
 "<a href=\"https://en.wikipedia.org/w/index.php?title=IOS_jailbreaking&amp;"
 "oldid=835861046\"> iOS, the operating system of the Apple iThings, is the "
@@ -1082,7 +1112,7 @@ msgstr ""
 "prison</a>. C'est Apple qui la première a conçu des ordinateurs polyvalents "
 "intégrant la censure des programmes d'application."
 
-#. type: Content of: <p>
+#. type: Content of: <ul><li><p>
 msgid ""
 "Here is an article about the <a href=\"http://weblog.rogueamoeba."
 "com/2008/03/07/code-signing-and-you/\"> code signing</a> that the iThings "
@@ -1092,7 +1122,7 @@ msgstr ""
 "code-signing-and-you/\">signature du code</a> que les iTrucs utilisent pour "
 "enfermer l'utilisateur."
 
-#. type: Content of: <p>
+#. type: Content of: <ul><li><p>
 msgid ""
 "Curiously, Apple is beginning to allow limited passage through the walls of "
 "the iThing jail: users can now install apps built from source code, provided "
@@ -1371,7 +1401,7 @@ msgstr ""
 "censurée à cause de son thème</a>."
 
 #. type: Content of: <h3>
-msgid "Apple Manipulation"
+msgid "Manipulation"
 msgstr "Manipulation"
 
 #. type: Content of: <ul><li><p>
@@ -1397,7 +1427,7 @@ msgstr ""
 "comprendront comment le faire."
 
 #. type: Content of: <h3>
-msgid "Apple Pressuring"
+msgid "Pressuring"
 msgstr "Pression sur le client"
 
 #. type: Content of: <p>
@@ -1422,7 +1452,7 @@ msgstr ""
 "sur la popularité des chansons si vous n'êtes pas abonné à Apple Miusic."
 
 #. type: Content of: <h3>
-msgid "Apple Sabotage"
+msgid "Sabotage"
 msgstr "Sabotage"
 
 #. type: Content of: <p>
@@ -1623,9 +1653,48 @@ msgstr ""
 "applications non validées par la <a href=\"/proprietary/proprietary-jails."
 "html\">censure d'Apple</a>. Tout ceci était apparemment intentionnel."
 
-#. type: Content of: <h3>
-msgid "Apple Surveillance"
-msgstr "Surveillance"
+#. type: Content of: <ul><li><p>
+msgid ""
+"The Chinese Communist Party's &ldquo;Study the Great Nation&rdquo; app "
+"requires users to grant it <a href=\"https://www.ndtv.com/world-news/chinese-"
+"app-allows-officials-access-to-100-million-users-phone-report-2115962\"> "
+"access to the phone's microphone, photos, text messages, contacts, and "
+"internet history</a>, and the Android version was found to contain a back-"
+"door allowing developers to run any code they wish in the users' phone, as "
+"&ldquo;superusers.&rdquo; Downloading and using this app is mandatory at "
+"some workplaces."
+msgstr ""
+"L'appli du parti communiste chinois « Étudie la grande nation » oblige les "
+"utilisateurs à lui <a href=\"https://www.ndtv.com/world-news/chinese-app-"
+"allows-officials-access-to-100-million-users-phone-report-2115962\">donner "
+"accès au micro du téléphone, ainsi qu'aux photos, textos, carnets d'adresses "
+"et historique Internet</a> qui y sont stockés. De plus, la version Android "
+"s'est révélée contenir une porte dérobée permettant aux développeurs "
+"d'exécuter le code de leur choix sur le téléphone de l'utilisateur avec des "
+"privilèges de « super-utilisateur ». Le téléchargement et l'utilisation de "
+"cette appli sont obligatoires sur certains lieux de travail."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"Note: The <a href=\"http://web-old.archive.org/web/20191015005153/https://"
+"www.washingtonpost.com/world/asia_pacific/chinese-app-on-xis-ideology-allows-"
+"data-access-to-100-million-users-phones-report-says/2019/10/11/2d53bbae-"
+"eb4d-11e9-bafb-da248f8d5734_story.html\"> Washington Post version of the "
+"article</a> (partly obfuscated, but readable after copy-pasting in a text "
+"editor) includes a clarification saying that the tests were only performed "
+"on the Android version of the app, and that, according to Apple, &ldquo;this "
+"kind of &lsquo;superuser&rsquo; surveillance could not be conducted on "
+"Apple's operating system.&rdquo;"
+msgstr ""
+"Note : la <a href=\"http://web-old.archive.org/web/20191015005153/https://"
+"www.washingtonpost.com/world/asia_pacific/chinese-app-on-xis-ideology-allows-"
+"data-access-to-100-million-users-phones-report-says/2019/10/11/2d53bbae-"
+"eb4d-11e9-bafb-da248f8d5734_story.html\">version de cet article publiée par "
+"le Washington Post</a> (partiellement cachée mais lisible après copié-collé "
+"dans un éditeur de texte) inclut une mise au point disant que les tests ont "
+"été faits uniquement sur la version Android de l'appli et que, d'après "
+"Apple, ce genre de surveillance avec privilèges de “super-utilisateur” ne "
+"pouvait pas fonctionner sur le système d'exploitation d'Apple »."
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -1974,7 +2043,7 @@ msgstr ""
 "et recevoir le code de vérification envoyé dessus par Apple."
 
 #. type: Content of: <h3>
-msgid "Apple Tyrants"
+msgid "Tyrants"
 msgstr "Tyrans"
 
 #. type: Content of: <ul><li><p>
@@ -8750,6 +8819,22 @@ msgstr "Contrôle total"
 
 #. type: Content of: <ul><li><p>
 msgid ""
+"The Chinese Communist Party's <a href=\"/proprietary/proprietary-"
+"surveillance.html#M201910130\"> &ldquo;Study the Great Nation&rdquo; app</a> "
+"was found to contain <a href=\"https://www.ndtv.com/world-news/chinese-app-"
+"allows-officials-access-to-100-million-users-phone-report-2115962\"> a back-"
+"door allowing developers to run any code they wish</a> in the users' phone, "
+"as &ldquo;superusers.&rdquo;"
+msgstr ""
+"<a href=\"/proprietary/proprietary-surveillance.html#M201910130\">L'appli du "
+"parti communiste chinois</a> « Étudie la grande nation » s'est révélée "
+"contenir une <a href=\"https://www.ndtv.com/world-news/chinese-app-allows-"
+"officials-access-to-100-million-users-phone-report-2115962\">porte dérobée "
+"permettant aux développeurs d'exécuter le code de leur choix</a> sur le "
+"téléphone de l'utilisateur avec des privilèges de « super-utilisateur »."
+
+#. type: Content of: <ul><li><p>
+msgid ""
 "The Furby Connect has a <a href=\"https://www.contextis.com/blog/dont-feed-"
 "them-after-midnight-reverse-engineering-the-furby-connect\"> universal back "
 "door</a>. If the product as shipped doesn't act as a listening device, "
@@ -9723,13 +9808,13 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"As of April, 2019, the pages in this directory list around 400 instances of "
-"malicious functionalities (with more than 450 references to back them up), "
-"but there are surely thousands more we don't know about."
+"As of October, 2019, the pages in this directory list around 400 instances "
+"of malicious functionalities (with more than 500 references to back them "
+"up), but there are surely thousands more we don't know about."
 msgstr ""
-"En avril 2019, les pages de ce répertoire dénombraient à peu près 400 cas de "
-"fonctionnalités malveillante (appuyés par plus de 450 références), mais il y "
-"en a sûrement des milliers d'autres dont nous ne savons rien."
+"En octobre 2019, les pages de ce répertoire dénombraient à peu près 400 cas "
+"de fonctionnalités malveillante (appuyés par plus de 500 références), mais "
+"il y en a sûrement des milliers d'autres dont nous ne savons rien."
 
 #. type: Content of: <table><tr><th>
 msgid "Injustices or techniques"
