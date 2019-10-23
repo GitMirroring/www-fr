@@ -10,8 +10,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2019-08-28 20:26+0000\n"
-"PO-Revision-Date: 2019-09-14 21:00+0200\n"
+"POT-Creation-Date: 2019-10-23 12:55+0000\n"
+"PO-Revision-Date: 2019-10-23 16:33+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -361,26 +361,24 @@ msgstr ""
 msgid "<a href=\"/gnu/gnu.html\">More information</a>"
 msgstr "<a href=\"/gnu/gnu.html\">En savoir plus</a>"
 
-#. type: Content of: <div><div><div><h3><a>
+#. type: Content of: <div><div><div><p>
 msgid ""
-"<a href=\"https://planet.gnu.org/\">Planet GNU</a> <a href=\"https://planet."
-"gnu.org/rss20.xml\">"
+"<strong>The GNU Project encourages the community to communicate in ways that "
+"are friendly, welcoming and kind. See the <a href=\"/philosophy/kind-"
+"communication.html\"> GNU Kind Communications Guidelines</a></strong>."
 msgstr ""
-"<a href=\"https://planet.gnu.org/\">Planet GNU</a> <a href=\"http://planet."
-"gnu.org/rss20.xml\">"
+"<strong>Le projet GNU invite les membres de la communauté à se montrer "
+"courtois, accueillants et bienveillants dans leurs échanges. Voir la <a href="
+"\"/philosophy/kind-communication.html\">Charte de GNU pour une communication "
+"bienveillante</a></strong>."
+
+#. type: Content of: <div><div><div><h3><a>
+msgid "Planet GNU <a href=\"https://planet.gnu.org/rss20.xml\">"
+msgstr "Planet GNU <a href=\"https://planet.gnu.org/rss20.xml\">"
 
 #. type: Attribute 'alt' of: <div><div><div><h3><a><img>
 msgid "RSS Feed"
 msgstr "RSS Feed"
-
-#. type: Content of: <div><div><div><p>
-msgid ""
-"For more news, see <a href=\"http://planet.gnu.org/\">Planet GNU</a> and the "
-"list of <a href=\"/software/recent-releases.html\">recent GNU releases</a>."
-msgstr ""
-"Tenez-vous au courant avec <a href=\"http://planet.gnu.org/\">Planet GNU</a> "
-"et la <a href=\"/software/recent-releases.html\">liste des publications "
-"récentes de GNU</a>."
 
 #. type: Content of: <div><div><div><h3>
 msgid "Take Action"
