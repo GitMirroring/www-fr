@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-tethers.html\n"
-"POT-Creation-Date: 2019-10-03 10:26+0000\n"
-"PO-Revision-Date: 2019-10-03 13:12+0200\n"
+"POT-Creation-Date: 2019-10-30 16:55+0000\n"
+"PO-Revision-Date: 2019-10-30 19:46+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -17,12 +17,11 @@ msgstr ""
 
 #. type: Content of: <title>
 msgid "Proprietary Tethers - GNU Project - Free Software Foundation"
-msgstr ""
-"Dépendance privatrice d'un serveur - Projet GNU - Free Software Foundation"
+msgstr "Ancrage privateur - Projet GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
 msgid "Proprietary Tethers"
-msgstr "Dépendance privatrice d'un serveur"
+msgstr "Ancrage privateur"
 
 #. type: Content of: <p>
 msgid ""
@@ -49,13 +48,27 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Tethering a product or program to a specific server is an injustice in "
-"itself.  This page reports instances where tethering was used to harm the "
-"users directly."
+"Tethering a product or program means designing it to work only by "
+"communicating with a specific server.  That is always an injustice since it "
+"means you can't use the program without that server.  It is also a secondary "
+"injustice if you can't communicate with the server in another way."
 msgstr ""
-"Faire dépendre un produit ou un programme d'un serveur particulier est une "
-"injustice en soi. Nous signalons ici des cas où cette dépendance a été "
-"directement dommageable aux utilisateurs."
+"L'« ancrage » d'un produit ou d'un programme à un serveur signifie que ce "
+"produit ou ce programme  été conçu pour fonctionner exclusivement avec un "
+"serveur particulier. C'est toujours une injustice parce que cela veut dire "
+"qu'on ne peut pas utiliser le programme sans ce serveur. Cela implique "
+"également une injustice secondaire si on ne peut pas communiquer avec le "
+"serveur d'une autre manière."
+
+#. type: Content of: <div><p>
+msgid ""
+"In some cases, tethering is used to do specific nasty things to the users.  "
+"This page reports instances where tethering was used to harm the users "
+"directly."
+msgstr ""
+"Dans certains cas, l'ancrage est utilisé pour faire des vilenies "
+"particulières aux utilisateurs. Nous signalons ici des cas où ils en ont "
+"pâti directement."
 
 #. type: Content of: <div><div><p>
 msgid ""
