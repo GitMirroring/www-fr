@@ -10,8 +10,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2019-10-23 12:55+0000\n"
-"PO-Revision-Date: 2019-10-23 16:33+0200\n"
+"POT-Creation-Date: 2019-11-06 13:55+0000\n"
+"PO-Revision-Date: 2019-11-06 17:40+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -93,12 +93,15 @@ msgid "<a href=\"/distros/free-distros.html\">Try GNU/Linux</a>"
 msgstr "<a href=\"/distros/free-distros.html\">Essayer GNU/Linux</a>"
 
 #. type: Content of: <div><div><div><div><a>
-msgid "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
-msgstr "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
+msgid "<a href=\"/distros/screenshots/dragora-ice.png\">"
+msgstr "<a href=\"/distros/screenshots/dragora-ice.png\">"
 
-#. type: Attribute 'alt' of: <div><div><div><table><tr><td><a><img>
-msgid "&nbsp;[Screenshot of Trisquel&nbsp;8 with MATE desktop]&nbsp;"
-msgstr "&nbsp;[Capture d'écran de Trisquel&nbsp;8 avec le bureau MATE]&nbsp;"
+#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+msgid ""
+"&nbsp;[Screenshot of Dragora&nbsp;3.0-beta1 with IceWM window manager]&nbsp;"
+msgstr ""
+"&nbsp;[Capture d'écran de Dragora&nbsp;3.0-beta1 avec le gestionnaire de "
+"fenêtres IceWM]&nbsp;"
 
 #. type: Content of: <div><div><div><h3>
 msgid "</a>"
@@ -106,19 +109,19 @@ msgstr "</a>"
 
 #. type: Content of: <div><div><div><p>
 msgid ""
-"<small><a href=\"https://trisquel.info\">Trisquel&nbsp;8</a> with <a href="
-"\"https://mate-desktop.org/\">MATE</a> desktop, Abrowser (web browser), and "
-"Inkscape (vector graphics editor)</small>"
+"<small><a href=\"https://dragora.org/en/index.html\"> Dragora&nbsp;3.0-"
+"beta1</a> with customized <a href=\"https://ice-wm.org/\"> IceWM</a> window "
+"manager</small>"
 msgstr ""
-"<small><a href=\"https://trisquel.info\">Trisquel&nbsp;8</a> avec le bureau "
-"<a href=\"https://mate-desktop.org/\">MATE</a>, le navigateur web Abrowser "
-"et l'éditeur de dessin vectoriel Inkscape</small>"
+"<small><a href=\"https://dragora.org/en/index.html\">Dragora&nbsp;3.0-beta1</"
+"a> avec un gestionnaire de fenêtres <a href=\"https://ice-wm.org/\">IceWM</"
+"a> personnalisé</small>"
 
 #. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
 msgstr "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><div><div><a><img>
+#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
 msgid "&nbsp;[Screenshot of Guix&nbsp;0.15 with GNOME&nbsp;3 desktop]&nbsp;"
 msgstr ""
 "&nbsp;[Capture d'écran de Guix&nbsp;0.15 avec le bureau GNOME&nbsp;3]&nbsp;"
@@ -134,10 +137,32 @@ msgstr ""
 "lecteur vidéo Totem et l'émulateur de terminal de GNOME</small>"
 
 #. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/distros/screenshots/hyperbola-i3.png\">"
+msgstr "<a href=\"/distros/screenshots/hyperbola-i3.png\">"
+
+#. type: Attribute 'alt' of: <div><div><div><div><a><img>
+msgid "&nbsp;[Screenshot of Hyperbola with i3 window manager]&nbsp;"
+msgstr ""
+"&nbsp;[Capture d'écran de Hyperbola avec le gestionnaire de fenêtres i3]"
+"&nbsp;"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<small><a href=\"https://www.hyperbola.info/\"> Hyperbola&nbsp;0.3</a> with "
+"<a href=\"https://i3wm.org/\">i3 window manager</a>, cool-retro-term "
+"(terminal emulator), Gimp (image editor), and Iceweasel-UXP (web browser)</"
+"small>"
+msgstr ""
+"<small><a href=\"https://www.hyperbola.info/\"> Hyperbola&nbsp;0.3</a> avec "
+"le <a href=\"https://i3wm.org/\">gestionnaire de fenêtres i3 window manager</"
+"a>, l'émulateur de terminal cool-retro-term , l'éditeur d'image Gimp et le "
+"navigateur web Iceweasel-UXP</small>"
+
+#. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
 msgstr "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><div><table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
 msgid "&nbsp;[Screenshot of PureOS&nbsp;8 with GNOME&nbsp;3 desktop]&nbsp;"
 msgstr ""
 "&nbsp;[Capture d'écran de PureOS&nbsp;8 avec le bureau GNOME&nbsp;3]&nbsp;"
@@ -152,34 +177,69 @@ msgstr ""
 "<a href=\"https://www.gnome.org/\">GNOME&nbsp;3</a>, le navigateur web "
 "PureBrowser et l'éditeur d'image Gimp</small>"
 
-#. type: Content of: <div><div><div><table><tr><td><a>
-msgid "<a href=\"/home.html?distro=trisquel8#gnu-linux\">"
-msgstr "<a href=\"/home.html?distro=trisquel8#gnu-linux\">"
+#. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
+msgstr "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
 
-#. type: Content of: <div><div><div><table><tr><td><a>
+#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+msgid "&nbsp;[Screenshot of Trisquel&nbsp;8 with MATE desktop]&nbsp;"
+msgstr "&nbsp;[Capture d'écran de Trisquel&nbsp;8 avec le bureau MATE]&nbsp;"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<small><a href=\"https://trisquel.info\">Trisquel&nbsp;8</a> with <a href="
+"\"https://mate-desktop.org/\">MATE</a> desktop, Abrowser (web browser), and "
+"Inkscape (vector graphics editor)</small>"
+msgstr ""
+"<small><a href=\"https://trisquel.info\">Trisquel&nbsp;8</a> avec le bureau "
+"<a href=\"https://mate-desktop.org/\">MATE</a>, le navigateur web Abrowser "
+"et l'éditeur de dessin vectoriel Inkscape</small>"
+
+#. type: Content of: <div><div><table><tr><td><a>
+msgid "<a href=\"/home.html?distro=dragora#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=dragora#gnu-linux\">"
+
+#. type: Content of: <div><div><table><tr><td><a>
 msgid "<a href=\"/home.html?distro=guix#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=guix#gnu-linux\">"
 
-#. type: Attribute 'alt' of: <div><div><div><table><tr><td><a><img>
-msgid "&nbsp;[Screenshot of GuixSD&nbsp;0.15 with GNOME&nbsp;3 desktop]&nbsp;"
+#. type: Content of: <div><div><table><tr><td><a>
+msgid "<a href=\"/home.html?distro=hyperbola#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=hyperbola#gnu-linux\">"
+
+#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+msgid "&nbsp;[Screenshot of Hyperbola&nbsp;0.3 with i3 window manager]&nbsp;"
 msgstr ""
-"&nbsp;[Capture d'écran de GuixSD&nbsp;0.15 avec le bureau GNOME&nbsp;3]&nbsp;"
+"&nbsp;[Capture d'écran de Hyperbola&nbsp;0.3 avec le gestionnaire de "
+"fenêtres i3]&nbsp;"
 
-#. type: Content of: <div><div><div><table><tr><td><a>
-msgid "<a href=\"/home.html?distro=pureos8#gnu-linux\">"
-msgstr "<a href=\"/home.html?distro=pureos8#gnu-linux\">"
+#. type: Content of: <div><div><table><tr><td><a>
+msgid "<a href=\"/home.html?distro=pureos#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=pureos#gnu-linux\">"
 
-#. type: Content of: <div><div><div><table><tr><td>
-msgid "<small>Trisquel&nbsp;8 &amp; MATE</small>"
-msgstr "<small>Trisquel&nbsp;8 &amp; MATE</small>"
+#. type: Content of: <div><div><table><tr><td><a>
+msgid "<a href=\"/home.html?distro=trisquel#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=trisquel#gnu-linux\">"
 
-#. type: Content of: <div><div><div><table><tr><td>
-msgid "<small>Guix &amp; GNOME&nbsp;3</small>"
-msgstr "<small>Guix &amp; GNOME&nbsp;3</small>"
+#. type: Content of: <div><div><table><tr><td>
+msgid "<small>Dragora / IceWM</small>"
+msgstr "<small>Dragora / IceWM</small>"
 
-#. type: Content of: <div><div><div><table><tr><td>
-msgid "<small>PureOS&nbsp;8 &amp; GNOME&nbsp;3</small>"
-msgstr "<small>PureOS&nbsp;8 &amp; GNOME&nbsp;3</small>"
+#. type: Content of: <div><div><table><tr><td>
+msgid "<small>Guix / GNOME3</small>"
+msgstr "<small>Guix / GNOME3</small>"
+
+#. type: Content of: <div><div><table><tr><td>
+msgid "<small>Hyperbola / i3</small>"
+msgstr "<small>Hyperbola / i3</small>"
+
+#. type: Content of: <div><div><table><tr><td>
+msgid "<small>PureOS / GNOME3</small>"
+msgstr "<small>PureOS / GNOME3</small>"
+
+#. type: Content of: <div><div><table><tr><td>
+msgid "<small>Trisquel / MATE</small>"
+msgstr "<small>Trisquel / MATE</small>"
 
 #. type: Content of: <div><div><p>
 msgid ""
