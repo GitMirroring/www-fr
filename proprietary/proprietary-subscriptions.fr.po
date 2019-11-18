@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-subscriptions.html\n"
-"POT-Creation-Date: 2019-11-16 13:26+0000\n"
-"PO-Revision-Date: 2019-11-16 16:07+0100\n"
+"POT-Creation-Date: 2019-11-18 14:55+0000\n"
+"PO-Revision-Date: 2019-11-18 18:14+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -19,47 +19,53 @@ msgstr ""
 msgid "Proprietary Subscriptions - GNU Project - Free Software Foundation"
 msgstr "Abonnements privateurs - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
+"Subscriptions"
+msgstr ""
+"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
+"Abonnements"
+
+#. type: Content of: <div><h2>
 msgid "Proprietary Subscriptions"
 msgstr "Abonnements privateurs"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/proprietary/proprietary.html\">Other examples of proprietary "
-"malware</a>"
-msgstr ""
-"<a href=\"/proprietary/proprietary.html\">Autres exemples de malveillance "
-"dans le logiciel privateur</a>"
-
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Nonfree (proprietary) software is very often malware (designed to mistreat "
 "the user). Nonfree software is controlled by its developers, which puts them "
 "in a position of power over the users; <a href=\"/philosophy/free-software-"
 "even-more-important.html\">that is the basic injustice</a>. The developers "
-"often exercise that power to the detriment of the users they ought to serve."
+"and manufacturers often exercise that power to the detriment of the users "
+"they ought to serve."
 msgstr ""
 "Le logiciel non libre (privateur) est très souvent malveillant (conçu pour "
 "maltraiter les utilisateurs). Il est contrôlé par ses développeurs, ce qui "
 "les met en position de pouvoir vis-à-vis des utilisateurs ; <a href=\"/"
 "philosophy/free-software-even-more-important.html\">c'est l'injustice de "
-"base</a>. Les développeurs exercent souvent ce pouvoir au détriment des "
-"utilisateurs qu'ils devraient servir."
+"base</a>. Les développeurs et les fabricants exercent souvent ce pouvoir au "
+"détriment des utilisateurs qu'ils devraient servir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid "This typically takes the form of malicious functionalities."
+msgstr "Cela prend habituellement la forme de fonctionnalités malveillantes."
+
+#. type: Content of: <div><div><p>
 msgid ""
 "It sounds simple to say that a certain program &ldquo;requires a "
 "subscription.&rdquo; What that means concretely is that it contains a time "
 "bomb, so that it will refuse to operate after that date.  Or else it is <a "
-"href=\"/proprietary/proprietary-tethers.html\">tethered to a server</a>, and "
-"that server checks the date.  Either one is a malicious functionality."
+"href=\"/proprietary/proprietary-tethers.html#about-page\">tethered to a "
+"server</a>, and that server checks the date.  Either one is a malicious "
+"functionality."
 msgstr ""
 "Cela paraît simple de dire qu'un certain programme « nécessite un "
 "abonnement ». En pratique, cela signifie qu'il contient une bombe à "
 "retardement et refusera de fonctionner après telle date, ou bien qu'il est "
-"<a href=\"/proprietary/proprietary-tethers.html\">attaché à un serveur</a> "
-"et que ce serveur vérifie la date. L'une et l'autre sont des fonctionnalités "
-"malveillantes."
+"<a href=\"/proprietary/proprietary-tethers.html#about-page\">attaché à un "
+"serveur</a> et que ce serveur vérifie la date. L'une et l'autre sont des "
+"fonctionnalités malveillantes."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -74,7 +80,7 @@ msgstr ""
 "Merci de fournir les URL d'une ou deux références fiables et spécifiques "
 "pour l'étayer."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Adobe has <a href=\"https://www.bleepingcomputer.com/news/software/adobe-to-"
 "ban-users-from-venezuela-due-to-us-executive-order/\"> cancelled the "
@@ -86,7 +92,7 @@ msgstr ""
 "abonnements à ses logiciels au Venezuela</a>. Cela montre comment un "
 "abonnement obligatoire peut être transformé en instrument de sabotage. "
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The HP <a href=\"https://boingboing.net/2019/02/08/inkjet-dystopias.html\"> "
 "&ldquo;ink subscription&rdquo; cartridges have DRM that constantly "
@@ -98,7 +104,7 @@ msgstr ""
 "permanence avec les serveurs de HP</a> pour s'assurer que l'utilisateur "
 "continue à payer son abonnement et n'a pas imprimé plus de pages que prévu."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Even though the ink subscription program may be cheaper in some specific "
 "cases, it spies on users, and involves totally unacceptable restrictions in "
@@ -109,7 +115,7 @@ msgstr ""
 "que des restrictions inacceptables dans l'utilisation de cartouches d'encre "
 "par ailleurs en état de marche."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Sony has brought back its robotic pet Aibo, this time <a href=\"https://"
 "motherboard.vice.com/en_us/article/bj778v/sony-wants-to-sell-you-a-"
@@ -122,7 +128,7 @@ msgstr ""
 "universelle, ainsi qu'une dépendance à un serveur avec abonnement "
 "obligatoire</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The Canary home surveillance camera has been sabotaged by its manufacturer, "
 "<a href=\"https://www.theverge.com/circuitbreaker/2017/10/4/16426394/canary-"
@@ -135,11 +141,11 @@ msgstr ""
 "update-change\">inactivant de nombreuses fonctionnalités à moins que "
 "l'utilisateur ne commence à payer un abonnement</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid "With manufacturers like these, who needs security breakers?"
 msgstr "Avec des fabricants comme ça, qui a besoin de pirates ?"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The purchasers should learn the larger lesson and reject connected "
 "appliances with embedded proprietary software. Every such product is a "
@@ -149,7 +155,7 @@ msgstr ""
 "appareils connectés contenant du logiciel privateur embarqué. Chacun de ces "
 "produits est une invitation au sabotage."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Microsoft Office forces users <a href=\"https://www.computerworld.com/"
 "article/2948755/office-for-windows-10-will-require-office-365-subscription-"
@@ -161,7 +167,7 @@ msgstr ""
 "subscription-on-pcs-larger-tablets.html\">à s'abonner à Office 365 pour "
 "pouvoir créer ou éditer des documents</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "<a href=\"https://www.scientificamerican.com/article/adobe-software-"
 "subscription-model-means-you-cant-own-your-software/\"> Adobe tools require "
@@ -180,7 +186,7 @@ msgstr ""
 "retardement. Quand un programme est privateur, voire malveillant, ne vous "
 "laissez pas distraire par des problèmes secondaires comme son prix."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "<small>(Please don't repeat the marketing term &ldquo;Creative Cloud&rdquo; "
 "except to express revulsion for it.  The <a href=\"/philosophy/words-to-"

@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-fraud.html\n"
-"POT-Creation-Date: 2019-09-15 15:55+0000\n"
-"PO-Revision-Date: 2019-09-18 20:56+0200\n"
+"POT-Creation-Date: 2019-11-18 14:55+0000\n"
+"PO-Revision-Date: 2019-11-18 18:14+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free>\n"
 "Language-Team: French <trad-gnu@apri.org>\n"
 "Language: fr\n"
@@ -20,26 +20,39 @@ msgid "Proprietary Fraud - GNU Project - Free Software Foundation"
 msgstr ""
 "Escroqueries du logiciel privateur - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
+"Fraud"
+msgstr ""
+"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
+"Fraude"
+
+#. type: Content of: <div><h2>
 msgid "Proprietary Fraud"
 msgstr "Escroqueries du logiciel privateur"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Nonfree (proprietary) software is very often malware (designed to mistreat "
 "the user). Nonfree software is controlled by its developers, which puts them "
 "in a position of power over the users; <a href=\"/philosophy/free-software-"
 "even-more-important.html\">that is the basic injustice</a>. The developers "
-"often exercise that power to the detriment of the users they ought to serve."
+"and manufacturers often exercise that power to the detriment of the users "
+"they ought to serve."
 msgstr ""
 "Le logiciel non libre (privateur) est très souvent malveillant (conçu pour "
 "maltraiter les utilisateurs). Il est contrôlé par ses développeurs, ce qui "
 "les met en position de pouvoir vis-à-vis des utilisateurs ; <a href=\"/"
 "philosophy/free-software-even-more-important.html\">c'est l'injustice de "
-"base</a>. Les développeurs exercent souvent ce pouvoir au détriment des "
-"utilisateurs qu'ils devraient servir."
+"base</a>. Les développeurs et les fabricants exercent souvent ce pouvoir au "
+"détriment des utilisateurs qu'ils devraient servir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid "This typically takes the form of malicious functionalities."
+msgstr "Cela prend habituellement la forme de fonctionnalités malveillantes."
+
+#. type: Content of: <div><div><p>
 msgid ""
 "Here are some examples of proprietary software that defrauds users&mdash;"
 "taking their money by trickery."
@@ -60,7 +73,7 @@ msgstr ""
 "Merci de fournir les URL d'une ou deux références fiables et spécifiques "
 "pour l'étayer."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "A game published on Facebook <a href=\"https://www.revealnews.org/article/so-"
 "your-child-racked-up-unwanted-credit-card-charges-playing-video-games-now-"
@@ -72,7 +85,7 @@ msgstr ""
 "what/\">avait pour but d'inciter les enfants à dépenser</a> de grosses "
 "sommes sur le compte de leurs parents sans leur donner d'explication."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Some proprietary <a href=\"http://www.theguardian.com/technology/2014/jan/19/"
 "apple-talking-cats-in-app-purchases\"> games lure children to spend their "

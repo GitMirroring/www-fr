@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-coverups.html\n"
-"POT-Creation-Date: 2019-01-05 11:26+0000\n"
-"PO-Revision-Date: 2019-01-05 17:13+0100\n"
+"POT-Creation-Date: 2019-11-18 11:26+0000\n"
+"PO-Revision-Date: 2019-11-18 18:14+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -19,34 +19,39 @@ msgstr ""
 msgid "Proprietary Coverups - GNU Project - Free Software Foundation"
 msgstr "Dissimulation privatrice - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
+"Coverups"
+msgstr ""
+"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
+"Disssimulation"
+
+#. type: Content of: <div><h2>
 msgid "Proprietary Coverups"
 msgstr "Dissimulation privatrice"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/proprietary/proprietary.html\">Other examples of proprietary "
-"malware</a>"
-msgstr ""
-"<a href=\"/proprietary/proprietary.html\">Autres exemples de malveillance "
-"dans le logiciel privateur</a>"
-
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Nonfree (proprietary) software is very often malware (designed to mistreat "
 "the user). Nonfree software is controlled by its developers, which puts them "
 "in a position of power over the users; <a href=\"/philosophy/free-software-"
 "even-more-important.html\">that is the basic injustice</a>. The developers "
-"often exercise that power to the detriment of the users they ought to serve."
+"and manufacturers often exercise that power to the detriment of the users "
+"they ought to serve."
 msgstr ""
 "Le logiciel non libre (privateur) est très souvent malveillant (conçu pour "
 "maltraiter les utilisateurs). Il est contrôlé par ses développeurs, ce qui "
 "les met en position de pouvoir vis-à-vis des utilisateurs ; <a href=\"/"
 "philosophy/free-software-even-more-important.html\">c'est l'injustice de "
-"base</a>. Les développeurs exercent souvent ce pouvoir au détriment des "
-"utilisateurs qu'ils devraient servir."
+"base</a>. Les développeurs et les fabricants exercent souvent ce pouvoir au "
+"détriment des utilisateurs qu'ils devraient servir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid "This typically takes the form of malicious functionalities."
+msgstr "Cela prend habituellement la forme de fonctionnalités malveillantes."
+
+#. type: Content of: <div><div><p>
 msgid ""
 "This page lists instances where proprietary software had a bug, and the "
 "developers converted it into a malicious functionality by trying to cover up "
@@ -69,7 +74,7 @@ msgstr ""
 "Merci de fournir les URL d'une ou deux références fiables et spécifiques "
 "pour l'étayer."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Price Waterhouse Coopers tried to suppress knowledge of a security flaw by "
 "<a href=\"http://www.zdnet.com/article/pwc-sends-security-researchers-cease-"
@@ -145,7 +150,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-" Traduction et Révision : <a href=\"mailto:trad-gnu&#64;april.org\">trad-"
+"Traduction et révision : <a href=\"mailto:trad-gnu&#64;april.org\">trad-"
 "gnu&#64;april.org</a>"
 
 #.  timestamp start 

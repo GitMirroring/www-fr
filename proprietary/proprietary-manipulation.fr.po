@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-manipulation.html\n"
-"POT-Creation-Date: 2019-09-15 15:55+0000\n"
-"PO-Revision-Date: 2019-09-18 20:56+0200\n"
+"POT-Creation-Date: 2019-11-18 14:55+0000\n"
+"PO-Revision-Date: 2019-11-18 18:14+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -21,32 +21,57 @@ msgstr ""
 "Pratiques manipulatrices du privateur - GNU Project - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
+"Manipulation"
+msgstr ""
+"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
+"Manipulation"
+
+#. type: Content of: <div><h2>
 msgid "Proprietary Manipulation"
 msgstr "Pratiques manipulatrices du privateur"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Nonfree (proprietary) software is very often malware (designed to mistreat "
 "the user). Nonfree software is controlled by its developers, which puts them "
 "in a position of power over the users; <a href=\"/philosophy/free-software-"
 "even-more-important.html\">that is the basic injustice</a>. The developers "
-"often exercise that power to the detriment of the users they ought to serve."
+"and manufacturers often exercise that power to the detriment of the users "
+"they ought to serve."
 msgstr ""
 "Le logiciel non libre (privateur) est très souvent malveillant (conçu pour "
 "maltraiter les utilisateurs). Il est contrôlé par ses développeurs, ce qui "
 "les met en position de pouvoir vis-à-vis des utilisateurs ; <a href=\"/"
 "philosophy/free-software-even-more-important.html\">c'est l'injustice de "
-"base</a>. Les développeurs exercent souvent ce pouvoir au détriment des "
-"utilisateurs qu'ils devraient servir."
+"base</a>. Les développeurs et les fabricants exercent souvent ce pouvoir au "
+"détriment des utilisateurs qu'ils devraient servir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid "This typically takes the form of malicious functionalities."
+msgstr "Cela prend habituellement la forme de fonctionnalités malveillantes."
+
+#. type: Content of: <div><div><p>
 msgid ""
-"This page reports instances where proprietary software takes advantage of "
-"human psychology to manipulate users."
+"Manipulation of users is one of these malicious functionalities.  Here are "
+"examples of programs that are designed to do this by taking advantage of "
+"human psychology."
 msgstr ""
-"Cette page cite des cas où le logiciel privateur exploite la psychologie "
-"humaine pour manipuler les utilisateurs."
+"La manipulation des utilisateurs est l'une de ces fonctionnalités "
+"malveillantes. Voici des exemples de programmes qui sont conçus pour "
+"exploiter la psychologie humaine à cette fin."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"We have a special page for <a href=\"/proprietary/proprietary-addictions.html"
+"\">Addictive programs</a>, which also take advantage of human psychology, "
+"but in a much more elaborate and dangerous way."
+msgstr ""
+"Nous avons une page spéciale pour les <a href=\"/proprietary/proprietary-"
+"addictions.html\">programmes addictifs</a>, qui exploitent également la "
+"psychologie humaine, mais de manière beaucoup plus élaborée et dangereuse."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -61,7 +86,7 @@ msgstr ""
 "Merci de fournir les URL d'une ou deux références fiables et spécifiques "
 "pour l'étayer."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The Femm &ldquo;fertility&rdquo; app is secretly a <a href=\"https://www."
 "theguardian.com/world/2019/may/30/revealed-womens-fertility-app-is-funded-by-"
@@ -73,13 +98,13 @@ msgstr ""
 "anti-abortion-campaigners\">instrument de propagande</a> aux chrétiens "
 "natalistes. Elle propage la méfiance envers la contraception."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid "It snoops on users, too, as you must expect from nonfree programs."
 msgstr ""
 "De plus, elle espionne les utilisatrices, comme on peut s'y attendre de la "
 "part d'un programme non libre."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The Jibo robot toys were tethered to the manufacturer's server, and <a href="
 "\"https://www.apnews.com/99c9ec8ebad242ca88178e22c7642648\"> the company "
@@ -88,7 +113,7 @@ msgstr ""
 "Les robots-jouets Jibo dépendaient du serveur du fabricant. Ce dernier ayant "
 "arrêté son serveur, les robots sont devenus inutilisables."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The shutdown might ironically be good for their users, since the product was "
 "designed to manipulate people by presenting a phony semblance of emotions, "
@@ -98,7 +123,7 @@ msgstr ""
 "car ce produit était conçu pour manipuler les gens en simulant des émotions "
 "et très certainement les espionnait."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "&ldquo;Dark patterns&rdquo; are <a href=\"http://www.theverge."
 "com/2013/8/29/4640308/dark-patterns-inside-the-interfaces-designed-to-trick-"
@@ -110,7 +135,7 @@ msgstr ""
 "you\">des interfaces web conçues pour piéger les utilisateurs ou rendre "
 "certains réglages difficiles à trouver</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "This allows a company such as Apple to say, &ldquo;We allow users to turn "
 "this off&rdquo; while ensuring that few will understand how to actually turn "

@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-back-doors.html\n"
-"POT-Creation-Date: 2019-10-19 10:25+0000\n"
-"PO-Revision-Date: 2019-10-21 11:28+0200\n"
+"POT-Creation-Date: 2019-11-18 11:26+0000\n"
+"PO-Revision-Date: 2019-11-18 18:14+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -23,54 +23,48 @@ msgid "Proprietary Back Doors - GNU Project - Free Software Foundation"
 msgstr ""
 "Portes dérobées du logiciel privateur - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
+"Back doors"
+msgstr ""
+"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
+"Portes dérobées"
+
+#. type: Content of: <div><h2>
 msgid "Proprietary Back Doors"
 msgstr "Portes dérobées du logiciel privateur"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/proprietary/proprietary.html\">Other examples of proprietary "
-"malware</a>"
-msgstr ""
-"<a href=\"/proprietary/proprietary.html\">Autres exemples de malveillance "
-"dans le logiciel privateur</a>"
-
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Nonfree (proprietary) software is very often malware (designed to mistreat "
 "the user). Nonfree software is controlled by its developers, which puts them "
 "in a position of power over the users; <a href=\"/philosophy/free-software-"
 "even-more-important.html\">that is the basic injustice</a>. The developers "
-"often exercise that power to the detriment of the users they ought to serve."
+"and manufacturers often exercise that power to the detriment of the users "
+"they ought to serve."
 msgstr ""
 "Le logiciel non libre (privateur) est très souvent malveillant (conçu pour "
 "maltraiter les utilisateurs). Il est contrôlé par ses développeurs, ce qui "
 "les met en position de pouvoir vis-à-vis des utilisateurs ; <a href=\"/"
 "philosophy/free-software-even-more-important.html\">c'est l'injustice de "
-"base</a>. Les développeurs exercent souvent ce pouvoir au détriment des "
-"utilisateurs qu'ils devraient servir."
+"base</a>. Les développeurs et les fabricants exercent souvent ce pouvoir au "
+"détriment des utilisateurs qu'ils devraient servir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"A &ldquo;back door&rdquo; in a program is a channel designed to send the "
-"program commands from someone who is not supposed to be in control of the "
-"computer where the program is installed."
+"Some malicious functionalities are mediated by <a href=\"/proprietary/"
+"proprietary.html#f1\">back doors</a>.  Here are examples of programs that "
+"contain one or several of those, sorted out according to what the back door "
+"is known to allow. Back doors that allow full control over the operating "
+"system are said to be &ldquo;universal&rdquo;."
 msgstr ""
-"Une « porte dérobée » dans un programme est un moyen permettant d'envoyer au "
-"programme des commandes provenant d'un tiers n'ayant pas, en principe, le "
-"contrôle de l'ordinateur sur lequel il est installé."
-
-#. type: Content of: <div><p>
-msgid ""
-"Here are examples of demonstrated back doors in proprietary software.  They "
-"are sorted out according to what they are known to allow. Back doors that "
-"allow full control over the operating system are said to be &ldquo;"
-"universal&rdquo;."
-msgstr ""
-"Voici des exemples de portes dérobées documentées dans des logiciels "
-"privateurs. Elles sont classées d'après ce qu'elles permettent de faire. Les "
-"portes dérobées qui permettent de prendre totalement le contrôle du système "
-"d'exploitation sont dites « universelles »."
+"Certaines fonctionnalités malveillantes font intervenir des <a href=\"/"
+"proprietary/proprietary.html#f1\">portes dérobées</a>. Voici des exemples de "
+"programmes privateurs qui en contiennent une ou plusieurs, classées d'après "
+"ce qu'elles permettent de faire. Les portes dérobées qui permettent de "
+"prendre totalement le contrôle du système d'exploitation sont dites "
+"« universelles »."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -85,25 +79,38 @@ msgstr ""
 "Merci de fournir les URL d'une ou deux références fiables et spécifiques "
 "pour l'étayer."
 
-#. type: Content of: <p>
-msgid ""
-"&nbsp;<a href=\"#spy\">Spying</a>&nbsp; &nbsp;<a href=\"#alter-data"
-"\">Altering&nbsp;user's&nbsp;data/settings</a>&nbsp; &nbsp;<a href="
-"\"#install-delete\">Installing/deleting/disabling&nbsp;programs</a>&nbsp; "
-"&nbsp;<a href=\"#universal\">Full&nbsp;control</a>&nbsp; &nbsp;<a href="
-"\"#other\">Other/undefined</a>&nbsp;"
-msgstr ""
-"&nbsp;<a href=\"#spy\">Espionner</a>&nbsp; &nbsp;<a href=\"#alter-data"
-"\">Altérer&nbsp;les&nbsp;données/préférences&nbsp;de l'utilisateur</a>&nbsp; "
-"&nbsp;<a href=\"#install-delete\">Installer/supprimer/désactiver&nbsp;"
-"des&nbsp;programmes</a>&nbsp; &nbsp;<a href=\"#universal\">Contrôle&nbsp;"
-"total</a>&nbsp; &nbsp;<a href=\"#other\">Autre/non&nbsp;défini</a>&nbsp;"
+#. type: Content of: <div><div><h3>
+msgid "Back-door functionalities"
+msgstr "Fonctionnalités des portes dérobées"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#spy\">Spying</a>"
+msgstr "<a href=\"#spy\">Espionner</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#alter-data\">Altering user's data or settings</a>"
+msgstr ""
+"<a href=\"#alter-data\">Altérer les données/préférences de l'utilisateur</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href=\"#install-delete\">Installing, deleting or disabling programs</a>"
+msgstr ""
+"<a href=\"#install-delete\">Installer/supprimer/désactiver des programmes</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#universal\">Full control</a>"
+msgstr "<a href=\"#universal\">Contrôle total</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#other\">Other/undefined</a>"
+msgstr "<a href=\"#other\">Autre/indéterminé</a>"
+
+#. type: Content of: <div><h3>
 msgid "Spying"
 msgstr "Espionner"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Many models of Internet-connected cameras contain a glaring back door&mdash;"
 "they have login accounts with hard-coded passwords, which can't be changed, "
@@ -117,7 +124,7 @@ msgstr ""
 "security/2017/06/internet-cameras-expose-private-video-feeds-and-remote-"
 "controls/\">ne peuvent pas non plus être supprimés</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Since these accounts with hard-coded passwords are impossible to delete, "
 "this problem is not merely an insecurity; it amounts to a back door that can "
@@ -128,7 +135,7 @@ msgstr ""
 "dérobée qui peut être utilisée par le fabricant (et le gouvernement) pour "
 "espionner les utilisateurs."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "WhatsApp has a feature that <a href=\"https://techcrunch.com/2017/01/13/"
 "encrypted-messaging-platform-whatsapp-denies-backdoor-claim/\"> has been "
@@ -140,7 +147,7 @@ msgstr ""
 "\">a été décrite comme une « porte dérobée »</a> car elle permet aux "
 "gouvernements d'annuler son chiffrement."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The developers say that it wasn't intended as a back door, and that may well "
 "be true. But that leaves the crucial question of whether it functions as "
@@ -151,7 +158,7 @@ msgstr ""
 "est-ce que cette porte dérobée est vraiment opérationnelle ? Puisque le "
 "programme n'est pas libre, nous ne pouvons pas le vérifier en l'étudiant."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Microsoft has <a href=\"https://theintercept.com/2015/12/28/recently-bought-"
 "a-windows-computer-microsoft-probably-has-your-encryption-key/\"> backdoored "
@@ -161,7 +168,7 @@ msgstr ""
 "computer-microsoft-probably-has-your-encryption-key/\">Microsoft a mis une "
 "porte dérobée dans le chiffrement des disques</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Apple can, and regularly does, <a href=\"http://arstechnica.com/"
 "apple/2014/05/new-guidelines-outline-what-iphone-data-apple-can-give-to-"
@@ -171,7 +178,7 @@ msgstr ""
 "com/apple/2014/05/new-guidelines-outline-what-iphone-data-apple-can-give-to-"
 "police/\">extraire à distance certaines données des iPhones pour l'État</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "This may have improved with <a href=\"https://www.denverpost.com/2014/09/17/"
 "apple-will-no-longer-unlock-most-iphones-ipads-for-police/\"> iOS 8 security "
@@ -184,11 +191,11 @@ msgstr ""
 "org/theintercept/2014/09/22/apple-data/\">pas autant que le prétend Apple</"
 "a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Altering user's data or settings"
 msgstr "Altérer les données ou préférences de l'utilisateur"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "BlizzCon 2019 imposed a <a href=\"https://arstechnica.com/gaming/2019/05/"
 "blizzcon-2019-tickets-revolve-around-invasive-poorly-reviewed-smartphone-app/"
@@ -200,7 +207,7 @@ msgstr ""
 "\">l'utilisation d'une appli mobile privatrice</a> pour accéder à "
 "l'événement."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "This app is a spyware that can snoop on a lot of sensitive data, including "
 "user's location and contact list, and has <a href=\"https://old.reddit.com/r/"
@@ -213,7 +220,7 @@ msgstr ""
 "comments/bkd5ew/you_need_to_have_a_phone_to_attend_blizzcon_this/emg38xv/"
 "\">contrôle presque complet</a> du téléphone."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Android has a <a href=\"https://www.theverge.com/platform/"
 "amp/2018/9/14/17861150/google-battery-saver-android-9-pie-remote-settings-"
@@ -224,14 +231,14 @@ msgstr ""
 "change\">porte dérobée permettant de modifier à distance la configuration "
 "« utilisateur »</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The article suggests it might be a universal back door, but this isn't clear."
 msgstr ""
 "L'article suggère qu'il pourrait s'agir d'une porte dérobée universelle, "
 "mais ce n'est pas clair."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The Dropbox app for Macintosh <a href=\"http://applehelpwriter."
 "com/2016/07/28/revealing-dropboxs-dirty-little-security-hack/\"> takes "
@@ -243,7 +250,7 @@ msgstr ""
 "contrôle des éléments de l'interface utilisateur après avoir piégé ce "
 "dernier pour obtenir un mot de passe administrateur</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "A pregnancy test controller application not only can <a href=\"http://www."
 "theverge.com/2016/4/25/11503718/first-response-pregnancy-pro-test-bluetooth-"
@@ -256,7 +263,7 @@ msgstr ""
 "com/2016/4/25/11503718/first-response-pregnancy-pro-test-bluetooth-app-"
 "security\">mais aussi les altérer</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "<a href=\"http://www.itworld.com/article/2705284/backdoor-found-in-d-link-"
 "router-firmware-code.html\"> Some D-Link routers</a> have a back door for "
@@ -266,7 +273,7 @@ msgstr ""
 "router-firmware-code.html\">Certains routeurs D-Link</a> ont une porte "
 "dérobée pour changer les réglages."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "<a href=\"http://sekurak.pl/tp-link-httptftp-backdoor/\"> The TP-Link router "
 "has a back door</a>."
@@ -274,7 +281,7 @@ msgstr ""
 "<a href=\"http://sekurak.pl/tp-link-httptftp-backdoor/\">Le routeur TP-Link "
 "a une porte dérobée</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "<a href=\"https://github.com/elvanderb/TCP-32764\">Many models of routers "
 "have back doors</a>."
@@ -282,7 +289,7 @@ msgstr ""
 "<a href=\"https://github.com/elvanderb/TCP-32764\">De nombreux modèles de "
 "routeurs ont des portes dérobées</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Google has long had <a href=\"http://www.theguardian.com/technology/2015/"
 "nov/24/google-can-unlock-android-devices-remotely-if-phone-unencrypted\">a "
@@ -297,7 +304,7 @@ msgstr ""
 "chiffrement est possible depuis Android Lollipop, mais n'est pas encore "
 "activé par défaut)."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Caterpillar vehicles come with <a href=\"http://www.zerohedge.com/"
 "news/2015-11-19/caterpillar-depression-has-never-been-worse-it-has-cunning-"
@@ -308,7 +315,7 @@ msgstr ""
 "cunning-plan-how-deal-it\">une porte dérobée permettant d'arrêter le moteur</"
 "a> à distance."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Modern gratis game cr&hellip;apps <a href=\"http://toucharcade."
 "com/2015/09/16/we-own-you-confessions-of-a-free-to-play-producer/\"> collect "
@@ -320,7 +327,7 @@ msgstr ""
 "\">rassemblent un large éventail de données sur leurs utilisateurs, ainsi "
 "que sur leurs amis et leurs associés</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Even nastier, they do it through ad networks that merge the data collected "
 "by various cr&hellip;apps and sites made by different companies."
@@ -329,7 +336,7 @@ msgstr ""
 "données récupérées par une variété d'applis et de sites faits par "
 "différentes sociétés."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "They use this data to manipulate people to buy things, and hunt for &ldquo;"
 "whales&rdquo; who can be led to spend a lot of money. They also use a back "
@@ -340,7 +347,7 @@ msgstr ""
 "Elles se servent également d'une porte dérobée pour manipuler le jeu de "
 "certains joueurs."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "While the article describes gratis games, games that cost money can use the "
 "same tactics."
@@ -348,7 +355,7 @@ msgstr ""
 "L'article décrit des jeux gratuits, mais les jeux payants peuvent utiliser "
 "le même tactique."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "<a href=\"https://www.fsf.org/blogs/community/replicant-developers-find-and-"
 "close-samsung-galaxy-backdoor\"> Samsung Galaxy devices running proprietary "
@@ -360,7 +367,7 @@ msgstr ""
 "versions privatrices d'Android sont livrés avec une porte dérobée</a> qui "
 "permet l'accès à distance aux fichiers stockés dans l'appareil."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The Amazon Kindle-Swindle has a back door that has been used to <a href="
 "\"http://pogue.blogs.nytimes.com/2009/07/17/some-e-books-are-more-equal-than-"
@@ -372,7 +379,7 @@ msgstr ""
 "others/\">effacer des livres à distance</a>. Un de ces livres était "
 "<cite>1984</cite>, de George Orwell."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Amazon responded to criticism by saying it would delete books only following "
 "orders from the state.  However, that policy didn't last.  In 2012 it <a "
@@ -386,7 +393,7 @@ msgstr ""
 "html\">complètement effacé le Kindle-Swindle d'une utilisatrice et supprimé "
 "son compte</a>, puis lui a donné des « explications » kafkaïennes."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Do other ebook readers have back doors in their nonfree software? We don't "
 "know, and we have no way to find out.  There is no reason to assume that "
@@ -396,7 +403,7 @@ msgstr ""
 "logiciels ? Nous n'en savons rien et n'avons aucun moyen de le découvrir. "
 "Rien ne nous laisse supposer qu'elles n'en ont pas."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The iPhone has a back door for <a href=\"http://www.npr."
 "org/2010/11/22/131511381/wipeout-when-your-company-kills-your-iphone\"> "
@@ -409,11 +416,11 @@ msgstr ""
 "permanence, mais les utilisateurs sont amenés à l'activer sans comprendre ce "
 "que cela implique."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Installing, deleting or disabling programs"
 msgstr "Installer, supprimer ou désactiver des programmes"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "A very popular app found in the Google Play store contained a module that "
 "was designed to <a href=\"https://arstechnica.com/information-"
@@ -429,7 +436,7 @@ msgstr ""
 "Les développeurs de l'appli s'en servaient régulièrement pour forcer "
 "l'ordinateur à télécharger et exécuter le code de leur choix."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "This is a concrete example of what users are exposed to when they run "
 "nonfree apps. They can never be completely sure that a nonfree app is safe."
@@ -438,7 +445,7 @@ msgstr ""
 "appli non libre. Ils ne peuvent jamais être complètement sûrs qu'elle est "
 "sans danger."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Apple appears to say that <a href=\"https://techcrunch.com/2019/07/10/apple-"
 "silent-update-zoom-app/\"> there is a back door in MacOS</a> for "
@@ -448,7 +455,7 @@ msgstr ""
 "silent-update-zoom-app/\">MacOS possède une porte dérobée</a> permettant de "
 "mettre à jour certaines applis, sinon toutes."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The specific change described in the article was not malicious&mdash;it "
 "protected users from surveillance by third parties&mdash;but that is a "
@@ -458,7 +465,7 @@ msgstr ""
 "(il évitait aux utilisateurs d'être espionnés par des tiers) mais c'est un "
 "autre problème."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Corel Paintshop Pro has a <a href=\"https://torrentfreak.com/corel-wrongly-"
 "accuses-licensed-user-of-piracy-disables-software-remotely-181110/\"> back "
@@ -468,7 +475,7 @@ msgstr ""
 "accuses-licensed-user-of-piracy-disables-software-remotely-181110/\">porte "
 "dérobée qui peut le mettre hors service</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The article is full of confusions, errors and biases that we have an "
 "obligation to expose, given that we are making a link to them."
@@ -477,7 +484,7 @@ msgstr ""
 "sommes dans l'obligation de dénoncer, étant donné que nous les mettons en "
 "lien."
 
-#. type: Content of: <ul><li><ul><li>
+#. type: Content of: <div><ul><li><ul><li>
 msgid ""
 "Getting a patent does not &ldquo;enable&rdquo; a company to do any "
 "particular thing in its products. What it does enable the company to do is "
@@ -488,7 +495,7 @@ msgstr ""
 "poursuivre d'autres sociétés devant les tribunaux si elles font une chose "
 "particulière avec leurs produits."
 
-#. type: Content of: <ul><li><ul><li>
+#. type: Content of: <div><ul><li><ul><li>
 msgid ""
 "A company's policies about when to attack users through a back door are "
 "beside the point. Inserting the back door is wrong in the first place, and "
@@ -501,7 +508,7 @@ msgstr ""
 "même pour son utilisation. Aucun développeur de logiciel ne doit avoir ce "
 "pouvoir sur ses utilisateurs."
 
-#. type: Content of: <ul><li><ul><li>
+#. type: Content of: <div><ul><li><ul><li>
 msgid ""
 "&ldquo;<a href=\"/philosophy/words-to-avoid.html#Piracy\">Piracy</a>&rdquo; "
 "means attacking ships. Using that word to refer to sharing copies is a "
@@ -511,7 +518,7 @@ msgstr ""
 "définit comme l'attaque de navires. L'emploi de ce mot pour désigner le "
 "partage de copies est du dénigrement. Ne salissez pas le partage."
 
-#. type: Content of: <ul><li><ul><li><p>
+#. type: Content of: <div><ul><li><ul><li><p>
 msgid ""
 "The idea of &ldquo;protecting our IP&rdquo; is total confusion. The term "
 "&ldquo;IP&rdquo; itself is a <a href=\"/philosophy/not-ipr.html\">bogus "
@@ -522,7 +529,7 @@ msgstr ""
 "philosophy/not-ipr.html\">généralisation vide de sens à propos de choses qui "
 "n'ont rien en commun</a>."
 
-#. type: Content of: <ul><li><ul><li><p>
+#. type: Content of: <div><ul><li><ul><li><p>
 msgid ""
 "In addition, to speak of &ldquo;protecting&rdquo; that bogus generalization "
 "is a separate absurdity. It's like calling the cops because neighbors' kids "
@@ -539,7 +546,7 @@ msgstr ""
 "marteau piqueur, parce que c'est une abstraction qui n'est pas affectée par "
 "les actions physiques."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Some &ldquo;Smart&rdquo; TVs automatically <a href=\"https://web.archive.org/"
 "web/20180405014828/https:/twitter.com/buro9/status/980349887006076928\"> "
@@ -550,7 +557,7 @@ msgstr ""
 "status/980349887006076928\">mises à jour régressives qui installent une "
 "appli de surveillance</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "We link to the article for the facts it presents. It is too bad that the "
 "article finishes by advocating the moral weakness of surrendering to "
@@ -562,7 +569,7 @@ msgstr ""
 "L'appli de Netflix <a href=\"/proprietary/malware-google.html#netflix-app-"
 "geolocation-drm\">est malveillante également</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Baidu's proprietary Android library, Moplus, has a back door that <a href="
 "\"https://www.eff.org/deeplinks/2015/11/millions-android-devices-vulnerable-"
@@ -574,11 +581,11 @@ msgstr ""
 "vulnerable-remote-hijacking-baidu-wrote-code-google-made\">peut « uploader "
 "des fichiers » et aussi installer des applis de force</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid "It is used by 14,000 Android applications."
 msgstr "Elle est utilisée par 14 000 applications Android."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "In addition to its <a href=\"#windows-update\">universal back door</a>, "
 "Windows 8 has a back door for <a href=\"https://www.computerworld.com/"
@@ -590,7 +597,7 @@ msgstr ""
 "article/2500036/microsoft--we-can-remotely-delete-windows-8-apps.html"
 "\">supprimer des applications à distance</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "You might well decide to let a security service that you trust remotely "
 "<em>deactivate</em> programs that it considers malicious.  But there is no "
@@ -603,7 +610,7 @@ msgstr ""
 "vous devez avoir le droit de décider si vous devez vous en remettre à "
 "quelqu'un pour cela, et à qui."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "In Android, <a href=\"https://www.computerworld.com/article/2506557/google-"
 "throws--kill-switch--on-android-phones.html\"> Google has a back door to "
@@ -616,7 +623,7 @@ msgstr ""
 "programme appelé GTalkService qui semble, depuis la parution de cet article, "
 "avoir été intégré à Google Play)."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Google can also <a href=\"https://jon.oberheide.org/blog/2010/06/25/remote-"
 "kill-and-install-on-google-android/\"> forcibly and remotely install apps</"
@@ -628,7 +635,7 @@ msgstr ""
 "distance</a> au moyen de GTalkService. Ce n'est pas l'équivalent d'une porte "
 "dérobée universelle, mais cela rend possibles divers mauvais coups."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Although Google's <em>exercise</em> of this power has not been malicious so "
 "far, the point is that nobody should have such power, which could also be "
@@ -646,7 +653,7 @@ msgstr ""
 "vous devez avoir le droit de décider à qui accorder une telle confiance (à "
 "supposer que vous l'accordiez à quelqu'un)."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The iPhone has a back door <a href=\"http://www.telegraph.co.uk/"
 "technology/3358134/Apples-Jobs-confirms-iPhone-kill-switch.html\"> that "
@@ -660,11 +667,11 @@ msgstr ""
 "« inappropriées ». D'après ce que disait Jobs, il est acceptable qu'Apple "
 "possède ce pouvoir, car naturellement nous pouvons lui faire confiance."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Full control"
 msgstr "Contrôle total"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The Chinese Communist Party's <a href=\"/proprietary/proprietary-"
 "surveillance.html#M201910130\"> &ldquo;Study the Great Nation&rdquo; app</a> "
@@ -680,7 +687,7 @@ msgstr ""
 "permettant aux développeurs d'exécuter le code de leur choix</a> sur le "
 "téléphone de l'utilisateur avec des privilèges de « super-utilisateur »."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Note: The <a href=\"http://web-old.archive.org/web/20191015005153/https://"
 "www.washingtonpost.com/world/asia_pacific/chinese-app-on-xis-ideology-allows-"
@@ -702,7 +709,7 @@ msgstr ""
 "Apple, ce genre de surveillance avec privilèges de “super-utilisateur” ne "
 "pouvait pas fonctionner sur le système d'exploitation d'Apple »."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "ChromeBooks are programmed for obsolescence: ChromeOS has a universal back "
 "door that is used for updates and <a href=\"https://www.theregister.co."
@@ -717,7 +724,7 @@ msgstr ""
 "fonctionner à une date prédéterminée</a>. Ensuite, il semble que "
 "l'ordinateur n'ait plus aucun suivi."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "In other words, when you stop getting screwed by the back door, you start "
 "getting screwed by the obsolescence."
@@ -725,7 +732,7 @@ msgstr ""
 "En d'autres termes, quand vous cessez de vous faire avoir par la porte "
 "dérobée, vous commencez à vous faire avoir par l'obsolescence."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The FordPass Connect feature of some Ford vehicles has <a href=\"https://www."
 "myfordpass.com/content/ford_com/fp_app/en_us/termsprivacy.html\"> near-"
@@ -742,7 +749,7 @@ msgstr ""
 "lorsqu'on retire la clé de contact, et des utilisateurs nous ont signalé "
 "qu'ils ne peuvent pas le désactiver."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "If you own one of these cars, have you succeeded in breaking the "
 "connectivity by disconnecting the cellular modem, or wrapping the antenna in "
@@ -752,7 +759,7 @@ msgstr ""
 "connexion en débranchant le modem, ou bien en enveloppant l'antenne dans du "
 "papier d'aluminium?"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "New GM cars <a href=\"https://media.gm.com/media/us/en/gmc/vehicles/"
 "canyon/2019.html\"> offer the feature of a universal back door</a>."
@@ -761,7 +768,7 @@ msgstr ""
 "en/gmc/vehicles/canyon/2019.html\">sont dotés d'une fonctionnalité de porte "
 "dérobée universelle</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Every nonfree program offers the user zero security against its developer. "
 "With this malfeature, GM has explicitly made things even worse."
@@ -769,7 +776,7 @@ msgstr ""
 "Aucun des programmes non libres n'offre à l'utilisateur de sécurité contre "
 "les attaques de son développeur, mais GM a explicitement aggravé les choses."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The Furby Connect has a <a href=\"https://www.contextis.com/blog/dont-feed-"
 "them-after-midnight-reverse-engineering-the-furby-connect\"> universal back "
@@ -782,7 +789,7 @@ msgstr ""
 "n'est pas utilisable comme appareil d'écoute, il pourrait sûrement le "
 "devenir après une modification à distance du code."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Sony has brought back its robotic pet Aibo, this time <a href=\"https://"
 "motherboard.vice.com/en_us/article/bj778v/sony-wants-to-sell-you-a-"
@@ -795,7 +802,7 @@ msgstr ""
 "universelle, ainsi qu'une dépendance à un serveur avec abonnement "
 "obligatoire</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Tesla used software to limit the part of the battery that was available to "
 "customers in some cars, and <a href=\"https://techcrunch.com/2017/09/09/"
@@ -809,7 +816,7 @@ msgstr ""
 "flips-a-switch-to-increase-the-range-of-some-cars-in-florida-to-help-people-"
 "evacuate/\">porte dérobée universelle dans ce logiciel</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "While remotely allowing car &ldquo;owners&rdquo; to use the whole battery "
 "capacity did not do them any harm, the same back door would permit Tesla "
@@ -823,7 +830,7 @@ msgstr ""
 "donner à la voiture l'ordre distant de ne plus utiliser du tout sa batterie, "
 "ou même de conduire son passager vers une prison de torture."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Vizio &ldquo;smart&rdquo; TVs <a href=\"https://www.ftc.gov/news-events/"
 "blogs/business-blog/2017/02/what-vizio-was-doing-behind-tv-screen\"> have a "
@@ -833,7 +840,7 @@ msgstr ""
 "events/blogs/business-blog/2017/02/what-vizio-was-doing-behind-tv-screen"
 "\">ont une porte dérobée universelle</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Xiaomi phones come with <a href=\"https://web.archive.org/web/20190424082647/"
 "http://blog.thijsbroenink.com/2016/09/xiaomis-analytics-app-reverse-"
@@ -845,7 +852,7 @@ msgstr ""
 "app-reverse-engineered/\">porte dérobée universelle à l'usage de Xiaomi</a> "
 "dans le processeur d'application."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "This is separate from <a href=\"#universal-back-door-phone-modem\">the "
 "universal back door in the modem processor that the local phone company can "
@@ -855,7 +862,7 @@ msgstr ""
 "dérobée universelle utilisable par l'opérateur téléphonique local</a>, qui "
 "existe dans le processeur du modem."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Microsoft Windows has a universal back door through which <a href=\"http://"
 "www.informationweek.com/microsoft-updates-windows-without-user-permission-"
@@ -867,7 +874,7 @@ msgstr ""
 "permission-apologizes/d/d-id/1059183\">d'imposer un changement aux "
 "utilisateurs, quel qu'il soit</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "This was <a href=\"http://slated.org/"
 "windows_by_stealth_the_updates_you_dont_want\"> reported in 2007</a> for XP "
@@ -881,7 +888,7 @@ msgstr ""
 "proprietary/malware-microsoft.html#windows10-forcing\">imposer une "
 "régression vers Windows 10</a> aux ordinateurs sous Windows 7 et 8."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "In Windows 10, the universal back door is no longer hidden; all &ldquo;"
 "upgrades&rdquo; will be <a href=\"http://arstechnica.com/information-"
@@ -893,7 +900,7 @@ msgstr ""
 "technology/2015/07/windows-10-updates-to-be-automatic-and-mandatory-for-home-"
 "users/\">imposées immédiatement, de force</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The Amazon Echo appears to have a universal back door, since <a href="
 "\"https://en.wikipedia.org/wiki/Amazon_Echo#Software_updates\"> it installs "
@@ -903,7 +910,7 @@ msgstr ""
 "\"https://en.wikipedia.org/wiki/Amazon_Echo#Software_updates\">les « mises à "
 "jour » s'installent automatiquement</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "We have found nothing explicitly documenting the lack of any way to disable "
 "remote changes to the software, so we are not completely sure there isn't "
@@ -913,7 +920,7 @@ msgstr ""
 "désactiver la modification à distance du logiciel, mais cela paraît assez "
 "évident."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "<a href=\"http://www.theguardian.com/technology/2014/dec/18/chinese-android-"
 "phones-coolpad-hacker-backdoor\"> A Chinese version of Android has a "
@@ -929,7 +936,7 @@ msgstr ""
 "sur la puce modem</a>. Alors, pourquoi Coolpad se donnerait-il la peine d'en "
 "introduire une autre ? Parce que celle-ci est sous son contrôle."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "<a href=\"http://www.techienews.co.uk/973462/bitcoin-miners-bundled-pups-"
 "legitimate-applications-backed-eula/\"> Some applications come with "
@@ -941,7 +948,7 @@ msgstr ""
 "à MyFreeProxy, qui est une porte dérobée universelle</a> capable de "
 "télécharger des programmes et de les exécuter."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "ChromeOS has a universal back door. At least, Google says it does&mdash;in "
 "<a href=\"https://www.google.com/intl/en/chromebook/termsofservice.html\"> "
@@ -952,7 +959,7 @@ msgstr ""
 "\">l'article 4 des <abbr title=\"Contrat de Licence d'Utilisateur Final"
 "\">CLUF</abbr></a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "In addition to its <a href=\"#swindle-eraser\">book eraser</a>, the Kindle-"
 "Swindle has a <a href=\"http://www.amazon.com/gp/help/customer/display.html?"
@@ -962,7 +969,7 @@ msgstr ""
 "Swindle a une <a href=\"http://www.amazon.com/gp/help/customer/display.html?"
 "nodeId=200774090\">porte dérobée universelle</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Almost every phone's communication processor has a universal back door which "
 "is <a href=\"https://www.schneier.com/blog/archives/2006/12/"
@@ -978,11 +985,11 @@ msgstr ""
 "<a href=\"/proprietary/malware-mobiles.html#universal-back-door-phone-modem"
 "\">Malveillance des mobiles</a> pour en savoir plus."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Other or undefined"
-msgstr "Autre ou non défini"
+msgstr "Autre ou indéterminé"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Intel's intentional &ldquo;management engine&rdquo; back door has <a href="
 "\"https://www.theregister.co.uk/2017/11/20/intel_flags_firmware_flaws/\"> "
@@ -992,7 +999,7 @@ msgstr ""
 "<a href=\"https://www.theregister.co.uk/2017/11/20/"
 "intel_flags_firmware_flaws/\">portes dérobées non intentionnelles</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "A Capcom's Street Fighter V update <a href=\"https://www.theregister.co."
 "uk/2016/09/23/capcom_street_fighter_v/\"> installed a driver that could be "
@@ -1008,7 +1015,7 @@ msgstr ""
 "\"https://www.rockpapershotgun.com/2016/09/24/street-fighter-v-removes-new-"
 "anti-crack\">immédiatement retirée</a> en réponse au tollé général."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Dell computers, shipped with Windows, had a bogus root certificate that <a "
 "href=\"http://fossforce.com/2015/11/dell-comcast-intel-who-knows-who-else-"
@@ -1020,7 +1027,7 @@ msgstr ""
 "else-are-out-to-get-you/\">permettait à n'importe qui (pas seulement à Dell) "
 "d'autoriser à distance l'exécution de n'importe quel programme</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "ARRIS cable modem has a <a href=\"https://w00tsec.blogspot.de/2015/11/arris-"
 "cable-modem-has-backdoor-in.html?m=1\"> back door in the back door</a>."
@@ -1029,7 +1036,7 @@ msgstr ""
 "arris-cable-modem-has-backdoor-in.html?m=1\">porte dérobée dans sa porte "
 "dérobée</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "&ldquo;Self-encrypting&rdquo; disk drives do the encryption with proprietary "
 "firmware so you can't trust it.  Western Digital's &ldquo;My Passport&rdquo; "
@@ -1044,7 +1051,7 @@ msgstr ""
 "encrypting-hard-drives-have-really-bad-encryption\">ont une porte dérobée</"
 "a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Mac OS X had an <a href=\"https://truesecdev.wordpress.com/2015/04/09/hidden-"
 "backdoor-api-to-root-privileges-in-apple-os-x/\"> intentional local back "
@@ -1056,7 +1063,7 @@ msgstr ""
 "porte dérobée intentionnelle</a> qui pouvait être exploitée par des "
 "attaquants pour obtenir les privilèges du superutilisateur <cite>root</cite>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Here is a big problem whose details are still secret: <a href=\"http://"
 "mashable.com/2013/09/11/fbi-microsoft-bitlocker-backdoor/\"> The FBI asks "
@@ -1070,7 +1077,7 @@ msgstr ""
 "programmes privateurs</a>. Nous ne connaissons pas de cas précis, mais "
 "chacun des programmes privateurs de chiffrement est un candidat possible."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The German government <a href=\"https://www.theregister.co.uk/2013/08/23/"
 "nsa_germany_windows_8/\">veers away from Windows 8 computers with TPM 2.0</"
@@ -1085,7 +1092,7 @@ msgstr ""
 "original en allemand</a>), parce que cette puce permet de créer des portes "
 "dérobées."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Here is a suspicion that we can't prove, but is worth thinking about: <a "
 "href=\"https://web.archive.org/web/20150206003913/http://www.afr.com/p/"
@@ -1101,7 +1108,7 @@ msgstr ""
 "pourrait fournir à la NSA un moyen d'envahir les ordinateurs, disent des "
 "experts respectés en sécurité."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "HP &ldquo;storage appliances&rdquo; that use the proprietary &ldquo;Left "
 "Hand&rdquo; operating system have back doors that give HP <a href=\"https://"
@@ -1120,7 +1127,7 @@ msgstr ""
 "logiciels modifiés, il serait possible d'installer une modification qui lui "
 "donnerait cet accès."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The EFF has other examples of the <a href=\"https://www.eff.org/"
 "deeplinks/2015/02/who-really-owns-your-drones\"> use of back doors</a>."

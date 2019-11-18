@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary.html\n"
-"POT-Creation-Date: 2019-11-16 12:55+0000\n"
-"PO-Revision-Date: 2019-11-16 16:07+0100\n"
+"POT-Creation-Date: 2019-11-18 13:55+0000\n"
+"PO-Revision-Date: 2019-11-18 18:14+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -23,22 +23,22 @@ msgstr "Logiciel privateur - Projet GNU - Free Software Foundation "
 
 #. type: Content of: <style>
 #, no-wrap
-msgid "#TOC { width: 55em; }\n"
-msgstr "#TOC { width: 55em; }\n"
+msgid "  .reduced-width { width: 55em; }\n"
+msgstr "  .reduced-width { width: 55em; }\n"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Proprietary Software Is Often Malware"
 msgstr "Le logiciel privateur est souvent malveillant"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "<a href=\"#TOC\">Table of contents</a>"
 msgstr "<a href=\"#TOC\">Table des matières</a>"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "<a href=\"#latest\">Latest additions</a>"
 msgstr "<a href=\"#latest\">Ajouts récents</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Proprietary software, also called nonfree software, means software that "
 "doesn't <a href=\"/philosophy/free-sw.html\">respect users' freedom and "
@@ -53,7 +53,7 @@ msgstr ""
 "software-even-more-important.html\">exercer un pouvoir sur les utilisateurs</"
 "a>. Ce pouvoir est en soi une injustice."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The point of this page is that the initial injustice of proprietary software "
 "often leads to further injustices: malicious functionalities."
@@ -61,7 +61,7 @@ msgstr ""
 "Cette page vous montrera que cette injustice première conduit souvent à "
 "d'autres injustices : les fonctionnalités malveillantes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Power corrupts; the proprietary program's developer is tempted to design the "
 "program to mistreat its users.  (Software whose functioning mistreats the "
@@ -76,7 +76,7 @@ msgstr ""
 "méchanceté, mais plutôt pour faire du profit sur le dos des utilisateurs. "
 "Cela ne rend pas cet état de fait moins mauvais ni plus légitime."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Yielding to that temptation has become ever more frequent; nowadays it is "
 "standard practice.  Modern proprietary software is typically a way to be had."
@@ -85,7 +85,7 @@ msgstr ""
 "pratique courante de nos jours. Le logiciel privateur moderne est "
 "typiquement un moyen de mal se conduire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "As of October, 2019, the pages in this directory list around 400 instances "
 "of malicious functionalities (with more than 500 references to back them "
@@ -95,19 +95,19 @@ msgstr ""
 "de fonctionnalités malveillante (appuyés par plus de 500 références), mais "
 "il y en a sûrement des milliers d'autres dont nous ne savons rien."
 
-#. type: Content of: <table><tr><th>
+#. type: Content of: <div><table><tr><th>
 msgid "Injustices or techniques"
 msgstr "Injustices ou techniques"
 
-#. type: Content of: <table><tr><th>
+#. type: Content of: <div><table><tr><th>
 msgid "Products or companies"
 msgstr "Produits ou sociétés"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-addictions.html\">Addictions</a>"
 msgstr "<a href=\"/proprietary/proprietary-addictions.html\">Addiction</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid ""
 "<a href=\"/proprietary/proprietary-back-doors.html\">Back doors</a>&nbsp;(<a "
 "href=\"#f1\">1</a>)"
@@ -115,44 +115,44 @@ msgstr ""
 "<a href=\"/proprietary/proprietary-back-doors.html\">Portes dérobées</a> (<a "
 "href=\"#f1\">1</a>)"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-censorship.html\">Censorship</a>"
 msgstr "<a href=\"/proprietary/proprietary-censorship.html\">Censure</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-coverups.html\">Coverups</a>"
 msgstr "<a href=\"/proprietary/proprietary-coverups.html\">Dissimulation</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-deception.html\">Deception</a>"
 msgstr "<a href=\"/proprietary/proprietary-deception.html\">Tromperie</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid ""
 "<a href=\"/proprietary/proprietary-drm.html\">DRM</a>&nbsp;(<a href="
 "\"#f2\">2</a>)"
 msgstr ""
 "<a href=\"/proprietary/proprietary-drm.html\">DRM</a> (<a href=\"#f2\">2</a>)"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-fraud.html\">Fraud</a>"
 msgstr "<a href=\"/proprietary/proprietary-fraud.html\">Escroquerie</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid ""
 "<a href=\"/proprietary/proprietary-incompatibility.html\">Incompatibility</a>"
 msgstr ""
 "<a href=\"/proprietary/proprietary-incompatibility.html\">Incompatibilité</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-insecurity.html\">Insecurity</a>"
 msgstr "<a href=\"/proprietary/proprietary-insecurity.html\">Insécurité</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-interference.html\">Interference</a>"
 msgstr "<a href=\"/proprietary/proprietary-interference.html\">Ingérence</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid ""
 "<a href=\"/proprietary/proprietary-jails.html\">Jails</a>&nbsp;(<a href="
 "\"#f3\">3</a>)"
@@ -160,32 +160,32 @@ msgstr ""
 "<a href=\"/proprietary/proprietary-jails.html\">Prisons</a> (<a href="
 "\"#f3\">3</a>)"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-manipulation.html\">Manipulation</a>"
 msgstr ""
 "<a href=\"/proprietary/proprietary-manipulation.html\">Manipulation</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-obsolescence.html\">Obsolescence</a>"
 msgstr ""
 "<a href=\"/proprietary/proprietary-obsolescencen.html\">Obsolescence</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-sabotage.html\">Sabotage</a>"
 msgstr "<a href=\"/proprietary/proprietary-sabotage.html\">Sabotage</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid ""
 "<a href=\"/proprietary/proprietary-subscriptions.html\">Subscriptions</a>"
 msgstr ""
 "<a href=\"/proprietary/proprietary-subscriptions.html\">Abonnements</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-surveillance.html\">Surveillance</a>"
 msgstr ""
 "<a href=\"/proprietary/proprietary-surveillance.html\">Surveillance</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid ""
 "<a href=\"/proprietary/proprietary-tethers.html\">Tethers</a>&nbsp;(<a href="
 "\"#f4\">4</a>)"
@@ -193,7 +193,7 @@ msgstr ""
 "<a href=\"/proprietary/proprietary-tethers.html\">Ancrage à un serveur</"
 "a> (<a href=\"#f4\">4</a>)"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid ""
 "<a href=\"/proprietary/proprietary-tyrants.html\">Tyrants</a>&nbsp;(<a href="
 "\"#f5\">5</a>)"
@@ -201,51 +201,51 @@ msgstr ""
 "<a href=\"/proprietary/proprietary-tyrants.html\">Tyrannie</a> (<a href="
 "\"#f5\">5</a>)"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/potential-malware.html\">In the pipe</a>"
 msgstr "<a href=\"/proprietary/potential-malware.html\">Dans les tuyaux</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-appliances.html\">Appliances</a>"
 msgstr "<a href=\"/proprietary/malware-appliances.html\">Appareils divers</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-cars.html\">Cars</a>"
 msgstr "<a href=\"/proprietary/malware-cars.html\">Voitures</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-games.html\">Games</a>"
 msgstr "<a href=\"/proprietary/malware-games.html\">Jeux</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-mobiles.html\">Mobiles</a>"
 msgstr "<a href=\"/proprietary/malware-mobiles.html\">Mobiles</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-webpages.html\">Webpages</a>"
 msgstr "<a href=\"/proprietary/malware-webpages.html\">Pages web</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-adobe.html\">Adobe</a>"
 msgstr "<a href=\"/proprietary/malware-adobe.html\">Adobe</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-amazon.html\">Amazon</a>"
 msgstr "<a href=\"/proprietary/malware-amazon.html\">Amazon</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-apple.html\">Apple</a>"
 msgstr "<a href=\"/proprietary/malware-apple.html\">Apple</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-google.html\">Google</a>"
 msgstr "<a href=\"/proprietary/malware-google.html\">Google</a>"
 
-#. type: Content of: <table><tr><td><ul><li>
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-microsoft.html\">Microsoft</a>"
 msgstr "<a href=\"/proprietary/malware-microsoft.html\">Microsoft</a>"
 
-#. type: Content of: <table><tr><td><ol><li>
+#. type: Content of: <div><table><tr><td><ol><li>
 msgid ""
 "<em>Back door:</em>&nbsp; any feature of a program that enables someone who "
 "is not supposed to be in control of the computer where it is installed to "
@@ -255,7 +255,7 @@ msgstr ""
 "un tiers n'ayant pas, en principe, le contrôle de l'ordinateur sur lequel il "
 "est installé de lui envoyer des commandes."
 
-#. type: Content of: <table><tr><td><ol><li>
+#. type: Content of: <div><table><tr><td><ol><li>
 msgid ""
 "<em>Digital restrictions management, or &ldquo;DRM&rdquo;:</em>&nbsp; "
 "functionalities designed to restrict what users can do with the data in "
@@ -265,14 +265,14 @@ msgstr ""
 "Restrictions Management\">DRM</abbr> » :</em>  fonctionnalités conçues pour "
 "limiter ce que les utilisateurs peuvent faire avec leurs ordinateurs."
 
-#. type: Content of: <table><tr><td><ol><li>
+#. type: Content of: <div><table><tr><td><ol><li>
 msgid ""
 "<em>Jail:</em>&nbsp; system that imposes censorship on application programs."
 msgstr ""
 "<em>Prison :</em>  système qui impose une censure aux programmes "
 "d'application."
 
-#. type: Content of: <table><tr><td><ol><li>
+#. type: Content of: <div><table><tr><td><ol><li>
 msgid ""
 "<em>Tether:</em>&nbsp; functionality that requires permanent (or very "
 "frequent) connection to a server."
@@ -280,7 +280,7 @@ msgstr ""
 "<em>Ancrage :</em>  nécessité d'une connexion fréquente ou permanente à un "
 "serveur."
 
-#. type: Content of: <table><tr><td><ol><li>
+#. type: Content of: <div><table><tr><td><ol><li>
 msgid ""
 "<em>Tyrant:</em>&nbsp; system that rejects any operating system not &ldquo;"
 "authorized&rdquo; by the manufacturer."
@@ -288,7 +288,7 @@ msgstr ""
 "<em>Tyrannie :</em>  rejet de tout système d'exploitation non « autorisé » "
 "par le fabricant."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Users of proprietary software are defenseless against these forms of "
 "mistreatment.  The way to avoid them is by insisting on <a href=\"/"
@@ -302,11 +302,11 @@ msgstr ""
 "liberté)</a>. Ses utilisateurs ont d'assez bons moyens de se défendre contre "
 "les fonctionnalités malveillantes puisque ce sont eux qui le contrôlent."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Latest additions"
 msgstr "Ajouts récents"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Some <span>social networking</span> apps are <a href=\"https://www."
 "jeffbullas.com/facebook-creates-addiction/\"> designed to get users "
@@ -329,7 +329,7 @@ msgstr ""
 "susciter un désir pour ces récompenses et le garder vivace le plus longtemps "
 "possible."
 
-#. type: Content of: <ul><li><ul><li>
+#. type: Content of: <div><ul><li><ul><li>
 msgid ""
 "By default, notifications are sent every time a new item comes in, instead "
 "of, say, once a day. They are associated with sounds or vibrations which "
@@ -352,7 +352,7 @@ msgstr ""
 "psychologytoday.com/us/blog/reading-between-the-headlines/201307/smartphone-"
 "addiction\">pouvoir addictif des téléphones « intelligents »</a>."
 
-#. type: Content of: <ul><li><ul><li>
+#. type: Content of: <div><ul><li><ul><li>
 msgid ""
 "Users are served selected material that is likely to interest them, based on "
 "<a href=\"https://theconversation.com/facebook-is-killing-democracy-with-its-"
@@ -366,7 +366,7 @@ msgstr ""
 "leur intérêt (ce qui, incidemment, ouvre la voie à la <a href=\"/proprietary/"
 "proprietary-manipulation.html\">manipulation</a>)."
 
-#. type: Content of: <ul><li><ul><li>
+#. type: Content of: <div><ul><li><ul><li>
 msgid ""
 "The app interface is designed to make users stay on the site as long as "
 "possible, using <a href=\"https://uxplanet.org/ux-infinite-scrolling-vs-"
@@ -377,7 +377,7 @@ msgstr ""
 "le <a href=\"https://uxplanet.org/ux-infinite-scrolling-vs-"
 "pagination-1030d29376f1\">défilement continu</a>."
 
-#. type: Content of: <ul><li><ul><li>
+#. type: Content of: <div><ul><li><ul><li>
 msgid ""
 "The company that owns the social network tries to cover users' needs as "
 "extensively as possible, by <a href=\"https://en.wikipedia.org/wiki/"
@@ -403,7 +403,7 @@ msgstr ""
 "options adéquates, et l'appli n'arrêterait pas de les harceler pour qu'ils "
 "restent."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "A good way to minimize the risk of addiction, short of avoiding social media "
 "altogether, is to turn off notifications and leave as little as possible of "
@@ -413,7 +413,7 @@ msgstr ""
 "sociaux, à part les fuir, est d'inactiver les notifications et de laisser le "
 "moins possible de données personnelles sur leurs plateformes."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Safari occasionally <a href=\"https://blog.cryptographyengineering."
 "com/2019/10/13/dear-apple-safe-browsing-might-not-be-that-safe/\"> sends "
@@ -435,7 +435,7 @@ msgstr ""
 "gouvernement peut identifier les dissidents en Chine et à Hong Kong, ce qui "
 "met leur vie en danger."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Apple plans to require that <a href=\"https://www.macrumors.com/2019/04/08/"
 "mac-apps-notarization-macos-10-14-5/\"> all application software for MacOS "
@@ -445,7 +445,7 @@ msgstr ""
 "com/2019/04/08/mac-apps-notarization-macos-10-14-5/\">toutes les "
 "applications pour MacOS reçoivent son approbation préalable</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Offering a checking service as an option could be useful and would not be "
 "wrong.  Requiring users to get Apple's approval is tyranny. Apple says the "
@@ -463,7 +463,7 @@ msgstr ""
 "petit, ou peut-être inclure parmi les programmes malveillants toute "
 "application qui ne plaît pas à la Chine."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "For free software, this means users will need to get Apple's approval after "
 "compilation.  This amounts to a system of surveilling the use of free "
@@ -473,7 +473,7 @@ msgstr ""
 "l'approbation d'Apple après compilation. Cela équivaut à un système de "
 "surveillance de l'utilisation des programmes libres."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The Chinese Communist Party's &ldquo;Study the Great Nation&rdquo; app "
 "requires users to grant it <a href=\"https://www.ndtv.com/world-news/chinese-"
@@ -494,7 +494,7 @@ msgstr ""
 "privilèges de « super-utilisateur ». Le téléchargement et l'utilisation de "
 "cette appli sont obligatoires sur certains lieux de travail."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Note: The <a href=\"http://web-old.archive.org/web/20191015005153/https://"
 "www.washingtonpost.com/world/asia_pacific/chinese-app-on-xis-ideology-allows-"
@@ -516,7 +516,7 @@ msgstr ""
 "Apple, ce genre de surveillance avec privilèges de “super-utilisateur” ne "
 "pouvait pas fonctionner sur le système d'exploitation d'Apple »."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Apple <a href=\"https://boingboing.net/2019/10/07/apple-ios-13-1-2-for-hong-"
 "kong.html\"> censors the Taiwan flag in iOS</a> on behalf of the Chinese "
@@ -533,7 +533,7 @@ msgstr ""
 "tentatives d'affichage donnent le symbole du caractère manquant, comme si ce "
 "drapeau n'avait jamais existé."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Thus, not only does Apple use the App Store as an instrument of censorship, "
 "it also uses the iThing operating system for that purpose."

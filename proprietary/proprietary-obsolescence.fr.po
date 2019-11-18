@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-obsolescence.html\n"
-"POT-Creation-Date: 2019-09-15 15:55+0000\n"
-"PO-Revision-Date: 2019-09-18 20:56+0200\n"
+"POT-Creation-Date: 2019-11-18 14:55+0000\n"
+"PO-Revision-Date: 2019-11-18 18:14+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free>\n"
 "Language-Team: French <trad-gnu@apri.org>\n"
 "Language: fr\n"
@@ -21,60 +21,73 @@ msgstr ""
 "Obsolescence causée par le logiciel privateur - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
+"Obsolescence"
+msgstr ""
+"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
+"Obsolescence"
+
+#. type: Content of: <div><h2>
 msgid "Proprietary Obsolescence"
 msgstr "Obsolescence causée par le logiciel privateur"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/proprietary/proprietary.html\">Other examples of proprietary "
-"malware</a>"
-msgstr ""
-"<a href=\"/proprietary/proprietary.html\">Autres exemples de malveillance "
-"dans le logiciel privateur</a>"
-
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Nonfree (proprietary) software is very often malware (designed to mistreat "
 "the user). Nonfree software is controlled by its developers, which puts them "
 "in a position of power over the users; <a href=\"/philosophy/free-software-"
 "even-more-important.html\">that is the basic injustice</a>. The developers "
-"often exercise that power to the detriment of the users they ought to serve."
+"and manufacturers often exercise that power to the detriment of the users "
+"they ought to serve."
 msgstr ""
 "Le logiciel non libre (privateur) est très souvent malveillant (conçu pour "
 "maltraiter les utilisateurs). Il est contrôlé par ses développeurs, ce qui "
 "les met en position de pouvoir vis-à-vis des utilisateurs ; <a href=\"/"
 "philosophy/free-software-even-more-important.html\">c'est l'injustice de "
-"base</a>. Les développeurs exercent souvent ce pouvoir au détriment des "
-"utilisateurs qu'ils devraient servir."
+"base</a>. Les développeurs et les fabricants exercent souvent ce pouvoir au "
+"détriment des utilisateurs qu'ils devraient servir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid "This typically takes the form of malicious functionalities."
+msgstr "Cela prend habituellement la forme de fonctionnalités malveillantes."
+
+#. type: Content of: <div><div><p>
 msgid ""
-"As in any human activity, informatics has an environmental impact. When the "
-"software is proprietary, it is even more harmful to the planet because it "
-"encourages the user to change devices when they are no longer updated, or to "
-"buy back other components when they are no longer supported, or to discard a "
-"defective one that, if it was free, would be repairable."
+"One of the malicious functionalities that may be designed into proprietary "
+"software is obsolescence."
+msgstr ""
+"L'une des fonctionnalités malveillantes pouvant être intégrées au logiciel "
+"privateur est l'obsolescence."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"IT has an environmental impact, as does any human activity, but it is "
+"especially harmful to the planet when it is proprietary, because then it "
+"encourages users to change devices when they are no longer updated, or to "
+"replace components when they are no longer supported, or to discard "
+"defective hardware which would be repairable if it were free."
 msgstr ""
 "Comme toute activité humaine, l'informatique a un effet sur l'environnement. "
-"Le logiciel privateur est particulièrement nuisible pour la planète parce "
-"qu'il encourage l'utilisateur à remplacer les appareils lorsque leur "
-"logiciel n'est plus mis à jour, ou à acheter d'autres composants lorsqu'ils "
-"ne sont plus gérés, ou encore à mettre au rebut des composants défectueux "
-"qui, s'ils avaientt été libre, auraient été réparables."
+"Mais elle peut être particulièrement nuisible à la planète si elle est "
+"privatrice, parce qu'alors elle encourage l'utilisateur à remplacer les "
+"appareils lorsque leur logiciel n'est plus mis à jour, ou à acheter d'autres "
+"composants lorsqu'ils ne sont plus gérés, ou encore à mettre au rebut des "
+"composants défectueux qui, s'ils avaient été libre, auraient été réparables."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"Here are examples of proprietary software designed to break the devices with "
-"which they are associated or to make them irreparable. Users cannot avoid "
-"this constraint and are forced to &ldquo;upgrade&rdquo; the material because "
-"they have no control over the software."
+"Here are examples of proprietary software that is designed to break the "
+"devices they are associated with, or to make them irreparable. Users cannot "
+"avoid this constraint and are forced to &ldquo;upgrade&rdquo; the hardware "
+"because they have no control over the software."
 msgstr ""
 "Voici des exemples de logiciels privateurs conçus pour mettre hors d'usage "
 "les appareils avec lesquels ils sont associés ou pour les rendre "
-"irréparables. Les utilisateurs ne peuvent pas éviter cette contrainte et "
-"sont forcés de « mettre à niveau » le matériel car ils n'ont aucun contrôle "
-"sur le logiciel."
+"irréparables. Les utilisateurs ne peuvent éviter cette contrainte et sont "
+"forcés de « mettre à niveau » le matériel car ils n'ont aucun contrôle sur "
+"le logiciel."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -89,7 +102,7 @@ msgstr ""
 "Merci de fournir les URL d'une ou deux références fiables et spécifiques "
 "pour l'étayer."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "ChromeBooks are programmed for obsolescence: ChromeOS has a universal back "
 "door that is used for updates and <a href=\"https://www.theregister.co."
@@ -104,7 +117,7 @@ msgstr ""
 "fonctionner à une date prédéterminée</a>. Ensuite, il semble que "
 "l'ordinateur n'ait plus aucun suivi."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "In other words, when you stop getting screwed by the back door, you start "
 "getting screwed by the obsolescence."
@@ -112,7 +125,7 @@ msgstr ""
 "En d'autres termes, quand vous cessez de vous faire avoir par la porte "
 "dérobée, vous commencez à vous faire avoir par l'obsolescence."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The British supermarket Tesco sold tablets which were tethered to Tesco's "
 "server for reinstalling default settings.  Tesco <a href=\"https://www."
@@ -127,7 +140,7 @@ msgstr ""
 "anciens</a>, de sorte que si on essaie de réinstaller les réglages par "
 "défaut, la tablette devient inutilisable."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Apple and Samsung deliberately <a href=\"https://www.theguardian.com/"
 "technology/2018/oct/24/apple-samsung-fined-for-slowing-down-phones\">degrade "
@@ -138,7 +151,7 @@ msgstr ""
 "les performances des anciens téléphones pour forcer les utilisateurs à "
 "acheter leurs nouveaux modèles</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Apple will stop <a href=\"https://www.theguardian.com/technology/2017/jun/06/"
 "iphone-ipad-apps-games-apple-5-5c-obsolete\">fixing bugs for older model "
@@ -148,7 +161,7 @@ msgstr ""
 "jun/06/iphone-ipad-apps-games-apple-5-5c-obsolete\">fournir des correctifs "
 "pour les anciens modèles d'iTrucs</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Meanwhile, Apple stops people from fixing problems themselves; that's the "
 "nature of proprietary software."
@@ -156,7 +169,7 @@ msgstr ""
 "En même temps, Apple empêche les gens de corriger les problèmes par eux-"
 "mêmes ; c'est la nature du logiciel privateur."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Revolv is a device that managed &ldquo;smart home&rdquo; operations: "
 "switching lights, operate motion sensors, regulating temperature, etc.  Its "
@@ -171,7 +184,7 @@ msgstr ""
 "reminds-customers-ownership-isnt-what-it-used-be\">mis délibérément hors "
 "d'usage en arrêtant le serveur</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "If it were free software, users would have the ability to make it work "
 "again, differently, and then have a freedom-respecting home instead of a "
@@ -186,7 +199,7 @@ msgstr ""
 "papiers de luxe hors garantie. Exigez des ordinateurs autonomes faisant "
 "tourner des logiciels libres !"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The <a href=\"http://michaelweinberg.org/post/137045828005/free-the-cube\"> "
 "&ldquo;Cube&rdquo; 3D printer was designed with DRM</a>: it won't accept "
@@ -203,7 +216,7 @@ msgstr ""
 "deviendront inutilisables, les consommables autorisés n'étant plus "
 "disponibles."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "With a <a href=\"http://www.fsf.org/resources/hw/endorsement/aleph-objects"
 "\"> printer that gets the Respects Your Freedom</a>, this problem would not "
@@ -213,7 +226,7 @@ msgstr ""
 "\">imprimante labélisée <abbr title=\"Respects Your Freedom\">RYF</abbr> "
 "(Respecte votre liberté)</a>, il n'y a aucune chance que cela se produise."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "How pitiful that the author of that article says that there was &ldquo;"
 "nothing wrong&rdquo; with designing the device to restrict users in the "

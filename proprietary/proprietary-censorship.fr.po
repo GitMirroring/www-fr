@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-censorship.html\n"
-"POT-Creation-Date: 2019-02-09 22:56+0000\n"
-"PO-Revision-Date: 2019-02-10 16:42+0100\n"
+"POT-Creation-Date: 2019-11-18 11:26+0000\n"
+"PO-Revision-Date: 2019-11-18 18:14+0100\n"
 "Last-Translator: Félicien Pillot <felicien AT gnu.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -21,39 +21,53 @@ msgid "Proprietary Censorship - GNU Project - Free Software Foundation"
 msgstr ""
 "Censure par du logiciel privateur - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
+"Censorship"
+msgstr ""
+"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
+"Censure"
+
+#. type: Content of: <div><h2>
 msgid "Proprietary Censorship"
 msgstr "Censure par le logiciel privateur"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Nonfree (proprietary) software is very often malware (designed to mistreat "
 "the user). Nonfree software is controlled by its developers, which puts them "
 "in a position of power over the users; <a href=\"/philosophy/free-software-"
 "even-more-important.html\">that is the basic injustice</a>. The developers "
-"often exercise that power to the detriment of the users they ought to serve."
+"and manufacturers often exercise that power to the detriment of the users "
+"they ought to serve."
 msgstr ""
 "Le logiciel non libre (privateur) est très souvent malveillant (conçu pour "
 "maltraiter les utilisateurs). Il est contrôlé par ses développeurs, ce qui "
 "les met en position de pouvoir vis-à-vis des utilisateurs ; <a href=\"/"
 "philosophy/free-software-even-more-important.html\">c'est l'injustice de "
-"base</a>. Les développeurs exercent souvent ce pouvoir au détriment des "
-"utilisateurs qu'ils devraient servir."
+"base</a>. Les développeurs et les fabricants exercent souvent ce pouvoir au "
+"détriment des utilisateurs qu'ils devraient servir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
+msgid "This typically takes the form of malicious functionalities."
+msgstr "Cela prend habituellement la forme de fonctionnalités malveillantes."
+
+#. type: Content of: <div><div><p>
 msgid ""
-"Here are examples of proprietary systems that impose censorship on what "
-"their users can access. We have a <a href=\"/proprietary/proprietary-jails."
-"html\">separate list of proprietary systems that censor installation</a> of "
-"application programs (we call them &ldquo;jails&rdquo;.)"
+"One kind of malicious functionality is censorship of what users can access.  "
+"Here are examples of programs which do this.  We have a <a href=\"/"
+"proprietary/proprietary-jails.html#about-page\">separate list of proprietary "
+"systems that censor installation</a> of application programs (we call them "
+"&ldquo;jails&rdquo;)."
 msgstr ""
-"Voici des exemples de systèmes privateurs qui censurent les choses "
-"auxquelles leurs utilisateurs ont accès. Nous avons une <a href=\"/"
-"proprietary/proprietary-jails.html\">liste distincte des systèmes privateurs "
-"qui censurent l'installation</a> d'applications (on les appelle les &ldquo;"
-"prisons&rdquo;.)"
+"L'une de ces fonctionnalités malveillantes est de censurer les choses "
+"auxquelles leurs utilisateurs ont accès. Voici des exemples de programmes "
+"qui le font. Nous avons une <a href=\"/proprietary/proprietary-jails.html"
+"\">liste distincte des systèmes privateurs qui censurent l'installation</a> "
+"d'applications (on les appelle les &ldquo;prisons&rdquo;.)"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Selling products designed as platforms for a company to impose censorship "
 "ought to be forbidden by law, but it isn't."
@@ -75,11 +89,11 @@ msgstr ""
 "Merci de fournir les URL d'une ou deux références fiables et spécifiques "
 "pour l'étayer."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Apple"
 msgstr "Apple"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Apple mainly uses iOS, which is a typical jail, to impose censorship through "
 "the Apple Store. Please refer to <a href=\"/proprietary/proprietary-jails."
@@ -90,11 +104,11 @@ msgstr ""
 "consulter <a href=\"/proprietary/proprietary-jails.html#apple\">Prisons du "
 "logiciel privateur</a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Google"
 msgstr "Google"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Google <a href=\"http://www.csmonitor.com/Technology/2017/0316/Google-Family-"
 "Link-gives-parents-a-way-to-monitor-preteens-accounts\"> offers censorship "
@@ -105,7 +119,7 @@ msgstr ""
 "logiciels de censure</a>, soi-disant pour que les parents les installent "
 "dans les ordinateurs de leurs enfants."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "On Windows and MacOS, Chrome <a href=\"https://sites.google.com/a/chromium."
 "org/dev/developers/extensions-deployment-faq\"> disables extensions</a> that "
@@ -115,7 +129,7 @@ msgstr ""
 "org/dev/developers/extensions-deployment-faq\">désactive les extensions</a> "
 "qui ne sont pas hébergées dans le magasin web de Chrome."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "For example, an extension was <a href=\"https://web.archive.org/"
 "web/20170120094917/https://consumerist.com/2017/01/18/why-is-google-blocking-"
@@ -127,7 +141,7 @@ msgstr ""
 "this-ad-blocker-on-chrome/\">bannie du magasin de Chrome et désactivée de "
 "manière permanente</a> sur plus de 40 000 ordinateurs."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "<a href=\"http://www.theguardian.com/media/2016/feb/03/google-pulls-ad-"
 "blocking-app-for-samsung-phones\"> Google censored installation of Samsung's "
@@ -141,7 +155,7 @@ msgstr ""
 "bloquer les pubs revenait à « interférer » avec les sites qui en affichent "
 "(et s'en servent pour surveiller les utilisateurs)."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The ad-blocker is proprietary software, just like the program (Google Play) "
 "that Google used to deny access to install it. Using a nonfree program gives "
@@ -152,7 +166,7 @@ msgstr ""
 "Utiliser un programme non libre donne à son propriétaire du pouvoir sur "
 "vous ; c'est ce pouvoir qu'a exercé Google."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Google's censorship, unlike that of Apple, is not total: Android allows "
 "users to install apps in other ways. You can install free programs from f-"
@@ -162,11 +176,11 @@ msgstr ""
 "Android permet aux utilisateurs d'installer des applis autrement. Vous "
 "pouvez installer des programmes libres provenant de f-droid.org."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Game consoles"
 msgstr "Consoles de jeu"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The <a href=\"https://www.gamespot.com/articles/nintendos-new-3ds-charges-30-"
 "cents-to-remove-an-in/1100-6421996/\"> Nintendo 3DS</a> censors web "
