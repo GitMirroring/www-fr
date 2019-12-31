@@ -10,8 +10,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2019-12-27 06:55+0000\n"
-"PO-Revision-Date: 2019-12-27 09:59+0100\n"
+"POT-Creation-Date: 2019-12-31 12:56+0000\n"
+"PO-Revision-Date: 2019-12-31 15:14+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -168,6 +168,22 @@ msgstr ""
 "navigateur web Iceweasel-UXP</small>"
 
 #. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/distros/screenshots/parabola2020-lxde.jpg\">"
+msgstr "<a href=\"/distros/screenshots/parabola2020-lxde.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><div><div><a><img>
+msgid "&nbsp;[Screenshot of Parabola with LXDE desktop]&nbsp;"
+msgstr "&nbsp;[Capture d'écran de Parabola avec le bureau LXDE]&nbsp;"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<small><a href=\"https://www.parabola.nu\">Parabola&nbsp;2020</a> with <a "
+"href=\"https://lxde.org/\">LXDE desktop</a></small>"
+msgstr ""
+"<small><a href=\"https://www.parabola.nu\">Parabola 2020</a> avec le bureau "
+"<a href=\"https://lxde.org/\">LXDE</a></small>"
+
+#. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
 msgstr "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
 
@@ -223,6 +239,14 @@ msgstr ""
 "fenêtres i3]&nbsp;"
 
 #. type: Content of: <div><div><table><tr><td><a>
+msgid "<a href=\"/home.html?distro=parabola#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=parabola#gnu-linux\">"
+
+#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+msgid "&nbsp;[Screenshot of Parabola&nbsp;2020 with LXDE desktop]&nbsp;"
+msgstr "&nbsp;[Capture d'écran de Parabola 2020 avec le bureau LXDE]&nbsp;"
+
+#. type: Content of: <div><div><table><tr><td><a>
 msgid "<a href=\"/home.html?distro=pureos#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=pureos#gnu-linux\">"
 
@@ -241,6 +265,10 @@ msgstr "<small>Guix / GNOME3</small>"
 #. type: Content of: <div><div><table><tr><td>
 msgid "<small>Hyperbola / i3</small>"
 msgstr "<small>Hyperbola / i3</small>"
+
+#. type: Content of: <div><div><table><tr><td>
+msgid "<small>Parabola / LXDE</small>"
+msgstr "<small>Parabola / LXDE</small>"
 
 #. type: Content of: <div><div><table><tr><td>
 msgid "<small>PureOS / GNOME3</small>"
