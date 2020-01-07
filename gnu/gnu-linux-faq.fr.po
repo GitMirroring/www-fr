@@ -10,8 +10,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-linux-faq.html\n"
-"POT-Creation-Date: 2018-03-31 00:55+0000\n"
-"PO-Revision-Date: 2018-11-12 17:59+0100\n"
+"POT-Creation-Date: 2020-01-06 21:55+0000\n"
+"PO-Revision-Date: 2020-01-07 01:02+0100\n"
 "Last-Translator: Sogal <sogal AT member.fsf.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -239,6 +239,16 @@ msgstr ""
 
 #. type: Content of: <ul><li>
 msgid ""
+"<a href=\"#long4\">Stallman doesn't ask us to call him &ldquo;Richard "
+"Matthew Stallman&rdquo; every the time.  So why ask us to say &ldquo;GNU/"
+"Linux&rdquo; every time?</a>"
+msgstr ""
+"<a href=\"#long4\">Stallman ne nous demande pas de l'appeler « Richard "
+"Matthew Stallman » tout le temps. Alors pourquoi nous demander de dire « GNU/"
+"Linux » tout le temps ?</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
 "<a href=\"#justgnu\">Since Linux is a secondary contribution, would it be "
 "false to the facts to call the system simply &ldquo;GNU&rdquo;?</a>"
 msgstr ""
@@ -270,6 +280,15 @@ msgstr ""
 "d'autres programmes. Est-ce que votre argument n'implique pas que nous "
 "devrions leur donner crédit également ? (Mais cela mènerait à un nom d'une "
 "longueur absurde.)</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"#systemd\">Systemd plays an important role in the GNU/Linux system "
+"as it is today; are we obligated to call it GNU/Systemd/Linux?</a>"
+msgstr ""
+"<a href=\"#systemd\">Le Systemd joue un rôle important dans le système GNU/"
+"Linux tel qu'il est aujourd'hui ; sommes-nous obligés de l'appeler GNU/"
+"Systemd/Linux ?</a>"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -306,6 +325,14 @@ msgid ""
 msgstr ""
 "<a href=\"#whyslash\">Pourquoi écrivez-vous « GNU/Linux » au lieu de « GNU "
 "Linux » ?</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"#pronounce\">How is the name &ldquo;GNU/Linux&rdquo; pronounced?</"
+"a>"
+msgstr ""
+"<a href=\"#pronounce\">Comment prononce-t-on le nom &ldquo;GNU/Linux&rdquo; ?"
+"</a>"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -1562,6 +1589,37 @@ msgstr ""
 
 #. type: Content of: <dl><dt>
 msgid ""
+"Stallman doesn't ask us to call him &ldquo;Richard Matthew Stallman&rdquo; "
+"every the time.  So why ask us to say &ldquo;GNU/Linux&rdquo; every time? "
+"<span class=\"anchor-reference-id\">(<a href=\"#long4\">#long4</a>)</span>"
+msgstr ""
+"Stallman ne nous demande pas de l'appeler « Richard Matthew Stallman » tout "
+"le temps. Alors pourquoi nous demander de dire « GNU/Linux » tout le temps ? "
+"<span class=\"anchor-reference-id\">(<a href=\"#long4\">#long4</a>)</span>"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"Omitting &ldquo;Matthew&rdquo; does not misrepresent anything important "
+"about Stallman's nature, origin, ideas or purpose.  Omitting &ldquo;"
+"GNU&rdquo; does misrepresent those things about the GNU/Linux system."
+msgstr ""
+"Quand on omet « Matthew », on ne présente pas une une image trop déformée de "
+"la nature, de l'origine, des idées ou des objectifs de Stallman. Quand on "
+"omet « GNU », on présente une image déformée de ces aspects du système GNU/"
+"Linux."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"This is an example of a frequent way of hiding a fallacy: to bury it inside "
+"a misleading analogy.  A better analogy would be, &ldquo;Why shouldn't we "
+"call Stallman &lsquo;Torvalds&rsquo;?&rdquo;"
+msgstr ""
+"Voilà l'exemple d'une démarche fréquemment utilisée pour cacher une erreur ; "
+"on l'enterre dans une analogie trompeuse. Il y aurait une meilleure "
+"analogie : « Pourquoi ne devrions pas appeler Stallman “Torvalds” »?"
+
+#. type: Content of: <dl><dt>
+msgid ""
 "Since Linux is a secondary contribution, would it be false to the facts to "
 "call the system simply &ldquo;GNU&rdquo;? <span class=\"anchor-reference-id"
 "\">(<a href=\"#justgnu\">#justgnu</a>)</span>"
@@ -1722,6 +1780,24 @@ msgstr ""
 "reconnaissance, quelle que soit la limite choisie. Cela ne peut pas être "
 "équitable de donner toute la reconnaissance à une unique contribution "
 "secondaire (Linux) en omettant la contribution principale (GNU)."
+
+#. type: Content of: <dl><dt>
+msgid ""
+"Systemd plays an important role in the GNU/Linux system as it is today; are "
+"we obligated to call it GNU/Systemd/Linux? <span class=\"anchor-reference-id"
+"\">(<a href=\"#others\">#others</a>)</span>"
+msgstr ""
+"Le Systemd joue un rôle important dans le système GNU/Linux tel qu'il est "
+"aujourd'hui ; sommes-nous obligés de l'appeler GNU/Systemd/Linux ? <span "
+"class=\"anchor-reference-id\">(<a href=\"#others\">#others</a>)</span>"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"Systemd is a fairly important component, but not as important as the kernel "
+"(Linux), nor as important as the basis of the system as a whole (GNU)."
+msgstr ""
+"Le Systemd est assez important, mais pas aussi important que le noyau "
+"(Linux), ni aussi important que la base du système dans son ensemble (GNU)."
 
 #. type: Content of: <dl><dt>
 msgid ""
@@ -1899,6 +1975,24 @@ msgstr ""
 "Il y a d'autres moyens d'exprimer cette combinaison. Si vous pensez qu'un "
 "signe plus est plus clair, utilisez-le. En français, un tiret est clair : "
 "« GNU-Linux ». En espagnol, on dit parfois « GNU con Linux »."
+
+#. type: Content of: <dl><dt>
+msgid ""
+"How is the name &ldquo;GNU/Linux&rdquo; pronounced? <span class=\"anchor-"
+"reference-id\">(<a href=\"#pronounce\">#pronounce</a>)</span>"
+msgstr ""
+"Comment prononce-t-on le nom &ldquo;GNU/Linux&rdquo; ? <span class=\"anchor-"
+"reference-id\">(<a href=\"#pronounce\">#pronounce</a>)</span>"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"Please pronounce it as &ldquo;GNU slash Linux.&rdquo; If you don't pronounce "
+"the slash, people will think you are saying &ldquo;GNU Linux,&rdquo; which "
+"is <a href=\"#whyslash\">not a suitable name for the combination</a>."
+msgstr ""
+"Prononcez-le « GNU <cite>slash</cite> Linux ». Si vous ne prononcez pas le "
+"<cite>slash</cite>, les gens penseront que vous dites « GNU Linux », ce qui "
+"n'est <a href=\"#whyslash\">pas un nom adéquat</a> pour cette combinaison."
 
 #. type: Content of: <dl><dt>
 msgid ""
@@ -3438,10 +3532,10 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid ""
 "Copyright &copy; 2001, 2006, 2007, 2008, 2010, 2011, 2013, 2014, 2015, 2016, "
-"2017, 2018 Free Software Foundation, Inc."
+"2017, 2018, 2020 Free Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 2001, 2006, 2007, 2008, 2010, 2011, 2013, 2014, 2015, 2016, "
-"2017, 2018 Free Software Foundation, Inc."
+"2017, 2018, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
