@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: select-language.html\n"
-"POT-Creation-Date: 2020-01-01 05:26+0000\n"
-"PO-Revision-Date: 2020-01-01 07:16+0100\n"
+"POT-Creation-Date: 2020-01-28 16:56+0000\n"
+"PO-Revision-Date: 2020-01-28 16:42+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -26,406 +26,430 @@ msgstr "Choisir la langue"
 
 #. type: Content of: <p>
 msgid ""
-"Dear visitor! This page provides a means to specify your preferred language; "
-"this selection will have priority over the preferences set in your browser.  "
-"In order to do this, <a href=\"#explanation\">we set a cookie</a>; you can "
-"reset it with the first option in this list, and your browser will reset it "
-"at the end of your session."
+"This control panel sets your preferred language for the present visit to www."
+"gnu.org, and has priority over the preferences of your web browser.  This "
+"setting is stored in a <a href=\"#explanation\">session cookie</a>, and will "
+"not affect your language preferences on other websites. The Reset option "
+"will delete the cookie, thus going back to the preferences of your browser."
 msgstr ""
-"Cher visiteur, sur cette page vous pouvez spécifier votre langue préférée ; "
-"cette sélection aura priorité sur les préférences configurées dans votre "
-"navigateur. Pour cela, <a href=\"#explanation\">nous nous servons d'un "
-"cookie</a> que la première option vous permet de réinitialiser ; votre "
-"navigateur le fera de toute façon à la fin de votre session."
+"Ce panneau de contrôle vous permet d'indiquer votre langue préférée pour la "
+"durée de votre visite sur www.gnu.org ; il a priorité sur les préférences "
+"configurées dans votre navigateur. Votre sélection est enregistrée dans un "
+"<a href=\"#explanation\">cookie de session</a> et ne change pas vos "
+"préférences sur d'autres sites. Vous pouvez revenir à celles de votre "
+"navigateur en supprimant le cookie à l'aide de l'option « Réinitialiser »."
 
-#. #set var="link" value="${link_head}reset'>" 
-#. #echo encoding="none" var='link' 
+#. #set var="link" value="${link_head}Reset' id='lscp-rb'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <ul><li>
 msgid "Reset"
 msgstr "Réinitialiser"
 
-#. #set var="link" value="${link_head}en' title='English'> [en] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[en]</span>&nbsp;${link_head}en' title='English'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "English"
 msgstr "anglais"
 
-#. #set var="link" value="${link_head}af' title='Afrikaans'> [af] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[af]</span>&nbsp;${link_head}af' title='Afrikaans'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Afrikaans"
 msgstr "afrikaans"
 
-#. #set var="link" value="${link_head}ar' title='العربية'> [ar] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[ar]</span>&nbsp;${link_head}ar' title='العربية'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Arabic"
 msgstr "arabe"
 
-#. #set var="link" value="${link_head}az' title='Azərbaycanca'> [az] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[az]</span>&nbsp;${link_head}az' title='Azərbaycanca'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Azerbaijani"
 msgstr "azéri"
 
-#. #set var="link" value="${link_head}bg' title='български'> [bg] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[bg]</span>&nbsp;${link_head}bg' title='български'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Bulgarian"
 msgstr "bulgare"
 
-#. #set var="link" value="${link_head}bn' title='বাংলা'> [bn] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[bn]</span>&nbsp;${link_head}bn' title='বাংলা'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Bengali"
 msgstr "bengali"
 
-#. #set var="link" value="${link_head}bs' title='bosanski'> [bs] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[bs]</span>&nbsp;${link_head}bs' title='bosanski'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Bosnian"
 msgstr "bosniaque"
 
-#. #set var="link" value="${link_head}ca' title='català'> [ca] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[ca]</span>&nbsp;${link_head}ca' title='català'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Catalan"
 msgstr "catalan"
 
-#. #set var="link" value="${link_head}cs' title='Česky'> [cs] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[cs]</span>&nbsp;${link_head}cs' title='Česky'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Czech"
 msgstr "tchèque"
 
-#. #set var="link" value="${link_head}da' title='dansk'> [da] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[da]</span>&nbsp;${link_head}da' title='dansk'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Danish"
 msgstr "danois"
 
-#. #set var="link" value="${link_head}de' title='Deutsch'> [de] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[de]</span>&nbsp;${link_head}de' title='Deutsch'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "German"
 msgstr "allemand"
 
-#. #set var="link" value="${link_head}el' title='ελληνικά'> [el] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[el]</span>&nbsp;${link_head}el' title='ελληνικά'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Greek"
 msgstr "grec"
 
-#. #set var="link" value="${link_head}eo' title='Esperanto'> [eo] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[eo]</span>&nbsp;${link_head}eo' title='Esperanto'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Esperanto"
 msgstr "espéranto"
 
-#. #set var="link" value="${link_head}es' title='español'> [es] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[es]</span>&nbsp;${link_head}es' title='español'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Spanish"
 msgstr "espagnol"
 
-#. #set var="link" value="${link_head}fa' title='فارسی'> [fa] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[fa]</span>&nbsp;${link_head}fa' title='فارسی'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Persian"
 msgstr "persan"
 
-#. #set var="link" value="${link_head}fi' title='suomi'> [fi] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[fi]</span>&nbsp;${link_head}fi' title='suomi'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Finnish"
 msgstr "finnois"
 
-#. #set var="link" value="${link_head}fr' title='français'> [fr] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[fr]</span>&nbsp;${link_head}fr' title='français'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "French"
 msgstr "français"
 
-#. #set var="link" value="${link_head}gl' title='galego'> [gl] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[gl]</span>&nbsp;${link_head}gl' title='galego'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Galician"
 msgstr "galicien"
 
-#. #set var="link" value="${link_head}he' title='עברית'> [he] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[he]</span>&nbsp;${link_head}he' title='עברית'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Hebrew"
 msgstr "hébreu"
 
-#. #set var="link" value="${link_head}hr' title='hrvatski'> [hr] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[hr]</span>&nbsp;${link_head}hr' title='hrvatski'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Croatian"
 msgstr "croate"
 
-#. #set var="link" value="${link_head}hu' title='magyar'> [hu] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[hu]</span>&nbsp;${link_head}hu' title='magyar'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Hungarian"
 msgstr "hongrois"
 
-#. #set var="link" value="${link_head}id' title='Bahasa Indonesia'> [id] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[id]</span>&nbsp;${link_head}id' title='Bahasa Indonesia'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Indonesian"
 msgstr "indonésien"
 
-#. #set var="link" value="${link_head}it' title='italiano'> [it] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[it]</span>&nbsp;${link_head}it' title='italiano'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Italian"
 msgstr "italien"
 
-#. #set var="link" value="${link_head}ja' title='日本語'> [ja] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[ja]</span>&nbsp;${link_head}ja' title='日本語'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Japanese"
 msgstr "japonais"
 
-#. #set var="link" value="${link_head}kn' title='ಕನ್ನಡ'> [kn] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[kn]</span>&nbsp;${link_head}kn' title='ಕನ್ನಡ'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Kannada"
 msgstr "kannada"
 
-#. #set var="link" value="${link_head}ko' title='한국어'> [ko] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[ko]</span>&nbsp;${link_head}ko' title='한국어'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Korean"
 msgstr "coréen"
 
-#. #set var="link" value="${link_head}lt' title='lietuvių'> [lt] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[lt]</span>&nbsp;${link_head}lt' title='lietuvių'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Lithuanian"
 msgstr "lituanien"
 
-#. #set var="link" value="${link_head}mk' title='македонски'> [mk] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[mk]</span>&nbsp;${link_head}mk' title='македонски'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Macedonian"
 msgstr "macédonien"
 
-#. #set var="link" value="${link_head}ml' title='മലയാളം'> [ml] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[ml]</span>&nbsp;${link_head}ml' title='മലയാളം'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Malayalam"
 msgstr "malayalam"
 
-#. #set var="link" value="${link_head}nb' title='norsk (bokmål)'> [nb] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[nb]</span>&nbsp;${link_head}nb' title='norsk (bokmål)'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Norwegian (Bokmål)"
 msgstr "norvégien (bokmål)"
 
-#. #set var="link" value="${link_head}nl' title='Nederlands'> [nl] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[nl]</span>&nbsp;${link_head}nl' title='Nederlands'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Dutch"
 msgstr "néerlandais"
 
-#. #set var="link" value="${link_head}nn' title='norsk (nynorsk)'> [nn] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[nn]</span>&nbsp;${link_head}nn' title='norsk (nynorsk)'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Norwegian (Nynorsk)"
 msgstr "norvégien (nynorsk)"
 
-#. #set var="link" value="${link_head}pl' title='polski'> [pl] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[pl]</span>&nbsp;${link_head}pl' title='polski'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Polish"
 msgstr "polonais"
 
-#. #set var="link" value="${link_head}pt-br' title='português do Brasil'> [pt-br] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[pt-br]</span>&nbsp;${link_head}pt-br' title='português do Brasil'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Brazilian Portuguese"
 msgstr "portugais du Brésil"
 
-#. #set var="link" value="${link_head}ro' title='română'> [ro] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[ro]</span>&nbsp;${link_head}ro' title='română'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Romanian"
 msgstr "roumain"
 
-#. #set var="link" value="${link_head}ru' title='русский'> [ru] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[ru]</span>&nbsp;${link_head}ru' title='русский'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Russian"
 msgstr "russe"
 
-#. #set var="link" value="${link_head}sk' title='slovenčina'> [sk] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[sk]</span>&nbsp;${link_head}sk' title='slovenčina'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Slovak"
 msgstr "slovaque"
 
-#. #set var="link" value="${link_head}sl' title='slovenščina'> [sl] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[sl]</span>&nbsp;${link_head}sl' title='slovenščina'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Slovenian"
 msgstr "slovène"
 
-#. #set var="link" value="${link_head}sq' title='Shqip'> [sq] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[sq]</span>&nbsp;${link_head}sq' title='Shqip'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Albanian"
 msgstr "albanais"
 
-#. #set var="link" value="${link_head}sr' title='српски'> [sr] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[sr]</span>&nbsp;${link_head}sr' title='српски'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Serbian"
 msgstr "serbe"
 
-#. #set var="link" value="${link_head}sv' title='svenska'> [sv] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[sv]</span>&nbsp;${link_head}sv' title='svenska'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Swedish"
 msgstr "suédois"
 
-#. #set var="link" value="${link_head}ta' title='தமிழ்'> [ta] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[ta]</span>&nbsp;${link_head}ta' title='தமிழ்'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Tamil"
 msgstr "tamoul"
 
-#. #set var="link" value="${link_head}tl' title='Tagalog'> [tl] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[tl]</span>&nbsp;${link_head}tl' title='Tagalog'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Tagalog"
 msgstr "tagalog"
 
-#. #set var="link" value="${link_head}tr' title='Türkçe'> [tr] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[tr]</span>&nbsp;${link_head}tr' title='Türkçe'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Turkish"
 msgstr "turc"
 
-#. #set var="link" value="${link_head}uk' title='українська'> [uk] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[uk]</span>&nbsp;${link_head}uk' title='українська'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Ukrainian"
 msgstr "ukrainien"
 
-#. #set var="link" value="${link_head}uz' title='Oʻzbekcha'> [uz] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[uz]</span>&nbsp;${link_head}uz' title='Oʻzbekcha'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Uzbek"
 msgstr "ouzbek"
 
-#. #set var="link" value="${link_head}zh-cn' title='简体中文'> [zh-cn] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[zh-cn]</span>&nbsp;${link_head}zh-cn' title='简体中文'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Chinese (Simplified)"
-msgstr "chinois (simplifié)"
+msgstr "chinois simplifié"
 
-#. #set var="link" value="${link_head}zh-tw' title='繁體中文'> [zh-tw] " 
-#. #echo encoding="none" var='link' 
+#. #set var="link"
+#.   value="<span class='lang-abbr'>[zh-tw]</span>&nbsp;${link_head}zh-tw' title='繁體中文'>" 
+#. #echo encoding="none" var='link'
 #. type: Content of: <li>
 msgid "Chinese (Traditional)"
-msgstr "chinois (traditionnel)"
+msgstr "chinois traditionnel"
 
 #. type: Content of: <h3>
-msgid "How do you know my native language? Are you spying on us?"
-msgstr ""
-"Comment connaissez-vous ma langue maternelle. Est-ce que vous nous espionnez?"
+msgid "How do you know my native language?"
+msgstr "Comment connaissez-vous ma langue maternelle ?"
 
 #. type: Content of: <p>
 msgid ""
-"As you browse the Web, your browser sends a header with the request of any "
-"document that indicates your language preference.  This is usually something "
-"you can configure in your browser settings.  If you downloaded a browser "
-"localized in Danish, it probably came preconfigured to send <code>Accept-"
-"Language: da</code>.  Our servers are configured to respond to this header "
-"by providing the page in the requested language, if the translation exists; "
-"otherwise, the original English page is sent."
+"With each web resource requested, your browser sends an HTTP header that "
+"indicates your language preference as configured by you or by your system "
+"administrator. Our server reacts to this header by providing all web pages "
+"in the requested language, if an appropriate translation exists; otherwise, "
+"the original English page is served."
 msgstr ""
-"Alors que vous naviguez sur le web, votre navigateur envoie avec chaque "
-"requête un en-tête qui indique votre langue préférée. C'est en général "
-"quelque chose que vous pouvez configurer dans les préférences du navigateur. "
-"Si vous avez téléchargé un navigateur localisé en danois, il sera "
-"probablement préconfiguré pour envoyer <code>Accept-Language: da</code>. Nos "
-"serveurs sont configurés pour répondre à cet en-tête en envoyant la page "
-"dans la langue demandée, si la traduction existe ; dans le cas contraire, "
-"ils envoient l'original en anglais."
+"Chaque fois que vous demandez à votre navigateur d'aller chercher une "
+"ressource du web, il ajoute à sa requête un en-tête indiquant la langue "
+"préférée que vous (ou votre adminitrateur système) avez choisie au cours de "
+"sa configuration. Notre serveur est réglé pour répondre à cet en-tête en "
+"envoyant la page dans la langue demandée, si la traduction existe ; dans le "
+"cas contraire, il envoie l'original en anglais."
 
 #. type: Content of: <p>
 msgid ""
-"We recently added a &ldquo;Set Language&rdquo; link on the top of each page "
-"to allow you to override that setting and &ldquo;fix&rdquo; a certain "
-"language different from your browser's default setting.  For example, you "
-"could choose <em>English</em> to browse gnu.org even if your browser is set "
-"to Danish.  This feature uses a cookie."
+"This control panel can be used to override this preference and impose any "
+"arbitrary language over your browser's default setting. For example, you "
+"could choose <em>English</em> to browse www.gnu.org even if your browser is "
+"set to Danish. This feature uses a technical cookie called &ldquo;session "
+"cookie.&rdquo;"
 msgstr ""
-"Nous avons récemment ajouté en haut de chaque page un lien « Spécifier la "
-"langue », pour vous permettre de neutraliser ce réglage et « fixer » une "
+"Le panneau de contrôle ci-dessus peut être utilisé pour neutraliser ce "
+"réglage et remplacer la langue configurée dans votre navigateur par une "
 "langue différente. Par exemple, vous pourriez choisir <em>anglais</em> pour "
-"naviguer sur gnu.org, même si la langue préférée de votre navigateur est le "
-"danois. Cette fonctionnalité utilise un cookie."
-
-#. type: Content of: <p>
-msgid ""
-"If you're concerned about your privacy on the Web you can try the Tor "
-"Browser Bundle available from <a href=\"https://torproject.org/\" rel="
-"\"nofollow\">https://torproject.org/</a>.  Among many other improvements "
-"over generic browsers with regard to privacy, the TBB comes configured to "
-"appear to be like a Windows-based, US-English browser."
-msgstr ""
-"Si vous vous souciez de votre vie privée sur le web, vous pouvez essayer le "
-"Navigateur Tor « tout en un » (<cite>Tor Browser Bundle</cite> ou TBB), "
-"disponible sur <a href=\"https://torproject.org/\" rel=\"nofollow\">https://"
-"torproject.org/</a>. Beaucoup d'autres améliorations ayant trait à la vie "
-"privée le distinguent des navigateurs courants. En particulier, sa "
-"configuration d'origine le fait passer pour un navigateur en langue anglaise "
-"installé sur Windows."
+"naviguer sur www.gnu.org, même si la langue préférée de votre navigateur est "
+"le danois. Cette fonctionnalité utilise un cookie technique appelé « cookie "
+"de session »."
 
 #. type: Content of: <p>
 msgid ""
 "You're right that the language setting of your browser can be used by some "
-"sites or third-parties to identify your specific browser and target you for "
-"advertising.  Tor provides the safest way we know to avoid such targeting.  "
-"Nevertheless, the GNU project does not use this nor any other targeting "
-"methods, not even cookies (exception made of the optional language override "
-"mentioned above): <strong>we simply care for our users and have no interest "
-"in spying on you</strong>.  The <code>Accept-Language</code> header is a "
-"common way to localize contents according to user preferences.  You can <a "
-"href=\"http://www.w3.org/International/questions/qa-accept-lang-locales\" "
-"rel=\"nofollow\">learn more about it from the W3C</a>."
+"sites or third parties to identify your specific browser and target you for "
+"advertising.  <a href=\"https://torproject.org/\" rel=\"nofollow\">Tor "
+"Browser</a> provides the safest way we know to avoid such targeting.  "
+"Nevertheless, the GNU project only uses technical cookies, and only to make "
+"browsing easier for you. We have no interest in collecting data about your "
+"browsing sessions."
 msgstr ""
 "Vous avez raison, la langue configurée dans votre navigateur peut être "
 "utilisée par certains sites ou par des tiers pour identifier le navigateur "
 "que vous utilisez et vous cibler dans un but publicitaire. À notre "
-"connaissance, Tor fournit le moyen le plus sûr d'éviter ce ciblage. "
-"Cependant, le projet GNU n'utilise pas cette méthode de ciblage ni aucune "
-"autre, pas même les cookies (sauf pour la neutralisation optionnelle de la "
-"langue par défaut mentionnée plus haut) : <strong>Simplement, nous "
-"respectons nos visiteurs et n'avons aucun intérêt à vous cibler</strong>. "
-"L'en-tête <code>Accept-Language</code> est utilisé couramment pour localiser "
-"le contenu d'un site selon les préférences du visiteur. Vous pouvez <a href="
-"\"http://www.w3.org/International/questions/qa-accept-lang-locales\" rel="
-"\"nofollow\">en apprendre plus à ce sujet sur le site du W3C</a>."
+"connaissance, <a href=\"https://torproject.org/\" rel=\"nofollow\">Tor</a> "
+"fournit le moyen le plus sûr d'éviter ce ciblage. Cependant, le projet GNU "
+"n'utilise que des cookies techniques, et ceci dans le seul but de faciliter "
+"votre navigation. Nous n'avons aucun intérêt à rassembler des données sur "
+"votre navigation."
 
 #. type: Content of: <p>
 msgid ""
-"We also do not track IP addresses of our visitors, and the site itself is "
-"mostly made of static pages, and does not use Javascript.  Rest assured that "
-"the GNU project and the FSF are very careful about <a href=\"https://www.fsf."
-"org/about/free-software-foundation-privacy-policy\">users' privacy</a>.  If "
-"you have any doubt, feel free to <a href=\"/contact/\">contact us</a>."
+"We also do not track the IP addresses of our visitors and the site itself is "
+"mostly made of static pages which can be used with JavaScript limited or "
+"disabled. Rest assured that the GNU project and the FSF are very careful "
+"about <a href=\"https://www.fsf.org/about/free-software-foundation-privacy-"
+"policy\"> users' privacy</a>.  If you have any doubt, feel free to <a href="
+"\"/contact/\">contact us</a>."
 msgstr ""
-"Nous ne traçons pas non plus les adresses IP de nos visiteurs. Le site lui-"
-"même comprend essentiellement des pages statiques et n'utilise pas "
-"JavaScript. Soyez certain que le projet GNU et la FSF font très attention à "
-"<a href=\"https://www.fsf.org/about/free-software-foundation-privacy-policy"
-"\">la vie privée de leurs utilisateurs</a>. Si vous avez le moindre doute, "
-"n'hésitez pas à <a href=\"/contact/\">nous contacter</a>."
+"Nous ne suivons pas non plus nos visiteurs à la trace à l'aide de leur "
+"adresse IP, et le site lui-même comprend essentiellement des pages statiques "
+"utilisables en désactivant JavaScript totalement ou partiellement. Soyez "
+"certain que le projet GNU et la FSF font très attention à <a href=\"https://"
+"www.fsf.org/about/free-software-foundation-privacy-policy\">la vie privée de "
+"leurs utilisateurs</a>. Si vous avez le moindre doute, n'hésitez pas à <a "
+"href=\"/contact/\">nous contacter</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
