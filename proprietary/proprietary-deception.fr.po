@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-deception.html\n"
-"POT-Creation-Date: 2019-11-23 15:25+0000\n"
-"PO-Revision-Date: 2019-11-23 17:20+0100\n"
+"POT-Creation-Date: 2020-02-15 14:55+0000\n"
+"PO-Revision-Date: 2020-02-15 17:39+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: fr <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -77,6 +77,32 @@ msgstr ""
 "webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> pour nous en informer. "
 "Merci de fournir les URL d'une ou deux références fiables et spécifiques "
 "pour l'étayer."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"Many Android apps fool their users by asking them to decide what permissions "
+"to give the program, and then <a href=\"https://nakedsecurity.sophos."
+"com/2019/07/10/android-apps-sidestepping-permissions-to-access-sensitive-"
+"data/\"> bypassing these permissions</a>."
+msgstr ""
+"Beaucoup d'applis Android dupent leurs utilisateurs en leur demandant de "
+"décider quelles permissions doit avoir le logiciel, et ensuite <a href="
+"\"https://nakedsecurity.sophos.com/2019/07/10/android-apps-sidestepping-"
+"permissions-to-access-sensitive-data/\">ne tiennent pas compte de ces "
+"permissions</a>."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"The Android system is supposed to prevent data leaks by running apps in "
+"isolated sandboxes, but developers have found ways to access the data by "
+"other means, and there is nothing the user can do to stop them from doing "
+"so, since both the system and the apps are nonfree."
+msgstr ""
+"Le système Android est censé éviter les fuites de données en exécutant les "
+"applis dans des « bacs à sable » isolés, mais les développeurs ont trouvé "
+"moyen d'accéder aux données par d'autres moyens. Il n'y a rien que "
+"l'utilisateur puisse faire pour les en empêcher, puisque le système et "
+"l'appli sont tous deux privateurs."
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
@@ -259,8 +285,9 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2015, 2016, 2017, 2018, 2019 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2015-2019 Free Software Foundation, Inc."
+"Copyright &copy; 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
+"Foundation, Inc."
+msgstr "Copyright &copy; 2015-2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
