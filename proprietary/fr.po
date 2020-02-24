@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: proprietary/\n"
 "POT-Creation-Date: 2019-11-18 11:26+0000\n"
-"PO-Revision-Date: 2020-02-17 11:03+0100\n"
+"PO-Revision-Date: 2020-02-24 21:30+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -2125,6 +2125,33 @@ msgstr "Malveillance de divers appareils"
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
+"Internet-tethered Amazon Ring had a security vulnerability that enabled "
+"attackers to <a href=\"https://www.commondreams.org/newswire/2019/11/07/"
+"amazons-ring-doorbells-leaks-customers-wi-fi-username-and-password\"> access "
+"the user's wifi password</a>, and snoop on the household through connected "
+"surveillance devices."
+msgstr ""
+"Ring, la sonnette connectée d'Amazon, avait une faille de sécurité qui "
+"permettait à des attaquants d'<a href=\"https://www.commondreams.org/"
+"newswire/2019/11/07/amazons-ring-doorbells-leaks-customers-wi-fi-username-"
+"and-password\">accéder au mot de passe wifi de l'utilisateur</a> et "
+"d'espionner la maisonnée au travers d'appareils de surveillance connectés."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"Knowledge of the wifi password would not be sufficient to carry out any "
+"significant surveillance if the devices implemented proper security, "
+"including encryption. But many devices with proprietary software lack this. "
+"Of course, they are also used by their manufacturers for snooping."
+msgstr ""
+"La connaissance du mot de passe wifi ne serait pas suffisante pour espionner "
+"de manière significative si ces appareils étaient munis de dispositifs de "
+"sécurité adéquats comme le chiffrement. Mais de nombreux appareils "
+"fonctionnant avec du logiciel privateur en sont dépourvus. Bien entendu, ils "
+"sont aussi utilisés par leur fabricants pour faire des indiscrétions."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
 "The Jibo robot toys were tethered to the manufacturer's server, and <a href="
 "\"https://www.apnews.com/99c9ec8ebad242ca88178e22c7642648\"> the company "
 "made them all cease to work</a> by shutting down that server."
@@ -3589,8 +3616,9 @@ msgstr ""
 "des tyrans</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2016, 2017, 2018, 2019 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2016-2019 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2016, 2017, 2018, 2019, 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2016-2020 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Malware In Cars - GNU Project - Free Software Foundation"
@@ -4676,11 +4704,6 @@ msgstr ""
 "grand nombre correspondent à des activités n'ayant rien à voir avec la "
 "triche."
 
-#. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2016, 2017, 2018, 2019, 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2016-2020 Free Software Foundation, Inc."
-
 #. type: Content of: <title>
 msgid "Google's Software Is Malware - GNU Project - Free Software Foundation"
 msgstr ""
@@ -5062,7 +5085,7 @@ msgstr ""
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
-"Google tracks the movements of Android phones and iPhones running Goggle "
+"Google tracks the movements of Android phones and iPhones running Google "
 "apps, and sometimes <a href=\"https://www.nytimes.com/interactive/2019/04/13/"
 "us/google-location-tracking-police.html\"> saves the data for years</a>."
 msgstr ""
@@ -9857,9 +9880,9 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2013, 2015, 2016, 2017, 2018, 2019 Free Software "
+"Copyright &copy; 2013, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
 "Foundation, Inc."
-msgstr "Copyright &copy; 2013, 2015-2019 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2013, 2015-2020 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Proprietary Interference - GNU Project - Free Software Foundation"
@@ -10569,12 +10592,6 @@ msgstr ""
 "continue-to-bundle--crapware--with-java.html\">Oracle a perpétué cette "
 "pratique</a>."
 
-#. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2013, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
-"Foundation, Inc."
-msgstr "Copyright &copy; 2013, 2015-2020 Free Software Foundation, Inc."
-
 #. type: Content of: <title>
 msgid "Proprietary Subscriptions - GNU Project - Free Software Foundation"
 msgstr "Abonnements privateurs - Projet GNU - Free Software Foundation"
@@ -10614,6 +10631,10 @@ msgid ""
 msgstr ""
 "Vous trouverez ci-dessous des exemples d'abonnements à des logiciels qui ont "
 "fait du tort directement aux utilisateurs."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2016, 2017, 2018, 2019 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2016-2019 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Proprietary Surveillance - GNU Project - Free Software Foundation"
@@ -11798,3 +11819,8 @@ msgid ""
 "<a href=\"/proprietary/malware-microsoft.html#main-heading\">Microsoft</a>"
 msgstr ""
 "<a href=\"/proprietary/malware-microsoft.html#main-heading\">Microsoft</a>"
+
+#~ msgid ""
+#~ "Copyright &copy; 2013, 2015, 2016, 2017, 2018, 2019 Free Software "
+#~ "Foundation, Inc."
+#~ msgstr "Copyright &copy; 2013, 2015-2019 Free Software Foundation, Inc."
