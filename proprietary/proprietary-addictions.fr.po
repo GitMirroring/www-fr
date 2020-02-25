@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-addictions.html\n"
-"POT-Creation-Date: 2020-02-15 17:25+0000\n"
-"PO-Revision-Date: 2020-02-16 11:18+0100\n"
+"POT-Creation-Date: 2020-02-25 13:55+0000\n"
+"PO-Revision-Date: 2020-02-25 15:16+0100\n"
 "Last-Translator: Tom Mounet <tom.m.mounet AT gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -79,26 +79,29 @@ msgstr ""
 msgid "How software is made addictive"
 msgstr "Comment rendre un logiciel addictif"
 
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"Many <span>games</span> are designed to keep gamers compulsively "
-"playing&mdash;and renewing their subscription. To achieve this result, "
-"developers use <a href=\"http://www.cracked.com/article_18461_5-creepy-ways-"
-"video-games-are-trying-to-get-you-addicted.html\"> techniques that derive "
-"from behavioral and brain research</a>:"
-msgstr ""
-"Pas mal de <span>jeux</span> sont conçus pour que leurs utilisateurs "
-"deviennent des joueurs compulsifs – et continuent à payer leur abonnement. "
-"Pour obtenir ce résultat, les développeurs appliquent des <a href=\"http://"
-"www.cracked.com/article_18461_5-creepy-ways-video-games-are-trying-to-get-"
-"you-addicted.html\">techniques issues de recherches comportementales et sur "
-"le cerveau</a> :"
+#. type: Content of: <div><h4>
+msgid "Games"
+msgstr "Jeux"
 
-#. type: Content of: <div><ul><li><dl><dt>
+#. type: Content of: <div><p>
+msgid ""
+"Many games are designed to keep gamers compulsively playing&mdash;and "
+"renewing their subscription. To achieve this result, developers use <a href="
+"\"http://www.cracked.com/article_18461_5-creepy-ways-video-games-are-trying-"
+"to-get-you-addicted.html\"> techniques that derive from behavioral and brain "
+"research</a>:"
+msgstr ""
+"Pas mal de jeux sont conçus pour que leurs utilisateurs deviennent des "
+"joueurs compulsifs – et continuent à payer leur abonnement. Pour obtenir ce "
+"résultat, les développeurs appliquent des <a href=\"http://www.cracked.com/"
+"article_18461_5-creepy-ways-video-games-are-trying-to-get-you-addicted.html"
+"\">techniques issues de recherches comportementales et sur le cerveau</a> :"
+
+#. type: Content of: <div><dl><dt>
 msgid "The Skinner Box"
 msgstr "La boîte de Skinner"
 
-#. type: Content of: <div><ul><li><dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "An environment in which the user is trained to &ldquo;push the lever&ldquo;, "
 "i.e. do a certain action over and over again in order to get a reward."
@@ -107,11 +110,11 @@ msgstr ""
 "levier », c'est-à-dire à faire une action donnée de manière répétitive afin "
 "d'obtenir une récompense."
 
-#. type: Content of: <div><ul><li><dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Virtual food pellets"
 msgstr "Croquettes virtuelles"
 
-#. type: Content of: <div><ul><li><dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "Items that have nothing to do with the game itself, but are valuable to "
 "gamers because of the work required to obtain them (e.g., EverQuest); some "
@@ -122,11 +125,11 @@ msgstr ""
 "se les procurer (exemple : EverQuest) ; pour certaines personnes, leur "
 "collection devient une fin en soi."
 
-#. type: Content of: <div><ul><li><dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Random rewards"
 msgstr "Récompenses aléatoires"
 
-#. type: Content of: <div><ul><li><dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "They turn the game into the equivalent of a slot machine (e.g., World of "
 "Warcraft, ZT Online)."
@@ -134,11 +137,11 @@ msgstr ""
 "Elles transforment le jeu en une sorte de machine à sous (exemples : World "
 "of Warcraft, ZT Online)."
 
-#. type: Content of: <div><ul><li><dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Elaborate cycles"
 msgstr "Cycles élaborés"
 
-#. type: Content of: <div><ul><li><dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "Gamers' behavior can be &ldquo;shaped&rdquo; by making cycles (progress from "
 "one level to the next) slower and slower, designing complex tasks that are "
@@ -152,11 +155,11 @@ msgstr ""
 "Warcraft), ou au contraire en les fragmentant pour éviter la frustration "
 "(exemple : New Super Mario Bros.Wii)."
 
-#. type: Content of: <div><ul><li><dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Decay of game assets"
 msgstr "Détérioration des actifs du jeu"
 
-#. type: Content of: <div><ul><li><dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "This makes it necessary for a gamer to keep playing, without vacations, "
 "simply to avoid losing what they have earned so far (e.g., Farmville, Ultima "
@@ -166,7 +169,7 @@ msgstr ""
 "simplement pour éviter de perdre ce qu'ils ont gagné jusque-là (exemples : "
 "Farmville, Ultima line, Animal Crossing)."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><p>
 msgid ""
 "Games such as World of Warcraft, which are considered very addictive, use "
 "several of these techniques."
@@ -174,7 +177,11 @@ msgstr ""
 "Des jeux considérés comme très addictifs, comme World of Warcraft, utilisent "
 "plusieurs de ces techniques."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><p>
+msgid "There are even more elaborate ways to get users addicted to a game."
+msgstr "Il y a des moyens encore plus élaborés de rendre les jeux addictifs."
+
+#. type: Content of: <div><ul><li>
 msgid ""
 "&ldquo;Loot boxes&rdquo; are a direct application of the random reward "
 "mechanism, and their addictiveness is enhanced by seductive animation. They "
@@ -187,7 +194,7 @@ msgstr ""
 "the-addictive-psychology-and-seductive-art-of-loot-boxes/\">très semblables "
 "à des jeux en ligne</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The developers of gratis mobile games apply the techniques described above "
 "to <a href=\"https://www.psychguides.com/interact/the-psychology-of-freemium/"
@@ -207,7 +214,7 @@ msgstr ""
 "développeurs étudient donc soigneusement le comportement de millions "
 "d'utilisateurs pour augmenter le pouvoir addictif de leurs jeux."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><p>
 msgid ""
 "<small>(Unfortunately, the last two articles use &ldquo;free&rdquo; to mean "
 "&ldquo;zero price.&rdquo; We recommend saying &ldquo;gratis&rdquo; instead.)"
@@ -217,7 +224,7 @@ msgstr ""
 "<cite>free</cite> dans le sens de « gratuit ». Nous vous recommandons de "
 "dire plutôt <cite>gratis</cite>.)</small>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><p>
 msgid ""
 "However, the addictiveness of a game is only one of the determinants of "
 "addiction. Equally important are the psychological make-up and life "
@@ -231,7 +238,7 @@ msgstr ""
 "dépendances, est un moyen de s'évader mentalement d'une vie peu gratifiante. "
 "La triste vérité, c'est qu'à long terme elle conduit à une vie encore pire."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><p>
 msgid ""
 "<small><em>Note:</em>&nbsp; We are not gamers. If you think we have "
 "misunderstood some point, or have suggestions for making this text clearer "
@@ -243,22 +250,26 @@ msgstr ""
 "texte plus clair, n'hésitez pas à écrire à &lt;<a href=\"mailto:"
 "webmasters@gnu.org\">webmasters@gnu.org</a>&gt;.</small>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><h4>
+msgid "Online gambling"
+msgstr "Paris en ligne"
+
+#. type: Content of: <div><p>
 msgid ""
-"<span>On-line gambling</span> services (and their nonfree client programs) "
-"are <a href=\"https://www.theguardian.com/society/2019/feb/22/gambling-apps-"
-"more-dangerous-than-fobts-study-finds\"> designed to be addictive</a>, much "
-"like on-line games. They achieve this with various different "
-"malfunctionalities, often in combination."
+"Online gambling services (and their nonfree client programs) are <a href="
+"\"https://www.theguardian.com/society/2019/feb/22/gambling-apps-more-"
+"dangerous-than-fobts-study-finds\"> designed to be addictive</a>, much like "
+"on-line games. They achieve this with various different malfunctionalities, "
+"often in combination."
 msgstr ""
-"Les services de <span>paris en ligne</span> (ainsi que leurs programmes "
-"clients non libres) sont <a href=\"https://www.theguardian.com/society/2019/"
-"feb/22/gambling-apps-more-dangerous-than-fobts-study-finds\">conçus pour "
-"être addictifs</a>, un peu comme les jeux vidéo en ligne. Ils y parviennent "
-"au moyen de fonctionnalités malveillantes variées, souvent combinées entre "
+"Les services de paris en ligne (ainsi que leurs programmes clients non "
+"libres) sont <a href=\"https://www.theguardian.com/society/2019/feb/22/"
+"gambling-apps-more-dangerous-than-fobts-study-finds\">conçus pour être "
+"addictifs</a>, un peu comme les jeux vidéo en ligne. Ils y parviennent au "
+"moyen de fonctionnalités malveillantes variées, souvent combinées entre "
 "elles."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><p>
 msgid ""
 "Many of these malfunctionalities are implemented by the server and the "
 "client program together. In some cases, there is no honest way that the "
@@ -274,7 +285,7 @@ msgstr ""
 "moyen pour le programme client de faire barrage est de prétendre qu'il n'y a "
 "pas eu gain ; mais les utilisateurs ne voudraient pas de cette modification."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><p>
 msgid ""
 "However, modification of the client program could cover up some addictive "
 "behaviors without losing the user anything."
@@ -282,30 +293,33 @@ msgstr ""
 "Cependant, la modification du programme client pourrait masquer certains "
 "comportements addictifs sans rien faire perdre à l'utilisateur."
 
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"Some <span>social networking</span> apps are <a href=\"https://www."
-"jeffbullas.com/facebook-creates-addiction/\"> designed to get users "
-"addicted</a>. These try to merge into your daily routine by exploiting "
-"social pressure and your natural desire for socialization, converting "
-"habitual gestures into thorough addiction. As already noted for games, "
-"addictiveness is essentially based on random rewards. In the present case, "
-"the rewards are messages from friends and followers, &ldquo;likes,&rdquo; "
-"news, interesting videos, etc. The software is designed to trigger users' "
-"desire for these rewards, and keep this desire alive as long as possible."
-msgstr ""
-"Certaines applis pour <span>réseaux sociaux</span> sont <a href=\"https://"
-"www.jeffbullas.com/facebook-creates-addiction/\">conçues pour être "
-"addictives</a>. Elles tentent de s'immiscer dans votre vie de tous les jours "
-"en exploitant la pression sociale et votre désir naturel de socialisation, "
-"afin de convertir des gestes habituels en dépendance caractérisée. Comme "
-"dans le cas des jeux, leur pouvoir addictif est essentiellement basé sur des "
-"récompenses aléatoires. Il s'agit ici de messages d'amis ou followers, de "
-"likes, de nouvelles et vidéos intéressantes, etc. Le logiciel est conçu pour "
-"susciter un désir pour ces récompenses et le garder vivace le plus longtemps "
-"possible."
+#. type: Content of: <div><h4>
+msgid "Social networks"
+msgstr "Réseaux sociaux"
 
-#. type: Content of: <div><ul><li><ul><li>
+#. type: Content of: <div><p>
+msgid ""
+"Some social networking apps are <a href=\"https://www.jeffbullas.com/"
+"facebook-creates-addiction/\"> designed to get users addicted</a>. These try "
+"to merge into your daily routine by exploiting social pressure and your "
+"natural desire for socialization, converting habitual gestures into thorough "
+"addiction. As already noted for games, addictiveness is essentially based on "
+"random rewards. In the present case, the rewards are messages from friends "
+"and followers, &ldquo;likes,&rdquo; news, interesting videos, etc. The "
+"software is designed to trigger users' desire for these rewards, and keep "
+"this desire alive as long as possible."
+msgstr ""
+"Certaines applis pour réseaux sociaux sont <a href=\"https://www.jeffbullas."
+"com/facebook-creates-addiction/\">conçues pour être addictives</a>. Elles "
+"tentent de s'immiscer dans votre vie de tous les jours en exploitant la "
+"pression sociale et votre désir naturel de socialisation, afin de convertir "
+"des gestes habituels en dépendance caractérisée. Comme dans le cas des jeux, "
+"leur pouvoir addictif est essentiellement basé sur des récompenses "
+"aléatoires. Il s'agit ici de messages d'amis ou followers, de likes, de "
+"nouvelles et vidéos intéressantes, etc. Le logiciel est conçu pour susciter "
+"un désir pour ces récompenses et le garder vivace le plus longtemps possible."
+
+#. type: Content of: <div><ul><li>
 msgid ""
 "By default, notifications are sent every time a new item comes in, instead "
 "of, say, once a day. They are associated with sounds or vibrations which "
@@ -328,7 +342,7 @@ msgstr ""
 "psychologytoday.com/us/blog/reading-between-the-headlines/201307/smartphone-"
 "addiction\">pouvoir addictif des téléphones « intelligents »</a>."
 
-#. type: Content of: <div><ul><li><ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Users are served selected material that is likely to interest them, based on "
 "<a href=\"https://theconversation.com/facebook-is-killing-democracy-with-its-"
@@ -342,7 +356,7 @@ msgstr ""
 "leur intérêt (ce qui, incidemment, ouvre la voie à la <a href=\"/proprietary/"
 "proprietary-manipulation.html\">manipulation</a>)."
 
-#. type: Content of: <div><ul><li><ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The app interface is designed to make users stay on the site as long as "
 "possible, using <a href=\"https://uxplanet.org/ux-infinite-scrolling-vs-"
@@ -353,7 +367,7 @@ msgstr ""
 "le <a href=\"https://uxplanet.org/ux-infinite-scrolling-vs-"
 "pagination-1030d29376f1\">défilement continu</a>."
 
-#. type: Content of: <div><ul><li><ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The company that owns the social network tries to cover users' needs as "
 "extensively as possible, by <a href=\"https://en.wikipedia.org/wiki/"
@@ -379,7 +393,7 @@ msgstr ""
 "options adéquates, et l'appli n'arrêterait pas de les harceler pour qu'ils "
 "restent."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><p>
 msgid ""
 "A good way to minimize the risk of addiction, short of avoiding social media "
 "altogether, is to turn off notifications and leave as little as possible of "
