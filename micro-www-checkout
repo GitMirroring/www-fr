@@ -156,7 +156,7 @@ TMP2=$(mktemp -t co.XXXXXX) || (echo 1>&2 "Can't make TMP2"; exit 1)
 TMP3=$(mktemp -t co.XXXXXX) || (echo 1>&2 "Can't make TMP3"; exit 1)
 TMP4=$(mktemp -t co.XXXXXX) || (echo 1>&2 "Can't make TMP4"; exit 1)
 TMP5=$(mktemp -t co.XXXXXX) || (echo 1>&2 "Can't make TMP5"; exit 1)
-trap 'rm -f "$TMP1" "$TMP2" "$TMP3" "$TMP4" "$TMP4"' EXIT
+trap 'rm -f "$TMP1" "$TMP2" "$TMP3" "$TMP4" "$TMP5"' EXIT
 
 # List the POs in www-LANG.
 if [ -d "www-$lang" ]; then
