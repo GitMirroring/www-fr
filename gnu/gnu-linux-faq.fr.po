@@ -4,14 +4,14 @@
 # Marc de Maillard, 2008.
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2008.
 # Denis Barbier <bouzim@gmail.com>, 2011.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2013, 2014.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012-2020.
 # Sogal <sogal AT member.fsf.org>, 2014, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-linux-faq.html\n"
-"POT-Creation-Date: 2020-01-06 21:55+0000\n"
-"PO-Revision-Date: 2020-01-07 01:02+0100\n"
+"POT-Creation-Date: 2020-04-09 17:25+0000\n"
+"PO-Revision-Date: 2020-04-09 21:38+0200\n"
 "Last-Translator: Sogal <sogal AT member.fsf.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -180,6 +180,15 @@ msgstr ""
 
 #. type: Content of: <ul><li>
 msgid ""
+"<a href=\"#nokernel\">An operating system requires a kernel.  Since the GNU "
+"Project didn't develop a kernel, how can the system be GNU?</a>"
+msgstr ""
+"<a href=\"#nokernel\">Un système d'exploitation a besoin d'un noyau. Puisque "
+"le projet GNU n'en a pas développé, comment peut-on parler de « système "
+"GNU » ?</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
 "<a href=\"#notinstallable\">How can GNU be an operating system, if I can't "
 "get something called &ldquo;GNU&rdquo; and install it?</a>"
 msgstr ""
@@ -333,6 +342,14 @@ msgid ""
 msgstr ""
 "<a href=\"#pronounce\">Comment prononce-t-on le nom &ldquo;GNU/Linux&rdquo; ?"
 "</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"#whynoslash\">Why do you write &ldquo;GNU Emacs&rdquo; rather than "
+"&ldquo;GNU/Emacs&rdquo;?</a>"
+msgstr ""
+"<a href=\"#whynoslash\">Pourquoi écrivez-vous « GNU Emacs » plutôt que « GNU/"
+"Emacs » ?</a>"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -1349,6 +1366,49 @@ msgstr "Non, beaucoup de composants requièrent beaucoup de travail."
 
 #. type: Content of: <dl><dt>
 msgid ""
+"An operating system requires a kernel.  Since the GNU Project didn't develop "
+"a kernel, how can the system be GNU?<span class=\"anchor-reference-id\">(<a "
+"href=\"#nokernel\">#nokernel</a>)</span>"
+msgstr ""
+"Un système d'exploitation a besoin d'un noyau. Puisque le projet GNU n'en a "
+"pas développé, comment peut-on parler de « système GNU » ? <span class="
+"\"anchor-reference-id\">(<a href=\"#nokernel\">#nokernel</a>)</span>"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"The people who argue that way for calling the system &ldquo;Linux&rdquo; are "
+"using a double standard.  An operating system requires compilers, editors, "
+"window systems, libraries, and much more &mdash; hundreds of programs, even "
+"to match what BSD systems included in 1983.  Since Torvalds didn't develop "
+"any of those, how can the system be &ldquo;Linux&rdquo;?"
+msgstr ""
+"Les personnes qui donnent ces arguments pour appeler le système « Linux » "
+"font deux poids deux mesures. Un système d'exploitation a besoin de "
+"compilateurs, d'éditeurs, de systèmes de fenêtrage, de bibliothèques et plus "
+"encore – des centaines de programmes, même si on se base sur ce que "
+"contenaient les systèmes BSD en 1983. Puisque Torvalds n'en a développé "
+"aucun, comment le système peut-il être « Linux » ?"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"That standard is too strict, not the right way to judge the contributions of "
+"any contributor."
+msgstr ""
+"Ce standard est trop strict ; ce n'est pas le bon moyen de juger de ce qu'a "
+"apporté chaque contributeur."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"Linus Torvalds made an important contribution to the operating system we "
+"use; the GNU Project started earlier and contributed much more.  The name "
+"&ldquo;GNU/Linux&rdquo; gives credit to each."
+msgstr ""
+"Linus Torvalds a fait une contribution importante au système d'exploitation "
+"que nous utilisons ; le projet GNU a commencé avant lui et a apporté "
+"beaucoup plus. Le nom « GNU/Linux » reconnaît le mérite de chacun."
+
+#. type: Content of: <dl><dt>
+msgid ""
 "How can GNU be an operating system, if I can't get something called &ldquo;"
 "GNU&rdquo; and install it? <span class=\"anchor-reference-id\">(<a href="
 "\"#notinstallable\">#notinstallable</a>)</span>"
@@ -1794,10 +1854,14 @@ msgstr ""
 #. type: Content of: <dl><dd>
 msgid ""
 "Systemd is a fairly important component, but not as important as the kernel "
-"(Linux), nor as important as the basis of the system as a whole (GNU)."
+"(Linux), nor as important as the basis of the system as a whole (GNU).  "
+"However, if you want to emphasize the presence of Systemd by calling the "
+"system &ldquo;GNU/Systemd/Linux&rdquo;, there is nothing wrong with doing so."
 msgstr ""
 "Le Systemd est assez important, mais pas aussi important que le noyau "
-"(Linux), ni aussi important que la base du système dans son ensemble (GNU)."
+"(Linux), ni aussi important que la base du système dans son ensemble (GNU). "
+"Cependant, si vous voulez mettre en avant la présence de Systemd en appelant "
+"le système « GNU/Systemd/Linux », il n'y a rien de mal à ça."
 
 #. type: Content of: <dl><dt>
 msgid ""
@@ -1993,6 +2057,37 @@ msgstr ""
 "Prononcez-le « GNU <cite>slash</cite> Linux ». Si vous ne prononcez pas le "
 "<cite>slash</cite>, les gens penseront que vous dites « GNU Linux », ce qui "
 "n'est <a href=\"#whyslash\">pas un nom adéquat</a> pour cette combinaison."
+
+#. type: Content of: <dl><dt>
+msgid ""
+"Why do you write &ldquo;GNU Emacs&rdquo; rather than &ldquo;GNU/"
+"Emacs&rdquo;? <span class=\"anchor-reference-id\">(<a href=\"#whynoslash"
+"\">#whynoslash</a>)</span>"
+msgstr ""
+"<a href=\"#whynoslash\">Pourquoi écrivez-vous « GNU Emacs » plutôt que « GNU/"
+"Emacs » ?</a> <span class=\"anchor-reference-id\">(<a href=\"#whynoslash"
+"\">#whynoslash</a>)</span>"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"Following the rules of English, in the construction &ldquo;GNU Emacs&rdquo; "
+"the word &ldquo;GNU&rdquo; modifies &ldquo;Emacs&rdquo;.  That is the right "
+"way to describe a program called Emacs which is a GNU package."
+msgstr ""
+"En bon anglais, dans la construction « GNU Emacs » le mot « GNU » modifie "
+"« Emacs ». C'est la bonne façon de décrire un programme appelé Emacs qui est "
+"un logiciel GNU."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"&ldquo;GNU/Emacs&rdquo; would mean the combination of GNU, the operating "
+"system, and the program Emacs.  That doesn't fit this program, so &ldquo;GNU/"
+"Emacs&rdquo; is the wrong way to refer to it."
+msgstr ""
+"« GNU/Emacs » signifierait une combinaison de GNU, le système "
+"d'exploitation, avec le programme Emacs. Cela ne correspond pas à ce "
+"programme, c'est pourquoi « GNU/Emacs » est une mauvaise façon de le "
+"désigner."
 
 #. type: Content of: <dl><dt>
 msgid ""
