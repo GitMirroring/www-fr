@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home-pkgblurbs.html\n"
-"POT-Creation-Date: 2020-01-13 16:57+0000\n"
-"PO-Revision-Date: 2020-01-15 12:48+0100\n"
+"POT-Creation-Date: 2020-04-23 04:56+0000\n"
+"PO-Revision-Date: 2020-04-23 11:27+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -2873,6 +2873,10 @@ msgstr ""
 "traductions d'une page s'en trouve facilitée.  <small>(<a href=\"/manual/"
 "manual.html#gnun\">doc</a>)</small>"
 
+#. type: Attribute 'alt' of: <h4><img>
+msgid "logo for gnunet"
+msgstr "logo de gnunet"
+
 #. type: Content of: <h4>
 msgid "<a href=\"/software/gnunet/\">GNUnet</a>"
 msgstr "<a href=\"/software/gnunet/\">GNUnet</a>"
@@ -3122,7 +3126,7 @@ msgstr "<a href=\"/software/gnutls/\">GnuTLS</a>"
 msgid ""
 "GnuTLS is a secure communications library implementing the SSL, TLS and DTLS "
 "protocols.  It is provided in the form of a C library to support the "
-"protocols, as well as to parse and write X.5009, PKCS 12, OpenPGP and other "
+"protocols, as well as to parse and write X.509, PKCS 12, OpenPGP and other "
 "required structures.  <small>(<a href=\"/manual/manual.html#gnutls\">doc</a>)"
 "</small>"
 msgstr ""
@@ -3131,10 +3135,10 @@ msgstr ""
 "\"Transport Layer Security\">TLS</abbr> et <abbr title=\"Datagram Transport "
 "Layer Security\">DTLS</abbr>. Elle est fournie sous la forme d'une "
 "bibliothèque C pour la prise en charge des protocoles ainsi que pour "
-"l'analyse et l'écriture des structures requises (X.5009, <abbr title="
-"\"Public-Key Cryptography Standards\">PKCS</abbr> 12, Open<abbr title="
-"\"Pretty Good Privacy\">PGP</abbr> et autres).  <small>(<a href=\"/manual/"
-"manual.html#gnutls\">doc</a>)</small>"
+"l'analyse et l'écriture des structures requises (X.509, <abbr title=\"Public-"
+"Key Cryptography Standards\">PKCS</abbr> 12, Open<abbr title=\"Pretty Good "
+"Privacy\">PGP</abbr> et autres).  <small>(<a href=\"/manual/manual."
+"html#gnutls\">doc</a>)</small>"
 
 #.  TRANSLATORS: stale 
 #. type: Content of: <h4>
@@ -5702,6 +5706,10 @@ msgstr ""
 "également des programmes en ligne de commande pour les graphiques "
 "scientifiques.  <small>(<a href=\"/manual/manual.html#plotutils\">doc</a>)</"
 "small>"
+
+#. type: Attribute 'alt' of: <h4><img>
+msgid "logo for poke"
+msgstr "logo de poke"
 
 #. type: Content of: <h4>
 msgid "<a href=\"/software/poke/\">Poke</a>"
