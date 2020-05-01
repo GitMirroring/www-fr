@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the original article.
 # Cédric Corazza <cedric.corazza AT wanadoo.fr, 2007, 2008.
 # Denis Barbier <bouzim AT gmail.com>, 2011.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2019, 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: footer-text.html\n"
-"POT-Creation-Date: 2019-02-16 18:26+0000\n"
+"POT-Creation-Date: 2020-04-13 16:42+0200\n"
 "PO-Revision-Date: 2019-02-17 11:02+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -19,40 +19,29 @@ msgstr ""
 "Plural-Forms:  \n"
 "X-Generator: Gtranslator 2.91.5\n"
 
-#. type: Content of: <div>
-msgid "<a href=\"#navigation\"><span>TOP</span> &#9650;</a>"
-msgstr "<a href=\"#navigation\"><span>RETOUR</span> &#9650;</a>"
+#. type: Content of: <div><div>
+msgid "<a href=\"#\" class=\"close\"></a>"
+msgstr "<a href=\"#\" class=\"close\"></a>"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/proprietary/proprietary.html\">MALWARE</a>"
-msgstr "<a href=\"/proprietary/proprietary.html\">MALICIELS</a>"
+#. type: Content of: <div><div>
+msgid "<a href=\"#header\"><span>BACK TO TOP </span>&#11165;</a>"
+msgstr "<a href=\"#header\"><span>RETOUR </span>&#11165;</a>"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/graphics/graphics.html\">GNU&nbsp;ART</a>"
-msgstr "<a href=\"/graphics/graphics.html\">ART GNU</a>"
+#. #echo encoding="none" var="language_selector" 
+#. type: Content of: <div><div><div>
+msgid "Set language"
+msgstr "Spécifier la langue"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/people/people.html\">GNU'S&nbsp;WHO?</a>"
-msgstr "<a href=\"/people/people.html\">TROMBINOSCOPE</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/server/sitemap.html\">SITEMAP</a>"
-msgstr "<a href=\"/server/sitemap.html\">PLAN DU SITE</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"//directory.fsf.org\">SOFTWARE&nbsp;DIRECTORY</a>"
-msgstr "<a href=\"//directory.fsf.org\">RÉPERTOIRE LOGICIEL</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"https://h-node.org/\">HARDWARE</a>"
-msgstr "<a href=\"https://h-node.org/\">MATÉRIEL</a>"
+#. type: Content of: <div><div><p>
+msgid "Available for this page:"
+msgstr "Disponibles pour cette page:"
 
 #. type: Content of: <div><blockquote><p><a>
 msgid "<a href=\"//www.fsf.org\">"
 msgstr "<a href=\"//www.fsf.org\">"
 
 #. type: Attribute 'alt' of: <div><blockquote><p><a><img>
-msgid "[FSF logo]"
+msgid "&nbsp;[FSF logo]&nbsp;"
 msgstr " [Logo de la FSF] "
 
 #. type: Content of: <div><blockquote><p>
@@ -66,7 +55,7 @@ msgstr ""
 "est de promouvoir au niveau mondial la liberté d'utiliser l'informatique. "
 "Nous défendons les droits de tous les utilisateurs de logiciel. »</strong>"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div>
 msgid ""
 "<a class=\"join\" href=\"//www.fsf.org/associate/support_freedom?"
 "referrer=4052\">JOIN</a> <a class=\"donate\" href=\"//donate.fsf.org/"
