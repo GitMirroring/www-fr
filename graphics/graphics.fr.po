@@ -2,13 +2,13 @@
 # Copyright (C) 2005 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Romain Gardon, 2005.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012-2019.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012-2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: graphics.html\n"
-"POT-Creation-Date: 2020-03-23 14:25+0000\n"
-"PO-Revision-Date: 2020-03-23 16:33+0100\n"
+"POT-Creation-Date: 2020-05-02 16:25+0000\n"
+"PO-Revision-Date: 2020-05-03 11:25+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -184,16 +184,32 @@ msgid "What's new?"
 msgstr "Quoi de neuf ?"
 
 #. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/wilgus-gnutiling.html\">"
+msgstr "<a href=\"/graphics/wilgus-gnutiling.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Embossed GNU-head tiling]&nbsp;"
+msgstr " [Mosaïque de têtes de GNU en léger relief] "
+
+#. type: Content of: <table><tr><td>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <table><tr><td>
+msgid "May 2020: GNU-Head Tiling wallpapers"
+msgstr "Mai 2020 : Mosaïques de têtes de GNU"
+
+#. type: Content of: <table><tr><td>
+msgid "<small>by Kacper Wilgus</small>"
+msgstr "<small>par Kacper Wilgus</small>"
+
+#. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnu-smiling.html\">"
 msgstr "<a href=\"/graphics/gnu-smiling.html\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "&nbsp;[Smiling GNU head]&nbsp;"
 msgstr " [Tête de GNU souriante] "
-
-#. type: Content of: <table><tr><td>
-msgid "</a>"
-msgstr "</a>"
 
 #. type: Content of: <table><tr><td>
 msgid "March 2020: GNU Smiling"
@@ -362,26 +378,6 @@ msgstr "Mai 2018 : Réflexion sur la liberté"
 #. type: Content of: <table><tr><td>
 msgid "<small>by Crista Moreno</small>"
 msgstr "<small>par Crista Moreno</small>"
-
-#. type: Content of: <table><tr><td><a>
-msgid ""
-"<a href=\"https://goblinrefuge.com/mediagoblin/u/emacsomancer/m/my-god-it-s-"
-"full-of-car-s-png\">"
-msgstr ""
-"<a href=\"https://goblinrefuge.com/mediagoblin/u/emacsomancer/m/my-god-it-s-"
-"full-of-car-s-png\">"
-
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "&nbsp;[Meditating GNU with Lisp on background]&nbsp;"
-msgstr " [Gnou en méditation avec Lisp en fond de tableau] "
-
-#. type: Content of: <table><tr><td>
-msgid "January 2018: My God, it's full of &lsquo;car&rsquo;s!"
-msgstr "Janvier 2018 : <cite>My God, it's full of &lsquo;car&rsquo;s!</cite>"
-
-#. type: Content of: <table><tr><td>
-msgid "<small>by Benjamin Slade</small>"
-msgstr "<small>par Benjamin Slade</small>"
 
 #. type: Content of: <h3>
 msgid "GNU Art on this site"
@@ -726,6 +722,10 @@ msgstr "Fond d'écran de référence pour GNU Emacs"
 #. type: Content of: <table><tr><td>
 msgid "<small>by Loic Duros</small>"
 msgstr "<small>par Loic Duros</small>"
+
+#. type: Content of: <table><tr><td>
+msgid "GNU-Head Tiling wallpapers"
+msgstr "Mosaïques de têtes de GNU"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/flying-gnu.html\">"
@@ -1942,9 +1942,25 @@ msgstr ""
 "<em>Pepper &amp; Carrot</em> épisode 24 (bande dessinée sur le logiciel "
 "libre)"
 
+#. type: Content of: <table><tr><td><a>
+msgid ""
+"<a href=\"https://goblinrefuge.com/mediagoblin/u/emacsomancer/m/my-god-it-s-"
+"full-of-car-s-png\">"
+msgstr ""
+"<a href=\"https://goblinrefuge.com/mediagoblin/u/emacsomancer/m/my-god-it-s-"
+"full-of-car-s-png\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Meditating GNU with Lisp on background]&nbsp;"
+msgstr " [Gnou en méditation avec Lisp en fond de tableau] "
+
 #. type: Content of: <table><tr><td>
 msgid "My God, it's full of &lsquo;car&rsquo;s!"
 msgstr "<cite>My God, it's full of &lsquo;car&rsquo;s!</cite>"
+
+#. type: Content of: <table><tr><td>
+msgid "<small>by Benjamin Slade</small>"
+msgstr "<small>par Benjamin Slade</small>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"http://www.techtux.be/fsf/index.html\">"
