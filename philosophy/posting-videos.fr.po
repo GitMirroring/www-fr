@@ -1,0 +1,184 @@
+# French translation of https://www.gnu.org/philosophy/posting-videos.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Laurent Poujoulat, 2020 (traduction).
+# Thérèse Godefroy <godef.th AT free.fr>, 2020 (relecture).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: posting-videos.html\n"
+"POT-Creation-Date: 2020-04-30 11:26+0000\n"
+"PO-Revision-Date: 2020-05-22 08:41+0200\n"
+"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"Language-Team: French <trad-gnu@april.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Content of: <title>
+msgid "Posting Videos - GNU Project - Free Software Foundation"
+msgstr "Mettre des vidéos en ligne - Projet GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Posting Videos"
+msgstr "Mettre des vidéos en ligne"
+
+#. type: Content of: <p>
+msgid "by Richard Stallman"
+msgstr "par Richard Stallman"
+
+#. type: Content of: <p>
+msgid ""
+"You don't need a &ldquo;free software based streaming platform&rdquo; to "
+"post a video for streaming."
+msgstr ""
+"Vous n'avez pas besoin d'une « plateforme de diffusion basée sur du logiciel "
+"libre » pour diffuser une vidéo en ligne."
+
+#. type: Content of: <p>
+msgid ""
+"Someone asked me where to upload a video recording on some &ldquo;free "
+"software based streaming platform.&rdquo; Here's how I responded."
+msgstr ""
+"Quelqu'un m'a demandé comment téléverser un enregistrement vidéo sur une "
+"« plateforme de diffusion basée sur du logiciel libre ». Voici ce que je lui "
+"ai répondu."
+
+#. type: Content of: <ul><li>
+msgid ""
+"What software the <em>platform</em> is based on is not crucial, because that "
+"has no effect on the people who use that site.  They don't run that "
+"software. What they do is talk with the site."
+msgstr ""
+"Le logiciel sur lequel est basé la <em>plateforme</em> n'est pas primordial, "
+"car il n'a aucun effet sur les gens qui utilisent le site. Ils n'exécutent "
+"pas ce logiciel. Ce qu'ils font, c'est discuter avec le site."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The crucial question for the users' freedom is whether the site requires "
+"them, or leads them, to run any nonfree software, including nonfree "
+"JavaScript code."
+msgstr ""
+"La question essentielle pour la liberté de l'utilisateur est celle de savoir "
+"si le site les oblige, ou les amène, à exécuter un quelconque logiciel "
+"privateur, en particulier du code JavaScript privateur."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Any web site can host a file of video in such a way that any browser can "
+"view it without <em>any</em> JavaScript. Just put the file of video onto the "
+"site, and tell people its URL. Any modern graphical browser, when it "
+"encounters a file of video, will stream it."
+msgstr ""
+"Tout site web peut héberger un fichier vidéo de manière que n'importe quel "
+"navigateur puisse le voir sans <em>aucun</em> JavaScript. Mettez simplement "
+"le fichier vidéo sur le site et donnez son URL aux gens. N'importe quel "
+"navigateur graphique moderne diffusera ce fichier vidéo lorsqu'il le "
+"rencontrera."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The only special thing about &ldquo;video platform&rdquo; sites is that they "
+"have other auxiliary facilities, such as making accounts, uploading videos, "
+"tracking users who watch them, and restricting those users. You don't need "
+"those things."
+msgstr ""
+"La seule particularité des sites proposant des « plateformes vidéos » est "
+"qu'ils ont d'autres fonctions, comme de créer un compte, téléverser des "
+"vidéos, tracer les utilisateurs qui les regardent ou contraindre ces "
+"utilisateurs. Vous n'avez pas besoin de tout ça."
+
+#. type: Content of: <ul><li>
+msgid ""
+"To distribute the URL of the video and enable users to watch it, all you do "
+"need is a site that you can post the file on.  It could be your own web "
+"site, either running on your own server or hosted elsewhere."
+msgstr ""
+"Pour distribuer l'URL de la vidéo et permettre aux utilisateurs de la "
+"regarder, tout ce dont vous avez besoin, c'est d'un site où vous pouvez "
+"déposer le fichier. Ce peut être votre site web, qu'il soit sur votre propre "
+"serveur ou hébergé ailleurs."
+
+#. type: Content of: <p>
+msgid ""
+"Depending on the rest of that site, it may have other flaws or moral "
+"problems, but it will at least avoid directly mistreating users who watch "
+"the video."
+msgstr ""
+"Selon ce qu'on trouve sur le reste du site, il peut y avoir d'autres défauts "
+"ou problèmes éthiques, mais cela évitera au moins de faire directement du "
+"tort aux utilisateurs qui regardent la vidéo."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Veuillez envoyer les requêtes concernant la FSF et GNU à <a href=\"mailto:"
+"gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>. Il existe aussi <a href=\"/contact/"
+"\">d'autres moyens de contacter</a> la FSF. Les liens orphelins et autres "
+"corrections ou suggestions peuvent être signalés à <a href=\"mailto:"
+"webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Nous faisons le maximum pour proposer des traductions fidèles et de bonne "
+"qualité, mais nous ne sommes pas parfaits. Merci d'adresser vos commentaires "
+"sur cette page, ainsi que vos suggestions d'ordre général sur les "
+"traductions, à <a href=\"mailto:web-translators@gnu.org\"> &lt;web-"
+"translators@gnu.org&gt;</a>.</p>\n"
+"<p>Pour tout renseignement sur la coordination et la soumission des "
+"traductions de nos pages web, reportez-vous au <a href=\"/server/standards/"
+"README.translations.html\">guide de traduction</a>."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2020 Richard Stallman"
+msgstr "Copyright &copy; 2020 Richard Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Cette page peut être utilisée suivant les conditions de la licence <a rel="
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduction : Laurent Poujoulat<br />Révision : <a href=\"mailto:trad-gnu&#64;"
+"april.org\">trad-gnu&#64;april.org</a>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Dernière mise à jour :"
