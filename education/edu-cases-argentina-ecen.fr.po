@@ -1,12 +1,12 @@
 # French translation of http://www.gnu.org/education/edu-cases-argentina-ecen.html
 # Copyright (C) 2012 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2016.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2016, 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-cases-argentina-ecen.html\n"
-"POT-Creation-Date: 2016-09-13 15:55+0000\n"
+"POT-Creation-Date: 2020-05-27 11:13+0200\n"
 "PO-Revision-Date: 2018-11-03 12:59+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -25,23 +25,45 @@ msgstr ""
 "Escuela Cristiana Evangélica de Neuquén (ECEN) - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
-"education/edu-cases.html\">Case Studies</a> &rarr; <a href=\"/education/edu-"
-"cases-argentina.html\">Argentina</a> &rarr; Escuela Cristiana Evangélica de "
-"Neuquén (ECEN)"
-msgstr ""
-"<a href=\"/education/education.html\">Éducation</a> &rarr; <a href=\"/"
-"education/edu-cases.html\">Études de cas</a> &rarr; <a href=\"/education/edu-"
-"cases-argentina.html\">Argentine</a> &rarr; Escuela Cristiana Evangélica de "
-"Neuquén (ECEN)"
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
 
-#. type: Content of: <h2>
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Menu Éducation"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Menu Éducation]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Accueil GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/edu-cases.html\">Case&nbsp;Studies</a>&nbsp;/ <a href=\"/"
+"education/edu-cases-argentina.html\">Argentina</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Éducation</a>&nbsp;/ <a "
+"href=\"/education/edu-cases.html\">Études de cas</a>&nbsp;/ <a href=\"/"
+"education/edu-cases-argentina.html\">Argentine</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "Escuela Cristiana Evangélica de Neuquén (ECEN)"
 msgstr "Escuela Cristiana Evangélica de Neuquén (ECEN)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The following information was extracted from a report submitted to us by "
 "ECEN Elementary Teacher Debora Badilla Huento. Her commitment played a key "
@@ -53,11 +75,11 @@ msgstr ""
 "joué un rôle clé dans la sensibilisation de l'école au logiciel libre, qui a "
 "abouti à sa migration."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Location"
 msgstr "Situation"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "City of Neuquén, capital of the <a href=\"http://en.wikipedia.org/wiki/"
 "Neuquen_Province\"> Province of Neuquén</a>, in the Argentine Patagonia "
@@ -67,11 +89,11 @@ msgstr ""
 "Neuquen_Province\">province de Neuquén</a> dans la région de Patagonie, en "
 "Argentine."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "About"
 msgstr "À propos"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "We are a private Christian school providing education from pre-elementary to "
 "high school levels in accord with state educational requirements."
@@ -80,7 +102,7 @@ msgstr ""
 "maternelle au lycée, est conforme aux directives de l'État en matière "
 "d'éducation."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In Argentina, each province develops its own educational policy. In the case "
 "of the province of Neuquén, teaching computer science at elementary schools "
@@ -91,11 +113,11 @@ msgstr ""
 "n'est pas obligatoire à l'école élémentaire. De fait, l'informatique est une "
 "activité extra-scolaire."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Motivation"
 msgstr "Motivations"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Our school advocates the ideals of solidarity, honesty, excellence in "
 "education, the observance of law, the constant search for truth, justice and "
@@ -113,7 +135,7 @@ msgstr ""
 "par la gestion des licences de logiciel et par les nombreuses restrictions "
 "que les termes de ces licences imposaient à l'école."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Educational quality and long term goals were also taken into account during "
 "the decision process. It is our understanding that training students on how "
@@ -123,11 +145,11 @@ msgstr ""
 "pesé dans la décision. De notre point de vue, former les élèves à utiliser "
 "une marque particulière de logiciel est loin d'être la mission d'une école."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "How We Did It"
 msgstr "Comment nous avons fait"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The whole process lasted four years: we started in 2006 with all our work "
 "stations using proprietary software and concluded in 2010 with full free "
@@ -140,7 +162,7 @@ msgstr ""
 "libres dans tous les ordinateurs de l'école, y compris ceux de "
 "l'administration et de la bibliothèque."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The plan consisted mainly of several measures aimed at raising awareness "
 "about the philosophical, ethical and socio-political implications of the use "
@@ -155,7 +177,7 @@ msgstr ""
 "pratique par la substitution graduelle des programmes privateurs existants "
 "par des programmes libres."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "During the first year we introduced some theoretical courses, namely "
 "\"Computer Science History\" and \"Introduction to Computer Architecture\".  "
@@ -170,7 +192,7 @@ msgstr ""
 "de l'engagement des utilisateurs et des développeurs de logiciel libre "
 "envers la communauté."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Training courses were given to high school level teachers in the IT and all "
 "other areas, to teachers of the elementary level, to the Board of Directors "
@@ -181,13 +203,13 @@ msgstr ""
 "les professeurs du primaire, par le conseil d'administration et le personnel "
 "administratif, ainsi que par la bibliothécaire."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "The following human resources were employed to carry out the migration:"
 msgstr ""
 "Les ressources humaines suivantes ont été mobilisées pour effectuer la "
 "migration :"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "1 Computer Science teacher for the pre-elementary and elementary levels. "
 "This teacher is also in charge of maintaining the computers in the classroom "
@@ -199,11 +221,11 @@ msgstr ""
 "aux autres professeurs et au personnel de l'école à utiliser le système "
 "d'exploitation ;"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "5 Computer Science teachers for the high school Level."
 msgstr "5 professeurs d'informatique du secondaire ;"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "1 PC and network technician in charge of repairing the computers of the high "
 "school level."
@@ -211,7 +233,7 @@ msgstr ""
 "1 technicien PC et réseau chargé de réparer les ordinateurs des classes du "
 "secondaire ;"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "1 Free Software programmer hired to write the Administrative Management "
 "System."
@@ -219,19 +241,19 @@ msgstr ""
 "1 programmeur de logiciel libre recruté pour écrire le système de gestion "
 "administrative ;"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "1 IT Professor hired to qualify the school staff."
 msgstr ""
 "1 professeur de technologie de l'information recruté pour former le "
 "personnel de l'école."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "Migration costs were affordable and well within the school's budget:"
 msgstr ""
 "Les coûts de migration ont été supportables et tout à fait compatibles avec "
 "le budget de l'école :"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "PC Repairs: In 2006, ECEN hired a computer technician who was provided with "
 "Free Software documentation and a DVD of the operating system in use. The "
@@ -241,17 +263,17 @@ msgstr ""
 "et lui a fourni la documentation du logiciel libre et un DVD du système "
 "d'exploitation en service ; l'école a travaillé avec lui depuis ;"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "Training: 60 training hours to qualify the school staff."
 msgstr ""
 "formation : 60 heures de formation pour mettre à niveau le personnel de "
 "l'école."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Commitment to Free Software"
 msgstr "Attachement au logiciel libre"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "As of 2010, we are using fully free operating systems, non in dual boot, as "
 "follows:"
@@ -259,33 +281,33 @@ msgstr ""
 "Depuis 2010, nous utilisons des systèmes d'exploitation entièrement libres "
 "(pas en double démarrage) comme suit :"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "22 PC in the pre-elementary and primary classrooms (4-12 years old students)"
 msgstr ""
 "22 PC dans les classes de maternelle et primaire (élèves de 4 à 12 ans),"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "24 PC in the high school classrooms (13-17 years old students)"
 msgstr "24 PC dans les classes du secondaire (élèves de 13 à 17 ans),"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "7 PC in the administration offices"
 msgstr "7 PC dans les bureaux de l'administration,"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "3 PC in the library"
 msgstr "3 PC à la bibliothèque,"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "1 notebook in the video classroom"
 msgstr "1 portable dans la classe de vidéo."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "Some of the Free Libre programs we use are:"
 msgstr "Voici quelques-uns des logiciels libres que nous utilisons :"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Office automation: <a href=\"http://directory.fsf.org/wiki/LibreOffice"
 "\">LibreOffice</a>"
@@ -293,16 +315,16 @@ msgstr ""
 "bureautique: <a href=\"http://directory.fsf.org/wiki/LibreOffice"
 "\">LibreOffice</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "Typing: <a href=\"http://directory.fsf.org/wiki/KTouch\">KTouch</a>"
 msgstr ""
 "dactylographie : <a href=\"http://directory.fsf.org/wiki/KTouch\">KTouch</a>,"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "Graphic design: <a href=\"http://directory.fsf.org/wiki/GIMP\">GIMP</a>"
 msgstr "graphisme : <a href=\"http://directory.fsf.org/wiki/GIMP\">GIMP</a>,"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Architectural design: <a href=\"http://directory.fsf.org/wiki/QCad_-"
 "_Community_Edition\">QCad</a>"
@@ -310,30 +332,30 @@ msgstr ""
 "dessin d'architecture : <a href=\"http://directory.fsf.org/wiki/QCad_-"
 "_Community_Edition\">QCad</a>,"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Graphical design: <a href=\"http://directory.fsf.org/wiki/Scribus\">Scribus</"
 "a>"
 msgstr ""
 "mise en page : <a href=\"http://directory.fsf.org/wiki/Scribus\">Scribus</a>,"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Video: <a href=\"http://www.openshotvideo.com/\">OpenShot Video Editor</a>"
 msgstr ""
 "vidéo : <a href=\"http://www.openshotvideo.com/\">OpenShot Video Editor</a>,"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "3D animation: <a href=\"http://directory.fsf.org/wiki/Blender\">Blender</a>"
 msgstr ""
 "animation 3D : <a href=\"http://directory.fsf.org/wiki/Blender\">Blender</a>."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Results"
 msgstr "Résultats"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "We found the migration experience quite positive and we decided to adopt a "
 "Free Software environment for all work stations. In October 2009 the school "
@@ -344,7 +366,7 @@ msgstr ""
 "travail. En octobre 2009 l'école a sponsorisé la « Journée du logiciel "
 "libre » dans la ville de San Martin de los Andes."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Although it required dedication and perseverance, the process was pleasant.  "
 "Now we disseminate what we've learned in order to help other educational "
@@ -354,7 +376,7 @@ msgstr ""
 "à conduire ce processus. Maintenant, nous diffusons ce que nous avons appris "
 "afin d'aider les autres communautés éducatives."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We would like to express our appreciation for the excellent work done to all "
 "the people involved in the migration effort."
@@ -362,12 +384,8 @@ msgstr ""
 "Nous voudrions exprimer notre gratitude à toutes les personnes impliquées "
 "dans l'effort de migration, pour leur excellent travail."
 
-#. type: Content of: <p>
-msgid "<a href=\"/education/edu-cases.html\">Back to Case Studies</a>"
-msgstr "<a href=\"/education/edu-cases.html\">Retour aux études de cas</a>"
-
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
 "<hr /><b>Note de traduction</b><ol>\n"
@@ -396,28 +414,26 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
-"Nous faisons le maximum pour proposer des traductions fidèles et de bonne "
-"qualité, mais nous ne sommes pas parfaits. Merci d'adresser vos commentaires "
-"sur cette page, ainsi que vos suggestions d'ordre général sur les "
-"traductions, à <a href=\"mailto:web-translators@gnu.org\"> &lt;web-"
-"translators@gnu.org&gt;</a>.</p>\n"
-"<p>Pour tout renseignement sur la coordination et la soumission des "
-"traductions de nos pages web, reportez-vous au <a href=\"/server/standards/"
-"README.translations.html\">guide de traduction</a>."
+"Merci d'adresser vos commentaires sur cette page et sur les traductions en "
+"général à <a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu."
+"org&gt;</a>.</p>\n"
+"<p>Si vous souhaitez participer à la traduction de nos pages web, vous "
+"trouverez dans <a href=\"/server/standards/README.translations.html\">ce "
+"guide</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2016 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2016 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2011, 2016, 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2016, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -441,3 +457,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+#~ msgid "Section menu"
+#~ msgstr "Menu de section"

@@ -1,12 +1,12 @@
 # French translation of https://www.gnu.org/education/education-menu.html
 # Copyright (C) 2016 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Thérèse Godefroy <godef.th AT free.fr, 2016, 2019.
+# Thérèse Godefroy <godef.th AT free.fr, 2016, 2019, 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: education-menu.html\n"
-"POT-Creation-Date: 2019-04-30 22:58+0000\n"
+"POT-Creation-Date: 2020-05-27 09:23+0200\n"
 "PO-Revision-Date: 2019-12-28 16:41+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -15,26 +15,126 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/education/edu-contents.html\">CONTENTS</a>"
-msgstr "<a href=\"/education/edu-contents.html\">SOMMAIRE</a>"
+#. type: Content of: <div><div>
+msgid "<a href=\"#content\"><span>BACK TO TOP </span>&#11165;</a>"
+msgstr "<a href=\"#content\"><span>RETOUR </span>&#11165;</a>"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/education/edu-cases.html\">CASE&nbsp;STUDIES</a>"
-msgstr "<a href=\"/education/edu-cases.html\">ÉTUDES DE CAS</a>"
+#. type: Content of: <div><div><h3>
+msgid "Education"
+msgstr "Éducation"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/education/edu-resources.html\">RESOURCES</a>"
-msgstr "<a href=\"/education/edu-resources.html\">RESSOURCES</a>"
+#. type: Content of: <div><div><dl><dt>
+msgid "<a href=\"/education/education.html#content\">Main page</a>"
+msgstr "<a href=\"/education/education.html#content\">Accueil Éducation</a>"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/education/edu-software.html\">EDUCATIONAL&nbsp;SOFTWARE</a>"
-msgstr "<a href=\"/education/edu-software.html\">LOGICIELS ÉDUCATIFS</a>"
+#. type: Content of: <div><div><dl><dt>
+msgid "<a href=\"/education/edu-cases.html#content\">Case studies</a>"
+msgstr "<a href=\"/education/edu-cases.html#content\">Études de cas</a>"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/education/edu-faq.html\">FAQ</a>"
-msgstr "<a href=\"/education/edu-faq.html\">FAQ</a>"
+#. type: Content of: <div><div><dl><dd><ul><li><li>
+msgid "<a href=\"/education/edu-cases-argentina.html#content\">Argentina</a>"
+msgstr "<a href=\"/education/edu-cases-argentina.html#content\">Argentine</a>"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/education/edu-team.html\">OUR&nbsp;TEAM</a>"
-msgstr "<a href=\"/education/edu-team.html\">NOTRE ÉQUIPE</a>"
+#. type: Content of: <div><div><dl><dd><ul><li><li><ul><li>
+msgid ""
+"<a href=\"/education/edu-cases-argentina-ecen.html#content\">ECE Neuquén</a>"
+msgstr ""
+"<a href=\"/education/edu-cases-argentina-ecen.html#content\">ECE Neuquén</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><li><li><li>
+msgid "<a href=\"/education/edu-cases-india.html#content\">India</a>"
+msgstr "<a href=\"/education/edu-cases-india.html#content\">Inde</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><li><li><li><ul><li>
+msgid ""
+"<a href=\"/education/edu-cases-india-ambedkar.html#content\">Ambedkar "
+"Center</a>"
+msgstr ""
+"<a href=\"/education/edu-cases-india-ambedkar.html#content\">Centre "
+"Ambedkar</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><li><li><li><ul><li>
+msgid ""
+"<a href=\"/education/edu-cases-india-irimpanam.html#content\">VHSS "
+"Irimpanam</a>"
+msgstr ""
+"<a href=\"/education/edu-cases-india-irimpanam.html#content\">VHSS "
+"Irimpanam</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><dt><dt>
+msgid "<a href=\"/education/edu-resources.html#content\">Resources</a>"
+msgstr "<a href=\"/education/edu-resources.html#content\">Ressources</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><dt><dd><ul><li><li>
+msgid ""
+"<a href=\"/education/edu-software.html#content\">Educational Software</a>"
+msgstr ""
+"<a href=\"/education/edu-software.html#content\">Logiciels éducatifs</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><dt><dd><ul><li><li><ul><li>
+msgid "<a href=\"/education/edu-software-gcompris.html#content\">Gcompris</a>"
+msgstr "<a href=\"/education/edu-software-gcompris.html#content\">Gcompris</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><dt><dd><ul><li><li><ul><li>
+msgid "<a href=\"/education/edu-software-gimp.html#content\">Gimp</a>"
+msgstr "<a href=\"/education/edu-software-gimp.html#content\">Gimp</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><dt><dd><ul><li><li><ul><li>
+msgid "<a href=\"/education/edu-software-tuxpaint.html#content\">Tux Paint</a>"
+msgstr ""
+"<a href=\"/education/edu-software-tuxpaint.html#content\">Tux Paint</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><dt><dd><ul><li><li>
+msgid ""
+"<a href=\"/education/edu-projects.html#content\">Groups &amp; projects</a>"
+msgstr ""
+"<a href=\"/education/edu-projects.html#content\">Groupes &amp; projets</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><dt><dd><ul><li><li>
+msgid ""
+"<a href=\"/education/edu-free-learning-resources.html#content\">Free "
+"learning resources</a>"
+msgstr ""
+"<a href=\"/education/edu-free-learning-resources.html#content\">Ressources "
+"pédagogiques</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><dt><dd><dt>
+msgid "<a href=\"/education/edu-faq.html#content\">FAQ</a>"
+msgstr "<a href=\"/education/edu-faq.html#content\">FAQ</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><dt><dd><dt>
+msgid "<a href=\"/education/edu-team.html#content\">Our team</a>"
+msgstr "<a href=\"/education/edu-team.html#content\">Notre équipe</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><dt><dd><dt>
+msgid "In depth"
+msgstr "Pour approfondir"
+
+#. type: Content of: <div><div><dl><dd><ul><dt><dd><dd><ul><li>
+msgid ""
+"<a href=\"/education/edu-why.html#content\">Why educational institutions "
+"should use and teach free software</a>"
+msgstr ""
+"<a href=\"/education/edu-why.html#content\">Pourquoi l'éducation doit se "
+"servir de logiciel libre et l'enseigner</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><dt><dd><dd><ul><li>
+msgid ""
+"<a href=\"/education/edu-schools.html#content\">Why schools should "
+"exclusively use free software</a>"
+msgstr ""
+"<a href=\"/education/edu-schools.html#content\">Pourquoi les écoles doivent "
+"utiliser exclusivement du logiciel libre</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><dt><dd><dd><ul><li>
+msgid ""
+"<a href=\"/education/edu-system-india.html#content\">The education system in "
+"India</a>"
+msgstr ""
+"<a href=\"/education/edu-system-india.html#content\">Le système éducatif en "
+"Inde</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><dt><dd><dt>
+msgid ""
+"<a href=\"/education/misc/misc.html#content\">Miscellaneous materials</a>"
+msgstr "<a href=\"/education/misc/misc.html#content\">Documents divers</a>"

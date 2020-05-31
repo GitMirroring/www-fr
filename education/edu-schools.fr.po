@@ -4,12 +4,12 @@
 # Laurent Bertaud, 2004.
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2008, 2009.
 # Denis Barbier <bouzim@gmail.com>, 2011.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2014, 2016.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2014, 2016, 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: schools.html\n"
-"POT-Creation-Date: 2020-01-01 05:25+0000\n"
+"POT-Creation-Date: 2020-05-28 23:26+0200\n"
 "PO-Revision-Date: 2020-05-28 10:01+0200\n"
 "Last-Translator: Sogal <sogal AT member.fsf.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -28,25 +28,47 @@ msgstr ""
 "Pourquoi les écoles doivent utiliser exclusivement du logiciel libre - "
 "Projet GNU - Free Software Foundation"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
-"education/education.html#indepth\">In Depth</a> &rarr; Why Schools Should "
-"Exclusively Use Free Software"
-msgstr ""
-"<a href=\"/education/education.html\">Éducation</a> &rarr; <a href=\"/"
-"education/education.html#indepth\">Pour aller plus loin</a> &rarr; Pourquoi "
-"les écoles doivent utiliser exclusivement du logiciel libre"
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
 
-#. type: Content of: <h2>
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Menu Éducation"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Menu Éducation]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Accueil GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/education.html#indepth\">In&nbsp;Depth</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Éducation</a>&nbsp;/ <a "
+"href=\"/education/education.html#indepth\">Pour approfondir</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "Why Schools Should Exclusively Use Free Software"
 msgstr "Pourquoi les écoles doivent utiliser exclusivement du logiciel libre"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 msgstr "par <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Educational activities, including schools of all levels from kindergarten to "
 "university, have a moral duty to <a href=\"/education/education.html\">teach "
@@ -56,7 +78,7 @@ msgstr ""
 "d'enfants jusqu'à l'université, ont pour <a href=\"/education/education.html"
 "\">devoir moral de n'enseigner que le logiciel libre</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "All computer users ought to <a href=\"/philosophy/free-software-even-more-"
 "important.html\"> insist on free software</a>: it gives users the freedom to "
@@ -79,7 +101,7 @@ msgstr ""
 "présenter les arguments supplémentaires qui s'appliquent spécifiquement à "
 "l'éducation."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Free software can save schools money, but this is a secondary benefit.  "
 "Savings are possible because free software gives schools, like other users, "
@@ -94,7 +116,7 @@ msgstr ""
 "des copies à toutes les écoles, et chacune peut installer les programmes sur "
 "tous ses ordinateurs, sans avoir besoin de payer pour le faire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This benefit is useful, but we firmly refuse to give it first place, because "
 "it is shallow compared to the important ethical issues at stake.  Moving "
@@ -109,7 +131,7 @@ msgstr ""
 "« meilleure » : il s'agit ici de faire de la bonne éducation plutôt que de "
 "la mauvaise éducation. Approfondissons donc la question."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Schools have a social mission: to teach students to be citizens of a strong, "
 "capable, independent, cooperating and free society.  They should promote the "
@@ -126,7 +148,7 @@ msgstr ""
 "à évoluer dans une société numérique libre. Cela aidera la société toute "
 "entière à échapper à la domination des multinationales."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In contrast, to teach a nonfree program is implanting dependence, which goes "
 "counter to the schools' social mission.  Schools should never do this."
@@ -135,7 +157,7 @@ msgstr ""
 "dépendance, ce qui va à l'encontre de la mission sociale de l'école. Les "
 "écoles ne doivent jamais le faire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Why, after all, do some proprietary software developers offer gratis "
 "copies<a href=\"#note1\">(1)</a> of their nonfree programs to schools? "
@@ -157,7 +179,7 @@ msgstr ""
 "dépendant, il vous faudra payer et les mises à jour futures pourront se "
 "révéler onéreuses."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Free software permits students to learn how software works.  Some students, "
 "natural-born programmers, on reaching their teens yearn to learn everything "
@@ -170,7 +192,7 @@ msgstr ""
 "logiciels. Ils sont extrêmement curieux de lire le code source des "
 "programmes qu'ils utilisent tous les jours."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Proprietary software rejects their thirst for knowledge: it says, &ldquo;The "
 "knowledge you want is a secret&mdash;learning is forbidden!&rdquo; "
@@ -182,7 +204,7 @@ msgstr ""
 "logiciel privateur est par essence l'ennemi de l'éducation, aussi ne doit-il "
 "pas être toléré à l'école, sauf comme objet de rétroingénierie."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Free software encourages everyone to learn. The free software community "
 "rejects the &ldquo;priesthood of technology&rdquo;, which keeps the general "
@@ -196,7 +218,7 @@ msgstr ""
 "et étudiants de tous âges et toutes origines à lire le code source et à "
 "apprendre autant qu'ils veulent savoir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Schools that use free software will enable gifted programming students to "
 "advance.  How do natural-born programmers learn to be good programmers? They "
@@ -211,7 +233,7 @@ msgstr ""
 "code bon et clair en lisant beaucoup de code et en écrivant beaucoup de "
 "code. Seul le logiciel libre le permet."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "How do you learn to write code for large programs? You do that by writing "
 "lots of changes in existing large programs.  Free Software lets you do this; "
@@ -225,7 +247,7 @@ msgstr ""
 "peut donner à ses élèves ou étudiants une chance de maîtriser l'art de la "
 "programmation, mais seulement si c'est une école du logiciel libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The deepest reason for using free software in schools is for moral "
 "education. We expect schools to teach students basic facts and useful "
@@ -250,7 +272,7 @@ msgstr ""
 "au cas où quelqu'un voudrait s'instruire. Il est donc interdit d'apporter du "
 "logiciel privateur en classe, sauf pour les exercices de rétroingénierie. »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Of course, the school must practice what it preaches: it should bring only "
 "free software to class (except objects for reverse-engineering), and share "
@@ -263,7 +285,7 @@ msgstr ""
 "le code source) pour qu'ils les copient, les emportent à la maison et les "
 "redistribuent autour d'eux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Teaching the students to use free software, and to participate in the free "
 "software community, is a hands-on civics lesson.  It also teaches students "
@@ -276,7 +298,7 @@ msgstr ""
 "basé sur le service public au lieu de celui que prônent les magnats de "
 "l'économie. Les écoles de tous niveaux doivent se servir de logiciel libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If you have a relationship with a school &mdash;if you are a student, a "
 "teacher, an employee, an administrator, a donor, or a parent&mdash; it's "
@@ -293,32 +315,31 @@ msgstr ""
 "ainsi que les gens prendront conscience du problème et que vous trouverez "
 "des alliés dans votre campagne."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><div><ol><li>
 msgid ""
-"<cite><a id=\"note1\"></a>Warning: a school that accepts such an offer may "
-"find subsequent upgrades rather expensive.</cite>"
+"Warning: a school that accepts such an offer may find subsequent upgrades "
+"rather expensive."
 msgstr ""
-"<cite><a id=\"note1\"></a>Attention, l'école qui acceptera une telle offre "
-"pourrait trouver les mises à jour ultérieures plutôt onéreuses.</cite>"
+"Attention, l'école qui acceptera une telle offre pourrait trouver les mises "
+"à jour ultérieures plutôt onéreuses."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><div><ol><li>
 msgid ""
-"<cite><a id=\"note2\"></a>RJ Reynolds Tobacco Company was fined $15m in 2002 "
-"for handing out free samples of cigarettes at events attended by children.  "
-"See <a href=\"http://www.bbc.co.uk/worldservice/sci_tech/features/health/"
-"tobaccotrial/usa.htm\"> http://www.bbc.co.uk/worldservice/sci_tech/features/"
-"health/tobaccotrial/usa.htm</a>.</cite>"
+"RJ Reynolds Tobacco Company was fined $15m in 2002 for handing out free "
+"samples of cigarettes at events attended by children.  See <a href=\"http://"
+"www.bbc.co.uk/worldservice/sci_tech/features/health/tobaccotrial/usa.htm\"> "
+"http://www.bbc.co.uk/worldservice/sci_tech/features/health/tobaccotrial/usa."
+"htm</a>."
 msgstr ""
-"<cite><a id=\"note2\"></a>L'industriel du tabac </cite>RJ Reynolds Tobacco "
-"Company<cite> fut condamné à 15 millions de dollars d'amende en 2002 pour "
-"avoir fourni des échantillons gratuits de cigarettes à l'occasion "
-"d'événements auxquels participaient des enfants. Voir <a href=\"http://www."
-"bbc.co.uk/worldservice/sci_tech/features/health/tobaccotrial/usa.htm"
-"\">http://www.bbc.co.uk/worldservice/sci_tech/features/health/tobaccotrial/"
-"usa.htm</a>.</cite>"
+"L'industriel du tabac <cite>RJ Reynolds Tobacco Company</cite> fut condamné "
+"à 15 millions de dollars d'amende en 2002 pour avoir fourni des échantillons "
+"gratuits de cigarettes à l'occasion d'événements auxquels participaient des "
+"enfants. Voir <a href=\"http://www.bbc.co.uk/worldservice/sci_tech/features/"
+"health/tobaccotrial/usa.htm\">http://www.bbc.co.uk/worldservice/sci_tech/"
+"features/health/tobaccotrial/usa.htm</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
 "<hr /><b>Note de traduction</b><ol id=\"translator-notes-alpha\">\n"
@@ -347,30 +368,26 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
-"Nous faisons le maximum pour proposer des traductions fidèles et de bonne "
-"qualité, mais nous ne sommes pas parfaits. Merci d'adresser vos commentaires "
-"sur cette page, ainsi que vos suggestions d'ordre général sur les "
-"traductions, à <a href=\"mailto:web-translators@gnu.org\"> &lt;web-"
-"translators@gnu.org&gt;</a>.</p>\n"
-"<p>Pour tout renseignement sur la coordination et la soumission des "
-"traductions de nos pages web, reportez-vous au <a href=\"/server/standards/"
-"README.translations.html\">guide de traduction</a>."
+"Merci d'adresser vos commentaires sur cette page et sur les traductions en "
+"général à <a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu."
+"org&gt;</a>.</p>\n"
+"<p>Si vous souhaitez participer à la traduction de nos pages web, vous "
+"trouverez dans <a href=\"/server/standards/README.translations.html\">ce "
+"guide</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2003, 2009, 2014, 2015, 2016, 2019, 2020 Richard Stallman"
-msgstr ""
-"Copyright &copy; 2003, 2009, 2014, 2015, 2016, 2019, 2020 Richard Stallman"
+msgid "Copyright &copy; 2003, 2009, 2014-2016, 2020 Richard Stallman"
+msgstr "Copyright &copy; 2003, 2009, 2014-2016, 2020 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
