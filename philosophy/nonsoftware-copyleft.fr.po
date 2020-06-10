@@ -3,18 +3,18 @@
 # This file is distributed under the same license as the original article.
 # Frédéric Couchet, 1997. http://web.archive.org/web/19990204011019/http://www.april.org/Travaux/Gnufr/nonsoftware-copyleft.html
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2008, 2009.
-# Thérèse Godefroy <godef.th AT free.fr>, 2011, 2012.
+# Thérèse Godefroy <godef.th AT free.fr>, 2011, 2012, 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: nonsoftware-copyleft.html\n"
-"POT-Creation-Date: 2014-03-14 04:34+0000\n"
-"PO-Revision-Date: 2014-03-06 17:55+0100\n"
+"POT-Creation-Date: 2020-06-10 17:25+0000\n"
+"PO-Revision-Date: 2020-06-10 20:48+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 "X-Generator: Gtranslator 2.91.5\n"
@@ -375,12 +375,12 @@ msgstr ""
 #. type: Content of: <p>
 msgid ""
 "The <a href=\"/home.html\">rest of this web site</a> is the home of the GNU "
-"Project and is the canonical source for copyleft and freely-redistributable "
-"software."
+"Project and is the canonical source for copyleft and free software<a href="
+"\"#f1\">(1)</a>."
 msgstr ""
 "Le <a href=\"/home.html\">reste de ce site</a> est dédié au projet GNU ; "
-"c'est la source canonique pour le copyleft et le logiciel librement "
-"redistribuable."
+"c'est la source canonique pour le copyleft et le logiciel libre <a href="
+"\"#f1\">(1)</a>."
 
 #. type: Content of: <p>
 msgid ""
@@ -402,6 +402,18 @@ msgstr ""
 "Quelques-unes de mes propres œuvres non logicielles copyleftées incluent des "
 "écrits (textes littéraires, exposés de synthèse, <a href=\"http://dsl.org/"
 "cookbook/cookbook_toc.html\">articles techniques</a> et de la musique."
+
+#. type: Content of: <h3>
+msgid "Footnote"
+msgstr "Note"
+
+#. type: Content of: <ol><li>
+msgid ""
+"Before 2020, &ldquo;free software&rdquo; was confusingly referred to as "
+"&ldquo;freely-redistributable&rdquo;."
+msgstr ""
+"Avant 2020, l'expression « logiciel librement redistribuable » était "
+"utilisée ici pour désigner le logiciel libre, ce qui prêtait à confusion."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -436,21 +448,19 @@ msgstr ""
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
-"Nous faisons le maximum pour proposer des traductions fidèles et de bonne "
-"qualité, mais nous ne sommes pas parfaits. Merci d'adresser vos commentaires "
-"sur cette page, ainsi que vos suggestions d'ordre général sur les "
-"traductions, à <a href=\"mailto:web-translators@gnu.org\"> &lt;web-"
-"translators@gnu.org&gt;</a>.</p>\n"
-"<p>Pour tout renseignement sur la coordination et la soumission des "
-"traductions de nos pages web, reportez-vous au <a href=\"/server/standards/"
-"README.translations.html\">guide de traduction</a>."
+"Merci d'adresser vos commentaires sur cette page et sur les traductions en "
+"général à <a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu."
+"org&gt;</a>.</p>\n"
+"<p>Si vous souhaitez participer à la traduction de nos pages web, vous "
+"trouverez dans <a href=\"/server/standards/README.translations.html\">ce "
+"guide</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1997 Michael Stutz"
-msgstr "Copyright &copy; 1997 Michael Stutz"
+msgid "Copyright &copy; 1997, 2020 Michael Stutz"
+msgstr "Copyright &copy; 1997, 2020 Michael Stutz"
 
 #. type: Content of: <div><p>
 msgid ""
