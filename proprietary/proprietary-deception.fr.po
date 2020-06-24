@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-deception.html\n"
-"POT-Creation-Date: 2020-06-01 10:55+0000\n"
+"POT-Creation-Date: 2020-06-20 10:33+0200\n"
 "PO-Revision-Date: 2020-06-01 13:13+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: fr <trad-gnu@april.org>\n"
@@ -20,13 +20,37 @@ msgid "Proprietary Deception - GNU Project - Free Software Foundation"
 msgstr ""
 "Pratiques trompeuses du privateur - Projet GNU - Free Software Foundation"
 
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Section contents"
+msgstr "Menu de section"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Section contents]&nbsp;"
+msgstr "&nbsp;[Menu de section]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Accueil GNU"
+
 #. type: Content of: <div><p>
 msgid ""
-"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
-"Deception"
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
+"type&nbsp;/"
 msgstr ""
-"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
-"Tromperie"
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Maliciels</a>&nbsp;/ "
+"Par type&nbsp;/"
 
 #. type: Content of: <div><h2>
 msgid "Proprietary Deception"
@@ -52,7 +76,7 @@ msgstr ""
 msgid "This typically takes the form of malicious functionalities."
 msgstr "Cela prend habituellement la forme de fonctionnalités malveillantes."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "Deception is a malicious functionality that makes the program dishonest or "
 "conceals trickery. Here are examples of such malicious functionalities. "
@@ -65,7 +89,7 @@ msgstr ""
 "spéciale : <a href=\"/proprietary/proprietary-fraud.html#main-heading"
 "\">Escroqueries du logiciel privateur</a>."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "If you know of an example that ought to be in this page but isn't here, "
 "please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
@@ -78,7 +102,7 @@ msgstr ""
 "Merci de fournir les URL d'une ou deux références fiables et spécifiques "
 "pour l'étayer."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Many Android apps fool their users by asking them to decide what permissions "
 "to give the program, and then <a href=\"https://nakedsecurity.sophos."
@@ -91,7 +115,7 @@ msgstr ""
 "permissions-to-access-sensitive-data/\">ne tiennent pas compte de ces "
 "permissions</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Android system is supposed to prevent data leaks by running apps in "
 "isolated sandboxes, but developers have found ways to access the data by "
@@ -104,7 +128,7 @@ msgstr ""
 "l'utilisateur puisse faire pour les en empêcher, puisque le système et "
 "l'appli sont tous deux privateurs."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Volkswagen programmed its car engine computers to <a href=\"https://www."
 "petri.com/volkswagen-used-software-to-cheat-on-emissions\"> detect the "
@@ -120,7 +144,7 @@ msgstr ""
 "En conditions réelles, les voitures excédaient les normes d'émission d'un "
 "facteur allant jusqu'à 35."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Using free software would not have stopped Volkswagen from programming it "
 "this way, but would have made it harder to conceal, and given the users the "
@@ -130,7 +154,7 @@ msgstr ""
 "programmer ainsi ses ordinateurs, mais la fraude aurait été plus difficile à "
 "cacher et les utilisateurs auraient eu une chance de la corriger."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Former executives of Volkswagen are being <a href=\"https://www.theguardian."
 "com/business/2019/apr/15/former-head-of-volkswagen-could-face-10-years-in-"
@@ -140,7 +164,7 @@ msgstr ""
 "com/business/2019/apr/15/former-head-of-volkswagen-could-face-10-years-in-"
 "prison\">poursuivis pour cette fraude</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "OfficeMax cheated customers by <a href=\"https://arstechnica.com/tech-"
 "policy/2019/03/office-depot-tricked-people-into-buying-pc-support-with-fake-"
@@ -155,7 +179,7 @@ msgstr ""
 "de faux résultats</a> leur faisant croire que leur ordinateur était infecté, "
 "afin de leur vendre des services de maintenance inutiles."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Twenty nine &ldquo;beauty camera&rdquo; apps that used to be on Google Play "
 "had one or more malicious functionalities, such as <a href=\"http://web-old."
@@ -177,7 +201,7 @@ msgstr ""
 "utilisateurs de la plupart d'entre elles était conçue de telle sorte "
 "qu'elles soient difficiles à désinstaller."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Users should of course uninstall these dangerous apps if they haven't yet, "
 "but they should also stay away from nonfree apps in general. <em>All</em> "
@@ -190,7 +214,7 @@ msgstr ""
 "risque, parce qu'on ne peut pas vérifier facilement ce qu'elles font en "
 "réalité."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"http://jalopnik.com/america-figured-out-a-new-way-audi-cheated-on-"
 "emissions-1788630969\"> Audi's proprietary software used a simple method to "
@@ -203,7 +227,7 @@ msgstr ""
 "activer un mode particulier de changement de vitesse qui émet peu de "
 "polluants, jusqu'au moment où la voiture effectue son premier virage."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Many proprietary programs secretly <a href=\"https://www.theregister.co."
 "uk/2016/08/05/payperinstall_study/\">install other proprietary programs that "
@@ -213,7 +237,7 @@ msgstr ""
 "uk/2016/08/05/payperinstall_study/\">installent secrètement d'autres "
 "programmes privateurs que les utilisateurs ne veulent pas</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The proprietor of the Pokémon Go game <a href=\"https://www.theguardian.com/"
 "technology/2016/jul/14/pokemon-go-sponsored-locations-restaurants-business"
@@ -225,7 +249,7 @@ msgstr ""
 "\">invite les restaurants et autres commerces à payer pour que le jeu "
 "entraîne les gens vers eux</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "A top-ranking proprietary Instagram client promising to tell users who's "
 "been watching their pictures was in reality <a href=\"http://www.theguardian."
@@ -241,7 +265,7 @@ msgstr ""
 "ligne sans leur consentement."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -266,29 +290,25 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
-"Nous faisons le maximum pour proposer des traductions fidèles et de bonne "
-"qualité, mais nous ne sommes pas parfaits. Merci d'adresser vos commentaires "
-"sur cette page, ainsi que vos suggestions d'ordre général sur les "
-"traductions, à <a href=\"mailto:web-translators@gnu.org\"> &lt;web-"
-"translators@gnu.org&gt;</a>.</p>\n"
-"<p>Pour tout renseignement sur la coordination et la soumission des "
-"traductions de nos pages web, reportez-vous au <a href=\"/server/standards/"
-"README.translations.html\">guide de traduction</a>."
+"Merci d'adresser vos commentaires sur cette page et sur les traductions en "
+"général à <a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu."
+"org&gt;</a>.</p>\n"
+"<p>Si vous souhaitez participer à la traduction de nos pages web, vous "
+"trouverez dans <a href=\"/server/standards/README.translations.html\">ce "
+"guide</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
-"Foundation, Inc."
+msgid "Copyright &copy; 2015-2020 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2015-2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>

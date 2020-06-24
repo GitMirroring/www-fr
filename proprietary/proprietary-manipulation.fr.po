@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-manipulation.html\n"
-"POT-Creation-Date: 2019-11-18 14:55+0000\n"
+"POT-Creation-Date: 2020-06-20 10:31+0200\n"
 "PO-Revision-Date: 2019-11-18 18:14+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -21,13 +21,37 @@ msgstr ""
 "Pratiques manipulatrices du privateur - GNU Project - Free Software "
 "Foundation"
 
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Section contents"
+msgstr "Menu de section"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Section contents]&nbsp;"
+msgstr "&nbsp;[Menu de section]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Accueil GNU"
+
 #. type: Content of: <div><p>
 msgid ""
-"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
-"Manipulation"
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
+"type&nbsp;/"
 msgstr ""
-"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
-"Manipulation"
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Maliciels</a>&nbsp;/ "
+"Par type&nbsp;/"
 
 #. type: Content of: <div><h2>
 msgid "Proprietary Manipulation"
@@ -53,7 +77,7 @@ msgstr ""
 msgid "This typically takes the form of malicious functionalities."
 msgstr "Cela prend habituellement la forme de fonctionnalités malveillantes."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "Manipulation of users is one of these malicious functionalities.  Here are "
 "examples of programs that are designed to do this by taking advantage of "
@@ -63,7 +87,7 @@ msgstr ""
 "malveillantes. Voici des exemples de programmes qui sont conçus pour "
 "exploiter la psychologie humaine à cette fin."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "We have a special page for <a href=\"/proprietary/proprietary-addictions.html"
 "\">Addictive programs</a>, which also take advantage of human psychology, "
@@ -73,7 +97,7 @@ msgstr ""
 "addictions.html\">programmes addictifs</a>, qui exploitent également la "
 "psychologie humaine, mais de manière beaucoup plus élaborée et dangereuse."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "If you know of an example that ought to be in this page but isn't here, "
 "please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
@@ -86,7 +110,7 @@ msgstr ""
 "Merci de fournir les URL d'une ou deux références fiables et spécifiques "
 "pour l'étayer."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Femm &ldquo;fertility&rdquo; app is secretly a <a href=\"https://www."
 "theguardian.com/world/2019/may/30/revealed-womens-fertility-app-is-funded-by-"
@@ -98,13 +122,13 @@ msgstr ""
 "anti-abortion-campaigners\">instrument de propagande</a> aux chrétiens "
 "natalistes. Elle propage la méfiance envers la contraception."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "It snoops on users, too, as you must expect from nonfree programs."
 msgstr ""
 "De plus, elle espionne les utilisatrices, comme on peut s'y attendre de la "
 "part d'un programme non libre."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Jibo robot toys were tethered to the manufacturer's server, and <a href="
 "\"https://www.apnews.com/99c9ec8ebad242ca88178e22c7642648\"> the company "
@@ -113,7 +137,7 @@ msgstr ""
 "Les robots-jouets Jibo dépendaient du serveur du fabricant. Ce dernier ayant "
 "arrêté son serveur, les robots sont devenus inutilisables."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The shutdown might ironically be good for their users, since the product was "
 "designed to manipulate people by presenting a phony semblance of emotions, "
@@ -123,7 +147,7 @@ msgstr ""
 "car ce produit était conçu pour manipuler les gens en simulant des émotions "
 "et très certainement les espionnait."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "&ldquo;Dark patterns&rdquo; are <a href=\"http://www.theverge."
 "com/2013/8/29/4640308/dark-patterns-inside-the-interfaces-designed-to-trick-"
@@ -135,7 +159,7 @@ msgstr ""
 "you\">des interfaces web conçues pour piéger les utilisateurs ou rendre "
 "certains réglages difficiles à trouver</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This allows a company such as Apple to say, &ldquo;We allow users to turn "
 "this off&rdquo; while ensuring that few will understand how to actually turn "
@@ -146,7 +170,7 @@ msgstr ""
 "comprendront comment le faire."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -171,28 +195,26 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
-"Nous faisons le maximum pour proposer des traductions fidèles et de bonne "
-"qualité, mais nous ne sommes pas parfaits. Merci d'adresser vos commentaires "
-"sur cette page, ainsi que vos suggestions d'ordre général sur les "
-"traductions, à <a href=\"mailto:web-translators@gnu.org\"> &lt;web-"
-"translators@gnu.org&gt;</a>.</p>\n"
-"<p>Pour tout renseignement sur la coordination et la soumission des "
-"traductions de nos pages web, reportez-vous au <a href=\"/server/standards/"
-"README.translations.html\">guide de traduction</a>."
+"Merci d'adresser vos commentaires sur cette page et sur les traductions en "
+"général à <a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu."
+"org&gt;</a>.</p>\n"
+"<p>Si vous souhaitez participer à la traduction de nos pages web, vous "
+"trouverez dans <a href=\"/server/standards/README.translations.html\">ce "
+"guide</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2019 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2019 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2019, 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2019, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

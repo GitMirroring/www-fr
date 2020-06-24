@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-sabotage.html\n"
-"POT-Creation-Date: 2020-02-15 14:55+0000\n"
+"POT-Creation-Date: 2020-06-20 10:30+0200\n"
 "PO-Revision-Date: 2020-02-15 17:39+0100\n"
 "Last-Translator: Félicien Pillot <felicien AT gnu.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -23,13 +23,37 @@ msgstr ""
 msgid "Proprietary Sabotage - GNU Project - Free Software Foundation"
 msgstr "Sabotage privateur - Projet GNU - Free Software Foundation"
 
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Section contents"
+msgstr "Menu de section"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Section contents]&nbsp;"
+msgstr "&nbsp;[Menu de section]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Accueil GNU"
+
 #. type: Content of: <div><p>
 msgid ""
-"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
-"Sabotage"
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
+"type&nbsp;/"
 msgstr ""
-"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
-"Sabotage"
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Maliciels</a>&nbsp;/ "
+"Par type&nbsp;/"
 
 #. type: Content of: <div><h2>
 msgid "Proprietary Sabotage"
@@ -55,7 +79,7 @@ msgstr ""
 msgid "This typically takes the form of malicious functionalities."
 msgstr "Cela prend habituellement la forme de fonctionnalités malveillantes."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "Some malicious functionalities mediate sabotage, i.e. abusive interference "
 "of the developer into the use of the software, with harmful consequences for "
@@ -66,7 +90,7 @@ msgstr ""
 "avec des conséquences néfastes pour les utilisateurs. Des exemples de telles "
 "situations sont rapportées ci-dessous."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "If you know of an example that ought to be in this page but isn't here, "
 "please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
@@ -79,7 +103,7 @@ msgstr ""
 "Merci de fournir les URL d'une ou deux références fiables et spécifiques "
 "pour l'étayer."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "iMonsters and Android phones, when used for work, give employers powerful <a "
 "href=\"https://www.fastcompany.com/90440073/if-you-use-your-personal-phone-"
@@ -96,7 +120,7 @@ msgstr ""
 "l'employé, c'est simplement un logiciel privateur, aussi fondamentalement "
 "injuste et dangereux que n'importe quel autre logiciel privateur."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Adobe has <a href=\"https://www.bleepingcomputer.com/news/software/adobe-to-"
 "ban-users-from-venezuela-due-to-us-executive-order/\"> cancelled the "
@@ -108,7 +132,7 @@ msgstr ""
 "abonnements à ses logiciels au Venezuela</a>. Cela montre comment un "
 "abonnement obligatoire peut être transformé en instrument de sabotage. "
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Tesla users claim Tesla <a href=\"https://www.reuters.com/article/us-tesla-"
 "battery/tesla-owner-lawsuit-claims-software-update-fraudulently-cut-battery-"
@@ -123,7 +147,7 @@ msgstr ""
 "logiciel qui réduit leur autonomie</a>. Tesla a fait cela pour éviter "
 "d'avoir à les remplacer sous garantie."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This means that proprietary software can potentially be a way to commit "
 "perjury with impunity."
@@ -131,7 +155,7 @@ msgstr ""
 "Cela signifie qu'un logiciel privateur peut être un moyen de se parjurer en "
 "toute impunité."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "When Apple suspects a user of fraud, it judges the case secretly and "
 "presents the verdict as a fait accompli.  The punishment to a user found "
@@ -147,7 +171,7 @@ msgstr ""
 "committed-fraud/\">banni à vie, ce qui rend ses appareils Apple plus ou "
 "moins inutilisables pour toujours</a>. C'est sans appel."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Microsoft has been <a href=\"https://borncity.com/win/2019/01/17/windows-10-"
 "update-kb4023057-re-released-1-16-2019/\"> force-installing a &ldquo;"
@@ -177,7 +201,7 @@ msgstr ""
 "\"https://www.windowsmode.com/microsoft-suspends-windows-10-october-2018-"
 "update-rollout-due-to-critical-bugs/\">critiques</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This exemplifies the arrogant and manipulative attitude that proprietary "
 "software developers have learned to adopt toward the people they are "
@@ -189,7 +213,7 @@ msgstr ""
 "qu'ils sont censés servir. Migrez vers un <a href=\"/distros/free-distros."
 "html\">système d'exploitation libre</a> si vous le pouvez !"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "If your employer makes you run Windows, tell the financial department how "
 "this wastes your time dealing with endless connections and premature "
@@ -199,7 +223,7 @@ msgstr ""
 "financier combien de temps cela vous fait perdre en connexions interminables "
 "et pannes matérielles prématurées."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Ebooks &ldquo;bought&rdquo; from Microsoft's store check that their DRM is "
 "valid by connecting to the store every time their &ldquo;owner&rdquo; wants "
@@ -215,7 +239,7 @@ msgstr ""
 "sous DRM « vendus » depuis son ouverture</a>. (De plus, l'article souligne "
 "les méfaits de la gestion numérique des restrictions.)"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This is another proof that a DRM-encumbered product doesn't belong to the "
 "person who bought it. Microsoft said it will refund customers, but this is "
@@ -225,7 +249,7 @@ msgstr ""
 "personne qui l'a acheté. Microsoft dit qu'elle va rembourser ses clients, "
 "mais ce n'est pas une excuse pour leur vendre des livres à usage restreint."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The British supermarket Tesco sold tablets which were tethered to Tesco's "
 "server for reinstalling default settings.  Tesco <a href=\"https://www."
@@ -240,7 +264,7 @@ msgstr ""
 "anciens</a>, de sorte que si on essaie de réinstaller les réglages par "
 "défaut, la tablette devient inutilisable."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Twenty nine &ldquo;beauty camera&rdquo; apps that used to be on Google Play "
 "had one or more malicious functionalities, such as stealing users' photos "
@@ -261,7 +285,7 @@ msgstr ""
 "personnelles. De plus, l'interface utilisateurs de la plupart d'entre elles "
 "était conçue de telle sorte qu'elles soient difficiles à désinstaller."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Users should of course uninstall these dangerous apps if they haven't yet, "
 "but they should also stay away from nonfree apps in general. <em>All</em> "
@@ -274,7 +298,7 @@ msgstr ""
 "risque, parce qu'on ne peut pas vérifier facilement ce qu'elles font en "
 "réalité."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Foundry's graphics software <a href=\"https://torrentfreak.com/software-"
 "company-fines-pirates-after-monitoring-their-computers-181102/\"> reports "
@@ -287,7 +311,7 @@ msgstr ""
 "souvent par la demande d'une grosse somme d'argent sous la menace d'un "
 "procès."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The fact that this is used for repression of forbidden sharing makes it even "
 "more vicious."
@@ -295,7 +319,7 @@ msgstr ""
 "Le fait qu'il soit utilisé pour réprimer le partage non autorisé rend ce "
 "procédé encore plus vicieux."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This illustrates that making unauthorized copies of nonfree software is not "
 "a cure for the injustice of nonfree software. It may avoid paying for the "
@@ -305,7 +329,7 @@ msgstr ""
 "remède contre l'injustice qu'ils représentent. Elle permet ne pas payer pour "
 "ces choses malfaisantes, mais ne peut pas les rendre moins malfaisantes."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple and Samsung deliberately <a href=\"https://www.theguardian.com/"
 "technology/2018/oct/24/apple-samsung-fined-for-slowing-down-phones\">degrade "
@@ -316,7 +340,7 @@ msgstr ""
 "les performances des anciens téléphones pour forcer les utilisateurs à "
 "acheter leurs nouveaux modèles</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Printer manufacturers are very innovative&mdash;at blocking the use of "
 "independent replacement ink cartridges. Their &ldquo;security "
@@ -332,7 +356,7 @@ msgstr ""
 "article/pa98ab/printer-makers-are-crippling-cheap-ink-cartridges-via-bogus-"
 "security-updates\">HP et Epson le font</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Jawbone fitness tracker was tethered to a proprietary phone app.  In "
 "2017, the company shut down and made the app stop working. <a href=\"https://"
@@ -346,7 +370,7 @@ msgstr ""
 "fitness-trackers-kept-selling-after-app-closure-says-which\">Tous les "
 "traqueurs existants ont cessé de fonctionner pour toujours</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The article focuses on a further nasty fillip, that sales of the broken "
 "devices continued. But we think that is a secondary issue; it made the nasty "
@@ -360,7 +384,7 @@ msgstr ""
 "personnes. La faute première, c'est d'avoir conçu des appareils dépendants "
 "d'une chose extérieure qui ne respecte pas la liberté des utilisateurs."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The game Metal Gear Rising for MacOS was tethered to a server.  The company "
 "<a href=\"http://www.gamerevolution.com/news/400087-metal-gear-rising-mac-"
@@ -371,7 +395,7 @@ msgstr ""
 "rising-mac-unplayable-drm\">a arrêté le serveur et toutes les copies du jeu "
 "ont cessé de fonctionner</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple has <a href=\"https://www.theverge.com/2018/5/31/17412396/telegram-"
 "apple-app-store-app-updates-russia\">blocked Telegram from upgrading its app "
@@ -381,7 +405,7 @@ msgstr ""
 "app-store-app-updates-russia\">empêché Telegram de mettre à jour son appli "
 "pendant un mois</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This evidently has to do with Russia's command to Apple to block Telegram in "
 "Russia."
@@ -389,7 +413,7 @@ msgstr ""
 "Évidemment, ceci a rapport avec l'injonction du gouvernement russe à Apple "
 "de bloquer Telegram en Russie."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Telegram client is free software on other platforms, but not on iThings. "
 "Since <a href=\"/proprietary/proprietary-jails.html#apple\">they are jails</"
@@ -400,7 +424,7 @@ msgstr ""
 "html#apple\">ce sont des prisons</a>, elles ne permettent à aucune appli "
 "d'être libre."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Logitech will sabotage all Harmony Link household control devices by <a href="
 "\"https://arstechnica.com/gadgets/2017/11/logitech-to-shut-down-service-and-"
@@ -413,7 +437,7 @@ msgstr ""
 "au travers duquel les supposés propriétaires de ces appareils communiquent "
 "avec eux</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The owners suspect this is to pressure them to buy a newer model. If they "
 "are wise, they will learn, rather, to distrust any product that requires "
@@ -424,7 +448,7 @@ msgstr ""
 "produit qui oblige les utilisateurs à communiquer avec lui au travers d'un "
 "service spécialisé."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "MacOS High Sierra forcibly reformats SSD boot drives, and <a href=\"https://"
 "www.macworld.com/article/3230498/apple-file-system-apfs-faq.html\"> changes "
@@ -437,7 +461,7 @@ msgstr ""
 "GNU/Linux, ni Windows, ni même les anciennes versions de MacOS ne peuvent "
 "accéder."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Canary home surveillance camera has been sabotaged by its manufacturer, "
 "<a href=\"https://www.theverge.com/circuitbreaker/2017/10/4/16426394/canary-"
@@ -450,11 +474,11 @@ msgstr ""
 "update-change\">inactivant de nombreuses fonctionnalités à moins que "
 "l'utilisateur ne commence à payer un abonnement</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "With manufacturers like these, who needs security breakers?"
 msgstr "Avec des fabricants comme ça, qui a besoin de pirates ?"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The purchasers should learn the larger lesson and reject connected "
 "appliances with embedded proprietary software. Every such product is a "
@@ -464,7 +488,7 @@ msgstr ""
 "appareils connectés contenant du logiciel privateur embarqué. Chacun de ces "
 "produits est une invitation au sabotage."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Tesla used software to limit customers to using just <a href=\"https://"
 "techcrunch.com/2017/09/09/tesla-flips-a-switch-to-increase-the-range-of-some-"
@@ -476,7 +500,7 @@ msgstr ""
 "cars-in-florida-to-help-people-evacuate/\">limite l'utilisation de la "
 "batterie</a> par le client à une partie seulement de sa capacité."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Sonos <a href=\"http://www.zdnet.com/article/sonos-accept-new-privacy-policy-"
 "speakers-cease-to-function/\"> told all its customers, &ldquo;Agree&rdquo; "
@@ -494,7 +518,7 @@ msgstr ""
 "a>, le logiciel ne sera pas modifié de force, mais comme les gens ne "
 "pourront plus obtenir de mise à jour, il finira par ne plus fonctionner."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple will stop <a href=\"https://www.theguardian.com/technology/2017/jun/06/"
 "iphone-ipad-apps-games-apple-5-5c-obsolete\">fixing bugs for older model "
@@ -504,7 +528,7 @@ msgstr ""
 "jun/06/iphone-ipad-apps-games-apple-5-5c-obsolete\">fournir des correctifs "
 "pour les anciens modèles d'iTrucs</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Meanwhile, Apple stops people from fixing problems themselves; that's the "
 "nature of proprietary software."
@@ -512,7 +536,7 @@ msgstr ""
 "En même temps, Apple empêche les gens de corriger les problèmes par eux-"
 "mêmes ; c'est la nature du logiciel privateur."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Bird and rabbit pets were implemented for Second Life by a company that "
 "tethered their food to a server.  <a href=\"https://www.rockpapershotgun."
@@ -524,7 +548,7 @@ msgstr ""
 "rockpapershotgun.com/2017/05/19/second-life-ozimals-pet-rabbits-dying\">Elle "
 "a arrêté le serveur et les animaux sont morts, ou presque</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Microsoft has made Windows 7 and 8 cease to function on certain new "
 "computers, <a href=\"https://support.microsoft.com/en-us/help/4012982/the-"
@@ -536,7 +560,7 @@ msgstr ""
 "help/4012982/the-processor-is-not-supported-together-with-the-windows-"
 "version-that\">ce qui oblige leurs propriétaires à passer à Windows 10</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Microsoft <a href=\"https://arstechnica.com/information-technology/2017/04/"
 "new-processors-are-now-blocked-from-receiving-updates-on-old-windows/\"> has "
@@ -547,7 +571,7 @@ msgstr ""
 "hâtivement abandonné le support de Windows 7 et 8 pour les processeurs les "
 "plus récents</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "It makes no difference what legitimate reasons Microsoft might have for not "
 "doing work to support them. If it doesn't want to do this work, it should "
@@ -557,7 +581,7 @@ msgstr ""
 "pour les gérer. Même s'ils ne veulent plus travailler dessus, ils devraient "
 "permettre aux utilisateurs de le faire."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Anova sabotaged users' cooking devices with a downgrade that tethered them "
 "to a remote server. <a href=\"https://web.archive.org/web/20170415145520/"
@@ -572,7 +596,7 @@ msgstr ""
 "cook-food/\">À moins que l'utilisateur ne crée un compte sur les serveurs "
 "d'Annova, son assistant cesse de fonctionner</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The iPhone 7 contains DRM specifically designed to <a href=\"https://"
 "motherboard.vice.com/en_us/article/kbjm8e/iphone-7-home-button-unreplaceable-"
@@ -586,7 +610,7 @@ msgstr ""
 "« non autorisé » le répare</a>, ce qui veut dire à peu près tout le monde en "
 "dehors d'Apple."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<small>(The article uses the term &ldquo;lock&rdquo; to describe the DRM, "
 "but we prefer to use the term <a href=\"/philosophy/words-to-avoid."
@@ -596,7 +620,7 @@ msgstr ""
 "préférons utiliser le terme <a href=\"/philosophy/words-to-avoid."
 "html#DigitalLocks\">menottes numériques</a>.)</small>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The developer of Ham Radio Deluxe <a href=\"https://www.techdirt.com/"
 "articles/20161220/12411836320/company-bricks-users-software-after-he-posts-"
@@ -608,7 +632,7 @@ msgstr ""
 "negative-review.shtml\">a saboté l'installation d'un client pour avoir posté "
 "une revue défavorable</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Most proprietary software companies don't use their power so harshly, but it "
 "is an injustice that they all <em>have</em> such power."
@@ -617,7 +641,7 @@ msgstr ""
 "de manière si rude, mais il est injuste qu'ils <em>possèdent</em> tous ce "
 "pouvoir."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "HP's firmware downgrade <a href=\"https://www.theguardian.com/"
 "technology/2016/sep/20/hp-inkjet-printers-unofficial-cartridges-software-"
@@ -630,7 +654,7 @@ msgstr ""
 "imprimantes, qui désormais refusent de fonctionner avec les cartouches des "
 "autres fabricants</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "In its efforts to trick users of Windows 7 and 8 into installing all-spying "
 "Windows 10 against their will, Microsoft forced their computers to <a href="
@@ -659,7 +683,7 @@ msgstr ""
 "gizmodo.com/woman-wins-10-000-from-microsoft-after-unwanted-"
 "window-1782666146\">régression</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple <a href=\"https://www.theregister.co.uk/2016/04/14/"
 "uninstall_quicktime_for_windows/\"> stops users from fixing the security "
@@ -670,7 +694,7 @@ msgstr ""
 "failles de sécurité dans la version Windows de Quicktime</a>, tout en "
 "refusant de les corriger elle-même."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Once Microsoft has tricked a user into accepting installation of Windows 10, "
 "<a href=\"https://www.theregister.co.uk/2016/06/01/"
@@ -682,7 +706,7 @@ msgstr ""
 "windows_10_nagware_no_way_out/\">il s'aperçoit que l'option d'annuler ou "
 "même de différer la date imposée pour l'installation lui est refusée</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This demonstrates what we've said for years: using proprietary software "
 "means letting someone have power over you, and you're going to get screwed "
@@ -692,7 +716,7 @@ msgstr ""
 "du logiciel privateur, vous laissez quelqu'un prendre le pouvoir sur vous et "
 "vous êtes sûr de vous faire avoir."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Apple Music client program <a href=\"https://web.archive.org/"
 "web/20170520213355/https://blog.vellumatlanta.com/2016/05/04/apple-stole-my-"
@@ -705,7 +729,7 @@ msgstr ""
 "fichiers de l'utilisateur, les copie sur un serveur d'Apple, et puis les "
 "supprime</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Revolv is a device that managed &ldquo;smart home&rdquo; operations: "
 "switching lights, operate motion sensors, regulating temperature, etc.  Its "
@@ -720,7 +744,7 @@ msgstr ""
 "reminds-customers-ownership-isnt-what-it-used-be\">mis délibérément hors "
 "d'usage en arrêtant le serveur</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "If it were free software, users would have the ability to make it work "
 "again, differently, and then have a freedom-respecting home instead of a "
@@ -735,7 +759,7 @@ msgstr ""
 "papiers de luxe hors garantie. Exigez des ordinateurs autonomes faisant "
 "tourner des logiciels libres !"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "iOS version 9 for iThings <a href=\"https://www.theguardian.com/money/2016/"
 "feb/05/error-53-apple-iphone-software-update-handset-worthless-third-party-"
@@ -750,7 +774,7 @@ msgstr ""
 "Apple a finalement fait marche arrière sur ce point, sans toutefois "
 "reconnaître ses torts."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "FTDI's proprietary driver for its USB-to-serial chips has been designed to "
 "<a href=\"http://arstechnica.com/information-technology/2014/10/windows-"
@@ -768,7 +792,7 @@ msgstr ""
 "<a href=\"http://it.slashdot.org/story/16/01/31/1720259/ftdi-driver-breaks-"
 "hardware-again\">l'installe automatiquement</a> en tant que mise à jour."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Philips &ldquo;smart&rdquo; lightbulbs had initially been designed to "
 "interact with other companies' smart light bulbs, but <a href=\"https://www."
@@ -783,7 +807,7 @@ msgstr ""
 "\">par la suite, la société a mis à jour leur micrologiciel pour interdire "
 "l'interopérabilité</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "If a product is &ldquo;smart&rdquo;, and you didn't build it, it is cleverly "
 "serving its manufacturer <em>against you</em>."
@@ -792,7 +816,7 @@ msgstr ""
 "utilise son intelligence pour servir son fabricant <em>à votre détriment</"
 "em>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Google has long had <a href=\"http://www.theguardian.com/technology/2015/"
 "nov/24/google-can-unlock-android-devices-remotely-if-phone-unencrypted\">a "
@@ -807,7 +831,7 @@ msgstr ""
 "chiffrement est possible depuis Android Lollipop, mais n'est pas encore "
 "activé par défaut)."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Windows 10 &ldquo;upgrades&rdquo; <a href=\"http://www.ghacks.net/2015/11/24/"
 "beware-latest-windows-10-update-may-remove-programs-automatically/\"> delete "
@@ -817,7 +841,7 @@ msgstr ""
 "net/2015/11/24/beware-latest-windows-10-update-may-remove-programs-"
 "automatically/\">suppriment des applications</a> sans demander la permission."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple forced millions of iThings to <a href=\"https://discussions.apple.com/"
 "thread/7256669?tstart=0\">download a system upgrade without asking the "
@@ -829,7 +853,7 @@ msgstr ""
 "rien demander aux utilisateurs</a>. Apple n'a pas installé la mise à jour de "
 "force, mais le téléchargement lui-même a causé pas mal de problèmes."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"https://www.computerworld.com/article/2984889/lenovo-collects-"
 "usage-data-on-thinkpad-thinkcentre-and-thinkstation-pcs.html\"> Lenovo "
@@ -848,7 +872,7 @@ msgstr ""
 "\"/proprietary/malware-microsoft.html\">Microsoft y ajoute ses propres "
 "logiciels malveillants</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Vizio <a href=\"http://boingboing.net/2015/04/30/telescreen-watch-vizio-adds-"
 "s.html\"> used a firmware &ldquo;upgrade&rdquo; to make its TVs snoop on "
@@ -860,7 +884,7 @@ msgstr ""
 "les utilisateurs</a>. Les téléviseurs ne le faisaient pas quand ils ont été "
 "mis sur le marché."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Mac OS X had an <a href=\"https://truesecdev.wordpress.com/2015/04/09/hidden-"
 "backdoor-api-to-root-privileges-in-apple-os-x/\"> intentional local back "
@@ -872,7 +896,7 @@ msgstr ""
 "porte dérobée intentionnelle</a> qui pouvait être exploitée par des "
 "attaquants pour obtenir les privilèges du superutilisateur <cite>root</cite>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"https://www.computerworlduk.com/it-business/windows-xp-end-of-an-"
 "era-end-of-an-error-3569489/\">Microsoft cut off security fixes for Windows "
@@ -883,7 +907,7 @@ msgstr ""
 "de sécurité pour Windows XP, sauf à quelques gros utilisateurs qui paient un "
 "prix exorbitant</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Microsoft is going to <a href=\"https://web.archive.org/web/20181030194725/"
 "https://www.computerworlduk.com/applications/more-than-half-of-all-ie-users-"
@@ -895,7 +919,7 @@ msgstr ""
 "face-patch-axe-in-10-months-3605515/\">mettre fin au support de certaines "
 "versions d'Internet Explorer</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "A person or company has the right to cease to work on a particular program; "
 "the wrong here is Microsoft does this after having made the users dependent "
@@ -908,7 +932,7 @@ msgstr ""
 "ne sont pas libres de demander à quelqu'un d'autre de travailler pour eux "
 "sur ce programme."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Amazon <a href=\"https://www.techdirt.com/articles/20150321/13350230396/"
 "while-bricking-jailbroken-fire-tvs-last-year-amazon-did-same-to-kindle-"
@@ -921,7 +945,7 @@ msgstr ""
 "les Swindles des utilisateurs</a> pour que ceux qui étaient déjà débloqués "
 "cessent complètement de fonctionner."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple <a href=\"http://www.theguardian.com/technology/2014/dec/04/apple-"
 "deleted-music-ipods-rivals-steve-jobs\"> deleted from iPods the music that "
@@ -932,7 +956,7 @@ msgstr ""
 "musique que leurs utilisateurs avaient obtenue sur des sites de musique en "
 "ligne concurrents d'iTunes</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"https://www.eff.org/deeplinks/2014/10/nintendo-updates-take-wii-u-"
 "hostage-until-you-agree-new-legal-terms\">Nintendo remotely sabotaged all "
@@ -944,7 +968,7 @@ msgstr ""
 "nouveau <abbr title=\"contrat de licence d'utilisateur final\">CLUF</abbr></"
 "a>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "We can be quite sure this EULA is unjust because injustice is the only "
 "motive for imposing an EULA."
@@ -952,7 +976,7 @@ msgstr ""
 "Nous pouvons êtres tout à fait sûrs que ce CLUF était injuste puisque "
 "l'injustice est la seule raison possible pour imposer un CLUF."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "LG <a href=\"http://www.techdirt.com/articles/20140511/17430627199/lg-will-"
 "take-smart-out-your-smart-tv-if-you-dont-agree-to-share-your-viewing-search-"
@@ -967,7 +991,7 @@ msgstr ""
 "moins que les acheteurs ne consentent à laisser LG se mettre à les espionner "
 "et à distribuer leurs données personnelles."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Some proprietary <a href=\"http://www.theguardian.com/technology/2014/jan/19/"
 "apple-talking-cats-in-app-purchases\"> games lure children to spend their "
@@ -977,7 +1001,7 @@ msgstr ""
 "technology/2014/jan/19/apple-talking-cats-in-app-purchases\">emploient la "
 "ruse pour inciter les enfants à dépenser l'argent de leurs parents</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"http://www.theguardian.com/world/2013/sep/05/nsa-gchq-encryption-"
 "codes-security\">The NSA has put back doors into nonfree encryption "
@@ -992,7 +1016,7 @@ msgstr ""
 "confirme qu'on ne peut pas faire confiance à la sécurité des logiciels non "
 "libres."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"https://web.archive.org/web/20130622044225/http://blogs."
 "computerworlduk.com/open-enterprise/2013/06/how-can-any-company-ever-trust-"
@@ -1004,7 +1028,7 @@ msgstr ""
 "microsoft-again/index.htm\">Microsoft renseigne la NSA sur les bogues de "
 "Windows avant de les corriger</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Adobe applications have time bombs: they <a href=\"http://techcrunch."
 "com/2013/05/06/adobe-goes-all-in-with-subscription-based-creative-cloud-will-"
@@ -1017,7 +1041,7 @@ msgstr ""
 "boxes/\">cessent de fonctionner au bout d'un certain temps</a>, après quoi "
 "l'utilisateur doit payer pour prolonger cette durée."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Once there was a problem with the servers that these programs use to check "
 "who has paid, and <a href=\"http://www.macuser.co.uk/9015-adobe-creative-"
@@ -1029,7 +1053,7 @@ msgstr ""
 "creative-cloud-outage-leaves-adobe-users-locked-out\">les applications ont "
 "cessé de fonctionner pour tout le monde</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Oracle's nonfree Java plug-in for browsers <a href=\"http://www.zdnet.com/"
 "article/a-close-look-at-how-oracle-installs-deceptive-software-with-java-"
@@ -1040,7 +1064,7 @@ msgstr ""
 "with-java-updates/\">installe furtivement d'autres logiciels, privateurs et "
 "exaspérants</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "That article disregards all other bad things about proprietary software.  "
 "For instance, it regards the inclusion of proprietary Flash Player (which "
@@ -1057,7 +1081,7 @@ msgstr ""
 "navigateur privateur avec une porte dérobée <cite>[backdoor]</cite> "
 "universelle."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "We don't agree with the article's views on those issues, but we present it "
 "as a factual reference."
@@ -1065,7 +1089,7 @@ msgstr ""
 "Nous ne sommes pas d'accord avec ce que dit l'article sur ces questions, "
 "mais nous le proposons comme référence factuelle."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "In 2014, <a href=\"https://www.computerworld.com/article/2494794/oracle-will-"
 "continue-to-bundle--crapware--with-java.html\"> Oracle insisted on "
@@ -1075,7 +1099,7 @@ msgstr ""
 "continue-to-bundle--crapware--with-java.html\">Oracle a perpétué cette "
 "pratique</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Sony <a href=\"https://www.eff.org/deeplinks/2010/03/sony-steals-feature-"
 "from-your-playstation-3\">sabotaged the Playstation 3</a> with a firmware "
@@ -1087,7 +1111,7 @@ msgstr ""
 "fonctionnalité permettant aux utilisateurs de faire tourner GNU/Linux sur la "
 "console."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Sony subsequently sent police after Geohot, after he cracked the code that "
 "blocked users from changing the firmware, and we responded by calling for a "
@@ -1098,7 +1122,7 @@ msgstr ""
 "avons répondu en appelant au <a href=\"http://boycottsony.org\">boycott de "
 "Sony</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "In a court settlement Sony is <a href=\"http://arstechnica.com/tech-"
 "policy/2016/06/if-you-used-to-run-linux-on-your-ps3-you-could-get-55-from-"
@@ -1108,7 +1132,7 @@ msgstr ""
 "policy/2016/06/if-you-used-to-run-linux-on-your-ps3-you-could-get-55-from-"
 "sony/\">le moment est venu pour Sony de payer pour ce sabotage</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"https://www.computerworld.com/article/2541250/update--apple-plays-"
 "hardball--upgrade--bricks--unlocked-iphones.html\"> An Apple firmware &ldquo;"
@@ -1125,7 +1149,7 @@ msgstr ""
 "html\">censure d'Apple</a>. Tout ceci était apparemment intentionnel."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -1150,29 +1174,25 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
-"Nous faisons le maximum pour proposer des traductions fidèles et de bonne "
-"qualité, mais nous ne sommes pas parfaits. Merci d'adresser vos commentaires "
-"sur cette page, ainsi que vos suggestions d'ordre général sur les "
-"traductions, à <a href=\"mailto:web-translators@gnu.org\"> &lt;web-"
-"translators@gnu.org&gt;</a>.</p>\n"
-"<p>Pour tout renseignement sur la coordination et la soumission des "
-"traductions de nos pages web, reportez-vous au <a href=\"/server/standards/"
-"README.translations.html\">guide de traduction</a>."
+"Merci d'adresser vos commentaires sur cette page et sur les traductions en "
+"général à <a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu."
+"org&gt;</a>.</p>\n"
+"<p>Si vous souhaitez participer à la traduction de nos pages web, vous "
+"trouverez dans <a href=\"/server/standards/README.translations.html\">ce "
+"guide</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2013, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
-"Foundation, Inc."
+msgid "Copyright &copy; 2013, 2015-2020 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2013, 2015-2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>

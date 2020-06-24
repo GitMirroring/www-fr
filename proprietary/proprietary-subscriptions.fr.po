@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-subscriptions.html\n"
-"POT-Creation-Date: 2019-11-23 15:25+0000\n"
+"POT-Creation-Date: 2020-06-24 05:26+0000\n"
 "PO-Revision-Date: 2019-11-23 17:20+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -19,13 +19,37 @@ msgstr ""
 msgid "Proprietary Subscriptions - GNU Project - Free Software Foundation"
 msgstr "Abonnements privateurs - Projet GNU - Free Software Foundation"
 
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Section contents"
+msgstr "Menu de section"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Section contents]&nbsp;"
+msgstr "&nbsp;[Menu de section]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Accueil GNU"
+
 #. type: Content of: <div><p>
 msgid ""
-"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
-"Subscriptions"
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
+"type&nbsp;/"
 msgstr ""
-"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
-"Abonnements"
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Maliciels</a>&nbsp;/ "
+"Par type&nbsp;/"
 
 #. type: Content of: <div><h2>
 msgid "Proprietary Subscriptions"
@@ -51,7 +75,7 @@ msgstr ""
 msgid "This typically takes the form of malicious functionalities."
 msgstr "Cela prend habituellement la forme de fonctionnalités malveillantes."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "It sounds simple to say that a certain program &ldquo;requires a "
 "subscription.&rdquo; What that means concretely is that it contains a time "
@@ -67,7 +91,7 @@ msgstr ""
 "serveur</a> et que ce serveur vérifie la date. L'une et l'autre sont des "
 "fonctionnalités malveillantes."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "Examples of software subscriptions that harmed users directly are given "
 "below."
@@ -75,7 +99,7 @@ msgstr ""
 "Vous trouverez ci-dessous des exemples d'abonnements à des logiciels qui ont "
 "fait du tort directement aux utilisateurs."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "If you know of an example that ought to be in this page but isn't here, "
 "please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
@@ -88,7 +112,7 @@ msgstr ""
 "Merci de fournir les URL d'une ou deux références fiables et spécifiques "
 "pour l'étayer."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Adobe has <a href=\"https://www.bleepingcomputer.com/news/software/adobe-to-"
 "ban-users-from-venezuela-due-to-us-executive-order/\"> cancelled the "
@@ -100,7 +124,7 @@ msgstr ""
 "abonnements à ses logiciels au Venezuela</a>. Cela montre comment un "
 "abonnement obligatoire peut être transformé en instrument de sabotage. "
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The HP <a href=\"https://boingboing.net/2019/02/08/inkjet-dystopias.html\"> "
 "&ldquo;ink subscription&rdquo; cartridges have DRM that constantly "
@@ -112,7 +136,7 @@ msgstr ""
 "permanence avec les serveurs de HP</a> pour s'assurer que l'utilisateur "
 "continue à payer son abonnement et n'a pas imprimé plus de pages que prévu."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Even though the ink subscription program may be cheaper in some specific "
 "cases, it spies on users, and involves totally unacceptable restrictions in "
@@ -123,7 +147,7 @@ msgstr ""
 "que des restrictions inacceptables dans l'utilisation de cartouches d'encre "
 "par ailleurs en état de marche."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Sony has brought back its robotic pet Aibo, this time <a href=\"https://"
 "motherboard.vice.com/en_us/article/bj778v/sony-wants-to-sell-you-a-"
@@ -136,7 +160,7 @@ msgstr ""
 "universelle, ainsi qu'une dépendance à un serveur avec abonnement "
 "obligatoire</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Canary home surveillance camera has been sabotaged by its manufacturer, "
 "<a href=\"https://www.theverge.com/circuitbreaker/2017/10/4/16426394/canary-"
@@ -149,11 +173,11 @@ msgstr ""
 "update-change\">inactivant de nombreuses fonctionnalités à moins que "
 "l'utilisateur ne commence à payer un abonnement</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "With manufacturers like these, who needs security breakers?"
 msgstr "Avec des fabricants comme ça, qui a besoin de pirates ?"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The purchasers should learn the larger lesson and reject connected "
 "appliances with embedded proprietary software. Every such product is a "
@@ -163,7 +187,7 @@ msgstr ""
 "appareils connectés contenant du logiciel privateur embarqué. Chacun de ces "
 "produits est une invitation au sabotage."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Microsoft Office forces users <a href=\"https://www.computerworld.com/"
 "article/2948755/office-for-windows-10-will-require-office-365-subscription-"
@@ -175,7 +199,7 @@ msgstr ""
 "subscription-on-pcs-larger-tablets.html\">à s'abonner à Office 365 pour "
 "pouvoir créer ou éditer des documents</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"https://www.scientificamerican.com/article/adobe-software-"
 "subscription-model-means-you-cant-own-your-software/\"> Adobe tools require "
@@ -194,7 +218,7 @@ msgstr ""
 "retardement. Quand un programme est privateur, voire malveillant, ne vous "
 "laissez pas distraire par des problèmes secondaires comme son prix."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<small>(Please don't repeat the marketing term &ldquo;Creative Cloud&rdquo; "
 "except to express revulsion for it.  The <a href=\"/philosophy/words-to-"
@@ -207,7 +231,7 @@ msgstr ""
 "est fait pour obscurcir l'esprit des utilisateurs.)</small>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -232,28 +256,26 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
-"Nous faisons le maximum pour proposer des traductions fidèles et de bonne "
-"qualité, mais nous ne sommes pas parfaits. Merci d'adresser vos commentaires "
-"sur cette page, ainsi que vos suggestions d'ordre général sur les "
-"traductions, à <a href=\"mailto:web-translators@gnu.org\"> &lt;web-"
-"translators@gnu.org&gt;</a>.</p>\n"
-"<p>Pour tout renseignement sur la coordination et la soumission des "
-"traductions de nos pages web, reportez-vous au <a href=\"/server/standards/"
-"README.translations.html\">guide de traduction</a>."
+"Merci d'adresser vos commentaires sur cette page et sur les traductions en "
+"général à <a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu."
+"org&gt;</a>.</p>\n"
+"<p>Si vous souhaitez participer à la traduction de nos pages web, vous "
+"trouverez dans <a href=\"/server/standards/README.translations.html\">ce "
+"guide</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2016, 2017, 2018, 2019 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2016-2019 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2016-2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2016-2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

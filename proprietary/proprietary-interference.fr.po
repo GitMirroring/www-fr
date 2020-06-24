@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-interference.html\n"
-"POT-Creation-Date: 2020-05-25 08:25+0000\n"
+"POT-Creation-Date: 2020-06-24 05:26+0000\n"
 "PO-Revision-Date: 2020-05-26 16:44+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -20,13 +20,37 @@ msgstr ""
 msgid "Proprietary Interference - GNU Project - Free Software Foundation"
 msgstr "Ingérence privatrice - Projet GNU - Free Software Foundation"
 
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Section contents"
+msgstr "Menu de section"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Section contents]&nbsp;"
+msgstr "&nbsp;[Menu de section]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Accueil GNU"
+
 #. type: Content of: <div><p>
 msgid ""
-"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
-"Interference"
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
+"type&nbsp;/"
 msgstr ""
-"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
-"Ingérence"
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Maliciels</a>&nbsp;/ "
+"Par type&nbsp;/"
 
 #. type: Content of: <div><h2>
 msgid "Proprietary Interference"
@@ -52,7 +76,7 @@ msgstr ""
 msgid "This typically takes the form of malicious functionalities."
 msgstr "Cela prend habituellement la forme de fonctionnalités malveillantes."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "One kind of malicious functionality mediates developer's interference into "
 "the use of the software. This page describes how various proprietary "
@@ -67,7 +91,7 @@ msgstr ""
 "proprietary-sabotage#about-page\">sabotage</a>, mais le mot « sabotage » est "
 "trop fort."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "If you know of an example that ought to be in this page but isn't here, "
 "please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
@@ -80,7 +104,7 @@ msgstr ""
 "Merci de fournir les URL d'une ou deux références fiables et spécifiques "
 "pour l'étayer."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Tesla's cars have a <a href=\"/proprietary/proprietary-back-doors."
 "html#M201709090.1\"> universal remote back door</a>.  Tesla used it to <a "
@@ -95,7 +119,7 @@ msgstr ""
 "sur des voitures achetées par des gens, afin qu'ils paient un supplément "
 "pour le réactiver."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This kind of malfeature is only possible with proprietary software&mdash;"
 "free software is controlled by its users who wouldn't let do such things to "
@@ -105,7 +129,7 @@ msgstr ""
 "logiciel libre est sous le contrôle de ses utilisateurs, et ils ne se "
 "laisseraient pas traiter de la sorte."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Some security breakers (wrongly referred in this article as <a href="
 "\"https://www.gnu.org/philosophy/words-to-avoid.html#Hacker\">&ldquo;"
@@ -121,7 +145,7 @@ msgstr ""
 "hackers-reportedly-watching-talking-strangers-in-home-cameras\">accéder à sa "
 "caméra, à ses haut-parleurs et à ses micros</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple is putting DRM on iPhone batteries, and the system proprietary "
 "software <a href=\"https://www.vice.com/en_us/article/59nz3k/apple-is-"
@@ -134,7 +158,7 @@ msgstr ""
 "\">désactive certaines fonctionnalités quand les batteries sont remplacées "
 "par des tiers</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Google is modifying Chromium so that <a href=\"https://tech.slashdot.org/"
 "story/19/01/23/0048202/google-proposes-changes-to-chromium-browser-that-will-"
@@ -152,7 +176,7 @@ msgstr ""
 "libre) le contiendra également, et là les utilisateurs ne pourront pas "
 "l'annuler."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Samsung phones come preloaded with <a href=\"https://www.bloomberg.com/news/"
 "articles/2019-01-08/samsung-phone-users-get-a-shock-they-can-t-delete-"
@@ -170,7 +194,7 @@ msgstr ""
 "fonctionnelle, mais on doit les croire sur parole et il y a toujours un "
 "risque que l'appli soit activée par une mise à jour automatique."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Preloading crapware along with a nonfree operating system is common "
 "practice, but by making the crapware undeletable, Facebook and Samsung (<a "
@@ -186,7 +210,7 @@ msgstr ""
 "they-can-t-delete-facebook\">parmi d'autres</a>) vont encore plus loin dans "
 "le piratage des appareils des utilisateurs."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "One version of Windows 10 <a href=\"https://www.ghacks.net/2018/09/12/"
 "microsoft-intercepting-firefox-chrome-installation-on-windows-10/\"> "
@@ -196,7 +220,7 @@ msgstr ""
 "microsoft-intercepting-firefox-chrome-installation-on-windows-10/\">sermonne "
 "les utilisateurs s'ils essaient d'installer Firefox (ou Chrome)</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "A nonfree video game, available through the nonfree Steam client, <a href="
 "\"https://www.extremetech.com/gaming/274552-great-now-games-are-hijacking-"
@@ -208,7 +232,7 @@ msgstr ""
 "systems-with-\">comprenait un « mineur »</a>, c'est-à-dire un exécutable qui "
 "pirate le processeur de l'ordinateur client pour générer une cryptomonnaie."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "A cracker used an exploit in outdated software to <a href=\"https://www."
 "pcmag.com/news/360968/400-websites-secretly-served-cryptocurrency-miners-to-"
@@ -222,7 +246,7 @@ msgstr ""
 "web</a> servies aux visiteurs. Ce type de maliciel pirate le processeur de "
 "l'ordinateur pour générer une cryptomonnaie."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<small>(Note that the article refers to the infected software as &ldquo;"
 "content management system&rdquo;. A better term would be &ldquo;<a href=\"/"
@@ -234,7 +258,7 @@ msgstr ""
 "« <a href=\"/philosophy/words-to-avoid.html#Content\">système de révision "
 "pour site web</a> ».)</small>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Since the miner was a nonfree JavaScript program, visitors wouldn't have "
 "been affected if they had used <a href=\"/software/librejs/index.html"
@@ -248,7 +272,7 @@ msgstr ""
 "<a href=\"https://www.cnet.com/how-to/how-to-stop-sites-from-using-your-cpu-"
 "to-mine-coins/\">bloquent spécifiquement les mineurs JavaScript</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Pearson's proprietary educational software <a href=\"https://gizmodo.com/"
 "pearson-embedded-a-social-psychological-experiment-in-s-1825367784\"> did an "
@@ -260,7 +284,7 @@ msgstr ""
 "sur de vrais étudiants</a> en les traitant différemment pour observer le "
 "résultat."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Microsoft is planning to make Windows <a href=\"https://www.theguardian.com/"
 "technology/2018/mar/19/windows-10-microsoft-force-people-edge-browser-"
@@ -272,14 +296,14 @@ msgstr ""
 "edge-browser-windows-mail-chrome-firefox\">impose l'utilisation de son "
 "navigateur, Edge, dans certaines circonstances</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The reason Microsoft can force things on users is that Windows is nonfree."
 msgstr ""
 "La raison pour laquelle Microsoft peut imposer des choses aux utilisateurs "
 "est que Windows est privateur."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Learn how <a href=\"https://web.archive.org/web/20170319013045/https://www."
 "huffingtonpost.com/joseph-farrell/the-fascinating-psycholog_b_6076502.html"
@@ -291,7 +315,7 @@ msgstr ""
 "psycholog_b_6076502.html\">les jeux-gratuits-qui-rapportent-peu pratiquent "
 "la manipulation psychologique sur leurs « utilisés »</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "These manipulative behaviors are malicious functionalities, and they are "
 "possible because the game is proprietary. If it were free, people could "
@@ -302,7 +326,7 @@ msgstr ""
 "gens pourraient publier une version non manipulatrice et s'en servir de "
 "préférence à la version d'origine."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Windows displays <a href=\"http://www.theverge.com/2017/3/17/14956540/"
 "microsoft-windows-10-ads-taskbar-file-explorer\"> intrusive ads for "
@@ -312,7 +336,7 @@ msgstr ""
 "microsoft-windows-10-ads-taskbar-file-explorer\">publicités intrusives pour "
 "les produits de Microsoft et de ses partenaires commerciaux</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The article's author starts from the premise that Microsoft has a right to "
 "control what Windows does to users, as long as it doesn't go &ldquo;too "
@@ -322,7 +346,7 @@ msgstr ""
 "ce que fait Windows aux utilisateurs tant qu'elle ne va pas « trop loin ». "
 "Nous ne sommes pas d'accord."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "An upgrade package for Acrobat Reader <a href=\"https://www.bleepingcomputer."
 "com/news/software/adobe-acrobat-reader-dc-update-installs-chrome-browser-"
@@ -332,7 +356,7 @@ msgstr ""
 "bleepingcomputer.com/news/software/adobe-acrobat-reader-dc-update-installs-"
 "chrome-browser-extension/\">modifie Chrome sans prévenir</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Microsoft Telemetry Compatibility service <a href=\"https://answers."
 "microsoft.com/en-us/windows/forum/windows_10-performance/microsoft-telemetry-"
@@ -346,7 +370,7 @@ msgstr ""
 "tab=AllReplies#tabs\">réduit considérablement les performances des machines "
 "sous Windows 10</a> et ne peut pas être désactivé facilement."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "After <a href=\"/proprietary/malware-microsoft.html#windows10-forcing"
 "\">forcing the download of Windows 10</a> on computers that were running "
@@ -369,7 +393,7 @@ msgstr ""
 "uk/2016/03/17/microsoft_windows_10_upgrade_gwx_vs_humanity/\">techniques "
 "classiques dans l'industrie du malware</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "A detailed <a href=\"https://www.eff.org/deeplinks/2016/08/windows-10-"
 "microsoft-blatantly-disregards-user-choice-and-privacy-deep-dive\"> analysis "
@@ -381,7 +405,7 @@ msgstr ""
 "du stratagème de Microsoft</a> est disponible sur le site de "
 "l'<cite>Electronic Frontier Foundation</cite>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Microsoft has made companies' Windows machines managed by the company's "
 "sysadmins <a href=\"http://www.infoworld.com/article/3042397/microsoft-"
@@ -397,7 +421,7 @@ msgstr ""
 "administrateurs système de ce que la « mise à niveau » vers Windows 10 ne "
 "soit pas encore faite</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Microsoft has <a href=\"http://www.theverge.com/2016/1/16/10780876/microsoft-"
 "windows-support-policy-new-processors-skylake\">desupported all future Intel "
@@ -412,7 +436,7 @@ msgstr ""
 "com/only-the-latest-version-of-windows-will-run-on-some-"
 "fut-1753545825\">Même chose pour les processeurs d'AMD et de Qualcomm</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Of course, Windows 7 and 8 are unethical too, because they are proprietary "
 "software.  But this example of Microsoft's wielding its power demonstrates "
@@ -422,7 +446,7 @@ msgstr ""
 "sont privateurs. Mais cet exemple d'exercice du pouvoir montre combien "
 "Microsoft en détient."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Free software developers also stop maintaining old versions of their "
 "programs, but this is not unfair to users because the users of free software "
@@ -435,7 +459,7 @@ msgstr ""
 "important pour vous, vous pouvez, avec d'autres utilisateurs, embaucher "
 "quelqu'un pour adapter l'ancienne version à vos futures plateformes."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Adobe nonfree software may halt all other work and freeze a computer <a href="
 "\"http://shallowsky.com/blog/gimp/non-free-software-surprises.html\"> to "
@@ -446,7 +470,7 @@ msgstr ""
 "non-free-software-surprises.html\">pour faire une vérification de licence</"
 "a> tous les 30 jours, à une heure aléatoire."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Oracle made a deal with Yahoo; Oracle's nonfree Java plug-in will <a href="
 "\"http://searchengineland.com/yahoo-signs-deal-with-oracle-to-attract-new-"
@@ -460,7 +484,7 @@ msgstr ""
 "que l'utilisateur n'intervienne pour l'en empêcher."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -485,29 +509,25 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
-"Nous faisons le maximum pour proposer des traductions fidèles et de bonne "
-"qualité, mais nous ne sommes pas parfaits. Merci d'adresser vos commentaires "
-"sur cette page, ainsi que vos suggestions d'ordre général sur les "
-"traductions, à <a href=\"mailto:web-translators@gnu.org\"> &lt;web-"
-"translators@gnu.org&gt;</a>.</p>\n"
-"<p>Pour tout renseignement sur la coordination et la soumission des "
-"traductions de nos pages web, reportez-vous au <a href=\"/server/standards/"
-"README.translations.html\">guide de traduction</a>."
+"Merci d'adresser vos commentaires sur cette page et sur les traductions en "
+"général à <a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu."
+"org&gt;</a>.</p>\n"
+"<p>Si vous souhaitez participer à la traduction de nos pages web, vous "
+"trouverez dans <a href=\"/server/standards/README.translations.html\">ce "
+"guide</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
-"Foundation, Inc."
+msgid "Copyright &copy; 2015-2020 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2015-2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>

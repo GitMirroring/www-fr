@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-jails.html\n"
-"POT-Creation-Date: 2019-11-18 14:55+0000\n"
+"POT-Creation-Date: 2020-06-20 10:30+0200\n"
 "PO-Revision-Date: 2019-11-18 18:14+0100\n"
 "Last-Translator: Félicien Pillot <felicien AT gnu.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -22,13 +22,37 @@ msgstr ""
 msgid "Proprietary Jails - GNU Project - Free Software Foundation"
 msgstr "Prisons du logiciel privateur - Projet GNU - Free Software Foundation"
 
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Section contents"
+msgstr "Menu de section"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Section contents]&nbsp;"
+msgstr "&nbsp;[Menu de section]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Accueil GNU"
+
 #. type: Content of: <div><p>
 msgid ""
-"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
-"Jails"
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
+"type&nbsp;/"
 msgstr ""
-"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
-"Prisons"
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Maliciels</a>&nbsp;/ "
+"Par type&nbsp;/"
 
 #. type: Content of: <div><h2>
 msgid "Proprietary Jails"
@@ -54,7 +78,7 @@ msgstr ""
 msgid "This typically takes the form of malicious functionalities."
 msgstr "Cela prend habituellement la forme de fonctionnalités malveillantes."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "The &ldquo;jails&rdquo; are malicious operating systems that are designed to "
 "impose censorship of which applications the user can install.  The <a href="
@@ -66,7 +90,7 @@ msgstr ""
 "\"http://i.imgur.com/ZRViDum.jpg\">image de l'iPrison</a> illustre ce "
 "problème."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "These systems are platforms for censorship imposed by the company that owns "
 "the system.  Selling products designed as platforms for a company to impose "
@@ -77,7 +101,7 @@ msgstr ""
 "servant à une société pour imposer la censure devrait être interdit par la "
 "loi, mais ce n'est pas le cas."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "This page lists a few jails, along with some of the methods they use to "
 "censor apps, and includes specific examples of apps that were blocked using "
@@ -87,7 +111,7 @@ msgstr ""
 "utilisent pour censurer les applis, et donne des exemples d'applis qui ont "
 "été bloquées au moyen de ce système de censure."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "If you know of an example that ought to be in this page but isn't here, "
 "please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
@@ -100,23 +124,23 @@ msgstr ""
 "Merci de fournir les URL d'une ou deux références fiables et spécifiques "
 "pour l'étayer."
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "&nbsp;<a href=\"#apple\">Apple</a>&nbsp;"
 msgstr "&nbsp;<a href=\"#apple\">Apple</a>&nbsp;"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "&nbsp;<a href=\"#microsoft\">Microsoft</a>&nbsp;"
 msgstr "&nbsp;<a href=\"#microsoft\">Microsoft</a>&nbsp;"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "&nbsp;<a href=\"#consoles\">Game&nbsp;consoles</a>&nbsp;"
 msgstr "&nbsp;<a href=\"#consoles\">Consoles de jeu</a>&nbsp;"
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Apple"
 msgstr "Apple"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple plans to require that <a href=\"https://www.macrumors.com/2019/04/08/"
 "mac-apps-notarization-macos-10-14-5/\"> all application software for MacOS "
@@ -126,7 +150,7 @@ msgstr ""
 "com/2019/04/08/mac-apps-notarization-macos-10-14-5/\">toutes les "
 "applications pour MacOS reçoivent son approbation préalable</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Offering a checking service as an option could be useful and would not be "
 "wrong.  Requiring users to get Apple's approval is tyranny. Apple says the "
@@ -144,7 +168,7 @@ msgstr ""
 "petit, ou peut-être inclure parmi les programmes malveillants toute "
 "application qui ne plaît pas à la Chine."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "For free software, this means users will need to get Apple's approval after "
 "compilation.  This amounts to a system of surveilling the use of free "
@@ -154,7 +178,7 @@ msgstr ""
 "l'approbation d'Apple après compilation. Cela équivaut à un système de "
 "surveillance de l'utilisation des programmes libres."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"https://en.wikipedia.org/w/index.php?title=IOS_jailbreaking&amp;"
 "oldid=835861046\"> iOS, the operating system of the Apple iThings, is the "
@@ -166,7 +190,7 @@ msgstr ""
 "prison</a>. C'est Apple qui la première a conçu des ordinateurs polyvalents "
 "intégrant la censure des programmes d'application."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Here is an article about the <a href=\"http://weblog.rogueamoeba."
 "com/2008/03/07/code-signing-and-you/\"> code signing</a> that the iThings "
@@ -176,7 +200,7 @@ msgstr ""
 "code-signing-and-you/\">signature du code</a> que les iTrucs utilisent pour "
 "enfermer l'utilisateur."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Curiously, Apple is beginning to allow limited passage through the walls of "
 "the iThing jail: users can now install apps built from source code, provided "
@@ -193,11 +217,11 @@ msgstr ""
 "détails</a>. C'est une lézarde dans le mur, mais elle n'est pas assez large "
 "pour que les iTrucs ne soient plus des prisons."
 
-#. type: Content of: <div><h4>
+#. type: Content of: <div><div><h4>
 msgid "Examples of censorship by Apple jails"
 msgstr "Exemples de censure par les prisons d'Apple"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple has <a href=\"https://www.theguardian.com/world/2019/oct/10/hong-kong-"
 "protests-apple-pulls-tracking-app-after-china-criticism\"> banned the app "
@@ -207,7 +231,7 @@ msgstr ""
 "protests-apple-pulls-tracking-app-after-china-criticism\">banni l'appli que "
 "les manifestants de Hong Kong utilisent pour communiquer</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Obeying the &ldquo;local laws&rdquo; about what people can do with software "
 "is no excuse for censoring what software people can use."
@@ -216,7 +240,7 @@ msgstr ""
 "logiciel n'est pas une excuse pour censurer quels logiciels ils peuvent "
 "utiliser."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple <a href=\"https://boingboing.net/2019/10/07/apple-ios-13-1-2-for-hong-"
 "kong.html\"> censors the Taiwan flag in iOS</a> on behalf of the Chinese "
@@ -233,7 +257,7 @@ msgstr ""
 "tentatives d'affichage donnent le symbole du caractère manquant, comme si ce "
 "drapeau n'avait jamais existé."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Thus, not only does Apple use the App Store as an instrument of censorship, "
 "it also uses the iThing operating system for that purpose."
@@ -241,7 +265,7 @@ msgstr ""
 "Ainsi, Apple utilise non seulement l'App Store, mais également le système "
 "d'exploitation des iTrucs comme instruments de censure."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Users caught in the jail of an iMonster are <a href=\"https://boingboing."
 "net/2019/05/15/brittle-security.html\"> sitting ducks for other attackers</"
@@ -253,7 +277,7 @@ msgstr ""
 "d'autres attaquants</a>, et la censure des applis empêche d'autres sociétés "
 "de découvrir le mécanisme de ces attaques."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple's censorship of apps is fundamentally unjust, and would be inexcusable "
 "even if it didn't lead to security threats as well."
@@ -262,7 +286,7 @@ msgstr ""
 "inexcusable même si elle n'entraînait pas, en plus, des menaces pour la "
 "sécurité."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple is <a href=\"https://www.eff.org/deeplinks/2017/10/iranian-hardliners-"
 "want-isolated-internet\"> censoring apps for the US government too</a>. "
@@ -273,7 +297,7 @@ msgstr ""
 "gouvernement américain</a>. Plus précisément, elle supprime les applis "
 "développées par des Iraniens."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The root of these wrongs is in Apple. If Apple had not designed the "
 "iMonsters to let Apple censor applications, Apple would not have had the "
@@ -283,7 +307,7 @@ msgstr ""
 "pour lui permettre de censurer les applications, elle n'aurait pas eu le "
 "pouvoir d'empêcher les utilisateurs d'installer certains types d'applis."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple <a href=\"https://www.nytimes.com/2017/07/29/technology/china-apple-"
 "censorhip.html\"> deleted several VPNs from its app store for China</a>, "
@@ -295,7 +319,7 @@ msgstr ""
 "utilisant ainsi sa propre capacité de censure pour renforcer celle du "
 "gouvernement chinois."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple used its censorship system to enforce Russian surveillance <a href="
 "\"http://www.nytimes.com/2017/01/06/technology/linkedin-blocked-in-russia."
@@ -307,7 +331,7 @@ msgstr ""
 "linkedin-blocked-in-russia.html?partner=rss&amp;emc=rss&amp;_r=0\">en "
 "bloquant la distribution de l'appli de LinkedIn en Russie</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This is ironic because LinkedIn is a surveillance system itself.  While "
 "subjecting its users to its own surveillance, it tries to protect its users "
@@ -318,12 +342,12 @@ msgstr ""
 "protéger ses utilisateurs de la surveillance russe et devient par conséquent "
 "objet de censure en Russie."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "However, the point here is the wrong of Apple's censorship of apps."
 msgstr ""
 "Toutefois, ce qui importe ici est qu'Apple a tort de censurer ses applis."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple used its censorship system to enforce China's censorship <a href="
 "\"https://www.theguardian.com/world/2017/jan/05/apple-removes-new-york-times-"
@@ -334,7 +358,7 @@ msgstr ""
 "apple-removes-new-york-times-app-in-china\">bloquant la distribution de "
 "l'appli du New York Times</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple censors games, <a href=\"http://arstechnica.com/gaming/2016/05/apple-"
 "says-game-about-palestinian-child-isnt-a-game\"> banning some games from the "
@@ -347,7 +371,7 @@ msgstr ""
 "qu'ils suggèrent. Toutefois certains points de vue semblent être considérés "
 "comme acceptables."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple <a href=\"http://ifixit.org/blog/7401/ifixit-app-pulled/\"> banned a "
 "program from the App Store</a> because its developers committed the enormity "
@@ -357,7 +381,7 @@ msgstr ""
 "programme de l'App Store</a> parce que ses développeurs avaient commis "
 "l'énormité de désassembler certains iTrucs."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "As of 2015, Apple <a href=\"http://www.theguardian.com/commentisfree/2015/"
 "sep/23/apple-anti-choice-tendencies-showing-in-app-store-reproductive-rights"
@@ -369,7 +393,7 @@ msgstr ""
 "\">interdit systématiquement les applis qui cautionnent le droit à "
 "l'avortement ou pourraient aider les femmes à obtenir un avortement</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This particular political slant <a href=\"http://www.theguardian.com/"
 "technology/2011/dec/01/siri-abortion-apple-unintenional-omissions\"> affects "
@@ -379,7 +403,7 @@ msgstr ""
 "com/technology/2011/dec/01/siri-abortion-apple-unintenional-omissions"
 "\">affecte les autre services d'Apple</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple has banned iThing applications that show the confederate flag.  <a "
 "href=\"http://www.huffingtonpost.com/2015/06/25/apple-confederate-"
@@ -393,7 +417,7 @@ msgstr ""
 "symbole de racisme</a>, mais même les jeux qui s'en servent pour représenter "
 "les unités de l'armée confédérée participant aux combats de la guerre civile."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This ludicrous rigidity illustrates the point that Apple should not be "
 "allowed to censor apps.  Even if Apple carried out this act of censorship "
@@ -409,7 +433,7 @@ msgstr ""
 "pas vraiment la question. Il ne faut pas qu'Apple ait le pouvoir d'imposer "
 "son point de vue sur ces questions, ou sur n'importe quelle autre."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"http://www.theguardian.com/technology/2014/dec/11/papers-please-"
 "game-ipad-nude-body-scans\"> More examples of Apple's arbitrary and "
@@ -419,7 +443,7 @@ msgstr ""
 "game-ipad-nude-body-scans\">Autres exemples de censure arbitraire et "
 "incohérente de la part d'Apple</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple used this censorship power in 2014 to <a href=\"http://boingboing."
 "net/2014/02/07/apple-yanks-last-remaining-bit.html\"> ban all bitcoin apps</"
@@ -438,7 +462,7 @@ msgstr ""
 "jeux ayant pour thèmes d'autres crimes et délits, comme de tuer des gens. "
 "Apple estime peut-être que l'assassinat est plus acceptable que la marijuana."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple rejected an app that displayed the locations of US drone "
 "assassinations, giving various excuses. Each time the developers fixed one "
@@ -454,11 +478,11 @@ msgstr ""
 "com/2014/02/07/apple-app-tracks-drone-strikes/\">a admis que l'appli était "
 "censurée à cause de son thème</a>."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Microsoft"
 msgstr "Microsoft"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Windows 10 S was a jail: <a href=\"https://www.theguardian.com/"
 "technology/2017/may/03/windows-10-s-microsoft-faster-pc-comparison\"> only "
@@ -481,7 +505,7 @@ msgstr ""
 "différence principale avec Windows 10 est qu'on peut facilement sortir du "
 "mode S."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"https://www.itworld.com/article/2832657/microsoft-metro-app-store-"
 "lock-down.html\"> Windows 8 on &ldquo;mobile devices&rdquo; (now defunct) "
@@ -492,11 +516,11 @@ msgstr ""
 "a> : il censurait le choix de l'utilisateur en matière de programmes "
 "d'application."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Game consoles"
 msgstr "Consoles de jeu"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "No game can run on the console unless the console's manufacturer has "
 "authorized it.  Alas, we can't find a article to cite as a reference for "
@@ -507,7 +531,7 @@ msgstr ""
 "citer en référence. Si vous en connaissez un, merci de nous en informer."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -532,30 +556,26 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
-"Nous faisons le maximum pour proposer des traductions fidèles et de bonne "
-"qualité, mais nous ne sommes pas parfaits. Merci d'adresser vos commentaires "
-"sur cette page, ainsi que vos suggestions d'ordre général sur les "
-"traductions, à <a href=\"mailto:web-translators@gnu.org\"> &lt;web-"
-"translators@gnu.org&gt;</a>.</p>\n"
-"<p>Pour tout renseignement sur la coordination et la soumission des "
-"traductions de nos pages web, reportez-vous au <a href=\"/server/standards/"
-"README.translations.html\">guide de traduction</a>."
+"Merci d'adresser vos commentaires sur cette page et sur les traductions en "
+"général à <a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu."
+"org&gt;</a>.</p>\n"
+"<p>Si vous souhaitez participer à la traduction de nos pages web, vous "
+"trouverez dans <a href=\"/server/standards/README.translations.html\">ce "
+"guide</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
-"Foundation, Inc."
-msgstr "Copyright &copy; 2014-2019 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014-2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014-2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-surveillance.html\n"
-"POT-Creation-Date: 2020-06-01 10:55+0000\n"
+"POT-Creation-Date: 2020-06-24 05:26+0000\n"
 "PO-Revision-Date: 2020-06-01 13:13+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -22,13 +22,37 @@ msgstr ""
 msgid "Proprietary Surveillance - GNU Project - Free Software Foundation"
 msgstr "Surveillants privateurs - GNU Project - Free Software Foundation"
 
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Section contents"
+msgstr "Menu de section"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Section contents]&nbsp;"
+msgstr "&nbsp;[Menu de section]&nbsp;"
+
+#. type: Content of: <div><div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Accueil GNU"
+
 #. type: Content of: <div><p>
 msgid ""
-"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
-"Surveillance"
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
+"type&nbsp;/"
 msgstr ""
-"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
-"Surveillance"
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Maliciels</a>&nbsp;/ "
+"Par type&nbsp;/"
 
 #. type: Content of: <div><h2>
 msgid "Proprietary Surveillance"
@@ -66,15 +90,11 @@ msgstr ""
 "Dessin d'un chien que trois pop-ups publicitaires sur son écran d'ordinateur "
 "rendent perplexe..."
 
-#. type: Content of: <div><div>
-msgid "</a>"
-msgstr "</a>"
-
 #. type: Content of: <div><div><p>
 msgid "&ldquo;How did they find out I'm a dog?&rdquo;"
 msgstr "« Comment ont-ils découvert que je suis un chien ? »"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "A common malicious functionality is to snoop on the user.  This page records "
 "<strong>clearly established cases of proprietary software that spies on or "
@@ -89,7 +109,7 @@ msgstr ""
 "techcrunch.com/2018/10/19/smart-home-devices-hoard-data-government-demands/"
 "\">dire s'ils espionnent l'utilisateur au profit de l'État</a>."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "All appliances and applications that are tethered to a specific server are "
 "snoopers by nature.  We do not list them here because they have their own "
@@ -101,7 +121,7 @@ msgstr ""
 "ont une page dédiée : <a href=\"/proprietary/proprietary-tethers.html#about-"
 "page\">Dépendance privatrice d'un serveur</a>."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "If you know of an example that ought to be in this page but isn't here, "
 "please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
@@ -114,139 +134,139 @@ msgstr ""
 "Merci de fournir les URL d'une ou deux références fiables et spécifiques "
 "pour l'étayer."
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><div><div><h3>
 msgid "Table of Contents"
 msgstr "Table des matières"
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "<a href=\"#Introduction\">Introduction</a>"
 msgstr "<a href=\"#Introduction\">Introduction</a>"
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "<a href=\"#OSSpyware\">Spyware in Laptops and Desktops</a>"
 msgstr ""
 "<a href=\"#OSSpyware\">Espions dans les ordinateurs de bureau ou portables</"
 "a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareInWindows\">Windows</a>"
 msgstr "<a href=\"#SpywareInWindows\">Windows</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareInMacOS\">MacOS</a>"
 msgstr "<a href=\"#SpywareInMacOS\">MacOS</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareInBIOS\">BIOS</a>"
 msgstr "<a href=\"#SpywareInBIOS\">BIOS</a>"
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "<a href=\"#SpywareOnMobiles\">Spyware on Mobiles</a>"
 msgstr "<a href=\"#SpywareOnMobiles\">Espionnage des mobiles</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareInTelephones\">All &ldquo;Smart&rdquo; Phones</a>"
 msgstr ""
 "<a href=\"#SpywareInTelephones\">Tous les téléphones « intelligents »</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareIniThings\">iThings</a>"
 msgstr "<a href=\"#SpywareIniThings\">iTrucs</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareInAndroid\">Android Telephones</a>"
 msgstr "<a href=\"#SpywareInAndroid\">Téléphones Android</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareInElectronicReaders\">E-Readers</a>"
 msgstr "<a href=\"#SpywareInElectronicReaders\">Liseuses</a>"
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "<a href=\"#SpywareInApplications\">Spyware in Applications</a>"
 msgstr "<a href=\"#SpywareInApplications\">Espions dans les applications</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareInDesktopApps\">Desktop Apps</a>"
 msgstr "<a href=\"#SpywareInDesktopApps\">Sur ordinateur de bureau</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareInMobileApps\">Mobile Apps</a>"
 msgstr "<a href=\"#SpywareInMobileApps\">Sur mobile</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareInSkype\">Skype</a>"
 msgstr "<a href=\"#SpywareInSkype\">Skype</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareInGames\">Games</a>"
 msgstr "<a href=\"#SpywareInGames\">Jeux</a>"
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "<a href=\"#SpywareInEquipment\">Spyware in Connected Equipment</a>"
 msgstr ""
 "<a href=\"#SpywareInEquipment\">Espions dans les équipements connectés</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareInTVSets\">TV Sets</a>"
 msgstr "<a href=\"#SpywareInTVSets\">Téléviseurs</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareInCameras\">Cameras</a>"
 msgstr "<a href=\"#SpywareInCameras\">Appareils photo et caméras</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareInToys\">Toys</a>"
 msgstr "<a href=\"#SpywareInToys\">Jouets</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareInDrones\">Drones</a>"
 msgstr "<a href=\"#SpywareInDrones\">Drones</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareAtHome\">Other Appliances</a>"
 msgstr "<a href=\"#SpywareAtHome\">Autres équippements</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareOnWearables\">Wearables</a>"
 msgstr "<a href=\"#SpywareOnWearables\">Vêtements</a>"
 
-#. type: Content of: <div><div><ul><li><ul><li>
+#. type: Content of: <div><div><div><ul><li><ul><li>
 msgid "<a href=\"#SpywareOnSmartWatches\">&ldquo;Smart&rdquo; Watches</a>"
 msgstr "<a href=\"#SpywareOnSmartWatches\">Montres « intelligentes »</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareInVehicles\">Vehicles</a>"
 msgstr "<a href=\"#SpywareInVehicles\">Véhicules</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareInVR\">Virtual Reality</a>"
 msgstr "<a href=\"#SpywareInVR\">Réalité virtuelle</a>"
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "<a href=\"#SpywareOnTheWeb\">Spyware on the Web</a>"
 msgstr "<a href=\"#SpywareOnTheWeb\">Espions sur le web</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareInChrome\">Chrome</a>"
 msgstr "<a href=\"#SpywareInChrome\">Chrome</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareInJavaScript\">JavaScript</a>"
 msgstr "<a href=\"#SpywareInJavaScript\">JavaScript</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareInFlash\">Flash</a>"
 msgstr "<a href=\"#SpywareInFlash\">Flash</a>"
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "<a href=\"#SpywareInNetworks\">Spyware in Networks</a>"
 msgstr "<a href=\"#SpywareInNetworks\">Espions dans les réseaux</a>"
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><div><div><h3>
 msgid "Introduction"
 msgstr "Introduction"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "For decades, the Free Software movement has been denouncing the abusive "
 "surveillance machine of <a href=\"/proprietary/proprietary.html"
@@ -268,11 +288,11 @@ msgstr ""
 "clavier d'ordinateur à l'informatique mobile, au bureau, à la maison, aux "
 "systèmes de transport et à l'école."
 
-#. type: Content of: <div><h4>
+#. type: Content of: <div><div><h4>
 msgid "Aggregate or anonymized data"
 msgstr "Agrégat ou données anonymisées"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Many companies, in their privacy policy, have a clause that claims they "
 "share aggregate, non-personally identifiable information with third parties/"
@@ -282,11 +302,11 @@ msgstr ""
 "prétendent partager avec des tiers des informations sans caractère "
 "personnel. Ces prétentions sont sans valeur, pour plusieurs raisons :"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "They could change the policy at any time."
 msgstr "Elles peuvent changer de politique n'importe quand."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "They can twist the words by distributing an &ldquo;aggregate&rdquo; of "
 "&ldquo;anonymized&rdquo; data which can be reidentified and attributed to "
@@ -296,20 +316,20 @@ msgstr ""
 "« anonymisées » pouvant être identifiées de nouveau et attribuées "
 "individuellement à des personnes."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "The raw data they don't normally distribute can be taken by data breaches."
 msgstr ""
 "Les données brutes qu'elles ne distribuent pas normalement peuvent être "
 "dérobées par effraction de la banque de donnée."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "The raw data they don't normally distribute can be taken by subpoena."
 msgstr ""
 "Les données brutes qu'ils ne distribuent pas normalement peuvent être "
 "exigées par un tribunal, sur injonction."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Therefore, we must not be distracted by companies' statements of what they "
 "will <em>do</em> with the data they collect. The wrong is that they collect "
@@ -319,11 +339,11 @@ msgstr ""
 "déclarations de ces entreprises sur ce qu'elles vont <em>faire</em> avec les "
 "données qu'elles recueillent. Leur tort principal est de les recueillir."
 
-#. type: Content of: <div><h4>
+#. type: Content of: <div><div><h4>
 msgid "Latest additions"
 msgstr "Ajouts récents"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Entries in each category are in reverse chronological order, based on the "
 "dates of publication of linked articles.  The latest additions are listed on "
@@ -335,11 +355,11 @@ msgstr ""
 "ajouts se trouve sur la <a href=\"/proprietary/proprietary.html#latest"
 "\">page d'accueil</a> de la section « Maliciels »."
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><div><div><h3>
 msgid "Spyware in Laptops and Desktops"
 msgstr "Espions dans les ordinateurs de bureau ou portables"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#OSSpyware\">#OSSpyware</a>)</"
 "span>"
@@ -347,11 +367,11 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#OSSpyware\">#OSSpyware</a>)</"
 "span>"
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "Windows"
 msgstr "Windows"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInWindows"
 "\">#SpywareInWindows</a>)</span>"
@@ -359,7 +379,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInWindows"
 "\">#SpywareInWindows</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "HP's proprietary operating system <a href=\"http://www.bbc.com/news/"
 "technology-42309371\">includes a proprietary keyboard driver with a key "
@@ -369,7 +389,7 @@ msgstr ""
 "www.bbc.com/news/technology-42309371\">un pilote pour le clavier qui "
 "contient un enregistreur de frappe <cite>[key logger]</cite></a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Windows 10 telemetry program sends information to Microsoft about the user's "
 "computer and their use of the computer."
@@ -377,7 +397,7 @@ msgstr ""
 "Le programme de télémétrie de Windows 10 envoie à Microsoft des informations "
 "sur l'ordinateur de l'utilisateur et la manière dont il l'utilise."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Furthermore, for users who installed the fourth stable build of Windows 10, "
 "called the &ldquo;Creators Update,&rdquo; Windows maximized the surveillance "
@@ -391,7 +411,7 @@ msgstr ""
 "dutch-privacy-regulator-says-that-windows-10-breaks-the-law\">en réglant par "
 "défaut le niveau de télémétrie à « Complet »</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The <a href=\"https://docs.microsoft.com/en-us/windows/privacy/configure-"
 "windows-diagnostic-data-in-your-organization#full-level\"> &ldquo;"
@@ -407,7 +427,7 @@ msgstr ""
 "technet.microsoft.com/en-us/library/cc939702.aspx\">de l'information "
 "sensible comme le mot de passe administrateur</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "DRM-restricted files can be used to <a href=\"https://yro.slashdot.org/"
 "story/17/02/02/231229/windows-drm-protected-files-used-to-decloak-tor-"
@@ -420,7 +440,7 @@ msgstr ""
 "naviguent via Tor</a>. Cette vulnérabilité n'existe que si vous utilisez "
 "Windows."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "By default, Windows 10 <a href=\"http://betanews.com/2016/11/24/microsoft-"
 "shares-windows-10-telemetry-data-with-third-parties\">sends debugging "
@@ -433,7 +453,7 @@ msgstr ""
 "[core dumps]</cite></a>. Depuis quelque temps, Microsoft les distribue à une "
 "autre société."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "In order to increase Windows 10's install base, Microsoft <a class=\"not-a-"
 "duplicate\" href=\"https://www.eff.org/deeplinks/2016/08/windows-10-"
@@ -445,7 +465,7 @@ msgstr ""
 "microsoft-blatantly-disregards-user-choice-and-privacy-deep-dive\">manifeste "
 "un mépris total des choix de l'utilisateur et de sa vie privée</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"https://duo.com/blog/bring-your-own-dilemma-oem-laptops-and-"
 "windows-10-security\"> Windows 10 comes with 13 screens of snooping options</"
@@ -457,7 +477,7 @@ msgstr ""
 "de flicage</a>, toutes activées par défaut, que la plupart des utilisateurs "
 "n'oseront pas désactiver."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "It appears <a href=\"http://www.ghacks.net/2016/01/05/microsoft-may-be-"
 "collecting-more-data-than-initially-thought/\"> Windows 10 sends data to "
@@ -467,7 +487,7 @@ msgstr ""
 "collecting-more-data-than-initially-thought/\">Windows 10 rapporte à "
 "Microsoft quelles applications sont en service</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Microsoft has <a href=\"https://theintercept.com/2015/12/28/recently-bought-"
 "a-windows-computer-microsoft-probably-has-your-encryption-key/\"> backdoored "
@@ -477,7 +497,7 @@ msgstr ""
 "computer-microsoft-probably-has-your-encryption-key/\">Microsoft a mis une "
 "porte dérobée dans le chiffrement des disques</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "A downgrade to Windows 10 deleted surveillance-detection applications.  Then "
 "another downgrade inserted a general spying program.  Users noticed this and "
@@ -492,13 +512,13 @@ msgstr ""
 "uk/2015/11/26/microsoft_renamed_data_slurper_reinserted_windows_10/\">pour "
 "leur donner l'impression qu'il n'était plus là</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "To use proprietary software is to invite such treatment."
 msgstr ""
 "Utiliser du logiciel privateur est une invitation à se faire traiter de la "
 "sorte."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"https://web.archive.org/web/20150905163414/http://www.pocket-lint."
 "com/news/134954-cortana-is-always-listening-with-new-wake-on-voice-tech-even-"
@@ -510,7 +530,7 @@ msgstr ""
 "when-windows-10-is-sleeping\">Les appareils d'Intel seront capables "
 "d'écouter la voix en permanence, même « à l'arrêt »</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"http://arstechnica.com/information-technology/2015/08/even-when-"
 "told-not-to-windows-10-just-cant-stop-talking-to-microsoft/\"> Windows 10 "
@@ -524,7 +544,7 @@ msgstr ""
 "désactive la recherche sur Bing et les fonctionnalités de Cortina, et active "
 "les paramètres de confidentialité."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Windows 10 <a href=\"https://web.archive.org/web/20180923125732/https://"
 "jonathan.porta.codes/2015/07/30/windows-10-seems-to-have-some-scary-privacy-"
@@ -544,7 +564,7 @@ msgstr ""
 "connexion automatique des machines aux réseaux WiFi ouverts et l'affichage "
 "de publicités ciblées."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "We can suppose Microsoft look at users' files for the US government on "
 "demand, though the &ldquo;privacy policy&rdquo; does not explicitly say so. "
@@ -555,7 +575,7 @@ msgstr ""
 "confidentialité » ne le disent pas explicitement. Est-ce qu'elle fera de "
 "même pour le gouvernement chinois ?"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Microsoft uses Windows 10's &ldquo;privacy policy&rdquo; to overtly impose a "
 "&ldquo;right&rdquo; to look at users' files at any time. Windows 10 full "
@@ -568,14 +588,14 @@ msgstr ""
 "\"https://edri.org/microsofts-new-small-print-how-your-personal-data-abused/"
 "\">donne une clé à Microsoft</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Thus, Windows is overt malware in regard to surveillance, as in other issues."
 msgstr ""
 "Ainsi, Windows est un logiciel malveillant manifeste en ce qui concerne la "
 "surveillance, comme sur les autres plans."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "We can suppose Microsoft look at users' files for the US government on "
 "demand, though the &ldquo;privacy policy&rdquo; does not explicit say so. "
@@ -586,7 +606,7 @@ msgstr ""
 "confidentialité » ne le disent pas explicitement. Est-ce qu'elle fera de "
 "même pour le gouvernement chinois ?"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The unique &ldquo;advertising ID&rdquo; for each user enables other "
 "companies to track the browsing of each specific user."
@@ -594,7 +614,7 @@ msgstr ""
 "L'« identifiant publicitaire unique » permet aux autres sociétés de suivre "
 "la navigation de chacun des utilisateurs."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "It's as if Microsoft has deliberately chosen to make Windows 10 maximally "
 "evil on every dimension; to make a grab for total power over anyone that "
@@ -604,7 +624,7 @@ msgstr ""
 "malfaisant sur tous les plans ; de s'octroyer un contrôle total sur toute "
 "personne qui n'abandonne pas Windows dès maintenant."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "It only gets worse with time.  <a href=\"http://www.techworm.net/2014/10/"
 "microsofts-windows-10-permission-watch-every-move.html\"> Windows 10 "
@@ -617,7 +637,7 @@ msgstr ""
 "fouinage</a>, ce qui inclut leurs fichiers, leurs commandes, ainsi que leurs "
 "entrées texte et audio."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"https://www.techrepublic.com/blog/asian-technology/japanese-"
 "government-warns-baidu-ime-is-spying-on-users/\"> Baidu's Japanese-input and "
@@ -628,7 +648,7 @@ msgstr ""
 "saisie de Baidu pour le japonais et le chinois espionnent les utilisateurs</"
 "a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Spyware in older versions of Windows: <a href=\"https://www.theregister.co."
 "uk/2003/02/28/windows_update_keeps_tabs/\"> Windows Update snoops on the "
@@ -646,7 +666,7 @@ msgstr ""
 "dans Windows, <a href=\"http://www.marketoracle.co.uk/Article40836.html"
 "\">une clé secrète de la NSA</a> dont nous ne connaissons pas la fonction."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Microsoft's snooping on users did not start with Windows 10.  There's a lot "
 "more <a href=\"/proprietary/malware-microsoft.html\"> Microsoft malware</a>."
@@ -655,11 +675,11 @@ msgstr ""
 "Il y a bien d'autres <a href=\"/proprietary/malware-microsoft.html"
 "\">logiciels Microsoft malveillants</a>."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "MacOS"
 msgstr "MacOS"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInMacOS"
 "\">#SpywareInMacOS</a>)</span>"
@@ -667,7 +687,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInMacOS"
 "\">#SpywareInMacOS</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Adware Doctor, an ad blocker for MacOS, <a href=\"https://motherboard.vice."
 "com/en_us/article/wjye8x/mac-anti-adware-doctor-app-steals-browsing-history"
@@ -678,7 +698,7 @@ msgstr ""
 "history\">envoie l'historique de navigation de l'utilisateur à sa maison "
 "mère</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple has made various <a href=\"http://www.theguardian.com/technology/2014/"
 "nov/04/apple-data-privacy-icloud\"> MacOS programs send files to Apple "
@@ -690,7 +710,7 @@ msgstr ""
 "envoient des fichiers sans en demander la permission</a>. Ceci expose ces "
 "fichiers à Big Brother et peut-être à d'autres fouineurs."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "It also demonstrates how you can't trust proprietary software, because even "
 "if today's version doesn't have a malicious functionality, tomorrow's "
@@ -704,7 +724,7 @@ msgstr ""
 "utilisateurs ne la rejettent fermement et ils ne peuvent pas non plus "
 "l'enlever eux-mêmes."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "MacOS automatically <a href=\"https://web.archive.org/web/20170831144456/"
 "https://www.washingtonpost.com/news/the-switch/wp/2014/10/30/how-one-mans-"
@@ -723,7 +743,7 @@ msgstr ""
 "utm_source=twitterfeed&amp;utm_medium=twitter/\">encore plus sensible</a> "
 "que ce que vous stockez dans des fichiers."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple admits the <a href=\"http://www.intego.com/mac-security-blog/spotlight-"
 "suggestions-in-os-x-yosemite-and-ios-are-you-staying-private/\"> spying in a "
@@ -737,7 +757,7 @@ msgstr ""
 "\"https://github.com/fix-macosx/yosemite-phone-home\">d'autres dispositifs "
 "fouineurs dont Apple n'a jamais parlé</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Various operations in <a href=\"http://lifehacker.com/safari-and-spotlight-"
 "can-send-data-to-apple-heres-how-1648453540\"> the latest MacOS send reports "
@@ -747,7 +767,7 @@ msgstr ""
 "and-spotlight-can-send-data-to-apple-heres-how-1648453540\">le dernier "
 "MacOS</a> envoient des rapports aux serveurs d'Apple."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"http://finance.yahoo.com/blogs/the-exchange/privacy-advocates-"
 "worry-over-new-apple-iphone-tracking-feature-161836223.html\"> Spotlight "
@@ -758,7 +778,7 @@ msgstr ""
 "recherche de fichiers <cite>Spotlight</cite></a> envoie à Apple les termes "
 "recherchés par l'utilisateur."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "There's a lot more <a href=\"#SpywareIniThings\">iThing spyware</a>, and <a "
 "href=\"/proprietary/malware-apple.html\">Apple malware</a>."
@@ -767,15 +787,15 @@ msgstr ""
 "a>, et bien d'autres <a href=\"/proprietary/malware-apple.html\">logiciels "
 "Apple malveillants</a>."
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid "<span id=\"SpywareAtLowLevel\"></span>"
 msgstr "<span id=\"SpywareAtLowLevel\"></span>"
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "BIOS"
 msgstr "BIOS"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInBIOS"
 "\">#SpywareInBIOS</a>)</span>"
@@ -783,7 +803,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInBIOS"
 "\">#SpywareInBIOS</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"https://www.computerworld.com/article/2984889/lenovo-collects-"
 "usage-data-on-thinkpad-thinkcentre-and-thinkstation-pcs.html\"> Lenovo "
@@ -802,11 +822,11 @@ msgstr ""
 "\"/proprietary/malware-microsoft.html\">Microsoft y ajoute ses propres "
 "logiciels malveillants</a>."
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><div><div><h3>
 msgid "Spyware on Mobiles"
 msgstr "Espionnage des mobiles"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareOnMobiles"
 "\">#SpywareOnMobiles</a>)</span>"
@@ -814,11 +834,11 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareOnMobiles"
 "\">#SpywareOnMobiles</a>)</span>"
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "All &ldquo;Smart&rdquo; Phones"
 msgstr "Espions dans les téléphones « intelligents »"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInTelephones"
 "\">#SpywareInTelephones</a>)</span>"
@@ -826,7 +846,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInTelephones"
 "\">#SpywareInTelephones</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The natural extension of monitoring people through &ldquo;their&rdquo; "
 "phones is <a href=\"http://www.northwestern.edu/newscenter/stories/2016/01/"
@@ -838,7 +858,7 @@ msgstr ""
 "stories/2016/01/fool-activity-tracker.html\">le logiciel privateur ; c'est "
 "une garantie qu'ils ne pourront pas « déjouer » la surveillance</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "According to Edward Snowden, <a href=\"http://www.bbc.com/news/"
 "uk-34444233\">agencies can take over smartphones</a> by sending hidden text "
@@ -855,7 +875,7 @@ msgstr ""
 "la navigation sur le web, ainsi que lire le répertoire. Ce logiciel "
 "malveillant est conçu pour se camoufler de manière à échapper aux recherches."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"https://web.archive.org/web/20180816030205/http://www.spiegel.de/"
 "international/world/privacy-scandal-nsa-can-spy-on-smart-phone-data-a-920971."
@@ -878,7 +898,7 @@ msgstr ""
 "The_second_operating_system_hiding_in_every_mobile_phone\">une multitude de "
 "bogues dans le logiciel de radio des téléphones</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Portable phones with GPS <a href=\"http://www.aclu.org/government-location-"
 "tracking-cell-phones-gps-devices-and-license-plate-readers\"> will send "
@@ -892,11 +912,11 @@ msgstr ""
 "américain dit qu'à terme il va rendre le GPS obligatoire dans tous les "
 "téléphones portables neufs)."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "iThings"
 msgstr "iTrucs"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareIniThings"
 "\">#SpywareIniThings</a>)</span>"
@@ -904,7 +924,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareIniThings"
 "\">#SpywareIniThings</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Safari occasionally <a href=\"https://blog.cryptographyengineering."
 "com/2019/10/13/dear-apple-safe-browsing-might-not-be-that-safe/\"> sends "
@@ -926,7 +946,7 @@ msgstr ""
 "gouvernement peut identifier les dissidents en Chine et à Hong Kong, ce qui "
 "met leur vie en danger."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "In spite of Apple's supposed commitment to privacy, iPhone apps contain "
 "trackers that are busy at night <a href=\"https://www.oregonlive.com/"
@@ -939,7 +959,7 @@ msgstr ""
 "iphone-is-talking-to.html\">envoyer des données personnelles de "
 "l'utilisateur à des tiers</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The article mentions specific examples: Microsoft OneDrive, Intuit’s Mint, "
 "Nike, Spotify, The Washington Post, The Weather Channel (owned by IBM), the "
@@ -960,7 +980,7 @@ msgstr ""
 "information a été collectée par la société, les paris sont ouverts quant à "
 "son utilisation."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The DMCA and the EU Copyright Directive make it <a href=\"https://boingboing."
 "net/2017/11/25/la-la-la-cant-hear-you.html\"> illegal to study how iOS "
@@ -972,7 +992,7 @@ msgstr ""
 "d'étudier la manière dont les applis sous iOS espionnent l'utilisateur</a> "
 "car cela suppose de contourner le DRM d'iOS."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "In the latest iThings system, &ldquo;turning off&rdquo; WiFi and Bluetooth "
 "the obvious way <a href=\"https://www.theguardian.com/technology/2017/sep/21/"
@@ -988,7 +1008,7 @@ msgstr ""
 "élaborée, mais seulement jusqu'à 5h du matin. Bon exemple de la méthode "
 "Apple : « Nous savons que vous voulez être espionné. »"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple proposes <a href=\"https://www.theguardian.com/technology/2017/feb/15/"
 "apple-removing-iphone-home-button-fingerprint-scanning-screen\">a "
@@ -1003,7 +1023,7 @@ msgstr ""
 "digitales. Les utilisateurs n'auraient aucun moyen de savoir si le téléphone "
 "les espionne."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "iPhones <a href=\"https://theintercept.com/2016/11/17/iphones-secretly-send-"
 "call-history-to-apple-security-firm-says/\">send lots of personal data to "
@@ -1013,7 +1033,7 @@ msgstr ""
 "send-call-history-to-apple-security-firm-says/\">envoient un tas de données "
 "personnelles aux serveurs d'Apple</a>, où Big Brother peut les récupérer."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The iMessage app on iThings <a href=\"https://theintercept.com/2016/09/28/"
 "apple-logs-your-imessage-contacts-and-may-share-them-with-police/\">tells a "
@@ -1025,7 +1045,7 @@ msgstr ""
 "le server de chaque numéro que l'utilisateur saisit dans son interface</a>; "
 "le serveur enregistre ces numéros pendant au moins 30 jours."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "iThings automatically upload to Apple's servers all the photos and videos "
 "they make."
@@ -1033,7 +1053,7 @@ msgstr ""
 "les iTrucs envoient automatiquement sur les serveurs d'Apple toutes les "
 "photos et vidéos qu'ils prennent."
 
-#. type: Content of: <div><ul><li><blockquote><p>
+#. type: Content of: <div><div><ul><li><blockquote><p>
 msgid ""
 "iCloud Photo Library stores every photo and video you take, and keeps them "
 "up to date on all your devices. Any edits you make are automatically updated "
@@ -1044,7 +1064,7 @@ msgstr ""
 "ainsi que sur iCloud.com. Toutes les modifications que vous y apportez se "
 "répercutent automatiquement partout. [&hellip;]"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "(From <a href=\"https://www.apple.com/icloud/photos/\">Apple's iCloud "
 "information</a> as accessed on 24 Sep 2015.) The iCloud feature is <a href="
@@ -1058,7 +1078,7 @@ msgstr ""
 "automatiquement au démarrage d'iOS</a>. Le terme <cite>cloud</cite> (nuage) "
 "veut dire « Ne demandez pas où c'est. »"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "There is a way to <a href=\"https://support.apple.com/en-us/HT201104\"> "
 "deactivate iCloud</a>, but it's active by default so it still counts as a "
@@ -1068,7 +1088,7 @@ msgstr ""
 "HT201104\">désactiver iCloud</a>, mais étant donné qu'il est activé par "
 "défaut cela représente une fonctionnalité de surveillance."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Unknown people apparently took advantage of this to <a href=\"https://www."
 "theguardian.com/technology/2014/sep/01/naked-celebrity-hack-icloud-backup-"
@@ -1085,7 +1105,7 @@ msgstr ""
 "photos dans le cadre de <a href=\"/philosophy/surveillance-vs-democracy."
 "html#digitalcash\">PRISM</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple can, and regularly does, <a href=\"http://arstechnica.com/"
 "apple/2014/05/new-guidelines-outline-what-iphone-data-apple-can-give-to-"
@@ -1095,7 +1115,7 @@ msgstr ""
 "com/apple/2014/05/new-guidelines-outline-what-iphone-data-apple-can-give-to-"
 "police/\">extraire à distance certaines données des iPhones pour l'État</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This may have improved with <a href=\"https://www.denverpost.com/2014/09/17/"
 "apple-will-no-longer-unlock-most-iphones-ipads-for-police/\"> iOS 8 security "
@@ -1108,7 +1128,7 @@ msgstr ""
 "org/theintercept/2014/09/22/apple-data/\">pas autant que le prétend Apple</"
 "a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"http://www.theguardian.com/technology/2014/jul/23/iphone-backdoors-"
 "surveillance-forensic-services\"> Several &ldquo;features&rdquo; of iOS seem "
@@ -1124,7 +1144,7 @@ msgstr ""
 "uploads/2014/07/iOS_Backdoors_Attack_Points_Surveillance_Mechanisms_Moved.pdf"
 "\">présentation technique</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The <a class=\"not-a-duplicate\" href=\"http://finance.yahoo.com/blogs/the-"
 "exchange/privacy-advocates-worry-over-new-apple-iphone-tracking-"
@@ -1136,7 +1156,7 @@ msgstr ""
 "feature-161836223.html\">L'i-Beacon</a> permet aux magasins de déterminer "
 "exactement où se trouve l'iTruc et récupère aussi d'autres informations."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"http://www.zerohedge.com/news/2013-12-30/how-nsa-hacks-your-iphone-"
 "presenting-dropout-jeep\"> Either Apple helps the NSA snoop on all the data "
@@ -1146,7 +1166,7 @@ msgstr ""
 "presenting-dropout-jeep\">Ou bien Apple aide la NSA à espionner toutes les "
 "données des iTrucs, ou bien cette société est totalement incompétente</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The iThing also <a href=\"https://www.theregister.co.uk/2013/08/08/"
 "ios7_tracking_now_its_a_favourite_feature/\"> tells Apple its geolocation</"
@@ -1156,7 +1176,7 @@ msgstr ""
 "ios7_tracking_now_its_a_favourite_feature/\">transmet sa géolocalisation à "
 "Apple</a> par défaut, mais cela peut être désactivé."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "There is also a feature for web sites to track users, which is <a href="
 "\"http://nakedsecurity.sophos.com/2012/10/17/how-to-disable-apple-ios-user-"
@@ -1168,7 +1188,7 @@ msgstr ""
 "défaut</a>, qui permet aux sites web de pister les utilisateurs (cet article "
 "parle d'iOS 6, mais c'est encore vrai d'iOS 7)."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Users cannot make an Apple ID (<a href=\"https://apple.stackexchange.com/"
 "questions/49951/how-can-i-download-free-apps-without-registering-an-apple-id"
@@ -1181,11 +1201,11 @@ msgstr ""
 "ce que des applis gratuites</a>) sans donner une adresse de courriel valide "
 "et recevoir le code de vérification envoyé dessus par Apple."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "Android Telephones"
 msgstr "Téléphones Android"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInAndroid"
 "\">#SpywareInAndroid</a>)</span>"
@@ -1193,7 +1213,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInAndroid"
 "\">#SpywareInAndroid</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Xiaomi phones <a href=\"https://www.forbes.com/sites/"
 "thomasbrewster/2020/04/30/exclusive-warning-over-chinese-mobile-giant-xiaomi-"
@@ -1208,7 +1228,7 @@ msgstr ""
 "regarder un répertoire, aller sur un site web, écouter une chanson. Ils "
 "envoient également les identifiants de l'appareil."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Other nonfree programs snoop too. For instance, Spotify and other streaming "
 "dis-services make a dossier about each user, and <a href=\"/malware/"
@@ -1220,7 +1240,7 @@ msgstr ""
 "proprietary-surveillance.html#M201508210\">le forcent à s'identifier pour "
 "payer</a>. Dehors, dehors, satané Spotify !"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Forbes exonerates the same wrongs when the culprits are not Chinese, but we "
 "condemn this no matter who does it."
@@ -1228,7 +1248,7 @@ msgstr ""
 "Forbes excuse ces mêmes fautes quand les coupables ne sont pas chinois, mais "
 "nous les condamnons quel que soit leur auteur."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Facebook's app got &ldquo;consent&rdquo; to <a href=\"https://www."
 "theguardian.com/technology/2018/dec/06/facebook-emails-reveal-discussions-"
@@ -1241,7 +1261,7 @@ msgstr ""
 "des téléphones Android</a> tout en dissimulant l'objet de ce "
 "« consentement »."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "An Android phone was observed to track location even while in airplane mode. "
 "It didn't send the location data while in airplane mode.  Instead, <a href="
@@ -1255,7 +1275,7 @@ msgstr ""
 "tracking-you-even-with-airplane-mode-turned-on/\">sauvegardées et envoyées "
 "plus tard</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Android tracks location for Google <a href=\"https://www.techdirt.com/"
 "articles/20171121/09030238658/investigation-finds-google-collected-location-"
@@ -1269,7 +1289,7 @@ msgstr ""
 "quand les « services de localisation » sont désactivés, et même quand le "
 "téléphone n'a pas de carte SIM</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Some portable phones <a href=\"http://www.prnewswire.com/news-releases/"
 "kryptowire-discovered-mobile-phone-firmware-that-transmitted-personally-"
@@ -1282,7 +1302,7 @@ msgstr ""
 "disclosure-300362844.html\">sont vendus avec un logiciel espion qui envoie "
 "une masse de données en Chine</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Google Play (a component of Android) <a href=\"https://www.extremetech.com/"
 "mobile/235594-yes-google-play-is-tracking-you-and-thats-just-the-tip-of-a-"
@@ -1294,7 +1314,7 @@ msgstr ""
 "very-large-iceberg\">suit tous les mouvements de l'utilisateur sans sa "
 "permission</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Even if you disable Google Maps and location tracking, you must disable "
 "Google Play itself to completely stop the tracking.  This is yet another "
@@ -1308,7 +1328,7 @@ msgstr ""
 "l'utilisateur, mais en réalité fait tout autre chose. Ce genre de "
 "comportement serait à peu près inimaginable avec du logiciel libre."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Samsung phones come with <a href=\"http://arstechnica.com/gadgets/2015/07/"
 "samsung-sued-for-loading-devices-with-unremovable-crapware-in-china/\">apps "
@@ -1323,7 +1343,7 @@ msgstr ""
 "substantielle pour les utilisateurs. Il est clair que ladite transmission, "
 "ni désirée ni demandée, doit constituer une sorte d'espionnage."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"/proprietary/proprietary-back-doors.html#samsung\"> Samsung's back "
 "door</a> provides access to any file on the system."
@@ -1331,7 +1351,7 @@ msgstr ""
 "<a href=\"/proprietary/proprietary-back-doors.html#samsung\">La porte "
 "dérobée de Samsung</a> permet l'accès à n'importe quel fichier du système."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Spyware in Android phones (and Windows? laptops): The Wall Street Journal "
 "(in an article blocked from us by a paywall) reports that <a href=\"http://"
@@ -1350,7 +1370,7 @@ msgstr ""
 "des portables sous Windows) ; voici des <a href=\"http://cryptome."
 "org/2013/08/fbi-hackers.htm\">informations complémentaires</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Spyware is present in some Android devices when they are sold.  Some "
 "Motorola phones, made when this company was owned by Google, use a modified "
@@ -1363,7 +1383,7 @@ msgstr ""
 "<a href=\"http://www.beneaththewaves.net/Projects/Motorola_Is_Listening.html"
 "\">communique des données personnelles au fabricant</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "A Motorola phone <a href=\"https://web.archive.org/web/20170629175629/http://"
 "www.itproportal.com/2013/07/25/motorolas-new-x8-arm-chip-underpinning-the-"
@@ -1374,7 +1394,7 @@ msgstr ""
 "the-always-on-future-of-android/\">est à l'écoute des fréquences vocales en "
 "permanence</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Google Play intentionally sends app developers <a href=\"http://gadgets.ndtv."
 "com/apps/news/google-play-store-policy-raises-privacy-concerns-331116\"> the "
@@ -1385,7 +1405,7 @@ msgstr ""
 "concerns-331116\">les données personnelles des utilisateurs qui les "
 "installent</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Merely asking the &ldquo;consent&rdquo; of users is not enough to legitimize "
 "actions like this.  At this point, most users have stopped reading the "
@@ -1401,7 +1421,7 @@ msgstr ""
 "collecte à propos des utilisateurs au lieu de les cacher dans des CLUF "
 "absconses."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "However, to truly protect people's privacy, we must prevent Google and other "
 "companies from getting this personal information in the first place!"
@@ -1410,7 +1430,7 @@ msgstr ""
 "premier lieu empêcher Google et les autres sociétés de récupérer cette "
 "information personnelle."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Some manufacturers add a <a href=\"http://androidsecuritytest.com/features/"
 "logs-and-services/loggers/carrieriq/\"> hidden general surveillance package "
@@ -1420,11 +1440,11 @@ msgstr ""
 "features/logs-and-services/loggers/carrieriq/\">un logiciel de surveillance "
 "cachée tous azimuts comme Carrier IQ</a>."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "E-Readers"
 msgstr "Liseuses"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInElectronicReaders"
 "\">#SpywareInElectronicReaders</a>)</span>"
@@ -1432,7 +1452,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInElectronicReaders"
 "\">#SpywareInElectronicReaders</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "E-books can contain JavaScript code, and <a href=\"http://www.theguardian."
 "com/books/2016/mar/08/men-make-up-their-minds-about-books-faster-than-women-"
@@ -1443,7 +1463,7 @@ msgstr ""
 "books-faster-than-women-study-finds\">parfois ce code espionne "
 "l'utilisateur</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Adobe made &ldquo;Digital Editions,&rdquo; the e-reader used by most US "
 "libraries, <a href=\"https://web.archive.org/web/20141220181015/http://www."
@@ -1457,7 +1477,7 @@ msgstr ""
 "strikes-again-3575860/\">lui envoie une quantité énorme de données</a>. Leur "
 "excuse : on en a besoin pour vérifier les DRM !"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Spyware in many e-readers&mdash;not only the Kindle: <a href=\"https://www."
 "eff.org/pages/reader-privacy-chart-2012\"> they report even which page the "
@@ -1468,11 +1488,11 @@ msgstr ""
 "chart-2012\">ils rapportent même la page que lit l'utilisateur, et à quel "
 "moment</a>."
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><div><div><h3>
 msgid "Spyware in Applications"
 msgstr "Espions dans les applications"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInApplications"
 "\">#SpywareInApplications</a>)</span>"
@@ -1480,11 +1500,11 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInApplications"
 "\">#SpywareInApplications</a>)</span>"
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "Desktop Apps"
 msgstr "Sur ordinateur de bureau"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInDesktopApps"
 "\">#SpywareInDesktopApps</a>)</span>"
@@ -1492,7 +1512,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInDesktopApps"
 "\">#SpywareInDesktopApps</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Some Avast and AVG extensions for Firefox and Chrome were found to <a href="
 "\"https://www.itpro.co.uk/security/internet-security/354417/avast-and-avg-"
@@ -1511,7 +1531,7 @@ msgstr ""
 "censés protéger un système privateur sont au contraire des vecteurs "
 "d'infection pour d'autres maliciels (le système étant lui-même malveillant)."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Foundry's graphics software <a href=\"https://torrentfreak.com/software-"
 "company-fines-pirates-after-monitoring-their-computers-181102/\"> reports "
@@ -1524,7 +1544,7 @@ msgstr ""
 "souvent par la demande d'une grosse somme d'argent sous la menace d'un "
 "procès."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The fact that this is used for repression of forbidden sharing makes it even "
 "more vicious."
@@ -1532,7 +1552,7 @@ msgstr ""
 "Le fait qu'il soit utilisé pour réprimer le partage non autorisé rend ce "
 "procédé encore plus vicieux."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This illustrates that making unauthorized copies of nonfree software is not "
 "a cure for the injustice of nonfree software. It may avoid paying for the "
@@ -1542,11 +1562,11 @@ msgstr ""
 "remède contre l'injustice qu'ils représentent. Elle permet ne pas payer pour "
 "ces choses malfaisantes, mais ne peut pas les rendre moins malfaisantes."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "Mobile Apps"
 msgstr "Sur mobile"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInMobileApps"
 "\">#SpywareInMobileApps</a>)</span>"
@@ -1554,7 +1574,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInMobileApps"
 "\">#SpywareInMobileApps</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Alipay Health Code app estimates whether the user has Covid-19 and <a "
 "href=\"https://www.nytimes.com/2020/03/01/business/china-coronavirus-"
@@ -1564,7 +1584,7 @@ msgstr ""
 "Covid-19 et <a href=\"https://www.nytimes.com/2020/03/01/business/china-"
 "coronavirus-surveillance.html\">en informe la police directement</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Amazon Ring app does <a href=\"https://www.theguardian.com/"
 "technology/2020/jan/29/ring-smart-doorbell-company-surveillance-eff-report"
@@ -1574,7 +1594,7 @@ msgstr ""
 "technology/2020/jan/29/ring-smart-doorbell-company-surveillance-eff-report"
 "\">espionne pour Amazon, mais aussi pour d'autres sociétés</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The ToToc messaging app seems to be a <a href=\"https://www.nytimes."
 "com/2019/12/22/us/politics/totok-app-uae.html\"> spying tool for the "
@@ -1587,7 +1607,7 @@ msgstr ""
 "être le cas de n'importe quel programme non libre, bonne raison d'utiliser "
 "plutôt du logiciel libre."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<small>Note: this article uses the word &ldquo;free&rdquo; in the sense of "
 "&ldquo;gratis.&rdquo;</small>"
@@ -1595,7 +1615,7 @@ msgstr ""
 "<small>Note : cet article utilise le mot <cite>free</cite> dans le sens de "
 "« gratuit »</small>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "iMonsters and Android phones, when used for work, give employers powerful <a "
 "href=\"https://www.fastcompany.com/90440073/if-you-use-your-personal-phone-"
@@ -1612,7 +1632,7 @@ msgstr ""
 "l'employé, c'est simplement un logiciel privateur, aussi fondamentalement "
 "injuste et dangereux que n'importe quel autre logiciel privateur."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Chinese Communist Party's &ldquo;Study the Great Nation&rdquo; app "
 "requires users to grant it <a href=\"https://www.ndtv.com/world-news/chinese-"
@@ -1633,7 +1653,7 @@ msgstr ""
 "privilèges de « super-utilisateur ». Le téléchargement et l'utilisation de "
 "cette appli sont obligatoires sur certains lieux de travail."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Note: The <a href=\"http://web-old.archive.org/web/20191015005153/https://"
 "www.washingtonpost.com/world/asia_pacific/chinese-app-on-xis-ideology-allows-"
@@ -1655,7 +1675,7 @@ msgstr ""
 "Apple, ce genre de surveillance avec privilèges de “super-utilisateur” ne "
 "pouvait pas fonctionner sur le système d'exploitation d'Apple »."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Facebook app <a href=\"https://eu.usatoday.com/story/tech/"
 "talkingtech/2019/09/09/facebook-app-social-network-tracking-your-every-"
@@ -1669,7 +1689,7 @@ msgstr ""
 "a>, après les avoir incités à lui donner des permissions très étendues pour "
 "utiliser une de ses fonctionnalités"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Some nonfree period-tracking apps including MIA Fem and Maya <a href="
 "\"https://www.buzzfeednews.com/article/meghara/period-tracker-apps-facebook-"
@@ -1680,7 +1700,7 @@ msgstr ""
 "period-tracker-apps-facebook-maya-mia-fem\">envoient des détails intimes de "
 "la vie de leurs utilisatrices à Facebook</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Keeping track of who downloads a proprietary program is a form of "
 "surveillance.  There is a proprietary program for adjusting a certain "
@@ -1697,11 +1717,11 @@ msgstr ""
 "américain a exigé la liste des 10 000 personne ou plus qui l'ont installé</"
 "a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "With a free program there would not be a list of who has installed it."
 msgstr "Avec un programme libre, il n'y aurait pas de liste des utilisateurs."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Many unscrupulous mobile-app developers keep finding ways to <a href="
 "\"https://www.cnet.com/news/more-than-1000-android-apps-harvest-your-data-"
@@ -1716,7 +1736,7 @@ msgstr ""
 "d'exploitation visant à mieux respecter la vie privée, de manière à récolter "
 "le plus possible de données privées."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Thus, we can't trust rules against spying.  What we can trust is having "
 "control over the software we run."
@@ -1725,7 +1745,7 @@ msgstr ""
 "nous inspirer confiance, par contre, c'est d'avoir le contrôle des logiciels "
 "que nous faisons tourner."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Many Android apps can track users' movements even when the user says <a href="
 "\"https://www.theverge.com/2019/7/8/20686514/android-covert-channel-"
@@ -1737,7 +1757,7 @@ msgstr ""
 "permissions-data-collection-imei-ssid-location\">de ne pas leur donner accès "
 "à la géolocalisation</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This involves an apparently unintentional weakness in Android, exploited "
 "intentionally by malicious apps."
@@ -1745,7 +1765,7 @@ msgstr ""
 "Cela fait intervenir une faille apparemment involontaire d'Android, qui est "
 "exploitée sciemment par les applis malveillantes."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Femm &ldquo;fertility&rdquo; app is secretly a <a href=\"https://www."
 "theguardian.com/world/2019/may/30/revealed-womens-fertility-app-is-funded-by-"
@@ -1757,13 +1777,13 @@ msgstr ""
 "anti-abortion-campaigners\">instrument de propagande</a> aux chrétiens "
 "natalistes. Elle propage la méfiance envers la contraception."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "It snoops on users, too, as you must expect from nonfree programs."
 msgstr ""
 "De plus, elle espionne les utilisatrices, comme on peut s'y attendre de la "
 "part d'un programme non libre."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "BlizzCon 2019 imposed a <a href=\"https://arstechnica.com/gaming/2019/05/"
 "blizzcon-2019-tickets-revolve-around-invasive-poorly-reviewed-smartphone-app/"
@@ -1775,7 +1795,7 @@ msgstr ""
 "\">l'utilisation d'une appli mobile privatrice</a> pour accéder à "
 "l'événement."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This app is a spyware that can snoop on a lot of sensitive data, including "
 "user's location and contact list, and has <a href=\"https://old.reddit.com/r/"
@@ -1788,7 +1808,7 @@ msgstr ""
 "comments/bkd5ew/you_need_to_have_a_phone_to_attend_blizzcon_this/emg38xv/"
 "\">contrôle presque complet</a> du téléphone."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Data collected by menstrual and pregnancy monitoring apps is often <a href="
 "\"https://www.theguardian.com/world/2019/apr/13/theres-a-dark-side-to-womens-"
@@ -1803,7 +1823,7 @@ msgstr ""
 "ces données soient « anonymisées et agrégées », on peut facilement retrouver "
 "quelle femme utilise l'appli."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This has harmful implications for women's rights to equal employment and "
 "freedom to make their own pregnancy choices. Don't use these apps, even if "
@@ -1822,7 +1842,7 @@ msgstr ""
 "building-a-better-period-tracking-app-podcast\">une autre est en "
 "développement</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Google tracks the movements of Android phones and iPhones running Google "
 "apps, and sometimes <a href=\"https://www.nytimes.com/interactive/2019/04/13/"
@@ -1833,7 +1853,7 @@ msgstr ""
 "interactive/2019/04/13/us/google-location-tracking-police.html\">sauvegarde "
 "les données, parfois pendant des années</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Nonfree software in the phone has to be responsible for sending the location "
 "data to Google."
@@ -1841,7 +1861,7 @@ msgstr ""
 "Ce doit être un logiciel non libre présent dans le téléphone qui envoie ces "
 "données à Google."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Many Android phones come with a huge number of <a href=\"https://elpais.com/"
 "elpais/2019/03/22/inenglish/1553244778_819882.html\"> preinstalled nonfree "
@@ -1860,7 +1880,7 @@ msgstr ""
 "Internet mais pas d'accès direct aux données. Il en résulte une surveillance "
 "massive que l'utilisateur n'a absolument aucun moyen de contrôler."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "A study of 24 &ldquo;health&rdquo; apps found that 19 of them <a href="
 "\"https://motherboard.vice.com/en_us/article/pan9e8/health-apps-can-share-"
@@ -1875,7 +1895,7 @@ msgstr ""
 "de publicité intrusive ou de discrimination contre les personnes qui ont des "
 "problèmes médicaux."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Whenever user &ldquo;consent&rdquo; is sought, it is buried in lengthy terms "
 "of service that are difficult to understand. In any case, &ldquo;"
@@ -1886,7 +1906,7 @@ msgstr ""
 "incompréhensibles. De toute façon, « consentir » à l'espionnage ne le "
 "légitime pas."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Facebook offered a convenient proprietary library for building mobile apps, "
 "which also <a href=\"https://boingboing.net/2019/02/23/surveillance-"
@@ -1901,7 +1921,7 @@ msgstr ""
 "de cette manière et les ont publiées, sans se rendre compte que toutes les "
 "données personnelles collectées iraient également chez Facebook."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "It shows that no one can trust a nonfree program, not even the developers of "
 "other nonfree programs."
@@ -1909,7 +1929,7 @@ msgstr ""
 "Cela montre que personne ne peut faire confiance à un programme non libre, "
 "pas même les développeurs d'autres programmes non libres."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The AppCensus database gives information on <a href=\"https://www.appcensus."
 "mobi\"> how Android apps use and misuse users' personal data</a>. As of "
@@ -1931,7 +1951,7 @@ msgstr ""
 "pour que les utilisateurs ne puissent pas échapper au ciblage en le "
 "réinitialisant."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Collecting hardware identifiers is in apparent violation of Google's "
 "policies. But it seems that Google wasn't aware of it, and, once informed, "
@@ -1946,7 +1966,7 @@ msgstr ""
 "développement sont incapables d'empêcher les développeurs de logiciel non "
 "libre d'ajouter des fonctions malveillantes à leurs programmes."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Many nonfree apps have a surveillance feature for <a href=\"https://"
 "techcrunch.com/2019/02/06/iphone-session-replay-screenshots/\"> recording "
@@ -1957,7 +1977,7 @@ msgstr ""
 "screenshots/\">enregistre toutes les actions de l'utilisateur</a> pendant "
 "qu'il interagit avec l'appli."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Twenty nine &ldquo;beauty camera&rdquo; apps that used to be on Google Play "
 "had one or more malicious functionalities, such as <a href=\"http://web-old."
@@ -1979,7 +1999,7 @@ msgstr ""
 "utilisateurs de la plupart d'entre elles était conçue de telle sorte "
 "qu'elles soient difficiles à désinstaller."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Users should of course uninstall these dangerous apps if they haven't yet, "
 "but they should also stay away from nonfree apps in general. <em>All</em> "
@@ -1992,7 +2012,7 @@ msgstr ""
 "risque, parce qu'on ne peut pas vérifier facilement ce qu'elles font en "
 "réalité."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "An investigation of the 150 most popular gratis VPN apps in Google Play "
 "found that <a href=\"https://www.top10vpn.com/free-vpn-android-app-risk-"
@@ -2010,7 +2030,7 @@ msgstr ""
 "servir à espionner les utilisateurs. D'autres défauts techniques ont "
 "également été découverts."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Moreover, a previous investigation had found that <a href=\"https://www."
 "top10vpn.com/free-vpn-app-investigation/\">half of the top 10 gratis VPN "
@@ -2021,7 +2041,7 @@ msgstr ""
 "gratuites les plus connues ont des politiques de confidentialité "
 "lamentables</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<small>(It is unfortunate that these articles talk about &ldquo;free apps."
 "&rdquo; These apps are gratis, but they are <em>not</em> <a href=\"/"
@@ -2032,7 +2052,7 @@ msgstr ""
 "suivant le contexte]. Elles sont gratuites, mais il ne s'agit <em>pas</em> "
 "de <a href=\"/philosophy/free-sw.html\">logiciel libre</a>.)</small>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Weather Channel app <a href=\"https://www.theguardian.com/"
 "technology/2019/jan/04/weather-channel-app-lawsuit-location-data-selling\"> "
@@ -2046,7 +2066,7 @@ msgstr ""
 "exigeant qu'elle informe les utilisateurs de ce qu'elle va faire avec les "
 "données."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "We think that lawsuit is about a side issue. What the company does with the "
 "data is a secondary issue. The principal wrong here is that the company gets "
@@ -2056,7 +2076,7 @@ msgstr ""
 "Ce que fait la société avec les données est secondaire. Son tort principal "
 "est de se les accaparer."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"https://motherboard.vice.com/en_us/article/gy77wy/stop-using-third-"
 "party-weather-apps\"> Other weather apps</a>, including Accuweather and "
@@ -2066,7 +2086,7 @@ msgstr ""
 "party-weather-apps\">D'autres applis météo</a>, en particulier Accuweather "
 "et WeatherBug, suivent l'utilisateur à la trace."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Around 40% of gratis Android apps <a href=\"https://privacyinternational.org/"
 "report/2647/how-apps-android-share-data-facebook-report\"> report on the "
@@ -2076,7 +2096,7 @@ msgstr ""
 "privacyinternational.org/report/2647/how-apps-android-share-data-facebook-"
 "report\">rapportent à Facebook les actions de l'utilisateur</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Often they send the machine's &ldquo;advertising ID,&rdquo; so that Facebook "
 "can correlate the data it obtains from the same machine via various apps. "
@@ -2090,13 +2110,13 @@ msgstr ""
 "sur les activités de l'utilisateur dans l'appli ; d'autres disent seulement "
 "qu'il l'utilise, mais ce simple renseignement est souvent très instructif."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This spying occurs regardless of whether the user has a Facebook account."
 msgstr ""
 "Cet espionnage se produit que l'utilisateur ait un compte Facebook ou non."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Some Android apps <a href=\"https://www.androidauthority.com/apps-uninstall-"
 "trackers-917539/amp/\"> track the phones of users that have deleted them</a>."
@@ -2105,7 +2125,7 @@ msgstr ""
 "uninstall-trackers-917539/amp/\">pistent les téléphones des utilisateurs qui "
 "les ont supprimées</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Some Google apps on Android <a href=\"https://www.theguardian.com/"
 "technology/2018/aug/13/google-location-tracking-android-iphone-mobile\"> "
@@ -2117,7 +2137,7 @@ msgstr ""
 "\">enregistrent la position de l'utilisateur même quand il désactive la "
 "géolocalisation</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "There are other ways to turn off the other kinds of location tracking, but "
 "most users will be tricked by the misleading control."
@@ -2125,7 +2145,7 @@ msgstr ""
 "Il existe des moyens de désactiver les autres modes de localisation, mais la "
 "plupart des utilisateurs se font piéger par une configuration trompeuse."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Spanish football streaming app <a href=\"https://boingboing."
 "net/2018/06/11/spanish-football-app-turns-use.html\">tracks the user's "
@@ -2135,12 +2155,12 @@ msgstr ""
 "\"https://boingboing.net/2018/06/11/spanish-football-app-turns-use.html"
 "\">suit les déplacements de l'utilisateur et écoute via le micro</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "This makes them act as spies for licensing enforcement."
 msgstr ""
 "Ainsi elle fait office d'espionne au service de l'application des licences."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "We expect it implements DRM, too&mdash;that there is no way to save a "
 "recording. But we can't be sure from the article."
@@ -2149,7 +2169,7 @@ msgstr ""
 "restrictions – qu'il n'y a aucun moyen de sauvegarder un enregistrement. "
 "Mais nous ne pouvons pas en être sûr d'après l'article."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "If you learn to care much less about sports, you will benefit in many ways. "
 "This is one more."
@@ -2157,7 +2177,7 @@ msgstr ""
 "Si vous apprenez à donner beaucoup moins d'importance aux sports, vous en "
 "tirerez de nombreux avantages. Dans ce cas particulièrement."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "More than <a href=\"https://www.theguardian.com/technology/2018/apr/16/child-"
 "apps-games-android-us-google-play-store-data-sharing-law-privacy\">50% of "
@@ -2175,7 +2195,7 @@ msgstr ""
 "d'espionnage dans ces applis privatrices, car ils n'ont pu examiner leur "
 "code source. Les autres pourraient utiliser d'autres méthodes."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This is evidence that proprietary apps generally work against their users.  "
 "To protect their privacy and freedom, Android users need to get rid of the "
@@ -2195,7 +2215,7 @@ msgstr ""
 "Antifeatures\">avertit de manière très visible si une appli contient des "
 "fonctionnalités nocives</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Grindr collects information about <a href=\"https://www.commondreams.org/"
 "news/2018/04/02/egregious-breach-privacy-popular-app-grindr-supplies-third-"
@@ -2207,7 +2227,7 @@ msgstr ""
 "\">enregistre lesquels de ses utilisateurs sont séropositifs et fournit "
 "cette information à des sociétés</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Grindr should not have so much information about its users.  It could be "
 "designed so that users communicate such info to each other but not to the "
@@ -2217,7 +2237,7 @@ msgstr ""
 "devrait être conçue pour que les utilisateurs se communiquent ce genre "
 "d'info les uns aux autres sans passer par la base de données du serveur."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The moviepass app and dis-service spy on users even more than users "
 "expected. It <a href=\"https://techcrunch.com/2018/03/05/moviepass-ceo-"
@@ -2230,11 +2250,11 @@ msgstr ""
 "before-and-after-movies/\">enregistrent leurs déplacements avant et après le "
 "cinéma</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "Don't be tracked&mdash;pay cash!"
 msgstr "Ne vous laissez pas pister ; payez comptant !"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Tracking software in popular Android apps is pervasive and sometimes very "
 "clever. Some trackers can <a href=\"https://theintercept.com/2017/11/24/"
@@ -2249,7 +2269,7 @@ msgstr ""
 "l'utilisateur dans un magasin physique en notant les réseaux wifi qu'il "
 "utilise</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Sarahah app <a href=\"https://theintercept.com/2017/08/27/hit-app-"
 "sarahah-quietly-uploads-your-address-book/\"> uploads all phone numbers and "
@@ -2260,7 +2280,7 @@ msgstr ""
 "téléphone et adresses de courriel</a> présents dans le carnet d'adresse de "
 "l'utilisateur sur le serveur du développeur."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<small>(Note that this article misuses the words &ldquo;<a href=\"/"
 "philosophy/free-sw.html\">free software</a>&rdquo; referring to zero price.)"
@@ -2270,7 +2290,7 @@ msgstr ""
 "<cite><a href=\"/philosophy/free-sw.html\">free software</a></cite> dans le "
 "sens de « logiciel gratuit ».)</small>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "20 dishonest Android apps recorded <a href=\"https://arstechnica.com/"
 "information-technology/2017/07/stealthy-google-play-apps-recorded-calls-and-"
@@ -2282,7 +2302,7 @@ msgstr ""
 "recorded-calls-and-stole-e-mails-and-texts\">des appels téléphoniques et les "
 "ont envoyées à des fouineurs, ainsi que des textos et des courriels</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Google did not intend to make these apps spy; on the contrary, it worked in "
 "various ways to prevent that, and deleted these apps after discovering what "
@@ -2294,7 +2314,7 @@ msgstr ""
 "découvert ce qu'elles faisaient. Donc nous ne pouvons pas mettre sur le dos "
 "de Google ce comportement fouineur particulier."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "On the other hand, Google redistributes nonfree Android apps, and therefore "
 "shares in the responsibility for the injustice of their being nonfree. It "
@@ -2307,7 +2327,7 @@ msgstr ""
 "Google Play), <a href=\"/philosophy/free-software-even-more-important.html"
 "\">qui sont malveillantes</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Could Google have done a better job of preventing apps from cheating? There "
 "is no systematic way for Google, or Android users, to inspect executable "
@@ -2318,7 +2338,7 @@ msgstr ""
 "d'Android, d'inspecter les applis privatrices exécutables pour voir ce "
 "qu'elles font."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Google could demand the source code for these apps, and study the source "
 "code somehow to determine whether they mistreat users in various ways. If it "
@@ -2331,7 +2351,7 @@ msgstr ""
 "plus ou moins évité, sauf si les développeurs d'applis étaient assez "
 "astucieux pour le déjouer."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "But since Google itself develops malicious apps, we cannot trust Google to "
 "protect us. We must demand release of source code to the public, so we can "
@@ -2342,7 +2362,7 @@ msgstr ""
 "publication du code source, pour que nous puissions compter les uns sur les "
 "autres."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apps for BART <a href=\"https://web.archive.org/web/20171124190046/https://"
 "consumerist.com/2017/05/23/passengers-say-commuter-rail-app-illegally-"
@@ -2354,7 +2374,7 @@ msgstr ""
 "commuter-rail-app-illegally-collects-personal-user-data/\">espionnent les "
 "utilisateurs</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "With free software apps, users could <em>make sure</em> that they don't "
 "snoop."
@@ -2362,13 +2382,13 @@ msgstr ""
 "Avec des applis libres, les utilisateurs pourraient <em>s'assurer</em> "
 "qu'elles ne les espionnent pas."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "With proprietary apps, one can only hope that they don't."
 msgstr ""
 "Avec des applis privatrices, on peut seulement espérer qu'elles ne le font "
 "pas."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "A study found 234 Android apps that track users by <a href=\"https://www."
 "bleepingcomputer.com/news/security/234-android-applications-are-currently-"
@@ -2381,7 +2401,7 @@ msgstr ""
 "\">écoutant les ultrasons émis par des balises placées dans certains "
 "magasins, ou par des programmes de télévision</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Faceapp appears to do lots of surveillance, judging by <a href=\"https://web."
 "archive.org/web/20170426191242/https://www.washingtonpost.com/news/the-"
@@ -2395,7 +2415,7 @@ msgstr ""
 "with-faceapp-the-latest-creepy-photo-app-for-your-face/\">ses exigences en "
 "matière d'accès aux données personnelles</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Users are suing Bose for <a href=\"https://web.archive.org/"
 "web/20170423010030/https://www.washingtonpost.com/news/the-switch/"
@@ -2411,7 +2431,7 @@ msgstr ""
 "ses écouteurs</a>. Plus précisément, l'appli enregistrait les noms des "
 "fichiers musicaux écoutés, ainsi que le numéro de série unique de l'appareil."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The suit accuses that this was done without the users' consent.  If the fine "
 "print of the app said that users gave consent for this, would that make it "
@@ -2424,7 +2444,7 @@ msgstr ""
 "vie ! Dès le départ, il aurait dû être illégal de <a href=\"/philosophy/"
 "surveillance-vs-democracy.html\">concevoir cette appli pour espionner</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Pairs of Android apps can collude to transmit users' personal data to "
 "servers. <a href=\"https://www.theatlantic.com/technology/archive/2017/04/"
@@ -2437,7 +2457,7 @@ msgstr ""
 "your-data/522177/\">Une étude a trouvé des dizaines de milliers d'applis qui "
 "sont dans ce cas</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Verizon <a href=\"https://yro.slashdot.org/story/17/03/30/0112259/verizon-to-"
 "force-appflash-spyware-on-android-phones\"> announced an opt-in proprietary "
@@ -2451,7 +2471,7 @@ msgstr ""
 "communiquera à Verizon les informations sur les recherches de l'utilisateur "
 "que Google obtient normalement lorsqu'ils utilisent son moteur de recherche."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Currently, the app is <a href=\"https://www.eff.org/deeplinks/2017/04/update-"
 "verizons-appflash-pre-installed-spyware-still-spyware\"> being pre-installed "
@@ -2465,7 +2485,7 @@ msgstr ""
 "avant qu'elle prenne effet. Cependant, cela reste un logiciel espion – un "
 "logiciel espion « optionnel » est toujours un logiciel espion."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Meitu photo-editing app <a href=\"https://theintercept.com/2017/01/21/"
 "popular-selfie-app-sending-user-data-to-china-researchers-say/\">sends user "
@@ -2475,7 +2495,7 @@ msgstr ""
 "com/2017/01/21/popular-selfie-app-sending-user-data-to-china-researchers-say/"
 "\">envoie des données personnelles à une entreprise chinoise</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Uber app tracks <a href=\"https://techcrunch.com/2016/11/28/uber-"
 "background-location-data-collection/\">clients' movements before and after "
@@ -2485,7 +2505,7 @@ msgstr ""
 "background-location-data-collection/\">les déplacements du client avant et "
 "après la course</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This example illustrates how &ldquo;getting the user's consent&rdquo; for "
 "surveillance is inadequate as a protection against massive surveillance."
@@ -2493,7 +2513,7 @@ msgstr ""
 "Sur cet exemple, on voit qu'« obtenir le consentement de l'utilisateur » "
 "pour la surveillance ne le protège pas de la surveillance de masse."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "A <a href=\"https://research.csiro.au/ng/wp-content/uploads/"
 "sites/106/2016/08/paper-1.pdf\"> research paper</a> that investigated the "
@@ -2510,7 +2530,7 @@ msgstr ""
 "d'utilisateurs peuvent être victimes à leur insu des garanties de sécurité "
 "fallacieuses et des pratiques abusives que ces applis leur infligent. »"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Following is a non-exhaustive list, taken from the research paper, of some "
 "proprietary VPN apps that track users and infringe their privacy:"
@@ -2519,11 +2539,11 @@ msgstr ""
 "des applis VPN privatrices qui pistent les utilisateurs et portent atteinte "
 "à leur vie privée."
 
-#. type: Content of: <div><ul><li><dl><dt>
+#. type: Content of: <div><div><ul><li><dl><dt>
 msgid "SurfEasy"
 msgstr "SurfEasy"
 
-#. type: Content of: <div><ul><li><dl><dd>
+#. type: Content of: <div><div><ul><li><dl><dd>
 msgid ""
 "Includes tracking libraries such as NativeX and Appflood, meant to track "
 "users and show them targeted ads."
@@ -2531,11 +2551,11 @@ msgstr ""
 "Comprend des bibliothèques comme NativeX et Appflood, destinées à pister "
 "l'utilisateur et à lui envoyer des pubs ciblées."
 
-#. type: Content of: <div><ul><li><dl><dt>
+#. type: Content of: <div><div><ul><li><dl><dt>
 msgid "sFly Network Booster"
 msgstr "sFly Network Booster"
 
-#. type: Content of: <div><ul><li><dl><dd>
+#. type: Content of: <div><div><ul><li><dl><dd>
 msgid ""
 "Requests the <code>READ_SMS</code> and <code>SEND_SMS</code> permissions "
 "upon installation, meaning it has full access to users' text messages."
@@ -2544,11 +2564,11 @@ msgstr ""
 "de l'installation, ce qui veut dire qu'il a un accès complet aux textos de "
 "l'utilisateur."
 
-#. type: Content of: <div><ul><li><dl><dt>
+#. type: Content of: <div><div><ul><li><dl><dt>
 msgid "DroidVPN and TigerVPN"
 msgstr "DroidVPN et TigerVPN"
 
-#. type: Content of: <div><ul><li><dl><dd>
+#. type: Content of: <div><div><ul><li><dl><dd>
 msgid ""
 "Requests the <code>READ_LOGS</code> permission to read logs for other apps "
 "and also core system logs. TigerVPN developers have confirmed this."
@@ -2557,11 +2577,11 @@ msgstr ""
 "autres applis, et aussi ceux du système. Les développeurs de TigerVPN l'ont "
 "confirmé."
 
-#. type: Content of: <div><ul><li><dl><dt>
+#. type: Content of: <div><div><ul><li><dl><dt>
 msgid "HideMyAss"
 msgstr "HideMyAss"
 
-#. type: Content of: <div><ul><li><dl><dd>
+#. type: Content of: <div><div><ul><li><dl><dd>
 msgid ""
 "Sends traffic to LinkedIn. Also, it stores detailed logs and may turn them "
 "over to the UK government if requested."
@@ -2569,11 +2589,11 @@ msgstr ""
 "Envoie du trafic à LinkedIn. De plus, cette appli conserve des journaux "
 "détaillés et peut les transmettre au gouvernement britannique sur sa demande."
 
-#. type: Content of: <div><ul><li><dl><dt>
+#. type: Content of: <div><div><ul><li><dl><dt>
 msgid "VPN Services HotspotShield"
 msgstr "Service VPN HotspotShield"
 
-#. type: Content of: <div><ul><li><dl><dd>
+#. type: Content of: <div><div><ul><li><dl><dd>
 msgid ""
 "Injects JavaScript code into the HTML pages returned to the users. The "
 "stated purpose of the JS injection is to display ads. Uses roughly five "
@@ -2585,11 +2605,11 @@ msgstr ""
 "cinq bibliothèques de pistage environ. En outre, elle redirige le trafic de "
 "l'utilisateur par valueclick.com (un site de publicité)."
 
-#. type: Content of: <div><ul><li><dl><dt>
+#. type: Content of: <div><div><ul><li><dl><dt>
 msgid "WiFi Protector VPN"
 msgstr "WiFi Protector"
 
-#. type: Content of: <div><ul><li><dl><dd>
+#. type: Content of: <div><div><ul><li><dl><dd>
 msgid ""
 "Injects JavaScript code into HTML pages, and also uses roughly five tracking "
 "libraries. Developers of this app have confirmed that the non-premium "
@@ -2601,7 +2621,7 @@ msgstr ""
 "JavaScript par la version gratuite de l'appli sert au pistage des "
 "utilisateurs et à l'affichage de pubs."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Google's new voice messaging app <a href=\"http://www.theverge."
 "com/2016/9/21/12994362/allo-privacy-message-logs-google\">logs all "
@@ -2611,7 +2631,7 @@ msgstr ""
 "theverge.com/2016/9/21/12994362/allo-privacy-message-logs-google"
 "\">enregistre toutes les conversations</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Facebook's new Magic Photo app <a href=\"https://www.theregister.co."
 "uk/2015/11/10/facebook_scans_camera_for_your_friends/\"> scans your mobile "
@@ -2624,7 +2644,7 @@ msgstr ""
 "visages</a> et suggère que vous partagiez ces photos avec les personnes qui "
 "sont dessus."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This spyware feature seems to require online access to some known-faces "
 "database, which means the pictures are likely to be sent across the wire to "
@@ -2635,7 +2655,7 @@ msgstr ""
 "probablement envoyées par le réseau aux serveurs de Facebook et à des "
 "algorithmes de reconnaissance faciale."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "If so, none of Facebook users' pictures are private anymore, even if the "
 "user didn't &ldquo;upload&rdquo; them to the service."
@@ -2643,7 +2663,7 @@ msgstr ""
 "Si c'est le cas, plus aucune des photos des utilisateurs de Facebook ne sera "
 "privée, même s'ils ne les ont pas téléversées à ce service."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Facebook's app listens all the time, <a href=\"http://www.independent.co.uk/"
 "life-style/gadgets-and-tech/news/facebook-using-people-s-phones-to-listen-in-"
@@ -2657,7 +2677,7 @@ msgstr ""
 "espionner ce que les gens écoutent ou regardent</a>. De plus, elle peut "
 "analyser leurs conversations pour leur envoyer des pubs ciblées."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "A pregnancy test controller application not only can <a href=\"http://www."
 "theverge.com/2016/4/25/11503718/first-response-pregnancy-pro-test-bluetooth-"
@@ -2670,7 +2690,7 @@ msgstr ""
 "com/2016/4/25/11503718/first-response-pregnancy-pro-test-bluetooth-app-"
 "security\">mais aussi les altérer</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apps that include <a href=\"https://web.archive.org/web/20180913014551/"
 "http://techaeris.com/2016/01/13/symphony-advanced-media-software-tracks-your-"
@@ -2685,7 +2705,7 @@ msgstr ""
 "dans leur voisinage</a>, et aussi ce que les utilisateurs envoient sur "
 "divers sites comme Facebook, Google+ et Twitter."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "&ldquo;Cryptic communication,&rdquo; unrelated to the app's functionality, "
 "was <a href=\"http://news.mit.edu/2015/data-transferred-android-apps-"
@@ -2696,7 +2716,7 @@ msgstr ""
 "transferred-android-apps-hiding-1119\">découvertes dans les 500 applis "
 "gratuites pour Android les plus populaires</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The article should not have described these apps as &ldquo;free&rdquo;&mdash;"
 "they are not free software.  The clear way to say &ldquo;zero price&rdquo; "
@@ -2706,7 +2726,7 @@ msgstr ""
 "ne sont pas des logiciels libres. Pour être clair en anglais lorsqu'on parle "
 "de « coût nul », il faut dire <cite>gratis</cite>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The article takes for granted that the usual analytics tools are legitimate, "
 "but is that valid? Software developers have no right to analyze what users "
@@ -2719,7 +2739,7 @@ msgstr ""
 "par des outils d'« analyse » est tout aussi répréhensible que par n'importe "
 "quel autre moyen."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "More than 73% and 47% of mobile applications, for Android and iOS "
 "respectively <a href=\"https://techscience.org/a/2015103001/\">share "
@@ -2731,7 +2751,7 @@ msgstr ""
 "\">partagent certaines données personnelles, comportementales ou de "
 "géolocalisation de leurs utilisateurs avec des tiers</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Like most &ldquo;music screaming&rdquo; disservices, Spotify is based on "
 "proprietary malware (DRM and snooping). In August 2015 it <a href=\"http://"
@@ -2746,7 +2766,7 @@ msgstr ""
 "utilisateurs qu'ils se soumettent à un fouinage accru</a> et certains "
 "commencent à réaliser que c'est de la malfaisance."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This article shows the <a href=\"https://www.theregister.co.uk/2015/08/21/"
 "spotify_worse_than_the_nsa/\"> twisted ways that they present snooping as a "
@@ -2760,11 +2780,11 @@ msgstr ""
 "c'est ce qu'ils veulent ou non. Voilà un exemple typique de l'attitude de "
 "l'industrie du logiciel privateur envers ceux qu'ils ont assujetti."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "Out, out, damned Spotify!"
 msgstr "Dehors, dehors, satané Spotify !"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"http://www.privmetrics.org/wp-content/uploads/2015/06/wisec2015.pdf"
 "\">A study in 2015</a> found that 90% of the top-ranked gratis proprietary "
@@ -2776,7 +2796,7 @@ msgstr ""
 "privatrices les mieux classées contenaient des bibliothèques de pistage. "
 "Pour les applis privatrices payantes, la proportion était de 60%."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The article confusingly describes gratis apps as &ldquo;free&rdquo;, but "
 "most of them are not in fact <a href=\"/philosophy/free-sw.html\">free "
@@ -2790,7 +2810,7 @@ msgstr ""
 "vilain mot « monétiser ». On peut avantageusement remplacer ce verbe par "
 "« exploiter » ; cela conviendra presque toujours parfaitement."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Gratis Android apps (but not <a href=\"/philosophy/free-sw.html\">free "
 "software</a>) connect to 100 <a href=\"http://www.theguardian.com/"
@@ -2803,7 +2823,7 @@ msgstr ""
 "connect-tracking-advertising-websites\">spécialisées dans le pistage ou la "
 "publicité</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Widely used <a href=\"https://freedom-to-tinker.com/blog/kollarssmith/scan-"
 "this-or-scan-me-user-privacy-barcode-scanning-applications/\">proprietary QR-"
@@ -2816,7 +2836,7 @@ msgstr ""
 "s'ajoute à l'espionnage effectué par l'opérateur téléphonique et peut-être "
 "par le système d'exploitation du téléphone."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Don't be distracted by the question of whether the app developers get users "
 "to say &ldquo;I agree&rdquo;. That is no excuse for malware."
@@ -2825,7 +2845,7 @@ msgstr ""
 "de l'appli demandent à l'utilisateur de dire « Je suis d'accord ». Ce n'est "
 "pas une excuse pour la malveillance du logiciel."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Many proprietary apps for mobile devices report which other apps the user "
 "has installed.  <a href=\"http://techcrunch.com/2014/11/26/twitter-app-graph/"
@@ -2838,7 +2858,7 @@ msgstr ""
 "moins, est visible et optionnelle</a>. Ce n'est pas aussi mal que ce que "
 "font les autres."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Simeji keyboard is a smartphone version of Baidu's <a href=\"/"
 "proprietary/proprietary-surveillance.html#baidu-ime\">spying <abbr title="
@@ -2848,7 +2868,7 @@ msgstr ""
 "proprietary/proprietary-surveillance.html#baidu-ime\">éditeur espion de "
 "méthodes de saisie</a> de Baidu."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The nonfree Snapchat app's principal purpose is to restrict the use of data "
 "on the user's computer, but it does surveillance too: <a href=\"http://www."
@@ -2861,7 +2881,7 @@ msgstr ""
 "dec/27/snapchat-may-be-exposed-hackers\">elle essaie de récupérer le "
 "répertoire téléphonique de l'utilisateur</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Brightest Flashlight app <a href=\"http://www.theguardian.com/"
 "technology/2013/dec/06/android-app-50m-downloads-sent-data-advertisers\"> "
@@ -2873,7 +2893,7 @@ msgstr ""
 "personnelles, y compris de géolocalisation, à l'usage de certaines "
 "entreprises</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The FTC criticized this app because it asked the user to approve sending "
 "personal data to the app developer but did not ask about sending it to other "
@@ -2889,7 +2909,7 @@ msgstr ""
 "une application lampe de poche devrait-elle envoyer de l'information à "
 "quiconque ? Une application lampe de poche libre ne le ferait pas."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "FTC says most mobile apps for children don't respect privacy: <a href="
 "\"http://arstechnica.com/information-technology/2012/12/ftc-disclosures-"
@@ -2904,11 +2924,11 @@ msgstr ""
 "ftc-disclosures-severely-lacking-in-kids-mobile-appsand-its-getting-worse/</"
 "a>)."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "Skype"
 msgstr "Skype"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInSkype"
 "\">#SpywareInSkype</a>)</span>"
@@ -2916,7 +2936,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInSkype"
 "\">#SpywareInSkype</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Skype refuses to say whether it can <a href=\"http://www.slate.com/blogs/"
 "future_tense/2012/07/20/"
@@ -2928,11 +2948,11 @@ msgstr ""
 "skype_won_t_comment_on_whether_it_can_now_eavesdrop_on_conversations_.html"
 "\">écouter les appels</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "That almost certainly means it can do so."
 msgstr "Cela signifie sûrement qu'il en a la possibilité."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Skype contains <a href=\"https://web.archive.org/web/20130928235637/http://"
 "www.forbes.com/sites/petercohan/2013/06/20/project-chess-how-u-s-snoops-on-"
@@ -2946,11 +2966,11 @@ msgstr ""
 "\"http://www.guardian.co.uk/world/2013/jul/11/microsoft-nsa-collaboration-"
 "user-data\">dans un but précis d'espionnage</a>."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "Games"
 msgstr "Jeux"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInGames"
 "\">#SpywareInGames</a>)</span>"
@@ -2958,7 +2978,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInGames"
 "\">#SpywareInGames</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Microsoft recorded users of Xboxes and had <a href=\"https://www.vice.com/"
 "en_us/article/43kv4q/microsoft-human-contractors-listened-to-xbox-owners-"
@@ -2969,7 +2989,7 @@ msgstr ""
 "listened-to-xbox-owners-homes-kinect-cortana\">des employés humains "
 "d'écouter les enregistrements</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Morally, we see no difference between having human workers listen and having "
 "speech-recognition systems listen.  Both intrude on privacy."
@@ -2978,7 +2998,7 @@ msgstr ""
 "des employés humains et l'écoute par des systèmes de reconnaissance vocale. "
 "Toutes deux portent atteinte à la vie privée."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Red Shell is a spyware that is found in many proprietary games. It <a href="
 "\"https://nebulous.cloud/threads/red-shell-illegal-spyware-for-steam-"
@@ -2990,7 +3010,7 @@ msgstr ""
 "games.31924/\">récupère des données sur l'ordinateur de l'utilisateur et les "
 "envoie à des tiers</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "ArenaNet surreptitiously installed a spyware program along with an update to "
 "the massive multiplayer game Guild Wars 2.  The spyware allowed ArenaNet <a "
@@ -3004,7 +3024,7 @@ msgstr ""
 "spyware-anti-cheat-for-guild-wars-2-banwave\">de fouiner dans tous les "
 "processus ouverts sur l'ordinateur de l'utilisateur</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The driver for a certain gaming keyboard <a href=\"https://thehackernews."
 "com/2017/11/mantistek-keyboard-keylogger.html\">sends information to China</"
@@ -3014,7 +3034,7 @@ msgstr ""
 "com/2017/11/mantistek-keyboard-keylogger.html\">envoie de l'information en "
 "Chine</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Many <a href=\"http://www.thestar.com/news/canada/2015/12/29/how-much-data-"
 "are-video-games-collecting-about-you.html/\"> video game consoles snoop on "
@@ -3025,7 +3045,7 @@ msgstr ""
 "espionnent leurs utilisateurs et envoient sur Internet</a>&hellip; jusqu'à "
 "leur poids."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "A game console is a computer, and you can't trust a computer with a nonfree "
 "operating system."
@@ -3033,7 +3053,7 @@ msgstr ""
 "Une console de jeu est un ordinateur. Vous ne pouvez pas faire confiance à "
 "un ordinateur équipé d'un système d'exploitation non libre."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Modern gratis game cr&hellip;apps <a href=\"http://toucharcade."
 "com/2015/09/16/we-own-you-confessions-of-a-free-to-play-producer/\"> collect "
@@ -3045,7 +3065,7 @@ msgstr ""
 "\">rassemblent un large éventail de données sur leurs utilisateurs, ainsi "
 "que sur leurs amis et leurs associés</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Even nastier, they do it through ad networks that merge the data collected "
 "by various cr&hellip;apps and sites made by different companies."
@@ -3054,7 +3074,7 @@ msgstr ""
 "données récupérées par une variété d'applis et de sites faits par "
 "différentes sociétés."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "They use this data to manipulate people to buy things, and hunt for &ldquo;"
 "whales&rdquo; who can be led to spend a lot of money. They also use a back "
@@ -3065,7 +3085,7 @@ msgstr ""
 "Elles se servent également d'une porte dérobée pour manipuler le jeu de "
 "certains joueurs."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "While the article describes gratis games, games that cost money can use the "
 "same tactics."
@@ -3073,7 +3093,7 @@ msgstr ""
 "L'article décrit des jeux gratuits, mais les jeux payants peuvent utiliser "
 "le même tactique."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Angry Birds <a href=\"http://www.nytimes.com/2014/01/28/world/spy-agencies-"
 "scour-phone-apps-for-personal-data.html\"> spies for companies, and the NSA "
@@ -3087,7 +3107,7 @@ msgstr ""
 "<a href=\"http://confabulator.blogspot.com/2012/11/analysis-of-what-"
 "information-angry.html\">d'autres applis espionnes</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"http://www.propublica.org/article/spy-agencies-probe-angry-birds-"
 "and-other-apps-for-personal-data\"> More about NSA app spying</a>."
@@ -3096,7 +3116,7 @@ msgstr ""
 "and-other-apps-for-personal-data\">Apprenez-en plus sur l'espionnage "
 "pratiqué par la NSA au moyen des applis</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Blizzard Warden is a hidden &ldquo;cheating-prevention&rdquo; program that "
 "<a href=\"https://www.eff.org/deeplinks/2005/10/new-gaming-feature-spyware"
@@ -3111,11 +3131,11 @@ msgstr ""
 "grand nombre correspondent à des activités n'ayant rien à voir avec la "
 "triche."
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><div><div><h3>
 msgid "Spyware in Connected Equipment"
 msgstr "Espions dans les équipements connectés"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInEquipment"
 "\">#SpywareInEquipment</a>)</span>"
@@ -3123,7 +3143,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInEquipment"
 "\">#SpywareInEquipment</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The bad security in many Internet of Stings devices allows <a href=\"https://"
 "www.techdirt.com/articles/20170828/08152938092/iot-devices-provide-comcast-"
@@ -3135,11 +3155,11 @@ msgstr ""
 "iot-devices-provide-comcast-wonderful-new-opportunity-to-spy-you.shtml"
 "\">fournisseurs de services d'espionner les gens qui les utilisent</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "Don't be a sucker&mdash;reject all the stings."
 msgstr "Ne vous laissez pas avoir, rejetez tous ces objets dangereux."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<small>(It is unfortunate that the article uses the term <a href=\"/"
 "philosophy/words-to-avoid.html#Monetize\">&ldquo;monetize&rdquo;</a>.)</"
@@ -3148,11 +3168,11 @@ msgstr ""
 "<small>(C'est dommage que l'article utilise le terme « <a href=\"/philosophy/"
 "words-to-avoid.html#Monetize\">monétiser</a> ».)</small>"
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "TV Sets"
 msgstr "Téléviseurs"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInTVSets"
 "\">#SpywareInTVSets</a>)</span>"
@@ -3160,7 +3180,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInTVSets"
 "\">#SpywareInTVSets</a>)</span>"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Emo Phillips made a joke: The other day a woman came up to me and said, "
 "&ldquo;Didn't I see you on television?&rdquo; I said, &ldquo;I don't know. "
@@ -3173,7 +3193,7 @@ msgstr ""
 "l'autre sens.” » À l'évidence, c'était avant qu'Amazon ne sorte ses "
 "téléviseurs « intelligents » ou « connectés »."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Vizio TVs <a href=\"https://www.theverge.com/2019/1/7/18172397/airplay-2-"
 "homekit-vizio-tv-bill-baxter-interview-vergecast-ces-2019\"> collect &ldquo;"
@@ -3189,7 +3209,7 @@ msgstr ""
 "sont vendues à des tiers. La contrepartie est un « meilleur service » (c'est-"
 "à-dire plus de pubs intrusives ?) et un prix de vente légèrement plus bas."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "What is supposed to make this spying acceptable, according to him, is that "
 "it is opt-in in newer models. But since the Vizio software is nonfree, we "
@@ -3202,7 +3222,7 @@ msgstr ""
 "vraiment en coulisses et il n'y a aucune garantie que les mises à jour à "
 "venir ne changeront jamais la configuration."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "If you already own a Vizio smart TV (or any smart TV, for that matter), the "
 "easiest way to make sure it isn't spying on you is to disconnect it from the "
@@ -3221,7 +3241,7 @@ msgstr ""
 "aux serveurs de Vizio. Et en dernier ressort, vous pouvez toujours remplacer "
 "votre téléviseur par un autre modèle. "
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Some &ldquo;Smart&rdquo; TVs automatically <a href=\"https://web.archive.org/"
 "web/20180405014828/https:/twitter.com/buro9/status/980349887006076928\"> "
@@ -3232,7 +3252,7 @@ msgstr ""
 "status/980349887006076928\">mises à jour régressives qui installent une "
 "appli de surveillance</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "We link to the article for the facts it presents. It is too bad that the "
 "article finishes by advocating the moral weakness of surrendering to "
@@ -3244,7 +3264,7 @@ msgstr ""
 "L'appli de Netflix <a href=\"/proprietary/malware-google.html#netflix-app-"
 "geolocation-drm\">est malveillante également</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Vizio &ldquo;smart&rdquo; <a href=\"https://www.ftc.gov/news-events/blogs/"
 "business-blog/2017/02/what-vizio-was-doing-behind-tv-screen\">TVs report "
@@ -3261,7 +3281,7 @@ msgstr ""
 "fait qu'il existe un moyen de désactiver cette surveillance, même s'il n'est "
 "plus caché comme il a pu l'être auparavant, ne la justifie pas."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Some web and TV advertisements play inaudible sounds to be picked up by "
 "proprietary malware running on other devices in range so as to determine "
@@ -3279,7 +3299,7 @@ msgstr ""
 "inaudible-sound-to-link-your-phone-tv-tablet-and-pc/\">données de pistage "
 "provenant des divers appareils</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Vizio goes a step further than other TV manufacturers in spying on their "
 "users: their <a href=\"http://www.propublica.org/article/own-a-vizio-smart-"
@@ -3294,7 +3314,7 @@ msgstr ""
 "IP</a>, de manière que les annonceurs puissent vous suivre à la trace sur "
 "vos autres appareils."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "It is possible to turn this off, but having it enabled by default is an "
 "injustice already."
@@ -3302,7 +3322,7 @@ msgstr ""
 "Il est possible d'inactiver cette fonction, mais son activation par défaut "
 "est en soi une injustice."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Tivo's alliance with Viacom adds 2.3 million households to the 600 millions "
 "social media profiles the company already monitors. Tivo customers are "
@@ -3321,7 +3341,7 @@ msgstr ""
 "publicité à la télévision avec les achats en ligne</a>, ce qui expose par "
 "défaut tous les utilisateurs à une nouvelle combinaison de flicages."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Vizio &ldquo;smart&rdquo; TVs recognize and <a href=\"http://www.engadget."
 "com/2015/07/24/vizio-ipo-inscape-acr/\">track what people are watching</a>, "
@@ -3331,7 +3351,7 @@ msgstr ""
 "engadget.com/2015/07/24/vizio-ipo-inscape-acr/\">rapportent à la plateforme "
 "ce que les gens regardent</a>, même si ce n'est pas une chaîne de télévision."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Verizon cable TV <a href=\"http://arstechnica.com/business/2015/05/verizon-"
 "fios-reps-know-what-tv-channels-you-watch/\"> snoops on what programs people "
@@ -3342,7 +3362,7 @@ msgstr ""
 "\">rapporte quels programmes les gens regardent et même lesquels ils veulent "
 "enregistrer</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Vizio <a href=\"http://boingboing.net/2015/04/30/telescreen-watch-vizio-adds-"
 "s.html\"> used a firmware &ldquo;upgrade&rdquo; to make its TVs snoop on "
@@ -3354,7 +3374,7 @@ msgstr ""
 "les utilisateurs</a>. Les téléviseurs ne le faisaient pas quand ils ont été "
 "mis sur le marché."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Samsung &ldquo;Smart&rdquo; TV <a href=\"http://www.consumerreports.org/"
 "cro/news/2015/02/who-s-the-third-party-that-samsung-and-lg-smart-tvs-are-"
@@ -3369,7 +3389,7 @@ msgstr ""
 "pourrait donc être obligée de la communiquer au gouvernement des États-Unis "
 "ou d'un autre pays."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Speech recognition is not to be trusted unless it is done by free software "
 "in your own computer."
@@ -3377,7 +3397,7 @@ msgstr ""
 "Vous ne devez pas faire confiance à la reconnaissance vocale, sauf si elle "
 "est effectuée par un logiciel libre sur votre propre ordinateur."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "In its privacy policy, Samsung explicitly confirms that <a href=\"http://"
 "theweek.com/speedreads/538379/samsung-warns-customers-not-discuss-personal-"
@@ -3389,7 +3409,7 @@ msgstr ""
 "discuss-personal-information-front-smart-tvs\">des données vocales contenant "
 "de l'information à caractère personnel seront transmises à des tiers</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Amazon &ldquo;Smart&rdquo; TV is <a href=\"http://www.theguardian.com/"
 "technology/shortcuts/2014/nov/09/amazon-echo-smart-tv-watching-listening-"
@@ -3399,7 +3419,7 @@ msgstr ""
 "technology/shortcuts/2014/nov/09/amazon-echo-smart-tv-watching-listening-"
 "surveillance\">espionne en permanence</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "More or less all &ldquo;smart&rdquo; TVs <a href=\"http://www.myce.com/news/"
 "reseachers-all-smart-tvs-spy-on-you-sony-monitors-all-channel-switches-72851/"
@@ -3409,13 +3429,13 @@ msgstr ""
 "news/reseachers-all-smart-tvs-spy-on-you-sony-monitors-all-channel-"
 "switches-72851/\">espionnent leurs utilisateurs</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "The report was as of 2014, but we don't expect this has got better."
 msgstr ""
 "Le rapport est daté de 2014, mais nous serions surpris si la situation "
 "s'était améliorée depuis."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This shows that laws requiring products to get users' formal consent before "
 "collecting personal data are totally inadequate.  And what happens if a user "
@@ -3429,7 +3449,7 @@ msgstr ""
 "dire : « Si vous ne consentez pas au pistage, la télévision ne fonctionnera "
 "pas. »"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Proper laws would say that TVs are not allowed to report what the user "
 "watches&mdash;no exceptions!"
@@ -3437,7 +3457,7 @@ msgstr ""
 "Des lois acceptables diraient que les téléviseurs ne sont pas autorisés à "
 "rapporter ce que regarde l'utilisateur. Pas d'exception !"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Spyware in LG &ldquo;smart&rdquo; TVs <a href=\"http://doctorbeet.blogspot."
 "co.uk/2013/11/lg-smart-tvs-logging-usb-filenames-and.html\"> reports what "
@@ -3452,7 +3472,7 @@ msgstr ""
 "données retourne une erreur 404 ne veut strictement rien dire ; le serveur "
 "pourrait sauvegarder ces données de toute façon)."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Even worse, it <a href=\"http://rambles.renney.me/2013/11/lg-tv-logging-"
 "filenames-from-network-folders/\"> snoops on other devices on the user's "
@@ -3462,7 +3482,7 @@ msgstr ""
 "from-network-folders/\">espionne les autres services du réseau local de "
 "l'utilisateur</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "LG later said it had installed a patch to stop this, but any product could "
 "spy this way."
@@ -3470,7 +3490,7 @@ msgstr ""
 "LG a dit plus tard qu'un correctif avait été installé, mais n'importe quel "
 "appareil pourrait espionner de cette façon."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Meanwhile, LG TVs <a href=\"http://www.techdirt.com/"
 "articles/20140511/17430627199/lg-will-take-smart-out-your-smart-tv-if-you-"
@@ -3482,7 +3502,7 @@ msgstr ""
 "dont-agree-to-share-your-viewing-search-data-with-third-parties.shtml\">font "
 "de toute façon beaucoup d'espionnage</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"http://www.dailymail.co.uk/sciencetech/article-2249303/Hackers-"
 "penetrate-home-Crack-Samsungs-Smart-TV-allows-attacker-seize-control-"
@@ -3496,11 +3516,11 @@ msgstr ""
 "sécurité d'un téléviseur « intelligent »</a> et d'utiliser sa caméra pour "
 "regarder les gens qui sont en train de regarder la télévision."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "Cameras"
 msgstr "Caméras et appareils photo"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInCameras"
 "\">#SpywareInCameras</a>)</span>"
@@ -3508,7 +3528,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInCameras"
 "\">#SpywareInCameras</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Amazon Ring &ldquo;security&rdquo; devices <a href=\"https://www.engadget."
 "com/2019/01/10/ring-gave-employees-access-customer-video-feeds/\"> send the "
@@ -3519,7 +3539,7 @@ msgstr ""
 "leurs enregistrements vidéo aux serveurs d'Amazon</a>, qui les sauvegardent "
 "sur le long terme."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "In many cases, the video shows everyone that comes near, or merely passes "
 "by, the user's front door."
@@ -3527,7 +3547,7 @@ msgstr ""
 "Très souvent, la vidéo montre tous les gens qui s'approchent de la porte "
 "d'entrée, ou même de simples passants."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The article focuses on how Ring used to let individual employees look at the "
 "videos freely.  It appears Amazon has tried to prevent that secondary abuse, "
@@ -3539,7 +3559,7 @@ msgstr ""
 "d'empêcher cet abus secondaire. Quant à l'abus primaire (le fait qu'elle "
 "obtienne les vidéos), Amazon compte bien que la société s'y soumettra."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Nearly all &ldquo;home security cameras&rdquo; <a href=\"https://www."
 "consumerreports.org/privacy/d-link-camera-poses-data-security-risk--consumer-"
@@ -3552,7 +3572,7 @@ msgstr ""
 "tout ce qu'elles voient</a>. Il vaudrait mieux les appeler « caméras "
 "d'insécurité pour la maison » !"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "When Consumer Reports tested them, it suggested that these manufacturers "
 "promise not to look at what's in the videos. That's not security for your "
@@ -3563,7 +3583,7 @@ msgstr ""
 "n'est pas ça, la sécurité de votre maison. La sécurité, c'est de s'assurer "
 "qu'ils n'auront pas la possibilité de regarder à travers votre caméra."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Over 70 brands of network-connected surveillance cameras have <a href="
 "\"http://www.kerneronsec.com/2016/02/remote-code-execution-in-cctv-dvrs-of."
@@ -3574,7 +3594,7 @@ msgstr ""
 "html\">ont des failles de sécurité qui permettent à n'importe qui de s'en "
 "servir pour regarder</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Nest Cam &ldquo;smart&rdquo; camera is <a href=\"http://www.bbc.com/news/"
 "technology-34922712\">always watching</a>, even when the &ldquo;owner&rdquo; "
@@ -3584,7 +3604,7 @@ msgstr ""
 "technology-34922712\">regarde en permanence</a>, même quand son "
 "« propriétaire » la met sur « arrêt »."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "A &ldquo;smart&rdquo; device means the manufacturer is using it to outsmart "
 "you."
@@ -3592,11 +3612,11 @@ msgstr ""
 "Un appareil « intelligent » est un appareil dont le fabricant se sert pour "
 "jouer au plus malin avec vous."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "Toys"
 msgstr "Jouets"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInToys"
 "\">#SpywareInToys</a>)</span>"
@@ -3604,7 +3624,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInToys"
 "\">#SpywareInToys</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Furby Connect has a <a href=\"https://www.contextis.com/blog/dont-feed-"
 "them-after-midnight-reverse-engineering-the-furby-connect\"> universal back "
@@ -3617,7 +3637,7 @@ msgstr ""
 "n'est pas utilisable comme appareil d'écoute, il pourrait sûrement le "
 "devenir après une modification à distance du code."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "A remote-control sex toy was found to make <a href=\"https://www.theverge."
 "com/2017/11/10/16634442/lovense-sex-toy-spy-survei\">audio recordings of the "
@@ -3627,7 +3647,7 @@ msgstr ""
 "theverge.com/2017/11/10/16634442/lovense-sex-toy-spy-survei\">enregistrer la "
 "conversation entre les deux utilisateurs</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "A computerized vibrator <a href=\"https://www.theguardian.com/"
 "technology/2016/aug/10/vibrator-phone-app-we-vibe-4-plus-bluetooth-hack\"> "
@@ -3638,7 +3658,7 @@ msgstr ""
 "\">espionnait ses utilisateurs au moyen de l'appli privatrice de contrôle</"
 "a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The app was reporting the temperature of the vibrator minute by minute "
 "(thus, indirectly, whether it was surrounded by a person's body), as well as "
@@ -3648,7 +3668,7 @@ msgstr ""
 "indirectement, s'il était au contact d'un corps humain), ainsi que la "
 "fréquence de vibration."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Note the totally inadequate proposed response: a labeling standard with "
 "which manufacturers would make statements about their products, rather than "
@@ -3658,7 +3678,7 @@ msgstr ""
 "duquel les fabricants feraient des déclarations sur leurs produits, plutôt "
 "que du logiciel libre vérifiable et modifiable par les utilisateurs."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The company that made the vibrator <a href=\"https://www.theguardian.com/us-"
 "news/2016/sep/14/wevibe-sex-toy-data-collection-chicago-lawsuit\"> was sued "
@@ -3669,7 +3689,7 @@ msgstr ""
 "justice pour avoir collecté des masses de données personnelles sur la "
 "manière dont les gens l'utilisaient</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The company's statement that it was anonymizing the data may be true, but it "
 "doesn't really matter. If it had sold the data to a data broker, the data "
@@ -3680,7 +3700,7 @@ msgstr ""
 "avait vendu les données à un courtier en données, le courtier aurait pu "
 "découvrir qui était l'utilisateur."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Following this lawsuit, <a href=\"https://www.theguardian.com/"
 "technology/2017/mar/14/we-vibe-vibrator-tracking-users-sexual-habits\"> the "
@@ -3691,7 +3711,7 @@ msgstr ""
 "société a été condamnée à verser 4 millions de dollars canadiens à ses "
 "clients</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "&ldquo;CloudPets&rdquo; toys with microphones <a href=\"https://www."
 "theguardian.com/technology/2017/feb/28/cloudpets-data-breach-leaks-details-"
@@ -3709,7 +3729,7 @@ msgstr ""
 "kids-message-recordings\">Des pirates informatiques ont trouvé moyen "
 "d'accéder</a> au produit de cet espionnage."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "That the manufacturer and the FBI could listen to these conversations was "
 "unacceptable by itself."
@@ -3717,7 +3737,7 @@ msgstr ""
 "Le fait que le fabricant et le FBI puissent écouter ces conversations est de "
 "toute façon inacceptable."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The &ldquo;smart&rdquo; toys My Friend Cayla and i-Que transmit <a href="
 "\"https://www.forbrukerradet.no/siste-nytt/connected-toys-violate-consumer-"
@@ -3730,7 +3750,7 @@ msgstr ""
 "Nuance Communication</a>, une entreprise de reconnaissance vocale basée aux "
 "États-Unis.a>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Those toys also contain major security vulnerabilities; crackers can "
 "remotely control the toys with a mobile phone. This would enable crackers to "
@@ -3740,7 +3760,7 @@ msgstr ""
 "pourraient les contrôler avec un mobile et ainsi écouter ce que dit "
 "l'enfant, voire lui parler à travers ses jouets."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Barbie <a href=\"http://www.mirror.co.uk/news/technology-science/technology/"
 "wi-fi-spy-barbie-records-childrens-5177673\">is going to spy on children and "
@@ -3750,11 +3770,11 @@ msgstr ""
 "wi-fi-spy-barbie-records-childrens-5177673\">va fliquer les enfants et les "
 "adultes</a>."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "Drones"
 msgstr "Drones"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInDrones"
 "\">#SpywareInDrones</a>)</span>"
@@ -3762,7 +3782,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInDrones"
 "\">#SpywareInDrones</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "While you're using a DJI drone to snoop on other people, DJI is in many "
 "cases <a href=\"https://www.theverge.com/2017/8/4/16095244/us-army-stop-"
@@ -3773,11 +3793,11 @@ msgstr ""
 "com/2017/8/4/16095244/us-army-stop-using-dji-drones-cybersecurity\">en train "
 "de vous espionner</a>."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "Other Appliances"
 msgstr "Autres équipements"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareAtHome"
 "\">#SpywareAtHome</a>)</span>"
@@ -3785,7 +3805,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareAtHome"
 "\">#SpywareAtHome</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Internet-tethered Amazon Ring had a security vulnerability that enabled "
 "attackers to <a href=\"https://www.commondreams.org/newswire/2019/11/07/"
@@ -3799,7 +3819,7 @@ msgstr ""
 "and-password\">accéder au mot de passe wifi de l'utilisateur</a> et "
 "d'espionner la maisonnée au travers d'appareils de surveillance connectés."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Knowledge of the wifi password would not be sufficient to carry out any "
 "significant surveillance if the devices implemented proper security, "
@@ -3812,7 +3832,7 @@ msgstr ""
 "fonctionnant avec du logiciel privateur en sont dépourvus. Bien entendu, ils "
 "sont aussi utilisés par leur fabricants pour faire des indiscrétions."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Google &ldquo;Assistant&rdquo; records users' conversations <a href="
 "\"https://arstechnica.com/information-technology/2019/07/google-defends-"
@@ -3828,7 +3848,7 @@ msgstr ""
 "Google a dévoilé un millier d'enregistrements confidentiels, les "
 "utilisateurs ont été facilement identifiés par ces enregistrements."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Since Google &ldquo;Assistant&rdquo; uses proprietary software, there is no "
 "way to see or control what it records or sends."
@@ -3836,7 +3856,7 @@ msgstr ""
 "Puisque l'assistant de Google utilise du logiciel privateur, il n'y a pas "
 "moyen de voir ni de contrôler ce qu'il enregistre ou envoie."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Rather than trying to better control the use of recordings, Google should "
 "not record or listen to the person's voice.  It should only get commands "
@@ -3847,7 +3867,7 @@ msgstr ""
 "personnes. Il devrait seulement recevoir les commandes que l'utilisateur "
 "veut envoyer à l'un de ses services."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Amazon Alexa collects a lot more information from users than is necessary "
 "for correct functioning (time, location, recordings made without a "
@@ -3871,7 +3891,7 @@ msgstr ""
 "peuvent les récupérer. En d'autres termes, la suppression de l'information "
 "récoltée n'annule pas le mal causé par sa collecte."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Data collected by devices such as the Nest thermostat, the Philips Hue-"
 "connected lights, the Chamberlain MyQ garage opener and the Sonos speakers "
@@ -3887,7 +3907,7 @@ msgstr ""
 "une idée très précise de la vie des habitants de la maison, non seulement au "
 "moment présent, mais aussi dans le passé (et, qui sait, dans le futur ?)"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Some of users' commands to the Alexa service are <a href=\"https://www.smh."
 "com.au/technology/alexa-is-someone-else-listening-to-us-sometimes-someone-"
@@ -3900,7 +3920,7 @@ msgstr ""
 "employés d'Amazon puissent les écouter</a>. Les assistants vocaux de Google "
 "et Apple font à peu près la même chose."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "A fraction of the Alexa service staff even has access to <a href=\"https://"
 "www.bnnbloomberg.ca/amazon-s-alexa-reviewers-can-access-customers-home-"
@@ -3910,7 +3930,7 @@ msgstr ""
 "bnnbloomberg.ca/amazon-s-alexa-reviewers-can-access-customers-home-"
 "addresses-1.1248788\">géolocalisation et autres données personnelles</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Since the client program is nonfree, and data processing is done &ldquo;<a "
 "href=\"/philosophy/words-to-avoid.html#CloudComputing\">in the cloud</"
@@ -3929,7 +3949,7 @@ msgstr ""
 "eavesdroppers-1.1243033\">rompt l'accord de confidentialité</a> qu'il a "
 "signé."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The HP <a href=\"https://boingboing.net/2019/02/08/inkjet-dystopias.html\"> "
 "&ldquo;ink subscription&rdquo; cartridges have DRM that constantly "
@@ -3941,7 +3961,7 @@ msgstr ""
 "permanence avec les serveurs de HP</a> pour s'assurer que l'utilisateur "
 "continue à payer son abonnement et n'a pas imprimé plus de pages que prévu."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Even though the ink subscription program may be cheaper in some specific "
 "cases, it spies on users, and involves totally unacceptable restrictions in "
@@ -3952,7 +3972,7 @@ msgstr ""
 "que des restrictions inacceptables dans l'utilisation de cartouches d'encre "
 "par ailleurs en état de marche."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Crackers found a way to break the security of an Amazon device, and <a href="
 "\"https://boingboing.net/2018/08/12/alexa-bob-carol.html\"> turn it into a "
@@ -3962,7 +3982,7 @@ msgstr ""
 "appareil d'Amazon et de <a href=\"https://boingboing.net/2018/08/12/alexa-"
 "bob-carol.html\">le transformer en appareil d'écoute</a> à leur profit."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "It was very difficult for them to do this. The job would be much easier for "
 "Amazon. And if some government such as China or the US told Amazon to do "
@@ -3974,7 +3994,7 @@ msgstr ""
 "disait à Amazon de le faire sous peine de cesser de vendre le produit dans "
 "leur pays, pensez-vous qu'Amazon aurait la force morale de refuser ?"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<small>(These crackers are probably hackers too, but please <a href="
 "\"https://stallman.org/articles/on-hacking.html\"> don't use &ldquo;"
@@ -3985,7 +4005,7 @@ msgstr ""
 "pas le terme « hacker » dans le sens de « briseurs de sécurité »</a>.)</"
 "small>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "A medical insurance company <a href=\"https://wolfstreet.com/2018/04/14/our-"
 "dental-insurance-sent-us-free-internet-connected-toothbrushes-and-this-is-"
@@ -3998,7 +4018,7 @@ msgstr ""
 "espionne ses utilisateurs en renvoyant des données sur son usage par "
 "Internet</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Lots of &ldquo;smart&rdquo; products are designed <a href=\"http://enews."
 "cnet.com/ct/42931641:shoPz52LN:m:1:1509237774:"
@@ -4010,7 +4030,7 @@ msgstr ""
 "B54C9619E39F7247C0D58117DD1C7E96:r:27417204357610908031812337994022\">pour "
 "écouter chacun en permanence</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Today's technological practice does not include any way of making a device "
 "that can obey your voice commands without potentially spying on you.  Even "
@@ -4023,7 +4043,7 @@ msgstr ""
 "physiquement des réseaux, l'appareil peut sauvegarder des renseignements sur "
 "vous pour les examiner plus tard."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Nest thermometers send <a href=\"http://bgr.com/2014/07/17/google-nest-"
 "jailbreak-hack\">a lot of data about the user</a>."
@@ -4032,7 +4052,7 @@ msgstr ""
 "com/2014/07/17/google-nest-jailbreak-hack\">beaucoup de données concernant "
 "l'utilisateur</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"https://web.archive.org/web/20180911191954/http://consumerman.com/"
 "Rent-to-own%20giant%20accused%20of%20spying%20on%20its%20customers.htm\"> "
@@ -4043,11 +4063,11 @@ msgstr ""
 "ordinateurs en location-vente étaient programmés pour espionner leurs "
 "utilisateurs</a>."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "Wearables"
 msgstr "Vêtements"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareOnWearables"
 "\">#SpywareOnWearables</a>)</span>"
@@ -4055,7 +4075,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareOnWearables"
 "\">#SpywareOnWearables</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Tommy Hilfiger clothing <a href=\"https://www.theguardian.com/fashion/2018/"
 "jul/26/tommy-hilfiger-new-clothing-line-monitor-customers\">will monitor how "
@@ -4065,7 +4085,7 @@ msgstr ""
 "fashion/2018/jul/26/tommy-hilfiger-new-clothing-line-monitor-customers"
 "\">vont surveiller combien de fois ils sont portés</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This will teach the sheeple to find it normal that companies monitor every "
 "aspect of what they do."
@@ -4073,11 +4093,11 @@ msgstr ""
 "Cela va apprendre aux gens à trouver normal que les entreprises surveillent "
 "chacune de leurs actions."
 
-#. type: Content of: <div><h5>
+#. type: Content of: <div><div><h5>
 msgid "&ldquo;Smart&rdquo; Watches"
 msgstr "Montres « intelligentes »"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "A very cheap &ldquo;smart watch&rdquo; comes with an Android app <a href="
 "\"https://www.theregister.co.uk/2016/03/02/"
@@ -4089,7 +4109,7 @@ msgstr ""
 "chinese_backdoor_found_in_ebays_popular_cheap_smart_watch/\">qui se connecte "
 "à un site non identifié localisé en Chine</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The article says this is a back door, but that could be a misunderstanding.  "
 "However, it is certainly surveillance, at least."
@@ -4098,7 +4118,7 @@ msgstr ""
 "malentendu. Quoi qu'il en soit, c'est certainement de la surveillance, ou "
 "pire."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "An LG &ldquo;smart&rdquo; watch is designed <a href=\"http://www."
 "huffingtonpost.co.uk/2014/07/09/lg-kizon-smart-watch_n_5570234.html\"> to "
@@ -4109,11 +4129,11 @@ msgstr ""
 "communiquer sa localisation à quelqu'un d'autre et aussi pour transmettre "
 "les conversations</a>."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "Vehicles"
 msgstr "Véhicules"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInVehicles"
 "\">#SpywareInVehicles</a>)</span>"
@@ -4121,7 +4141,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInVehicles"
 "\">#SpywareInVehicles</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Most modern cars now <a href=\"https://boingboing.net/2019/12/17/cars-now-"
 "run-on-the-new-oil.html\"> record and send various kinds of data to the "
@@ -4136,7 +4156,7 @@ msgstr ""
 "s'introduire dans l'ordinateur de la voiture, qui est toujours caché et "
 "fonctionne avec un logiciel privateur."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Tesla cars collect lots of personal data, and <a href=\"https://www.cnbc."
 "com/2019/03/29/tesla-model-3-keeps-data-like-crash-videos-location-phone-"
@@ -4148,7 +4168,7 @@ msgstr ""
 "location-phone-contacts.html\">les emmènent avec elles quand elles vont à la "
 "casse</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The FordPass Connect feature of some Ford vehicles has <a href=\"https://www."
 "myfordpass.com/content/ford_com/fp_app/en_us/termsprivacy.html\"> near-"
@@ -4165,7 +4185,7 @@ msgstr ""
 "lorsqu'on retire la clé de contact, et des utilisateurs nous ont signalé "
 "qu'ils ne peuvent pas le désactiver."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "If you own one of these cars, have you succeeded in breaking the "
 "connectivity by disconnecting the cellular modem, or wrapping the antenna in "
@@ -4175,7 +4195,7 @@ msgstr ""
 "connexion en débranchant le modem, ou bien en enveloppant l'antenne dans du "
 "papier d'aluminium?"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "In China, it is mandatory for electric cars to be equipped with a terminal "
 "that <a href=\"https://www.apnews.com/4a749a4211904784826b45e812cff4ca\"> "
@@ -4193,7 +4213,7 @@ msgstr ""
 "dans le cadre de leur propre espionnage, puis les transmettent à la "
 "plateforme du gouvernement."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "GM <a href=\"https://boingboing.net/2018/10/23/dont-touch-that-dial.html\"> "
 "tracked the choices of radio programs</a> in its &ldquo;connected&rdquo; "
@@ -4203,7 +4223,7 @@ msgstr ""
 "dial.html\">gardait la trace des programmes radio choisis</a> dans ses "
 "voitures « connectées », minute par minute."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "GM did not get users' consent, but it could have got that easily by sneaking "
 "it into the contract that users sign for some digital service or other. A "
@@ -4214,7 +4234,7 @@ msgstr ""
 "quelconque. Une exigence de consentement revient en fait à une absence de "
 "protection."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The cars can also collect lots of other data: listening to you, watching "
 "you, following your movements, tracking passengers' cell phones. <em>All</"
@@ -4225,7 +4245,7 @@ msgstr ""
 "trace les téléphones mobiles des passagers. <em>Tout</em> recueil de données "
 "de ce type doit être interdit."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "But if you really want to be safe, we must make sure the car's hardware "
 "cannot collect any of that data, or that the software is free so we know it "
@@ -4235,7 +4255,7 @@ msgstr ""
 "de la voiture ne peut collecter aucune de ces données, ou bien que le "
 "logiciel est libre, ce qui permet de savoir si c'est bien le cas."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "AI-powered driving apps can <a href=\"https://motherboard.vice.com/en_us/"
 "article/43nz9p/ai-powered-driving-apps-can-track-your-every-move\"> track "
@@ -4246,7 +4266,7 @@ msgstr ""
 "powered-driving-apps-can-track-your-every-move\">suivre tous vos mouvements</"
 "a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Computerized cars with nonfree software are <a href=\"http://www."
 "thelowdownblog.com/2016/07/your-cars-been-studying-you-closely-and.html\"> "
@@ -4256,7 +4276,7 @@ msgstr ""
 "\"http://www.thelowdownblog.com/2016/07/your-cars-been-studying-you-closely-"
 "and.html\">des instruments d'espionnage</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Nissan Leaf has a built-in cell phone modem which allows effectively "
 "anyone to <a href=\"https://www.troyhunt.com/controlling-vehicle-features-of-"
@@ -4268,7 +4288,7 @@ msgstr ""
 "features-of-nissan/\">d'accéder à distance à ses ordinateurs et de changer "
 "différents réglages</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "That's easy to do because the system has no authentication when accessed "
 "through the modem.  However, even if it asked for authentication, you "
@@ -4283,7 +4303,7 @@ msgstr ""
 "important.html\">ce qui signifie qu'il exige de ses utilisateurs une "
 "confiance aveugle</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Even if no one connects to the car remotely, the cell phone modem enables "
 "the phone company to track the car's movements all the time; it is possible "
@@ -4294,7 +4314,7 @@ msgstr ""
 "déplacements de la voiture ; il est toutefois possible de l'enlever "
 "physiquement."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Tesla cars allow the company to extract data remotely and determine the "
 "car's location at any time. (See Section 2, paragraphs b and c of the <a "
@@ -4311,7 +4331,7 @@ msgstr ""
 "information, mais déclare que si l'État lui donne l'ordre de récupérer ces "
 "données et de les lui transmettre, l'État peut les conserver."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Proprietary software in cars <a href=\"http://www.usatoday.com/story/money/"
 "cars/2013/03/24/car-spying-edr-data-privacy/1991751/\"> records information "
@@ -4324,7 +4344,7 @@ msgstr ""
 "information qui est mise à disposition des constructeurs automobiles et des "
 "compagnies d'assurance, entre autres."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The case of toll-collection systems, mentioned in this article, is not "
 "really a matter of proprietary surveillance. These systems are an "
@@ -4340,11 +4360,11 @@ msgstr ""
 "responsable est bien un logiciel malveillant privateur présent dans la "
 "voiture."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "Virtual Reality"
 msgstr "Réalité virtuelle"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInVR\">#SpywareInVR</"
 "a>)</span>"
@@ -4352,7 +4372,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInVR\">#SpywareInVR</"
 "a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "VR equipment, measuring every slight motion, creates the potential for the "
 "most intimate surveillance ever. All it takes to make this potential real <a "
@@ -4366,7 +4386,7 @@ msgstr ""
 "allows-the-most-detailed-intimate-digital-surveillance-yet/\">logiciel aussi "
 "malveillant que beaucoup de ceux que cette page répertorie</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "You can bet Facebook will implement the maximum possible surveillance on "
 "Oculus Rift devices. The moral is, never trust a VR system with nonfree "
@@ -4376,11 +4396,11 @@ msgstr ""
 "avec ses appareils Oculus Rift. La morale est qu'on ne doit pas faire "
 "confiance à un système de réalité virtuelle contenant du logiciel non libre."
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><div><div><h3>
 msgid "Spyware on the Web"
 msgstr "Espions sur le web"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareOnTheWeb"
 "\">#SpywareOnTheWeb</a>)</span>"
@@ -4388,7 +4408,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareOnTheWeb"
 "\">#SpywareOnTheWeb</a>)</span>"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In addition, many web sites spy on their visitors.  Web sites are not "
 "programs, so it <a href=\"/philosophy/network-services-arent-free-or-nonfree."
@@ -4401,7 +4421,7 @@ msgstr ""
 "« privateurs » (propriétaires)</a>, mais ce flicage constitue malgré tout un "
 "abus."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "As of April 2019, it is <a href=\"https://www.bleepingcomputer.com/news/"
 "software/major-browsers-to-prevent-disabling-of-click-tracking-privacy-risk/"
@@ -4421,7 +4441,7 @@ msgstr ""
 "suivent les liens munis de l'attribut <cite>ping</cite> à l'URL définie dans "
 "cet attribut."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Until 2015, any tweet that listed a geographical tag <a href=\"http://web-"
 "old.archive.org/web/20190115233002/https://www.wired.com/story/twitter-"
@@ -4433,7 +4453,7 @@ msgstr ""
 "privacy/\">envoyaient les coordonnées GPS précises au serveur de Twitter</"
 "a>. Ils contiennent toujours ces coordonnées."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Storyful program <a href=\"https://www.theguardian.com/world/2018/may/17/"
 "revealed-how-storyful-uses-tool-monitor-what-journalists-watch\">spies on "
@@ -4443,7 +4463,7 @@ msgstr ""
 "revealed-how-storyful-uses-tool-monitor-what-journalists-watch\">espionne "
 "les journalistes qui l'utilisent</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "When a page uses Disqus for comments, the proprietary Disqus software <a "
 "href=\"https://blog.dantup.com/2017/01/visiting-a-site-that-uses-disqus-"
@@ -4457,7 +4477,7 @@ msgstr ""
 "logiciel de Facebook dans le navigateur de chaque visiteur anonyme de la "
 "page et communique son URL à Facebook</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Online sales, with tracking and surveillance of customers, <a href=\"https://"
 "www.theguardian.com/commentisfree/2016/dec/06/cookie-monsters-why-your-"
@@ -4472,7 +4492,7 @@ msgstr ""
 "L'essentiel du pistage se fait en enregistrant les interactions avec les "
 "serveurs, mais le logiciel privateur joue un rôle."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"https://web.archive.org/web/20190421070310/https://www.itproportal."
 "com/2014/05/14/microsoft-openly-offered-cloud-data-fbi-and-nsa/\"> Microsoft "
@@ -4483,7 +4503,7 @@ msgstr ""
 "SkyDrive de Microsoft permet à la NSA d'examiner directement les données des "
 "utilisateurs</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Many web sites rat their visitors to advertising networks that track users.  "
 "Of the top 1000 web sites, <a href=\"https://www.law.berkeley.edu/research/"
@@ -4498,7 +4518,7 @@ msgstr ""
 "mai 2012) servaient à leurs visiteurs des cookies tierces permettant à "
 "d'autres sites de les suivre à la trace</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Many web sites report all their visitors to Google by using the Google "
 "Analytics service, which <a href=\"http://www.pcworld.idg.com.au/"
@@ -4512,7 +4532,7 @@ msgstr ""
 "google_analytics_breaks_norwegian_privacy_laws_local_agency_said/\">son "
 "adresse IP et la page visitée</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Many web sites try to collect users' address books (the user's list of other "
 "people's phone numbers or email addresses).  This violates the privacy of "
@@ -4523,7 +4543,7 @@ msgstr ""
 "de courriel d'autres personnes). C'est une atteinte à la vie privée de ces "
 "autres personnes."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Pages that contain &ldquo;Like&rdquo; buttons <a href=\"https://www.smh.com."
 "au/technology/facebooks-privacy-lie-aussie-exposes-tracking-as-new-patent-"
@@ -4535,11 +4555,11 @@ msgstr ""
 "new-patent-uncovered-20111004-1l61i.html\">permettent à Facebook de pister "
 "les visiteurs de ces pages</a>, même ceux qui n'ont pas de compte Facebook."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "JavaScript"
 msgstr "JavaScript"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInJavaScript"
 "\">#SpywareInJavaScript</a>)</span>"
@@ -4547,7 +4567,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInJavaScript"
 "\">#SpywareInJavaScript</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Many web sites use JavaScript code <a href=\"http://gizmodo.com/before-you-"
 "hit-submit-this-company-has-already-logge-1795906081\"> to snoop on "
@@ -4564,7 +4584,7 @@ msgstr ""
 "Sites-Illegally-Tracked-Consumers-New-Suits-Allege\">poursuivis</a> pour "
 "cela."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The chat facilities of some customer services use the same sort of malware "
 "to <a href=\"https://gizmodo.com/be-warned-customer-service-agents-can-see-"
@@ -4576,7 +4596,7 @@ msgstr ""
 "service-agents-can-see-what-youre-t-1830688119\">lire le messsage que "
 "l'utilisateur est en train d'écrire avant qu'il ne l'ait envoyé</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "British Airways used <a href=\"https://www.theverge.com/2018/7/19/17591732/"
 "british-airways-gdpr-compliance-twitter-personal-data-security\">nonfree "
@@ -4588,7 +4608,7 @@ msgstr ""
 "security\">JavaScript non libre sur son site web pour donner aux autres "
 "compagnies des données personnelles de ses clients</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Some JavaScript malware <a href=\"https://www.theverge."
 "com/2017/12/30/16829804/browser-password-manager-adthink-princeton-research"
@@ -4599,7 +4619,7 @@ msgstr ""
 "research\">les identifiants provenant des gestionnaires de mots de passe</a> "
 "associés aux navigateurs."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Some websites send JavaScript code to collect all the user's input, <a href="
 "\"https://freedom-to-tinker.com/2017/11/15/no-boundaries-exfiltration-of-"
@@ -4611,15 +4631,15 @@ msgstr ""
 "no-boundaries-exfiltration-of-personal-data-by-session-replay-scripts/\">ce "
 "qui permet de reproduire l'ensemble de la session</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "If you use LibreJS, it will block that malicious JavaScript code."
 msgstr "Si vous utilisez LibreJS, il bloquera ce code JavaScript malveillant."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "Flash"
 msgstr "Flash"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInFlash"
 "\">#SpywareInFlash</a>)</span>"
@@ -4627,7 +4647,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInFlash"
 "\">#SpywareInFlash</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Flash and JavaScript are used for <a href=\"http://arstechnica.com/"
 "security/2013/10/top-sites-and-maybe-the-nsa-track-users-with-device-"
@@ -4639,7 +4659,7 @@ msgstr ""
 "fingerprinting/\">des dispositifs de « profilage »</a> destinés à identifier "
 "les utilisateurs."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Flash Player's <a href=\"http://www.imasuper.com/66/technology/flash-cookies-"
 "the-silent-privacy-killer/\"> cookie feature helps web sites track visitors</"
@@ -4649,11 +4669,11 @@ msgstr ""
 "privacy-killer/\">Un cookie du lecteur Flash aide les sites web à suivre les "
 "visiteurs à la trace</a>)."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><div><div><h4>
 msgid "Chrome"
 msgstr "Chrome"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInChrome"
 "\">#SpywareInChrome</a>)</span>"
@@ -4661,7 +4681,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInChrome"
 "\">#SpywareInChrome</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Google Chrome is an <a href=\"https://www.mercurynews.com/2019/06/21/google-"
 "chrome-has-become-surveillance-software-its-time-to-switch/\"> instrument of "
@@ -4680,7 +4700,7 @@ msgstr ""
 "connecte automatiquement pour rendre le profilage plus aisé. Sur Android, "
 "Chrome envoie également les données de localisation à Google."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The best way to escape surveillance is to switch to <a href=\"/software/"
 "icecat/\">IceCat</a>, a modified version of Firefox with several changes to "
@@ -4690,7 +4710,7 @@ msgstr ""
 "software/icecat/\">IceCat</a>, une version de Firefox avec plusieurs "
 "modifications améliorant la protection de la vie privée."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Low-priced Chromebooks for schools are <a href=\"https://www.eff.org/wp/"
 "school-issued-devices-and-student-privacy\"> collecting far more data on "
@@ -4707,7 +4727,7 @@ msgstr ""
 "difficulté d'éviter ces services et du manque de règles adéquates "
 "garantissant la protection de la vie privée."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "But complaining is not sufficient. Parents, students and teachers should "
 "realize that the software Google uses to spy on students is nonfree, so they "
@@ -4734,7 +4754,7 @@ msgstr ""
 "défense du logiciel libre, des partis politiques, etc.) de faire migrer les "
 "écoles publiques vers le logiciel libre."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Google Chrome makes it easy for an extension to do <a href=\"https://labs."
 "detectify.com/2015/07/28/how-i-disabled-your-chrome-security-extensions/"
@@ -4745,7 +4765,7 @@ msgstr ""
 "\">espionner en détail la navigation de l'utilisateur</a>, et beaucoup ne "
 "s'en privent pas."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Google Chrome includes a module that <a href=\"https://www."
 "privateinternetaccess.com/blog/2015/06/google-chrome-listening-in-to-your-"
@@ -4757,7 +4777,7 @@ msgstr ""
 "room-shows-the-importance-of-privacy-defense-in-depth/\">active les micros "
 "et transmet le signal audio à ses serveurs</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Google Chrome <a href=\"https://www.brad-x.com/2013/08/04/google-chrome-is-"
 "spyware/\"> spies on browser history, affiliations</a>, and other installed "
@@ -4767,7 +4787,7 @@ msgstr ""
 "spyware/\">espionne l'historique du navigateur, les affiliations</a> et les "
 "autres logiciels installés."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Google Chrome contains a key logger that <a href=\"https://web.archive.org/"
 "web/20190126075111/http://www.favbrowser.com/google-chrome-spyware-confirmed/"
@@ -4778,11 +4798,11 @@ msgstr ""
 "favbrowser.com/google-chrome-spyware-confirmed/\">envoie à Google toutes les "
 "URL saisies au clavier</a>, un caractère à la fois."
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><div><div><h3>
 msgid "Spyware in Networks"
 msgstr "Espions dans les réseaux"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><div>
 msgid ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInNetworks"
 "\">#SpywareInNetworks</a>)</span>"
@@ -4790,7 +4810,7 @@ msgstr ""
 "<span class=\"anchor-reference-id\">(<a href=\"#SpywareInNetworks"
 "\">#SpywareInNetworks</a>)</span>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Google invites people to <a href=\"https://www.commondreams.org/"
 "views/2019/02/04/google-screenwise-unwise-trade-all-your-privacy-cash?cd-"
@@ -4802,7 +4822,7 @@ msgstr ""
 "origin=rss\">laisser Google surveiller ce qu'ils font avec leur téléphone et "
 "leur connexion Internet, contre une rémunération extravagante de 20 $</a>. "
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "This is not a malicious functionality of a program with some other purpose; "
 "this is the software's sole purpose, and Google says so. But Google says it "
@@ -4815,7 +4835,7 @@ msgstr ""
 "plupart des gens à négliger les détails. Voilà pourquoi, à notre avis, il "
 "est justifié d'en parler ici."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Investigation Shows <a href=\"https://www.techdirt.com/"
 "articles/20160602/17210734610/investigation-shows-gchq-using-us-companies-"
@@ -4828,7 +4848,7 @@ msgstr ""
 "se servait de sociétés américaines et de la NSA pour contourner les "
 "restrictions à la surveillance sur le territoire national</a>."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Specifically, it can collect the emails of members of Parliament this way, "
 "because they pass it through Microsoft."
@@ -4836,7 +4856,7 @@ msgstr ""
 "En particulier, il peut récupérer les courriels des membres du Parlement par "
 "ce moyen, car ils l'envoient par l'intermédiaire de Microsoft."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The Cisco TNP IP phones are <a href=\"http://boingboing.net/2012/12/29/your-"
 "cisco-phone-is-listening.html\"> spying devices</a>."
@@ -4846,7 +4866,7 @@ msgstr ""
 "d'espionnage</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -4871,29 +4891,25 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
-"Nous faisons le maximum pour proposer des traductions fidèles et de bonne "
-"qualité, mais nous ne sommes pas parfaits. Merci d'adresser vos commentaires "
-"sur cette page, ainsi que vos suggestions d'ordre général sur les "
-"traductions, à <a href=\"mailto:web-translators@gnu.org\"> &lt;web-"
-"translators@gnu.org&gt;</a>.</p>\n"
-"<p>Pour tout renseignement sur la coordination et la soumission des "
-"traductions de nos pages web, reportez-vous au <a href=\"/server/standards/"
-"README.translations.html\">guide de traduction</a>."
+"Merci d'adresser vos commentaires sur cette page et sur les traductions en "
+"général à <a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu."
+"org&gt;</a>.</p>\n"
+"<p>Si vous souhaitez participer à la traduction de nos pages web, vous "
+"trouverez dans <a href=\"/server/standards/README.translations.html\">ce "
+"guide</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
-"Foundation, Inc."
+msgid "Copyright &copy; 2015-2020 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2015-2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>

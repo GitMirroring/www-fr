@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-incompatibility.html\n"
-"POT-Creation-Date: 2019-11-18 14:55+0000\n"
+"POT-Creation-Date: 2020-06-20 10:30+0200\n"
 "PO-Revision-Date: 2019-11-18 18:14+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -20,13 +20,37 @@ msgid "Proprietary Incompatibility - GNU Project - Free Software Foundation"
 msgstr ""
 "Incompatibilité du logiciel privateur - Projet GNU - Free Software Foundation"
 
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Section contents"
+msgstr "Menu de section"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Section contents]&nbsp;"
+msgstr "&nbsp;[Menu de section]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Accueil GNU"
+
 #. type: Content of: <div><p>
 msgid ""
-"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
-"Incompatibility"
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
+"type&nbsp;/"
 msgstr ""
-"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
-"Incompatibilité"
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Maliciels</a>&nbsp;/ "
+"Par type&nbsp;/"
 
 #. type: Content of: <div><h2>
 msgid "Proprietary Incompatibility"
@@ -52,7 +76,7 @@ msgstr ""
 msgid "This typically takes the form of malicious functionalities."
 msgstr "Cela prend habituellement la forme de fonctionnalités malveillantes."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "One of these malicious functionalities is the deliberate incompatibility of "
 "a program with third party software that operates on the same data types."
@@ -60,7 +84,7 @@ msgstr ""
 "L'une de ces fonctionnalités malveillantes est l'incompatibilité délibérée "
 "d'un programme avec d'autres logiciels qui utilisent le même type de données."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "A fairly common sort of incompatibility is the use of secret formats or "
 "protocols. This directly blocks or hinders users from switching to any other "
@@ -73,7 +97,7 @@ msgstr ""
 "programme libre, qui permettrait de libérer l'appareil sur lequel tourne le "
 "logiciel."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "Apart from being deliberately anticompetitive, secret formats put users' "
 "digital data at risk. For instance, retrieval of old data will become very "
@@ -85,7 +109,7 @@ msgstr ""
 "récupération de données anciennes sera très difficile si le logiciel "
 "privateur qui peut les lire n'est plus pris en charge."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "Another sort of incompatibility occurs when a system makes some important "
 "operation which would be necessary for migrating data to any other system so "
@@ -97,7 +121,7 @@ msgstr ""
 "système, si compliquée ou si lente qu'elle n'est pas faisable pour une "
 "quantité significative de données."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "More generally, the major tech companies tend to impose <a href=\"https://"
 "www.eff.org/deeplinks/2019/07/interoperability-fix-internet-not-tech-"
@@ -111,7 +135,7 @@ msgstr ""
 "l'interopérabilité de leurs produits, souvent au moyen de logiciel "
 "malveillant privateur, pour obtenir le monopole du marché."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "If you know of an example that ought to be in this page but isn't here, "
 "please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
@@ -124,7 +148,7 @@ msgstr ""
 "Merci de fournir les URL d'une ou deux références fiables et spécifiques "
 "pour l'étayer."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "In MacOS and iOS, the procedure for <a href=\"https://support.apple.com/"
 "guide/photos/export-photos-videos-and-slideshows-pht6e157c5f/mac\"> "
@@ -136,7 +160,7 @@ msgstr ""
 "conversion d'images au format Photos</a> vers un format libre est si longue "
 "et si fastidieuse que les utilisateurs renoncent s'ils en ont beaucoup."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Apple devices lock users in <a href=\"https://gizmodo.com/homepod-is-the-"
 "ultimate-apple-product-in-a-bad-way-1822883347\"> solely to Apple services</"
@@ -148,7 +172,7 @@ msgstr ""
 "les services gérés par Apple, car ils sont conçus pour être incompatibles "
 "avec toutes les autres options, éthiques ou non."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "iWork (office software that runs on MacOS, iOS and iCloud) uses secret "
 "formats and <a href=\"https://en.wikipedia.org/wiki/IWork\">provides no "
@@ -166,7 +190,7 @@ msgstr ""
 "efforts de rétroingénierie</a>, empêchant ainsi le logiciel libre de gérer "
 "complètement ces formats."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "iWork formats are considered <a href=\"https://wiki.harvard.edu/confluence/"
 "download/attachments/204385883/Format%20profile%20-%20Apple%20iWork%20Pages"
@@ -179,7 +203,7 @@ msgstr ""
 "api=v2\">impropres à la conservation des documents</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -204,28 +228,26 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
-"Nous faisons le maximum pour proposer des traductions fidèles et de bonne "
-"qualité, mais nous ne sommes pas parfaits. Merci d'adresser vos commentaires "
-"sur cette page, ainsi que vos suggestions d'ordre général sur les "
-"traductions, à <a href=\"mailto:web-translators@gnu.org\"> &lt;web-"
-"translators@gnu.org&gt;</a>.</p>\n"
-"<p>Pour tout renseignement sur la coordination et la soumission des "
-"traductions de nos pages web, reportez-vous au <a href=\"/server/standards/"
-"README.translations.html\">guide de traduction</a>."
+"Merci d'adresser vos commentaires sur cette page et sur les traductions en "
+"général à <a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu."
+"org&gt;</a>.</p>\n"
+"<p>Si vous souhaitez participer à la traduction de nos pages web, vous "
+"trouverez dans <a href=\"/server/standards/README.translations.html\">ce "
+"guide</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2018, 2019 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2018, 2019 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2018-2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2018-2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
