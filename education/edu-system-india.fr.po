@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-system-india.html\n"
-"POT-Creation-Date: 2020-05-31 05:26+0000\n"
-"PO-Revision-Date: 2019-05-01 15:50+0200\n"
+"POT-Creation-Date: 2020-06-25 09:56+0000\n"
+"PO-Revision-Date: 2020-06-26 20:39+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -57,8 +57,10 @@ msgid "The Education System in India"
 msgstr "Le système éducatif en Inde"
 
 #. type: Content of: <div><p>
-msgid "by Dr. V. Sasi Kumar <a href=\"#sasi\">(1)</a>"
-msgstr "par Dr V. Sasi Kumar (<a href=\"#sasi\">1</a>)"
+msgid ""
+"by Dr. V. Sasi Kumar <a href=\"#sasi\" id=\"sasi-rev\"><sup>[1]</sup></a>"
+msgstr ""
+"par Dr V. Sasi Kumar <a href=\"#sasi\" id=\"sasi-rev\"><sup>[1]</sup></a>"
 
 #. type: Content of: <div><div><h3>
 msgid "In the Beginning"
@@ -737,16 +739,17 @@ msgstr ""
 msgid "Footnote"
 msgstr "Note"
 
-#. type: Content of: <div><div><ol><li>
+#. type: Content of: <div><div><p>
 msgid ""
-"<a href=\"http://swatantryam.blogspot.com/\">V. Sasi Kumar</a> is a doctor "
-"in physics and a member of the FSF India Board of Directors.  He advocates "
-"for Free Software and freedom of knowledge."
+"<a href=\"#sasi-rev\" id=\"sasi\">[1]</a> <a href=\"http://swatantryam."
+"blogspot.com/\">V. Sasi Kumar</a> is a doctor in physics and a member of the "
+"FSF India Board of Directors.  He advocates for Free Software and freedom of "
+"knowledge."
 msgstr ""
-"<a href=\"http://swatantryam.blogspot.com/\">V. Sasi Kumar</a> est docteur "
-"en physique et membre du conseil d'administration de la <cite>FSF India</"
-"cite>. C'est un activiste du logiciel libre et de la liberté de la "
-"connaissance."
+"<a href=\"#sasi-rev\" id=\"sasi\">[1]</a> <a href=\"http://swatantryam."
+"blogspot.com/\">V. Sasi Kumar</a> est docteur en physique et membre du "
+"conseil d'administration de la <cite>FSF India</cite>. C'est un activiste du "
+"logiciel libre et de la liberté de la connaissance."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div><div>
