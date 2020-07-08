@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: x.html\n"
-"POT-Creation-Date: 2015-12-14 09:56+0000\n"
-"PO-Revision-Date: 2018-11-03 22:24+0100\n"
+"POT-Creation-Date: 2020-07-08 13:26+0000\n"
+"PO-Revision-Date: 2020-07-08 15:36+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -37,15 +37,15 @@ msgstr ""
 "Richard Stallman discute de l'histoire du mouvement pour le développement "
 "d'un système d'exploitation libre."
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "The X Window System Trap"
 msgstr "Le piège X Window System"
 
-#. type: Content of: <p>
-msgid "by <strong>Richard M. Stallman</strong>"
-msgstr "par <strong>Richard M. Stallman</strong>"
+#. type: Content of: <div><p>
+msgid "by Richard M. Stallman"
+msgstr "par Richard M. Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To copyleft or not to copyleft? That is one of the major controversies in "
 "the free software community.  The idea of copyleft is that we should fight "
@@ -59,7 +59,7 @@ msgstr ""
 "notre code reste libre. La licence publique générale GNU (GNU <abbr title="
 "\"General Public License\">GPL</abbr>) est un exemple de licence à copyleft."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Some free software developers prefer noncopyleft distribution.  Noncopyleft "
 "licenses such as the XFree86 and <a href=\"/licenses/bsd.html\">BSD</a> "
@@ -78,7 +78,7 @@ msgstr ""
 "occasion de protéger activement notre liberté de modifier et redistribuer le "
 "logiciel. Pour cela, nous avons besoin du copyleft."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "For many years, the X Consortium was the chief opponent of copyleft.  It "
 "exerted both moral suasion and pressure to discourage free software "
@@ -93,7 +93,7 @@ msgstr ""
 "bien de dire non. Il a utilisé la pression à travers sa règle qui veut qu'un "
 "logiciel sous copyleft ne puisse pas figurer dans une distribution de X."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Why did the X Consortium adopt this policy? It had to do with their "
 "conception of success.  The X Consortium defined success as popularity&mdash;"
@@ -108,7 +108,7 @@ msgstr ""
 "informatiques aux commandes : tout ce qu'elles voulaient, le Consortium X "
 "devait les aider à l'obtenir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Computer companies normally distribute proprietary software.  They wanted "
 "free software developers to donate their work for such use.  If they had "
@@ -130,7 +130,7 @@ msgstr ""
 "« Rejoignez-nous dans la popularité » disaient-ils encore, suggérant en cela "
 "que ce n'était même pas un sacrifice."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "But self-sacrifice is not the issue: tossing away the defense that copyleft "
 "provides, which protects the freedom of the whole community, is sacrificing "
@@ -143,7 +143,7 @@ msgstr ""
 "requête du Consortium X ont confié l'avenir de la communauté au bon vouloir "
 "du Consortium X."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This trust was misplaced.  In its last year, the X Consortium made a plan to "
 "restrict the forthcoming X11R6.4 release so that it would not be free "
@@ -156,7 +156,7 @@ msgstr ""
 "non, pas seulement aux développeurs de logiciel privateur, mais également à "
 "notre communauté."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "There is an irony here.  If you said yes when the X Consortium asked you not "
 "to use copyleft, you put the X Consortium in a position to license and "
@@ -167,7 +167,7 @@ msgstr ""
 "position de placer sous licence restrictive sa version de votre programme, "
 "en plus du code du noyau de X."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The X Consortium did not carry out this plan.  Instead it closed down and "
 "transferred X development to the Open Group, whose staff are now carrying "
@@ -190,7 +190,7 @@ msgstr ""
 "le groupe XFree86 avait suivi l'ancienne politique du Consortium X ; il "
 "n'accepte pas de logiciel sous copyleft."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In September 1998, several months after X11R6.4 was released with nonfree "
 "distribution terms, the Open Group reversed its decision and rereleased it "
@@ -204,7 +204,7 @@ msgstr ""
 "été utilisée pour la version X11R6.3. Ainsi l'Open Group fit en fin de "
 "compte ce qui était juste, mais cela ne change pas le fond du problème."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Even if the X Consortium and the Open Group had never planned to restrict X, "
 "someone else could have done it.  Noncopylefted software is vulnerable from "
@@ -224,7 +224,7 @@ msgstr ""
 "être attirés par la version non libre pour des questions de commodité à "
 "court terme."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The X Consortium and Open Group can no longer exert moral suasion by saying "
 "that it is wrong to say no.  This will make it easier to decide to copyleft "
@@ -234,17 +234,17 @@ msgstr ""
 "pression en disant qu'il n'est pas bien de dire non. Cela facilitera votre "
 "décision de mettre sous copyleft votre programme s'il a rapport avec X."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "When you work on the core of X, on programs such as the X server, Xlib, and "
 "Xt, there is a practical reason not to use copyleft.  The X.org group does "
 "an important job for the community in maintaining these programs, and the "
 "benefit of copylefting our changes would be less than the harm done by a "
 "fork in development.  So it is better to work with them, and not copyleft "
-"our changes on these programs.  Likewise for utilities such as <tt>xset</tt> "
-"and <tt>xrdb</tt>, which are close to the core of X and do not need major "
-"improvements.  At least we know that the X.org group has a firm commitment "
-"to developing these programs as free software."
+"our changes on these programs.  Likewise for utilities such as <code>xset</"
+"code> and <code>xrdb</code>, which are close to the core of X and do not "
+"need major improvements.  At least we know that the X.org group has a firm "
+"commitment to developing these programs as free software."
 msgstr ""
 "Quand on travaille sur le noyau de X, c'est-à-dire sur des programmes comme "
 "le serveur X, Xlib ou Xt, il y a une raison pratique de ne pas utiliser le "
@@ -254,11 +254,12 @@ msgstr ""
 "l'apparition d'une branche dans le développement. Aussi est-il préférable de "
 "travailler avec le groupe XFree86 et de ne pas mettre sous copyleft nos "
 "modifications de ces programmes. Il en va de même pour des utilitaires comme "
-"<tt>xset</tt> et <tt>xrdb</tt>, qui sont proches du noyau de X et n'ont pas "
-"besoin d'amélioration majeure. Nous savons au moins que le groupe XFree86 a "
-"la ferme intention de développer ces programmes en tant que logiciels libres."
+"<code>xset</code> et <code>xrdb</code>, qui sont proches du noyau de X et "
+"n'ont pas besoin d'amélioration majeure. Nous savons au moins que le groupe "
+"XFree86 a la ferme intention de développer ces programmes en tant que "
+"logiciels libres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The issue is different for programs outside the core of X: applications, "
 "window managers, and additional libraries and widgets.  There is no reason "
@@ -269,7 +270,7 @@ msgstr ""
 "complémentaires et les widgets. Il n'y a aucune raison de ne pas les mettre "
 "sous copyleft, et nous devons le faire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In case anyone feels the pressure exerted by the criteria for inclusion in "
 "the X distributions, the GNU Project will undertake to publicize copylefted "
@@ -283,7 +284,7 @@ msgstr ""
 "chose sous copyleft et craignez que son omission dans la distribution de X "
 "soit un obstacle à sa popularité, veuillez nous demander de l'aide."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "At the same time, it is better if we do not feel too much need for "
 "popularity.  When a businessman tempts you with &ldquo;more popularity,"
@@ -306,7 +307,7 @@ msgstr ""
 "chaud ni froid. » Souvent l'industriel changera d'avis et acceptera le "
 "programme avec copyleft, une fois que vous l'aurez mis au défi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Friends, free software developers, don't repeat old mistakes! If we do not "
 "copyleft our software, we put its future at the mercy of anyone equipped "
@@ -369,8 +370,8 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1998, 1999, 2009, 2015 Richard M. Stallman"
-msgstr "Copyright &copy; 1998, 1999, 2009, 2015 Richard M. Stallman"
+msgid "Copyright &copy; 1998, 1999, 2009, 2015, 2020 Richard M. Stallman"
+msgstr "Copyright &copy; 1998, 1999, 2009, 2015, 2020 Richard M. Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
