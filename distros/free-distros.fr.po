@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
-"POT-Creation-Date: 2020-07-17 18:55+0000\n"
-"PO-Revision-Date: 2020-07-17 22:59+0200\n"
+"POT-Creation-Date: 2020-07-20 13:25+0000\n"
+"PO-Revision-Date: 2020-07-20 17:13+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -30,6 +30,31 @@ msgstr ""
 #. type: Content of: <h2>
 msgid "Free GNU/Linux distributions"
 msgstr "Distributions GNU/Linux libres"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page lists the <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> "
+"distributions that are entirely <a href=\"/philosophy/free-sw.html\">free</"
+"a> as in freedom.  <a href=\"/distros/free-non-gnu-distros.html\">Non-GNU-"
+"based free system distributions</a> are listed separately."
+msgstr ""
+"Cette page répertorie les distributions <a href=\"/gnu/linux-and-gnu.html"
+"\">GNU/Linux</a> qui sont entièrement <a href=\"/philosophy/free-sw.html"
+"\">libres</a> (comme dans liberté). Les distributions libres de <a href=\"/"
+"distros/free-non-gnu-distros.html\">systèmes non basés sur GNU</a> sont dans "
+"une liste séparée."
+
+#. type: Content of: <div><p>
+msgid ""
+"The Free Software Foundation recommends and endorses these GNU/Linux "
+"distros, although <strong>we do not try to judge or compare them based on "
+"any criterion other than freedom</strong>; therefore, we list them in "
+"alphabetical order."
+msgstr ""
+"La Free Software Foundation recommande et cautionne ces distributions GNU/"
+"Linux. <strong>Nous n'essayons pas de les juger ni de les comparer sur la "
+"base de critères autres que la liberté</strong> ; c'est pourquoi elles sont "
+"classées ici par ordre alphabétique."
 
 #. type: Content of: <div><h3>
 msgid "Table of Contents"
@@ -71,34 +96,9 @@ msgstr ""
 "pas responsable des autres sites web ni de l'actualisation de l'information "
 "qui s'y trouve.</em>"
 
-#. type: Content of: <h3>
-msgid "Introduction"
-msgstr "Introduction"
-
-#. type: Content of: <p>
-msgid ""
-"This page lists the <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> "
-"distributions that are entirely <a href=\"/philosophy/free-sw.html\">free</"
-"a> as in freedom.  <a href=\"/distros/free-non-gnu-distros.html\">Non-GNU-"
-"based free system distributions</a> are listed separately."
-msgstr ""
-"Cette page répertorie les distributions <a href=\"/gnu/linux-and-gnu.html"
-"\">GNU/Linux</a> qui sont entièrement <a href=\"/philosophy/free-sw.html"
-"\">libres</a> (comme dans liberté). Les distributions libres de <a href=\"/"
-"distros/free-non-gnu-distros.html\">systèmes non basés sur GNU</a> sont dans "
-"une liste séparée."
-
-#. type: Content of: <p>
-msgid ""
-"The Free Software Foundation recommends and endorses these GNU/Linux "
-"distros, although <strong>we do not try to judge or compare them based on "
-"any criterion other than freedom</strong>; therefore, we list them in "
-"alphabetical order."
-msgstr ""
-"La Free Software Foundation recommande et cautionne ces distributions GNU/"
-"Linux. <strong>Nous n'essayons pas de les juger ni de les comparer sur la "
-"base de critères autres que la liberté</strong> ; c'est pourquoi elles sont "
-"classées ici par ordre alphabétique."
+#. type: Content of: outside any tag (error?)
+msgid "<span id=\"intro\"> </span>"
+msgstr "<span id=\"intro\"> </span>"
 
 #. type: Content of: <p>
 msgid ""
