@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: proprietary/\n"
 "POT-Creation-Date: 2020-06-24 05:25+0000\n"
-"PO-Revision-Date: 2020-08-20 10:13+0200\n"
+"PO-Revision-Date: 2020-08-21 08:48+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -700,6 +700,10 @@ msgstr "<a href=\"#pressuring\">Pression sur le client</a>"
 #. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#sabotage\">Sabotage</a>"
 msgstr "<a href=\"#sabotage\">Sabotage</a>"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "<a href=\"#subscriptions\">Subscriptions</a>"
+msgstr "<a href=\"#subscriptions\">Abonnements</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#surveillance\">Surveillance</a>"
@@ -1659,6 +1663,33 @@ msgstr ""
 "déverrouillés</a>. La « mise à niveau » a également désactivé les "
 "applications non validées par la <a href=\"/proprietary/proprietary-jails."
 "html\">censure d'Apple</a>. Tout ceci était apparemment intentionnel."
+
+#. type: Content of: <div><div><h3>
+msgid "Subscriptions"
+msgstr "Abonnements"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Apple can remotely <a href=\"https://www.theguardian.com/games/2020/aug/18/"
+"apple-sets-deadline-in-feud-with-fortnite-maker-epic-games\"> cut off any "
+"developer's access to the tools for developing software</a> for iOS or MacOS."
+msgstr ""
+"Apple peut, à distance, <a href=\"https://www.theguardian.com/games/2020/"
+"aug/18/apple-sets-deadline-in-feud-with-fortnite-maker-epic-games\">empêcher "
+"les développeurs d'accéder à ses outils de développement</a> pour iOS ou "
+"MacOS."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Epic (Apple's target in this example)  makes nonfree games which have their "
+"own <a href=\"https://ekgaming.com/2019/03/17/is-the-epic-games-store-spying-"
+"on-your-computer/\"> malicious features</a>, but that doesn't make it "
+"acceptable for Apple to have this sort of power."
+msgstr ""
+"La société Epic (cible d'Apple dans cet exemple) fait des jeux non libres "
+"qui ont leurs propres <a href=\"https://ekgaming.com/2019/03/17/is-the-epic-"
+"games-store-spying-on-your-computer/\">fonctionnalités malveillantes</a>, "
+"mais cela ne rend pas plus acceptable le fait qu'Apple ait un tel pouvoir."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -3785,6 +3816,27 @@ msgstr "Malveillance des véhicules"
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
+"New Toyotas will <a href=\"https://www.theregister.com/2020/08/18/"
+"aws_toyota_alliance/\"> upload data to AWS to help create custom insurance "
+"premiums</a> based on driver behaviour."
+msgstr ""
+"Les nouvelles Toyotas vont <a href=\"https://www.theregister.com/2020/08/18/"
+"aws_toyota_alliance/\">envoyer à AWS des données qui l'aideront à créer des "
+"tarifs d'assurance personnalisés</a> basés sur le comportement du conducteur."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Before you buy a &ldquo;connected&rdquo; car, make sure you can disconnect "
+"its cellular antenna and its GPS antenna.  If you want GPS navigation, get a "
+"separate navigator which runs free software and works with Open Street Map."
+msgstr ""
+"Avant d'acheter un voiture « connectée », assurez-vous que vous pouvez "
+"déconnecter les antennes du téléphone cellulaire et du GPS. Si vous voulez "
+"un GPS, procurez-vous un appareil de navigation fonctionnant avec du "
+"logiciel libre et Open Street Map."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
 "BMW will remotely <a href=\"https://www.cnet.com/roadshow/news/bmw-vehicle-"
 "as-a-platform/\"> enable and disable functionality in cars</a> through a "
 "universal back door."
@@ -5488,10 +5540,6 @@ msgid "Types of Microsoft malware"
 msgstr "Types de malveillance chez Microsoft"
 
 #. type: Content of: <div><div><div><ul><li>
-msgid "<a href=\"#subscriptions\">Subscriptions</a>"
-msgstr "<a href=\"#subscriptions\">Abonnements</a>"
-
-#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#tethers\">Tethers</a>"
 msgstr "<a href=\"#tethers\">Ancrage</a>"
 
@@ -6052,10 +6100,6 @@ msgstr ""
 "computerworlduk.com/open-enterprise/2013/06/how-can-any-company-ever-trust-"
 "microsoft-again/index.htm\">Microsoft renseigne la NSA sur les bogues de "
 "Windows avant de les corriger</a>."
-
-#. type: Content of: <div><div><h3>
-msgid "Subscriptions"
-msgstr "Abonnements"
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
