@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: is-ever-good-use-nonfree-program.html\n"
-"POT-Creation-Date: 2017-08-27 14:56+0000\n"
-"PO-Revision-Date: 2018-09-06 21:38+0200\n"
+"POT-Creation-Date: 2020-11-02 09:55+0000\n"
+"PO-Revision-Date: 2020-11-02 14:17+0100\n"
 "Last-Translator: Sogal <sogal AT member.fsf.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -32,21 +32,55 @@ msgid "Is It Ever a Good Thing to Use a Nonfree Program?"
 msgstr ""
 "Arrive-t-il parfois qu'utiliser un programme non libre soit une bonne chose ?"
 
+#. type: Content of: <address>
+msgid "by Richard Stallman"
+msgstr "par Richard Stallman"
+
 #. type: Content of: <p>
 msgid ""
-"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
+"The question here is, is it ever a good thing to use a nonfree program? Our "
+"conclusion is that it is usually a bad thing, harmful to yourself and in "
+"some cases to others."
 msgstr ""
-"par <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></"
-"a>"
+"La question posée ici est de savoir si l'utilisation d'un programme non "
+"libre peut quelquefois être une bonne chose. Notre conclusion est que c'est "
+"la plupart du temps une mauvaise chose, nocive pour vous et dans certains "
+"cas pour les autres."
 
 #. type: Content of: <p>
 msgid ""
 "If you run a nonfree program on your computer, it denies your freedom; the "
-"immediate wrong is directed at you.(<a href=\"#footnote\">*</a>)"
+"immediate wrong is directed at you(<a href=\"#footnote\" id=\"footnote-rev"
+"\"><sup>[*]</sup></a>)."
 msgstr ""
-"Si vous faites fonctionner un programme non libre sur votre ordinateur, il "
-"vous prive de votre liberté ; c'est vous qui en êtes la première victime.(<a "
-"href=\"#footnote\">*</a>)"
+"Si vous utilisez un programme non libre sur votre ordinateur, il vous prive "
+"de votre liberté ; c'est vous qui en êtes la première victime.(<a href="
+"\"#footnote\" id=\"footnote-rev\"><sup>[*]</sup></a>)"
+
+#. type: Content of: <p>
+msgid ""
+"That does <em>not</em> mean you're an &ldquo;evildoer&rdquo; or &ldquo;"
+"sinner&rdquo; for running a nonfree program.  When the harm you're doing is "
+"mainly to yourself, we hope you will stop, for your own sake."
+msgstr ""
+"Cela <em>ne veut pas dire</em> que vous « faites le mal » ou que vous "
+"« péchez » si vous utilisez un programme non libre. Quand vous êtes la "
+"principale cible du mal que vous faites, nous espérons seulement que vous "
+"allez arrêter, pour votre bien."
+
+#. type: Content of: <p>
+msgid ""
+"Sometimes you may face great pressure to run a nonfree program; we don't say "
+"you must defy that pressure at all costs (though it is inspiring when "
+"someone does that), but we do urge you to <a href=\"/philosophy/saying-no-"
+"even-once.html\"> look for occasions to push back in smaller ways</a>."
+msgstr ""
+"Vous pouvez parfois être confronté à une pression énorme pour utiliser un "
+"programme non libre ; nous ne disons pas que vous devez défier cette "
+"pression à tout prix (bien que ce soit un bon exemple pour les autres si "
+"quelqu'un le fait), mais nous vous exhortons à <a href=\"/philosophy/saying-"
+"no-even-once.html\">chercher des occasions de réagir de façon plus modeste</"
+"a>."
 
 #. type: Content of: <p>
 msgid ""
@@ -76,6 +110,10 @@ msgstr ""
 "voire le fait d'exhorter les autres à faire de même, peut être une chose "
 "positive. Il s'agit du cas où l'utilisation du logiciel non libre vise "
 "directement à mettre fin à l'utilisation de ce même logiciel."
+
+#. type: Content of: <h3>
+msgid "In the past"
+msgstr "Autrefois"
 
 #. type: Content of: <p>
 msgid ""
@@ -133,6 +171,10 @@ msgstr ""
 "maintenant. Par conséquent, quand vous utilisez un programme non libre pour "
 "ce genre de raison, vous devriez vous demander de temps en temps si le "
 "besoin existe toujours."
+
+#. type: Content of: <h3>
+msgid "Nowadays"
+msgstr "De nos jours"
 
 #. type: Content of: <p>
 msgid ""
@@ -220,6 +262,10 @@ msgstr ""
 "en une excuse universelle justifiant n'importe quelle activité lucrative "
 "impliquant des logiciels non libres."
 
+#. type: Content of: <h3>
+msgid "Author's note"
+msgstr "Remarque"
+
 #. type: Content of: <p>
 msgid ""
 "Occasionally it is necessary to use and even upgrade a nonfree system on a "
@@ -234,17 +280,23 @@ msgstr ""
 "appliquer les mêmes arguments : il est légitime de recommander l'utilisation "
 "d'un logiciel privateur momentanément afin de le supprimer."
 
-#. type: Content of: <p>
-msgid ""
-"Footnote: Using the nonfree program can have unfortunate indirect effects, "
-"such as rewarding the perpetrator and encouraging more use of that program.  "
-"This is a further reason to shun use of nonfree programs."
-msgstr ""
-"Note : l'utilisation de logiciel non libre peut avoir des effets indirects "
-"malheureux, comme de récompenser le coupable ou d'encourager les autres à "
-"utiliser ce programme. C'est une raison supplémentaire de l'éviter."
+#. type: Content of: <div><h3>
+msgid "Footnote"
+msgstr "Note"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"#footnote-rev\" id=\"footnote\">[*]</a> Using the nonfree program "
+"can have unfortunate indirect effects, such as rewarding the perpetrator and "
+"encouraging more use of that program.  This is a further reason to shun use "
+"of nonfree programs."
+msgstr ""
+"<a href=\"#footnote-rev\" id=\"footnote\">[*]</a> L'utilisation de logiciel "
+"non libre peut avoir des effets indirects malheureux, comme de récompenser "
+"le coupable ou d'encourager les autres à utiliser ce programme. C'est une "
+"raison supplémentaire de l'éviter."
+
+#. type: Content of: <div><p>
 msgid ""
 "Most proprietary programs come with an End User License Agreement that "
 "hardly anyone reads.  Tucked away in it, in most cases, is an unethical "
@@ -258,7 +310,7 @@ msgstr ""
 "promettez de ne pas distribuer de copies aux autres, ni même d'en prêter une "
 "à quelqu'un."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To carry out such a commitment is more wrong than to break it.  No matter "
 "what legalistic arguments they might make, the developers can hardly claim "
@@ -269,7 +321,7 @@ msgstr ""
 "prétendre que leur stratagème donne aux utilisateurs l'obligation morale "
 "d'être non coopératifs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, we think that the truly moral path is to carefully reject such "
 "agreements."
@@ -327,8 +379,8 @@ msgstr ""
 "README.translations.html\">guide de traduction</a>."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2013, 2015, 2016, 2017 Richard Stallman"
-msgstr "Copyright &copy; 2013, 2015, 2016, 2017 Richard Stallman"
+msgid "Copyright &copy; 2013, 2015, 2016, 2017, 2020 Richard Stallman"
+msgstr "Copyright &copy; 2013, 2015, 2016, 2017, 2020 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
