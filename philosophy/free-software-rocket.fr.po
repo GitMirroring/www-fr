@@ -1,0 +1,328 @@
+# French translation of https://www.gnu.org/philosophy/free-software-rocket.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Thérèse Godefroy <godef.th AT free.fr>, 2020.
+# Fançois Ochsenbein, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: free-software-rocket.html\n"
+"POT-Creation-Date: 2020-10-13 07:56+0000\n"
+"PO-Revision-Date: 2020-11-02 13:17+0100\n"
+"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"Language-Team: French <trad-gnu@april.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Content of: <title>
+msgid ""
+"Should Rockets Have Only Free Software? Free Software and Appliances - GNU "
+"Project - Free Software Foundation"
+msgstr ""
+"Le logiciel des fusées doit-il être entièrement libre ? Logiciel libre et "
+"matériel - Projet GNU - Free Software Foundation"
+
+#. type: Content of: <h2>
+msgid "Should Rockets Have Only Free Software? Free Software and Appliances"
+msgstr ""
+"Le logiciel des fusées doit-il être entièrement libre ? Logiciel libre et "
+"matériel"
+
+#. type: Content of: <address>
+msgid "by Richard Stallman"
+msgstr "par Richard Stallman"
+
+#. type: Content of: <p>
+msgid ""
+"Could there be a rocket that is totally free software? Should we demand that "
+"SpaceX liberate the software in its satellite launching rockets? I don't "
+"think the person who asked me this was serious, but answering that question "
+"may illuminate similar issues about the sorts of products people really buy "
+"today."
+msgstr ""
+"Peut-il exister une fusée fonctionnant exclusivement avec du logiciel "
+"libre ? Doit-on demander à SpaceX de libérer le logiciel de ses lanceurs de "
+"satellites ? Je ne pense pas que la personne qui m'a demandé cela était "
+"sérieuse, mais en répondant à cette question, on peut éclairer des questions "
+"similaires sur les produits que les gens achètent de nos jours."
+
+#. type: Content of: <p>
+msgid ""
+"As far as I know, software as such is not capable of generating thrust.  A "
+"rocket is necessarily principally a physical device.  But it may include "
+"computerized control and telemetry systems, and thus software."
+msgstr ""
+"Pour autant que je sache, le logiciel en tant que tel n'est pas capable de "
+"générer de la poussée. Pour l'essentiel, une fusée est obligatoirement un "
+"objet physique, mais elle peut inclure des systèmes de contrôle et de "
+"télémétrie informatisés, donc du logiciel."
+
+#. type: Content of: <p>
+msgid ""
+"If someone offered to sell me a rocket, I would treat it like any other "
+"appliance.  Consider, for instance, a thermostat.  If it contains software "
+"to be modified, all the software in it needs to be free.  If, however, the "
+"software in it need not ever be altered, and it communicates <em>only</em> "
+"through some limited interface, such as buttons on the control panel, a TV "
+"remote control, or a USB interface with a fixed set of commands, I would not "
+"consider it crucial to know what is inside the thermostat: whether it "
+"contains a special-purpose chip, or a processor running code, makes no "
+"direct difference to me as user.  If it does contain code, it might as well "
+"have a special chip instead, so I don't need to care which it is."
+msgstr ""
+"Si quelqu'un proposait de me vendre une fusée, je la traiterais comme "
+"n'importe quel autre appareil. Considérez par exemple un thermostat. S'il "
+"contient du logiciel qui peut être modifié, tout le logiciel qu'il contient "
+"doit être libre. Si par contre son logiciel n'a jamais besoin d'être modifié "
+"et communique <em>uniquement</em> par l'intermédiaire d'une interface "
+"limitée (boutons sur un panneau de contrôle, télécommande de téléviseur ou "
+"interface USB avec un ensemble fixe de commandes, par exemple), je ne "
+"considérerais pas comme essentiel de savoir ce qui est à l'intérieur du "
+"thermostat ; cela ne fait aucune différence pour moi, utilisateur, qu'il "
+"contienne une puce spécialisée ou un processeur exécutant du code. S'il "
+"contient effectivement du code, on pourrait aussi bien le remplacer par une "
+"puce spécialisée, donc ce que c'est m'importe peu."
+
+#. type: Content of: <p>
+msgid ""
+"I would object if that thermostat sent someone data about my activities, "
+"regardless of how that was implemented.  Once again, special chip or special "
+"code makes no direct difference.  Free software in it could give me a way to "
+"turn off the surveillance, but that is not the only way.  Another is by "
+"disconnecting its digital communication antennas, or switching them off."
+msgstr ""
+"Je protesterais si le thermostat envoyait à quelqu'un des données sur mes "
+"activités, quel que soit le moyen utilisé. Encore une fois, cela ne fait "
+"aucune différence que ce soit une puce spécialisée ou du code spécialisé. "
+"Avec du logiciel libre je pourrais arrêter cette surveillance, mais ce n'est "
+"pas le seul moyen. Un autre est de déconnecter les antennes de communication "
+"numérique, directement ou avec un interrupteur."
+
+#. type: Content of: <p>
+msgid ""
+"If the rocket contains software, releasing that as free software can be a "
+"contribution to the community, and we should appreciate that "
+"contribution&mdash;but that is a different issue.  Such release also makes "
+"it possible for people who have bought the rockets to work on improving the "
+"software in them, though the irreversible nature of many rocket failures may "
+"discourage tinkering."
+msgstr ""
+"Si une fusée contient du logiciel, la publication de ce dernier comme "
+"logiciel libre peut être une contribution à la communauté et nous devrions "
+"en être reconnaissants, mais c'est un autre sujet. Une telle publication "
+"donne aussi la possibilité aux acheteurs de fusées de travailler à "
+"l'amélioration du logiciel qu'elles contiennent, bien que dans ce cas la "
+"nature irréversible de beaucoup de pannes puisse décourager le bidouillage."
+
+#. type: Content of: <p>
+msgid ""
+"Given the experience of Tesla cars, which are full of surveillance and "
+"tracking malware that Tesla can change but the owner can't, I suppose SpaceX "
+"rockets have that too.  If someday rockets are sold like today's cars and "
+"tractors, <a href=\"/philosophy/free-software-even-more-important.html"
+"\">software in them would be unjust</a>, and it would <a href=\"/proprietary/"
+"proprietary.html\">probably be malware</a>.  If the manufacturer could "
+"install modified software in it but the owner could not, that too would be "
+"unjust.  People are starting to recognize this: look at the right-to-repair "
+"movement, which demands only the beginning of these freedoms (much less than "
+"freeing the car's software) and nonetheless faces a hard fight."
+msgstr ""
+"Étant donné ce qu'on sait des voitures Tesla, pleines de maliciels de "
+"surveillance et de pistage, modifiables par Tesla mais pas par "
+"l'utilisateur, je suppose que les fusées SpaceX en contiennent également. Si "
+"un jour les fusées étaient vendues comme les voitures et les tracteurs "
+"d'aujourd'hui, <a href=\"/philosophy/free-software-even-more-important.html"
+"\">leur logiciel serait inéquitable</a>, et <a href=\"/proprietary/"
+"proprietary.html\">probablement malveillant</a>. Les gens commencent à s'en "
+"rendre compte ; voyez le mouvement du droit à réparer, qui exige un embryon "
+"de liberté (beaucoup moins que de libérer le logiciel du véhicule) et "
+"pourtant affronte un dur combat."
+
+#. type: Content of: <p>
+msgid ""
+"However, I don't think SpaceX sells rockets; I think it provides the service "
+"of launching payloads in its own rockets.  That makes the issue totally "
+"different: if you are a customer, you're not operating the rocket; SpaceX is "
+"doing that."
+msgstr ""
+"Cependant, je ne pense pas que SpaceX vende des fusées ; je pense qu'elle "
+"fournit un service, à savoir le lancement de charges utiles dans ses propres "
+"fusées.  La question est donc totalement différente : si vous êtes le "
+"client, vous ne faites pas fonctionner la fusée ; c'est SpaceX qui le fait."
+
+#. type: Content of: <p>
+msgid ""
+"The rocket that SpaceX uses is not like your own car or van, or even a car "
+"or van leased to you.  Rather, it's comparable to a moving company's van "
+"that is, for the moment, transporting your books and furniture to your "
+"specified destination.  It is the moving company that deserves control over "
+"the software in that van&mdash;not the customer of the moment."
+msgstr ""
+"La fusée que SpaceX utilise n'est pas comme votre voiture ou votre "
+"camionnette, ni même comme une voiture ou un camion que vous auriez loué. "
+"Elle est plutôt comparable au camion d'une entreprise de déménagement qui, à "
+"ce moment précis, transporte vos livres et votre mobilier vers la "
+"destination que vous avez spécifiée. C'est à l'entreprise de déménagement "
+"que revient le contrôle du logiciel de ce camion, pas au client actuel."
+
+#. type: Content of: <p>
+msgid ""
+"It makes sense to treat the job of transporting your things to Outer "
+"Mongolia, or to outer space, as a service because the job is mostly self-"
+"contained and mostly independent of the customer (&ldquo;mostly&rdquo; does "
+"not mean &ldquo;absolutely&rdquo; or &ldquo;100%&rdquo;), so the "
+"instructions for the job are simple (take these boxes to address A by date "
+"D)."
+msgstr ""
+"Il est logique de traiter le transport de vos affaires vers la Mongolie "
+"extérieure ou vers l'espace comme un service, parce que c'est une tâche "
+"essentiellement autonome et indépendante du client (« essentiellement» ne "
+"veut pas dire « absolument » ni « à 100 % »), de sorte que les instructions "
+"qui la définissent sont simples (transporte ces caisses à l'adresse A pour "
+"la date D)."
+
+#. type: Content of: <p>
+msgid ""
+"But there is one kind of activity which should never be treated as a "
+"service: private computational activity.  That's because a private "
+"computational activity is exactly what you could do on your own computer in "
+"freedom, given suitable free software."
+msgstr ""
+"Mais il y a un type d'activité qui ne doit jamais être traité comme un "
+"service : l'activité informatique privée. Et ceci, parce que l'informatique "
+"privée est précisément ce que vous pouvez faire sur votre ordinateur "
+"personnel en toute liberté si vous avez le logiciel libre adéquat."
+
+#. type: Content of: <p>
+msgid ""
+"When a program's task is to do computing for you, you are entitled to demand "
+"control over what it does and how, not just that it obey your orders as it "
+"interprets them.  You are entitled, in other words, to use your own copy of "
+"a free program, running on a computer you control."
+msgstr ""
+"Quand un programme a pour tâche de faire de l'informatique pour vous, vous "
+"avez le droit d'exiger le contrôle de ce qu'il fait et des moyens qu'il "
+"emploie, et pas seulement qu'il obéisse à vos ordres en les interprétant à "
+"sa façon. Autrement dit, vous avez droit à votre propre copie d'un programme "
+"libre, à utiliser sur un ordinateur dont vous avez le contrôle."
+
+#. type: Content of: <p>
+msgid ""
+"No wonder there are companies that would like you to cede control over your "
+"computing activities to them, by labeling those activities as &ldquo;"
+"services&rdquo; to be done on their servers with programs that they "
+"control.  Even things as minutely directed by the user as text editing! This "
+"is a scheme to get you to substitute their power for your freedom.  We call "
+"that &ldquo;Service as a Software Substitute&rdquo;, SaaSS for short (see "
+"&ldquo;<a href=\"/philosophy/who-does-that-server-really-serve.html\">Who "
+"does that server really serve?</a>&rdquo;), and we reject it."
+msgstr ""
+"Rien d'étonnant qu'il y ait des entreprises pour souhaiter que vous leur "
+"cédiez le contrôle de vos activités informatiques, en les qualifiant de « "
+"services » à effectuer sur leurs serveurs avec des programmes qu'elles "
+"contrôlent – même des choses aussi minutieusement dirigées par l'utilisateur "
+"que l'écriture de texte ! C'est un stratagème pour vous amener à substituer "
+"leur pouvoir à votre liberté. Nous appelons cela « service se substituant au "
+"logiciel », SaaSS pour faire court (voir « <a href=\"/philosophy/who-does-"
+"that-server-really-serve.html\">Qui ce serveur sert-il réellement ?</a> »), "
+"et nous le refusons."
+
+#. type: Content of: <p>
+msgid ""
+"For instance, imagine a hypothetical SpaceX Smart Spaceship, which as a "
+"&ldquo;service&rdquo; wants to know all about your business so SpaceX "
+"servers can decide for you what cargoes to buy and sell on which planets.  "
+"That planning service would be SaaSS&mdash;therefore a dis-service.  Instead "
+"of using that dis-service, you should do that planning with your copy of "
+"free software on your own computer."
+msgstr ""
+"Par exemple, imaginez un hypothétique vaisseau spatial SpaceX intelligent "
+"qui, en tant que « service », veut tout connaître de votre entreprise pour "
+"que les serveurs de SpaceX puissent décider pour vous quelles marchandises "
+"acheter et vendre, et sur quelles planètes. Ce service de planification "
+"serait un SaaSS, donc un « dé-service » . Au lieu d'utiliser ce dé-service, "
+"faites votre planification avec votre copie d'un logiciel libre sur votre "
+"propre ordinateur."
+
+#. type: Content of: <p>
+msgid ""
+"SpaceX and others could then legitimately offer you the non-computational "
+"service of transporting cargoes, and you could use it sometimes; or you "
+"could choose some other method, perhaps to buy a spaceship and operate it "
+"yourself."
+msgstr ""
+"SpaceX et d'autres pourraient ainsi légitimement vous proposer le service "
+"non informatique consistant à transporter des cargaisons, et vous pourriez "
+"l'utiliser de temps en temps ; ou bien vous pourriez choisir une autre "
+"méthode, peut-être acheter un vaisseau spatial et l'exploiter vous-même."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Veuillez envoyer les requêtes concernant la FSF et GNU à <a href=\"mailto:"
+"gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>. Il existe aussi <a href=\"/contact/"
+"\">d'autres moyens de contacter</a> la FSF. Les liens orphelins et autres "
+"corrections ou suggestions peuvent être signalés à <a href=\"mailto:"
+"webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"Merci d'adresser vos commentaires sur cette page et sur les traductions en "
+"général à <a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu."
+"org&gt;</a>. Si vous souhaitez y contribuer, vous trouverez dans le <a href="
+"\"/server/standards/README.translations.html\">guide de traduction</a> les "
+"infos nécessaires."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2020 Richard Stallman"
+msgstr "Copyright &copy; 2020 Richard Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Cette page peut être utilisée suivant les conditions de la licence <a rel="
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduction : Thérèse Godefroy<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
+"april.org\">trad-gnu&#64;april.org</a>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Dernière mise à jour :"
