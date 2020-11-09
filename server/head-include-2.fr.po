@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: master.fr.po\n"
-"POT-Creation-Date: 2020-04-14 13:41+0200\n"
+"POT-Creation-Date: 2020-11-09 22:25+0000\n"
 "PO-Revision-Date: 2017-11-16 14:15+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -22,16 +22,3 @@ msgstr ""
 #. type: Attribute 'content' of: <meta>
 msgid "width=device-width, initial-scale=1"
 msgstr "width=device-width, initial-scale=1"
-
-#. type: Content of: <style>
-#, no-wrap
-msgid ""
-"@media (min-width: 0) {\n"
-"   a#more-links:after { content: \"More\\00A0\\002B9F\"; }\n"
-"   a#less-links:after { content: \"\\002B9D\"; }\n"
-"}\n"
-msgstr ""
-"@media (min-width: 0) {\n"
-"   a#more-links:after { content: \"Suite\\00A0\\002B9F\"; }\n"
-"   a#less-links:after { content: \"\\002B9D\"; }\n"
-"}\n"

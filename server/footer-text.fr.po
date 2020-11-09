@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: footer-text.html\n"
-"POT-Creation-Date: 2020-04-13 16:42+0200\n"
-"PO-Revision-Date: 2019-02-17 11:02+0100\n"
+"POT-Creation-Date: 2020-11-09 22:25+0000\n"
+"PO-Revision-Date: 2020-11-09 23:44+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -20,12 +20,12 @@ msgstr ""
 "X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <div><div>
-msgid "<a href=\"#\" class=\"close\"></a>"
-msgstr "<a href=\"#\" class=\"close\"></a>"
+msgid "<a href=\"#top\"><b>&#11165;</b></a>"
+msgstr "<a href=\"#top\"><b>&#11165;</b></a>"
 
-#. type: Content of: <div><div>
-msgid "<a href=\"#header\"><span>BACK TO TOP </span>&#11165;</a>"
-msgstr "<a href=\"#header\"><span>RETOUR </span>&#11165;</a>"
+#. type: Content of: <div><div><div>
+msgid "<a href=\"#top\" class=\"close\"><span>BACK TO TOP</span></a>"
+msgstr "<a href=\"#top\" class=\"close\"><span>RETOUR</span></a>"
 
 #. #echo encoding="none" var="language_selector" 
 #. type: Content of: <div><div><div>
@@ -35,6 +35,10 @@ msgstr "Spécifier la langue"
 #. type: Content of: <div><div><p>
 msgid "Available for this page:"
 msgstr "Disponibles pour cette page:"
+
+#. type: Content of: <div><div>
+msgid "<a href=\"#header\"><span>BACK TO TOP </span>&#11165;</a>"
+msgstr "<a href=\"#header\"><span>RETOUR </span>&#11165;</a>"
 
 #. type: Content of: <div><blockquote><p><a>
 msgid "<a href=\"//www.fsf.org\">"

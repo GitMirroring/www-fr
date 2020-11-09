@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-2.html\n"
-"POT-Creation-Date: 2020-04-09 10:29+0200\n"
-"PO-Revision-Date: 2019-07-19 12:52+0200\n"
+"POT-Creation-Date: 2020-11-09 22:25+0000\n"
+"PO-Revision-Date: 2020-11-09 23:44+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -21,11 +21,12 @@ msgstr ""
 
 #. type: Content of: <div>
 msgid ""
-"<a id=\"more-links\" href=\"#navigation\"></a> <a id=\"less-links\" href="
-"\"#tabAboutGNU\"></a>"
+"<a id=\"more-links\" href=\"#navigation\" title=\"More...\"> <span>Site "
+"navigation</span></a> <a id=\"less-links\" href=\"#content\"><b>Skip</b></a>"
 msgstr ""
-"<a id=\"more-links\" href=\"#navigation\"></a> <a id=\"less-links\" href="
-"\"#tabAboutGNU\"></a>"
+"<a id=\"more-links\" href=\"#navigation\" title=\"Suite...\"> <span>Naviguer "
+"sur le site</span></a> <a id=\"less-links\" href=\"#content\"><b>Sauter le "
+"menu</b></a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"/gnu/gnu.html\">ABOUT&nbsp;GNU</a>"
