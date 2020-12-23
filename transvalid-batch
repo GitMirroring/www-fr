@@ -171,6 +171,12 @@ function create_valid_list () {
   esac
 }
 
+function update_po_header () {
+# updates the revision date.
+  date=$(date +'%F %R%z')
+  sed -i "s,\\(Revision-Date: \\).*,\\1$date\\\\n\"," "$1"
+}
+
 function select_message () {
 # lets the user select a message from the configuration file.
   echo -e "    Please select a commit message:
@@ -229,6 +235,7 @@ if [ ! -s "$valid_list" ]; then
 else
   while read po; do
     transvalid-po "$teamdir/$po" || batch_exit_code=$?
+    update_po_header "$teamdir/$po"
   done < "$valid_list"
 
 ## Evaluate the result
