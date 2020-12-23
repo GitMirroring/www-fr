@@ -141,7 +141,7 @@ fi
 
 # Do not delete obsolete messages and Outdated-Since by default.
 # TODO: split this into 2 functions?
-delobs=1
+delobs=0
 
 # Parse the command line.
 OPTIND=1
@@ -209,9 +209,14 @@ EOF
   fi
 
   # If this is a templated page, add missing tags and inactivate SSIs.
-  if grep "server/banner.html" "$2" > /dev/null; then
-    sed -i -e '/server\/banner\.html"/c</head><body><div><div>' \
-           -e 's/<!--#/<!-- /g' "$2"
+  if grep 'include virtual="/server/banner\.' "$2" > /dev/null; then
+    if grep '<div class="nav">' "$2" > /dev/null; then
+      sed -i -e '/virtual="\/server\/banner\./c</head><body><div>' \
+             -e 's/<!--#/<!-- /g' "$2"
+    else
+      sed -i -e '/virtual="\/server\/banner\./c</head><body><div><div>' \
+             -e 's/<!--#/<!-- /g' "$2"
+    fi
   # If this is an include or something similar, add missing tags.
   else
     sed -i -e '/charset=utf-8" \/>/ a<title></title></head><body>' \
@@ -308,9 +313,10 @@ fi
 
 if [ "${poname}" != "proprietary/$lang.po" ]; then
 
-  # Merge with fr.po if the file is in proprietary/. This assumes that fr.po
-  # will be updated.
-  if [[ "$poname" =~ 'proprietary' ]] && [ -n $MSMERGE ]; then 
+  # Merge with lang.po if the file is in proprietary/. This assumes that
+  # lang.po will be updated.
+  if [[ "$poname" =~ 'proprietary/' ]] && [ -n "$MSGMERGE" ] \
+  && [ -f "proprietary/$lang.po" ]; then 
     sed -n '1,/^#. type: Content of: <title>/p' $po > $top 
     $MSGMERGE -N -C ${po%/*.*.po}/$lang.po /dev/null $po -o $merged 
     sed -i '1,/^#. type: Content of:/d' $merged
@@ -378,7 +384,9 @@ if test "$delobs" == "1"; then
   delete_obsolete "$po"
 fi
 
-update_po_header "$po"
+# The PO header is updated in transvalid-batch. Uncomment if updating a
+# single PO. Leave commented out if transvalid-po is used for validation only.
+#update_po_header "$po"
 
 test "$exit_code" == "0" && echo "    OK"
 
