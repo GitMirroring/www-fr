@@ -31,8 +31,8 @@
 #
 #    Requirement:
 #      xhtml1-strict.dtd and html5.dtd are assumed to be in the same directory
-#      as the script. Otherwise, specify their absolute path under “Parameters”
-#      (without a trailing slash).
+#      as the script. Otherwise, specify their absolute path under
+#      “Dependencies”.
 #
 #    Functions:
 #    * a simplified header and the missing tags are added to the original
@@ -62,7 +62,7 @@ set -o pipefail
 function version () {
 cat <<EOF
 ${0##*\/} version 0.2
-Copyright (C) 2013, 2015, 2016, 2019 Thérèse Godefroy
+Copyright (C) 2013, 2015, 2016, 2019, 2020 Thérèse Godefroy
 You may redistribute and/or modify this script under
 the terms of the GNU General Public License, v.3+
 (because it borrows from GNUN, which is under GPLv3+).
