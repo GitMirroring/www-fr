@@ -210,6 +210,7 @@ EOF
 
   # If this is a templated page, add missing tags and inactivate SSIs.
   if grep 'include virtual="/server/banner\.' "$2" > /dev/null; then
+    # Special case of pages with a side menu.
     if grep '<div class="nav">' "$2" > /dev/null; then
       sed -i -e '/virtual="\/server\/banner\./c</head><body><div>' \
              -e 's/<!--#/<!-- /g' "$2"
@@ -311,6 +312,8 @@ else
   lang=${lang##*/}
 fi
 
+exit_code=0
+
 if [ "${poname}" != "proprietary/$lang.po" ]; then
 
   # Merge with lang.po if the file is in proprietary/. This assumes that
@@ -323,7 +326,6 @@ if [ "${poname}" != "proprietary/$lang.po" ]; then
     cat $top $merged > $po
   fi
 
-  exit_code=0
   check_fuzz "$po" || exit_code=$?
 
   ## Get the original HTML.
