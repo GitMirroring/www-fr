@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-encyclopedia.html\n"
-"POT-Creation-Date: 2021-01-01 15:25+0000\n"
-"PO-Revision-Date: 2021-01-02 21:36+0100\n"
+"POT-Creation-Date: 2021-01-04 19:55+0000\n"
+"PO-Revision-Date: 2021-01-04 21:06+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -25,31 +25,33 @@ msgstr ""
 "Encyclopédie universelle et ressources pédagogiques libres - Projet GNU - "
 "Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "The Free Universal Encyclopedia and Learning Resource"
 msgstr "Encyclopédie universelle et ressources pédagogiques libres"
 
-#. type: Attribute 'alt' of: <img>
+#. type: Attribute 'alt' of: <div><img>
 msgid "[Encyclopedia logo]"
 msgstr " [Logo de l'Encyclopédie]"
 
-#. type: Content of: <h3>
-msgid "<a href=\"/encyclopedia/anencyc.txt\">Announcement of the Project</a>"
-msgstr "<a href=\"/encyclopedia/anencyc.txt\">Annonce du projet</a>"
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "par Richard Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"See the <a href=\"/encyclopedia/free-encyclopedia-1998-draft.html\">first "
-"draft</a>"
+"<a href=\"/encyclopedia/free-encyclopedia-1998-draft.html\">First draft</a>"
 msgstr ""
 "<a href=\"/encyclopedia/free-encyclopedia-1998-draft.html\">Première "
 "version</a>"
 
-#. type: Content of: <p>
-msgid "by <strong>Richard Stallman</strong>"
-msgstr "par <strong>Richard Stallman</strong>"
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"/encyclopedia/encyclopedia-announcement.txt\">Announcement of the "
+"Project</a>"
+msgstr ""
+"<a href=\"/encyclopedia/encyclopedia-announcement.txt\">Annonce du projet</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The World Wide Web has the potential to develop into a universal "
 "encyclopedia covering all areas of knowledge, and a complete library of "
@@ -68,7 +70,7 @@ msgstr ""
 "l'accès aux ressources pédagogiques, de manière à soutirer le plus d'argent "
 "possible aux gens qui veulent s'instruire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To ensure that the web develops toward the best and most natural outcome, "
 "where it becomes a free encyclopedia, we must make a conscious effort to "
@@ -92,7 +94,7 @@ msgstr ""
 "L'encyclopédie libre sera une alternative aux encyclopédies bardées de "
 "restrictions qu'écrira l'industrie des médias."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The rest of this article aims to lay out what the free encyclopedia needs to "
 "do, what sort of freedoms it needs to give the public, and how we can get "
@@ -102,11 +104,11 @@ msgstr ""
 "devra faire, quelles sortes de libertés elle aura besoin de donner au public "
 "et comment nous pouvons initier son développement."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><div><h3>
 msgid "An encyclopedia located everywhere."
 msgstr "Une encyclopédie délocalisée."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In the past, encyclopedias have been written under the direction of a single "
 "organization, which made all decisions about the content, and have been "
@@ -122,7 +124,7 @@ msgstr ""
 "conviendrait pas à la nature du World Wide Web ni aux ressources disponibles "
 "pour écrire l'encyclopédie."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The free encyclopedia will not be published in any one place.  It will "
 "consist of all web pages that cover suitable topics, and have been made "
@@ -140,11 +142,11 @@ msgstr ""
 "web. Il n'y aura pas d'organisation unique pour superviser l'ensemble parce "
 "que ce serait incompatible avec un progrès décentralisé."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><div><h3>
 msgid "Who will write the encyclopedia?"
 msgstr "Qui écrira l'encyclopédie ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In principle, anyone is welcome to write articles for the encyclopedia.  But "
 "as we reach out for people to help, the most promising places to look are "
@@ -161,11 +163,11 @@ msgstr ""
 "étudiants, un exposé important écrit pour un cours pourrait devenir un "
 "article d'encyclopédie, s'il était particulièrement bon."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><div><h3>
 msgid "Small steps will do the job."
 msgstr "Le travail se fera petit à petit."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "When a project is exciting, it is easy to imagine a big contribution that "
 "you would like to make, bite off more than you can chew, and ultimately give "
@@ -175,7 +177,7 @@ msgstr ""
 "contribution qu'on voudrait lui apporter, d'avoir les yeux plus gros que le "
 "ventre, et en fin de compte d'abandonner sans avoir rien accompli."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "So it is important to welcome and encourage smaller contributions.  Writing "
 "a textbook for a whole semester's material is a big job, and only a small "
@@ -192,11 +194,11 @@ msgstr ""
 "d'entre eux. Avec un nombre suffisant de ces petites contributions, on "
 "couvrira toute l'étendue de la connaissance."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><div><h3>
 msgid "Take the long view."
 msgstr "Ayons une vision à long terme."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The encyclopedia is a big job, and it won't be finished in a year.  If it "
 "takes twenty years to complete the free encyclopedia, that will be but an "
@@ -206,7 +208,7 @@ msgstr ""
 "vingt ans pour terminer l'encyclopédie libre, ce ne sera qu'un instant dans "
 "l'histoire de la littérature et de la civilisation."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In projects like this, progress is slow for the first few years; then it "
 "accelerates as the work that has been done attracts more and more people to "
@@ -225,7 +227,7 @@ msgstr ""
 "être fait, puis d'intéresser un large public au but à long terme pour donner "
 "à d'autres l'idée de se joindre au projet."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This means that the pioneers' job, in the early years, is above all to be "
 "steadfast.  We must be on guard against downgrading to a less useful, less "
@@ -242,11 +244,11 @@ msgstr ""
 "confiance dans leur aptitude à inciter un nombre croissant de contributeurs "
 "à nous rejoindre pour terminer le travail."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><div><h3>
 msgid "Evangelize."
 msgstr "Faisons du prosélytisme."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Since we hope that teachers and students at many colleges around the world "
 "will join in writing contributions to the free encyclopedia, let's not leave "
@@ -262,11 +264,11 @@ msgstr ""
 "enseignants, expliquons l'idée d'encyclopédie libre et invitons les autres à "
 "nous rejoindre pour l'écrire."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><div><h3>
 msgid "What should the free encyclopedia contain?"
 msgstr "Que devra contenir l'encyclopédie libre ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The free encyclopedia should aim eventually to include one or more articles "
 "for any topic you would expect to find in another encyclopedia.  In "
@@ -291,7 +293,7 @@ msgstr ""
 "article sur chaque espèce d'oiseau, avec des photos et des enregistrements "
 "de son chant."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "However, only some kinds of information belong in an encyclopedia.  For "
 "example, scholarly papers, detailed statistical data bases, news reports, "
@@ -306,7 +308,7 @@ msgstr ""
 "qu'ayant leur utilité, sont hors du champ encyclopédique (quelques-uns des "
 "articles pourraient utilement comporter des liens vers ces travaux)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Courses in the learning resource are a generalization to hypertext of the "
 "textbooks used for teaching a subject to yourself or to a class.  The "
@@ -332,7 +334,7 @@ msgstr ""
 "tous les niveaux pertinents, ce qui dans certains cas peut aller du cours "
 "préparatoire au troisième cycle universitaire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "A useful encyclopedia article will address a specific topic at a particular "
 "level, and each author will contribute mainly by focusing on an area that he "
@@ -349,11 +351,11 @@ msgstr ""
 "fermement tout essai de poser des limites artificielles, que ce soit à la "
 "portée ou au statut libre de l'encyclopédie."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><div><h3>
 msgid "Criteria pages must meet."
 msgstr "Quels critères les pages doivent-elles respecter ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To ensure this encyclopedia is indeed a free and universal encyclopedia, we "
 "must set criteria of freeness for encyclopedia articles and courses to meet."
@@ -362,7 +364,7 @@ msgstr ""
 "universelle, nous devons établir des critères de liberté que les articles "
 "encyclopédiques et les cours devront respecter."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Conventional non-free encyclopedias published by companies such as Microsoft "
 "will surely be made available on the web, sooner or later&mdash;but you will "
@@ -379,7 +381,7 @@ msgstr ""
 "par le biais d'une bureaucratie informatisée, nous n'avons qu'à laisser les "
 "entreprises la distribuer."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "But if we want to keep human knowledge open and freely available to "
 "humanity, we have to do the work to make it available that way.  We have to "
@@ -395,11 +397,11 @@ msgstr ""
 "encyclopédie sur Internet. Nous devons décider quels sont les critères "
 "définissant une encyclopédie libre et des ressources pédagogiques libres."
 
-#. type: Content of: <h5>
+#. type: Content of: <div><div><h4>
 msgid "Permit universal access."
 msgstr "Autoriser l'accès universel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The free encyclopedia should be open to public access by everyone who can "
 "gain access to the web.  Those who seek to gain control over educational "
@@ -418,11 +420,11 @@ msgstr ""
 "Nous ne sommes pas pressés ; cela n'a aucun sens d'arriver au mauvais "
 "endroit quelques années plus tôt."
 
-#. type: Content of: <h5>
+#. type: Content of: <div><div><h4>
 msgid "Permit mirror sites."
 msgstr "Autoriser les sites miroirs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "When information is available on the web only at one site, its availability "
 "is vulnerable.  A local problem&mdash;a computer crash, an earthquake or "
@@ -441,7 +443,7 @@ msgstr ""
 "l'encyclopédie soit disponible sur de nombreux sites Internet, et que de "
 "nouvelles copies puissent être mises en ligne si certaines disparaissent."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "There is no need to set up an organization or a bureaucracy to do this, "
 "because Internet users like to set up &ldquo;mirror sites&rdquo; which hold "
@@ -454,7 +456,7 @@ msgstr ""
 "web intéressantes. Ce que nous devons faire à l'avance, c'est de garantir "
 "que c'est légal."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Therefore, each encyclopedia article and each course should explicitly grant "
 "irrevocable permission for anyone to make verbatim copies available on "
@@ -467,7 +469,7 @@ msgstr ""
 "miroirs. Cette autorisation doit être posée comme l'un des principes "
 "fondamentaux de l'encyclopédie libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Some day there may be systematic efforts to ensure that each article and "
 "course is replicated in many copies&mdash;perhaps at least once on each of "
@@ -485,11 +487,11 @@ msgstr ""
 "suffit pour l'instant de s'assurer que les gens auront la permission de "
 "mettre en place des miroirs quand ils en trouveront l'occasion."
 
-#. type: Content of: <h5>
+#. type: Content of: <div><div><h4>
 msgid "Permit translation into other languages."
 msgstr "Autoriser la traduction en d'autres langues."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "People will have a use for encyclopedia material on each topic in every "
 "human language.  But the primary language of the Internet&mdash;as of the "
@@ -504,7 +506,7 @@ msgstr ""
 "les contributions à l'encyclopédie, et que c'est d'abord en anglais que "
 "l'encyclopédie approchera de l'exhaustivité."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Trying to fight this tendency would be self-defeating.  The easier way to "
 "make the encyclopedia available in all languages is by encouraging one "
@@ -517,7 +519,7 @@ msgstr ""
 "personne. De cette façon, chaque article peut être traduit en de nombreuses "
 "langues."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "But if this requires explicit permission, it will be too difficult.  "
 "Therefore, we must adopt a basic rule that anyone is permitted to publish an "
@@ -532,7 +534,7 @@ msgstr ""
 "chaque cours doit comporter une déclaration donnant la permission de le "
 "traduire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To ensure accuracy of translation, the author of the original should reserve "
 "the right to insist on corrections in a translation.  A translator should "
@@ -548,7 +550,7 @@ msgstr ""
 "la première fois. Ensuite le traducteur devra continuer à faire les "
 "corrections requises par l'auteur, quand ce dernier les demandera."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In time, as the number of people involved in encyclopedia activity "
 "increases, contributors may form Translation Accuracy Societies for various "
@@ -568,11 +570,11 @@ msgstr ""
 "vérificateurs séparées des traducteurs effectifs, pour que chaque traduction "
 "soit vérifiée par quelqu'un d'autre que le traducteur."
 
-#. type: Content of: <h5>
+#. type: Content of: <div><div><h4>
 msgid "Permit quotation with attribution."
 msgstr "Autoriser les citations avec attribution de paternité."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Each encyclopedia article or course should permit anyone to quote arbitrary "
 "portions in another encyclopedia article or course, provided proper "
@@ -585,7 +587,7 @@ msgstr ""
 "appropriée. Cela permettra de se baser sur le travail que d'autres auront "
 "fait, sans avoir besoin de le refaire complètement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Different authors may&mdash;if they care&mdash;set different rules for what "
 "constitutes proper attribution to them; that is ok.  As long as the rules "
@@ -598,11 +600,11 @@ msgstr ""
 "particulière ne seront pas déraisonnables ni impraticables, elles ne "
 "poseront pas problème."
 
-#. type: Content of: <h5>
+#. type: Content of: <div><div><h4>
 msgid "Permit modified versions of courses."
 msgstr "Autoriser les versions modifiées des cours."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Courses must evolve, and the original authors won't keep working on them "
 "forever.  And teachers will want to adapt course materials to their own "
@@ -619,7 +621,7 @@ msgstr ""
 "que de dire aux professeurs : « Écrivez le vôtre à partir de rien si vous "
 "voulez modifier ceci. »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Therefore, modifying an existing course must be permitted; each course "
 "should carry a statement giving permission to publish a modified version."
@@ -628,7 +630,7 @@ msgstr ""
 "doit comporter une déclaration donnant la permission de publier une version "
 "modifiée."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "It makes sense to require modified versions to carry proper attribution "
 "giving credit to the authors of the previous version, and be labelled "
@@ -640,17 +642,17 @@ msgstr ""
 "clairement comme étant modifiées pour qu'il n'y ait pas de confusion sur la "
 "personne dont elles présentent le point de vue."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The GNU Free Documentation License would be a good license to use for "
 "courses."
 msgstr "La licence GNU de documentation libre conviendrait pour les cours."
 
-#. type: Content of: <h5>
+#. type: Content of: <div><div><h4>
 msgid "Permit modified versions of pictures and videos, for courses."
 msgstr "Autoriser les versions modifiées des images et vidéos, pour les cours."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Pictures and videos, both drawn and photographic, will play an important "
 "role in many courses.  Modifying these pictures and videos will be "
@@ -667,7 +669,7 @@ msgstr ""
 "Utiliser de fausses couleurs peut aider à rendre plus visibles certains "
 "détails. La retouche d'image est également possible."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Beyond that, an altered version of a picture could illustrate a different "
 "but related idea.  You could start with a diagram useful for one theorem in "
@@ -679,7 +681,7 @@ msgstr ""
 "qui s'applique à un théorème de géométrie pour obtenir un diagramme qui "
 "s'applique à un autre théorème."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Permission to modify pictures and videos is particularly important because "
 "the alternative, to make your own picture or video from scratch, is often "
@@ -694,7 +696,7 @@ msgstr ""
 "vue sur certains faits, mais faire la même chose avec une image n'est pas "
 "praticable."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Of course, modified versions of pictures and videos should be labeled as "
 "modified, to prevent misattribution of their contents, and should give "
@@ -704,11 +706,11 @@ msgstr ""
 "étiquetées comme modifiées pour éviter de se tromper sur la paternité de "
 "leur contenu, et doivent donner crédit à l'original de manière appropriée."
 
-#. type: Content of: <h5>
+#. type: Content of: <div><div><h4>
 msgid "Only free software in the encyclopedia."
 msgstr "Uniquement du logiciel libre dans l'encyclopédie."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Articles, and especially courses, will often include software&mdash;for "
 "example, to display a simulation of a chemical reaction, or teach you how "
@@ -725,11 +727,11 @@ msgstr ""
 "free-sw.html\">logiciel libre</a> et de <a href=\"http://www.opensource.org"
 "\">logiciel open source</a>."
 
-#. type: Content of: <h5>
+#. type: Content of: <div><div><h4>
 msgid "No central control."
 msgstr "Pas de contrôle centralisé."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "People often suggest that &ldquo;quality control&rdquo; is essential for an "
 "encyclopedia, and ask what sort of &ldquo;governing board&rdquo; will decide "
@@ -742,7 +744,7 @@ msgstr ""
 "« Aucun. » Nous ne pouvons pas nous permettre de laisser quiconque avoir un "
 "tel contrôle."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If the free encyclopedia is a success, it will become so ubiquitous and "
 "important that we dare not allow any organization to decide what counts as "
@@ -755,7 +757,7 @@ msgstr ""
 "aurait trop de pouvoir ; les gens chercheraient à la politiser ou à la "
 "corrompre et pourraient facilement y arriver."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The only solution to that problem is not to have any such organization, and "
 "reject the idea of centralized quality control.  Instead, we should let "
@@ -770,7 +772,7 @@ msgstr ""
 "considérer comme un article. Si la page remplit les critères d'un cours, "
 "alors nous pouvons la considérer comme un cours."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "But what some pages are erroneous, or even deceptive? We cannot assume this "
 "won't happen.  But the corrective is for other articles to point out the "
@@ -788,11 +790,11 @@ msgstr ""
 "propres actions. Dans un monde où personne n'est infaillible, c'est le mieux "
 "que nous puissions faire."
 
-#. type: Content of: <h5>
+#. type: Content of: <div><div><h4>
 msgid "Encourage peer review and endorsements."
 msgstr "Encourager l'évaluation par les pairs et les approbations."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "There will be no single organization in charge of what to include in the "
 "encyclopedia or the learning resource, no one that can be lobbied to exclude "
@@ -812,7 +814,7 @@ msgstr ""
 "cautionne ou qui a évalué la version du sujet présentée dans un article "
 "donné."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In fields such as science, engineering, and history, there are formal "
 "standards of peer review.  We should encourage authors of articles and "
@@ -827,7 +829,7 @@ msgstr ""
 "qui consiste à demander à des spécialistes respectés de la discipline la "
 "permission de citer leur approbation dans l'article ou le cours."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "A peer-review endorsement applies to one version of a work, not to modified "
 "versions.  Therefore, when a course has peer-review endorsements, it should "
@@ -842,11 +844,11 @@ msgstr ""
 "(l'auteur de la version modifiée sera libre de solliciter de nouvelles "
 "approbations pour sa version)."
 
-#. type: Content of: <h5>
+#. type: Content of: <div><div><h4>
 msgid "No catalogue, yet."
 msgstr "Pas de catalogue pour le moment."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "When the encyclopedia is well populated, catalogues will be very important.  "
 "But we should not try to address the issue of cataloguing now, because it is "
@@ -865,7 +867,7 @@ msgstr ""
 "catalogue. À ce moment-là, suffisamment de gens seront intéressés par "
 "l'encyclopédie pour fournir la main-d'œuvre nécessaire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Since no one organization will be in charge of the encyclopedia, there "
 "cannot be one authoritative catalogue.  Instead, anyone will be free to make "
@@ -878,7 +880,7 @@ msgstr ""
 "libre d'évaluer un article. Les « catalogueurs » gagneront le respect en "
 "fonction de leurs décisions."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Encyclopedia pages will surely be listed in ordinary web search sites, and "
 "perhaps those are the only catalogues that will be needed.  But true "
@@ -891,7 +893,7 @@ msgstr ""
 "redistribution, la traduction et la modification – c'est-à-dire que les "
 "critères des cours devront s'appliquer également aux catalogues."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "What can usefully be done from the beginning is to report new encyclopedia "
 "articles to a particular site, which can record their names as raw material "
@@ -904,11 +906,11 @@ msgstr ""
 "jour où des gens commenceront à les écrire. Au début, nous utiliserons pour "
 "cela http://www.gnu.org/encyclopedia."
 
-#. type: Content of: <h5>
+#. type: Content of: <div><div><h4>
 msgid "Making links to other pages."
 msgstr "Faire des liens vers les autres pages."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The last and most important rule for pages in the encyclopedia is the "
 "exclusionary rule:"
@@ -916,7 +918,7 @@ msgstr ""
 "Et enfin, la règle la plus importante pour les pages d'encyclopédie est la "
 "règle d'exclusion :"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><blockquote><p>
 msgid ""
 "If a page on the web covers subject matter that ought to be in the "
 "encyclopedia or the course library, but its license is too restricted to "
@@ -928,7 +930,7 @@ msgstr ""
 "satisfaire à nos critères, nous ne devons pas la mettre en lien dans "
 "l'encyclopédie ni les cours."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This rule will make sure we respect our own rules, in the same way that the "
 "exclusionary rule for evidence is supposed to make police respect their own "
@@ -940,7 +942,7 @@ msgstr ""
 "à respecter ses propres règles : en nous interdisant de traiter un ouvrage "
 "qui ne remplit pas les critères comme s'il les remplissait effectivement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The idea of the World Wide Web is that links tie various separate pages into "
 "a larger whole.  So when encyclopedia articles or courses link to a certain "
@@ -959,7 +961,7 @@ msgstr ""
 "nos actions en n'incorporant pas dans notre réseau de pages celles qui ne "
 "correspondent pas à ces critères."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "When a topic ought to be covered in the encyclopedia or with a course, but "
 "it isn't, we must make sure we don't forget that we have a gap.  The "
@@ -978,7 +980,7 @@ msgstr ""
 "faire partie de l'encyclopédie. Et l'un d'entre nous finira bien par faire "
 "le travail."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "On the other hand, many web pages cover material that wouldn't normally be "
 "included in an encyclopedia&mdash;for example, scholarly papers, detailed "
@@ -998,7 +1000,7 @@ msgstr ""
 "donc pas nécessaire de leur appliquer les critères de l'encyclopédie pour "
 "les mettre en lien."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To produce a complete encyclopedia which satisfies the principles of freedom "
 "stated here will take a long time, but we will get it done eventually&mdash;"
@@ -1012,11 +1014,11 @@ msgstr ""
 "l'objectif de vue et de nous contenter de moins. La règle d'exclusion est "
 "une assurance que nous irons jusqu'au bout."
 
-#. type: Content of: <h5>
+#. type: Content of: <div><div><h4>
 msgid "Uphold the freedom to contribute."
 msgstr "Faire respecter la liberté de contribuer."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "As education moves on-line and is increasingly commercialized, teachers are "
 "in danger of losing even the right to make their work freely available to "
@@ -1036,7 +1038,7 @@ msgstr ""
 "revendiquent la propriété de toute la documentation mise en ligne sur les "
 "sites web de l'université."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "It will be up to professors to resist this tendency.  But there is more than "
 "one way to do so.  The most obvious basis for objection is to say, &ldquo;I "
@@ -1052,7 +1054,7 @@ msgstr ""
 "place les professeurs au même niveau moral d'égoïsme que l'université, de "
 "sorte qu'aucune des parties n'a l'avantage moral dans la discussion."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If, on the other hand, professors say, &ldquo;I want to be able to make my "
 "work fully available to the public without restriction,&rdquo; they occupy "
@@ -1065,7 +1067,7 @@ msgstr ""
 "se dressant contre le public, contre l'acquisition du savoir et contre "
 "l'érudition."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Resisting the selling of the university will not be easy.  Professors had "
 "better make use of any advantage they can find&mdash;especially moral "
@@ -1075,7 +1077,7 @@ msgstr ""
 "professeurs ont intérêt à se servir de tous les avantages dont ils peuvent "
 "disposer, notamment les avantages moraux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Two other points that will help are that (1) a few prestigious universities "
 "will probably gobble up most of the commercial business, so other "
@@ -1091,11 +1093,11 @@ msgstr ""
 "va probablement pousser les universités d'élite elles-mêmes hors des niches "
 "les plus lucratives de ce marché."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><div><h3>
 msgid "Spread the word."
 msgstr "Faites passer le mot."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "When you post a potential encyclopedia article or a course, you can "
 "reference this plan if you wish, to help spread the word and inspire others "
@@ -1105,16 +1107,16 @@ msgstr ""
 "vous pouvez vous référer à ce projet si vous le souhaitez, pour aider à "
 "passer le mot et donner à d'autres l'idée d'apporter leur aide."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Works in Progress"
 msgstr "Travaux en cours."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Here is a small (and probably incomplete) list of free encyclopedias:"
 msgstr ""
 "Voici une petite liste (probablement incomplète) des encyclopédies libres :"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"http://www.wikipedia.org/\">Wikipedia</a>"
 msgstr "<a href=\"http://www.wikipedia.org/\">Wikipédia</a>"
 
@@ -1144,24 +1146,21 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
-"Nous faisons le maximum pour proposer des traductions fidèles et de bonne "
-"qualité, mais nous ne sommes pas parfaits. Merci d'adresser vos commentaires "
-"sur cette page, ainsi que vos suggestions d'ordre général sur les "
-"traductions, à <a href=\"mailto:web-translators@gnu.org\"> &lt;web-"
-"translators@gnu.org&gt;</a>.</p>\n"
-"<p>Pour tout renseignement sur la coordination et la soumission des "
-"traductions de nos pages web, reportez-vous au <a href=\"/server/standards/"
-"README.translations.html\">guide de traduction</a>."
+"Merci d'adresser vos commentaires sur cette page et sur les traductions en "
+"général à <a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu."
+"org&gt;</a>. Si vous souhaitez y contribuer, vous trouverez dans le <a href="
+"\"/server/standards/README.translations.html\">guide de traduction</a> les "
+"infos nécessaires."
 
 #. type: Content of: <div><p>
 msgid ""
