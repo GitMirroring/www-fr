@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: license-list.html\n"
-"POT-Creation-Date: 2020-05-07 19:55+0000\n"
-"PO-Revision-Date: 2020-12-06 14:03+0100\n"
+"POT-Creation-Date: 2021-01-08 15:55+0000\n"
+"PO-Revision-Date: 2021-01-08 17:08+0100\n"
 "Last-Translator: Thérèse godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -1193,11 +1193,11 @@ msgstr ""
 "compatibilité indirecte avec la GNU GPL version 2.0, la GNU LGPL "
 "version 2.1, la GNU AGPL version 3, ainsi que toutes les versions "
 "ultérieures de ces licences. Quand vous recevez un programme sous MPL "
-"version 2.0, vous pouvez faire une « création plus vaste » <cite>[Larger "
-"Work]</cite> qui combine ce programme avec du code régi par une des licences "
-"GNU précitées. Quand vous le faites, le paragraphe 3.3 vous donne la "
-"permission de distribuer le programme régi par la MPL sous les termes de la "
-"même licence GNU, à une condition : vous devez vous assurer que les fichiers "
+"version 2.0, vous pouvez faire une « création plus vaste » <i>[Larger Work]</"
+"i> qui combine ce programme avec du code régi par une des licences GNU "
+"précitées. Quand vous le faites, le paragraphe 3.3 vous donne la permission "
+"de distribuer le programme régi par la MPL sous les termes de la même "
+"licence GNU, à une condition : vous devez vous assurer que les fichiers "
 "initialement sous MPL restent disponibles sous les termes de la MPL. "
 "Autrement dit, quand vous faites une combinaison de cette sorte, les "
 "fichiers qui étaient initialement sous MPL auront deux licences : la MPL et "
@@ -1246,8 +1246,8 @@ msgstr ""
 "création plus vaste de cette manière. Ceux qui publient le programme "
 "original sous la MPL 2.0 peuvent choisir de ne pas faire usage de cette "
 "compatibilité en ajoutant une phrase dans les avis de licence, disant que "
-"« cette création est incompatible avec les licences secondaires » <cite>[the "
-"work is &ldquo;Incompatible With Secondary Licenses&rdquo;]</cite>. Tout "
+"« cette création est incompatible avec les licences secondaires » <i>[the "
+"work is &ldquo;Incompatible With Secondary Licenses&rdquo;]</i>. Tout "
 "logiciel qui inclut cet avis <strong>n'est pas</strong> compatible avec la "
 "GPL et l'AGPL."
 
@@ -1705,13 +1705,12 @@ msgstr ""
 "L'implémentation du format WebM de Google est couverte par la <a href="
 "\"#ModifiedBSD\">licence BSD modifiée</a>. Google fournit également une "
 "licence de brevet séparée, sous le nom prêtant à confusion de « concession "
-"de droits IP supplémentaires » <cite>[Additional IP Rights Grant]</cite>, "
-"pour les brevets que Google possède ou contrôle et que transgresse "
-"obligatoirement toute implémentation de WebM. Un logiciel sous GPL peut être "
-"distribué en conformité avec cette licence : elle autorise les distributeurs "
-"à exercer tous les droits propres à la GPL, tout en respectant ses "
-"conditions. Ainsi, l'ensemble de la licence de WebM est libre et compatible "
-"avec la GPL."
+"de droits IP supplémentaires » <i>[Additional IP Rights Grant]</i>, pour les "
+"brevets que Google possède ou contrôle et que transgresse obligatoirement "
+"toute implémentation de WebM. Un logiciel sous GPL peut être distribué en "
+"conformité avec cette licence : elle autorise les distributeurs à exercer "
+"tous les droits propres à la GPL, tout en respectant ses conditions. Ainsi, "
+"l'ensemble de la licence de WebM est libre et compatible avec la GPL."
 
 #. type: Content of: <dl><dt>
 msgid ""
@@ -3607,6 +3606,37 @@ msgstr ""
 
 #. type: Content of: <dl><dt>
 msgid ""
+"<a id=\"anticapitalist\">Anti-Capitalist Software License</a> <span class="
+"\"anchor-reference-id\">(<a href=\"#anticapitalist\">#anticapitalist</a>)</"
+"span>"
+msgstr ""
+"<a id=\"anticapitalist\">Anti-Capitalist Software License</a> <span class="
+"\"anchor-reference-id\">(<a href=\"#anticapitalist\">#anticapitalist</a>)</"
+"span>"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"The Anti-Capitalist Software License is a <a href=\"/philosophy/programs-"
+"must-not-limit-freedom-to-run.html\">nonfree license because it extends the "
+"four freedoms only to some kinds of organizations</a>, not to all. Such "
+"restrictions, even when implemented to handle important issues, grant <a "
+"href=\"https://www.fsf.org/bulletin/2019/fall/building-ethical-software-"
+"based-on-the-four-freedoms\"> too much power over users</a>. Please don't "
+"use this license, and we urge you to avoid any software that has been "
+"released under it."
+msgstr ""
+"La « licence de logiciel anticapitaliste » n'est <a href=\"/philosophy/"
+"programs-must-not-limit-freedom-to-run.html\">pas une licence libre, car "
+"elle n'accorde les quatre libertés qu'à certains types d'organisations</a>, "
+"pas à toutes. Ces restrictions, mêmes quand elles sont mises en place pour "
+"gérer des problèmes importants, donnent au détenteur du copyright  <a href="
+"\"https://www.fsf.org/bulletin/2019/fall/building-ethical-software-based-on-"
+"the-four-freedoms\">trop de pouvoir sur les utilisateurs</a>. Nous vous "
+"recommandons vivement d'éviter tout logiciel publié sous cette licence et de "
+"ne pas vous en servir vous-même."
+
+#. type: Content of: <dl><dt>
+msgid ""
 "<a id=\"apsl1\" href= \"http://directory.fsf.org/wiki/License:APSLv1.x\"> "
 "Apple Public Source License (APSL), version 1.x</a> <span class=\"anchor-"
 "reference-id\">(<a href=\"#apsl1\">#apsl1</a>)</span>"
@@ -3666,7 +3696,7 @@ msgstr ""
 "La licence publique AT&amp;T est une licence non libre. Elle comporte "
 "plusieurs inconvénients assez graves :"
 
-#. type: Content of: <dl><dd><ol><li>
+#. type: Content of: <dl><dd><ul><li>
 msgid ""
 "The patent license is voided by any modification, no matter how small, of "
 "the pertinent code."
@@ -3674,7 +3704,7 @@ msgstr ""
 "votre licence de brevet est annulée par toute modification même légère que "
 "vous pourriez apporter à la partie principale du code ;"
 
-#. type: Content of: <dl><dd><ol><li>
+#. type: Content of: <dl><dd><ul><li>
 msgid ""
 "You must demand a written agreement when you distribute the sources or "
 "patches."
@@ -3682,31 +3712,31 @@ msgstr ""
 "il vous faut une autorisation écrite pour pouvoir distribuer les sources ou "
 "les correctifs ;"
 
-#. type: Content of: <dl><dd><ol><li>
+#. type: Content of: <dl><dd><ul><li>
 msgid "It requires notifying AT&amp;T if you distribute a patch."
 msgstr "vous devez avertir AT&amp;T quand vous distribuez un correctif ;"
 
-#. type: Content of: <dl><dd><ol><li>
+#. type: Content of: <dl><dd><ul><li>
 msgid ""
 "Your license can be terminated through no fault of yours, under section 8/3."
 msgstr ""
 "votre licence peut être révoquée même si vous n'avez rien fait de mal "
 "(paragraphe 8/3) ;"
 
-#. type: Content of: <dl><dd><ol><li>
+#. type: Content of: <dl><dd><ul><li>
 msgid ""
 "It makes compliance with export control laws a condition of the license."
 msgstr ""
 "la conformité aux lois du contrôle de l'exportation est une condition de la "
 "licence ;"
 
-#. type: Content of: <dl><dd><ol><li>
+#. type: Content of: <dl><dd><ul><li>
 msgid "Some versions of the license require you to provide support."
 msgstr ""
 "dans certaines versions de la licence, vous êtes obligé de fournir un "
 "support technique ;"
 
-#. type: Content of: <dl><dd><ol><li>
+#. type: Content of: <dl><dd><ul><li>
 msgid ""
 "Some versions of the license say you cannot sell a copy of the software for "
 "more than the expense of distribution."
@@ -3718,7 +3748,7 @@ msgstr ""
 msgid "The license has two other obnoxious features:"
 msgstr "Cette licence a deux autres caractéristiques odieuses :"
 
-#. type: Content of: <dl><dd><ol><li>
+#. type: Content of: <dl><dd><ul><li>
 msgid ""
 "It has a very broad reverse license to AT&amp;T, which goes far beyond the "
 "use of your code, even your code modified."
@@ -3726,7 +3756,7 @@ msgstr ""
 "un droit très large de licence à rebours en faveur d'AT&amp;T, qui va bien "
 "au-delà de l'usage de votre code, et même de votre code modifié ;"
 
-#. type: Content of: <dl><dd><ol><li>
+#. type: Content of: <dl><dd><ul><li>
 msgid ""
 "It asserts one needs a license from AT&amp;T to make a link to their web "
 "site.  This is not an immediate practical problem, since the license says it "
@@ -5652,9 +5682,9 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
-"Foundation, Inc."
-msgstr "Copyright &copy; 2014-2020 Free Software Foundation, Inc."
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021 Free "
+"Software Foundation, Inc."
+msgstr "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
