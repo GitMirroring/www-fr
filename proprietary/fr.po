@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: proprietary/\n"
 "POT-Creation-Date: 2021-01-18 12:56+0000\n"
-"PO-Revision-Date: 2021-01-18 17:44+0100\n"
+"PO-Revision-Date: 2021-01-19 11:28+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -6950,7 +6950,11 @@ msgstr ""
 "<a href=\"/proprietary/malware-google.html\">Malveillance des logiciels de "
 "Google</a>."
 
-#. type: Content of: <div><div><ul><li><p>
+#. type: Content of: <div><div><div><h3>
+msgid "Cell-phone communications"
+msgstr "Téléphonie mobile"
+
+#. type: Content of: <div><div><div><ul><li><p>
 msgid ""
 "The phone network <a href=\"https://ssd.eff.org/en/module/problem-mobile-"
 "phones\"> tracks the movements of each phone</a>."
@@ -6958,7 +6962,7 @@ msgstr ""
 "Le réseau téléphonique <a href=\"https://ssd.eff.org/en/module/problem-"
 "mobile-phones\">suit les mouvements de chaque téléphone</a>."
 
-#. type: Content of: <div><div><ul><li><p>
+#. type: Content of: <div><div><div><ul><li><p>
 msgid ""
 "This is inherent in the design of the phone network: as long as the phone is "
 "in communication with the network, there is no way to stop the network from "
@@ -6971,7 +6975,7 @@ msgstr ""
 "Unis et l'Union européenne) exigent que le réseau conserve toutes ces "
 "données de localisation pendant des mois ou des années."
 
-#. type: Content of: <div><div><ul><li><p>
+#. type: Content of: <div><div><div><ul><li><p>
 msgid ""
 "Almost every phone's communication processor has a universal back door which "
 "is <a href=\"https://www.schneier.com/blog/archives/2006/12/"
@@ -6983,7 +6987,7 @@ msgstr ""
 "remotely_eavesd_1.html\">souvent utilisée pour forcer le téléphone à "
 "transmettre toutes les conversations qu'il entend</a>."
 
-#. type: Content of: <div><div><ul><li><p>
+#. type: Content of: <div><div><div><ul><li><p>
 msgid ""
 "The back door <a class=\"not-a-duplicate\" href=\"http://www.osnews.com/"
 "story/27416/The_second_operating_system_hiding_in_every_mobile_phone\"> may "
@@ -6997,7 +7001,7 @@ msgstr ""
 "20 ans</a>. Le choix de laisser ces failles de sécurité en place est "
 "l'équivalent moral de la création d'une porte dérobée."
 
-#. type: Content of: <div><div><ul><li><p>
+#. type: Content of: <div><div><div><ul><li><p>
 msgid ""
 "The back door is in the &ldquo;modem processor&rdquo;, whose job is to "
 "communicate with the radio network.  In most phones, the modem processor "
@@ -7009,7 +7013,7 @@ msgstr ""
 "processeur du modem a le contrôle du micro et en général il a aussi la "
 "capacité de réécrire le logiciel du processeur principal."
 
-#. type: Content of: <div><div><ul><li><p>
+#. type: Content of: <div><div><div><ul><li><p>
 msgid ""
 "A few phone models are specially designed so that the modem processor does "
 "not control the microphone, and so that it can't change the software in the "
@@ -7022,7 +7026,7 @@ msgstr ""
 "dérobée, mais au moins elle est incapable de transformer le téléphone en "
 "appareil d'écoute."
 
-#. type: Content of: <div><div><ul><li><p>
+#. type: Content of: <div><div><div><ul><li><p>
 msgid ""
 "The universal back door is apparently also used to make phones <a href="
 "\"http://www.slate.com/blogs/future_tense/2013/07/22/"
@@ -7053,7 +7057,7 @@ msgstr "<a href=\"#deception\">Pratiques trompeuses</a>"
 msgid "Addictions"
 msgstr "Addiction"
 
-#. type: Content of: <div><div><ul><li><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "See above for the <a href=\"#universal-back-door-phone-modem\">general "
 "universal back door</a> in essentially all mobile phones, which permits "
@@ -7543,7 +7547,7 @@ msgstr ""
 "risque, parce qu'on ne peut pas vérifier facilement ce qu'elles font en "
 "réalité."
 
-#. type: Content of: <div><div><ul><li><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "See above for the general universal back door in essentially all mobile "
 "phones, which permits converting them into <a class=\"not-a-duplicate\" href="
