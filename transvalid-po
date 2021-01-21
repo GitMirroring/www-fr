@@ -220,8 +220,14 @@ EOF
     fi
   # If this is an include or something similar, add missing tags.
   else
-    sed -i -e '/charset=utf-8" \/>/ a<title></title></head><body>' \
-           -e '$a</body></html>' "$2"
+    # Special case of side-menu includes.
+    if grep '<div id="navlinks">' "$2" > /dev/null; then
+      sed -i -e '/charset=utf-8" \/>/ a<title></title></head><body><div>' \
+             -e '$a</body></html>' "$2"
+    else
+      sed -i -e '/charset=utf-8" \/>/ a<title></title></head><body>' \
+             -e '$a</body></html>' "$2"
+    fi
   fi
 }
 
@@ -314,6 +320,10 @@ fi
 
 exit_code=0
 
+## Reformat/validate the PO.
+$MSGCAT -w 79 -o "$po" "$po" || (exit_code=$?;
+echo  1>&2 "!!! $po is not valid."; close_or_exit exit_code=$?)
+
 if [ "${poname}" != "proprietary/$lang.po" ]; then
 
   # Merge with lang.po if the file is in proprietary/. This assumes that
@@ -379,9 +389,7 @@ if [ "${poname}" != "proprietary/$lang.po" ]; then
   make_links_absolute "$translation"
 fi
 
-## Reformat/validate and tweak the PO.
-$MSGCAT -w 79 -o "$po" "$po" || exit_code=$?
-
+## Tweak the PO.
 if test "$delobs" == "1"; then
   delete_obsolete "$po"
 fi
