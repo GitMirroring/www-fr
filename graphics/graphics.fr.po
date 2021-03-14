@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: graphics.html\n"
-"POT-Creation-Date: 2021-01-19 16:26+0000\n"
-"PO-Revision-Date: 2021-01-19 18:21+0100\n"
+"POT-Creation-Date: 2021-03-14 09:56+0000\n"
+"PO-Revision-Date: 2021-03-14 11:38+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -72,7 +72,7 @@ msgstr ""
 msgid "*** Many thanks to all the artists! ***"
 msgstr "*** Un grand merci à tous les artistes ! ***"
 
-#. type: Content of: <div><form><div>
+#. type: Content of: <div><form><div><label>
 msgid "<strong>Select by theme:</strong>"
 msgstr "<strong>Sélection par thème :</strong>"
 
@@ -126,7 +126,7 @@ msgstr "surveillance"
 msgid "</select>"
 msgstr "</select>"
 
-#. type: Content of: <div><form><div>
+#. type: Content of: <div><form><div><label>
 msgid "<strong>Select by type:</strong>"
 msgstr "<strong>Sélection par type :</strong>"
 
@@ -2027,8 +2027,12 @@ msgid "<small>by Apolonis</small>"
 msgstr "<small>par Apolonis</small>"
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"http://gnuart.onshore.com\">"
-msgstr "<a href=\"http://gnuart.onshore.com\">"
+msgid ""
+"<a href=\"https://web.archive.org/web/20210116144718/http://gnuart.onshore."
+"com/\">"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20210116144718/http://gnuart.onshore."
+"com/\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "&nbsp;['I want GNU' poster]&nbsp;"
@@ -2120,24 +2124,21 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
-"Nous faisons le maximum pour proposer des traductions fidèles et de bonne "
-"qualité, mais nous ne sommes pas parfaits. Merci d'adresser vos commentaires "
-"sur cette page, ainsi que vos suggestions d'ordre général sur les "
-"traductions, à <a href=\"mailto:web-translators@gnu.org\"> &lt;web-"
-"translators@gnu.org&gt;</a>.</p>\n"
-"<p>Pour tout renseignement sur la coordination et la soumission des "
-"traductions de nos pages web, reportez-vous au <a href=\"/server/standards/"
-"README.translations.html\">guide de traduction</a>."
+"Merci d'adresser vos commentaires sur cette page et sur les traductions en "
+"général à <a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu."
+"org&gt;</a>. Si vous souhaitez y contribuer, vous trouverez dans le <a href="
+"\"/server/standards/README.translations.html\">guide de traduction</a> les "
+"infos nécessaires."
 
 #. type: Content of: <div><p>
 msgid ""
