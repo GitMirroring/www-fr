@@ -113,14 +113,13 @@ fi
 
 MSGMERGE=$(which msgmerge) \
 || echo "    msgmerge is not installed.
-    The malware pages won't be merged with mal.fr.po"
-
+    The malware pages won't be merged with their compendium."
 PO4A_TRANSLATE=$(which po4a-translate) \
 || (echo "!!! po4a-translate is not installed - exiting."; close_or_exit 1)
 XMLLINT=$(which xmllint) \
 || (echo "!!! xmllint is not installed - exiting."; close_or_exit 1)
-
-MSGCAT=$(which msgcat)
+MSGCAT=$(which msgcat) \
+|| (echo "!!! msgcat is not installed - exiting."; close_or_exit 1)
 
 # xhtml1-strict.dtd, html5.dtd and entity definitions (xhtml-lat1.ent,
 # xhtml-special.ent, and xhtml-symbol.ent) are assumed to be in the same
@@ -192,21 +191,14 @@ function fix_html () {
 # depending whether the document is using HTML5 or not, then inactivates the
 # SSI directives.
 
-###  This will not work with non-templated pages  ###
+###  This will not work when the header is expanded.  ###
 
   cat - "$1" > "$2" << EOF
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"$DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="$lang" lang="$lang">
+<!DOCTYPE html SYSTEM "$DTD/html5.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 EOF
-
-  if firstline=$(grep '<!--#include virtual="/server/html5-header.html" -->' "$1"); then
-    VALIDATE="--dtdvalid $DTD/html5.dtd"
-  else
-    VALIDATE=--valid
-  fi
 
   # If this is a templated page, add missing tags and inactivate SSIs.
   if grep 'include virtual="/server/banner\.' "$2" > /dev/null; then
@@ -384,7 +376,7 @@ if [ "${poname}" != "proprietary/$lang.po" ]; then
   ## Validate and tweak the HTML.
 
   if test "$po" = "${po%/body-include-2.*.po}"; then
-    $XMLLINT $VALIDATE --nonet --noout "$translation" || exit_code=$?
+    $XMLLINT --dtdvalid $DTD/html5.dtd --nonet --noout "$translation" || exit_code=$?
   fi
   make_links_absolute "$translation"
 fi
