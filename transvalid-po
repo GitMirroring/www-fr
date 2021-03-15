@@ -195,7 +195,7 @@ function fix_html () {
 
   cat - "$1" > "$2" << EOF
 <!DOCTYPE html SYSTEM "$DTD/html5.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="$lang" lang="$lang">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 EOF
