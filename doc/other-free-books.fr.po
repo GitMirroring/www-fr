@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: other-free-books.html\n"
-"POT-Creation-Date: 2021-01-31 17:25+0000\n"
+"POT-Creation-Date: 2021-03-15 11:26+0000\n"
 "PO-Revision-Date: 2021-01-31 19:09+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -44,11 +44,19 @@ msgstr ""
 msgid "Free Books from Other Publishers"
 msgstr "Livres libres d'autres éditeurs"
 
-#. type: Content of: <h3>
-msgid "Introduction"
-msgstr "Introduction"
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#English\">Free books in English</a>"
+msgstr "<a href=\"#English\">Livres libres en anglais</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#Spanish\">Free books in Spanish</a>"
+msgstr "<a href=\"#Spanish\">Livres libres en espagnol</a>"
+
+#. type: Content of: <div><div><p>
+msgid "Newer listings are placed at the top of each list."
+msgstr "Les nouvelles références sont placées en début de liste."
+
+#. type: Content of: <div><div><p>
 msgid ""
 "We have long supported publication of <a href=\"/philosophy/free-doc.html"
 "\">free documentation</a> (free in the sense of freedom&mdash;we don't mean "
@@ -67,7 +75,7 @@ msgstr ""
 "href=\"/philosophy/license-list.html#FreeDocumentationLicenses\">licence de "
 "documentation libre</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "We publish a number of free books of documentation ourselves.  You can <a "
 "href=\"http://shop.fsf.org/\">order printed copies</a> of our books, and <a "
@@ -79,7 +87,7 @@ msgstr ""
 "exemplaires imprimés</a> et les <a href=\"/manual/manual.html\">consulter en "
 "ligne</a>, ceci depuis 1986 environ."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Some commercial publishers are also publishing free books.  (Like ours, "
 "these books are free in the sense of freedom; the commercially printed "
@@ -95,7 +103,7 @@ msgstr ""
 "nous le faire savoir en écrivant à &lt;<a href=\"mailto:free-books@gnu.org"
 "\">free-books@gnu.org</a>&gt;."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Some of these publishers (e.g., Network Theory Ltd) do not trade directly. "
 "Their books can be obtained from many suppliers throughout the world, but "
@@ -106,7 +114,7 @@ msgstr ""
 "distributeurs partout dans le monde, mais s'il vous plaît, ne commandez rien "
 "chez Amazon!"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<a href=\"http://defectivebydesign.org/ebooks.html\">Join our mailing list "
 "about the dangers of eBooks</a>."
@@ -114,22 +122,6 @@ msgstr ""
 "<a href=\"http://defectivebydesign.org/ebooks.html\">Inscrivez-vous à notre "
 "liste de diffusion (en anglais) concernant les dangers des livres "
 "électroniques</a>."
-
-#. type: Content of: <h3>
-msgid "Table of Contents"
-msgstr "Table des matières"
-
-#. type: Content of: <ul><li>
-msgid "<a href=\"#English\">Free books in English</a>"
-msgstr "<a href=\"#English\">Livres libres en anglais</a>"
-
-#. type: Content of: <ul><li>
-msgid "<a href=\"#Spanish\">Free books in Spanish</a>"
-msgstr "<a href=\"#Spanish\">Livres libres en espagnol</a>"
-
-#. type: Content of: <p>
-msgid "Newer listings are placed at the top of each list."
-msgstr "Les nouvelles références sont placées en début de liste."
 
 #. type: Content of: <div><h3>
 msgid "Free books in English"
@@ -931,3 +923,9 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+#~ msgid "Introduction"
+#~ msgstr "Introduction"
+
+#~ msgid "Table of Contents"
+#~ msgstr "Table des matières"
