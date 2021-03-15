@@ -7,8 +7,25 @@
      * make rel attribute required in <link>s
      * define new tags for media: <audio>, <video>, <source>, <track>
 
+   The modifications made on February 2021 (based on
+   https://www.w3.org/TR/html50/ (2014) and https://www.w3.org/TR/html-aria/):
+     * remove obsolete attributes: align char charoff valign,
+                              <a>: charset coords name rev shape,
+       <col> <colgroup> <thead> <tfoot> <tbody>
+                   <td> <th> <tr>: align valign char charoff,
+                           <form>: accept,
+                           <head>: profile,
+                            <img>: longdesc,
+                           <link>: charset,
+                           <meta>: scheme,
+                         <object>: archive classid codebase codetype declare
+                                   standby;
+     * include %focus in the global attributes;
+     * new global attributes: aria-labelledby, aria-describedby;
+     * add role attribute to <div>, <ul>, <ol>, <dl>, <dt>, <form>.
+
    The modifications are
-   Copyright (C) 2011, 2012 Free Software Foundation, Inc.
+   Copyright (C) 2011, 2012, 2019, 2021 Free Software Foundation, Inc.
 
    This file is not part of GNUnited Nations, but is used
    with GNUnited Nations.
@@ -116,9 +133,6 @@ Notes
 
    PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
    SYSTEM "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
-
-   $Revision: 1.3 $
-   $Date: 2012/12/07 04:39:37 $
 
 -->
 
@@ -265,7 +279,18 @@ Notes
   onblur      %Script;       #IMPLIED"
   >
 
-<!ENTITY % attrs "%coreattrs; %i18n; %events;">
+<!-- A few ARIA global attributes
+  https://www.w3.org/TR/wai-aria-1.1/#global_states
+-->
+<!ENTITY % aria
+ "aria-describedby  %Text;        #IMPLIED
+  aria-labelledby   %Text;        #IMPLIED"
+  >
+
+<!-- Incomplete set of HTML5 global attributes
+     They may have no effect on some elements.
+-->
+<!ENTITY % attrs "%coreattrs; %i18n; %events; %focus; %aria;">
 
 <!--=================== Text Elements ====================================-->
 
@@ -356,7 +381,6 @@ Notes
 <!ATTLIST head
   %i18n;
   id          ID             #IMPLIED
-  profile     %URI;          #IMPLIED
   >
 
 <!-- The title element is not considered part of the flow of text.
@@ -385,7 +409,6 @@ Notes
   http-equiv  CDATA          #IMPLIED
   name        CDATA          #IMPLIED
   content     CDATA          #REQUIRED
-  scheme      CDATA          #IMPLIED
   >
 
 <!--
@@ -405,7 +428,6 @@ Notes
 <!ELEMENT link EMPTY>
 <!ATTLIST link
   %attrs;
-  charset     %Charset;      #IMPLIED
   href        %URI;          #IMPLIED
   hreflang    %LanguageCode; #IMPLIED
   type        %ContentType;  #IMPLIED
@@ -453,8 +475,13 @@ Notes
   >
 
 <!ELEMENT div %Flow;>  <!-- generic language/style container -->
+<!-- Implicit ARIA role: none -->
+<!ENTITY % div.roles
+ "(article | banner | complementary | contentinfo | figure
+   | main | navigation | region)">
 <!ATTLIST div
   %attrs;
+  role  %div.roles;          #IMPLIED
   >
 
 <!--=================== Paragraphs =======================================-->
@@ -506,15 +533,19 @@ Notes
 <!-- Unordered list -->
 
 <!ELEMENT ul (li)+>
+<!-- Implicit ARIA role: list -->
 <!ATTLIST ul
   %attrs;
+  role  (directory|menu|menubar)  #IMPLIED
   >
 
 <!-- Ordered (numbered) list -->
 
 <!ELEMENT ol (li)+>
+<!-- Implicit ARIA role: list -->
 <!ATTLIST ol
   %attrs;
+  role  (directory|menu|menubar)  #IMPLIED
   >
 
 <!-- list item -->
@@ -527,13 +558,17 @@ Notes
 <!-- definition lists - dt for term, dd for its definition -->
 
 <!ELEMENT dl (dt|dd)+>
+<!-- Implicit ARIA role: none -->
 <!ATTLIST dl
   %attrs;
+  role  (group|list)   #IMPLIED 
   >
 
 <!ELEMENT dt %Inline;>
+<!-- Implicit ARIA role: term -->
 <!ATTLIST dt
   %attrs;
+  role  (listitem)     #IMPLIED
   >
 
 <!ELEMENT dd %Flow;>
@@ -603,16 +638,10 @@ Notes
 <!ELEMENT a %a.content;>
 <!ATTLIST a
   %attrs;
-  %focus;
-  charset     %Charset;      #IMPLIED
   type        %ContentType;  #IMPLIED
-  name        NMTOKEN        #IMPLIED
   href        %URI;          #IMPLIED
   hreflang    %LanguageCode; #IMPLIED
   rel         %LinkTypes;    #IMPLIED
-  rev         %LinkTypes;    #IMPLIED
-  shape       %Shape;        "rect"
-  coords      %Coords;       #IMPLIED
   >
 
 <!--===================== Inline Elements ================================-->
@@ -695,19 +724,12 @@ Notes
 <!ELEMENT object (#PCDATA | param | %block; | form | %inline; | %misc;)*>
 <!ATTLIST object
   %attrs;
-  declare     (declare)      #IMPLIED
-  classid     %URI;          #IMPLIED
-  codebase    %URI;          #IMPLIED
   data        %URI;          #IMPLIED
   type        %ContentType;  #IMPLIED
-  codetype    %ContentType;  #IMPLIED
-  archive     %UriList;      #IMPLIED
-  standby     %Text;         #IMPLIED
   height      %Length;       #IMPLIED
   width       %Length;       #IMPLIED
   usemap      %URI;          #IMPLIED
   name        NMTOKEN        #IMPLIED
-  tabindex    %Number;       #IMPLIED
   >
 
 <!--
@@ -728,12 +750,12 @@ Notes
 <!ENTITY % media.children "(source*, track*, (%block; | %inline;)*)"> 
 <!ENTITY % media.attributes 
  "%attrs;
-  %focus;
   src         %URI;          #IMPLIED
   preload     (none|metadata|auto) #IMPLIED
   autoplay    (autoplay)     #IMPLIED
   loop        (loop)         #IMPLIED
   controls    (controls)     #IMPLIED
+  crossorigin (anonymous|use-credentials) #IMPLIED
   muted       (muted)        #IMPLIED"
   >
 
@@ -751,7 +773,6 @@ Notes
 <!ELEMENT source EMPTY>
 <!ATTLIST source
   %attrs;
-  %focus;
   src         %URI;          #REQUIRED
   type        %Text;         #IMPLIED
   >
@@ -759,7 +780,6 @@ Notes
 <!ELEMENT track EMPTY>
 <!ATTLIST track
   %attrs;
-  %focus;
   src         %URI;          #REQUIRED
   kind        (subtitles|captions|descriptions|chapters|metadata) "subtitles"
   srclang     %LanguageCode; #IMPLIED
@@ -772,7 +792,7 @@ Notes
 <!--
    To avoid accessibility problems for people who aren't
    able to see the image, you should provide a text
-   description using the alt and longdesc attributes.
+   description using the alt attribute.
    In addition, avoid the use of server-side image maps.
    Note that in this DTD there is no name attribute. That
    is only available in the transitional and frameset DTD.
@@ -783,7 +803,6 @@ Notes
   %attrs;
   src         %URI;          #REQUIRED
   alt         %Text;         #REQUIRED
-  longdesc    %URI;          #IMPLIED
   height      %Length;       #IMPLIED
   width       %Length;       #IMPLIED
   usemap      %URI;          #IMPLIED
@@ -812,7 +831,6 @@ Notes
 <!ELEMENT area EMPTY>
 <!ATTLIST area
   %attrs;
-  %focus;
   shape       %Shape;        "rect"
   coords      %Coords;       #IMPLIED
   href        %URI;          #IMPLIED
@@ -822,7 +840,7 @@ Notes
 
 <!--================ Forms ===============================================-->
 <!ELEMENT form %form.content;>   <!-- forms shouldn't be nested -->
-
+<!-- Implicit ARIA role: form -->
 <!ATTLIST form
   %attrs;
   action      %URI;          #REQUIRED
@@ -830,8 +848,8 @@ Notes
   enctype     %ContentType;  "application/x-www-form-urlencoded"
   onsubmit    %Script;       #IMPLIED
   onreset     %Script;       #IMPLIED
-  accept      %ContentTypes; #IMPLIED
   accept-charset %Charsets;  #IMPLIED
+  role        (search)  #IMPLIED
   >
 
 <!--
@@ -842,9 +860,6 @@ Notes
 <!ATTLIST label
   %attrs;
   for         IDREF          #IMPLIED
-  accesskey   %Character;    #IMPLIED
-  onfocus     %Script;       #IMPLIED
-  onblur      %Script;       #IMPLIED
   >
 
 <!ENTITY % InputType
@@ -858,7 +873,6 @@ Notes
 <!ELEMENT input EMPTY>     <!-- form control -->
 <!ATTLIST input
   %attrs;
-  %focus;
   type        %InputType;    "text"
   name        CDATA          #IMPLIED
   value       CDATA          #IMPLIED
@@ -882,9 +896,6 @@ Notes
   size        %Number;       #IMPLIED
   multiple    (multiple)     #IMPLIED
   disabled    (disabled)     #IMPLIED
-  tabindex    %Number;       #IMPLIED
-  onfocus     %Script;       #IMPLIED
-  onblur      %Script;       #IMPLIED
   onchange    %Script;       #IMPLIED
   >
 
@@ -907,7 +918,6 @@ Notes
 <!ELEMENT textarea (#PCDATA)>     <!-- multi-line text field -->
 <!ATTLIST textarea
   %attrs;
-  %focus;
   name        CDATA          #IMPLIED
   rows        %Number;       #REQUIRED
   cols        %Number;       #REQUIRED
@@ -930,7 +940,6 @@ Notes
 <!ELEMENT legend %Inline;>     <!-- fieldset label -->
 <!ATTLIST legend
   %attrs;
-  accesskey   %Character;    #IMPLIED
   >
 
 <!--
@@ -939,7 +948,6 @@ Notes
 <!ELEMENT button %button.content;>  <!-- push button -->
 <!ATTLIST button
   %attrs;
-  %focus;
   name        CDATA          #IMPLIED
   value       CDATA          #IMPLIED
   type        (button|submit|reset) "submit"
@@ -969,22 +977,6 @@ Notes
 
 <!ENTITY % TRules "(none | groups | rows | cols | all)">
   
-<!-- horizontal alignment attributes for cell contents
-
-  char        alignment char, e.g. char=':'
-  charoff     offset for alignment char
--->
-<!ENTITY % cellhalign
-  "align      (left|center|right|justify|char) #IMPLIED
-   char       %Character;    #IMPLIED
-   charoff    %Length;       #IMPLIED"
-  >
-
-<!-- vertical alignment attributes for cell contents -->
-<!ENTITY % cellvalign
-  "valign     (top|middle|bottom|baseline) #IMPLIED"
-  >
-
 <!ELEMENT table
      (caption?, (col*|colgroup*), thead?, tfoot?, (tbody+|tr+))>
 <!ELEMENT caption  %Inline;>
@@ -1020,8 +1012,6 @@ several semantically related columns together.
   %attrs;
   span        %Number;       "1"
   width       %MultiLength;  #IMPLIED
-  %cellhalign;
-  %cellvalign;
   >
 
 <!--
@@ -1040,8 +1030,6 @@ several semantically related columns together.
   %attrs;
   span        %Number;       "1"
   width       %MultiLength;  #IMPLIED
-  %cellhalign;
-  %cellvalign;
   >
 
 <!--
@@ -1058,26 +1046,18 @@ several semantically related columns together.
 -->
 <!ATTLIST thead
   %attrs;
-  %cellhalign;
-  %cellvalign;
   >
 
 <!ATTLIST tfoot
   %attrs;
-  %cellhalign;
-  %cellvalign;
   >
 
 <!ATTLIST tbody
   %attrs;
-  %cellhalign;
-  %cellvalign;
   >
 
 <!ATTLIST tr
   %attrs;
-  %cellhalign;
-  %cellvalign;
   >
 
 
@@ -1094,8 +1074,6 @@ several semantically related columns together.
   scope       %Scope;        #IMPLIED
   rowspan     %Number;       "1"
   colspan     %Number;       "1"
-  %cellhalign;
-  %cellvalign;
   >
 
 <!ATTLIST td
@@ -1106,7 +1084,5 @@ several semantically related columns together.
   scope       %Scope;        #IMPLIED
   rowspan     %Number;       "1"
   colspan     %Number;       "1"
-  %cellhalign;
-  %cellvalign;
   >
 
