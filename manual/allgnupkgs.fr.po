@@ -10,8 +10,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: allgnupkgs.html\n"
-"POT-Creation-Date: 2021-01-31 20:27+0000\n"
-"PO-Revision-Date: 2021-01-31 21:38+0100\n"
+"POT-Creation-Date: 2021-03-20 16:57+0000\n"
+"PO-Revision-Date: 2021-03-21 17:08+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -310,18 +310,6 @@ msgid ""
 msgstr ""
 "Bibliothèque d'extraction de métadonnées de fichiers multimédias. [<a href="
 "\"/software/libextractor/\">libextractor – accueil</a>]"
-
-#. type: Content of: <div><dl><dt>
-msgid "<a href=\"http://www.speex.org/docs/\">Speex</a>"
-msgstr "<a href=\"http://www.speex.org/docs/\">Speex</a>"
-
-#. type: Content of: <div><dl><dd>
-msgid ""
-"Library for patent-free audio compression format.  [<a href=\"/software/"
-"speex/\">speex&nbsp;home</a>]"
-msgstr ""
-"Bibliothèque pour un format de compression audio sans brevet. [<a href=\"/"
-"software/speex/\">speex – accueil</a>]"
 
 #. type: Content of: <div><h3>
 msgid ""
@@ -785,19 +773,6 @@ msgid ""
 "home</a>]"
 msgstr ""
 "Logiciel interactif de géométrie. [<a href=\"/software/dr-geo/\">dr-geo –"
-" accueil</a>]"
-
-#. type: Content of: <div><dl><dt>
-msgid "<a href=\"http://wiki.eprints.org/w/EPrints_Manual\">Eprints</a>"
-msgstr "<a href=\"http://wiki.eprints.org/w/EPrints_Manual\">Eprints</a>"
-
-#. type: Content of: <div><dl><dd>
-msgid ""
-"Web-based repository software, with a default setup for research papers.  "
-"[<a href=\"/software/eprints/\">eprints&nbsp;home</a>]"
-msgstr ""
-"Logiciel de dépôt sur le web, proposant une configuration par défaut pour "
-"les articles scientifiques. [<a href=\"/software/eprints/\">eprints –"
 " accueil</a>]"
 
 #. type: Content of: <div><dl><dt>
@@ -1884,8 +1859,10 @@ msgstr ""
 "\">macchanger – accueil</a>]"
 
 #. type: Content of: <div><dl><dt>
-msgid "<a href=\"http://docs.mediagoblin.org/\">Mediagoblin</a>"
-msgstr "<a href=\"http://docs.mediagoblin.org/\">Mediagoblin</a>"
+msgid ""
+"<a href=\"https://mediagoblin.readthedocs.io/en/master/\">Mediagoblin</a>"
+msgstr ""
+"<a href=\"https://mediagoblin.readthedocs.io/en/master/\">Mediagoblin</a>"
 
 #. type: Content of: <div><dl><dd>
 msgid ""
@@ -3982,18 +3959,6 @@ msgstr ""
 " accueil</a>]"
 
 #. type: Content of: <div><dl><dt>
-msgid "<a href=\"https://sourceware.org/binutils/docs/bfd/\">BFD</a>"
-msgstr "<a href=\"https://sourceware.org/binutils/docs/bfd/\">BFD</a>"
-
-#. type: Content of: <div><dl><dd>
-msgid ""
-"Binary File Descriptor library.  [<a href=\"/software/bfd/\">bfd&nbsp;home</"
-"a>]"
-msgstr ""
-"Bibliothèque de descripteurs de fichiers binaires. [<a href=\"/software/bfd/"
-"\">bfd – accueil</a>]"
-
-#. type: Content of: <div><dl><dt>
 msgid "<a href=\"/software/cgicc/\">Cgicc</a>"
 msgstr "<a href=\"/software/cgicc/\">Cgicc</a>"
 
@@ -5276,6 +5241,37 @@ msgid ""
 msgstr ""
 "XML simple pour la définition et l'implémentation de langages de balises. "
 "[<a href=\"/software/xmlat/\">xmlat – accueil</a>]"
+
+#~ msgid "<a href=\"http://www.speex.org/docs/\">Speex</a>"
+#~ msgstr "<a href=\"http://www.speex.org/docs/\">Speex</a>"
+
+#~ msgid ""
+#~ "Library for patent-free audio compression format.  [<a href=\"/software/"
+#~ "speex/\">speex&nbsp;home</a>]"
+#~ msgstr ""
+#~ "Bibliothèque pour un format de compression audio sans brevet. [<a href=\"/"
+#~ "software/speex/\">speex – accueil</a>]"
+
+#~ msgid "<a href=\"http://wiki.eprints.org/w/EPrints_Manual\">Eprints</a>"
+#~ msgstr "<a href=\"http://wiki.eprints.org/w/EPrints_Manual\">Eprints</a>"
+
+#~ msgid ""
+#~ "Web-based repository software, with a default setup for research papers.  "
+#~ "[<a href=\"/software/eprints/\">eprints&nbsp;home</a>]"
+#~ msgstr ""
+#~ "Logiciel de dépôt sur le web, proposant une configuration par défaut pour "
+#~ "les articles scientifiques. [<a href=\"/software/eprints/\">eprints –"
+#~ " accueil</a>]"
+
+#~ msgid "<a href=\"https://sourceware.org/binutils/docs/bfd/\">BFD</a>"
+#~ msgstr "<a href=\"https://sourceware.org/binutils/docs/bfd/\">BFD</a>"
+
+#~ msgid ""
+#~ "Binary File Descriptor library.  [<a href=\"/software/bfd/\">bfd&nbsp;"
+#~ "home</a>]"
+#~ msgstr ""
+#~ "Bibliothèque de descripteurs de fichiers binaires. [<a href=\"/software/"
+#~ "bfd/\">bfd – accueil</a>]"
 
 #~ msgid ""
 #~ "<a href=\"http://www.multiprecision.org/downloads/mpc-1.1.0.pdf\">Mpc</a>"
