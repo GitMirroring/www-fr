@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: hackathons.html\n"
-"POT-Creation-Date: 2017-09-13 18:56+0000\n"
-"PO-Revision-Date: 2018-09-06 21:14+0200\n"
+"POT-Creation-Date: 2021-03-27 12:56+0000\n"
+"PO-Revision-Date: 2021-03-27 14:29+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -24,11 +24,15 @@ msgstr ""
 "Pourquoi les hackathons doivent exiger du logiciel libre - Projet GNU - Free "
 "Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Why hackathons should insist on free software"
 msgstr "Pourquoi les hackathons doivent exiger du logiciel libre"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "par Richard Stallman"
+
+#. type: Content of: <div><p>
 msgid ""
 "Hackathons are an accepted method of giving community support to digital "
 "development projects.  The community invites developers to join an event "
@@ -43,7 +47,7 @@ msgstr ""
 "utiles. La plupart des hackathons choisissent les projets qu'ils "
 "soutiennent, sur la base de critères bien définis."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Hackathons fit the spirit of a community in which people take an attitude of "
 "cooperation and respect towards each other.  The software that accords with "
@@ -63,7 +67,7 @@ msgstr ""
 "des <a href=\"/philosophy/free-hardware-designs.html\">plans de matériel</a> "
 "peuvent et doivent aussi être libres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Respect for freedom can't be taken for granted.  On the contrary, we are "
 "surrounded by companies that shamelessly release proprietary (nonfree) "
@@ -78,7 +82,7 @@ msgstr ""
 "free-software-even-more-important.html\">moyen de domination et de contrôle "
 "des autres</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "These companies' harmful success inspires young developers to follow their "
 "example by developing their own programs or hardware designs to dominate "
@@ -95,28 +99,28 @@ msgstr ""
 "dont ils bénéficient. Les hackathons qui acceptent cela sapent l'esprit de "
 "communauté sur lequel ils se basent."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some perverse hackathons are specifically dedicated to aiding the computing "
-"of certain companies: in some cases, <a href=\"https://www.beyondhackathon."
-"com/en\">European</a> and <a href=\"http://www.hackathon.io/rbc-digital"
-"\">Canadian banks</a>, and <a href=\"http://expediaconnectivity.com/"
-"blog#madrid-hackathon-winners\"> Expedia</a>.  While they don't explicitly "
-"say, the announcements give the impression that they aim to promote "
-"development of some nonfree software, and that attendees are meant to help "
-"these non-charitable projects."
+"of certain companies: in some cases, <a href=\"https://web.archive.org/"
+"web/20210122185507/https://www.beyondhackathon.com/en\"> European</a> and <a "
+"href=\"http://www.hackathon.io/rbc-digital\">Canadian banks</a>, and <a href="
+"\"http://expediaconnectivity.com/blog#madrid-hackathon-winners\"> Expedia</"
+"a>.  While they don't explicitly say, the announcements give the impression "
+"that they aim to promote development of some nonfree software, and that "
+"attendees are meant to help these non-charitable projects."
 msgstr ""
 "Certains hackathons pervers sont spécifiquement destinés à aider "
 "l'informatique de certaines entreprises (par exemple des banques <a href="
-"\"https://www.beyondhackathon.com/en\">européennes</a> et <a href=\"http://"
-"www.hackathon.io/rbc-digital\">canadiennes</a>, ou encore <a href=\"http://"
-"expediaconnectivity.com/blog#madrid-hackathon-winners\">Expedia</a>). Bien "
-"qu'elles ne l'affirment pas explicitement, leurs annonces donnent "
-"l'impression que leur but est le développement de certains logiciels non "
-"libres et que les participants sont censés aider ces projets non "
-"philanthropiques."
+"\"https://web.archive.org/web/20210122185507/https://www.beyondhackathon.com/"
+"en\">européennes</a> et <a href=\"http://www.hackathon.io/rbc-digital"
+"\">canadiennes</a>, ou encore <a href=\"http://expediaconnectivity.com/"
+"blog#madrid-hackathon-winners\">Expedia</a>). Bien qu'elles ne l'affirment "
+"pas explicitement, leurs annonces donnent l'impression que leur but est le "
+"développement de certains logiciels non libres et que les participants sont "
+"censés aider ces projets non philanthropiques."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Those examples show how far down the slope hackathons can slide.  Let's "
 "return to the more common case of a hackathon that is not specifically "
@@ -127,7 +131,7 @@ msgstr ""
 "hackathon qui n'est pas spécifiquement commercial, mais accepte des projets "
 "privateurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When a developer brings a project to a hackathon, and doesn't say whether it "
 "will be free, that is not overt opposition to the community spirit, but it "
@@ -141,7 +145,7 @@ msgstr ""
 "l'esprit de communauté sur lequel ils se basent, en exigeant que les projets "
 "s'engagent à publier d'une façon qui soit en accord avec cet esprit."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This means telling developers, &ldquo;So that you deserve our support and "
 "help, you must agree to give the community the use of your project's results "
@@ -152,7 +156,7 @@ msgstr ""
 "d'utiliser librement les résultats de ton projet, si un jour tu les "
 "considères assez bons pour être utilisés ou publiés. »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "As an individual hackathon participant, you can support this principle: "
 "before joining in any hackathon project, ask &ldquo;What license will you "
@@ -171,7 +175,7 @@ msgstr ""
 "entendent cette discussion, il se peut qu'ils décident de suivre le même "
 "chemin."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To see which licenses are free licenses, see <a href=\"/licenses/license-"
 "list.html\">the GNU license list</a>.  Most &ldquo;open source&rdquo; "
@@ -185,7 +189,7 @@ msgstr ""
 "sont <a href=\"/philosophy/open-source-misses-the-point.html\">non libres "
 "parce que trop restrictives</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Firmness by individuals has an effect, but a policy of the hackathon itself "
 "will have a bigger effect.  Hackathons should ask each participating project "
@@ -195,7 +199,7 @@ msgstr ""
 "même sera plus efficace. Les hackathons devraient demander à chaque projet "
 "participant de s'engager à suivre cette règle :"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "If you ever release or use this code or design, you will release its source "
 "code under a free (libre) license.  If you distribute the code in executable "
@@ -205,7 +209,7 @@ msgstr ""
 "sources correspondantes sous une licence libre. Si vous distribuez le code "
 "sous une forme exécutable, vous le rendrez libre également."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Many hackathons are sponsored or hosted by schools, which is an additional "
 "reason they should adopt this rule.  Free software is a contribution to "
@@ -250,28 +254,25 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
-"Nous faisons le maximum pour proposer des traductions fidèles et de bonne "
-"qualité, mais nous ne sommes pas parfaits. Merci d'adresser vos commentaires "
-"sur cette page, ainsi que vos suggestions d'ordre général sur les "
-"traductions, à <a href=\"mailto:web-translators@gnu.org\"> &lt;web-"
-"translators@gnu.org&gt;</a>.</p>\n"
-"<p>Pour tout renseignement sur la coordination et la soumission des "
-"traductions de nos pages web, reportez-vous au <a href=\"/server/standards/"
-"README.translations.html\">guide de traduction</a>."
+"Merci d'adresser vos commentaires sur cette page et sur les traductions en "
+"général à <a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu."
+"org&gt;</a>. Si vous souhaitez y contribuer, vous trouverez dans le <a href="
+"\"/server/standards/README.translations.html\">guide de traduction</a> les "
+"infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2017 Richard Stallman"
-msgstr "Copyright &copy; 2017 Richard Stallman"
+msgid "Copyright &copy; 2017, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2017, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
