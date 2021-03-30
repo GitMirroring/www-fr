@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: graphics.html\n"
-"POT-Creation-Date: 2021-03-26 12:26+0000\n"
-"PO-Revision-Date: 2021-03-26 14:08+0100\n"
+"POT-Creation-Date: 2021-03-30 14:55+0000\n"
+"PO-Revision-Date: 2021-03-31 00:01+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -184,16 +184,32 @@ msgid "What's new?"
 msgstr "Quoi de neuf ?"
 
 #. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/gnu-silhouette-logos/gnu-silhouette-logos.html\">"
+msgstr "<a href=\"/graphics/gnu-silhouette-logos/gnu-silhouette-logos.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Silhouette of a GNU head, in profile]&nbsp;"
+msgstr " [Silhoutte d'une tête de GNU de profil] "
+
+#. type: Content of: <table><tr><td>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <table><tr><td>
+msgid "March 2021: GNU Silhouette Logos"
+msgstr "Mars 2021 : Silhouette de GNU en logos"
+
+#. type: Content of: <table><tr><td>
+msgid "<small>by JC</small>"
+msgstr "<small>par JC</small>"
+
+#. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/wilgus-gnutiling.html\">"
 msgstr "<a href=\"/graphics/wilgus-gnutiling.html\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "&nbsp;[Embossed GNU-head tiling]&nbsp;"
 msgstr " [Mosaïque de têtes de GNU en léger relief] "
-
-#. type: Content of: <table><tr><td>
-msgid "</a>"
-msgstr "</a>"
 
 #. type: Content of: <table><tr><td>
 msgid "May 2020: GNU-Head Tiling wallpapers"
@@ -294,90 +310,6 @@ msgstr "Septembre 2019: Tête de GNU en style moderne"
 #. type: Content of: <table><tr><td>
 msgid "<small>by Angelo A.</small>"
 msgstr "<small>par Angelo A.</small>"
-
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"/graphics/barr-gnu.html\">"
-msgstr "<a href=\"/graphics/barr-gnu.html\">"
-
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "&nbsp;[GNU logo]&nbsp;"
-msgstr " [Logo pour GNU] "
-
-#. type: Content of: <table><tr><td>
-msgid "September 2018: GNU logo"
-msgstr "Septembre 2018 : Un logo pour GNU"
-
-#. type: Content of: <table><tr><td>
-msgid "<small>by Paul Barr</small>"
-msgstr "<small>par Paul Barr</small>"
-
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"/graphics/gg3po.html\">"
-msgstr "<a href=\"/graphics/gg3po.html\">"
-
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "&nbsp;[New GNU]&nbsp;"
-msgstr "&nbsp;[Nouveau GNU]&nbsp;"
-
-#. type: Content of: <table><tr><td>
-msgid "August 2018: New GNU"
-msgstr "Août 2018 : Nouveau GNU"
-
-#. type: Content of: <table><tr><td>
-msgid "<small>by gg3po</small>"
-msgstr "<small>par gg3po</small>"
-
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"/graphics/arantxa.html\">"
-msgstr "<a href=\"/graphics/arantxa.html\">"
-
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "&nbsp;[Glitch]&nbsp;"
-msgstr " [« Glitch » (Déformation)] "
-
-#. type: Content of: <table><tr><td>
-msgid "July 2018: Sunny GNU designs"
-msgstr "Juillet 2018 : Graphismes GNU ensoleillés"
-
-#. type: Content of: <table><tr><td>
-msgid "<small>by Arantxa Serantes</small>"
-msgstr "<small>par Arantxa Serantes</small>"
-
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"https://librefan.eu.org/node/787\">"
-msgstr "<a href=\"https://librefan.eu.org/node/787\">"
-
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "&nbsp;[Pepper &amp; Carrot]&nbsp;"
-msgstr " [Pepper &amp; Carrot] "
-
-#. type: Content of: <table><tr><td>
-msgid ""
-"May 2018: <em>Pepper &amp; Carrot</em> episode 24 &ndash; a free software "
-"cartoon"
-msgstr ""
-"Mai 2018 : <em>Pepper &amp; Carrot</em> épisode 24 (bande dessinée sur le "
-"logiciel libre)"
-
-#. type: Content of: <table><tr><td>
-msgid "<small>by Librefan</small>"
-msgstr "<small>par Librefan</small>"
-
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"/graphics/freedom-reflection.html\">"
-msgstr "<a href=\"/graphics/freedom-reflection.html\">"
-
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "&nbsp;[Reflecting on GNU and freedom]&nbsp;"
-msgstr " [Réflexion sur GNU et la liberté] "
-
-#. type: Content of: <table><tr><td>
-msgid "May 2018: Freedom Reflection"
-msgstr "Mai 2018 : Réflexion sur la liberté"
-
-#. type: Content of: <table><tr><td>
-msgid "<small>by Crista Moreno</small>"
-msgstr "<small>par Crista Moreno</small>"
 
 #. type: Content of: <h3>
 msgid "GNU Art on this site"
@@ -551,9 +483,21 @@ msgstr "Un autre hacker GNU à son clavier"
 msgid "<small>by Peter McLachlan</small>"
 msgstr "<small>par Peter McLachlan</small>"
 
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/arantxa.html\">"
+msgstr "<a href=\"/graphics/arantxa.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Glitch]&nbsp;"
+msgstr " [« Glitch » (Déformation)] "
+
 #. type: Content of: <table><tr><td>
 msgid "Sunny GNU designs"
 msgstr "Graphismes GNU ensoleillés"
+
+#. type: Content of: <table><tr><td>
+msgid "<small>by Arantxa Serantes</small>"
+msgstr "<small>par Arantxa Serantes</small>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/babygnu.html\">"
@@ -567,9 +511,21 @@ msgstr " [Bébé GNU suçant son pouce] "
 msgid "Baby GNU"
 msgstr "Bébé GNU"
 
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/barr-gnu.html\">"
+msgstr "<a href=\"/graphics/barr-gnu.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU logo]&nbsp;"
+msgstr " [Logo pour GNU] "
+
 #. type: Content of: <table><tr><td>
 msgid "GNU Logo"
 msgstr "Logo pour GNU"
+
+#. type: Content of: <table><tr><td>
+msgid "<small>by Paul Barr</small>"
+msgstr "<small>par Paul Barr</small>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/bokma-gnu.html\">"
@@ -771,9 +727,21 @@ msgstr "Ce que signifie « liberté »"
 msgid "<small>by Michael Pagnotti</small>"
 msgstr "<small>par Michael Pagnotti</small>"
 
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/freedom-reflection.html\">"
+msgstr "<a href=\"/graphics/freedom-reflection.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Reflecting on GNU and freedom]&nbsp;"
+msgstr " [Réflexion sur GNU et la liberté] "
+
 #. type: Content of: <table><tr><td>
 msgid "Freedom Reflection"
 msgstr "Réflexion sur la liberté"
+
+#. type: Content of: <table><tr><td>
+msgid "<small>by Crista Moreno</small>"
+msgstr "<small>par Crista Moreno</small>"
 
 #. type: Content of: <table><tr><td>
 msgid "Freedo on the beach"
@@ -879,9 +847,21 @@ msgstr "Logo-titre du livre « Free Software, Free Society »"
 msgid "<small>by Jonathan Richard</small>"
 msgstr "<small>par Jonathan Richard</small>"
 
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/gg3po.html\">"
+msgstr "<a href=\"/graphics/gg3po.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[New GNU]&nbsp;"
+msgstr "&nbsp;[Nouveau GNU]&nbsp;"
+
 #. type: Content of: <table><tr><td>
 msgid "New GNU"
 msgstr "Nouveau GNU"
+
+#. type: Content of: <table><tr><td>
+msgid "<small>by gg3po</small>"
+msgstr "<small>par gg3po</small>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gleesons.html\">"
@@ -1206,6 +1186,10 @@ msgstr "Citrouille GNU"
 #. type: Content of: <table><tr><td>
 msgid "<small>carved by Jimmy Rustles</small>"
 msgstr "<small>sculptée par Jimmy Rustles</small>"
+
+#. type: Content of: <table><tr><td>
+msgid "GNU Silhouette Logos"
+msgstr "Silhouette de GNU en logos"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/groff-head.html\">"
@@ -1952,11 +1936,23 @@ msgstr "Logo pour le logiciel libre"
 msgid "<small>by Robert Martinez</small>"
 msgstr "<small>par Robert Martinez</small>"
 
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"https://librefan.eu.org/node/787\">"
+msgstr "<a href=\"https://librefan.eu.org/node/787\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Pepper &amp; Carrot]&nbsp;"
+msgstr " [Pepper &amp; Carrot] "
+
 #. type: Content of: <table><tr><td>
 msgid "<em>Pepper &amp; Carrot</em> episode 24 &ndash; a free software cartoon"
 msgstr ""
 "<em>Pepper &amp; Carrot</em> épisode 24 (bande dessinée sur le logiciel "
 "libre)"
+
+#. type: Content of: <table><tr><td>
+msgid "<small>by Librefan</small>"
+msgstr "<small>par Librefan</small>"
 
 #. type: Content of: <table><tr><td><a>
 msgid ""
