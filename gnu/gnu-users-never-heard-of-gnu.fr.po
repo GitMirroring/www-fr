@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-users-never-heard-of-gnu.html\n"
-"POT-Creation-Date: 2019-03-22 00:25+0000\n"
-"PO-Revision-Date: 2019-05-01 15:50+0200\n"
+"POT-Creation-Date: 2021-04-07 17:55+0000\n"
+"PO-Revision-Date: 2021-04-07 20:14+0200\n"
 "Last-Translator: Sogal <sogal AT member.fsf.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -27,17 +27,14 @@ msgstr ""
 "- Free Software Foundation"
 
 #. type: Content of: <h2>
-msgid "GNU Users Who Have Never Heard of GNU"
-msgstr "Les utilisateurs de GNU qui n'ont jamais entendu parler de GNU"
+msgid "GNU Users Who Have Never Heard of&nbsp;GNU"
+msgstr "Les utilisateurs de GNU qui n'ont jamais entendu parler de GNU"
 
-#. type: Content of: <p>
-msgid ""
-"<strong>by <a href=\"http://www.stallman.org/\">Richard Stallman</a></strong>"
-msgstr ""
-"<strong>par <a href=\"http://www.stallman.org/\">Richard Stallman</a></"
-"strong>"
+#. type: Content of: <address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To learn more about this issue, you can also read our <a href=\"/gnu/gnu-"
 "linux-faq.html\">GNU/Linux FAQ</a>, our page on <a href=\"/gnu/why-gnu-linux."
@@ -49,7 +46,7 @@ msgstr ""
 "why-gnu-linux.html\">Pourquoi GNU/Linux ?</a> et notre page sur <a href=\"/"
 "gnu/linux-and-gnu.html\">Linux et le projet GNU</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Most people have never heard of GNU.  Even most of the people who use the "
 "GNU system have never heard of GNU, since so many people and companies teach "
@@ -64,7 +61,7 @@ msgstr ""
 "« font tourner Linux », ce qui est comme de dire que vous « conduisez votre "
 "carburateur » ou que vous « conduisez votre transmission »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Nonetheless, those who know about GNU associate it with the ideals of "
 "freedom of the free software movement.  That association is no accident; the "
@@ -76,7 +73,7 @@ msgstr ""
 "hasard : GNU a été développé spécifiquement pour rendre possible "
 "l'utilisation d'un ordinateur en toute liberté."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "A person seeing the name &ldquo;GNU&rdquo; for the first time in &ldquo;GNU/"
 "Linux&rdquo; won't immediately know what it represents, but has come one "
@@ -95,7 +92,7 @@ msgstr ""
 "ces utilisateurs font une recherche sur GNU, ils trouveront les idées que "
 "GNU défend."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If they don't search, they may encounter them anyway.  The <a href=\"/"
 "philosophy/open-source-misses-the-point.html\">&ldquo;open source&rdquo;</a> "
@@ -116,7 +113,7 @@ msgstr ""
 "liberté et la communauté) s'ils savent qu'ils sont utilisateurs du système "
 "GNU."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Over time, calling the system &ldquo;GNU/Linux&rdquo; spreads awareness of "
 "the ideals of freedom for which we developed the GNU system.  It is also "
@@ -160,31 +157,28 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
-"Nous faisons le maximum pour proposer des traductions fidèles et de bonne "
-"qualité, mais nous ne sommes pas parfaits. Merci d'adresser vos commentaires "
-"sur cette page, ainsi que vos suggestions d'ordre général sur les "
-"traductions, à <a href=\"mailto:web-translators@gnu.org\"> &lt;web-"
-"translators@gnu.org&gt;</a>.</p>\n"
-"<p>Pour tout renseignement sur la coordination et la soumission des "
-"traductions de nos pages web, reportez-vous au <a href=\"/server/standards/"
-"README.translations.html\">guide de traduction</a>."
+"Merci d'adresser vos commentaires sur cette page et sur les traductions en "
+"général à <a href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu."
+"org&gt;</a>. Si vous souhaitez y contribuer, vous trouverez dans le <a href="
+"\"/server/standards/README.translations.html\">guide de traduction</a> les "
+"infos nécessaires."
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2006, 2007, 2013, 2014, 2015, 2017, 2019 Free Software "
+"Copyright &copy; 2006, 2007, 2013-2015, 2017, 2019, 2021 Free Software "
 "Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2006, 2007, 2013, 2014, 2015, 2017, 2019 Free Software "
+"Copyright &copy; 2006, 2007, 2013-2015, 2017, 2019, 2021 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
