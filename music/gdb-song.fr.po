@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gdb-song.html\n"
-"POT-Creation-Date: 2021-04-05 13:55+0000\n"
-"PO-Revision-Date: 2021-04-05 16:05+0200\n"
+"POT-Creation-Date: 2021-04-18 10:56+0000\n"
+"PO-Revision-Date: 2021-04-18 13:10+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -22,126 +22,125 @@ msgstr ""
 msgid "The GDB Song - GNU Project - Free Software Foundation"
 msgstr "La chanson de GDB - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "The GDB Song"
 msgstr "La chanson de GDB"
 
-#. type: Content of: <p><a>
+#. type: Content of: <div><div><a>
 msgid "<a href=\"/graphics/gleesons.html\">"
 msgstr "<a href=\"/graphics/gleesons.html\">"
 
-#. type: Attribute 'alt' of: <p><a><img>
+#. type: Attribute 'alt' of: <div><div><a><img>
 msgid "[colorful rounded image of the Head of a GNU]"
 msgstr "[Image arrondie et colorée de la tête d'un GNU]"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <p><em>
-msgid "<em>with thanks to Joel Bion, Mark Baushke, and Lynn Slater."
-msgstr "<em>Avec nos remerciements à Joel Bion, Mark Baushke, et Lynn Slater."
-
-#. type: Content of: <p>
-msgid ""
-"published earlier in</em> <a href=\"/bulletins/bull4.html#SEC11\">GNU's "
-"Bulletin No. 4</a>."
-msgstr ""
-"Publié précédemment dans le</em> <a href=\"/bulletins/bull4."
-"html#SEC11\">GNU's Bulletin N° 4</a>."
-
-# SEC11">Bulletin du GNU"
-#. type: Content of: <p>
-msgid ""
-"<strong>Somebody asked us what was GDB. With apologies to Oscar Hammerstein "
-"II, Richard Rodgers, and Julie Andrews, we offered the following reply:</"
-"strong>"
-msgstr ""
-"<strong>Quelqu'un nous a demandé ce qu'était GDB. Avec nos excuses à Oscar "
-"Hammerstein II, Richard Rodgers et Julie Andrews, nous lui avons donné la "
-"réponse suivante :</strong>"
+#. type: Content of: <div><address>
+msgid "with thanks to Joel Bion, Mark Baushke, and Lynn Slater"
+msgstr "Avec nos remerciements à Joel Bion, Mark Baushke, et Lynn Slater"
 
 #. type: Content of: <div><p>
+msgid ""
+"published earlier in <a href=\"/bulletins/bull4.html#SEC11\">GNU's Bulletin "
+"No. 4</a>."
+msgstr ""
+"Publié précédemment dans le <a href=\"/bulletins/bull4.html#SEC11\">GNU's "
+"Bulletin N° 4</a>."
+
+# SEC11">Bulletin du GNU"
+#. type: Content of: <div><div><p>
+msgid ""
+"Somebody asked us what was GDB. With apologies to Oscar Hammerstein&nbsp;II, "
+"Richard Rodgers, and Julie Andrews, we offered the following reply:"
+msgstr ""
+"Quelqu'un nous a demandé ce qu'était GDB. Avec nos excuses à Oscar "
+"Hammerstein II, Richard Rodgers et Julie Andrews, nous lui avons donné la "
+"réponse suivante :"
+
+#. type: Content of: <div><div><div><p>
 msgid "Let's start at the very beginning, a very good place to start,"
 msgstr "Commençons par le tout début, un très bon point pour commencer,"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><div><p>
 msgid "When you're learning to sing, its Do, Re, Mi;"
 msgstr "Quand vous apprenez à chanter, c'est do, ré, mi ;"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><div><p>
 msgid "When you're learning to code, its G, D, B."
 msgstr "quand vous apprenez à coder, c'est G, D, B."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><div><p>
 msgid "(background) G, D, B."
 msgstr "(fond) G, D, B."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><div><p>
 msgid "The first three letters just happen to be, G, D, B."
 msgstr "Les trois premières lettres se trouvent être, G, D, B."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><div><p>
 msgid "(Chorus)"
 msgstr "(Refrain)"
 
-#. type: Content of: <div><dl><dt>
+#. type: Content of: <div><div><div><dl><dt>
 msgid "G!,"
 msgstr "G !"
 
-#. type: Content of: <div><dl><dd>
+#. type: Content of: <div><div><div><dl><dd>
 msgid "GNU!, it's Stallman's hope,"
 msgstr "GNU ! C'est l'espoir de Stallman,"
 
-#. type: Content of: <div><dl><dt>
+#. type: Content of: <div><div><div><dl><dt>
 msgid "D,"
 msgstr "D,"
 
-#. type: Content of: <div><dl><dd>
+#. type: Content of: <div><div><div><dl><dd>
 msgid "debug that rotten code,"
 msgstr "déboguons ce code pourri :"
 
-#. type: Content of: <div><dl><dt>
+#. type: Content of: <div><div><div><dl><dt>
 msgid "B,"
 msgstr "B,"
 
-#. type: Content of: <div><dl><dd>
+#. type: Content of: <div><div><div><dl><dd>
 msgid "a break I set myself."
 msgstr "une pause que je m'accorde."
 
-#. type: Content of: <div><dl><dt>
+#. type: Content of: <div><div><div><dl><dt>
 msgid "Run,"
 msgstr "<code>run</code>,"
 
-#. type: Content of: <div><dl><dd>
+#. type: Content of: <div><div><div><dl><dd>
 msgid "a far, far way to go."
 msgstr "un long, long chemin à suivre ;"
 
-#. type: Content of: <div><dl><dt>
+#. type: Content of: <div><div><div><dl><dt>
 msgid "Print,"
 msgstr "<code>print</code>,"
 
-#. type: Content of: <div><dl><dd>
+#. type: Content of: <div><div><div><dl><dd>
 msgid "to see what you have done,"
 msgstr "pour voir ce que vous avez accompli ;"
 
-#. type: Content of: <div><dl><dt>
+#. type: Content of: <div><div><div><dl><dt>
 msgid "Set,"
 msgstr "<code>set</code>,"
 
-#. type: Content of: <div><dl><dd>
+#. type: Content of: <div><div><div><dl><dd>
 msgid "a patch that follows print."
 msgstr "un patch qui suit <code>print</code> ;"
 
-#. type: Content of: <div><dl><dt>
+#. type: Content of: <div><div><div><dl><dt>
 msgid "Quit,"
 msgstr "<code>quit</code>,"
 
-#. type: Content of: <div><dl><dd>
+#. type: Content of: <div><div><div><dl><dd>
 msgid "and recompile your code - - -"
 msgstr "et recompilez votre code&hellip;"
 
-#. type: Content of: <div><pre>
+#. type: Content of: <div><div><div><pre>
 #, no-wrap
 msgid ""
 "That will bring it back to G,\n"
@@ -154,34 +153,35 @@ msgstr ""
 "                              B,\n"
 "                                 &lt;link&gt;"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><div><p>
 msgid "(Resume from the Chorus)"
 msgstr "(Reprendre depuis le refrain)"
 
-#. type: Content of: <h4>
-msgid "Licensing"
-msgstr "Licence"
+#. type: Content of: <div><p>
+msgid ""
+"Other songs, poems and jokes in the <a href=\"/fun/humor.html\">GNU Humor "
+"Collection</a>"
+msgstr ""
+"Autres chansons, poèmes et blagues dans la collection d'<a href=\"/fun/humor."
+"html\">humour GNU</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><h3>
+msgid "Disclaimer"
+msgstr "Renonciation au copyright"
+
+#. type: Content of: <div><div><p>
 msgid ""
 "The song on this page was originally obtained from the FSF's email archives "
 "of the GNU Project."
 msgstr ""
-"La blague figurant sur cette page provient des >archives de courriel du "
+"La chanson figurant sur cette page provient des >archives de courriel du "
 "projet GNU maintenues par la FSF."
 
-#. type: Content of: <p>
-msgid "The Free Software Foundation claims no copyrights on this song."
+#. type: Content of: <div><div><p>
+msgid "The Free Software Foundation claims no copyright on this work."
 msgstr ""
 "La <i>Free Software Foundation</i> ne revendique aucun droit d'auteur sur "
-"cette chanson."
-
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/fun/humor.html\">Other humor</a> in the GNU Humor Collection."
-msgstr ""
-"<a href=\"/fun/humor.html\">D'autres blagues</a> dans la collection d'humour "
-"GNU."
+"cette œuvre."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -224,25 +224,6 @@ msgstr ""
 "org&gt;</a>. Si vous souhaitez y contribuer, vous trouverez dans le <a href="
 "\"/server/standards/README.translations.html\">guide de traduction</a> les "
 "infos nécessaires."
-
-#. type: Content of: <div><p>
-msgid ""
-"Copyright (C) 1999, 2000, 2001, 2013, 2014, 2020, 2021 Free Software "
-"Foundation, Inc."
-msgstr ""
-"Copyright (C) 1999, 2000, 2001, 2013, 2014, 2020, 2021 Free Software "
-"Foundation, Inc."
-
-#. type: Content of: <div><p>
-msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
-"NoDerivatives 4.0 International License</a>."
-msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
-"\">Creative Commons attribution, pas de modification, 4.0 internationale "
-"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
