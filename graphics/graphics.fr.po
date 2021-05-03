@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: graphics.html\n"
-"POT-Creation-Date: 2021-03-30 14:55+0000\n"
-"PO-Revision-Date: 2021-03-31 00:01+0200\n"
+"POT-Creation-Date: 2021-05-03 16:56+0000\n"
+"PO-Revision-Date: 2021-05-03 21:11+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -184,16 +184,48 @@ msgid "What's new?"
 msgstr "Quoi de neuf ?"
 
 #. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/sventsitsky-sadgnu.html\">"
+msgstr "<a href=\"/graphics/sventsitsky-sadgnu.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Sad GNU and Tux]&nbsp;"
+msgstr " [GNU et Tux sont tout tristes] "
+
+#. type: Content of: <table><tr><td>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <table><tr><td>
+msgid "May 2021: Sad GNU and Tux"
+msgstr "Mai 2021 : GNU et Tux sont tristes"
+
+#. type: Content of: <table><tr><td>
+msgid "<small>by Nadia Sventsitsky</small>"
+msgstr "<small>par Nadia Sventsitsky</small>"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/sevinc-gnu-watercolor.html\">"
+msgstr "<a href=\"/graphics/sevinc-gnu-watercolor.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Watercolor GNU Head]&nbsp;"
+msgstr " [Tête de GNU en aquarelle] "
+
+#. type: Content of: <table><tr><td>
+msgid "May 2021: GNU Mascot Watercolor"
+msgstr "Mai 2021 : Mascotte GNU en aquarelle"
+
+#. type: Content of: <table><tr><td>
+msgid "<small>by Uzay Onat Sevinç</small>"
+msgstr "<small>par Uzay Onat Sevinç</small>"
+
+#. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnu-silhouette-logos/gnu-silhouette-logos.html\">"
 msgstr "<a href=\"/graphics/gnu-silhouette-logos/gnu-silhouette-logos.html\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "&nbsp;[Silhouette of a GNU head, in profile]&nbsp;"
 msgstr " [Silhoutte d'une tête de GNU de profil] "
-
-#. type: Content of: <table><tr><td>
-msgid "</a>"
-msgstr "</a>"
 
 #. type: Content of: <table><tr><td>
 msgid "March 2021: GNU Silhouette Logos"
@@ -1503,6 +1535,10 @@ msgstr "Gnous décoratifs"
 msgid "<small>by Carol Anne Scowcroft</small>"
 msgstr "<small>par Carol Anne Scowcroft</small>"
 
+#. type: Content of: <table><tr><td>
+msgid "GNU Mascot Watercolor"
+msgstr "Mascotte GNU en aquarelle"
+
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/skwetu-gnu-logo.html\">"
 msgstr "<a href=\"/graphics/skwetu-gnu-logo.html\">"
@@ -1626,6 +1662,10 @@ msgstr "Tête de GNU simplifiée"
 #. type: Content of: <table><tr><td>
 msgid "<small>by Sven H.</small>"
 msgstr "<small>par Sven H.</small>"
+
+#. type: Content of: <table><tr><td>
+msgid "Sad GNU and Tux"
+msgstr "GNU et Tux sont tristes"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/supergnu-ascii.html\">"
