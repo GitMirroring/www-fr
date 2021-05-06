@@ -2,13 +2,13 @@
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza, 2007.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2013, 2016, 2017, 2019, 2020.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2013, 2016, 2017, 2019-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: wallpapers.html\n"
-"POT-Creation-Date: 2020-05-02 12:55+0000\n"
-"PO-Revision-Date: 2020-12-06 14:03+0100\n"
+"POT-Creation-Date: 2021-05-06 11:55+0000\n"
+"PO-Revision-Date: 2021-05-06 16:35+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -26,19 +26,27 @@ msgstr "Fonds d'écran - Projet GNU - Free Software Foundation"
 msgid "Wallpapers"
 msgstr "Fonds d'écran"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "See also:"
 msgstr "Voir également :"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href=\"/graphics/goschler-its-me-and-gnu.html\">It's Me and GNU</a> by "
+"Stefan Goschler,"
+msgstr ""
+"<a href=\"/graphics/goschler-its-me-and-gnu.html\">C'est moi et GNU</a> de "
+"Stefan Goschler,"
+
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"/graphics/wilgus-gnutiling.html\">GNU-Head Tiling wallpapers</a> "
 "by Kacper Wilgus,"
 msgstr ""
-"<a href=\"/graphics/wilgus-gnutiling.html\">Mosaïques de têtes de GNU</a> "
-"deKacper Wilgus,"
+"<a href=\"/graphics/wilgus-gnutiling.html\">Mosaïques de têtes de GNU</a> de "
+"Kacper Wilgus,"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"/graphics/r4sh-gnu-vaporwave.html\">GNU Vaporwave Design</a> by "
 "R4sh,"
@@ -46,7 +54,7 @@ msgstr ""
 "<a href=\"/graphics/r4sh-gnu-vaporwave.html\">Graphisme GNU dans le style "
 "vaporwave</a> de R4sh,"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"/graphics/skwid-wallpapers.html\">GNU Designs</a> by Ben &ldquo;"
 "Skwid&rdquo; Gailly,"
@@ -54,7 +62,7 @@ msgstr ""
 "<a href=\"/graphics/skwid-wallpapers.html\">Graphismes GNU</a> de Ben &ldquo;"
 "Skwid&rdquo; Gailly,"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"/graphics/free-your-soul.html\">Free Your Soul wallpaper</a> by "
 "Sayem Chaklader,"
@@ -62,15 +70,14 @@ msgstr ""
 "<a href=\"/graphics/free-your-soul.html\">Fond d'écran <i>« Free Your "
 "Soul »</i></a> (Libérez votre esprit) de Sayem Chaklader."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
-"<a href=\"/graphics/plant-onion.html\">Plant Onions!</a> by P&eacute;"
-"h&aacute;,"
+"<a href=\"/graphics/plant-onion.html\">Plant Onions!</a> by P&eacute;h&auml;,"
 msgstr ""
 "<i>« <a href=\"/graphics/plant-onion.html\">Plant Onions!</a> »</i> (Plantez "
 "des oignons) de Péhä."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"/graphics/this-is-freedom-wallpaper.html\">This is Freedom "
 "wallpaper</a> by Vadim Gush,"
@@ -78,7 +85,7 @@ msgstr ""
 "<a href=\"/graphics/this-is-freedom-wallpaper.html\">Fond d'écran <i>« This "
 "is Freedom »</i></a> (Voici la liberté) de Vadim Gush."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"/graphics/emacs-ref.html\">GNU Emacs Reference Card</a> by Loic "
 "Duros and FSF Staff."
@@ -724,14 +731,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur cette page et sur les traductions en "
@@ -742,10 +749,10 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"<em>Page text:</em>&nbsp; Copyright &copy; 2019, 2020 Free Software "
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019-2021 Free Software "
 "Foundation, Inc."
 msgstr ""
-"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019, 2020 Free Software "
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019-2021 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>

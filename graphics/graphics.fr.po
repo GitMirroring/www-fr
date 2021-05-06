@@ -2,13 +2,13 @@
 # Copyright (C) 2005 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Romain Gardon, 2005.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012-2020.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012-2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: graphics.html\n"
-"POT-Creation-Date: 2021-05-04 11:26+0000\n"
-"PO-Revision-Date: 2021-05-03 21:11+0200\n"
+"POT-Creation-Date: 2021-05-06 11:55+0000\n"
+"PO-Revision-Date: 2021-05-06 16:35+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -184,16 +184,32 @@ msgid "What's new?"
 msgstr "Quoi de neuf ?"
 
 #. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/goschler-its-me-and-gnu.html\">"
+msgstr "<a href=\"/graphics/goschler-its-me-and-gnu.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Flower fractal]&nbsp;"
+msgstr " [Fractale florale] "
+
+#. type: Content of: <table><tr><td>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <table><tr><td>
+msgid "May 2021: It's Me and GNU"
+msgstr "Mai 2021 : C'est moi et GNU"
+
+#. type: Content of: <table><tr><td>
+msgid "<small>by Stefan Goschler</small>"
+msgstr "<small>par Stefan Goschler</small>"
+
+#. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/sventsitsky-sadgnu.html\">"
 msgstr "<a href=\"/graphics/sventsitsky-sadgnu.html\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "&nbsp;[Sad GNU and Tux]&nbsp;"
 msgstr " [GNU et Tux sont tout tristes] "
-
-#. type: Content of: <table><tr><td>
-msgid "</a>"
-msgstr "</a>"
 
 #. type: Content of: <table><tr><td>
 msgid "May 2021: Sad GNU and Tux"
@@ -229,7 +245,7 @@ msgstr " [Silhoutte d'une tête de GNU de profil] "
 
 #. type: Content of: <table><tr><td>
 msgid "March 2021: GNU Silhouette Logos"
-msgstr "Mars 2021 : Silhouette de GNU en logos"
+msgstr "Mars 2021 : Logos responsifs pour gnu.org"
 
 #. type: Content of: <table><tr><td>
 msgid "<small>by JC</small>"
@@ -1217,7 +1233,11 @@ msgstr "<small>sculptée par Jimmy Rustles</small>"
 
 #. type: Content of: <table><tr><td>
 msgid "GNU Silhouette Logos"
-msgstr "Silhouette de GNU en logos"
+msgstr "Logos responsifs pour gnu.org"
+
+#. type: Content of: <table><tr><td>
+msgid "It's Me and GNU"
+msgstr "C'est moi et GNU"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/groff-head.html\">"
@@ -2129,6 +2149,15 @@ msgstr "par Edward Alfert</small>"
 #. type: Content of: <p>
 msgid "<a href=\"#select\">Back to selection form</a>"
 msgstr "<a href=\"#select\">Retour au formulaire de sélection</a>"
+
+#. type: Content of: <p>
+msgid ""
+"You can also find GNU-related public domain graphics at <a href=\"https://"
+"openclipart.org/search/?query=GNU\">openclipart.org</a>."
+msgstr ""
+"On peut aussi trouver sur <a href=\"https://openclipart.org/search/?query=GNU"
+"\">openclipart.org</a> des illustrations sur le thème de GNU appartenant au "
+"domaine public."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
