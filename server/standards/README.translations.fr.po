@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: README.translations.html\n"
-"POT-Creation-Date: 2021-04-27 12:55+0000\n"
-"PO-Revision-Date: 2021-04-27 15:59+0200\n"
+"POT-Creation-Date: 2021-05-07 12:55+0000\n"
+"PO-Revision-Date: 2021-05-07 15:43+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -31,10 +31,6 @@ msgstr ""
 #. type: Content of: <h2>
 msgid "Guide to Translating Web Pages on www.gnu.org"
 msgstr "Guide de traduction des pages web de www.gnu.org"
-
-#. type: Content of: <h3>
-msgid "Introduction"
-msgstr "Introduction"
 
 #. type: Content of: <p>
 msgid ""
@@ -84,11 +80,36 @@ msgstr ""
 "connaître de GNUN, mais vous pouvez apporter une aide supplémentaire si vous "
 "savez l'utiliser."
 
-#. type: Content of: <h3>
-msgid "Who can help"
+#. type: Content of: <div><h3>
+msgid "Table of Contents"
+msgstr "Table des matières"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#who\">Who can Help</a>"
+msgstr "<a href=\"#who\">Qui peut aiderw</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#how\">How to Participate</a>"
+msgstr "<a href=\"#how\">Comment participer</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#general-guide\">General Guide for Translations</a>"
+msgstr "<a href=\"#general-guide\">Guide général des traductions</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#coordinator-guide\">Guide for Team Coordinators</a>"
+msgstr ""
+"<a href=\"#coordinator-guide\">Guide pour les coordinateurs d'équipe</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#teams\">Translation Teams</a>"
+msgstr "<a href=\"#teams\">Équipes de traduction</a>"
+
+#. type: Content of: <div><h3>
+msgid "Who can Help"
 msgstr "Qui peut aider"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "All teams are always looking for new volunteers. Basically, there is a task "
 "for everyone in the translation process: we need people with good language "
@@ -101,7 +122,7 @@ msgstr ""
 "ayant un bon niveau technique ou désireux d'acquérir quelques techniques "
 "simples."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "If you have a deep understanding of written English and a rich command of "
 "your native language, you can certainly engage in translation, or do proof-"
@@ -112,7 +133,7 @@ msgstr ""
 "mettre à la traduction, ou bien à la relecture. Il n'est pas nécessaire de "
 "bien écrire l'anglais."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "If your understanding of English is not first class, or if you don't know "
 "English at all but have a good mastery of your mother tongue, you can help "
@@ -125,7 +146,7 @@ msgstr ""
 "personnes pour faire en sorte qu'elles se lisent facilement et que leur "
 "style soit correct."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "If you are a native English speaker, and you can read another language, even "
 "if not quickly and easily, you can still help improve translations in that "
@@ -143,7 +164,7 @@ msgstr ""
 "pouvez indiquer les erreurs possibles et expliquer ce que veut dire la "
 "phrase, puis d'autres peuvent retraduire ce passage."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "If you are inclined or willing to go for the more technical side of the "
 "translation process, you can help further; for example, by preparing "
@@ -153,15 +174,15 @@ msgstr ""
 "processus de traduction, ou envie de le faire, vous pouvez apporter une aide "
 "supplémentaire ; par exemple en préparant les textes pour la publication."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "How to Participate"
 msgstr "Comment participer"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "As a Team Member"
 msgstr "Comme membre d'une équipe"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "Please read the <a href=\"#general-guide\">General Guide for Translations</"
 "a> below and then contact the relevant <a href=\"#teams\">translation team</"
@@ -181,11 +202,11 @@ msgstr ""
 "traductions <a href=\"mailto:web-translators@gnu.org\">&lt;web-"
 "translators@gnu.org&gt;</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "As an Occasional Contributor"
 msgstr "Comme contributeur occasionnel"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "If you just want to submit a new translation and are not interested in "
 "collaborating regularly, follow the <a href=\"#general-guide\">General Guide "
@@ -203,11 +224,11 @@ msgstr ""
 "translators@gnu.org\">&lt;web-translators@gnu.org&gt;</a> s'il n'y a pas "
 "d'équipe ni de coordinateur pour votre langue."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "As a Team Coordinator"
 msgstr "Comme coordinateur d'équipe"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "If there is no team established for your language or a new Team Coordinator "
 "is needed, we will be grateful if you undertake that task.  As a "
@@ -221,20 +242,20 @@ msgstr ""
 "href=\"#general-guide\">guide général des traductions</a> et le <a href="
 "\"#coordinator-guide\">guide spécifique pour les coordinateurs d'équipes</a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "General Guide for Translations"
 msgstr "Guide général des traductions"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Here are our specific goals for our translated pages."
 msgstr ""
 "Voici les objectifs spécifiques que nous fixons aux traductions de nos pages."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Clarity"
 msgstr "Clarté"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "With few exceptions, the pages we translate are addressed to the general "
 "public.  Before working on a page, please look at the original and ask "
@@ -246,7 +267,7 @@ msgstr ""
 "et demandez-vous s'il s'adresse aux programmeurs ou au grand public. Puis "
 "faites une traduction qui vise le même public."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In pages meant for the general public, please avoid words that are not found "
 "in common dictionaries, except for our special terms such as &ldquo;"
@@ -256,11 +277,11 @@ msgstr ""
 "pas dans les dictionnaires courants, sauf les mots de notre terminologie "
 "spéciale comme « GNU » et « copyleft » (voir la liste ci-dessous)."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Accuracy"
 msgstr "Précision"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In order to produce a translation which is accurate and faithful to the "
 "original, you need to be familiar with the basic concepts of the GNU Project "
@@ -270,7 +291,7 @@ msgstr ""
 "vous familiariser avec les concepts de base du projet GNU et la terminologie "
 "particulière utilisée sur gnu.org."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Please study the <a href=\"/philosophy\"> philosophy </a> of the free "
 "software movement, so that you can present it properly and clearly.  The "
@@ -280,12 +301,12 @@ msgstr ""
 "du logiciel libre pour être à même de le présenter de manière claire et "
 "correcte. Les articles suivants vous seront particulièrement utiles :"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"/philosophy/free-sw.html\">What is Free Software?</a>"
 msgstr ""
 "<a href=\"/philosophy/free-sw.html\">Définition d'un logiciel libre</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/categories.html\">Categories of Free and Nonfree "
 "Software</a>"
@@ -293,17 +314,17 @@ msgstr ""
 "<a href=\"/philosophy/categories.html\">Catégories de logiciels libres et "
 "non libres</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"/philosophy/words-to-avoid.html\">Words to Avoid</a>"
 msgstr ""
 "<a href=\"/philosophy/words-to-avoid.html\">Mots ou phrases prêtant à "
 "confusion, que vous devriez éviter (ou utiliser avec précaution)</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"/gnu/why-gnu-linux.html\">What's in a Name?</a>"
 msgstr "<a href=\"/gnu/why-gnu-linux.html\">Qu'y a-t-il dans un nom ?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/open-source-misses-the-point.html\">Open Source Misses "
 "the Point of Free Software</a>"
@@ -311,11 +332,11 @@ msgstr ""
 "<a href=\"/philosophy/open-source-misses-the-point.html\">En quoi l'open "
 "source perd de vue l'éthique du logiciel libre</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "These terms and files need special attention:"
 msgstr "Ces termes et ces fichiers demandent une attention particulière :"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "<strong>Copyleft</strong>. This is a term that can be difficult to translate "
 "in some languages. It is a pun on the word &ldquo;Copyright&rdquo; based on "
@@ -336,7 +357,7 @@ msgstr ""
 "traduction pour votre langue, la seule option est peut-être d'utiliser le "
 "mot anglais."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "<strong>Free Software</strong>. Most languages have a word for free-as-in-"
 "freedom and another word for gratis (zero price).  In gnu.org we generally "
@@ -352,7 +373,7 @@ msgstr ""
 "<i>free</i> par le mot qui veut dire « libre comme dans liberté » et non par "
 "celui qui se réfère au prix."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "However, in some old pages, such as the GNU Manifesto and the initial "
 "announcement, we did not yet make the distinction.  In translating these "
@@ -369,7 +390,7 @@ msgstr ""
 "particulière : ou bien la liberté, ou bien le prix, ou bien de manière "
 "ambiguë, les deux."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "However, even in these old pages, the word you normally use to translate "
 "&ldquo;free&rdquo; in &ldquo;free software&rdquo; should be the one that "
@@ -379,7 +400,7 @@ msgstr ""
 "normalement pour traduire <i>free</i> dans <i>free sofware</i> doit être "
 "celui qui se réfère à la liberté."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "See the <a href=\"/philosophy/fs-translations.html\">Translations of the "
 "Term &ldquo;Free Software&rdquo;</a> in several languages."
@@ -387,7 +408,7 @@ msgstr ""
 "Regardez les <a href=\"/philosophy/fs-translations.html\">traductions du "
 "terme <i>free software</i></a> en plusieurs langues."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "<strong>Digital Restrictions Management (DRM)</strong>. This is what we use "
 "in gnu.org to avoid the propaganda term &ldquo;Digital Rights "
@@ -402,7 +423,7 @@ msgstr ""
 "que ces restrictions s'appliquent non seulement au domaine numérique mais "
 "également aux objets physiques. "
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "However, there is a subtle ambiguity in the English term &ldquo;Digital "
 "Restrictions Management&rdquo;.  It can be interpreted in two ways:"
@@ -411,19 +432,19 @@ msgstr ""
 "<i>Digital Restrictions Management</i> (DRM). Elle peut avoir l'une de ces "
 "deux significations :"
 
-#. type: Content of: <ul><li><ol><li>
+#. type: Content of: <div><ul><li><ol><li>
 msgid "<strong>Digital Management of Restrictions</strong>."
 msgstr ""
 "<strong><i>Digital Management of Restrictions</i> (gestion numérique des "
 "restrictions)</strong>"
 
-#. type: Content of: <ul><li><ol><li>
+#. type: Content of: <div><ul><li><ol><li>
 msgid "Management of Digital Restrictions."
 msgstr ""
 "<i>Management of Digital Restrictions</i> (gestion des restrictions "
 "numériques)."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "In many languages these require different wording. The correct meaning is "
 "the first one, so translations should make this clear.  Likewise with &ldquo;"
@@ -434,7 +455,7 @@ msgstr ""
 "traductions doivent le faire clairement comprendre. De même avec <i>rights</"
 "i> au lieu de <i>restrictions</i>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "<strong>Should</strong>. In regard to an ethical issue, &ldquo;should&rdquo; "
 "means it would be wrong to do anything else.  For instance, the page "
@@ -447,7 +468,7 @@ msgstr ""
 "(Pourquoi le logiciel doit être libre) explique pourquoi il est mal de "
 "rendre le logiciel non libre dans le monde réel qui est le nôtre."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Therefore, please translate &ldquo;should&rdquo; using a verb form that "
 "implies a strong ethical obligation.  Don't translate it in a way that means "
@@ -460,7 +481,7 @@ msgstr ""
 "le logiciel devrait être libre ». Ces expressions ne sont pas assez fortes."
 "<a id=\"TransNote1-rev\" href=\"#TransNote1\"><sup>1</sup></a>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "<strong>GNU's Not Unix</strong>. When translating &ldquo;GNU's Not "
 "Unix&rdquo;, please ensure that the translation remains recursive. If a "
@@ -474,7 +495,7 @@ msgstr ""
 "utilisez la forme suivante (cet exemple est en suédois) : <i>GNU's Not Unix</"
 "i> (<span xml:lang=\"sv\" lang=\"sv\">GNU &auml;r inte Unix</span>)."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Exception: The page philosophy/words-to-avoid.html is an exception to our "
 "usual policies about which terminology to use, because it presents examples "
@@ -489,7 +510,7 @@ msgstr ""
 "citons ce terme dans philosophy/words-to-avoid.html pour conseiller aux "
 "autres de l'éviter. "
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "As a translator, it is best if you follow the English text.  Where the "
 "English text says &ldquo;Digital Rights Management&rdquo;, translate that.  "
@@ -501,7 +522,7 @@ msgstr ""
 "où le texte anglais dit <i>Digital Restrictions Management</i>, traduisez "
 "cela. "
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "<strong>Surveillance</strong>. This word has false-friends in Romance "
 "languages because of its Latin root. In English, it specifically means the "
@@ -520,7 +541,7 @@ msgstr ""
 "regard bienveillant d'un berger sur ses moutons ou d'une enseignante sur ses "
 "élèves."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "When translating &ldquo;surveillance&rdquo;, please make sure you don't use "
 "a word which could be interpreted as &ldquo;benevolent watch&rdquo;. If "
@@ -532,7 +553,7 @@ msgstr ""
 "spécifique, le mot ayant pour sens « espionnage » peut être approprié dans "
 "le contexte des logiciels privateurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For more info, see <a href=\"/server/standards/translations/interpreters-"
 "guide.html\"> Interpreters Guide</a>"
@@ -540,7 +561,7 @@ msgstr ""
 "Vous trouverez des renseignements supplémentaires dans le <a href=\"/server/"
 "standards/translations/interpreters-guide.html\">guide de l'interprète</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Before installing or before submitting your translation for installation in "
 "gnu.org:"
@@ -548,7 +569,7 @@ msgstr ""
 "Avant d'installer votre traduction sur gnu.org, ou de la soumettre pour "
 "installation :"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Have your translation reviewed by as many members of your team as possible. "
 "Peer review is crucial for the quality of the translation process. Too many "
@@ -568,7 +589,7 @@ msgstr ""
 "en résulte une traduction de meilleure qualité car un plus grand nombre de "
 "personne l'ont regardée."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "If there is no team established for your language, show your translations to "
 "friends who are not experts on free software or GNU, to see if they "
@@ -578,11 +599,11 @@ msgstr ""
 "traductions à des amis qui ne sont pas experts du logiciel libre ni de GNU, "
 "pour voir s'ils comprennent bien la traduction."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Licensing of Translations"
 msgstr "Licence des traductions"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A translation page should be licensed just like the original page.  If the "
 "original page carries a Creative Commons license, use the same Creative "
@@ -594,7 +615,7 @@ msgstr ""
 "Creative Commons. Si l'original dit qu'il est dans le domaine public, la "
 "traduction doit dire la même chose."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For specific rules, see <a href=\"/software/trans-coord/manual/web-trans/"
 "html_node/Distribution-Terms.html\"> Distribution Terms</a> in the <cite>GNU "
@@ -604,11 +625,11 @@ msgstr ""
 "coord/manual/web-trans/html_node/Distribution-Terms.html\"> Distribution "
 "Terms</a> du <cite>GNU Web Translators Manual</cite>."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "What to Translate"
 msgstr "Ce qu'il faut traduire"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We accept contributions of translations of all articles in all languages, "
 "but you should first browse our <a href=\"/server/standards/translations/"
@@ -618,7 +639,7 @@ msgstr ""
 "mais vous devriez d'abord consulter la page <a href=\"/server/standards/"
 "translations/priorities.html\">Web Translation Priorities</a> :"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Again, please coordinate with your language team before starting any work, "
 "to get clear instructions on how to proceed and to avoid duplicating efforts."
@@ -628,11 +649,11 @@ msgstr ""
 "instructions précises sur la manière de procéder et pour éviter de dupliquer "
 "le travail."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Translators Manual"
 msgstr "Manuel des traducteurs"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You may also want to read the <a href=\"/software/trans-coord/manual/web-"
 "trans/\">GNU Web Translators Manual</a> if you wish to have a better "
@@ -646,11 +667,11 @@ msgstr ""
 "d'abord contacter l'équipe ; il est très probable que vous ne serez pas "
 "obligé de le lire pour commencer à vous rendre utile."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Guide for Team Coordinators"
 msgstr "Guide pour les coordinateurs d'équipe"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The following is an explanation of what a Team Coordinator does "
 "specifically. In addition to what has already been described, a Team "
@@ -660,7 +681,7 @@ msgstr ""
 "coordinateur d'équipe. Outre ce qui vient d'être décrit, un coordinateur "
 "d'équipe :"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "sees to it that all texts to be published are faithful to the original and "
 "respect the terminology used in our website. All translations submitted by "
@@ -672,7 +693,7 @@ msgstr ""
 "soumises par les membres de l'équipe ou par des contributeurs occasionnels "
 "sont révisées et approuvées par le coordinateur d'équipe avant publication ;"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "understands thoroughly how our translation system works, and knows how to "
 "use the tools that we have adopted. In the following section we explain "
@@ -682,11 +703,11 @@ msgstr ""
 "utiliser les outils que nous avons adoptés. Dans la section suivante, nous "
 "expliquons brièvement comment on fait."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Tools"
 msgstr "Outils"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We use .po (Portable Object) files to process and maintain translations.  A ."
 "po file contains the original text and its translation, divided in "
@@ -696,7 +717,7 @@ msgstr ""
 "maintenir à jour les traductions. Un fichier .po contient le texte original "
 "et sa traduction, divisés en paragraphes. Voici comment nous procédons :"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "When a new article is published in our website, GNUN, the program we "
 "mentioned at the beginning of this page, generates a .pot file (.po "
@@ -712,7 +733,7 @@ msgstr ""
 "vérifie, et s'il n'y a pas d'erreur dans le code, la version HTML traduite "
 "de l'article original est publiée automatiquement sur le site."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Whenever there is a change in the original HTML article, the .pot and .po "
 "files are regenerated by GNUN to merge the changes, clearly showing the "
@@ -727,11 +748,11 @@ msgstr ""
 "jour, ce dernier est committé et la version HTML de la traduction est "
 "automatiquement mise à jour sur le site."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ".po files can be edited by using any .po file editor."
 msgstr "Les fichiers .po peuvent être édités par n'importe quel éditeur de PO."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Note: Some team members or occasional contributors may find it difficult or "
 "inconvenient to translate using PO files. However, contributions submitted "
@@ -747,7 +768,7 @@ msgstr ""
 "simple destiné aux personnes n'ayant qu'une expertise réduite en "
 "informatique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We have also implemented notification tools to keep translators informed of "
 "changes in the original pages. In any case, a Team Coordinator needs to "
@@ -764,11 +785,11 @@ msgstr ""
 "utiliser « <em><code>make report TEAM=LANG</code></em> » si GNUN est "
 "installé."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Coordinators Manuals"
 msgstr "Manuels des coordinateurs"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The following manuals explain in detail the translation process that we have "
 "briefly shown above. It is necessary that a coordinator reads and becomes "
@@ -778,7 +799,7 @@ msgstr ""
 "nous avons brièvement présenté plus haut. Tout coordinateur doit "
 "nécessairement les lire et se familiariser avec eux :"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/software/trans-coord/manual/web-trans/\">GNU Web Translators "
 "Manual</a>"
@@ -786,7 +807,7 @@ msgstr ""
 "<a href=\"/software/trans-coord/manual/web-trans/\">GNU Web Translators "
 "Manual</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/software/trans-coord/manual/gnun/\">GNUnited Nations (GNUN)  "
 "Manual</a>"
@@ -794,7 +815,7 @@ msgstr ""
 "<a href=\"/software/trans-coord/manual/gnun/\">GNUnited Nations (GNUN) "
 "Manual</a>,"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/server/standards/README.webmastering.html\">GNU Web Site "
 "Guidelines: For Volunteers</a>"
@@ -802,7 +823,7 @@ msgstr ""
 "<a href=\"/server/standards/README.webmastering.html\">GNU Web Site "
 "Guidelines: For Volunteers</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/server/fsf-html-style-sheet.html\">GNU Web Site Guidelines: HTML "
 "Style Sheet</a>"
@@ -810,7 +831,7 @@ msgstr ""
 "<a href=\"/server/fsf-html-style-sheet.html\">GNU Web Site Guidelines: HTML "
 "Style Sheet</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "After you have read this entire page, if you intend to volunteer and be "
 "listed as the Team Coordinator for your language, please inform the "
@@ -826,16 +847,16 @@ msgstr ""
 "Commencez à lire au moins les deux premiers manuels et demandez de l'aide au "
 "responsable des traductions si vous avez le moindre doute."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Translation Teams"
-msgstr "Équipes de traduction :"
+msgstr "Équipes de traduction"
 
 #. Some docs refer to this anchor
-#. type: Content of: outside any tag (error?)
+#. type: Content of: <div>
 msgid "<span id=\"TranslationsUnderway\"></span>"
 msgstr "<span id=\"TranslationsUnderway\"></span>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Volunteers to establish new teams are more than welcome and will be assisted "
 "during the learning process."
@@ -843,7 +864,7 @@ msgstr ""
 "Les volontaires désirant créer de nouvelles équipes sont plus que bienvenus "
 "et nous les assisterons pendant la mise en route."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the following list, the language code is followed by the name of the "
 "language, and by the name of the Team Coordinator."
@@ -852,7 +873,7 @@ msgstr ""
 "langue, ainsi que du nom et des coordonnées du coordinateur de l'équipe de "
 "traduction."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>ar</code> - <a href=\"https://savannah.nongnu.org/projects/www-ar"
 "\">Arabic</a> (<a href=\"https://savannah.gnu.org/users/ka2in\">Fayçal "
@@ -862,7 +883,7 @@ msgstr ""
 "\">Arabe</a> (<a href=\"https://savannah.gnu.org/users/ka2in\">Fayçal Alami</"
 "a> – nouveau coordinateur demandé)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>az</code> - Azerbaijani (<a href=\"https://savannah.gnu.org/users/igrar"
 "\">Igrar Huseynov</a> - New coordinator needed)"
@@ -870,7 +891,7 @@ msgstr ""
 "<code>az</code> – Azéri (<a href=\"https://savannah.gnu.org/users/igrar"
 "\">Igrar Huseynov</a> – nouveau coordinateur demandé)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>bg</code> - <a href=\"https://savannah.gnu.org/projects/www-bg"
 "\">Bulgarian</a> (<a href=\"https://savannah.gnu.org/users/yavor\">Yavor "
@@ -880,7 +901,7 @@ msgstr ""
 "\">Bulgare</a> (<a href=\"https://savannah.gnu.org/users/yavor\">Yavor "
 "Doganov</a> – nouveau coordinateur demandé)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>bn</code> - <a href=\"https://savannah.gnu.org/projects/www-bn"
 "\">Bengali</a> (<a href=\"https://savannah.gnu.org/users/suzan\">Khandakar "
@@ -890,7 +911,7 @@ msgstr ""
 "\">Bengalî</a> (<a href=\"https://savannah.gnu.org/users/suzan\">Khandakar "
 "Mujahidul Islam</a> – nouveau coordinateur demandé)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>ca</code> - <a href=\"https://savannah.gnu.org/projects/www-ca"
 "\">Catalan</a> (<a href=\"https://savannah.gnu.org/users/puigpe\">Miquel "
@@ -900,7 +921,7 @@ msgstr ""
 "\">Catalan</a> (<a href=\"https://savannah.gnu.org/users/puigpe\">Miquel "
 "Puigpelat</a> – nouveau coordinateur demandé)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>cs</code> - <a href=\"https://savannah.gnu.org/projects/www-cs"
 "\">Czech</a> (<a href=\"https://savannah.gnu.org/users/franta\">František "
@@ -910,7 +931,7 @@ msgstr ""
 "\">Tchèque</a> (<a href=\"https://savannah.gnu.org/users/franta\">František "
 "Kučera</a>)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>da</code> - <a href=\"https://savannah.gnu.org/projects/www-da"
 "\">Danish</a> (<a href=\"https://savannah.gnu.org/users/erikg\">Erik "
@@ -920,7 +941,7 @@ msgstr ""
 "\">Danois</a> (<a href=\"https://savannah.gnu.org/users/erikg\">Erik "
 "Gravgaard</a> – nouveau coordinateur demandé)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>de</code> - <a href=\"https://savannah.gnu.org/projects/www-de"
 "\">German</a> (<a href=\"https://savannah.gnu.org/users/joeko\">Joerg Kohne</"
@@ -930,7 +951,7 @@ msgstr ""
 "\">Allemand</a> (<a href=\"https://savannah.gnu.org/users/joeko\">Joerg "
 "Kohne</a>)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>el</code> - <a href=\"https://savannah.gnu.org/projects/www-el"
 "\">Greek</a> (<a href=\"https://savannah.gnu.org/users/gzarkadas\">Georgios "
@@ -940,7 +961,7 @@ msgstr ""
 "a> (<a href=\"https://savannah.gnu.org/users/gzarkadas\">Georgios Zarkadas</"
 "a> – nouveau coordinateur demandé)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>eo</code> - <a href=\"https://savannah.gnu.org/projects/www-eo"
 "\">Esperanto</a> (<a href=\"https://savannah.gnu.org/users/civodul\">Ludovic "
@@ -950,7 +971,7 @@ msgstr ""
 "\">Espéranto</a> (<a href=\"https://savannah.gnu.org/users/civodul\">Ludovic "
 "Courtès</a> – nouveau coordinateur demandé)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>es</code> - <a href=\"https://savannah.gnu.org/projects/www-es"
 "\">Spanish</a> (<a href=\"https://savannah.gnu.org/users/dora\">Dora "
@@ -962,7 +983,7 @@ msgstr ""
 "Scilipoti</a>, <a href=\"https://savannah.gnu.org/users/jfrtnaga\">Javier "
 "Fernández Retenaga</a>)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>fa</code> - <a href=\"https://savannah.gnu.org/projects/www-fa\">Farsi/"
 "Persian</a> (<a href=\"https://savannah.gnu.org/users/esmaeeli\">Abbas "
@@ -972,7 +993,7 @@ msgstr ""
 "Persan</a> (<a href=\"https://savannah.gnu.org/users/esmaeeli\">Abbas "
 "Esmaeeli Some&lsquo;eh</a>)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>fi</code> - <a href=\"https://savannah.gnu.org/projects/www-fi"
 "\">Finnish</a> (<a href=\"https://savannah.gnu.org/users/solarius\">Ville</"
@@ -982,7 +1003,7 @@ msgstr ""
 "\">Finnois</a> (<a href=\"https://savannah.gnu.org/users/solarius\">Ville</"
 "a> – nouveau coordinateur demandé)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>fr</code> - <a href=\"https://savannah.gnu.org/projects/www-fr"
 "\">French</a> (<a href=\"https://savannah.gnu.org/users/barbier\">Denis "
@@ -994,7 +1015,7 @@ msgstr ""
 "Barbier</a>, <a href=\"https://savannah.gnu.org/users/th_g\">Thérèse "
 "Godefroy</a>)<a id=\"TransNote2-rev\" href=\"#TransNote2\"><sup>2</sup></a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>he</code> - <a href=\"https://savannah.gnu.org/projects/www-he"
 "\">Hebrew</a> (New coordinator needed)"
@@ -1002,7 +1023,7 @@ msgstr ""
 "<code>he</code> – <a href=\"https://savannah.gnu.org/projects/www-he"
 "\">Hébreu</a> (nouveau coordinateur demandé)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>hr</code> - <a href=\"https://savannah.gnu.org/projects/www-hr"
 "\">Croatian</a> (<a href=\"https://savannah.gnu.org/users/mist\">Martina "
@@ -1012,7 +1033,7 @@ msgstr ""
 "\">Croate</a> (<a href=\"https://savannah.gnu.org/users/mist\">Martina "
 "Bebek</a> – nouveau coordinateur demandé)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>id</code> - <a href=\"https://savannah.gnu.org/projects/www-id"
 "\">Indonesian</a> (New coordinator needed)"
@@ -1020,7 +1041,7 @@ msgstr ""
 "<code>id</code> – <a href=\"https://savannah.gnu.org/projects/www-id"
 "\">Indonésien</a> (nouveau coordinateur demandé)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>it</code> - <a href=\"https://savannah.gnu.org/projects/www-it"
 "\">Italian</a> (<a href=\"https://savannah.gnu.org/users/pescetti\">Andrea "
@@ -1030,7 +1051,7 @@ msgstr ""
 "\">Italien</a> (<a href=\"https://savannah.gnu.org/users/pescetti\">Andrea "
 "Pescetti</a>)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>ja</code> - <a href=\"https://savannah.gnu.org/projects/www-ja"
 "\">Japanese</a> (<a href=\"https://savannah.gnu.org/users/gniibe\">NIIBE "
@@ -1040,7 +1061,7 @@ msgstr ""
 "\">Japonais</a> (<a href=\"https://savannah.gnu.org/users/gniibe\">NIIBE "
 "Yutaka</a>)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>ko</code> - <a href=\"https://savannah.gnu.org/projects/www-ko"
 "\">Korean</a> (<a href=\"https://savannah.gnu.org/users/blueguy\">Jongmin "
@@ -1050,7 +1071,7 @@ msgstr ""
 "\">Coréen</a> (<a href=\"https://savannah.gnu.org/users/blueguy\">Jongmin "
 "Yoon</a>)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>ku</code> - <a href=\"https://savannah.gnu.org/projects/www-ku"
 "\">Kurdish</a> (New coordinator needed)"
@@ -1058,7 +1079,7 @@ msgstr ""
 "<code>ku</code> – <a href=\"https://savannah.gnu.org/projects/www-ku"
 "\">Kurde</a> (nouveau coordinateur demandé)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>ml</code> - <a href=\"//savannah.gnu.org/projects/www-ml\">Malayalam</"
 "a> (<a href=\"//savannah.gnu.org/users/aiswarya\">Aiswarya Kaitheri Kandoth</"
@@ -1068,7 +1089,7 @@ msgstr ""
 "a> (<a href=\"//savannah.gnu.org/users/aiswarya\">Aiswarya Kaitheri Kandoth</"
 "a>)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>nb</code> - <a href=\"https://savannah.gnu.org/projects/www-nb"
 "\">Norwegian Bokm&aring;l</a> (<a href=\"https://savannah.gnu.org/users/att"
@@ -1078,7 +1099,7 @@ msgstr ""
 "\">Norvégien Bokm&aring;l</a> (<a href=\"https://savannah.gnu.org/users/att"
 "\">Andreas Tolfsen</a> – nouveau coordinateur demandé)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>nl</code> - <a href=\"https://savannah.gnu.org/projects/www-nl"
 "\">Dutch</a> (<a href=\"https://savannah.gnu.org/users/tuijldert\">Tom "
@@ -1090,7 +1111,7 @@ msgstr ""
 "Uijldert</a>, <a href=\"https://savannah.gnu.org/users/jvs\">Justin van "
 "Steijn</a>)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>nn</code> - Norwegian Nynorsk (<a href=\"https://savannah.gnu.org/"
 "users/att\">Andreas Tolfsen</a> - New coordinator needed)"
@@ -1098,7 +1119,7 @@ msgstr ""
 "<code>nn</code> – Néo-norvégien (<a href=\"https://savannah.gnu.org/users/att"
 "\">Andreas Tolfsen</a> – nouveau coordinateur demandé)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>pl</code> - <a href=\"https://savannah.gnu.org/projects/www-pl"
 "\">Polish</a> (<a href=\"https://savannah.gnu.org/users/jsowoc\">Jan Owoc</"
@@ -1108,7 +1129,7 @@ msgstr ""
 "\">Polonais</a> (<a href=\"https://savannah.gnu.org/users/jsowoc\">Jan Owoc</"
 "a>)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>pt-br</code> - <a href=\"https://savannah.gnu.org/projects/www-pt-br"
 "\">Brazilian Portuguese</a> (<a href=\"https://savannah.gnu.org/users/"
@@ -1118,7 +1139,7 @@ msgstr ""
 "\">Portugais brésilien</a> (<a href=\"https://savannah.gnu.org/users/"
 "rafaelff1\">Rafael Fontenelle</a>)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>ro</code> - <a href=\"https://savannah.gnu.org/projects/www-ro"
 "\">Romanian</a> (<a href=\"https://savannah.gnu.org/users/tct\">Tiberiu C.  "
@@ -1128,7 +1149,7 @@ msgstr ""
 "\">Roumain</a> (<a href=\"https://savannah.gnu.org/users/tct\">Tiberiu C. "
 "Turbureanu</a> – nouveau coordinateur demandé)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>ru</code> - <a href=\"https://savannah.nongnu.org/projects/www-ru"
 "\">Russian</a> (<a href=\"https://savannah.gnu.org/users/jimcrow\">Anatoly "
@@ -1140,7 +1161,7 @@ msgstr ""
 "Kazantsev</a>, <a href=\"https://savannah.gnu.org/users/ineiev\">Pavel "
 "Kharitonov</a>)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>sk</code> - <a href=\"https://savannah.nongnu.org/projects/www-sk"
 "\">Slovak</a> (<a href=\"https://savannah.gnu.org/users/dominiks\">Dominik "
@@ -1150,7 +1171,7 @@ msgstr ""
 "\">Slovaque</a> (<a href=\"https://savannah.gnu.org/users/dominiks\">Dominik "
 "Smatana</a> – nouveau coordinateur demandé)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>sq</code> - <a href=\"https://savannah.gnu.org/projects/www-sq"
 "\">Albanian</a> (<a href=\"https://savannah.gnu.org/users/beso\">Besnik "
@@ -1160,7 +1181,7 @@ msgstr ""
 "\">Albanais</a> (<a href=\"https://savannah.gnu.org/users/beso\">Besnik "
 "Bleta</a>)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>sr</code> - <a href=\"https://savannah.gnu.org/projects/www-sr"
 "\">Serbian</a> (<a href=\"https://savannah.gnu.org/users/Ctpajgep"
@@ -1170,7 +1191,7 @@ msgstr ""
 "\">Serbe</a> (<a href=\"https://savannah.gnu.org/users/Ctpajgep\">Strahinya "
 "Radich</a>)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>ta</code> - <a href=\"https://savannah.gnu.org/projects/www-ta"
 "\">Tamil</a> (<a href=\"https://savannah.gnu.org/users/amachutechie\">Sri "
@@ -1180,7 +1201,7 @@ msgstr ""
 "\">Tamoul</a> (<a href=\"https://savannah.gnu.org/users/amachutechie\">Sri "
 "Ramadoss</a> – nouveau coordinateur demandé)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>th</code> - <a href=\"https://savannah.gnu.org/projects/www-th\">Thai</"
 "a> (New coordinator needed)"
@@ -1188,7 +1209,7 @@ msgstr ""
 "<code>th</code> – <a href=\"https://savannah.gnu.org/projects/www-th\">Thaï</"
 "a> (nouveau coordinateur demandé)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>tl</code> - <a href=\"https://savannah.gnu.org/projects/www-tl"
 "\">Tagalog</a> (New coordinator needed)"
@@ -1196,7 +1217,7 @@ msgstr ""
 "<code>tl</code> – <a href=\"https://savannah.gnu.org/projects/www-tl"
 "\">Tagalog</a> (nouveau coordinateur demandé)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>tr</code> - <a href=\"https://savannah.gnu.org/projects/www-tr"
 "\">Turkish</a> (<a href=\"https://savannah.gnu.org/users/tekrei\"> T. E. "
@@ -1205,7 +1226,7 @@ msgstr ""
 "<code>tr</code> – <a href=\"https://savannah.gnu.org/projects/www-tr\">Turc</"
 "a> (<a href=\"https://savannah.gnu.org/users/tekrei\"> T. E. Kalaycı</a>)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>uk</code> - <a href=\"https://savannah.gnu.org/projects/www-uk"
 "\">Ukrainian</a> (<a href=\"https://savannah.gnu.org/users/andriykopanytsia"
@@ -1215,7 +1236,7 @@ msgstr ""
 "\">Ukrainien</a> (<a href=\"https://savannah.gnu.org/users/andriykopanytsia"
 "\">Andriy Bandura</a>)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>zh-cn</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-cn"
 "\">Simplified Chinese</a> (<a href=\"https://savannah.gnu.org/users/wxie\"> "
@@ -1225,7 +1246,7 @@ msgstr ""
 "\">Chinois simplifié</a> (<a href=\"https://savannah.gnu.org/users/wxie"
 "\">Xie Wensheng</a>)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>zh-tw</code> - <a href=\"https://savannah.gnu.org/projects/www-zh-tw"
 "\">Traditional Chinese</a> (<a href=\"https://savannah.gnu.org/users/"
@@ -1235,13 +1256,13 @@ msgstr ""
 "\">Chinois traditionnel</a> (<a href=\"https://savannah.gnu.org/users/"
 "s8321414\">Po-Yen Huang</a>)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<code>??</code> - Not available? Then this line is reserved for you."
 msgstr ""
 "<code>??</code> – Langue non disponible ? Alors cette ligne vous est "
 "réservée."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Note:</strong> <em>English</em> (<code>en</code>) is a special case. "
 "The bulk of the site is written in English, which is the de-facto language "
@@ -1295,14 +1316,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur cette page et sur les traductions en "
