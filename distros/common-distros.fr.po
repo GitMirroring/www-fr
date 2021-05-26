@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: common-distros.html\n"
-"POT-Creation-Date: 2021-05-10 00:25+0000\n"
-"PO-Revision-Date: 2021-05-11 12:05+0200\n"
+"POT-Creation-Date: 2021-05-26 11:25+0000\n"
+"PO-Revision-Date: 2021-05-26 13:41+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -575,6 +575,40 @@ msgstr ""
 "La partie centrale de Chrome OS est le navigateur non libre Chrome. Il peut "
 "contenir également d'autres éléments non libres."
 
+#. type: Content of: <p>
+msgid ""
+"The rest of it is based on <a href=\"#ChromiumOS\">ChromiumOS</a>, so it "
+"also has the problems of Chromium OS, plus the nonfree parts of Android."
+msgstr ""
+"Le reste est basé sur <a href=\"#ChromiumOS\">Chromium OS</a>. Il a donc les "
+"problèmes de Chromium OS, plus les parties non libres d'Android."
+
+#. type: Content of: <h3>
+msgid "Chromium OS"
+msgstr "Chromium OS"
+
+#. type: Content of: <p>
+msgid ""
+"Chromium OS contains proprietary software, including firmware blobs and "
+"nonfree user-space binaries to support specific hardware on some computers."
+msgstr ""
+"Chromium OS contient du logiciel non libre, en particulier des blobs de "
+"microcode et des binaires non libre dans l'espace utilisateur pour gérer du "
+"matériel particulier sur certains ordinateurs."
+
+#. type: Content of: <p>
+msgid ""
+"In addition, the login system surveils users, as it requires a Google "
+"account (Chromium OS does not support local accounts).  The &ldquo;"
+"guest&rdquo; session feature is not a real alternative to logging in with a "
+"Google account, because it doesn't allow persistent storage and limits the "
+"system's features."
+msgstr ""
+"De plus, le système de connexion surveille les utilisateurs, car il exige un "
+"compte Google (Chromium OS ne gère pas les comptes locaux). La session "
+"« invité » n'est pas une véritable alternative à la connexion, car elle ne "
+"permet pas le stockage persistant et limite les fonctionnalités du système."
+
 #. type: Content of: <h3>
 msgid "/e/"
 msgstr "/e/"
@@ -680,9 +714,7 @@ msgstr ""
 "infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021 Free "
-"Software Foundation, Inc."
+msgid "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
