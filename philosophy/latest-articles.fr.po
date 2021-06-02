@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: latest-articles.html\n"
-"POT-Creation-Date: 2021-06-01 09:26+0000\n"
-"PO-Revision-Date: 2021-06-01 11:53+0200\n"
+"POT-Creation-Date: 2021-06-02 14:25+0000\n"
+"PO-Revision-Date: 2021-06-02 13:08+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -15,17 +15,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid "Latest Articles - GNU Project - Free Software Foundation"
 msgstr "Derniers articles - projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Philosophy of the GNU Project &mdash; Latest Articles"
 msgstr "Philosophie du projet GNU – derniers articles"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Hot off the presses, here are the latest published articles on free software "
 "and the GNU project."
@@ -33,7 +32,7 @@ msgstr ""
 "Tout chauds sortis des presses, voici les derniers articles publiés sur le "
 "logiciel libre et le projet GNU."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/free-software-rocket.html\">Should Rockets Have Only "
 "Free Software? Free Software and Appliances</a>"
@@ -42,7 +41,7 @@ msgstr ""
 "Free Software? Free Software and Appliances</a> (Le logiciel des fusées doit-"
 "il être entièrement libre ? Logiciel libre et équipement)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/saying-no-even-once.html\">Saying No to unjust "
 "computing even once is help</a>"
@@ -50,12 +49,12 @@ msgstr ""
 "<a href=\"/philosophy/saying-no-even-once.html\">Dire non à l'informatique "
 "injuste, même une seule fois, est une aide</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"/philosophy/posting-videos.html\">Posting Videos</a>"
 msgstr ""
 "<a href=\"/philosophy/posting-videos.html\">Mettre des vidéos en ligne</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/install-fest-devil.html\">Install Fests: What to Do "
 "about the Deal with the Devil</a>"
@@ -63,7 +62,7 @@ msgstr ""
 "<a href=\"/philosophy/install-fest-devil.html\">Install parties : comment "
 "réagir au pacte avec le diable</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/upgrade-windows.html\">What Is the Right Way to "
 "Upgrade an Installation of Windows?</a>"
@@ -71,7 +70,7 @@ msgstr ""
 "<a href=\"/philosophy/upgrade-windows.html\">Comment bien mettre à niveau "
 "une installation de Windows ?</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/phone-anonymous-payment.html\">Anonymous Payment by "
 "Phone</a>"
@@ -79,7 +78,7 @@ msgstr ""
 "<a href=\"/philosophy/phone-anonymous-payment.html\">Paiement anonyme au "
 "moyen du téléphone</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/kind-communication.html\">GNU Kind Communications "
 "Guidelines</a>"
@@ -87,7 +86,7 @@ msgstr ""
 "<a href=\"/philosophy/kind-communication.html\">Charte de GNU pour une "
 "communication bienveillante</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/surveillance-testimony.html\">Surveillance Testimony</"
 "a>"
@@ -95,7 +94,7 @@ msgstr ""
 "<a href=\"/philosophy/surveillance-testimony.html\">Déclaration concernant "
 "la surveillance</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/licenses/identify-licenses-clearly.html\"> For Clarity's Sake, "
 "Please Don't Say &ldquo;Licensed under GNU GPL 2&rdquo;!</a>"
@@ -103,7 +102,7 @@ msgstr ""
 "<a href=\"/licenses/identify-licenses-clearly.html\">Par souci de clarté, ne "
 "dites pas « sous licence GNU GPL 2 ! »</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/devils-advocate.html\"> Why the Devil's Advocate "
 "Doesn't Help Reach the Truth</a>"
@@ -111,7 +110,7 @@ msgstr ""
 "<a href=\"/philosophy/devils-advocate.html\">En quoi jouer l'avocat du "
 "diable n'aide pas à la manifestation de la vérité</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/hackathons.html\"> Why Hackathons Should Insist on "
 "Free Software</a>"
@@ -119,7 +118,7 @@ msgstr ""
 "<a href=\"/philosophy/hackathons.html\">Pourquoi les hackathons doivent "
 "exiger du logiciel libre</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/contradictory-support.html\"> Beware of Contradictory "
 "&ldquo;Support&rdquo;</a>"
@@ -127,7 +126,7 @@ msgstr ""
 "<a href=\"/philosophy/contradictory-support.html\">Attention au « soutien » "
 "contredit par les faits</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/when-free-depends-on-nonfree.html\"> When Free "
 "Software Depends on Nonfree</a>"
@@ -135,7 +134,7 @@ msgstr ""
 "<a href=\"/philosophy/when-free-depends-on-nonfree.html\">Quand le logiciel "
 "libre dépend du logiciel non libre</a> "
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/applying-free-sw-criteria.html\"> Applying the Free "
 "Software Criteria</a>"
@@ -143,7 +142,7 @@ msgstr ""
 "<a href=\"/philosophy/applying-free-sw-criteria.html\">Mettre en application "
 "les critères du logiciel libre</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/komongistan.html\">The Curious History of Komongistan "
 "(Busting the term &ldquo;intellectual property&rdquo;)</a>"
@@ -152,7 +151,7 @@ msgstr ""
 "(ou comment faire voler en éclats l'expression « propriété intellectuelle »)"
 "</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/free-hardware-designs.html\"> Free Hardware and Free "
 "Hardware Designs</a>"
@@ -160,7 +159,7 @@ msgstr ""
 "<a href=\"/philosophy/free-hardware-designs.html\">Matériel libre et plans "
 "libres pour le matériel</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/loyal-computers.html\"> What Does It Mean for Your "
 "Computer to Be Loyal?</a>"
@@ -194,14 +193,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -212,10 +211,7 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2008, 2009, 2010, 2013, 2014, 2015, 2016, 2017, 2018, 2019, "
-"2020, 2021 Free Software Foundation, Inc."
+msgid "Copyright &copy; 1996-2010, 2013-2021 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 1996-2010, 2013-2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -238,10 +234,3 @@ msgstr " "
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
-
-#~ msgid ""
-#~ "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, "
-#~ "2005, 2006, 2007, 2008, 2009, 2010, 2013, 2014, 2015, 2016, 2017, 2018, "
-#~ "2019, 2020 Free Software Foundation, Inc."
-#~ msgstr ""
-#~ "Copyright &copy; 1996-2010, 2013-2020 Free Software Foundation, Inc."
