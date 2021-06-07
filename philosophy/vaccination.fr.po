@@ -8,13 +8,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: vaccination.html\n"
-"POT-Creation-Date: 2021-01-29 11:26+0000\n"
-"PO-Revision-Date: 2018-10-31 14:08+0100\n"
+"POT-Creation-Date: 2021-06-07 11:26+0000\n"
+"PO-Revision-Date: 2021-06-07 17:29+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  \n"
 
@@ -23,15 +23,15 @@ msgid "Viral Code and Vaccination - GNU Project - Free Software Foundation"
 msgstr ""
 "Code viral et vaccination - Projet GNU - Fondation pour le logiciel libre"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Viral Code and Vaccination"
 msgstr "Code viral et vaccination"
 
-#. type: Content of: <p>
-msgid "by <strong>Robert J. Chassell</strong>"
-msgstr "par <strong>Robert J. Chassell</strong>"
+#. type: Content of: <div><address>
+msgid "by Robert J. Chassell"
+msgstr "par Robert J. Chassell"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "When others hurt me, I try to defend myself.  But some tell me that this "
 "makes them sick.  They tell me that I should permit people to rob me of my "
@@ -42,7 +42,7 @@ msgstr ""
 "gens me voler mon travail. Ils me disent que je ne devrais pas essayer de me "
 "défendre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "They tell me that I should stop using the GNU General Public License, a "
 "license that vaccinates me against hurt.  Instead, I should adopt a license "
@@ -59,7 +59,7 @@ msgstr ""
 "mon propre travail, un droit qui m'appartient selon la législation actuelle "
 "du copyright."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Of course, the language is a little less feverish than this.  Usually, I "
 "myself am not called &ldquo;infectious&rdquo;.  Rather, the legal defense "
@@ -71,7 +71,7 @@ msgstr ""
 "juridique que j'utilise est appelée « infectieuse ». La licence que je "
 "choisis est appelée « virale »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In every day language, words such as &ldquo;infect&rdquo; and &ldquo;"
 "virus&rdquo; describe disease.  The rhetoric is metaphorical.  A legal tool "
@@ -83,7 +83,7 @@ msgstr ""
 "pas un agent pathogène, mais il est courant de penser à la législation comme "
 "à une maladie, donc la métaphore fait mouche."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The people who want to rob me use language that says I make them sick when I "
 "stop them from robbing me.  They do not want to draw attention to the so-"
@@ -102,7 +102,7 @@ msgstr ""
 "délinquance. Ils veulent tromper les gens avec leur métaphore, pour qu'on me "
 "voie comme un germe contagieux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The GNU General Public License protects me.  The connotation of &ldquo;"
 "virus&rdquo; and &ldquo;infect&rdquo; is that my choice of defense gives an "
@@ -115,7 +115,7 @@ msgstr ""
 "possibilité de me faire du mal. Cela les rend malades de ne pas pouvoir "
 "m'atteindre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To use another health and illness-related metaphor, the GNU General Public "
 "License <em>vaccinates</em> me; it protects me from theft."
@@ -123,7 +123,7 @@ msgstr ""
 "Pour utiliser une autre métaphore liée au monde médical, la licence publique "
 "générale GNU me <em>vaccine</em> ; elle me protège du vol."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Note that the theft about which I am talking is entirely legal in some "
 "situations: if you license your work under a modified BSD license, or a "
@@ -143,29 +143,35 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"Please send FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
-"\"><em>gnu@gnu.org</em></a>.  There are also <a href=\"/contact/\">other "
-"ways to contact</a> the FSF."
-msgstr ""
-"Veuillez envoyer les requêtes concernant la FSF et GNU à <a href=\"mailto:"
-"gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>. Il existe aussi <a href=\"/contact/"
-"\">d'autres moyens de contacter</a> la FSF."
-
-#. type: Content of: <div><p>
-msgid ""
-"Please send broken links and other corrections or suggestions to <a href="
-"\"mailto:webmasters@gnu.org\"><em>webmasters@gnu.org</em></a>."
-msgstr ""
-"Veuillez indiquer (en anglais) les liens orphelins et autres corrections ou "
-"suggestions à <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
 "org&gt;</a>."
+msgstr ""
+"Veuillez envoyer les requêtes concernant la FSF et GNU à &lt;<a href="
+"\"mailto:gnu@gnu.org\">gnu@gnu.org</a>&gt;. Il existe aussi <a href=\"/"
+"contact/\">d'autres moyens de contacter</a> la FSF. Les liens orphelins et "
+"autres corrections ou suggestions peuvent être signalés à &lt;<a href="
+"\"mailto:webmasters@gnu.org\">webmasters@gnu.org</a>&gt;."
 
-#. type: Content of: <div><p>
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
