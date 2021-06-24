@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary/\n"
-"POT-Creation-Date: 2021-06-13 08:25+0000\n"
-"PO-Revision-Date: 2021-06-13 13:33+0200\n"
+"POT-Creation-Date: 2021-01-31 17:26+0000\n"
+"PO-Revision-Date: 2021-06-28 20:57+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -16,9 +16,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Content of: <title>
-msgid ""
-"Additions to the Malware Section - GNU Project - Free Software Foundation"
-msgstr "Ajouts à la section Maliciels - Projet GNU - Free Software Foundation"
+msgid "Malware in Webpages - GNU Project - Free Software Foundation"
+msgstr "Malveillance des pages web - Projet GNU - Free Software Foundation"
 
 #. type: Content of: <div><a>
 msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
@@ -43,6 +42,430 @@ msgstr "<a href=\"/\">"
 #. type: Attribute 'title' of: <div><p><a><img>
 msgid "GNU Home"
 msgstr "Accueil GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
+"product&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Maliciels</a>&nbsp;/ "
+"Par produit&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "Malware in Webpages"
+msgstr "Malveillance des pages web"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Nonfree (proprietary) software is very often malware (designed to mistreat "
+"the user). Nonfree software is controlled by its developers, which puts them "
+"in a position of power over the users; <a href=\"/philosophy/free-software-"
+"even-more-important.html\">that is the basic injustice</a>. The developers "
+"and manufacturers often exercise that power to the detriment of the users "
+"they ought to serve."
+msgstr ""
+"Le logiciel non libre (privateur) est très souvent malveillant (conçu pour "
+"maltraiter les utilisateurs). Il est contrôlé par ses développeurs, ce qui "
+"les met en position de pouvoir vis-à-vis des utilisateurs ; <a href=\"/"
+"philosophy/free-software-even-more-important.html\">c'est l'injustice de "
+"base</a>. Les développeurs et les fabricants exercent souvent ce pouvoir au "
+"détriment des utilisateurs qu'ils devraient servir."
+
+#. type: Content of: <div><div><p>
+msgid "This typically takes the form of malicious functionalities."
+msgstr "Cela prend habituellement la forme de fonctionnalités malveillantes."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This page lists web sites containing proprietary JavaScript programs that "
+"spy on users or mislead them. They make use of what we call the <a href=\"/"
+"philosophy/javascript-trap.html\">JavaScript Trap</a>. Of course, many sites "
+"collect information that the user sends, via forms or otherwise, but here "
+"we're not talking about that."
+msgstr ""
+"Cette page répertorie des sites web contenant des programmes JavaScript qui "
+"espionnent les utilisateurs ou les trompent. Ils se servent de ce que nous "
+"appelons <a href=\"/philosophy/javascript-trap.html\">le piège JavaScript</"
+"a>. Bien entendu, beaucoup de sites collectent de l'information envoyée par "
+"l'utilisateur, entre autres au moyen de formulaires, mais ce n'est pas ce "
+"dont nous voulons parler ici."
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"If you know of an example that ought to be in this page but isn't here, "
+"please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a> to inform us. Please include the URL of a trustworthy reference "
+"or two to serve as specific substantiation."
+msgstr ""
+"Si vous avez connaissance d'un exemple qui devrait se trouver sur cette page "
+"mais n'y figure pas, n'hésitez pas à écrire à <a href=\"mailto:"
+"webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> pour nous en informer. "
+"Merci de fournir les URL d'une ou deux références fiables et spécifiques "
+"pour l'étayer."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Many web sites use JavaScript code <a href=\"http://gizmodo.com/before-you-"
+"hit-submit-this-company-has-already-logge-1795906081\"> to snoop on "
+"information that users have typed into a form but not sent</a>, in order to "
+"learn their identity. Some are <a href=\"https://www.manatt.com/insights/"
+"newsletters/advertising-law/sites-illegally-tracked-consumers-new-suits-"
+"allege\"> getting sued</a> for this."
+msgstr ""
+"De nombreux sites web utilisent du code JavaScript <a href=\"http://gizmodo."
+"com/before-you-hit-submit-this-company-has-already-logge-1795906081\">pour "
+"récupérer l'information que les utilisateurs ont saisie dans un formulaire "
+"mais n'ont pas envoyée</a>, et ainsi découvrir leur identité. Certains ont "
+"été <a href=\"https://www.manatt.com/insights/newsletters/advertising-law/"
+"sites-illegally-tracked-consumers-new-suits-allege\">poursuivis</a> pour "
+"cela."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The chat facilities of some customer services use the same sort of malware "
+"to <a href=\"https://gizmodo.com/be-warned-customer-service-agents-can-see-"
+"what-youre-t-1830688119\"> read what the user is typing before it is posted</"
+"a>."
+msgstr ""
+"La messagerie instantanée de certains supports techiques utilise le même "
+"genre de maliciel pour <a href=\"https://gizmodo.com/be-warned-customer-"
+"service-agents-can-see-what-youre-t-1830688119\">lire le messsage que "
+"l'utilisateur est en train d'écrire avant qu'il ne l'ait envoyé</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"British Airways used <a href=\"https://www.theverge.com/2018/7/19/17591732/"
+"british-airways-gdpr-compliance-twitter-personal-data-security\">nonfree "
+"JavaScript on its web site to give other companies personal data on its "
+"customers</a>."
+msgstr ""
+"British Airways a utilisé du <a href=\"https://www.theverge."
+"com/2018/7/19/17591732/british-airways-gdpr-compliance-twitter-personal-data-"
+"security\">JavaScript non libre sur son site web pour donner aux autres "
+"compagnies des données personnelles de ses clients</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The Storyful program <a href=\"https://www.theguardian.com/world/2018/may/17/"
+"revealed-how-storyful-uses-tool-monitor-what-journalists-watch\">spies on "
+"the reporters that use it</a>."
+msgstr ""
+"Le program Storyful <a href=\"https://www.theguardian.com/world/2018/may/17/"
+"revealed-how-storyful-uses-tool-monitor-what-journalists-watch\">espionne "
+"les journalistes qui l'utilisent</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"A cracker used an exploit in outdated software to <a href=\"https://www."
+"pcmag.com/news/360968/400-websites-secretly-served-cryptocurrency-miners-to-"
+"visito\"> inject a &ldquo;miner&rdquo; in web pages</a> served to visitors. "
+"This type of malware hijacks the computer's processor to mine a "
+"cryptocurrency."
+msgstr ""
+"Un cracker a exploité une faille dans un logiciel non mis à jour <a href="
+"\"https://www.pcmag.com/news/360968/400-websites-secretly-served-"
+"cryptocurrency-miners-to-visito\">pour injecter un « mineur » dans les pages "
+"web</a> servies aux visiteurs. Ce type de maliciel pirate le processeur de "
+"l'ordinateur pour générer une cryptomonnaie."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<small>(Note that the article refers to the infected software as &ldquo;"
+"content management system&rdquo;. A better term would be &ldquo;<a href=\"/"
+"philosophy/words-to-avoid.html#Content\">website revision system</a>&rdquo;.)"
+"</small>"
+msgstr ""
+"<small>(Notez que l'article se réfère au logiciel infecté sous le nom de "
+"« système de gestion de contenu ». Il aurait été plus correct de l'appeler "
+"« <a href=\"/philosophy/words-to-avoid.html#Content\">système de révision "
+"pour site web</a> ».)</small>"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Since the miner was a nonfree JavaScript program, visitors wouldn't have "
+"been affected if they had used <a href=\"/software/librejs/index.html"
+"\">LibreJS</a>. Some browser extensions that <a href=\"https://www.cnet.com/"
+"how-to/how-to-stop-sites-from-using-your-cpu-to-mine-coins/\"> specifically "
+"block JavaScript miners</a> are also available."
+msgstr ""
+"Comme le mineur était un programme JavaScript, les visiteurs n'auraient pas "
+"été affectés s'ils avaient utilisé <a href=\"/software/librejs/index.html"
+"\">LibreJS</a>. Il existe également plusieurs extensions de navigateurs qui "
+"<a href=\"https://www.cnet.com/how-to/how-to-stop-sites-from-using-your-cpu-"
+"to-mine-coins/\">bloquent spécifiquement les mineurs JavaScript</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Some JavaScript malware <a href=\"https://www.theverge."
+"com/2017/12/30/16829804/browser-password-manager-adthink-princeton-research"
+"\"> swipes usernames from browser-based password managers</a>."
+msgstr ""
+"Certains logiciels JavaScript malveillants raflent <a href=\"https://www."
+"theverge.com/2017/12/30/16829804/browser-password-manager-adthink-princeton-"
+"research\">les identifiants provenant des gestionnaires de mots de passe</a> "
+"associés aux navigateurs."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Some websites send JavaScript code to collect all the user's input, <a href="
+"\"https://freedom-to-tinker.com/2017/11/15/no-boundaries-exfiltration-of-"
+"personal-data-by-session-replay-scripts/\">which can then be used to "
+"reproduce the whole session</a>."
+msgstr ""
+"Certains sites envoient du code JavaScript pour collecter tout ce qui est "
+"saisi par l'utilisateur, <a href=\"https://freedom-to-tinker.com/2017/11/15/"
+"no-boundaries-exfiltration-of-personal-data-by-session-replay-scripts/\">ce "
+"qui permet de reproduire l'ensemble de la session</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid "If you use LibreJS, it will block that malicious JavaScript code."
+msgstr "Si vous utilisez LibreJS, il bloquera ce code JavaScript malveillant."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"When a page uses Disqus for comments, the proprietary Disqus software <a "
+"href=\"https://blog.dantup.com/2017/01/visiting-a-site-that-uses-disqus-"
+"comments-when-not-logged-in-sends-the-url-to-facebook\">loads a Facebook "
+"software package into the browser of every anonymous visitor to the page, "
+"and makes the page's URL available to Facebook</a>."
+msgstr ""
+"Quand une page utilise Disqus pour les commentaires, le logiciel privateur "
+"Disqus <a href=\"https://blog.dantup.com/2017/01/visiting-a-site-that-uses-"
+"disqus-comments-when-not-logged-in-sends-the-url-to-facebook\">charge un "
+"logiciel de Facebook dans le navigateur de chaque visiteur anonyme de la "
+"page et communique son URL à Facebook</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Online sales, with tracking and surveillance of customers, <a href=\"https://"
+"www.theguardian.com/commentisfree/2016/dec/06/cookie-monsters-why-your-"
+"browsing-history-could-mean-rip-off-prices\">enables businesses to show "
+"different people different prices</a>. Most of the tracking is done by "
+"recording interactions with servers, but proprietary software contributes."
+msgstr ""
+"Les ventes en ligne, et le pistage et la surveillance des clients qui vont "
+"avec, <a href=\"https://www.theguardian.com/commentisfree/2016/dec/06/cookie-"
+"monsters-why-your-browsing-history-could-mean-rip-off-prices\">permettent "
+"aux commerçants de montrer des prix différents à différentes personnes</a>. "
+"L'essentiel du pistage se fait en enregistrant les interactions avec les "
+"serveurs, mais le logiciel privateur joue un rôle."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"A <a href=\"https://research.csiro.au/ng/wp-content/uploads/"
+"sites/106/2016/08/paper-1.pdf\"> research paper</a> that investigated the "
+"privacy and security of 283 Android VPN apps concluded that &ldquo;in spite "
+"of the promises for privacy, security, and anonymity given by the majority "
+"of VPN apps&mdash;millions of users may be unawarely subject to poor "
+"security guarantees and abusive practices inflicted by VPN apps.&rdquo;"
+msgstr ""
+"Un <a href=\"https://research.csiro.au/ng/wp-content/uploads/"
+"sites/106/2016/08/paper-1.pdf\">article de recherche</a> a étudié 283 applis "
+"VPN pour Android du point de vue de la confidentialité et de la sécurité. "
+"Voici sa conclusion : « En dépit des promesses de confidentialité, de "
+"sécurité et d'anonymat faites par la plupart des applis VPN, des millions "
+"d'utilisateurs peuvent être victimes à leur insu des garanties de sécurité "
+"fallacieuses et des pratiques abusives que ces applis leur infligent. »"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Here are two examples, taken from the research paper, of proprietary VPN "
+"apps that use JavaScript to track users and infringe their privacy:"
+msgstr ""
+"Voici deux exemples, tirés de cet article, d'applis VPN privatrices "
+"utilisant du code JavaScript pour pister les utilisateurs et porter atteinte "
+"à leur vie privée."
+
+#. type: Content of: <div><div><ul><li><dl><dt>
+msgid "VPN Services HotspotShield"
+msgstr "Service VPN HotspotShield"
+
+#. type: Content of: <div><div><ul><li><dl><dd>
+msgid ""
+"Injects JavaScript code into the HTML pages returned to the users. The "
+"stated purpose of the JS injection is to display ads. Uses roughly five "
+"tracking libraries. Also, it redirects the user's traffic through valueclick."
+"com (an advertising website)."
+msgstr ""
+"Injecte du code JavaScript dans les pages HTML renvoyées aux utilisateurs. "
+"Le but avoué de cette injection est d'afficher des pubs. Cette appli utilise "
+"cinq bibliothèques de pistage environ. En outre, elle redirige le trafic de "
+"l'utilisateur par valueclick.com (un site de publicité)."
+
+#. type: Content of: <div><div><ul><li><dl><dt>
+msgid "WiFi Protector VPN"
+msgstr "WiFi Protector"
+
+#. type: Content of: <div><div><ul><li><dl><dd>
+msgid ""
+"Injects JavaScript code into HTML pages, and also uses roughly five tracking "
+"libraries. Developers of this app have confirmed that the non-premium "
+"version of the app does JavaScript injection for tracking the user and "
+"displaying ads."
+msgstr ""
+"Injecte du code JavaScript dans les pages HTML et utilise également cinq "
+"bibliothèques de pistage. Ses développeurs ont confirmé que l'injection de "
+"JavaScript par la version gratuite de l'appli sert au pistage des "
+"utilisateurs et à l'affichage de pubs."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"E-books can contain JavaScript code, and <a href=\"http://www.theguardian."
+"com/books/2016/mar/08/men-make-up-their-minds-about-books-faster-than-women-"
+"study-finds\"> sometimes this code snoops on readers</a>."
+msgstr ""
+"Les livres électroniques peuvent contenir du code JavaScript et <a href="
+"\"http://www.theguardian.com/books/2016/mar/08/men-make-up-their-minds-about-"
+"books-faster-than-women-study-finds\">parfois ce code espionne "
+"l'utilisateur</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Flash and JavaScript are used for <a href=\"http://arstechnica.com/"
+"security/2013/10/top-sites-and-maybe-the-nsa-track-users-with-device-"
+"fingerprinting/\"> &ldquo;fingerprinting&rdquo; devices</a> to identify "
+"users."
+msgstr ""
+"Flash et JavaScript sont employés dans <a href=\"http://arstechnica.com/"
+"security/2013/10/top-sites-and-maybe-the-nsa-track-users-with-device-"
+"fingerprinting/\">des dispositifs de « profilage »</a> destinés à identifier "
+"les utilisateurs."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Many web sites rat their visitors to advertising networks that track users.  "
+"Of the top 1000 web sites, <a href=\"https://www.law.berkeley.edu/research/"
+"bclt/research/privacy-at-bclt/web-privacy-census/\">84% (as of 5/17/2012) "
+"fed their visitors third-party cookies, allowing other sites to track them</"
+"a>."
+msgstr ""
+"De nombreux sites dénoncent leurs visiteurs aux réseaux publicitaires qui "
+"font du pistage. Une statistique prenant en compte les 1000 sites web les "
+"plus populaires a montré que <a href=\"https://www.law.berkeley.edu/research/"
+"bclt/research/privacy-at-bclt/web-privacy-census/\">84% d'entre eux (le 17 "
+"mai 2012) servaient à leurs visiteurs des cookies tierces permettant à "
+"d'autres sites de les suivre à la trace</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Many web sites report all their visitors to Google by using the Google "
+"Analytics service, which <a href=\"http://www.pcworld.idg.com.au/"
+"article/434164/"
+"google_analytics_breaks_norwegian_privacy_laws_local_agency_said/\"> tells "
+"Google the IP address and the page that was visited</a>."
+msgstr ""
+"De nombreux sites envoient à Google un rapport sur chacun de leurs visiteurs "
+"par le biais de Google Analytics, rapport qui contient <a href=\"http://www."
+"pcworld.idg.com.au/article/434164/"
+"google_analytics_breaks_norwegian_privacy_laws_local_agency_said/\">son "
+"adresse IP et la page visitée</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Many web sites try to collect users' address books (the user's list of other "
+"people's phone numbers or email addresses).  This violates the privacy of "
+"those other people."
+msgstr ""
+"Beaucoup également essaient de récupérer les carnets d'adresse des "
+"utilisateurs (répertoires contenant les numéros de téléphone ou les adresses "
+"de courriel d'autres personnes). C'est une atteinte à la vie privée de ces "
+"autres personnes."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Pages that contain &ldquo;Like&rdquo; buttons <a href=\"https://www.smh.com."
+"au/technology/facebooks-privacy-lie-aussie-exposes-tracking-as-new-patent-"
+"uncovered-20111004-1l61i.html\"> enable Facebook to track visitors to those "
+"pages</a>&mdash;even users that don't have Facebook accounts."
+msgstr ""
+"Les pages qui contiennent des boutons <i>Like</i> <a href=\"https://www.smh."
+"com.au/technology/facebooks-privacy-lie-aussie-exposes-tracking-as-new-"
+"patent-uncovered-20111004-1l61i.html\">permettent à Facebook de pister les "
+"visiteurs de ces pages</a>, même ceux qui n'ont pas de compte Facebook."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Flash Player's <a href=\"https://web.archive.org/web/20200808151607/http://"
+"www.imasuper.com/2008/10/09/flash-cookies-the-silent-privacy-killer/\"> "
+"cookie feature helps web sites track visitors</a>."
+msgstr ""
+"<a href=\"https://web.archive.org/web/20200808151607/http://www.imasuper."
+"com/2008/10/09/flash-cookies-the-silent-privacy-killer/\">Un cookie du "
+"lecteur Flash aide les sites web à suivre les visiteurs à la trace</a>)."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Veuillez envoyer les requêtes concernant la FSF et GNU à &lt;<a href="
+"\"mailto:gnu@gnu.org\">gnu@gnu.org</a>&gt;. Il existe aussi <a href=\"/"
+"contact/\">d'autres moyens de contacter</a> la FSF. Les liens orphelins et "
+"autres corrections ou suggestions peuvent être signalés à &lt;<a href="
+"\"mailto:webmasters@gnu.org\">webmasters@gnu.org</a>&gt;."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
+"\"mailto:trad-gnu@april.org\">trad-gnu@april.org</a>&gt;, et sur les "
+"traductions en général à &lt;<a href=\"mailto:web-translators@gnu.org\">web-"
+"translators@gnu.org</a>&gt;. Si vous souhaitez y contribuer, vous trouverez "
+"dans le <a href=\"/server/standards/README.translations.html\">guide de "
+"traduction</a> les infos nécessaires."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2017-2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2017-2021 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 "
+"International License</a>."
+msgstr ""
+"Cette page peut être utilisée suivant les conditions de la licence <a rel="
+"\"license\" href=\"http://creativecommons.org/licenses/by/4.0/deed.fr"
+"\">Creative Commons attribution 4.0 internationale (CC BY 4.0)</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduction et révision : <a href=\"mailto:trad-gnu&#64;april.org\">trad-"
+"gnu&#64;april.org</a>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Dernière mise à jour :"
+
+#. type: Content of: <title>
+msgid ""
+"Additions to the Malware Section - GNU Project - Free Software Foundation"
+msgstr "Ajouts à la section Maliciels - Projet GNU - Free Software Foundation"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -76,6 +499,49 @@ msgstr "&ndash; Dernière référence :"
 #. type: Content of: <div><ul><li>
 msgid "</small>"
 msgstr "</small>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"https://arstechnica.com/gadgets/2021/06/even-creepier-covid-"
+"tracking-google-silently-pushed-app-to-users-phones/\">Google automatically "
+"installed an app on many proprietary Android phones</a>. The app might or "
+"might not do malicious things but the power Google has over proprietary "
+"Android phones is dangerous."
+msgstr ""
+"<a href=\"https://arstechnica.com/gadgets/2021/06/even-creepier-covid-"
+"tracking-google-silently-pushed-app-to-users-phones/\">Google a installé "
+"automatiquement une appli sur beaucoup de téléphones Android</a>. L'appli "
+"n'est peut-être pas malveillante, mais le pouvoir que possède Google sur les "
+"téléphones Android (privateurs) est dangereux."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"https://www.theguardian.com/technology/2021/jun/17/nine-out-of-10-"
+"health-apps-harvest-user-data-global-study-shows\">Almost all proprietary "
+"health apps harvest users' data</a>, including sensitive health information, "
+"tracking identifiers, and cookies to track user activities. Some of these "
+"applications are tracking users across different platforms."
+msgstr ""
+"<a href=\"https://www.theguardian.com/technology/2021/jun/17/nine-out-of-10-"
+"health-apps-harvest-user-data-global-study-shows\">Presque toutes les applis "
+"de santé privatrices récoltent les données de l'utilisateur</a>, ce qui "
+"inclut des informations sensibles sur sa santé, des identifiants de traçage "
+"et des cookies pour suivre ses activités. Certaines de ces applis traquent "
+"les utilisateurs sur différentes plateformes."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"https://techcrunch.com/2021/06/03/tiktok-just-gave-itself-"
+"permission-to-collect-biometric-data-on-u-s-users-including-faceprints-and-"
+"voiceprints/\">TikTok apps collect biometric identifiers and biometric "
+"information from users' smartphones</a>. The company behind it does whatever "
+"it wants and collects whatever data it can."
+msgstr ""
+"<a href=\"https://techcrunch.com/2021/06/03/tiktok-just-gave-itself-"
+"permission-to-collect-biometric-data-on-u-s-users-including-faceprints-and-"
+"voiceprints/\">L'appli TikTok pour smartphone collecte des informations et "
+"identifiants biométriques</a>. Son éditeur récupère tout ce qui est à sa "
+"portée et fait ce qu'il veut avec."
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
@@ -336,7 +802,7 @@ msgid ""
 "cameras that used Verkada company's proprietary software are cracked</a> by "
 "a major security breach. Crackers have had access to security archives of "
 "various gyms, hospitals, jails, schools, and police stations that have used "
-"Verdaka's cameras."
+"Verkada's cameras."
 msgstr ""
 "<a href=\"https://www.bloomberg.com/news/articles/2021-03-09/hackers-expose-"
 "tesla-jails-in-breach-of-150-000-security-cams\">Le piratage d'au moins "
@@ -3775,35 +4241,6 @@ msgstr ""
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
-"Many web sites use JavaScript code <a href=\"http://gizmodo.com/before-you-"
-"hit-submit-this-company-has-already-logge-1795906081\"> to snoop on "
-"information that users have typed into a form but not sent</a>, in order to "
-"learn their identity. Some are <a href=\"https://www.manatt.com/insights/"
-"newsletters/advertising-law/sites-illegally-tracked-consumers-new-suits-"
-"allege\"> getting sued</a> for this."
-msgstr ""
-"De nombreux sites web utilisent du code JavaScript <a href=\"http://gizmodo."
-"com/before-you-hit-submit-this-company-has-already-logge-1795906081\">pour "
-"récupérer l'information que les utilisateurs ont saisie dans un formulaire "
-"mais n'ont pas envoyée</a>, et ainsi découvrir leur identité. Certains ont "
-"été <a href=\"https://www.manatt.com/insights/newsletters/advertising-law/"
-"sites-illegally-tracked-consumers-new-suits-allege\">poursuivis</a> pour "
-"cela."
-
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"The chat facilities of some customer services use the same sort of malware "
-"to <a href=\"https://gizmodo.com/be-warned-customer-service-agents-can-see-"
-"what-youre-t-1830688119\"> read what the user is typing before it is posted</"
-"a>."
-msgstr ""
-"La messagerie instantanée de certains supports techiques utilise le même "
-"genre de maliciel pour <a href=\"https://gizmodo.com/be-warned-customer-"
-"service-agents-can-see-what-youre-t-1830688119\">lire le messsage que "
-"l'utilisateur est en train d'écrire avant qu'il ne l'ait envoyé</a>."
-
-#. type: Content of: <div><ul><li><p>
-msgid ""
 "Corel Paintshop Pro has a <a href=\"https://torrentfreak.com/corel-wrongly-"
 "accuses-licensed-user-of-piracy-disables-software-remotely-181110/\"> back "
 "door that can make it cease to function</a>."
@@ -3998,46 +4435,6 @@ msgstr ""
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
-"A cracker used an exploit in outdated software to <a href=\"https://www."
-"pcmag.com/news/360968/400-websites-secretly-served-cryptocurrency-miners-to-"
-"visito\"> inject a &ldquo;miner&rdquo; in web pages</a> served to visitors. "
-"This type of malware hijacks the computer's processor to mine a "
-"cryptocurrency."
-msgstr ""
-"Un cracker a exploité une faille dans un logiciel non mis à jour <a href="
-"\"https://www.pcmag.com/news/360968/400-websites-secretly-served-"
-"cryptocurrency-miners-to-visito\">pour injecter un « mineur » dans les pages "
-"web</a> servies aux visiteurs. Ce type de maliciel pirate le processeur de "
-"l'ordinateur pour générer une cryptomonnaie."
-
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"<small>(Note that the article refers to the infected software as &ldquo;"
-"content management system&rdquo;. A better term would be &ldquo;<a href=\"/"
-"philosophy/words-to-avoid.html#Content\">website revision system</a>&rdquo;.)"
-"</small>"
-msgstr ""
-"<small>(Notez que l'article se réfère au logiciel infecté sous le nom de "
-"« système de gestion de contenu ». Il aurait été plus correct de l'appeler "
-"« <a href=\"/philosophy/words-to-avoid.html#Content\">système de révision "
-"pour site web</a> ».)</small>"
-
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"Since the miner was a nonfree JavaScript program, visitors wouldn't have "
-"been affected if they had used <a href=\"/software/librejs/index.html"
-"\">LibreJS</a>. Some browser extensions that <a href=\"https://www.cnet.com/"
-"how-to/how-to-stop-sites-from-using-your-cpu-to-mine-coins/\"> specifically "
-"block JavaScript miners</a> are also available."
-msgstr ""
-"Comme le mineur était un programme JavaScript, les visiteurs n'auraient pas "
-"été affectés s'ils avaient utilisé <a href=\"/software/librejs/index.html"
-"\">LibreJS</a>. Il existe également plusieurs extensions de navigateurs qui "
-"<a href=\"https://www.cnet.com/how-to/how-to-stop-sites-from-using-your-cpu-"
-"to-mine-coins/\">bloquent spécifiquement les mineurs JavaScript</a>."
-
-#. type: Content of: <div><ul><li><p>
-msgid ""
 "Honeywell's &ldquo;smart&rdquo; thermostats communicate only through the "
 "company's server. They have all the nasty characteristics of such devices: "
 "<a href=\"https://www.businessinsider.com/honeywell-iot-thermostats-server-"
@@ -4176,74 +4573,9 @@ msgstr ""
 "conversion d'images au format Photos</a> vers un format libre est si longue "
 "et si fastidieuse que les utilisateurs renoncent s'ils en ont beaucoup."
 
-#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div><div>
-msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
-msgstr " "
-
-#. type: Content of: <div><div><p>
-msgid ""
-"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
-"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
-"to contact</a> the FSF.  Broken links and other corrections or suggestions "
-"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
-"org&gt;</a>."
-msgstr ""
-"Veuillez envoyer les requêtes concernant la FSF et GNU à &lt;<a href="
-"\"mailto:gnu@gnu.org\">gnu@gnu.org</a>&gt;. Il existe aussi <a href=\"/"
-"contact/\">d'autres moyens de contacter</a> la FSF. Les liens orphelins et "
-"autres corrections ou suggestions peuvent être signalés à &lt;<a href="
-"\"mailto:webmasters@gnu.org\">webmasters@gnu.org</a>&gt;."
-
-#.  TRANSLATORS: Ignore the original text in this paragraph,
-#.         replace it with the translation of these two:
-#.         We work hard and do our best to provide accurate, good quality
-#.         translations.  However, we are not exempt from imperfection.
-#.         Please send your comments and general suggestions in this regard
-#.         to <a href="mailto:web-translators@gnu.org">
-#.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and contributing translations of
-#.         our web pages, see <a
-#.         href="/server/standards/README.translations.html">Translations
-#.         README</a>. 
-#. type: Content of: <div><div><p>
-msgid ""
-"Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and contributing "
-"translations of this article."
-msgstr ""
-"Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
-"\"mailto:trad-gnu@april.org\">trad-gnu@april.org</a>&gt;, et sur les "
-"traductions en général à &lt;<a href=\"mailto:web-translators@gnu.org\">web-"
-"translators@gnu.org</a>&gt;. Si vous souhaitez y contribuer, vous trouverez "
-"dans le <a href=\"/server/standards/README.translations.html\">guide de "
-"traduction</a> les infos nécessaires."
-
 #. type: Content of: <div><p>
 msgid "Copyright &copy; 2018-2021 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2018-2021 Free Software Foundation, Inc."
-
-#. type: Content of: <div><p>
-msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 "
-"International License</a>."
-msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by/4.0/deed.fr"
-"\">Creative Commons attribution 4.0 internationale (CC BY 4.0)</a>."
-
-#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
-#. type: Content of: <div><div>
-msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
-msgstr ""
-"Traduction et révision : <a href=\"mailto:trad-gnu&#64;april.org\">trad-"
-"gnu&#64;april.org</a>"
-
-#.  timestamp start 
-#. type: Content of: <div><p>
-msgid "Updated:"
-msgstr "Dernière mise à jour :"
 
 #. type: Content of: <title>
 msgid "Proprietary Jails - GNU Project - Free Software Foundation"
@@ -4260,26 +4592,6 @@ msgstr ""
 #. type: Content of: <div><h2>
 msgid "Proprietary Jails"
 msgstr "Prisons du logiciel privateur"
-
-#. type: Content of: <div><div><p>
-msgid ""
-"Nonfree (proprietary) software is very often malware (designed to mistreat "
-"the user). Nonfree software is controlled by its developers, which puts them "
-"in a position of power over the users; <a href=\"/philosophy/free-software-"
-"even-more-important.html\">that is the basic injustice</a>. The developers "
-"and manufacturers often exercise that power to the detriment of the users "
-"they ought to serve."
-msgstr ""
-"Le logiciel non libre (privateur) est très souvent malveillant (conçu pour "
-"maltraiter les utilisateurs). Il est contrôlé par ses développeurs, ce qui "
-"les met en position de pouvoir vis-à-vis des utilisateurs ; <a href=\"/"
-"philosophy/free-software-even-more-important.html\">c'est l'injustice de "
-"base</a>. Les développeurs et les fabricants exercent souvent ce pouvoir au "
-"détriment des utilisateurs qu'ils devraient servir."
-
-#. type: Content of: <div><div><p>
-msgid "This typically takes the form of malicious functionalities."
-msgstr "Cela prend habituellement la forme de fonctionnalités malveillantes."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -4313,19 +4625,6 @@ msgstr ""
 "Cette page recense quelques prisons, ainsi que les méthodes qu'elles "
 "utilisent pour censurer les applis, et donne des exemples d'applis qui ont "
 "été bloquées au moyen de ce système de censure."
-
-#. type: Content of: <div><div><div><p>
-msgid ""
-"If you know of an example that ought to be in this page but isn't here, "
-"please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
-"org&gt;</a> to inform us. Please include the URL of a trustworthy reference "
-"or two to serve as specific substantiation."
-msgstr ""
-"Si vous avez connaissance d'un exemple qui devrait se trouver sur cette page "
-"mais n'y figure pas, n'hésitez pas à écrire à <a href=\"mailto:"
-"webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> pour nous en informer. "
-"Merci de fournir les URL d'une ou deux références fiables et spécifiques "
-"pour l'étayer."
 
 #. type: Content of: <div><div><div><ul><li>
 msgid "&nbsp;<a href=\"#apple\">Apple</a>&nbsp;"
@@ -4636,6 +4935,924 @@ msgid "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
+msgid ""
+"Microsoft's Software Is Malware - GNU Project - Free Software Foundation"
+msgstr ""
+"Malveillance des logiciels Microsoft - Projet GNU - Free Software Foundation"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
+"company&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Maliciels</a>&nbsp;/ "
+"Par entreprise&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "Microsoft's Software is Malware"
+msgstr "Malveillance des logiciels Microsoft"
+
+#. type: Content of: <div><div><div><h3>
+msgid "Types of Microsoft malware"
+msgstr "Types de malveillance chez Microsoft"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "<a href=\"#back-doors\">Back doors</a>"
+msgstr "<a href=\"#back-doors\">Portes dérobées</a>"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "<a href=\"#drm\">DRM</a>"
+msgstr "<a href=\"#drm\">DRM</a>"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "<a href=\"#insecurity\">Insecurity</a>"
+msgstr "<a href=\"#insecurity\">Insécurité</a>"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "<a href=\"#interference\">Interference</a>"
+msgstr "<a href=\"#interference\">Ingérence</a>"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "<a href=\"#jails\">Jails</a>"
+msgstr "<a href=\"#jails\">Prisons</a>"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "<a href=\"#sabotage\">Sabotage</a>"
+msgstr "<a href=\"#sabotage\">Sabotage</a>"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "<a href=\"#subscriptions\">Subscriptions</a>"
+msgstr "<a href=\"#subscriptions\">Abonnements</a>"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "<a href=\"#surveillance\">Surveillance</a>"
+msgstr "<a href=\"#surveillance\">Surveillance</a>"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "<a href=\"#tethers\">Tethers</a>"
+msgstr "<a href=\"#tethers\">Ancrage</a>"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "<a href=\"#tyrants\">Tyrants</a>"
+msgstr "<a href=\"#tyrants\">Tyrans</a>"
+
+#. type: Content of: <div><div><h3>
+msgid "Back Doors"
+msgstr "Portes dérobées"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Microsoft Windows has a universal back door through which <a href=\"http://"
+"www.informationweek.com/microsoft-updates-windows-without-user-permission-"
+"apologizes/d/d-id/1059183\"> any change whatsoever can be imposed on the "
+"users</a>."
+msgstr ""
+"Microsoft Windows a une porte dérobée universelle qui permet <a href="
+"\"http://www.informationweek.com/microsoft-updates-windows-without-user-"
+"permission-apologizes/d/d-id/1059183\">d'imposer un changement aux "
+"utilisateurs, quel qu'il soit</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"This was <a href=\"https://web.archive.org/web/20200219180230/http://slated."
+"org/windows_by_stealth_the_updates_you_dont_want\"> reported in 2007</a> for "
+"XP and Vista, and it seems that Microsoft used the same method to push the "
+"<a href=\"/proprietary/malware-microsoft.html#windows10-forcing\"> Windows "
+"10 downgrade</a> to computers running Windows 7 and 8."
+msgstr ""
+"Ceci a été <a href=\"https://web.archive.org/web/20200219180230/http://"
+"slated.org/windows_by_stealth_the_updates_you_dont_want\">décrit en 2007</a> "
+"pour XP et Vista et il semble que Microsoft ait utilisé la même méthode pour "
+"<a href=\"/proprietary/malware-microsoft.html#windows10-forcing\">imposer "
+"une régression vers Windows 10</a> aux ordinateurs sous Windows 7 et 8."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"In Windows 10, the universal back door is no longer hidden; all &ldquo;"
+"upgrades&rdquo; will be <a href=\"http://arstechnica.com/information-"
+"technology/2015/07/windows-10-updates-to-be-automatic-and-mandatory-for-home-"
+"users/\"> forcibly and immediately imposed</a>."
+msgstr ""
+"Dans Windows 10, la porte dérobée universelle n'est plus cachée ; toutes les "
+"« mises à jour » seront <a href=\"http://arstechnica.com/information-"
+"technology/2015/07/windows-10-updates-to-be-automatic-and-mandatory-for-home-"
+"users/\">imposées immédiatement, de force</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Microsoft has <a href=\"https://theintercept.com/2015/12/28/recently-bought-"
+"a-windows-computer-microsoft-probably-has-your-encryption-key/\"> backdoored "
+"its disk encryption</a>."
+msgstr ""
+"<a href=\"https://theintercept.com/2015/12/28/recently-bought-a-windows-"
+"computer-microsoft-probably-has-your-encryption-key/\">Microsoft a mis une "
+"porte dérobée dans le chiffrement des disques</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The German government <a href=\"https://www.theregister.co.uk/2013/08/23/"
+"nsa_germany_windows_8/\">veers away from Windows 8 computers with TPM 2.0</"
+"a> (<a href=\"https://www.zeit.de/digital/datenschutz/2013-08/trusted-"
+"computing-microsoft-windows-8-nsa\">original article in German</a>), due to "
+"potential back door capabilities of the TPM 2.0 chip."
+msgstr ""
+"Le gouvernement allemand <a href=\"https://www.theregister.co.uk/2013/08/23/"
+"nsa_germany_windows_8/\">se détourne des ordinateurs sous Windows 8 munis de "
+"la puce TPM 2.0</a> (<a href=\"https://www.zeit.de/digital/"
+"datenschutz/2013-08/trusted-computing-microsoft-windows-8-nsa\">article "
+"original en allemand</a>), parce que cette puce permet de créer des portes "
+"dérobées."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Here is a suspicion that we can't prove, but is worth thinking about: <a "
+"href=\"https://web.archive.org/web/20150206003913/http://www.afr.com/p/"
+"technology/intel_chips_could_be_nsa_key_to_ymrhS1HS1633gCWKt5tFtI\"> "
+"Writable microcode for Intel and AMD microprocessors</a> may be a vehicle "
+"for the NSA to invade computers, with the help of Microsoft, say respected "
+"security experts."
+msgstr ""
+"Voici une hypothèse que nous ne pouvons pas prouver, mais qui mérite "
+"réflexion : <a href=\"https://web.archive.org/web/20150206003913/http://www."
+"afr.com/p/technology/intel_chips_could_be_nsa_key_to_ymrhS1HS1633gCWKt5tFtI"
+"\">le microcode reprogrammable des microprocesseurs Intel et AMD</a> "
+"pourrait fournir à la NSA un moyen d'envahir les ordinateurs, disent des "
+"experts respectés en sécurité."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Windows 8 also has a back door for <a href=\"https://www.computerworld.com/"
+"article/2500036/microsoft--we-can-remotely-delete-windows-8-apps.html\"> "
+"remotely deleting apps</a>."
+msgstr ""
+"<a href=\"https://www.computerworld.com/article/2500036/microsoft--we-can-"
+"remotely-delete-windows-8-apps.html\">Windows 8 a aussi une porte dérobée "
+"pour supprimer des applications à distance</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"You might well decide to let a security service that you trust remotely "
+"<em>deactivate</em> programs that it considers malicious.  But there is no "
+"excuse for <em>deleting</em> the programs, and you should have the right to "
+"decide whom (if anyone) to trust in this way."
+msgstr ""
+"Vous pouvez parfaitement décider de laisser un service de sécurité en qui "
+"vous avez confiance <em>désactiver</em> les programmes qu'il considère comme "
+"malveillants. Mais il n'y a aucune excuse pour les <em>supprimer</em>, et "
+"vous devez avoir le droit de décider si vous devez vous en remettre à "
+"quelqu'un pour cela, et à qui."
+
+#. type: Content of: <div><div><h3>
+msgid "DRM"
+msgstr "DRM"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Digital restrictions management, or &ldquo;DRM,&rdquo; refers to "
+"functionalities designed to restrict what users can do with the data in "
+"their computers."
+msgstr ""
+"« Gestion numérique des restrictions », ou « <abbr title=\"Digital "
+"Restrictions Management\">DRM</abbr> », désigne les fonctionnalités conçues "
+"pour limiter ce que les utilisateurs peuvent faire avec leurs ordinateurs."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"http://arstechnica.com/apple/2007/08/aacs-tentacles/\">DRM in "
+"Windows</a>, introduced to cater to <a href=\"/proprietary/proprietary-drm."
+"html#bluray\">Bluray</a> disks.  (The article talks about how the same "
+"malware would later be introduced in MacOS.  That had not been done at the "
+"time, but it was done subsequently.)"
+msgstr ""
+"<a href=\"http://arstechnica.com/apple/2007/08/aacs-tentacles/\">Un DRM dans "
+"Windows</a>, introduit pour répondre aux besoins des disques <a href=\"/"
+"proprietary/proprietary-drm.html#bluray\">Blu-ray</a>. (L'article parle de "
+"l'introduction du même logiciel malveillant dans MacOS. Ce n'était pas fait "
+"à l'époque mais a été fait depuis.)"
+
+#. type: Content of: <div><div><h3>
+msgid "Insecurity"
+msgstr "Insécurité"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"These bugs are/were not intentional, so unlike the rest of the file they do "
+"not count as malware. We mention them to refute the supposition that "
+"prestigious proprietary software doesn't have grave bugs."
+msgstr ""
+"Contrairement au reste de la page, ce paragraphe répertorie des bogues qui "
+"ne sont pas (n'étaient pas) intentionnels, et donc ne peuvent pas être "
+"qualifiés de malveillants. Nous les signalons pour réfuter l'idée préconçue "
+"que les logiciels privateurs prestigieux n'ont pas de bogue grave."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Exploits of bugs in Windows, which were developed by the NSA and then leaked "
+"by the Shadowbrokers group, are now being used to <a href=\"https://"
+"theintercept.com/2017/05/12/the-nsas-lost-digital-weapon-is-helping-hijack-"
+"computers-around-the-world/\">attack a great number of Windows computers "
+"with ransomware</a>."
+msgstr ""
+"Des exploits utilisant certains bogues de Windows, développés par la NSA "
+"puis divulgués par le groupe Shadowbrokers, servent maintenant à <a href="
+"\"https://theintercept.com/2017/05/12/the-nsas-lost-digital-weapon-is-"
+"helping-hijack-computers-around-the-world/\">attaquer un grand nombre "
+"d'ordinateurs sous Windows avec un logiciel de rançon <i>[ransomware]</i></"
+"a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"A <a href=\"http://www.zdnet.com/article/windows-attack-can-steal-your-"
+"username-password-and-other-logins/\">flaw in Internet Explorer and Edge</a> "
+"allows an attacker to retrieve Microsoft account credentials, if the user is "
+"tricked into visiting a malicious link."
+msgstr ""
+"Une <a href=\"http://www.zdnet.com/article/windows-attack-can-steal-your-"
+"username-password-and-other-logins/\">faille d'Internet Explorer et Edge</a> "
+"permet à un attaquant de récupérer les identifiants du compte Microsoft si "
+"l'utilisateur se laisse piéger et suit un lien malveillant."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"http://arstechnica.com/security/2013/12/credit-card-fraud-comes-of-"
+"age-with-first-known-point-of-sale-botnet/\"> Point-of-sale terminals "
+"running Windows were taken over</a> and turned into a botnet for the purpose "
+"of collecting customers' credit card numbers."
+msgstr ""
+"<a href=\"http://arstechnica.com/security/2013/12/credit-card-fraud-comes-of-"
+"age-with-first-known-point-of-sale-botnet/\">Des terminaux de paiement "
+"tournant sous Windows ont été piratés</a> et transformés en botnet afin de "
+"récupérer les numéros de cartes de crédit des clients."
+
+#. type: Content of: <div><div><h3>
+msgid "Interference"
+msgstr "Ingérence"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This section gives examples of Microsoft software harassing or annoying the "
+"user, or causing trouble for the user.  These actions are like sabotage but "
+"the word &ldquo;sabotage&rdquo; is too strong for them."
+msgstr ""
+"Cette page décrit comment certains logiciels de Microsoft importunent ou "
+"harcèlent l'utilisateur, ou bien lui causent des ennuis. Cela ressemble à du "
+"sabotage, mais le mot « sabotage » est trop fort."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Microsoft is planning to make Windows <a href=\"https://www.theguardian.com/"
+"technology/2018/mar/19/windows-10-microsoft-force-people-edge-browser-"
+"windows-mail-chrome-firefox\"> impose use of its browser, Edge, in certain "
+"circumstances</a>."
+msgstr ""
+"Microsoft projette de modifier Windows pour qu'il <a href=\"https://www."
+"theguardian.com/technology/2018/mar/19/windows-10-microsoft-force-people-"
+"edge-browser-windows-mail-chrome-firefox\">impose l'utilisation de son "
+"navigateur, Edge, dans certaines circonstances</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The reason Microsoft can force things on users is that Windows is nonfree."
+msgstr ""
+"La raison pour laquelle Microsoft peut imposer des choses aux utilisateurs "
+"est que Windows est privateur."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Windows displays <a href=\"http://www.theverge.com/2017/3/17/14956540/"
+"microsoft-windows-10-ads-taskbar-file-explorer\"> intrusive ads for "
+"Microsoft products and its partners' products</a>."
+msgstr ""
+"Windows affiche des <a href=\"http://www.theverge.com/2017/3/17/14956540/"
+"microsoft-windows-10-ads-taskbar-file-explorer\">publicités intrusives pour "
+"les produits de Microsoft et de ses partenaires commerciaux</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The article's author starts from the premise that Microsoft has a right to "
+"control what Windows does to users, as long as it doesn't go &ldquo;too "
+"far&rdquo;. We disagree."
+msgstr ""
+"L'auteur de l'article part du principe que Microsoft a le droit de contrôler "
+"ce que fait Windows aux utilisateurs tant qu'elle ne va pas « trop loin ». "
+"Nous ne sommes pas d'accord."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"After <a href=\"/proprietary/malware-microsoft.html#windows10-forcing"
+"\">forcing the download of Windows 10</a> on computers that were running "
+"Windows 7 and 8, Microsoft <a href=\"https://www.computerworld.com/"
+"article/3012278/microsoft-sets-stage-for-massive-windows-10-upgrade-strategy."
+"html\"> repeatedly switched on a flag that urged users to &ldquo;"
+"upgrade&rdquo; to Windows 10</a> when they had turned it off, in the hope "
+"that some day they would fail to say no.  To do this, Microsoft used <a href="
+"\"https://www.theregister.co.uk/2016/03/17/"
+"microsoft_windows_10_upgrade_gwx_vs_humanity/\"> malware techniques</a>."
+msgstr ""
+"Après avoir <a href=\"/proprietary/malware-microsoft.html#windows10-forcing"
+"\">forcé le téléchargement de Windows 10</a> sur les ordinateurs exécutant "
+"Windows 7 ou 8, Microsoft a <a href=\"https://www.computerworld.com/"
+"article/3012278/microsoft-sets-stage-for-massive-windows-10-upgrade-strategy."
+"html\">continué à afficher un panneau exhortant les utilisateurs à faire la "
+"« mise à niveau »</a>, même lorsqu'ils avaient refusé de nombreuses fois, "
+"dans l'espoir qu'un jour ou l'autre ils oublieraient de dire non. Pour ce "
+"faire, Microsoft a utilisé des <a href=\"https://www.theregister.co."
+"uk/2016/03/17/microsoft_windows_10_upgrade_gwx_vs_humanity/\">techniques "
+"classiques dans l'industrie du malware</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"A detailed <a href=\"https://www.eff.org/deeplinks/2016/08/windows-10-"
+"microsoft-blatantly-disregards-user-choice-and-privacy-deep-dive\"> analysis "
+"of Microsoft's scheme</a> is available on the Electronic Frontier "
+"Foundation's website."
+msgstr ""
+"Une <a href=\"https://www.eff.org/deeplinks/2016/08/windows-10-microsoft-"
+"blatantly-disregards-user-choice-and-privacy-deep-dive\">analyse détaillée "
+"du stratagème de Microsoft</a> est disponible sur le site de l'<i>Electronic "
+"Frontier Foundation</i>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Microsoft has made companies' Windows machines managed by the company's "
+"sysadmins <a href=\"http://www.infoworld.com/article/3042397/microsoft-"
+"windows/admins-beware-domain-attached-pcs-are-sprouting-get-windows-10-ads."
+"html\">harangue users to complain to the sysadmins about not &ldquo;"
+"upgrading&rdquo; to Windows 10</a>."
+msgstr ""
+"Microsoft a fait en sorte que les machines sous Microsoft appartenant à des "
+"entreprises et gérées par les administrateurs système de ces dernières <a "
+"href=\"http://www.infoworld.com/article/3042397/microsoft-windows/admins-"
+"beware-domain-attached-pcs-are-sprouting-get-windows-10-ads.html"
+"\">sermonnent les utilisateurs pour qu'ils se plaignent auprès des "
+"administrateurs système de ce que la « mise à niveau » vers Windows 10 ne "
+"soit pas encore faite</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Microsoft has <a href=\"http://www.theverge.com/2016/1/16/10780876/microsoft-"
+"windows-support-policy-new-processors-skylake\">desupported all future Intel "
+"CPUs for Windows 7 and 8</a>. Those machines will be stuck with the nastier "
+"Windows 10.  <a href=\"http://gizmodo.com/only-the-latest-version-of-windows-"
+"will-run-on-some-fut-1753545825\"> AMD and Qualcomm CPUs, too</a>."
+msgstr ""
+"Microsoft a <a href=\"http://www.theverge.com/2016/1/16/10780876/microsoft-"
+"windows-support-policy-new-processors-skylake\">cessé de gérer tous les "
+"futurs processeurs d'Intel dans Windows 7 et 8</a>. Seul Windows 10, encore "
+"plus malfaisant, sera disponible pour ces machines. <a href=\"http://gizmodo."
+"com/only-the-latest-version-of-windows-will-run-on-some-"
+"fut-1753545825\">Même chose pour les processeurs d'AMD et de Qualcomm</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Of course, Windows 7 and 8 are unethical too, because they are proprietary "
+"software.  But this example of Microsoft's wielding its power demonstrates "
+"the power it holds."
+msgstr ""
+"Bien sûr, Windows 7 et 8 sont moralement contestables eux aussi, puisqu'ils "
+"sont privateurs. Mais cet exemple d'exercice du pouvoir montre combien "
+"Microsoft en détient."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Free software developers also stop maintaining old versions of their "
+"programs, but this is not unfair to users because the users of free software "
+"have control over it.  If it is important enough to you, you and other users "
+"can hire someone to support the old version on your future platforms."
+msgstr ""
+"Les développeurs de logiciel libre, eux aussi, cessent de maintenir les "
+"anciennes versions de leurs programmes, mais ce n'est pas injuste envers les "
+"utilisateurs, car ces derniers en ont le contrôle. Si c'est suffisamment "
+"important pour vous, vous pouvez, avec d'autres utilisateurs, embaucher "
+"quelqu'un pour adapter l'ancienne version à vos futures plateformes."
+
+#. type: Content of: <div><div><h3>
+msgid "Sabotage"
+msgstr "Sabotage"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The wrongs in this section are not precisely malware, since they do not "
+"involve making the program that runs in a way that hurts the user.  But they "
+"are a lot like malware, since they are technical Microsoft actions that harm "
+"the users of specific Microsoft software."
+msgstr ""
+"Les injustices décrites dans cette section ne sont pas précisément de la "
+"malveillance, car elles ne sous-entendent pas que le programme en "
+"fonctionnement soit conçu pour nuire à l'utilisateur. Mais elles y "
+"ressemblent beaucoup puisqu'il s'agit d'actions techniques de Microsoft qui "
+"font du tort aux utilisateurs de logiciels Microsoft particuliers."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Microsoft has made Windows 7 and 8 cease to function on certain new "
+"computers, <a href=\"https://support.microsoft.com/en-us/help/4012982/the-"
+"processor-is-not-supported-together-with-the-windows-version-that"
+"\">effectively forcing their owners to switch to Windows 10</a>."
+msgstr ""
+"Microsoft a fait en sorte que Windows 7 et 8 ne fonctionnent plus sur "
+"certains nouveaux ordinateurs, <a href=\"https://support.microsoft.com/fr-fr/"
+"help/4012982/the-processor-is-not-supported-together-with-the-windows-"
+"version-that\">ce qui oblige leurs propriétaires à passer à Windows 10</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Microsoft <a href=\"https://arstechnica.com/information-technology/2017/04/"
+"new-processors-are-now-blocked-from-receiving-updates-on-old-windows/\"> has "
+"dropped support for Windows 7 and 8 on recent processors</a> in a big hurry."
+msgstr ""
+"Microsoft <a href=\"https://arstechnica.com/information-technology/2017/04/"
+"new-processors-are-now-blocked-from-receiving-updates-on-old-windows/\">a "
+"hâtivement abandonné le support de Windows 7 et 8 pour les processeurs les "
+"plus récents</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"It makes no difference what legitimate reasons Microsoft might have for not "
+"doing work to support them. If it doesn't want to do this work, it should "
+"let users do the work."
+msgstr ""
+"Peu importe les raisons qui ont poussé Microsoft à ne plus fournir d'effort "
+"pour les gérer. Même s'ils ne veulent plus travailler dessus, ils devraient "
+"permettre aux utilisateurs de le faire."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"In its efforts to trick users of Windows 7 and 8 into installing all-spying "
+"Windows 10 against their will, Microsoft forced their computers to <a href="
+"\"https://www.theguardian.com/technology/2015/sep/11/microsoft-downloading-"
+"windows-1\"> silently download&hellip; the whole of Windows 10</a>! "
+"Apparently, this was done through a <a href=\"/proprietary/proprietary-back-"
+"doors.html#windows-update\"> universal back door</a>. Not only did the "
+"unwanted downloads <a href=\"https://www.theregister.co.uk/2016/06/03/"
+"windows_10_upgrade_satellite_link/\"> jeopardize important operations in "
+"regions of the world with poor connectivity</a>, but many of the people who "
+"let installation proceed found out that this &ldquo;upgrade&rdquo; was in "
+"fact a <a href=\"http://gizmodo.com/woman-wins-10-000-from-microsoft-after-"
+"unwanted-window-1782666146\"> downgrade</a>."
+msgstr ""
+"Parmi les pièges que Microsoft a tendus aux utilisateurs de Windows 7 et 8 "
+"pour qu'ils installent Windows 10 contre leur gré, il y a eu le <a href="
+"\"https://www.theguardian.com/technology/2015/sep/11/microsoft-downloading-"
+"windows-1\">téléchargement furtif&hellip; de la totalité de Windows 10</a> ! "
+"Il semble qu'une <a href=\"/proprietary/proprietary-back-doors.html#windows-"
+"update\">porte dérobée universelle</a> ait été utilisée à cette occasion. "
+"Non seulement ces téléchargements non désirés ont <a href=\"https://www."
+"theregister.co.uk/2016/06/03/windows_10_upgrade_satellite_link/\">compromis "
+"des opérations importantes dans des régions du monde mal connectées à "
+"Internet</a>, mais nombre de personnes qui ont laissé cette « mise à "
+"niveau » se faire ont constaté que c'était en fait une <a href=\"http://"
+"gizmodo.com/woman-wins-10-000-from-microsoft-after-unwanted-"
+"window-1782666146\">régression</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Once Microsoft has tricked a user into accepting installation of Windows 10, "
+"<a href=\"https://www.theregister.co.uk/2016/06/01/"
+"windows_10_nagware_no_way_out/\">they find that they are denied the option "
+"to cancel or even postpone the imposed date of installation</a>."
+msgstr ""
+"Une fois que l'utilisateur, piégé par Microsoft, a accepté l'installation de "
+"Windows 10, <a href=\"https://www.theregister.co.uk/2016/06/01/"
+"windows_10_nagware_no_way_out/\">il s'aperçoit que l'option d'annuler ou "
+"même de différer la date imposée pour l'installation lui est refusée</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"This demonstrates what we've said for years: using proprietary software "
+"means letting someone have power over you, and you're going to get screwed "
+"sooner or later."
+msgstr ""
+"Cela démontre ce que nous répétons depuis des années : quand vous utilisez "
+"du logiciel privateur, vous laissez quelqu'un prendre le pouvoir sur vous et "
+"vous êtes sûr de vous faire avoir."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"FTDI's proprietary driver for its USB-to-serial chips has been designed to "
+"<a href=\"http://arstechnica.com/information-technology/2014/10/windows-"
+"update-drivers-bricking-usb-serial-chips-beloved-of-hardware-hackers/"
+"\">sabotage alternative compatible chips</a> so that they no longer work. "
+"Microsoft is <a href=\"http://it.slashdot.org/story/16/01/31/1720259/ftdi-"
+"driver-breaks-hardware-again\">installing this automatically</a> as an "
+"&ldquo;upgrade&rdquo;."
+msgstr ""
+"Le pilote privateur des puces USB-série de <abbr title=\"Future Technology "
+"Devices International\">FTDI</abbr> a été conçu pour <a href=\"http://"
+"arstechnica.com/information-technology/2014/10/windows-update-drivers-"
+"bricking-usb-serial-chips-beloved-of-hardware-hackers/\">saboter les puces "
+"alternatives compatibles</a> pour qu'elles cessent de fonctionner. Microsoft "
+"<a href=\"http://it.slashdot.org/story/16/01/31/1720259/ftdi-driver-breaks-"
+"hardware-again\">l'installe automatiquement</a> en tant que mise à jour."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Windows 10 &ldquo;upgrades&rdquo; <a href=\"http://www.ghacks.net/2015/11/24/"
+"beware-latest-windows-10-update-may-remove-programs-automatically/\"> delete "
+"applications</a> without asking permission."
+msgstr ""
+"Les « mises à niveau » de Windows 10 <a href=\"http://www.ghacks."
+"net/2015/11/24/beware-latest-windows-10-update-may-remove-programs-"
+"automatically/\">suppriment des applications</a> sans demander la permission."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"https://web.archive.org/web/20191205010621/https://www."
+"computerworld.com/article/3423768/windows-xp--end-of-an-era--end-of-an-error."
+"html\">Microsoft cut off security fixes for Windows XP, except to some big "
+"users that pay exorbitantly</a>."
+msgstr ""
+"<a href=\"https://web.archive.org/web/20191205010621/https://www."
+"computerworld.com/article/3423768/windows-xp--end-of-an-era--end-of-an-error."
+"html\">Microsoft a cessé de fournir des correctifs de sécurité pour "
+"Windows XP, sauf à quelques gros utilisateurs qui paient un prix exorbitant</"
+"a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Microsoft is going to <a href=\"https://web.archive.org/web/20181030194725/"
+"https://www.computerworlduk.com/applications/more-than-half-of-all-ie-users-"
+"face-patch-axe-in-10-months-3605515/\"> cut off support for some Internet "
+"Explorer versions</a> in the same way."
+msgstr ""
+"De même, Microsoft va <a href=\"https://web.archive.org/web/20181030194725/"
+"https://www.computerworlduk.com/applications/more-than-half-of-all-ie-users-"
+"face-patch-axe-in-10-months-3605515/\">mettre fin au support de certaines "
+"versions d'Internet Explorer</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"A person or company has the right to cease to work on a particular program; "
+"the wrong here is Microsoft does this after having made the users dependent "
+"on Microsoft, because they are not free to ask anyone else to work on the "
+"program for them."
+msgstr ""
+"Une personne ou une entreprise a le droit de cesser de travailler sur un "
+"programme particulier ; ce qui est mal, dans ce cas, c'est que Microsoft le "
+"fasse après avoir rendu les utilisateurs dépendants de sa société, car ils "
+"ne sont pas libres de demander à quelqu'un d'autre de travailler pour eux "
+"sur ce programme."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"https://web.archive.org/web/20130622044225/http://blogs."
+"computerworlduk.com/open-enterprise/2013/06/how-can-any-company-ever-trust-"
+"microsoft-again/index.htm\">Microsoft informs the NSA of bugs in Windows "
+"before fixing them</a>."
+msgstr ""
+"<a href=\"https://web.archive.org/web/20130622044225/http://blogs."
+"computerworlduk.com/open-enterprise/2013/06/how-can-any-company-ever-trust-"
+"microsoft-again/index.htm\">Microsoft renseigne la NSA sur les bogues de "
+"Windows avant de les corriger</a>."
+
+#. type: Content of: <div><div><h3>
+msgid "Subscriptions"
+msgstr "Abonnements"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Microsoft Office forces users <a href=\"https://www.computerworld.com/"
+"article/2948755/office-for-windows-10-will-require-office-365-subscription-"
+"on-pcs-larger-tablets.html\">to subscribe to Office 365 to be able to create/"
+"edit documents</a>."
+msgstr ""
+"Microsoft Office force ses utilisateurs <a href=\"https://www.computerworld."
+"com/article/2948755/office-for-windows-10-will-require-office-365-"
+"subscription-on-pcs-larger-tablets.html\">à s'abonner à Office 365 pour "
+"pouvoir créer ou éditer des documents</a>."
+
+#. type: Content of: <div><div><h3>
+msgid "Surveillance"
+msgstr "Surveillance"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Windows 10 telemetry program sends information to Microsoft about the user's "
+"computer and their use of the computer."
+msgstr ""
+"Le programme de télémétrie de Windows 10 envoie à Microsoft des informations "
+"sur l'ordinateur de l'utilisateur et la manière dont il l'utilise."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Furthermore, for users who installed the fourth stable build of Windows 10, "
+"called the &ldquo;Creators Update,&rdquo; Windows maximized the surveillance "
+"<a href=\"https://arstechnica.com/gadgets/2017/10/dutch-privacy-regulator-"
+"says-that-windows-10-breaks-the-law\"> by force setting the telemetry mode "
+"to &ldquo;Full&rdquo;</a>."
+msgstr ""
+"De plus, pour les utilisateurs qui ont installé la quatrième mise à jour "
+"stable de Windows 10 (appelée « Creators Update »), Windows a poussé la "
+"surveillance à son maximum <a href=\"https://arstechnica.com/gadgets/2017/10/"
+"dutch-privacy-regulator-says-that-windows-10-breaks-the-law\">en réglant par "
+"défaut le niveau de télémétrie à « Complet »</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The <a href=\"https://docs.microsoft.com/en-us/windows/privacy/configure-"
+"windows-diagnostic-data-in-your-organization#full-level\"> &ldquo;"
+"Full&rdquo; telemetry mode</a> allows Microsoft Windows engineers to access, "
+"among other things, registry keys <a href=\"https://docs.microsoft.com/en-us/"
+"previous-versions/windows/it-pro/windows-2000-server/cc939702"
+"(v=technet.10)\"> which can contain sensitive information like "
+"administrator's login password</a>."
+msgstr ""
+"Le <a href=\"https://docs.microsoft.com/en-us/windows/privacy/configure-"
+"windows-diagnostic-data-in-your-organization#full-level\">niveau "
+"« Complet »</a> de télémétrie permet aux ingénieurs de Microsoft d'accéder, "
+"entre autres, à des clés de registre qui contiennent <a href=\"https://docs."
+"microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/"
+"cc939702(v=technet.10)\">de l'information sensible comme le mot de passe "
+"administrateur</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"DRM-restricted files can be used to <a href=\"https://yro.slashdot.org/"
+"story/17/02/02/231229/windows-drm-protected-files-used-to-decloak-tor-"
+"browser-users\"> identify people browsing through Tor</a>. The vulnerability "
+"exists only if you use Windows."
+msgstr ""
+"Les fichiers munis de DRM <a href=\"https://yro.slashdot.org/"
+"story/17/02/02/231229/windows-drm-protected-files-used-to-decloak-tor-"
+"browser-users\">peuvent être utilisés afin d'identifier les personnes qui "
+"naviguent via Tor</a>. Cette vulnérabilité n'existe que si vous utilisez "
+"Windows."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"By default, Windows 10 <a href=\"http://betanews.com/2016/11/24/microsoft-"
+"shares-windows-10-telemetry-data-with-third-parties\">sends debugging "
+"information to Microsoft, including core dumps</a>. Microsoft now "
+"distributes them to another company."
+msgstr ""
+"Par défaut, Windows 10 <a href=\"http://betanews.com/2016/11/24/microsoft-"
+"shares-windows-10-telemetry-data-with-third-parties\">envoie l'information "
+"de débogage à Microsoft, y compris les vidages mémoire après plantage <i>"
+"[core dumps]</i></a>. Depuis quelque temps, Microsoft les distribue à une "
+"autre société."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"In order to increase Windows 10's install base, Microsoft <a class=\"not-a-"
+"duplicate\" href=\"https://www.eff.org/deeplinks/2016/08/windows-10-"
+"microsoft-blatantly-disregards-user-choice-and-privacy-deep-dive\"> "
+"blatantly disregards user choice and privacy</a>."
+msgstr ""
+"Afin d'élargir la base installée de Windows 10, Microsoft <a class=\"not-a-"
+"duplicate\" href=\"https://www.eff.org/deeplinks/2016/08/windows-10-"
+"microsoft-blatantly-disregards-user-choice-and-privacy-deep-dive\">manifeste "
+"un mépris total des choix de l'utilisateur et de sa vie privée</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"https://duo.com/blog/bring-your-own-dilemma-oem-laptops-and-"
+"windows-10-security\"> Windows 10 comes with 13 screens of snooping options</"
+"a>, all enabled by default, and turning them off would be daunting to most "
+"users."
+msgstr ""
+"<a href=\"https://duo.com/blog/bring-your-own-dilemma-oem-laptops-and-"
+"windows-10-security\">Windows 10 est livré avec 13 écrans remplis d'options "
+"de flicage</a>, toutes activées par défaut, que la plupart des utilisateurs "
+"n'oseront pas désactiver."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"It appears <a href=\"http://www.ghacks.net/2016/01/05/microsoft-may-be-"
+"collecting-more-data-than-initially-thought/\"> Windows 10 sends data to "
+"Microsoft about what applications are running</a>."
+msgstr ""
+"Il semble que <a href=\"http://www.ghacks.net/2016/01/05/microsoft-may-be-"
+"collecting-more-data-than-initially-thought/\">Windows 10 rapporte à "
+"Microsoft quelles applications sont en service</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"A downgrade to Windows 10 deleted surveillance-detection applications.  Then "
+"another downgrade inserted a general spying program.  Users noticed this and "
+"complained, so Microsoft renamed it <a href=\"https://www.theregister.co."
+"uk/2015/11/26/microsoft_renamed_data_slurper_reinserted_windows_10/\"> to "
+"give users the impression it was gone</a>."
+msgstr ""
+"Une mise à jour régressive de Windows 10 a supprimé des applications servant "
+"à détecter la surveillance. Puis une autre a inséré un programme "
+"d'espionnage tous azimuts. Les utilisateurs s'en sont rendu compte, alors "
+"Microsoft a changé son nom <a href=\"https://www.theregister.co."
+"uk/2015/11/26/microsoft_renamed_data_slurper_reinserted_windows_10/\">pour "
+"leur donner l'impression qu'il n'était plus là</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid "To use proprietary software is to invite such treatment."
+msgstr ""
+"Utiliser du logiciel privateur est une invitation à se faire traiter de la "
+"sorte."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"http://arstechnica.com/information-technology/2015/08/even-when-"
+"told-not-to-windows-10-just-cant-stop-talking-to-microsoft/\"> Windows 10 "
+"sends identifiable information to Microsoft</a>, even if a user turns off "
+"its Bing search and Cortana features, and activates the privacy-protection "
+"settings."
+msgstr ""
+"<a href=\"http://arstechnica.com/information-technology/2015/08/even-when-"
+"told-not-to-windows-10-just-cant-stop-talking-to-microsoft/\">Windows 10 "
+"envoie des informations identifiables à Microsoft</a>, même si l'utilisateur "
+"désactive la recherche sur Bing et les fonctionnalités de Cortina, et active "
+"les paramètres de confidentialité."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Windows 10 <a href=\"https://web.archive.org/web/20180923125732/https://"
+"jonathan.porta.codes/2015/07/30/windows-10-seems-to-have-some-scary-privacy-"
+"defaults/\"> ships with default settings that show no regard for the privacy "
+"of its users</a>, giving Microsoft the &ldquo;right&rdquo; to snoop on the "
+"users' files, text input, voice input, location info, contacts, calendar "
+"records and web browsing history, as well as automatically connecting the "
+"machines to open hotspots and showing targeted ads."
+msgstr ""
+"Windows 10 <a href=\"https://web.archive.org/web/20180923125732/https://"
+"jonathan.porta.codes/2015/07/30/windows-10-seems-to-have-some-scary-privacy-"
+"defaults/\">est livré avec des réglages par défaut qui ne montrent aucune "
+"considération pour la vie privée de ses utilisateurs</a>. Ils donnent à "
+"Microsoft le « droit » de fouiner dans les fichiers de l'utilisateur, les "
+"textes qu'il saisit, ses infos de localisation, ses contacts, son agenda et "
+"l'histoire de sa navigation. Et pour couronner le tout ils permettent la "
+"connexion automatique des machines aux réseaux WiFi ouverts et l'affichage "
+"de publicités ciblées."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"We can suppose Microsoft looks at users' files for the US government on "
+"demand, though the &ldquo;privacy policy&rdquo; does not explicitly say so. "
+"Will it look at users' files for the Chinese government on demand?"
+msgstr ""
+"On peut supposer que Microsoft regarde les fichiers des utilisateurs pour le "
+"gouvernement des États-Unis sur demande, bien que les « règles de "
+"confidentialité » ne le disent pas explicitement. Est-ce qu'elle fera de "
+"même pour le gouvernement chinois ?"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Microsoft uses Windows 10's &ldquo;privacy policy&rdquo; to overtly impose a "
+"&ldquo;right&rdquo; to look at users' files at any time. Windows 10 full "
+"disk encryption <a href=\"https://edri.org/our-work/microsofts-new-small-"
+"print-how-your-personal-data-abused/\"> gives Microsoft a key</a>."
+msgstr ""
+"Microsoft utilise les « règles de confidentialité » de Windows 10 pour "
+"imposer ouvertement un « droit » de regard permanent sur les fichiers de "
+"l'utilisateur. Dans Windows 10, le chiffrement complet du disque <a href="
+"\"https://edri.org/our-work/microsofts-new-small-print-how-your-personal-"
+"data-abused/\">donne une clé à Microsoft</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Thus, Windows is overt malware in regard to surveillance, as in other issues."
+msgstr ""
+"Ainsi, Windows est un logiciel malveillant manifeste en ce qui concerne la "
+"surveillance, comme sur les autres plans."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The unique &ldquo;advertising ID&rdquo; for each user enables other "
+"companies to track the browsing of each specific user."
+msgstr ""
+"L'« identifiant publicitaire unique » permet aux autres sociétés de suivre "
+"la navigation de chacun des utilisateurs."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"It's as if Microsoft has deliberately chosen to make Windows 10 maximally "
+"evil on every dimension; to make a grab for total power over anyone that "
+"doesn't drop Windows now."
+msgstr ""
+"C'est comme si Microsoft avait choisi délibérément de rendre Windows 10 "
+"malfaisant sur tous les plans ; de s'octroyer un contrôle total sur toute "
+"personne qui n'abandonne pas Windows dès maintenant."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"It only gets worse with time.  <a href=\"http://www.techworm.net/2014/10/"
+"microsofts-windows-10-permission-watch-every-move.html\"> Windows 10 "
+"requires users to give permission for total snooping</a>, including their "
+"files, their commands, their text input, and their voice input."
+msgstr ""
+"Cela ne fait qu'empirer avec le temps. <a href=\"http://www.techworm."
+"net/2014/10/microsofts-windows-10-permission-watch-every-move.html"
+"\">Windows 10 exige des utilisateurs qu'ils acceptent la totale en fait de "
+"fouinage</a>, ce qui inclut leurs fichiers, leurs commandes, ainsi que leurs "
+"entrées texte et audio."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"https://web.archive.org/web/20190421070310/https://www.itproportal."
+"com/2014/05/14/microsoft-openly-offered-cloud-data-fbi-and-nsa/\"> Microsoft "
+"SkyDrive allows the NSA to directly examine users' data</a>."
+msgstr ""
+"<a href=\"https://web.archive.org/web/20190421070310/https://www.itproportal."
+"com/2014/05/14/microsoft-openly-offered-cloud-data-fbi-and-nsa/\">Le "
+"SkyDrive de Microsoft permet à la NSA d'examiner directement les données des "
+"utilisateurs</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Skype contains <a href=\"https://web.archive.org/web/20130928235637/http://"
+"www.forbes.com/sites/petercohan/2013/06/20/project-chess-how-u-s-snoops-on-"
+"your-skype/\">spyware</a>.  Microsoft changed Skype <a href=\"http://www."
+"guardian.co.uk/world/2013/jul/11/microsoft-nsa-collaboration-user-data\"> "
+"specifically for spying</a>."
+msgstr ""
+"Skype aussi <a href=\"https://web.archive.org/web/20130928235637/http://www."
+"forbes.com/sites/petercohan/2013/06/20/project-chess-how-u-s-snoops-on-your-"
+"skype/\">contient un espiogiciel</a> ; Microsoft l'a modifié <a href="
+"\"http://www.guardian.co.uk/world/2013/jul/11/microsoft-nsa-collaboration-"
+"user-data\">dans un but précis d'espionnage</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Spyware in older versions of Windows: <a href=\"https://www.theregister.co."
+"uk/2003/02/28/windows_update_keeps_tabs/\"> Windows Update snoops on the "
+"user</a>. <a href=\"https://www.infoworld.com/article/2611451/a-look-at-the-"
+"black-underbelly-of-windows-8-1--blue-.html\"> Windows 8.1 snoops on local "
+"searches</a>. And there's a <a href=\"http://www.marketoracle.co.uk/"
+"Article40836.html\"> secret NSA key in Windows</a>, whose functions we don't "
+"know."
+msgstr ""
+"Espions dans les anciennes versions de Windows : <a href=\"https://www."
+"theregister.co.uk/2003/02/28/windows_update_keeps_tabs/\">Windows Update "
+"espionne l'utilisateur</a>. <a href=\"https://www.infoworld.com/"
+"article/2611451/a-look-at-the-black-underbelly-of-windows-8-1--blue-.html"
+"\">Windows 8.1 espionne les recherches locales</a>. Et il existe, toujours "
+"dans Windows, <a href=\"http://www.marketoracle.co.uk/Article40836.html"
+"\">une clé secrète de la NSA</a> dont nous ne connaissons pas la fonction."
+
+#. type: Content of: <div><div><h3>
+msgid "Tethers"
+msgstr "Ancrage"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Tethers are functionalities that require constant (or very frequent)  "
+"connection to a server."
+msgstr ""
+"L'ancrage désigne la nécessité d'une connexion fréquente ou permanente à un "
+"serveur."
+
+#. type: Content of: <div><div><h3>
+msgid "Jails"
+msgstr "Prisons"
+
+#. type: Content of: <div><div><p>
+msgid "Jails are systems that impose censorship on application programs."
+msgstr "Une prison est un système qui censure les programmes d'application."
+
+#. type: Content of: <div><div><h3>
+msgid "Tyrants"
+msgstr "Tyrans"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Tyrants are systems that reject any operating system not &ldquo;"
+"authorized&rdquo; by the manufacturer."
+msgstr ""
+"Un tyran est un appareil qui rejette tout système d'exploitation non "
+"« autorisé » par le fabricant."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Microsoft accidentally left a way for users to install GNU/Linux on Windows "
+"RT tablets, but now it has <a href=\"http://www.securitynewspaper."
+"com/2016/07/15/microsoft-silently-kills-dev-backdoor-boots-linux-locked-"
+"windows-rt-slabs/\"> &ldquo;fixed&rdquo; the &ldquo;error&rdquo;</a>. They "
+"have the gall to call this &ldquo;protecting&rdquo; the users.  The article "
+"talks of installing &ldquo;Linux&rdquo;, but the context shows it is really "
+"<a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> that users install."
+msgstr ""
+"Microsoft avait accidentellement laissé aux utilisateurs un moyen "
+"d'installer GNU/Linux sur les tablettes fonctionnant sous Windows RT, mais "
+"désormais <a href=\"http://www.securitynewspaper.com/2016/07/15/microsoft-"
+"silently-kills-dev-backdoor-boots-linux-locked-windows-rt-slabs/"
+"\">« l'erreur » est « corrigée »</a>. Ils ont le toupet d'appeler cela "
+"« protéger » les utilisateurs. L'article parle d'installer « Linux », mais "
+"le contexte montre que c'est en fait <a href=\"/gnu/linux-and-gnu.html\">GNU/"
+"Linux</a> que les utilisateurs installent."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"https://fsf.org/campaigns/secure-boot-vs-restricted-boot/\"> "
+"Mobile devices that come with Windows 8 are tyrants</a>."
+msgstr ""
+"<a href=\"https://fsf.org/campaigns/secure-boot-vs-restricted-boot/\">Les "
+"appareils mobiles livrés avec Windows 8 sont des tyrans</a>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"As this page shows, if you do want to clean your computer of malware, the "
+"first software to delete is Windows."
+msgstr ""
+"Comme le montre cette page, si vous voulez débarrasser votre ordinateur des "
+"logiciels malveillants, le premier à supprimer est Windows."
+
+#. type: Content of: <title>
 msgid "Proprietary Manipulation - GNU Project - Free Software Foundation"
 msgstr ""
 "Pratiques manipulatrices du privateur - GNU Project - Free Software "
@@ -4690,6 +5907,112 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Copyright &copy; 2019, 2020, 2021 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2019-2021 Free Software Foundation, Inc."
+
+#. type: Content of: <title>
+msgid "Proprietary Subscriptions - GNU Project - Free Software Foundation"
+msgstr "Abonnements privateurs - Projet GNU - Free Software Foundation"
+
+#. type: Content of: <div><h2>
+msgid "Proprietary Subscriptions"
+msgstr "Abonnements privateurs"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"It sounds simple to say that a certain program &ldquo;requires a "
+"subscription.&rdquo; What that means concretely is that it contains a time "
+"bomb, so that it will refuse to operate after that date.  Or else it is <a "
+"href=\"/proprietary/proprietary-tethers.html#about-page\">tethered to a "
+"server</a>, and that server checks the date.  Either one is a malicious "
+"functionality."
+msgstr ""
+"Cela paraît simple de dire qu'un certain programme « nécessite un "
+"abonnement ». En pratique, cela signifie qu'il contient une bombe à "
+"retardement et refusera de fonctionner après telle date, ou bien qu'il est "
+"<a href=\"/proprietary/proprietary-tethers.html#about-page\">attaché à un "
+"serveur</a> et que ce serveur vérifie la date. L'une et l'autre sont des "
+"fonctionnalités malveillantes."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Examples of software subscriptions that harmed users directly are given "
+"below."
+msgstr ""
+"Vous trouverez ci-dessous des exemples d'abonnements à des logiciels qui ont "
+"fait du tort directement aux utilisateurs."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Sony has brought back its robotic pet Aibo, this time <a href=\"https://www."
+"vice.com/en/article/bj778v/sony-wants-to-sell-you-a-subscription-to-a-robot-"
+"dog-aibo-90s-pet\"> with a universal back door, and tethered to a server "
+"that requires a subscription</a>."
+msgstr ""
+"Sony a ressorti son robot de compagnie Aibo, cette fois-ci <a href=\"https://"
+"www.vice.com/en/article/bj778v/sony-wants-to-sell-you-a-subscription-to-a-"
+"robot-dog-aibo-90s-pet\">avec une porte dérobée universelle, ainsi qu'une "
+"dépendance à un serveur avec abonnement obligatoire</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The Canary home surveillance camera has been sabotaged by its manufacturer, "
+"<a href=\"https://www.theverge.com/circuitbreaker/2017/10/4/16426394/canary-"
+"smart-home-camera-free-service-update-change\"> turning off many features "
+"unless the user starts paying for a subscription</a>."
+msgstr ""
+"Le fabricant de Canary, un système domotique de vidéosurveillance, l'a "
+"saboté en <a href=\"https://www.theverge.com/"
+"circuitbreaker/2017/10/4/16426394/canary-smart-home-camera-free-service-"
+"update-change\">inactivant de nombreuses fonctionnalités à moins que "
+"l'utilisateur ne commence à payer un abonnement</a>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid "With manufacturers like these, who needs security breakers?"
+msgstr "Avec des fabricants comme ça, qui a besoin de pirates ?"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The purchasers should learn the larger lesson and reject connected "
+"appliances with embedded proprietary software. Every such product is a "
+"temptation to commit sabotage."
+msgstr ""
+"Les acheteurs devraient en tirer une leçon plus générale et rejeter les "
+"appareils connectés contenant du logiciel privateur embarqué. Chacun de ces "
+"produits est une invitation au sabotage."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"https://www.scientificamerican.com/article/adobe-software-"
+"subscription-model-means-you-cant-own-your-software/\"> Adobe tools require "
+"a subscription</a>.  Adobe also tried to <a href=\"http://chocolateandvodka."
+"com/2014/02/20/adobe-creative-cloud-subscription-warning/\"> rip people off "
+"by making the subscriptions annual</a>, but that is a secondary issue "
+"compared with the basic wrong of the time bomb.  When a program proprietary, "
+"and even malware, don't get distracted by the secondary issues like price."
+msgstr ""
+"<a href=\"https://www.scientificamerican.com/article/adobe-software-"
+"subscription-model-means-you-cant-own-your-software/\">Les outils d'Adobe "
+"nécessitent un abonnement</a>. Adobe a également essayé <a href=\"http://"
+"chocolateandvodka.com/2014/02/20/adobe-creative-cloud-subscription-warning/"
+"\">d'arnaquer les gens en rendant les abonnements annuels</a>, mais c'est un "
+"problème secondaire comparé à l'inéquité fondamentale de cette bombe à "
+"retardement. Quand un programme est privateur, voire malveillant, ne vous "
+"laissez pas distraire par des problèmes secondaires comme son prix."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<small>(Please don't repeat the marketing term &ldquo;Creative Cloud&rdquo; "
+"except to express revulsion for it.  The <a href=\"/philosophy/words-to-"
+"avoid.html#CloudComputing\"> term &ldquo;cloud&rdquo; is designed to cloud "
+"users' minds</a>.)</small>"
+msgstr ""
+"<small>(Ne répétez pas le terme de marketing « nuage créatif » <i>[Creative "
+"Cloud]</i>, sauf pour exprimer le dégoût qu'il vous inspire. « <a href=\"/"
+"philosophy/words-to-avoid.html#CloudComputing\">Le nuage</a> » est fait pour "
+"obscurcir l'esprit des utilisateurs.)</small>"
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2016-2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2016-2021 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Proprietary Censorship - GNU Project - Free Software Foundation"
@@ -4859,45 +6182,6 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
-"Microsoft is planning to make Windows <a href=\"https://www.theguardian.com/"
-"technology/2018/mar/19/windows-10-microsoft-force-people-edge-browser-"
-"windows-mail-chrome-firefox\"> impose use of its browser, Edge, in certain "
-"circumstances</a>."
-msgstr ""
-"Microsoft projette de modifier Windows pour qu'il <a href=\"https://www."
-"theguardian.com/technology/2018/mar/19/windows-10-microsoft-force-people-"
-"edge-browser-windows-mail-chrome-firefox\">impose l'utilisation de son "
-"navigateur, Edge, dans certaines circonstances</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"The reason Microsoft can force things on users is that Windows is nonfree."
-msgstr ""
-"La raison pour laquelle Microsoft peut imposer des choses aux utilisateurs "
-"est que Windows est privateur."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Windows displays <a href=\"http://www.theverge.com/2017/3/17/14956540/"
-"microsoft-windows-10-ads-taskbar-file-explorer\"> intrusive ads for "
-"Microsoft products and its partners' products</a>."
-msgstr ""
-"Windows affiche des <a href=\"http://www.theverge.com/2017/3/17/14956540/"
-"microsoft-windows-10-ads-taskbar-file-explorer\">publicités intrusives pour "
-"les produits de Microsoft et de ses partenaires commerciaux</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"The article's author starts from the premise that Microsoft has a right to "
-"control what Windows does to users, as long as it doesn't go &ldquo;too "
-"far&rdquo;. We disagree."
-msgstr ""
-"L'auteur de l'article part du principe que Microsoft a le droit de contrôler "
-"ce que fait Windows aux utilisateurs tant qu'elle ne va pas « trop loin ». "
-"Nous ne sommes pas d'accord."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
 "An upgrade package for Acrobat Reader <a href=\"https://www.bleepingcomputer."
 "com/news/software/adobe-acrobat-reader-dc-update-installs-chrome-browser-"
 "extension/\">silently alters Chrome</a>."
@@ -4905,95 +6189,6 @@ msgstr ""
 "Un logiciel de mise à jour pour Acrobat Reader <a href=\"https://www."
 "bleepingcomputer.com/news/software/adobe-acrobat-reader-dc-update-installs-"
 "chrome-browser-extension/\">modifie Chrome sans prévenir</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"After <a href=\"/proprietary/malware-microsoft.html#windows10-forcing"
-"\">forcing the download of Windows 10</a> on computers that were running "
-"Windows 7 and 8, Microsoft <a href=\"https://www.computerworld.com/"
-"article/3012278/microsoft-sets-stage-for-massive-windows-10-upgrade-strategy."
-"html\"> repeatedly switched on a flag that urged users to &ldquo;"
-"upgrade&rdquo; to Windows 10</a> when they had turned it off, in the hope "
-"that some day they would fail to say no.  To do this, Microsoft used <a href="
-"\"https://www.theregister.co.uk/2016/03/17/"
-"microsoft_windows_10_upgrade_gwx_vs_humanity/\"> malware techniques</a>."
-msgstr ""
-"Après avoir <a href=\"/proprietary/malware-microsoft.html#windows10-forcing"
-"\">forcé le téléchargement de Windows 10</a> sur les ordinateurs exécutant "
-"Windows 7 ou 8, Microsoft a <a href=\"https://www.computerworld.com/"
-"article/3012278/microsoft-sets-stage-for-massive-windows-10-upgrade-strategy."
-"html\">continué à afficher un panneau exhortant les utilisateurs à faire la "
-"« mise à niveau »</a>, même lorsqu'ils avaient refusé de nombreuses fois, "
-"dans l'espoir qu'un jour ou l'autre ils oublieraient de dire non. Pour ce "
-"faire, Microsoft a utilisé des <a href=\"https://www.theregister.co."
-"uk/2016/03/17/microsoft_windows_10_upgrade_gwx_vs_humanity/\">techniques "
-"classiques dans l'industrie du malware</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"A detailed <a href=\"https://www.eff.org/deeplinks/2016/08/windows-10-"
-"microsoft-blatantly-disregards-user-choice-and-privacy-deep-dive\"> analysis "
-"of Microsoft's scheme</a> is available on the Electronic Frontier "
-"Foundation's website."
-msgstr ""
-"Une <a href=\"https://www.eff.org/deeplinks/2016/08/windows-10-microsoft-"
-"blatantly-disregards-user-choice-and-privacy-deep-dive\">analyse détaillée "
-"du stratagème de Microsoft</a> est disponible sur le site de l'<i>Electronic "
-"Frontier Foundation</i>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Microsoft has made companies' Windows machines managed by the company's "
-"sysadmins <a href=\"http://www.infoworld.com/article/3042397/microsoft-"
-"windows/admins-beware-domain-attached-pcs-are-sprouting-get-windows-10-ads."
-"html\">harangue users to complain to the sysadmins about not &ldquo;"
-"upgrading&rdquo; to Windows 10</a>."
-msgstr ""
-"Microsoft a fait en sorte que les machines sous Microsoft appartenant à des "
-"entreprises et gérées par les administrateurs système de ces dernières <a "
-"href=\"http://www.infoworld.com/article/3042397/microsoft-windows/admins-"
-"beware-domain-attached-pcs-are-sprouting-get-windows-10-ads.html"
-"\">sermonnent les utilisateurs pour qu'ils se plaignent auprès des "
-"administrateurs système de ce que la « mise à niveau » vers Windows 10 ne "
-"soit pas encore faite</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Microsoft has <a href=\"http://www.theverge.com/2016/1/16/10780876/microsoft-"
-"windows-support-policy-new-processors-skylake\">desupported all future Intel "
-"CPUs for Windows 7 and 8</a>. Those machines will be stuck with the nastier "
-"Windows 10.  <a href=\"http://gizmodo.com/only-the-latest-version-of-windows-"
-"will-run-on-some-fut-1753545825\"> AMD and Qualcomm CPUs, too</a>."
-msgstr ""
-"Microsoft a <a href=\"http://www.theverge.com/2016/1/16/10780876/microsoft-"
-"windows-support-policy-new-processors-skylake\">cessé de gérer tous les "
-"futurs processeurs d'Intel dans Windows 7 et 8</a>. Seul Windows 10, encore "
-"plus malfaisant, sera disponible pour ces machines. <a href=\"http://gizmodo."
-"com/only-the-latest-version-of-windows-will-run-on-some-"
-"fut-1753545825\">Même chose pour les processeurs d'AMD et de Qualcomm</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Of course, Windows 7 and 8 are unethical too, because they are proprietary "
-"software.  But this example of Microsoft's wielding its power demonstrates "
-"the power it holds."
-msgstr ""
-"Bien sûr, Windows 7 et 8 sont moralement contestables eux aussi, puisqu'ils "
-"sont privateurs. Mais cet exemple d'exercice du pouvoir montre combien "
-"Microsoft en détient."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Free software developers also stop maintaining old versions of their "
-"programs, but this is not unfair to users because the users of free software "
-"have control over it.  If it is important enough to you, you and other users "
-"can hire someone to support the old version on your future platforms."
-msgstr ""
-"Les développeurs de logiciel libre, eux aussi, cessent de maintenir les "
-"anciennes versions de leurs programmes, mais ce n'est pas injuste envers les "
-"utilisateurs, car ces derniers en ont le contrôle. Si c'est suffisamment "
-"important pour vous, vous pouvez, avec d'autres utilisateurs, embaucher "
-"quelqu'un pour adapter l'ancienne version à vos futures plateformes."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -5026,14 +6221,6 @@ msgstr "Copyright &copy; 2015-2021 Free Software Foundation, Inc."
 #. type: Content of: <title>
 msgid "Malware in Games - GNU Project - Free Software Foundation"
 msgstr "Malveillance des jeux - Projet GNU - Free Software Foundation"
-
-#. type: Content of: <div><p>
-msgid ""
-"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
-"product&nbsp;/"
-msgstr ""
-"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Maliciels</a>&nbsp;/ "
-"Par produit&nbsp;/"
 
 #. type: Content of: <div><h2>
 msgid "Malware in Games"
@@ -5267,257 +6454,71 @@ msgstr ""
 "policy/2016/06/if-you-used-to-run-linux-on-your-ps3-you-could-get-55-from-"
 "sony/\">le moment est venu pour Sony de payer pour ce sabotage</a>."
 
-#. type: Content of: <div><p>
-msgid "Copyright &copy; 2016-2021 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2016-2021 Free Software Foundation, Inc."
-
 #. type: Content of: <title>
-msgid "Malware in Webpages - GNU Project - Free Software Foundation"
-msgstr "Malveillance des pages web - Projet GNU - Free Software Foundation"
+msgid "Potential Malware - GNU Project - Free Software Foundation"
+msgstr "Malveillance potentielle - Projet GNU - Free Software Foundation"
 
 #. type: Content of: <div><h2>
-msgid "Malware in Webpages"
-msgstr "Malveillance des pages web"
+msgid "Potential Malware"
+msgstr "Malveillance potentielle"
 
 #. type: Content of: <div><div><p>
 msgid ""
-"This page lists web sites containing proprietary JavaScript programs that "
-"spy on users or mislead them. They make use of what we call the <a href=\"/"
-"philosophy/javascript-trap.html\">JavaScript Trap</a>. Of course, many sites "
-"collect information that the user sends, via forms or otherwise, but here "
-"we're not talking about that."
+"This page describes malicious techniques that proprietary software might use "
+"in the future for malicious purposes.  We don't have any evidence that they "
+"are in use yet."
 msgstr ""
-"Cette page répertorie des sites web contenant des programmes JavaScript qui "
-"espionnent les utilisateurs ou les trompent. Ils se servent de ce que nous "
-"appelons <a href=\"/philosophy/javascript-trap.html\">le piège JavaScript</"
-"a>. Bien entendu, beaucoup de sites collectent de l'information envoyée par "
-"l'utilisateur, entre autres au moyen de formulaires, mais ce n'est pas ce "
-"dont nous voulons parler ici."
+"Cette page décrit des techniques que le logiciel privateur pourrait utiliser "
+"dans le futur à des fins malveillantes. Nous n'avons pas la preuve qu'elles "
+"soient déjà employées actuellement."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
-"British Airways used <a href=\"https://www.theverge.com/2018/7/19/17591732/"
-"british-airways-gdpr-compliance-twitter-personal-data-security\">nonfree "
-"JavaScript on its web site to give other companies personal data on its "
-"customers</a>."
-msgstr ""
-"British Airways a utilisé du <a href=\"https://www.theverge."
-"com/2018/7/19/17591732/british-airways-gdpr-compliance-twitter-personal-data-"
-"security\">JavaScript non libre sur son site web pour donner aux autres "
-"compagnies des données personnelles de ses clients</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"The Storyful program <a href=\"https://www.theguardian.com/world/2018/may/17/"
-"revealed-how-storyful-uses-tool-monitor-what-journalists-watch\">spies on "
-"the reporters that use it</a>."
-msgstr ""
-"Le program Storyful <a href=\"https://www.theguardian.com/world/2018/may/17/"
-"revealed-how-storyful-uses-tool-monitor-what-journalists-watch\">espionne "
-"les journalistes qui l'utilisent</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Some JavaScript malware <a href=\"https://www.theverge."
-"com/2017/12/30/16829804/browser-password-manager-adthink-princeton-research"
-"\"> swipes usernames from browser-based password managers</a>."
-msgstr ""
-"Certains logiciels JavaScript malveillants raflent <a href=\"https://www."
-"theverge.com/2017/12/30/16829804/browser-password-manager-adthink-princeton-"
-"research\">les identifiants provenant des gestionnaires de mots de passe</a> "
-"associés aux navigateurs."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Some websites send JavaScript code to collect all the user's input, <a href="
-"\"https://freedom-to-tinker.com/2017/11/15/no-boundaries-exfiltration-of-"
-"personal-data-by-session-replay-scripts/\">which can then be used to "
-"reproduce the whole session</a>."
-msgstr ""
-"Certains sites envoient du code JavaScript pour collecter tout ce qui est "
-"saisi par l'utilisateur, <a href=\"https://freedom-to-tinker.com/2017/11/15/"
-"no-boundaries-exfiltration-of-personal-data-by-session-replay-scripts/\">ce "
-"qui permet de reproduire l'ensemble de la session</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid "If you use LibreJS, it will block that malicious JavaScript code."
-msgstr "Si vous utilisez LibreJS, il bloquera ce code JavaScript malveillant."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"When a page uses Disqus for comments, the proprietary Disqus software <a "
-"href=\"https://blog.dantup.com/2017/01/visiting-a-site-that-uses-disqus-"
-"comments-when-not-logged-in-sends-the-url-to-facebook\">loads a Facebook "
-"software package into the browser of every anonymous visitor to the page, "
-"and makes the page's URL available to Facebook</a>."
-msgstr ""
-"Quand une page utilise Disqus pour les commentaires, le logiciel privateur "
-"Disqus <a href=\"https://blog.dantup.com/2017/01/visiting-a-site-that-uses-"
-"disqus-comments-when-not-logged-in-sends-the-url-to-facebook\">charge un "
-"logiciel de Facebook dans le navigateur de chaque visiteur anonyme de la "
-"page et communique son URL à Facebook</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Online sales, with tracking and surveillance of customers, <a href=\"https://"
-"www.theguardian.com/commentisfree/2016/dec/06/cookie-monsters-why-your-"
-"browsing-history-could-mean-rip-off-prices\">enables businesses to show "
-"different people different prices</a>. Most of the tracking is done by "
-"recording interactions with servers, but proprietary software contributes."
-msgstr ""
-"Les ventes en ligne, et le pistage et la surveillance des clients qui vont "
-"avec, <a href=\"https://www.theguardian.com/commentisfree/2016/dec/06/cookie-"
-"monsters-why-your-browsing-history-could-mean-rip-off-prices\">permettent "
-"aux commerçants de montrer des prix différents à différentes personnes</a>. "
-"L'essentiel du pistage se fait en enregistrant les interactions avec les "
-"serveurs, mais le logiciel privateur joue un rôle."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"A <a href=\"https://research.csiro.au/ng/wp-content/uploads/"
-"sites/106/2016/08/paper-1.pdf\"> research paper</a> that investigated the "
-"privacy and security of 283 Android VPN apps concluded that &ldquo;in spite "
-"of the promises for privacy, security, and anonymity given by the majority "
-"of VPN apps&mdash;millions of users may be unawarely subject to poor "
-"security guarantees and abusive practices inflicted by VPN apps.&rdquo;"
-msgstr ""
-"Un <a href=\"https://research.csiro.au/ng/wp-content/uploads/"
-"sites/106/2016/08/paper-1.pdf\">article de recherche</a> a étudié 283 applis "
-"VPN pour Android du point de vue de la confidentialité et de la sécurité. "
-"Voici sa conclusion : « En dépit des promesses de confidentialité, de "
-"sécurité et d'anonymat faites par la plupart des applis VPN, des millions "
-"d'utilisateurs peuvent être victimes à leur insu des garanties de sécurité "
-"fallacieuses et des pratiques abusives que ces applis leur infligent. »"
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Here are two examples, taken from the research paper, of proprietary VPN "
-"apps that use JavaScript to track users and infringe their privacy:"
-msgstr ""
-"Voici deux exemples, tirés de cet article, d'applis VPN privatrices "
-"utilisant du code JavaScript pour pister les utilisateurs et porter atteinte "
-"à leur vie privée."
-
-#. type: Content of: <div><div><ul><li><dl><dt>
-msgid "VPN Services HotspotShield"
-msgstr "Service VPN HotspotShield"
-
-#. type: Content of: <div><div><ul><li><dl><dd>
-msgid ""
-"Injects JavaScript code into the HTML pages returned to the users. The "
-"stated purpose of the JS injection is to display ads. Uses roughly five "
-"tracking libraries. Also, it redirects the user's traffic through valueclick."
-"com (an advertising website)."
-msgstr ""
-"Injecte du code JavaScript dans les pages HTML renvoyées aux utilisateurs. "
-"Le but avoué de cette injection est d'afficher des pubs. Cette appli utilise "
-"cinq bibliothèques de pistage environ. En outre, elle redirige le trafic de "
-"l'utilisateur par valueclick.com (un site de publicité)."
-
-#. type: Content of: <div><div><ul><li><dl><dt>
-msgid "WiFi Protector VPN"
-msgstr "WiFi Protector"
-
-#. type: Content of: <div><div><ul><li><dl><dd>
-msgid ""
-"Injects JavaScript code into HTML pages, and also uses roughly five tracking "
-"libraries. Developers of this app have confirmed that the non-premium "
-"version of the app does JavaScript injection for tracking the user and "
-"displaying ads."
-msgstr ""
-"Injecte du code JavaScript dans les pages HTML et utilise également cinq "
-"bibliothèques de pistage. Ses développeurs ont confirmé que l'injection de "
-"JavaScript par la version gratuite de l'appli sert au pistage des "
-"utilisateurs et à l'affichage de pubs."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"E-books can contain JavaScript code, and <a href=\"http://www.theguardian."
-"com/books/2016/mar/08/men-make-up-their-minds-about-books-faster-than-women-"
-"study-finds\"> sometimes this code snoops on readers</a>."
-msgstr ""
-"Les livres électroniques peuvent contenir du code JavaScript et <a href="
-"\"http://www.theguardian.com/books/2016/mar/08/men-make-up-their-minds-about-"
-"books-faster-than-women-study-finds\">parfois ce code espionne "
-"l'utilisateur</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Flash and JavaScript are used for <a href=\"http://arstechnica.com/"
-"security/2013/10/top-sites-and-maybe-the-nsa-track-users-with-device-"
-"fingerprinting/\"> &ldquo;fingerprinting&rdquo; devices</a> to identify "
-"users."
-msgstr ""
-"Flash et JavaScript sont employés dans <a href=\"http://arstechnica.com/"
-"security/2013/10/top-sites-and-maybe-the-nsa-track-users-with-device-"
-"fingerprinting/\">des dispositifs de « profilage »</a> destinés à identifier "
-"les utilisateurs."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Many web sites rat their visitors to advertising networks that track users.  "
-"Of the top 1000 web sites, <a href=\"https://www.law.berkeley.edu/research/"
-"bclt/research/privacy-at-bclt/web-privacy-census/\">84% (as of 5/17/2012) "
-"fed their visitors third-party cookies, allowing other sites to track them</"
+"Patent applications show that Google and Amazon are interested in <a href="
+"\"http://www.consumerwatchdog.org/privacy-technology/home-assistant-adopter-"
+"beware-google-amazon-digital-assistant-patents-reveal\"> making &ldquo;"
+"digital assistants&rdquo; study people's activities to learn all about them</"
 "a>."
 msgstr ""
-"De nombreux sites dénoncent leurs visiteurs aux réseaux publicitaires qui "
-"font du pistage. Une statistique prenant en compte les 1000 sites web les "
-"plus populaires a montré que <a href=\"https://www.law.berkeley.edu/research/"
-"bclt/research/privacy-at-bclt/web-privacy-census/\">84% d'entre eux (le 17 "
-"mai 2012) servaient à leurs visiteurs des cookies tierces permettant à "
-"d'autres sites de les suivre à la trace</a>."
+"Si l'on en juge d'après leurs dépôts de brevets, Google et Amazon envisagent "
+"de faire des <a href=\"http://www.consumerwatchdog.org/privacy-technology/"
+"home-assistant-adopter-beware-google-amazon-digital-assistant-patents-reveal"
+"\">« assistants virtuels » qui étudient les activités des gens de manière à "
+"tout savoir sur eux</a>."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
-"Many web sites report all their visitors to Google by using the Google "
-"Analytics service, which <a href=\"http://www.pcworld.idg.com.au/"
-"article/434164/"
-"google_analytics_breaks_norwegian_privacy_laws_local_agency_said/\"> tells "
-"Google the IP address and the page that was visited</a>."
+"AI programs would understand what people say to each other, observe the "
+"clothing they wear and the objects they carry (including the marketing "
+"messages on them), and use sound to track people's activities, including in "
+"the toilet or in bed."
 msgstr ""
-"De nombreux sites envoient à Google un rapport sur chacun de leurs visiteurs "
-"par le biais de Google Analytics, rapport qui contient <a href=\"http://www."
-"pcworld.idg.com.au/article/434164/"
-"google_analytics_breaks_norwegian_privacy_laws_local_agency_said/\">son "
-"adresse IP et la page visitée</a>."
+"Des programmes d'IA comprendraient ce que les gens se disent entre eux, "
+"observeraient leurs vêtements et les objets qu'ils transportent (en "
+"particulier les messages publicitaires qui sont dessus), et utiliseraient le "
+"son pour espionner leurs activités, y compris aux toilettes ou au lit."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
-"Many web sites try to collect users' address books (the user's list of other "
-"people's phone numbers or email addresses).  This violates the privacy of "
-"those other people."
+"It should be illegal to have such a device in your apartment without getting "
+"signed consent from the people that live in the other apartments in the "
+"building."
 msgstr ""
-"Beaucoup également essaient de récupérer les carnets d'adresse des "
-"utilisateurs (répertoires contenant les numéros de téléphone ou les adresses "
-"de courriel d'autres personnes). C'est une atteinte à la vie privée de ces "
-"autres personnes."
+"Il devrait être illégal d'avoir un appareil de ce type dans son appartement "
+"sans obtenir le consentement écrit des voisins d'immeuble."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
-"Pages that contain &ldquo;Like&rdquo; buttons <a href=\"https://www.smh.com."
-"au/technology/facebooks-privacy-lie-aussie-exposes-tracking-as-new-patent-"
-"uncovered-20111004-1l61i.html\"> enable Facebook to track visitors to those "
-"pages</a>&mdash;even users that don't have Facebook accounts."
+"Any device that has a microphone and a speaker could be <a href=\"http://www."
+"washington.edu/news/2017/08/16/computer-scientists-use-music-to-covertly-"
+"track-body-movements-activity/\">turned into a sonar system that would track "
+"the movements of people in the same room or other rooms nearby</a>."
 msgstr ""
-"Les pages qui contiennent des boutons <i>Like</i> <a href=\"https://www.smh."
-"com.au/technology/facebooks-privacy-lie-aussie-exposes-tracking-as-new-"
-"patent-uncovered-20111004-1l61i.html\">permettent à Facebook de pister les "
-"visiteurs de ces pages</a>, même ceux qui n'ont pas de compte Facebook."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Flash Player's <a href=\"https://web.archive.org/web/20200808151607/http://"
-"www.imasuper.com/2008/10/09/flash-cookies-the-silent-privacy-killer/\"> "
-"cookie feature helps web sites track visitors</a>."
-msgstr ""
-"<a href=\"https://web.archive.org/web/20200808151607/http://www.imasuper."
-"com/2008/10/09/flash-cookies-the-silent-privacy-killer/\">Un cookie du "
-"lecteur Flash aide les sites web à suivre les visiteurs à la trace</a>)."
-
-#. type: Content of: <div><p>
-msgid "Copyright &copy; 2017-2021 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2017-2021 Free Software Foundation, Inc."
+"Tout appareil muni d'un micro et d'un haut-parleur pourrait être <a href="
+"\"http://www.washington.edu/news/2017/08/16/computer-scientists-use-music-to-"
+"covertly-track-body-movements-activity/\">converti en sonar pour suivre les "
+"mouvements des gens dans la pièce où il se trouve ou dans des pièces "
+"adjacentes</a>."
 
 #. type: Content of: <title>
 msgid "Proprietary Tethers - GNU Project - Free Software Foundation"
@@ -5602,45 +6603,6 @@ msgstr ""
 "nouveau modèle. S'ils sont avisés, ils apprendront plutôt à se méfier d'un "
 "produit qui oblige les utilisateurs à communiquer avec lui au travers d'un "
 "service spécialisé."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Sony has brought back its robotic pet Aibo, this time <a href=\"https://www."
-"vice.com/en/article/bj778v/sony-wants-to-sell-you-a-subscription-to-a-robot-"
-"dog-aibo-90s-pet\"> with a universal back door, and tethered to a server "
-"that requires a subscription</a>."
-msgstr ""
-"Sony a ressorti son robot de compagnie Aibo, cette fois-ci <a href=\"https://"
-"www.vice.com/en/article/bj778v/sony-wants-to-sell-you-a-subscription-to-a-"
-"robot-dog-aibo-90s-pet\">avec une porte dérobée universelle, ainsi qu'une "
-"dépendance à un serveur avec abonnement obligatoire</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"The Canary home surveillance camera has been sabotaged by its manufacturer, "
-"<a href=\"https://www.theverge.com/circuitbreaker/2017/10/4/16426394/canary-"
-"smart-home-camera-free-service-update-change\"> turning off many features "
-"unless the user starts paying for a subscription</a>."
-msgstr ""
-"Le fabricant de Canary, un système domotique de vidéosurveillance, l'a "
-"saboté en <a href=\"https://www.theverge.com/"
-"circuitbreaker/2017/10/4/16426394/canary-smart-home-camera-free-service-"
-"update-change\">inactivant de nombreuses fonctionnalités à moins que "
-"l'utilisateur ne commence à payer un abonnement</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid "With manufacturers like these, who needs security breakers?"
-msgstr "Avec des fabricants comme ça, qui a besoin de pirates ?"
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"The purchasers should learn the larger lesson and reject connected "
-"appliances with embedded proprietary software. Every such product is a "
-"temptation to commit sabotage."
-msgstr ""
-"Les acheteurs devraient en tirer une leçon plus générale et rejeter les "
-"appareils connectés contenant du logiciel privateur embarqué. Chacun de ces "
-"produits est une invitation au sabotage."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -5870,19 +6832,6 @@ msgstr ""
 "<small>(Cet article parle de « verrou » pour décrire le DRM, mais nous "
 "préférons utiliser le terme <a href=\"/philosophy/words-to-avoid."
 "html#DigitalLocks\">menottes numériques</a>.)</small>"
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"DRM-restricted files can be used to <a href=\"https://yro.slashdot.org/"
-"story/17/02/02/231229/windows-drm-protected-files-used-to-decloak-tor-"
-"browser-users\"> identify people browsing through Tor</a>. The vulnerability "
-"exists only if you use Windows."
-msgstr ""
-"Les fichiers munis de DRM <a href=\"https://yro.slashdot.org/"
-"story/17/02/02/231229/windows-drm-protected-files-used-to-decloak-tor-"
-"browser-users\">peuvent être utilisés afin d'identifier les personnes qui "
-"naviguent via Tor</a>. Cette vulnérabilité n'existe que si vous utilisez "
-"Windows."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -6163,20 +7112,6 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
-"<a href=\"http://arstechnica.com/apple/2007/08/aacs-tentacles/\">DRM in "
-"Windows</a>, introduced to cater to <a href=\"/proprietary/proprietary-drm."
-"html#bluray\">Bluray</a> disks.  (The article talks about how the same "
-"malware would later be introduced in MacOS.  That had not been done at the "
-"time, but it was done subsequently.)"
-msgstr ""
-"<a href=\"http://arstechnica.com/apple/2007/08/aacs-tentacles/\">Un DRM dans "
-"Windows</a>, introduit pour répondre aux besoins des disques <a href=\"/"
-"proprietary/proprietary-drm.html#bluray\">Blu-ray</a>. (L'article parle de "
-"l'introduction du même logiciel malveillant dans MacOS. Ce n'était pas fait "
-"à l'époque mais a été fait depuis.)"
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
 "iTunes videos have DRM, which allows Apple to <a href=\"https://en.wikipedia."
 "org/wiki/FairPlay\">dictate where its customers can watch the videos they "
 "purchased</a>."
@@ -6206,25 +7141,6 @@ msgstr ""
 "appareils ont des dispositifs destinés à bloquer l'exécution de systèmes "
 "autres que ceux dont les versions sont « approuvées ». Nous faisons aussi "
 "référence à cette pratique sous le nom de <em>tivoïsation</em>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Microsoft accidentally left a way for users to install GNU/Linux on Windows "
-"RT tablets, but now it has <a href=\"http://www.securitynewspaper."
-"com/2016/07/15/microsoft-silently-kills-dev-backdoor-boots-linux-locked-"
-"windows-rt-slabs/\"> &ldquo;fixed&rdquo; the &ldquo;error&rdquo;</a>. They "
-"have the gall to call this &ldquo;protecting&rdquo; the users.  The article "
-"talks of installing &ldquo;Linux&rdquo;, but the context shows it is really "
-"<a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> that users install."
-msgstr ""
-"Microsoft avait accidentellement laissé aux utilisateurs un moyen "
-"d'installer GNU/Linux sur les tablettes fonctionnant sous Windows RT, mais "
-"désormais <a href=\"http://www.securitynewspaper.com/2016/07/15/microsoft-"
-"silently-kills-dev-backdoor-boots-linux-locked-windows-rt-slabs/"
-"\">« l'erreur » est « corrigée »</a>. Ils ont le toupet d'appeler cela "
-"« protéger » les utilisateurs. L'article parle d'installer « Linux », mais "
-"le contexte montre que c'est en fait <a href=\"/gnu/linux-and-gnu.html\">GNU/"
-"Linux</a> que les utilisateurs installent."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -6293,26 +7209,10 @@ msgstr ""
 "un bogue ou « d'exploiter une faille »</a> afin de rendre possible "
 "l'installation d'un système différent."
 
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"<a href=\"https://fsf.org/campaigns/secure-boot-vs-restricted-boot/\"> "
-"Mobile devices that come with Windows 8 are tyrants</a>."
-msgstr ""
-"<a href=\"https://fsf.org/campaigns/secure-boot-vs-restricted-boot/\">Les "
-"appareils mobiles livrés avec Windows 8 sont des tyrans</a>."
-
 #. type: Content of: <title>
 msgid "Google's Software Is Malware - GNU Project - Free Software Foundation"
 msgstr ""
 "Malveillance des logiciels de Google - Projet GNU - Free Software Foundation"
-
-#. type: Content of: <div><p>
-msgid ""
-"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
-"company&nbsp;/"
-msgstr ""
-"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Maliciels</a>&nbsp;/ "
-"Par entreprise&nbsp;/"
 
 #. type: Content of: <div><h2>
 msgid "Google's Software is Malware"
@@ -6323,40 +7223,8 @@ msgid "Types of Google malware"
 msgstr "Types de malveillance chez Google"
 
 #. type: Content of: <div><div><div><ul><li>
-msgid "<a href=\"#back-doors\">Back doors</a>"
-msgstr "<a href=\"#back-doors\">Portes dérobées</a>"
-
-#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#censorship\">Censorship</a>"
 msgstr "<a href=\"#censorship\">Censure</a>"
-
-#. type: Content of: <div><div><div><ul><li>
-msgid "<a href=\"#drm\">DRM</a>"
-msgstr "<a href=\"#drm\">DRM</a>"
-
-#. type: Content of: <div><div><div><ul><li>
-msgid "<a href=\"#insecurity\">Insecurity</a>"
-msgstr "<a href=\"#insecurity\">Insécurité</a>"
-
-#. type: Content of: <div><div><div><ul><li>
-msgid "<a href=\"#interference\">Interference</a>"
-msgstr "<a href=\"#interference\">Ingérence</a>"
-
-#. type: Content of: <div><div><div><ul><li>
-msgid "<a href=\"#sabotage\">Sabotage</a>"
-msgstr "<a href=\"#sabotage\">Sabotage</a>"
-
-#. type: Content of: <div><div><div><ul><li>
-msgid "<a href=\"#surveillance\">Surveillance</a>"
-msgstr "<a href=\"#surveillance\">Surveillance</a>"
-
-#. type: Content of: <div><div><div><ul><li>
-msgid "<a href=\"#tyrants\">Tyrants</a>"
-msgstr "<a href=\"#tyrants\">Tyrans</a>"
-
-#. type: Content of: <div><div><h3>
-msgid "Back Doors"
-msgstr "Portes dérobées"
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -6416,35 +7284,6 @@ msgstr ""
 msgid "Censorship"
 msgstr "Censure"
 
-#. type: Content of: <div><div><h3>
-msgid "DRM"
-msgstr "DRM"
-
-#. type: Content of: <div><div><p>
-msgid ""
-"Digital restrictions management, or &ldquo;DRM,&rdquo; refers to "
-"functionalities designed to restrict what users can do with the data in "
-"their computers."
-msgstr ""
-"« Gestion numérique des restrictions », ou « <abbr title=\"Digital "
-"Restrictions Management\">DRM</abbr> », désigne les fonctionnalités conçues "
-"pour limiter ce que les utilisateurs peuvent faire avec leurs ordinateurs."
-
-#. type: Content of: <div><div><h3>
-msgid "Insecurity"
-msgstr "Insécurité"
-
-#. type: Content of: <div><div><p>
-msgid ""
-"These bugs are/were not intentional, so unlike the rest of the file they do "
-"not count as malware. We mention them to refute the supposition that "
-"prestigious proprietary software doesn't have grave bugs."
-msgstr ""
-"Contrairement au reste de la page, ce paragraphe répertorie des bogues qui "
-"ne sont pas (n'étaient pas) intentionnels, et donc ne peuvent pas être "
-"qualifiés de malveillants. Nous les signalons pour réfuter l'idée préconçue "
-"que les logiciels privateurs prestigieux n'ont pas de bogue grave."
-
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<a href=\"https://web.archive.org/web/20180816030205/http://www.spiegel.de/"
@@ -6468,10 +7307,6 @@ msgstr ""
 "The_second_operating_system_hiding_in_every_mobile_phone\">une multitude de "
 "bogues dans le logiciel de radio des téléphones</a>."
 
-#. type: Content of: <div><div><h3>
-msgid "Interference"
-msgstr "Ingérence"
-
 #. type: Content of: <div><div><p>
 msgid ""
 "This section gives examples of Google software harassing or annoying the "
@@ -6481,10 +7316,6 @@ msgstr ""
 "Cette section décrit comment certains logiciels de Google importunent ou "
 "harcèlent l'utilisateur, ou bien lui causent des ennuis. Cela ressemble à du "
 "sabotage, mais le mot « sabotage » est trop fort."
-
-#. type: Content of: <div><div><h3>
-msgid "Sabotage"
-msgstr "Sabotage"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -6513,10 +7344,6 @@ msgstr ""
 "Android à distance</a>, à moins que leur disque ne soit chiffré (le "
 "chiffrement est possible depuis Android Lollipop, mais n'est pas encore "
 "activé par défaut)."
-
-#. type: Content of: <div><div><h3>
-msgid "Surveillance"
-msgstr "Surveillance"
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -6719,18 +7546,6 @@ msgstr ""
 "href=\"https://web.archive.org/web/20190126075111/http://www.favbrowser.com/"
 "google-chrome-spyware-confirmed/\">envoie à Google toutes les URL saisies au "
 "clavier</a>, un caractère à la fois."
-
-#. type: Content of: <div><div><h3>
-msgid "Tyrants"
-msgstr "Tyrans"
-
-#. type: Content of: <div><div><p>
-msgid ""
-"Tyrants are systems that reject any operating system not &ldquo;"
-"authorized&rdquo; by the manufacturer."
-msgstr ""
-"Un tyran est un appareil qui rejette tout système d'exploitation non "
-"« autorisé » par le fabricant."
 
 #. type: Content of: <title>
 msgid "Proprietary Obsolescence - GNU Project - Free Software Foundation"
@@ -7294,39 +8109,6 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
-"Microsoft has made Windows 7 and 8 cease to function on certain new "
-"computers, <a href=\"https://support.microsoft.com/en-us/help/4012982/the-"
-"processor-is-not-supported-together-with-the-windows-version-that"
-"\">effectively forcing their owners to switch to Windows 10</a>."
-msgstr ""
-"Microsoft a fait en sorte que Windows 7 et 8 ne fonctionnent plus sur "
-"certains nouveaux ordinateurs, <a href=\"https://support.microsoft.com/fr-fr/"
-"help/4012982/the-processor-is-not-supported-together-with-the-windows-"
-"version-that\">ce qui oblige leurs propriétaires à passer à Windows 10</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Microsoft <a href=\"https://arstechnica.com/information-technology/2017/04/"
-"new-processors-are-now-blocked-from-receiving-updates-on-old-windows/\"> has "
-"dropped support for Windows 7 and 8 on recent processors</a> in a big hurry."
-msgstr ""
-"Microsoft <a href=\"https://arstechnica.com/information-technology/2017/04/"
-"new-processors-are-now-blocked-from-receiving-updates-on-old-windows/\">a "
-"hâtivement abandonné le support de Windows 7 et 8 pour les processeurs les "
-"plus récents</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"It makes no difference what legitimate reasons Microsoft might have for not "
-"doing work to support them. If it doesn't want to do this work, it should "
-"let users do the work."
-msgstr ""
-"Peu importe les raisons qui ont poussé Microsoft à ne plus fournir d'effort "
-"pour les gérer. Même s'ils ne veulent plus travailler dessus, ils devraient "
-"permettre aux utilisateurs de le faire."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
 "The developer of Ham Radio Deluxe <a href=\"https://www.techdirt.com/"
 "articles/20161220/12411836320/company-bricks-users-software-after-he-posts-"
 "negative-review.shtml\">sabotaged a customer's installation as punishment "
@@ -7348,35 +8130,6 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
-"In its efforts to trick users of Windows 7 and 8 into installing all-spying "
-"Windows 10 against their will, Microsoft forced their computers to <a href="
-"\"https://www.theguardian.com/technology/2015/sep/11/microsoft-downloading-"
-"windows-1\"> silently download&hellip; the whole of Windows 10</a>! "
-"Apparently, this was done through a <a href=\"/proprietary/proprietary-back-"
-"doors.html#windows-update\"> universal back door</a>. Not only did the "
-"unwanted downloads <a href=\"https://www.theregister.co.uk/2016/06/03/"
-"windows_10_upgrade_satellite_link/\"> jeopardize important operations in "
-"regions of the world with poor connectivity</a>, but many of the people who "
-"let installation proceed found out that this &ldquo;upgrade&rdquo; was in "
-"fact a <a href=\"http://gizmodo.com/woman-wins-10-000-from-microsoft-after-"
-"unwanted-window-1782666146\"> downgrade</a>."
-msgstr ""
-"Parmi les pièges que Microsoft a tendus aux utilisateurs de Windows 7 et 8 "
-"pour qu'ils installent Windows 10 contre leur gré, il y a eu le <a href="
-"\"https://www.theguardian.com/technology/2015/sep/11/microsoft-downloading-"
-"windows-1\">téléchargement furtif&hellip; de la totalité de Windows 10</a> ! "
-"Il semble qu'une <a href=\"/proprietary/proprietary-back-doors.html#windows-"
-"update\">porte dérobée universelle</a> ait été utilisée à cette occasion. "
-"Non seulement ces téléchargements non désirés ont <a href=\"https://www."
-"theregister.co.uk/2016/06/03/windows_10_upgrade_satellite_link/\">compromis "
-"des opérations importantes dans des régions du monde mal connectées à "
-"Internet</a>, mais nombre de personnes qui ont laissé cette « mise à "
-"niveau » se faire ont constaté que c'était en fait une <a href=\"http://"
-"gizmodo.com/woman-wins-10-000-from-microsoft-after-unwanted-"
-"window-1782666146\">régression</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
 "Apple <a href=\"https://www.theregister.co.uk/2016/04/14/"
 "uninstall_quicktime_for_windows/\"> stops users from fixing the security "
 "bugs in Quicktime for Windows</a>, while refusing to fix them itself."
@@ -7385,28 +8138,6 @@ msgstr ""
 "uninstall_quicktime_for_windows/\">empêche les utilisateurs de corriger les "
 "failles de sécurité dans la version Windows de Quicktime</a>, tout en "
 "refusant de les corriger elle-même."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Once Microsoft has tricked a user into accepting installation of Windows 10, "
-"<a href=\"https://www.theregister.co.uk/2016/06/01/"
-"windows_10_nagware_no_way_out/\">they find that they are denied the option "
-"to cancel or even postpone the imposed date of installation</a>."
-msgstr ""
-"Une fois que l'utilisateur, piégé par Microsoft, a accepté l'installation de "
-"Windows 10, <a href=\"https://www.theregister.co.uk/2016/06/01/"
-"windows_10_nagware_no_way_out/\">il s'aperçoit que l'option d'annuler ou "
-"même de différer la date imposée pour l'installation lui est refusée</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"This demonstrates what we've said for years: using proprietary software "
-"means letting someone have power over you, and you're going to get screwed "
-"sooner or later."
-msgstr ""
-"Cela démontre ce que nous répétons depuis des années : quand vous utilisez "
-"du logiciel privateur, vous laissez quelqu'un prendre le pouvoir sur vous et "
-"vous êtes sûr de vous faire avoir."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -7435,34 +8166,6 @@ msgstr ""
 "quelqu'un d'autre qu'Apple</a>. En butte aux critiques des utilisateurs, "
 "Apple a finalement fait marche arrière sur ce point, sans toutefois "
 "reconnaître ses torts."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"FTDI's proprietary driver for its USB-to-serial chips has been designed to "
-"<a href=\"http://arstechnica.com/information-technology/2014/10/windows-"
-"update-drivers-bricking-usb-serial-chips-beloved-of-hardware-hackers/"
-"\">sabotage alternative compatible chips</a> so that they no longer work. "
-"Microsoft is <a href=\"http://it.slashdot.org/story/16/01/31/1720259/ftdi-"
-"driver-breaks-hardware-again\">installing this automatically</a> as an "
-"&ldquo;upgrade&rdquo;."
-msgstr ""
-"Le pilote privateur des puces USB-série de <abbr title=\"Future Technology "
-"Devices International\">FTDI</abbr> a été conçu pour <a href=\"http://"
-"arstechnica.com/information-technology/2014/10/windows-update-drivers-"
-"bricking-usb-serial-chips-beloved-of-hardware-hackers/\">saboter les puces "
-"alternatives compatibles</a> pour qu'elles cessent de fonctionner. Microsoft "
-"<a href=\"http://it.slashdot.org/story/16/01/31/1720259/ftdi-driver-breaks-"
-"hardware-again\">l'installe automatiquement</a> en tant que mise à jour."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Windows 10 &ldquo;upgrades&rdquo; <a href=\"http://www.ghacks.net/2015/11/24/"
-"beware-latest-windows-10-update-may-remove-programs-automatically/\"> delete "
-"applications</a> without asking permission."
-msgstr ""
-"Les « mises à niveau » de Windows 10 <a href=\"http://www.ghacks."
-"net/2015/11/24/beware-latest-windows-10-update-may-remove-programs-"
-"automatically/\">suppriment des applications</a> sans demander la permission."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -7521,44 +8224,6 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
-"<a href=\"https://web.archive.org/web/20191205010621/https://www."
-"computerworld.com/article/3423768/windows-xp--end-of-an-era--end-of-an-error."
-"html\">Microsoft cut off security fixes for Windows XP, except to some big "
-"users that pay exorbitantly</a>."
-msgstr ""
-"<a href=\"https://web.archive.org/web/20191205010621/https://www."
-"computerworld.com/article/3423768/windows-xp--end-of-an-era--end-of-an-error."
-"html\">Microsoft a cessé de fournir des correctifs de sécurité pour "
-"Windows XP, sauf à quelques gros utilisateurs qui paient un prix exorbitant</"
-"a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Microsoft is going to <a href=\"https://web.archive.org/web/20181030194725/"
-"https://www.computerworlduk.com/applications/more-than-half-of-all-ie-users-"
-"face-patch-axe-in-10-months-3605515/\"> cut off support for some Internet "
-"Explorer versions</a> in the same way."
-msgstr ""
-"De même, Microsoft va <a href=\"https://web.archive.org/web/20181030194725/"
-"https://www.computerworlduk.com/applications/more-than-half-of-all-ie-users-"
-"face-patch-axe-in-10-months-3605515/\">mettre fin au support de certaines "
-"versions d'Internet Explorer</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"A person or company has the right to cease to work on a particular program; "
-"the wrong here is Microsoft does this after having made the users dependent "
-"on Microsoft, because they are not free to ask anyone else to work on the "
-"program for them."
-msgstr ""
-"Une personne ou une entreprise a le droit de cesser de travailler sur un "
-"programme particulier ; ce qui est mal, dans ce cas, c'est que Microsoft le "
-"fasse après avoir rendu les utilisateurs dépendants de sa société, car ils "
-"ne sont pas libres de demander à quelqu'un d'autre de travailler pour eux "
-"sur ce programme."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
 "Amazon <a href=\"https://www.techdirt.com/articles/20150321/13350230396/"
 "while-bricking-jailbroken-fire-tvs-last-year-amazon-did-same-to-kindle-"
 "devices.shtml\"> downgraded the software in users' Swindles</a> so that "
@@ -7610,18 +8275,6 @@ msgstr ""
 "être sûrs que parmi eux il y a des systèmes largement utilisés. Cela "
 "confirme qu'on ne peut pas faire confiance à la sécurité des logiciels non "
 "libres."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"<a href=\"https://web.archive.org/web/20130622044225/http://blogs."
-"computerworlduk.com/open-enterprise/2013/06/how-can-any-company-ever-trust-"
-"microsoft-again/index.htm\">Microsoft informs the NSA of bugs in Windows "
-"before fixing them</a>."
-msgstr ""
-"<a href=\"https://web.archive.org/web/20130622044225/http://blogs."
-"computerworlduk.com/open-enterprise/2013/06/how-can-any-company-ever-trust-"
-"microsoft-again/index.htm\">Microsoft renseigne la NSA sur les bogues de "
-"Windows avant de les corriger</a>."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -8170,10 +8823,6 @@ msgstr "<a href=\"#addictions\">Addiction</a>"
 #. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#deception\">Deception</a>"
 msgstr "<a href=\"#deception\">Pratiques trompeuses</a>"
-
-#. type: Content of: <div><div><div><ul><li>
-msgid "<a href=\"#jails\">Jails</a>"
-msgstr "<a href=\"#jails\">Prisons</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#manipulation\">Manipulation</a>"
@@ -9315,14 +9964,6 @@ msgstr ""
 "features/logs-and-services/loggers/carrieriq/\">un logiciel de surveillance "
 "cachée tous azimuts comme Carrier IQ</a>."
 
-#. type: Content of: <div><div><h3>
-msgid "Jails"
-msgstr "Prisons"
-
-#. type: Content of: <div><div><p>
-msgid "Jails are systems that impose censorship on application programs."
-msgstr "Une prison est un système qui censure les programmes d'application."
-
 #. type: Content of: <title>
 msgid ""
 "Apple's Operating Systems are Malware - GNU Project - Free Software "
@@ -9346,10 +9987,6 @@ msgstr "<a href=\"#incompatibility\">Incompatibilité</a>"
 #. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#pressuring\">Pressuring</a>"
 msgstr "<a href=\"#pressuring\">Pression sur le client</a>"
-
-#. type: Content of: <div><div><div><ul><li>
-msgid "<a href=\"#subscriptions\">Subscriptions</a>"
-msgstr "<a href=\"#subscriptions\">Abonnements</a>"
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -9514,10 +10151,6 @@ msgstr ""
 "Voici des situations dans lesquelles Apple exerce son pouvoir sur les "
 "utilisateurs pour intervenir directement d'une façon qui leur nuit ou qui "
 "bloque leur travail."
-
-#. type: Content of: <div><div><h3>
-msgid "Subscriptions"
-msgstr "Abonnements"
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -9884,467 +10517,6 @@ msgstr ""
 "stole-instagram-passwords\">volait en fait leurs identifiants</a> et s'en "
 "servait pour faire sa propre publicité sur leur flux et mettre des photos en "
 "ligne sans leur consentement."
-
-#. type: Content of: <title>
-msgid ""
-"Microsoft's Software Is Malware - GNU Project - Free Software Foundation"
-msgstr ""
-"Malveillance des logiciels Microsoft - Projet GNU - Free Software Foundation"
-
-#. type: Content of: <div><h2>
-msgid "Microsoft's Software is Malware"
-msgstr "Malveillance des logiciels Microsoft"
-
-#. type: Content of: <div><div><div><h3>
-msgid "Types of Microsoft malware"
-msgstr "Types de malveillance chez Microsoft"
-
-#. type: Content of: <div><div><div><ul><li>
-msgid "<a href=\"#tethers\">Tethers</a>"
-msgstr "<a href=\"#tethers\">Ancrage</a>"
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Microsoft Windows has a universal back door through which <a href=\"http://"
-"www.informationweek.com/microsoft-updates-windows-without-user-permission-"
-"apologizes/d/d-id/1059183\"> any change whatsoever can be imposed on the "
-"users</a>."
-msgstr ""
-"Microsoft Windows a une porte dérobée universelle qui permet <a href="
-"\"http://www.informationweek.com/microsoft-updates-windows-without-user-"
-"permission-apologizes/d/d-id/1059183\">d'imposer un changement aux "
-"utilisateurs, quel qu'il soit</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"This was <a href=\"https://web.archive.org/web/20200219180230/http://slated."
-"org/windows_by_stealth_the_updates_you_dont_want\"> reported in 2007</a> for "
-"XP and Vista, and it seems that Microsoft used the same method to push the "
-"<a href=\"/proprietary/malware-microsoft.html#windows10-forcing\"> Windows "
-"10 downgrade</a> to computers running Windows 7 and 8."
-msgstr ""
-"Ceci a été <a href=\"https://web.archive.org/web/20200219180230/http://"
-"slated.org/windows_by_stealth_the_updates_you_dont_want\">décrit en 2007</a> "
-"pour XP et Vista et il semble que Microsoft ait utilisé la même méthode pour "
-"<a href=\"/proprietary/malware-microsoft.html#windows10-forcing\">imposer "
-"une régression vers Windows 10</a> aux ordinateurs sous Windows 7 et 8."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"In Windows 10, the universal back door is no longer hidden; all &ldquo;"
-"upgrades&rdquo; will be <a href=\"http://arstechnica.com/information-"
-"technology/2015/07/windows-10-updates-to-be-automatic-and-mandatory-for-home-"
-"users/\"> forcibly and immediately imposed</a>."
-msgstr ""
-"Dans Windows 10, la porte dérobée universelle n'est plus cachée ; toutes les "
-"« mises à jour » seront <a href=\"http://arstechnica.com/information-"
-"technology/2015/07/windows-10-updates-to-be-automatic-and-mandatory-for-home-"
-"users/\">imposées immédiatement, de force</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Microsoft has <a href=\"https://theintercept.com/2015/12/28/recently-bought-"
-"a-windows-computer-microsoft-probably-has-your-encryption-key/\"> backdoored "
-"its disk encryption</a>."
-msgstr ""
-"<a href=\"https://theintercept.com/2015/12/28/recently-bought-a-windows-"
-"computer-microsoft-probably-has-your-encryption-key/\">Microsoft a mis une "
-"porte dérobée dans le chiffrement des disques</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"The German government <a href=\"https://www.theregister.co.uk/2013/08/23/"
-"nsa_germany_windows_8/\">veers away from Windows 8 computers with TPM 2.0</"
-"a> (<a href=\"https://www.zeit.de/digital/datenschutz/2013-08/trusted-"
-"computing-microsoft-windows-8-nsa\">original article in German</a>), due to "
-"potential back door capabilities of the TPM 2.0 chip."
-msgstr ""
-"Le gouvernement allemand <a href=\"https://www.theregister.co.uk/2013/08/23/"
-"nsa_germany_windows_8/\">se détourne des ordinateurs sous Windows 8 munis de "
-"la puce TPM 2.0</a> (<a href=\"https://www.zeit.de/digital/"
-"datenschutz/2013-08/trusted-computing-microsoft-windows-8-nsa\">article "
-"original en allemand</a>), parce que cette puce permet de créer des portes "
-"dérobées."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Here is a suspicion that we can't prove, but is worth thinking about: <a "
-"href=\"https://web.archive.org/web/20150206003913/http://www.afr.com/p/"
-"technology/intel_chips_could_be_nsa_key_to_ymrhS1HS1633gCWKt5tFtI\"> "
-"Writable microcode for Intel and AMD microprocessors</a> may be a vehicle "
-"for the NSA to invade computers, with the help of Microsoft, say respected "
-"security experts."
-msgstr ""
-"Voici une hypothèse que nous ne pouvons pas prouver, mais qui mérite "
-"réflexion : <a href=\"https://web.archive.org/web/20150206003913/http://www."
-"afr.com/p/technology/intel_chips_could_be_nsa_key_to_ymrhS1HS1633gCWKt5tFtI"
-"\">le microcode reprogrammable des microprocesseurs Intel et AMD</a> "
-"pourrait fournir à la NSA un moyen d'envahir les ordinateurs, disent des "
-"experts respectés en sécurité."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Windows 8 also has a back door for <a href=\"https://www.computerworld.com/"
-"article/2500036/microsoft--we-can-remotely-delete-windows-8-apps.html\"> "
-"remotely deleting apps</a>."
-msgstr ""
-"<a href=\"https://www.computerworld.com/article/2500036/microsoft--we-can-"
-"remotely-delete-windows-8-apps.html\">Windows 8 a aussi une porte dérobée "
-"pour supprimer des applications à distance</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"You might well decide to let a security service that you trust remotely "
-"<em>deactivate</em> programs that it considers malicious.  But there is no "
-"excuse for <em>deleting</em> the programs, and you should have the right to "
-"decide whom (if anyone) to trust in this way."
-msgstr ""
-"Vous pouvez parfaitement décider de laisser un service de sécurité en qui "
-"vous avez confiance <em>désactiver</em> les programmes qu'il considère comme "
-"malveillants. Mais il n'y a aucune excuse pour les <em>supprimer</em>, et "
-"vous devez avoir le droit de décider si vous devez vous en remettre à "
-"quelqu'un pour cela, et à qui."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Exploits of bugs in Windows, which were developed by the NSA and then leaked "
-"by the Shadowbrokers group, are now being used to <a href=\"https://"
-"theintercept.com/2017/05/12/the-nsas-lost-digital-weapon-is-helping-hijack-"
-"computers-around-the-world/\">attack a great number of Windows computers "
-"with ransomware</a>."
-msgstr ""
-"Des exploits utilisant certains bogues de Windows, développés par la NSA "
-"puis divulgués par le groupe Shadowbrokers, servent maintenant à <a href="
-"\"https://theintercept.com/2017/05/12/the-nsas-lost-digital-weapon-is-"
-"helping-hijack-computers-around-the-world/\">attaquer un grand nombre "
-"d'ordinateurs sous Windows avec un logiciel de rançon <i>[ransomware]</i></"
-"a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"A <a href=\"http://www.zdnet.com/article/windows-attack-can-steal-your-"
-"username-password-and-other-logins/\">flaw in Internet Explorer and Edge</a> "
-"allows an attacker to retrieve Microsoft account credentials, if the user is "
-"tricked into visiting a malicious link."
-msgstr ""
-"Une <a href=\"http://www.zdnet.com/article/windows-attack-can-steal-your-"
-"username-password-and-other-logins/\">faille d'Internet Explorer et Edge</a> "
-"permet à un attaquant de récupérer les identifiants du compte Microsoft si "
-"l'utilisateur se laisse piéger et suit un lien malveillant."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"<a href=\"http://arstechnica.com/security/2013/12/credit-card-fraud-comes-of-"
-"age-with-first-known-point-of-sale-botnet/\"> Point-of-sale terminals "
-"running Windows were taken over</a> and turned into a botnet for the purpose "
-"of collecting customers' credit card numbers."
-msgstr ""
-"<a href=\"http://arstechnica.com/security/2013/12/credit-card-fraud-comes-of-"
-"age-with-first-known-point-of-sale-botnet/\">Des terminaux de paiement "
-"tournant sous Windows ont été piratés</a> et transformés en botnet afin de "
-"récupérer les numéros de cartes de crédit des clients."
-
-#. type: Content of: <div><div><p>
-msgid ""
-"This section gives examples of Microsoft software harassing or annoying the "
-"user, or causing trouble for the user.  These actions are like sabotage but "
-"the word &ldquo;sabotage&rdquo; is too strong for them."
-msgstr ""
-"Cette page décrit comment certains logiciels de Microsoft importunent ou "
-"harcèlent l'utilisateur, ou bien lui causent des ennuis. Cela ressemble à du "
-"sabotage, mais le mot « sabotage » est trop fort."
-
-#. type: Content of: <div><div><p>
-msgid ""
-"The wrongs in this section are not precisely malware, since they do not "
-"involve making the program that runs in a way that hurts the user.  But they "
-"are a lot like malware, since they are technical Microsoft actions that harm "
-"the users of specific Microsoft software."
-msgstr ""
-"Les injustices décrites dans cette section ne sont pas précisément de la "
-"malveillance, car elles ne sous-entendent pas que le programme en "
-"fonctionnement soit conçu pour nuire à l'utilisateur. Mais elles y "
-"ressemblent beaucoup puisqu'il s'agit d'actions techniques de Microsoft qui "
-"font du tort aux utilisateurs de logiciels Microsoft particuliers."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Microsoft Office forces users <a href=\"https://www.computerworld.com/"
-"article/2948755/office-for-windows-10-will-require-office-365-subscription-"
-"on-pcs-larger-tablets.html\">to subscribe to Office 365 to be able to create/"
-"edit documents</a>."
-msgstr ""
-"Microsoft Office force ses utilisateurs <a href=\"https://www.computerworld."
-"com/article/2948755/office-for-windows-10-will-require-office-365-"
-"subscription-on-pcs-larger-tablets.html\">à s'abonner à Office 365 pour "
-"pouvoir créer ou éditer des documents</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Windows 10 telemetry program sends information to Microsoft about the user's "
-"computer and their use of the computer."
-msgstr ""
-"Le programme de télémétrie de Windows 10 envoie à Microsoft des informations "
-"sur l'ordinateur de l'utilisateur et la manière dont il l'utilise."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Furthermore, for users who installed the fourth stable build of Windows 10, "
-"called the &ldquo;Creators Update,&rdquo; Windows maximized the surveillance "
-"<a href=\"https://arstechnica.com/gadgets/2017/10/dutch-privacy-regulator-"
-"says-that-windows-10-breaks-the-law\"> by force setting the telemetry mode "
-"to &ldquo;Full&rdquo;</a>."
-msgstr ""
-"De plus, pour les utilisateurs qui ont installé la quatrième mise à jour "
-"stable de Windows 10 (appelée « Creators Update »), Windows a poussé la "
-"surveillance à son maximum <a href=\"https://arstechnica.com/gadgets/2017/10/"
-"dutch-privacy-regulator-says-that-windows-10-breaks-the-law\">en réglant par "
-"défaut le niveau de télémétrie à « Complet »</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"The <a href=\"https://docs.microsoft.com/en-us/windows/privacy/configure-"
-"windows-diagnostic-data-in-your-organization#full-level\"> &ldquo;"
-"Full&rdquo; telemetry mode</a> allows Microsoft Windows engineers to access, "
-"among other things, registry keys <a href=\"https://docs.microsoft.com/en-us/"
-"previous-versions/windows/it-pro/windows-2000-server/cc939702"
-"(v=technet.10)\"> which can contain sensitive information like "
-"administrator's login password</a>."
-msgstr ""
-"Le <a href=\"https://docs.microsoft.com/en-us/windows/privacy/configure-"
-"windows-diagnostic-data-in-your-organization#full-level\">niveau "
-"« Complet »</a> de télémétrie permet aux ingénieurs de Microsoft d'accéder, "
-"entre autres, à des clés de registre qui contiennent <a href=\"https://docs."
-"microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/"
-"cc939702(v=technet.10)\">de l'information sensible comme le mot de passe "
-"administrateur</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"By default, Windows 10 <a href=\"http://betanews.com/2016/11/24/microsoft-"
-"shares-windows-10-telemetry-data-with-third-parties\">sends debugging "
-"information to Microsoft, including core dumps</a>. Microsoft now "
-"distributes them to another company."
-msgstr ""
-"Par défaut, Windows 10 <a href=\"http://betanews.com/2016/11/24/microsoft-"
-"shares-windows-10-telemetry-data-with-third-parties\">envoie l'information "
-"de débogage à Microsoft, y compris les vidages mémoire après plantage <i>"
-"[core dumps]</i></a>. Depuis quelque temps, Microsoft les distribue à une "
-"autre société."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"In order to increase Windows 10's install base, Microsoft <a class=\"not-a-"
-"duplicate\" href=\"https://www.eff.org/deeplinks/2016/08/windows-10-"
-"microsoft-blatantly-disregards-user-choice-and-privacy-deep-dive\"> "
-"blatantly disregards user choice and privacy</a>."
-msgstr ""
-"Afin d'élargir la base installée de Windows 10, Microsoft <a class=\"not-a-"
-"duplicate\" href=\"https://www.eff.org/deeplinks/2016/08/windows-10-"
-"microsoft-blatantly-disregards-user-choice-and-privacy-deep-dive\">manifeste "
-"un mépris total des choix de l'utilisateur et de sa vie privée</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"<a href=\"https://duo.com/blog/bring-your-own-dilemma-oem-laptops-and-"
-"windows-10-security\"> Windows 10 comes with 13 screens of snooping options</"
-"a>, all enabled by default, and turning them off would be daunting to most "
-"users."
-msgstr ""
-"<a href=\"https://duo.com/blog/bring-your-own-dilemma-oem-laptops-and-"
-"windows-10-security\">Windows 10 est livré avec 13 écrans remplis d'options "
-"de flicage</a>, toutes activées par défaut, que la plupart des utilisateurs "
-"n'oseront pas désactiver."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"It appears <a href=\"http://www.ghacks.net/2016/01/05/microsoft-may-be-"
-"collecting-more-data-than-initially-thought/\"> Windows 10 sends data to "
-"Microsoft about what applications are running</a>."
-msgstr ""
-"Il semble que <a href=\"http://www.ghacks.net/2016/01/05/microsoft-may-be-"
-"collecting-more-data-than-initially-thought/\">Windows 10 rapporte à "
-"Microsoft quelles applications sont en service</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"A downgrade to Windows 10 deleted surveillance-detection applications.  Then "
-"another downgrade inserted a general spying program.  Users noticed this and "
-"complained, so Microsoft renamed it <a href=\"https://www.theregister.co."
-"uk/2015/11/26/microsoft_renamed_data_slurper_reinserted_windows_10/\"> to "
-"give users the impression it was gone</a>."
-msgstr ""
-"Une mise à jour régressive de Windows 10 a supprimé des applications servant "
-"à détecter la surveillance. Puis une autre a inséré un programme "
-"d'espionnage tous azimuts. Les utilisateurs s'en sont rendu compte, alors "
-"Microsoft a changé son nom <a href=\"https://www.theregister.co."
-"uk/2015/11/26/microsoft_renamed_data_slurper_reinserted_windows_10/\">pour "
-"leur donner l'impression qu'il n'était plus là</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid "To use proprietary software is to invite such treatment."
-msgstr ""
-"Utiliser du logiciel privateur est une invitation à se faire traiter de la "
-"sorte."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"<a href=\"http://arstechnica.com/information-technology/2015/08/even-when-"
-"told-not-to-windows-10-just-cant-stop-talking-to-microsoft/\"> Windows 10 "
-"sends identifiable information to Microsoft</a>, even if a user turns off "
-"its Bing search and Cortana features, and activates the privacy-protection "
-"settings."
-msgstr ""
-"<a href=\"http://arstechnica.com/information-technology/2015/08/even-when-"
-"told-not-to-windows-10-just-cant-stop-talking-to-microsoft/\">Windows 10 "
-"envoie des informations identifiables à Microsoft</a>, même si l'utilisateur "
-"désactive la recherche sur Bing et les fonctionnalités de Cortina, et active "
-"les paramètres de confidentialité."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Windows 10 <a href=\"https://web.archive.org/web/20180923125732/https://"
-"jonathan.porta.codes/2015/07/30/windows-10-seems-to-have-some-scary-privacy-"
-"defaults/\"> ships with default settings that show no regard for the privacy "
-"of its users</a>, giving Microsoft the &ldquo;right&rdquo; to snoop on the "
-"users' files, text input, voice input, location info, contacts, calendar "
-"records and web browsing history, as well as automatically connecting the "
-"machines to open hotspots and showing targeted ads."
-msgstr ""
-"Windows 10 <a href=\"https://web.archive.org/web/20180923125732/https://"
-"jonathan.porta.codes/2015/07/30/windows-10-seems-to-have-some-scary-privacy-"
-"defaults/\">est livré avec des réglages par défaut qui ne montrent aucune "
-"considération pour la vie privée de ses utilisateurs</a>. Ils donnent à "
-"Microsoft le « droit » de fouiner dans les fichiers de l'utilisateur, les "
-"textes qu'il saisit, ses infos de localisation, ses contacts, son agenda et "
-"l'histoire de sa navigation. Et pour couronner le tout ils permettent la "
-"connexion automatique des machines aux réseaux WiFi ouverts et l'affichage "
-"de publicités ciblées."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"We can suppose Microsoft looks at users' files for the US government on "
-"demand, though the &ldquo;privacy policy&rdquo; does not explicitly say so. "
-"Will it look at users' files for the Chinese government on demand?"
-msgstr ""
-"On peut supposer que Microsoft regarde les fichiers des utilisateurs pour le "
-"gouvernement des États-Unis sur demande, bien que les « règles de "
-"confidentialité » ne le disent pas explicitement. Est-ce qu'elle fera de "
-"même pour le gouvernement chinois ?"
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Microsoft uses Windows 10's &ldquo;privacy policy&rdquo; to overtly impose a "
-"&ldquo;right&rdquo; to look at users' files at any time. Windows 10 full "
-"disk encryption <a href=\"https://edri.org/our-work/microsofts-new-small-"
-"print-how-your-personal-data-abused/\"> gives Microsoft a key</a>."
-msgstr ""
-"Microsoft utilise les « règles de confidentialité » de Windows 10 pour "
-"imposer ouvertement un « droit » de regard permanent sur les fichiers de "
-"l'utilisateur. Dans Windows 10, le chiffrement complet du disque <a href="
-"\"https://edri.org/our-work/microsofts-new-small-print-how-your-personal-"
-"data-abused/\">donne une clé à Microsoft</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Thus, Windows is overt malware in regard to surveillance, as in other issues."
-msgstr ""
-"Ainsi, Windows est un logiciel malveillant manifeste en ce qui concerne la "
-"surveillance, comme sur les autres plans."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"The unique &ldquo;advertising ID&rdquo; for each user enables other "
-"companies to track the browsing of each specific user."
-msgstr ""
-"L'« identifiant publicitaire unique » permet aux autres sociétés de suivre "
-"la navigation de chacun des utilisateurs."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"It's as if Microsoft has deliberately chosen to make Windows 10 maximally "
-"evil on every dimension; to make a grab for total power over anyone that "
-"doesn't drop Windows now."
-msgstr ""
-"C'est comme si Microsoft avait choisi délibérément de rendre Windows 10 "
-"malfaisant sur tous les plans ; de s'octroyer un contrôle total sur toute "
-"personne qui n'abandonne pas Windows dès maintenant."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"It only gets worse with time.  <a href=\"http://www.techworm.net/2014/10/"
-"microsofts-windows-10-permission-watch-every-move.html\"> Windows 10 "
-"requires users to give permission for total snooping</a>, including their "
-"files, their commands, their text input, and their voice input."
-msgstr ""
-"Cela ne fait qu'empirer avec le temps. <a href=\"http://www.techworm."
-"net/2014/10/microsofts-windows-10-permission-watch-every-move.html"
-"\">Windows 10 exige des utilisateurs qu'ils acceptent la totale en fait de "
-"fouinage</a>, ce qui inclut leurs fichiers, leurs commandes, ainsi que leurs "
-"entrées texte et audio."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"<a href=\"https://web.archive.org/web/20190421070310/https://www.itproportal."
-"com/2014/05/14/microsoft-openly-offered-cloud-data-fbi-and-nsa/\"> Microsoft "
-"SkyDrive allows the NSA to directly examine users' data</a>."
-msgstr ""
-"<a href=\"https://web.archive.org/web/20190421070310/https://www.itproportal."
-"com/2014/05/14/microsoft-openly-offered-cloud-data-fbi-and-nsa/\">Le "
-"SkyDrive de Microsoft permet à la NSA d'examiner directement les données des "
-"utilisateurs</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Skype contains <a href=\"https://web.archive.org/web/20130928235637/http://"
-"www.forbes.com/sites/petercohan/2013/06/20/project-chess-how-u-s-snoops-on-"
-"your-skype/\">spyware</a>.  Microsoft changed Skype <a href=\"http://www."
-"guardian.co.uk/world/2013/jul/11/microsoft-nsa-collaboration-user-data\"> "
-"specifically for spying</a>."
-msgstr ""
-"Skype aussi <a href=\"https://web.archive.org/web/20130928235637/http://www."
-"forbes.com/sites/petercohan/2013/06/20/project-chess-how-u-s-snoops-on-your-"
-"skype/\">contient un espiogiciel</a> ; Microsoft l'a modifié <a href="
-"\"http://www.guardian.co.uk/world/2013/jul/11/microsoft-nsa-collaboration-"
-"user-data\">dans un but précis d'espionnage</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Spyware in older versions of Windows: <a href=\"https://www.theregister.co."
-"uk/2003/02/28/windows_update_keeps_tabs/\"> Windows Update snoops on the "
-"user</a>. <a href=\"https://www.infoworld.com/article/2611451/a-look-at-the-"
-"black-underbelly-of-windows-8-1--blue-.html\"> Windows 8.1 snoops on local "
-"searches</a>. And there's a <a href=\"http://www.marketoracle.co.uk/"
-"Article40836.html\"> secret NSA key in Windows</a>, whose functions we don't "
-"know."
-msgstr ""
-"Espions dans les anciennes versions de Windows : <a href=\"https://www."
-"theregister.co.uk/2003/02/28/windows_update_keeps_tabs/\">Windows Update "
-"espionne l'utilisateur</a>. <a href=\"https://www.infoworld.com/"
-"article/2611451/a-look-at-the-black-underbelly-of-windows-8-1--blue-.html"
-"\">Windows 8.1 espionne les recherches locales</a>. Et il existe, toujours "
-"dans Windows, <a href=\"http://www.marketoracle.co.uk/Article40836.html"
-"\">une clé secrète de la NSA</a> dont nous ne connaissons pas la fonction."
-
-#. type: Content of: <div><div><h3>
-msgid "Tethers"
-msgstr "Ancrage"
-
-#. type: Content of: <div><div><p>
-msgid ""
-"Tethers are functionalities that require constant (or very frequent)  "
-"connection to a server."
-msgstr ""
-"L'ancrage désigne la nécessité d'une connexion fréquente ou permanente à un "
-"serveur."
-
-#. type: Content of: <div><div><p>
-msgid ""
-"As this page shows, if you do want to clean your computer of malware, the "
-"first software to delete is Windows."
-msgstr ""
-"Comme le montre cette page, si vous voulez débarrasser votre ordinateur des "
-"logiciels malveillants, le premier à supprimer est Windows."
 
 #. type: Content of: <title>
 msgid "Proprietary Surveillance - GNU Project - Free Software Foundation"
@@ -12599,37 +12771,6 @@ msgstr ""
 msgid "Adobe's Software is Malware"
 msgstr "Malveillance des logiciels d'Adobe"
 
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"<a href=\"https://www.scientificamerican.com/article/adobe-software-"
-"subscription-model-means-you-cant-own-your-software/\"> Adobe tools require "
-"a subscription</a>.  Adobe also tried to <a href=\"http://chocolateandvodka."
-"com/2014/02/20/adobe-creative-cloud-subscription-warning/\"> rip people off "
-"by making the subscriptions annual</a>, but that is a secondary issue "
-"compared with the basic wrong of the time bomb.  When a program proprietary, "
-"and even malware, don't get distracted by the secondary issues like price."
-msgstr ""
-"<a href=\"https://www.scientificamerican.com/article/adobe-software-"
-"subscription-model-means-you-cant-own-your-software/\">Les outils d'Adobe "
-"nécessitent un abonnement</a>. Adobe a également essayé <a href=\"http://"
-"chocolateandvodka.com/2014/02/20/adobe-creative-cloud-subscription-warning/"
-"\">d'arnaquer les gens en rendant les abonnements annuels</a>, mais c'est un "
-"problème secondaire comparé à l'inéquité fondamentale de cette bombe à "
-"retardement. Quand un programme est privateur, voire malveillant, ne vous "
-"laissez pas distraire par des problèmes secondaires comme son prix."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"<small>(Please don't repeat the marketing term &ldquo;Creative Cloud&rdquo; "
-"except to express revulsion for it.  The <a href=\"/philosophy/words-to-"
-"avoid.html#CloudComputing\"> term &ldquo;cloud&rdquo; is designed to cloud "
-"users' minds</a>.)</small>"
-msgstr ""
-"<small>(Ne répétez pas le terme de marketing « nuage créatif » <i>[Creative "
-"Cloud]</i>, sauf pour exprimer le dégoût qu'il vous inspire. « <a href=\"/"
-"philosophy/words-to-avoid.html#CloudComputing\">Le nuage</a> » est fait pour "
-"obscurcir l'esprit des utilisateurs.)</small>"
-
 #. type: Content of: <div><p>
 msgid "Copyright &copy; 2016, 2018-2021 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2016, 2018-2021 Free Software Foundation, Inc."
@@ -12647,38 +12788,6 @@ msgstr "Malveillance des logiciels de téléconférence"
 #. type: Content of: <div><p>
 msgid "Copyright &copy; 2020, 2021 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2020, 2021 Free Software Foundation, Inc."
-
-#. type: Content of: <title>
-msgid "Proprietary Subscriptions - GNU Project - Free Software Foundation"
-msgstr "Abonnements privateurs - Projet GNU - Free Software Foundation"
-
-#. type: Content of: <div><h2>
-msgid "Proprietary Subscriptions"
-msgstr "Abonnements privateurs"
-
-#. type: Content of: <div><div><p>
-msgid ""
-"It sounds simple to say that a certain program &ldquo;requires a "
-"subscription.&rdquo; What that means concretely is that it contains a time "
-"bomb, so that it will refuse to operate after that date.  Or else it is <a "
-"href=\"/proprietary/proprietary-tethers.html#about-page\">tethered to a "
-"server</a>, and that server checks the date.  Either one is a malicious "
-"functionality."
-msgstr ""
-"Cela paraît simple de dire qu'un certain programme « nécessite un "
-"abonnement ». En pratique, cela signifie qu'il contient une bombe à "
-"retardement et refusera de fonctionner après telle date, ou bien qu'il est "
-"<a href=\"/proprietary/proprietary-tethers.html#about-page\">attaché à un "
-"serveur</a> et que ce serveur vérifie la date. L'une et l'autre sont des "
-"fonctionnalités malveillantes."
-
-#. type: Content of: <div><div><p>
-msgid ""
-"Examples of software subscriptions that harmed users directly are given "
-"below."
-msgstr ""
-"Vous trouverez ci-dessous des exemples d'abonnements à des logiciels qui ont "
-"fait du tort directement aux utilisateurs."
 
 #. type: Content of: <title>
 msgid "Proprietary Back Doors - GNU Project - Free Software Foundation"
@@ -13059,72 +13168,6 @@ msgstr "Echo"
 #. type: Content of: <div><div><div><h3>
 msgid "Other products"
 msgstr "Autres produits"
-
-#. type: Content of: <title>
-msgid "Potential Malware - GNU Project - Free Software Foundation"
-msgstr "Malveillance potentielle - Projet GNU - Free Software Foundation"
-
-#. type: Content of: <div><h2>
-msgid "Potential Malware"
-msgstr "Malveillance potentielle"
-
-#. type: Content of: <div><div><p>
-msgid ""
-"This page describes malicious techniques that proprietary software might use "
-"in the future for malicious purposes.  We don't have any evidence that they "
-"are in use yet."
-msgstr ""
-"Cette page décrit des techniques que le logiciel privateur pourrait utiliser "
-"dans le futur à des fins malveillantes. Nous n'avons pas la preuve qu'elles "
-"soient déjà employées actuellement."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Patent applications show that Google and Amazon are interested in <a href="
-"\"http://www.consumerwatchdog.org/privacy-technology/home-assistant-adopter-"
-"beware-google-amazon-digital-assistant-patents-reveal\"> making &ldquo;"
-"digital assistants&rdquo; study people's activities to learn all about them</"
-"a>."
-msgstr ""
-"Si l'on en juge d'après leurs dépôts de brevets, Google et Amazon envisagent "
-"de faire des <a href=\"http://www.consumerwatchdog.org/privacy-technology/"
-"home-assistant-adopter-beware-google-amazon-digital-assistant-patents-reveal"
-"\">« assistants virtuels » qui étudient les activités des gens de manière à "
-"tout savoir sur eux</a>."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"AI programs would understand what people say to each other, observe the "
-"clothing they wear and the objects they carry (including the marketing "
-"messages on them), and use sound to track people's activities, including in "
-"the toilet or in bed."
-msgstr ""
-"Des programmes d'IA comprendraient ce que les gens se disent entre eux, "
-"observeraient leurs vêtements et les objets qu'ils transportent (en "
-"particulier les messages publicitaires qui sont dessus), et utiliseraient le "
-"son pour espionner leurs activités, y compris aux toilettes ou au lit."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"It should be illegal to have such a device in your apartment without getting "
-"signed consent from the people that live in the other apartments in the "
-"building."
-msgstr ""
-"Il devrait être illégal d'avoir un appareil de ce type dans son appartement "
-"sans obtenir le consentement écrit des voisins d'immeuble."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Any device that has a microphone and a speaker could be <a href=\"http://www."
-"washington.edu/news/2017/08/16/computer-scientists-use-music-to-covertly-"
-"track-body-movements-activity/\">turned into a sonar system that would track "
-"the movements of people in the same room or other rooms nearby</a>."
-msgstr ""
-"Tout appareil muni d'un micro et d'un haut-parleur pourrait être <a href="
-"\"http://www.washington.edu/news/2017/08/16/computer-scientists-use-music-to-"
-"covertly-track-body-movements-activity/\">converti en sonar pour suivre les "
-"mouvements des gens dans la pièce où il se trouve ou dans des pièces "
-"adjacentes</a>."
 
 #. type: Content of: <title>
 msgid "Malware in Appliances - GNU Project - Free Software Foundation"
