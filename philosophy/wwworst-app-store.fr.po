@@ -1,0 +1,464 @@
+# French translation of https://www.gnu.org/philosophy/wwworst-app-store.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Thérèse Godefroy <godef.th@free.fr>, 2021.
+# Patrick Creusot, 2021.
+# François Polito, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wwworst-app-store.html\n"
+"POT-Creation-Date: 2021-04-05 18:56+0000\n"
+"PO-Revision-Date: 2021-07-03 11:25+0200\n"
+"Last-Translator: Thérèse Godefroy <godef.th@free.fr>\n"
+"Language-Team: French <trad-gnu@april.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Content of: <title>
+msgid "The WWWorst App Store - GNU Project - Free Software Foundation"
+msgstr "Un app store de la pire espèce - Projet GNU - Free Software Foundation"
+
+#. type: Content of: <div><h2>
+msgid "The WWWorst App Store"
+msgstr "Un app store de la pire espèce"
+
+#. type: Content of: <div><address>
+msgid "by Alexandre Oliva"
+msgstr "par Alexandre Oliva"
+
+#. type: Content of: <div><p>
+msgid "Picture the most abusive app store."
+msgstr "Représentez-vous l'app store le plus abusif qui soit."
+
+#. type: Content of: <div><p>
+msgid "Programs in it are meant to run on your own computer."
+msgstr ""
+"Les programmes qu'il contient sont faits pour fonctionner sur votre "
+"ordinateur."
+
+#. type: Content of: <div><p>
+msgid "However, you have to be online to run them."
+msgstr "Cependant, vous devez être connecté pour les faire fonctionner."
+
+#. type: Content of: <div><p>
+msgid "Every time you start them, they contact the app store."
+msgstr "Chaque fois que vous les démarrez, ils contactent l'app store."
+
+#. type: Content of: <div><p>
+msgid ""
+"If there is an updated version, it's installed automatically, no questions "
+"asked.  You'd rather run the earlier version? Tough."
+msgstr ""
+"S'il y a une mise à jour, elle s'installe automatiquement, sans poser de "
+"question. Vous préférez la version précédente ? Tant pis."
+
+#. type: Content of: <div><p>
+msgid ""
+"If the app store decides you're no longer welcome, the program won't start "
+"any more."
+msgstr ""
+"Si l'app store décide que vous n'êtes plus le bienvenu, le programme ne "
+"démarrera pas."
+
+#. type: Content of: <div><p>
+msgid ""
+"If the app store servers are offline, or if you are, it won't start either."
+msgstr ""
+"Si les serveurs de l'app store sont hors ligne, ou si c'est vous qui êtes "
+"hors ligne, il ne démarrera pas non plus."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Programs in this app store must also hold your data in the app store's "
+"servers."
+msgstr ""
+"De plus, les programmes que contient cet app store doivent conserver vos "
+"données sur ses serveurs."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"If the program won't start, you can't get to the data on the servers any "
+"more."
+msgstr ""
+"Si le programme ne démarre pas, vous ne pouvez plus accéder aux données."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"You may have downloaded backups of your data, but you'd have to figure out "
+"how to decode them without the program."
+msgstr ""
+"Vous avez peut-être téléchargé des sauvegardes de vos données, mais dans ce "
+"cas vous devez trouver comment les décoder sans le programme."
+
+#. type: Content of: <div><p>
+msgid "Sounds like a nightmare? It is.  But it's also very real."
+msgstr "Cela ressemble à un cauchemar ? Oui, mais c'est aussi très réel."
+
+#. type: Content of: <div><p>
+msgid "Well-known app stores are approaching this level of nastiness."
+msgstr "Des app stores bien connus approchent ce niveau de perversité."
+
+#. type: Content of: <div><p>
+msgid "But they are just catching up with the real thing."
+msgstr "Mais ils sont juste en train de rattraper l'original."
+
+#. type: Content of: <div><p>
+msgid ""
+"The most abusive app store is the business-driven perversion of the old user-"
+"empowering distributed hypertext system called &ldquo;the Web.&rdquo;"
+msgstr ""
+"L'app store le plus abusif est une perversion par le monde des affaires du "
+"vieux système hypertexte distribué qui  donne le pouvoir aux utilisateurs et "
+"qu'on appelle « le web »."
+
+#. type: Content of: <div><p>
+msgid ""
+"Users have been encouraged to adopt &ldquo;web apps&rdquo; for much of their "
+"computing, paving the way for other app stores to follow suit."
+msgstr ""
+"Il a encouragé les utilisateurs à adopter des « applis web » pour une grande "
+"part de leurs activités informatiques, ce qui a incité d'autres app stores à "
+"faire de même."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"&ldquo;Web apps&rdquo; are most often distributed as JavaScript (though Java "
+"and Flash have served similar purposes), automatically installed and "
+"executed on your browser."
+msgstr ""
+"La plupart du temps, les « applis web » sont distribuées sous forme de "
+"JavaScript (bien que Java et Flash aient été utilisés dans le même but) qui "
+"s'installe et s'exécute automatiquement dans votre navigateur."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"But the problem is not that they're in JavaScript, or that it's your browser "
+"that runs them.  It's that:"
+msgstr ""
+"Mais le problème n'est pas que ce soit du JavaScript, ou qu'elles "
+"s'exécutent dans votre navigateur. Le problème est que"
+
+#. type: Content of: <div><div><ul><li>
+msgid "you don't have control over what the program does;"
+msgstr "vous ne contrôlez pas ce que fait le programme ;"
+
+#. type: Content of: <div><div><ul><li>
+msgid "you don't have control over when you can run it;"
+msgstr "vous n'avez aucun contrôle sur le moment où vous pouvez l'exécuter ;"
+
+#. type: Content of: <div><div><ul><li>
+msgid "you don't have control over your own data."
+msgstr "vous n'avez aucun contrôle sur vos données."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The app store owner takes all that control away from you, thereby gaining "
+"control over you."
+msgstr ""
+"Le propriétaire de l'app store vous a privé de ce contrôle, et a ainsi pris "
+"le contrôle sur vous."
+
+#. type: Content of: <div><div><p>
+msgid "You lose when the JavaScript code is nonfree software."
+msgstr "Vous êtes perdant quand le JavaScript est non libre."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<a href=\"/philosophy/javascript-trap.html\"> https://www.gnu.org/philosophy/"
+"javascript-trap.html</a>"
+msgstr ""
+"<a href=\"/philosophy/javascript-trap.html\"> https://www.gnu.org/philosophy/"
+"javascript-trap.html</a>"
+
+#. type: Content of: <div><div><p>
+msgid "But you also lose when it is (nominally) free software!"
+msgstr ""
+"Mais vous êtes aussi perdant quand c'est (en théorie) du logiciel libre !"
+
+#. type: Content of: <div><p>
+msgid ""
+"When the app / web site has so much control over what runs on your computer, "
+"the effect &ldquo;is equivalent to using a nonfree program with surveillance "
+"features and a universal back door.&rdquo;"
+msgstr ""
+"Lorsque l'appli ou le site web a autant de contrôle sur ce qui s'exécute "
+"dans votre ordinateur, cela « revient à utiliser un programme non libre avec "
+"des fonctionnalités de surveillance et une porte dérobée universelle »."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/network-services-arent-free-or-nonfree.html\"> https://"
+"www.gnu.org/philosophy/network-services-arent-free-or-nonfree.html</a>"
+msgstr ""
+"<a href=\"/philosophy/network-services-arent-free-or-nonfree.html\"> https://"
+"www.gnu.org/philosophy/network-services-arent-free-or-nonfree.html</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/who-does-that-server-really-serve.html\"> https://www."
+"gnu.org/philosophy/who-does-that-server-really-serve.html</a>"
+msgstr ""
+"<a href=\"/philosophy/who-does-that-server-really-serve.html\"> https://www."
+"gnu.org/philosophy/who-does-that-server-really-serve.html</a>"
+
+#. type: Content of: <div><p>
+msgid "The owner gets all the freedom, and you, the user, get none."
+msgstr ""
+"Le propriétaire a toute la liberté et vous, l'utilisateur, n'en avez aucune."
+
+#. type: Content of: <div><p>
+msgid "That's not a self-respectful way to do your computing."
+msgstr ""
+"Vous ne vous respectez pas en faisant de l'informatique de cette façon."
+
+#. type: Content of: <div><p>
+msgid ""
+"It invades your privacy, it keeps you and your data hostage, it takes away "
+"your agency and your freedom when it comes to your digital life."
+msgstr ""
+"Cela envahit votre vie privée, cela vous prend en otage, vous et vos "
+"données, cela supprime votre pouvoir de décision et votre liberté dans "
+"l'univers numérique."
+
+#. type: Content of: <div><p>
+msgid "The web used to be a wonderful way to share information."
+msgstr "Le web était un moyen merveilleux de partager de l'information."
+
+#. type: Content of: <div><p>
+msgid ""
+"Web apps and mandatory JavaScript have turned it into the worst app store."
+msgstr ""
+"Les applis web et le JavaScript obligatoire l'ont transformé en app store de "
+"la pire espèce."
+
+#. type: Content of: <div><p>
+msgid "It is time to separate the WWWonderful from the WWWorst practices."
+msgstr "Il est temps de séparer le merveilleux du pire."
+
+#. type: Content of: <div><p>
+msgid "Here are some ways to help:"
+msgstr "Voici quelques pistes :"
+
+#. type: Content of: <div><ul><li>
+msgid "request web sites that require JavaScript execution to offer either:"
+msgstr "demander aux sites web qui exigent l'exécution de JavaScript d'offrir"
+
+#. type: Content of: <div><ul><li><ul><li>
+msgid "alternate means of access to information they publish, or"
+msgstr ""
+"des moyens alternatifs d'accéder à l'information qu'ils publient, ou bien"
+
+#. type: Content of: <div><ul><li><ul><li>
+msgid "alternate means of delivery for their apps;"
+msgstr "des moyens alternatifs de se procurer leurs applis ;"
+
+#. type: Content of: <div><ul><li>
+msgid "promote free browser extensions that control JavaScript execution;"
+msgstr ""
+"promouvoir les extensions libres pour navigateurs qui contrôlent l'exécution "
+"du JavaScript ;"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/software/librejs/\">https://www.gnu.org/software/librejs/</a>"
+msgstr ""
+"<a href=\"/software/librejs/\">https://www.gnu.org/software/librejs/</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "beware of apps that are mere front ends for SaaSS;"
+msgstr ""
+"se méfier des applis qui sont de simples interfaces pour des services se "
+"substituant au logiciel ;"
+
+#. type: Content of: <div><ul><li>
+msgid "demand software you use to be delivered in freedom-respecting ways;"
+msgstr ""
+"exiger qu'on vous fournisse le logiciel que vous utilisez par des moyens "
+"repectant vos libertés ;"
+
+#. type: Content of: <div><ul><li>
+msgid "promote hypertext systems that do not grant servers control over users."
+msgstr ""
+"promouvoir les systèmes hypertextes qui ne permettent pas aux serveurs de "
+"contrôler les utilisateurs."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://en.wikipedia.org/wiki/Gemini_(protocol)\"> https://en."
+"wikipedia.org/wiki/Gemini_(protocol)</a>"
+msgstr ""
+"<a href=\"https://fr.wikipedia.org/wiki/Gemini_(protocole)\"> https://fr."
+"wikipedia.org/wiki/Gemini_(protocol)</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://en.wikipedia.org/wiki/Gopher_(protocol)\"> https://en."
+"wikipedia.org/wiki/Gopher_(protocol)</a>"
+msgstr ""
+"<a href=\"https://fr.wikipedia.org/wiki/Gemini_(protocole)\"> https://fr."
+"wikipedia.org/wiki/Gopher_(protocol)</a>"
+
+#. type: Content of: <div><p>
+msgid "More generally:"
+msgstr "Plus généralement :"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"as a self-respecting user, reject the abusive practices whenever you can;"
+msgstr ""
+"en tant qu'utilisateur qui se respecte, rejetez les pratiques abusives quand "
+"vous le pouvez ;"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/saying-no-even-once.html\"> https://gnu.org/philosophy/"
+"saying-no-even-once.html</a>"
+msgstr ""
+"<a href=\"/philosophy/saying-no-even-once.html\"> https://gnu.org/philosophy/"
+"saying-no-even-once.html</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "discourage automatic execution of downloaded code;"
+msgstr "découragez l'exécution automatique du code après téléchargement ;"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.fsfla.org/blogs/lxo/pub/who-is-afraid-of-spectre-and-"
+"meltdown.en.html\"> https://www.fsfla.org/blogs/lxo/pub/who-is-afraid-of-"
+"spectre-and-meltdown.en.html</a>"
+msgstr ""
+"<a href=\"https://www.fsfla.org/blogs/lxo/pub/who-is-afraid-of-spectre-and-"
+"meltdown.en.html\"> https://www.fsfla.org/blogs/lxo/pub/who-is-afraid-of-"
+"spectre-and-meltdown.en.html</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "as a network service operator, set a user-respecting example;"
+msgstr ""
+"en tant qu'opérateur de service réseau, donnez l'exemple du respect de "
+"l'utilisateur ;"
+
+#. type: Content of: <div><ul><li>
+msgid "spread awareness of the problem, and advice on solving and avoiding it."
+msgstr ""
+"sensibilisez les autres à ce problème et conseillez-les sur la manière de le "
+"résoudre et de l'éviter."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/help/help-javascript.html\"> https://www.gnu.org/help/help-"
+"javascript.html</a>"
+msgstr ""
+"<a href=\"/help/help-javascript.html\"> https://www.gnu.org/help/help-"
+"javascript.html</a>"
+
+#. type: Content of: <div><p>
+msgid ""
+"Now, if you wish your site to give its users a taste of how the WWWorst app "
+"store feels to us, add to web pages you control the following JavaScriptlet:"
+msgstr ""
+"Maintenant, si vous souhaitez que votre site donne à ses utilisateurs un "
+"aperçu de notre sentiment envers le pire app store, ajoutez aux pages que "
+"vous contrôlez le code JavaScript suivant :"
+
+#. type: Content of: <div><p>
+msgid ""
+"document.body.textContent = 'Please disable JavaScript to view this site.'"
+msgstr ""
+"document.body.textContent = 'Merci de désactiver JavaScript pour visiter ce "
+"site.'"
+
+#. type: Content of: <div><p>
+msgid ""
+"If you wish, make &ldquo;disable JavaScript&rdquo; a link to this article."
+msgstr ""
+"Si vous le souhaitez, mettez un lien vers cet article sous « désactiver "
+"JavaScript »."
+
+#. type: Content of: <div><p>
+msgid ""
+"Thanks to Richard Stallman for the inspiration to write about this issue, "
+"and for the encouragement to publish it."
+msgstr ""
+"Merci à Richard Stallman de m'avoir inspiré cet article et encouragé à le "
+"publier."
+
+#. type: Content of: <div><p>
+msgid ""
+"<em>2021-04-01 update:</em>&nbsp; thanks to KE0VVT for letting me know that "
+"textContent can't have links; you need innerHTML for that."
+msgstr ""
+"<em>Mise à jour 1∕4∕2021</em> :  merci à KE0VVT de m'avoir informé que "
+"textContent ne peut avoir de lien ; on a besoin de  innerHTML pour ça."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Veuillez envoyer les requêtes concernant la FSF et GNU à &lt;<a href="
+"\"mailto:gnu@gnu.org\">gnu@gnu.org</a>&gt;. Il existe aussi <a href=\"/"
+"contact/\">d'autres moyens de contacter</a> la FSF. Les liens orphelins et "
+"autres corrections ou suggestions peuvent être signalés à &lt;<a href="
+"\"mailto:webmasters@gnu.org\">webmasters@gnu.org</a>&gt;."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
+"\"mailto:trad-gnu@april.org\">trad-gnu@april.org</a>&gt;, et sur les "
+"traductions en général à &lt;<a href=\"mailto:web-translators@gnu.org\">web-"
+"translators@gnu.org</a>&gt;. Si vous souhaitez y contribuer, vous trouverez "
+"dans le <a href=\"/server/standards/README.translations.html\">guide de "
+"traduction</a> les infos nécessaires."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2021 Alexandre Oliva"
+msgstr "Copyright &copy; 2021 Alexandre Oliva"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under the <a rel=\"license\" href=\"https://"
+"creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-"
+"ShareAlike 4.0 International License</a>."
+msgstr ""
+"Cette page peut être utilisée suivant les conditions de la licence <a rel="
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduction : Thérèse Godefroy<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
+"april.org\">trad-gnu&#64;april.org</a>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Dernière mise à jour :"
