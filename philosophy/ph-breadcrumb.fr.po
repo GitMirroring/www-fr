@@ -1,0 +1,195 @@
+# French translation of https://www.gnu.org/philosophy/ph-breadcrumb.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Thérèse Godefroy <godef.th AT free.fr>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ph-breadcrumb.html\n"
+"POT-Creation-Date: 2021-07-09 12:26+0000\n"
+"PO-Revision-Date: 2021-07-09 14:42+0200\n"
+"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"Language-Team: French <trad-gnu@april.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Attribute 'title' of: <div><img>
+msgid "GNU Home"
+msgstr "Accueil GNU"
+
+#. #echo
+#.  encoding='none' var='LINK_CLOSE' 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/philosophy.html#content">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: <div>
+msgid "Philosophy"
+msgstr "Philosophie"
+
+#. #echo
+#.  encoding='none' var='LINK_CLOSE' 
+#. #if expr="$TAGS = /speeches/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/speeches-and-interview#content">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: <div>
+msgid "Speeches&nbsp;&amp;&nbsp;interviews"
+msgstr "Discours et entretiens"
+
+#. #echo
+#.  encoding='none' var='LINK_CLOSE' 
+#. #elif expr="$TAGS = /thirdparty/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/third-party-ideas.html#content">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: <div>
+msgid "Third&nbsp;party&nbsp;ideas"
+msgstr "Idées de tierces personnes"
+
+#. #echo
+#.  encoding='none' var='LINK_CLOSE' 
+#. #else 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#content">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: <div>
+msgid "Essays&nbsp;&amp;&nbsp;articles"
+msgstr "Essais et articles"
+
+#. #echo
+#.  encoding='none' var='LINK_CLOSE' 
+#. #if expr="$TAGS = /aboutfs/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#aboutfs">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: <div>
+msgid "About&nbsp;free&nbsp;software"
+msgstr "À propos du logiciel libre"
+
+#. #echo
+#.  encoding='none' var='LINK_CLOSE' 
+#. #elif expr="$TAGS = /licensing/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#LicensingFreeSoftware">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: <div>
+msgid "Licensing&nbsp;free&nbsp;software"
+msgstr "Licenses de logiciel libre"
+
+#. #echo
+#.  encoding='none' var='LINK_CLOSE' 
+#. #elif expr="$TAGS = /term/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#terminology">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: <div>
+msgid "Terminology"
+msgstr "Terminologie"
+
+#. #echo
+#.  encoding='none' var='LINK_CLOSE' 
+#. #elif expr="$TAGS = /upholding/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#upholding">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: <div>
+msgid "Upholding&nbsp;free&nbsp;software"
+msgstr "Défense du logiciel libre"
+
+#. #echo
+#.  encoding='none' var='LINK_CLOSE' 
+#. #elif expr="$TAGS = /misc/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#misc">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: <div>
+msgid "Misc"
+msgstr "Divers"
+
+#. #echo
+#.  encoding='none' var='LINK_CLOSE' 
+#. #else 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#Laws">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: <div>
+msgid "Laws&nbsp;&amp;&nbsp;issues"
+msgstr "Droit et société"
+
+#. #echo
+#.  encoding='none' var='LINK_CLOSE' 
+#. #if expr="$TAGS = /patents/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#patents">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: <div>
+msgid "Patents"
+msgstr "Brevets"
+
+#. #echo
+#.  encoding='none' var='LINK_CLOSE' 
+#. #elif expr="$TAGS = /copy/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#copyright">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: <div>
+msgid "Copyright"
+msgstr "Copyright"
+
+#. #echo
+#.  encoding='none' var='LINK_CLOSE' 
+#. #elif expr="$TAGS = /drm/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#drm">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: <div>
+msgid "DRM"
+msgstr "DRM"
+
+#. #echo
+#.  encoding='none' var='LINK_CLOSE' 
+#. #elif expr="$TAGS = /noip/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#noip">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: <div>
+msgid "&ldquo;Intellectual&nbsp;property&rdquo;"
+msgstr "« Propriété intellectuelle »"
+
+#. #echo
+#.  encoding='none' var='LINK_CLOSE' 
+#. #elif expr="$TAGS = /ns/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#ns">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: <div>
+msgid "Network&nbsp;services"
+msgstr "Services en ligne"
+
+#. #echo
+#.  encoding='none' var='LINK_CLOSE' 
+#. #elif expr="$TAGS = /cultural/" 
+#. #set var='LINK'
+#.  value='<a href="/philosophy/essays-and-articles.html#cultural">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: <div>
+msgid "Cultural&nbsp;&amp;&nbsp;social&nbsp;issues"
+msgstr "Enjeux culturels et sociétaux"
