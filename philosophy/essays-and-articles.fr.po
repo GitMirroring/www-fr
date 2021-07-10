@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: essays-and-articles.html\n"
-"POT-Creation-Date: 2021-06-02 14:25+0000\n"
+"POT-Creation-Date: 2021-07-10 09:56+0000\n"
 "PO-Revision-Date: 2021-06-01 11:53+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -107,10 +107,6 @@ msgstr "<a href=\"#ns\">Services en ligne</a>"
 msgid "<a href=\"#cultural\">Cultural and Social Issues</a>"
 msgstr "<a href=\"#cultural\">Enjeux culturels et sociétaux</a>"
 
-#. type: Content of: <div><ul><li><ul><li>
-msgid "<a href=\"#misc\">Misc</a>"
-msgstr "<a href=\"#misc\">Divers</a>"
-
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"#terminology\">Terminology and Definitions</a>"
 msgstr "<a href=\"#terminology\">Terminologie et définitions</a>"
@@ -118,6 +114,10 @@ msgstr "<a href=\"#terminology\">Terminologie et définitions</a>"
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"#upholding\">Upholding Software Freedom</a>"
 msgstr "<a href=\"#upholding\">Maintenir la liberté des logiciels</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#misc\">Misc</a>"
+msgstr "<a href=\"#misc\">Divers</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"#humor\">Philosophical Humor</a>"
@@ -618,10 +618,6 @@ msgstr ""
 #. type: Content of: <div><h3>
 msgid "Laws and Issues"
 msgstr "Droit et société"
-
-#. type: Content of: <div><p>
-msgid "<a href=\"/philosophy/stallmans-law.html\">Stallman's Law</a>"
-msgstr "<a href=\"/philosophy/stallmans-law.html\">Loi de Stallman</a>"
 
 #. type: Content of: <div><h4>
 msgid "Patents"
@@ -1126,6 +1122,10 @@ msgid "Cultural and Social Issues"
 msgstr "Enjeux culturels et sociétaux"
 
 #. type: Content of: <div><ul><li>
+msgid "<a href=\"/philosophy/stallmans-law.html\">Stallman's Law</a>"
+msgstr "<a href=\"/philosophy/stallmans-law.html\">Loi de Stallman</a>"
+
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/phone-anonymous-payment.html\">Anonymous Payment by "
 "Phone</a>"
@@ -1313,143 +1313,6 @@ msgstr ""
 "<a href=\"/philosophy/contradictory-support.html\">Attention au « soutien » "
 "contredit par les faits</a>"
 
-#. type: Content of: <div><h4>
-msgid "Misc"
-msgstr "Divers"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/philosophy/posting-videos.html\">Posting Videos</a>"
-msgstr ""
-"<a href=\"/philosophy/posting-videos.html\">Mettre des vidéos en ligne</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/proprietary.html\">Clearly established cases of "
-"proprietary software that does nasty things to the users</a>."
-msgstr ""
-"<a href=\"/philosophy/proprietary.html\">Cas clairement établis de logiciels "
-"privateurs qui font des mauvais coups à leurs utilisateurs</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/practical.html\">The advantages of free software</a>."
-msgstr ""
-"<a href=\"/philosophy/practical.html\">Les avantages du logiciel libre</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/bug-nobody-allowed-to-understand.html\">The Bug Nobody "
-"is Allowed to Understand</a>, By Richard Stallman."
-msgstr ""
-"<a href=\"/philosophy/bug-nobody-allowed-to-understand.html\">Le bogue que "
-"personne n'est autorisé à comprendre</a>, par Richard Stallman."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/sun-in-night-time.html\">The Curious Incident of Sun "
-"in the Night-Time</a>, by Richard M. Stallman."
-msgstr ""
-"<a href=\"/philosophy/sun-in-night-time.html\">Le curieux non-événement de "
-"Sun dans la pénombre</a>, par Richard M. Stallman."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/sco/sco-gnu-linux.html\">SCO, GNU, and Linux</a>, by "
-"Richard Stallman, discusses how SCO's lawsuit against IBM pertains to the "
-"work of the GNU project.  Please see the <a href=\"/philosophy/sco/sco.html"
-"\">FSF SCO Response Page</a> for more details on this subject."
-msgstr ""
-"<a href=\"/philosophy/sco/sco-gnu-linux.html\">SCO, GNU et Linux</a>, par "
-"Richard Stallman, parle de la façon dont les poursuites judiciaires de SCO "
-"contre IBM sont reliées au travail du projet GNU. Veuillez consulter la <a "
-"href=\"/philosophy/sco/sco.html\">réponse de la FSF à SCO</a> pour plus de "
-"détails à ce sujet."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/ms-doj-tunney.html\">FSF's Statement in Response to "
-"Proposed Revised Final Judgment in Microsoft vs. United States, submitted to "
-"the US Department of Justice under the Tunney Act</a>."
-msgstr ""
-"<a href=\"/philosophy/ms-doj-tunney.html\">Déclaration de la FSF en réponse "
-"à la proposition de jugement définitif révisé dans le procès Microsoft "
-"contre les États-Unis, soumise au ministère de la justice américain dans le "
-"cadre du <i>Tunney Act</i></a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/new-monopoly.html\">U.S. Congress Threatens to "
-"Establish a New Kind of Monopoly</a>, an attempt of the Congress to create a "
-"private monopoly over repeating publicly known information."
-msgstr ""
-"<a href=\"/philosophy/new-monopoly.html\">Le Congrès des États-Unis menace "
-"d'établir un nouveau type de monopole</a> : une tentative du Congrès pour "
-"créer un monopole privé sur la répétition d'informations déjà connues du "
-"public."
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/philosophy/dat.html\">The Right Way to Tax DAT</a>"
-msgstr ""
-"<a href=\"/philosophy/dat.html\">La bonne façon de taxer les cassettes audio-"
-"numériques</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/censoring-emacs.html\">Censoring My Software</a>, by "
-"Richard Stallman."
-msgstr ""
-"<a href=\"/philosophy/censoring-emacs.html\">Je censure mes logiciels</a>, "
-"par Richard Stallman>."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/funding-art-vs-funding-software.html\">Funding Art vs "
-"Funding Software</a>, by Richard Stallman."
-msgstr ""
-"<a href=\"/philosophy/funding-art-vs-funding-software.html\">Financer l'art "
-"vs financer le logiciel</a>, par Richard Stallman."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/android-and-users-freedom.html\"> Android and Users' "
-"Freedom</a>"
-msgstr ""
-"<a href=\"/philosophy/android-and-users-freedom.html\">Android et la liberté "
-"des utilisateurs</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/ubuntu-spyware.html\">Ubuntu Spyware: What to Do?</a>"
-msgstr ""
-"<a href=\"/philosophy/ubuntu-spyware.html\">Un logiciel espion dans Ubuntu ! "
-"Que faire ?</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/whats-wrong-with-youtube.html\">What's Wrong with "
-"YouTube</a>"
-msgstr ""
-"<a href=\"/philosophy/whats-wrong-with-youtube.html\">Qu'y a-t-il de mal "
-"dans YouTube ?</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/netscape.html\">Netscape and Free Software</a>, an old "
-"article that clarifies some misunderstandings about an announcement by "
-"Netscape."
-msgstr ""
-"<a href=\"/philosophy/netscape.html\">Netscape et le logiciel libre</a>, un "
-"article assez ancien qui clarifie quelques malentendus sur une annonce faite "
-"par Netscape."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/rms-comment-longs-article.html\">Comments on Roderick "
-"Long's Article</a>."
-msgstr ""
-"<a href=\"/philosophy/rms-comment-longs-article.html\">Commentaires "
-"concernant l'article de Roderick Long</a>"
-
 #. type: Content of: <div><h3>
 msgid "Terminology and Definitions"
 msgstr "Terminologie et définitions"
@@ -1594,6 +1457,143 @@ msgid ""
 msgstr ""
 "<a href=\"/philosophy/free-software-even-more-important.html\">Le logiciel "
 "libre est encore plus essentiel maintenant</a>"
+
+#. type: Content of: <div><h3>
+msgid "Misc"
+msgstr "Divers"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/philosophy/posting-videos.html\">Posting Videos</a>"
+msgstr ""
+"<a href=\"/philosophy/posting-videos.html\">Mettre des vidéos en ligne</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/proprietary.html\">Clearly established cases of "
+"proprietary software that does nasty things to the users</a>."
+msgstr ""
+"<a href=\"/philosophy/proprietary.html\">Cas clairement établis de logiciels "
+"privateurs qui font des mauvais coups à leurs utilisateurs</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/practical.html\">The advantages of free software</a>."
+msgstr ""
+"<a href=\"/philosophy/practical.html\">Les avantages du logiciel libre</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/bug-nobody-allowed-to-understand.html\">The Bug Nobody "
+"is Allowed to Understand</a>, By Richard Stallman."
+msgstr ""
+"<a href=\"/philosophy/bug-nobody-allowed-to-understand.html\">Le bogue que "
+"personne n'est autorisé à comprendre</a>, par Richard Stallman."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/sun-in-night-time.html\">The Curious Incident of Sun "
+"in the Night-Time</a>, by Richard M. Stallman."
+msgstr ""
+"<a href=\"/philosophy/sun-in-night-time.html\">Le curieux non-événement de "
+"Sun dans la pénombre</a>, par Richard M. Stallman."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/sco/sco-gnu-linux.html\">SCO, GNU, and Linux</a>, by "
+"Richard Stallman, discusses how SCO's lawsuit against IBM pertains to the "
+"work of the GNU project.  Please see the <a href=\"/philosophy/sco/sco.html"
+"\">FSF SCO Response Page</a> for more details on this subject."
+msgstr ""
+"<a href=\"/philosophy/sco/sco-gnu-linux.html\">SCO, GNU et Linux</a>, par "
+"Richard Stallman, parle de la façon dont les poursuites judiciaires de SCO "
+"contre IBM sont reliées au travail du projet GNU. Veuillez consulter la <a "
+"href=\"/philosophy/sco/sco.html\">réponse de la FSF à SCO</a> pour plus de "
+"détails à ce sujet."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/ms-doj-tunney.html\">FSF's Statement in Response to "
+"Proposed Revised Final Judgment in Microsoft vs. United States, submitted to "
+"the US Department of Justice under the Tunney Act</a>."
+msgstr ""
+"<a href=\"/philosophy/ms-doj-tunney.html\">Déclaration de la FSF en réponse "
+"à la proposition de jugement définitif révisé dans le procès Microsoft "
+"contre les États-Unis, soumise au ministère de la justice américain dans le "
+"cadre du <i>Tunney Act</i></a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/new-monopoly.html\">U.S. Congress Threatens to "
+"Establish a New Kind of Monopoly</a>, an attempt of the Congress to create a "
+"private monopoly over repeating publicly known information."
+msgstr ""
+"<a href=\"/philosophy/new-monopoly.html\">Le Congrès des États-Unis menace "
+"d'établir un nouveau type de monopole</a> : une tentative du Congrès pour "
+"créer un monopole privé sur la répétition d'informations déjà connues du "
+"public."
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/philosophy/dat.html\">The Right Way to Tax DAT</a>"
+msgstr ""
+"<a href=\"/philosophy/dat.html\">La bonne façon de taxer les cassettes audio-"
+"numériques</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/censoring-emacs.html\">Censoring My Software</a>, by "
+"Richard Stallman."
+msgstr ""
+"<a href=\"/philosophy/censoring-emacs.html\">Je censure mes logiciels</a>, "
+"par Richard Stallman>."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/funding-art-vs-funding-software.html\">Funding Art vs "
+"Funding Software</a>, by Richard Stallman."
+msgstr ""
+"<a href=\"/philosophy/funding-art-vs-funding-software.html\">Financer l'art "
+"vs financer le logiciel</a>, par Richard Stallman."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/android-and-users-freedom.html\"> Android and Users' "
+"Freedom</a>"
+msgstr ""
+"<a href=\"/philosophy/android-and-users-freedom.html\">Android et la liberté "
+"des utilisateurs</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/ubuntu-spyware.html\">Ubuntu Spyware: What to Do?</a>"
+msgstr ""
+"<a href=\"/philosophy/ubuntu-spyware.html\">Un logiciel espion dans Ubuntu ! "
+"Que faire ?</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/whats-wrong-with-youtube.html\">What's Wrong with "
+"YouTube</a>"
+msgstr ""
+"<a href=\"/philosophy/whats-wrong-with-youtube.html\">Qu'y a-t-il de mal "
+"dans YouTube ?</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/netscape.html\">Netscape and Free Software</a>, an old "
+"article that clarifies some misunderstandings about an announcement by "
+"Netscape."
+msgstr ""
+"<a href=\"/philosophy/netscape.html\">Netscape et le logiciel libre</a>, un "
+"article assez ancien qui clarifie quelques malentendus sur une annonce faite "
+"par Netscape."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/rms-comment-longs-article.html\">Comments on Roderick "
+"Long's Article</a>."
+msgstr ""
+"<a href=\"/philosophy/rms-comment-longs-article.html\">Commentaires "
+"concernant l'article de Roderick Long</a>"
 
 #. type: Content of: <div><h3>
 msgid "Philosophical humor"
