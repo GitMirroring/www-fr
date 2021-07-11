@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: linux-gnu-freedom.html\n"
-"POT-Creation-Date: 2019-08-03 15:55+0000\n"
-"PO-Revision-Date: 2021-01-26 13:46+0100\n"
+"POT-Creation-Date: 2021-07-11 08:56+0000\n"
+"PO-Revision-Date: 2021-07-11 12:16+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -19,7 +19,7 @@ msgstr ""
 "X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
-msgid "Linux, GNU, and freedom - GNU Project - Free Software Foundation"
+msgid "Linux, GNU, and Freedom - GNU Project - Free Software Foundation"
 msgstr "Linux, GNU et liberté - Projet GNU - Free Software Foundation"
 
 #. type: Attribute 'content' of: <meta>
@@ -39,15 +39,15 @@ msgstr ""
 "rapport de Joe Barr sur les négociations avec le groupe d'utilisateurs Linux "
 "de Austin."
 
-#. type: Content of: <h2>
-msgid "Linux, GNU, and freedom"
+#. type: Content of: <div><h2>
+msgid "Linux, GNU, and Freedom"
 msgstr "Linux, GNU et liberté"
 
-#. type: Content of: <p>
-msgid "by <strong>Richard M. Stallman</strong>"
-msgstr "par <strong>Richard M. Stallman</strong>"
+#. type: Content of: <div><address>
+msgid "by Richard M. Stallman"
+msgstr "par Richard M. Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Since <a href=\"https://web.archive.org/web/20190404115541/http://linux.sys-"
 "con.com/node/32755\">Joe Barr's article</a> criticized my dealings with "
@@ -59,7 +59,7 @@ msgstr ""
 "avec SIGLINUX, je voudrais faire une mise au point sur ce qui s'est vraiment "
 "passé, et donner mes raisons."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "When SIGLINUX invited me to speak, it was a &ldquo;Linux User Group&rdquo;; "
 "that is, a group for users of the GNU/Linux system which calls the whole "
@@ -85,7 +85,7 @@ msgstr ""
 "Je respecte leur liberté d'expression, mais j'ai également la liberté de ne "
 "pas faire de discours."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Subsequently, Jeff Strunk of SIGLINUX tried to change the group's policy, "
 "and asked the FSF to list his group in our page of GNU/Linux user groups.  "
@@ -105,7 +105,7 @@ msgstr ""
 "cette proposition). Quoi qu'il en soit, le groupe décida finalement de "
 "garder « SIGLINUX »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "At that point, the matter came to my attention again, and I suggested they "
 "consider other possible names.  There are many names they could choose that "
@@ -117,7 +117,7 @@ msgstr ""
 "n'appellent pas le système « Linux » et j'espère qu'ils en trouveront un qui "
 "leur plaise. Voilà où en sont les choses, pour autant que je sache."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Is it true, as Barr writes, that some people see these actions as an &ldquo;"
 "application of force&rdquo; comparable with Microsoft's monopoly power? "
@@ -143,7 +143,7 @@ msgstr ""
 "fait, il n'y a qu'un pas à faire pour croire que je vous dois un discours si "
 "vous me le demandez."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Just consider: the GNU Project starts developing an operating system, and "
 "years later Linus Torvalds adds one important piece.  The GNU Project says, "
@@ -161,7 +161,7 @@ msgstr ""
 "d'une personne qui, à la lumière de ces événements, accuse le projet GNU "
 "d'égoïsme. Il faut de sacrés préjugés pour se méprendre à ce point."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "A person who is that prejudiced can say all sorts of unfair things about the "
 "GNU Project and think them justified; his fellows will support him, because "
@@ -185,7 +185,7 @@ msgstr ""
 "mécontente carrément. C'est de la coercition, aussi néfaste que celle de "
 "Microsoft !"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Now, you might wonder why I don't just duck the issue and avoid all this "
 "grief.  When SIGLINUX invited me to speak, I could simply have said &ldquo;"
@@ -201,14 +201,14 @@ msgstr ""
 "injurié afin d'avoir une chance de corriger l'erreur qui sape les efforts du "
 "projet GNU."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Calling this variant of the GNU system &ldquo;Linux&rdquo; plays into the "
 "hands of people who choose their software based only on technical advantage, "
 "not caring whether it respects their freedom.  There are people like Barr, "
 "that want their software &ldquo;free from ideology&rdquo; and criticize "
 "anyone that says freedom matters.  There are people like Torvalds that will "
-"pressure our community into use of a non-free program, and challenge anyone "
+"pressure our community into use of a nonfree program, and challenge anyone "
 "who complains to provide a (technically) better program immediately or shut "
 "up.  There are people who say that technical decisions should not be &ldquo;"
 "politicized&rdquo; by consideration of their social consequences."
@@ -224,7 +224,7 @@ msgstr ""
 "que les décisions techniques ne doivent pas être « politisées » par la prise "
 "en compte de leurs conséquences sociétales."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In the 70s, computer users lost the freedoms to redistribute and change "
 "software because they didn't value their freedom.  Computer users regained "
@@ -239,18 +239,18 @@ msgstr ""
 "liberté est ce qui rend un programme meilleur et voulait travailler pour ce "
 "en quoi il croyait."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "We have partial freedom today, but our freedom is not secure.  It is "
 "threatened by the <abbr title=\"Consumer Broadband and Digital Television "
 "Promotion Act\">CBDTPA</abbr> (formerly <abbr title=\"Security Systems "
 "Standards and Certification Act\">SSSCA</abbr>), by the Broadcast &ldquo;"
-"Protection&rdquo; Discussion Group (see <a href=\"http://www.eff.org/"
-"\">http://www.eff.org/</a>) which proposes to prohibit free software to "
-"access digital TV broadcasts, by software patents (Europe is now considering "
-"whether to have software patents), by Microsoft nondisclosure agreements for "
-"vital protocols, and by everyone who tempts us with a non-free program that "
-"is &ldquo;better&rdquo; (technically) than available free programs.  We can "
+"Protection&rdquo; Discussion Group (see <a href=\"https://www.eff.org/\">www."
+"eff.org</a>) which proposes to prohibit free software to access digital TV "
+"broadcasts, by software patents (Europe is now considering whether to have "
+"software patents), by Microsoft nondisclosure agreements for vital "
+"protocols, and by everyone who tempts us with a nonfree program that is "
+"&ldquo;better&rdquo; (technically) than available free programs.  We can "
 "lose our freedom again just as we lost it the first time, if we don't care "
 "enough to protect it."
 msgstr ""
@@ -258,32 +258,30 @@ msgstr ""
 "Elle est menacée par la <abbr title=\"Consumer Broadband and Digital "
 "Television Promotion Act\">CBDTPA</abbr> (anciennement <abbr title="
 "\"Security Systems Standards and Certification Act\">SSSCA</abbr>), par le "
-"<i>Broadcast « Protection » Discussion Group</i> (voir <a href=\"http://www."
-"eff.org/\">http://www.eff.org/</a> [en]) qui propose d'interdire "
-"l'utilisation de logiciel libre pour accéder aux télédiffusions numériques, "
-"par les brevets logiciels (l'Europe est en train d'y réfléchir), par les "
-"clauses de confidentialité de Microsoft pour des protocoles d'importance "
-"critique et par tous ceux qui nous incitent à utiliser des programmes non "
-"libres réputés « meilleurs » (techniquement) que les programmes libres "
-"disponibles. Nous pouvons perdre à nouveau notre liberté tout comme nous "
-"l'avons perdue la première fois, si nous ne sommes pas assez concernés pour "
-"la protéger."
+"<i>Broadcast « Protection » Discussion Group</i> (voir <a href=\"https://www."
+"eff.org/\">www.eff.org/</a> [en]) qui propose d'interdire l'utilisation de "
+"logiciel libre pour accéder aux télédiffusions numériques, par les brevets "
+"logiciels (l'Europe est en train d'y réfléchir), par les clauses de "
+"confidentialité de Microsoft pour des protocoles d'importance critique et "
+"par tous ceux qui nous incitent à utiliser des programmes non libres réputés "
+"« meilleurs » (techniquement) que les programmes libres disponibles. Nous "
+"pouvons perdre à nouveau notre liberté tout comme nous l'avons perdue la "
+"première fois, si nous ne sommes pas assez concernés pour la protéger."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Will enough of us care? That depends on many things; among them, how much "
 "influence the GNU Project has, and how much influence Linus Torvalds has.  "
 "The GNU Project says, &ldquo;Value your freedom!&rdquo;.  Joe Barr says, "
-"&ldquo;Choose between non-free and free programs on technical grounds alone!"
+"&ldquo;Choose between nonfree and free programs on technical grounds alone!"
 "&rdquo;.  If people credit Torvalds as the main developer of the GNU/Linux "
 "system, that's not just inaccurate, it also makes his message more "
-"influential&mdash;and that message says, &ldquo;Non-free software is ok; I "
+"influential&mdash;and that message says, &ldquo;Nonfree software is OK; I "
 "use it and develop it myself.&rdquo; If they recognize our role, they will "
 "listen to us more, and the message we will give them is, &ldquo;This system "
 "exists because of people who care about freedom. Join us, value your "
 "freedom, and together we can preserve it.&rdquo; See <a href=\"/gnu/"
-"thegnuproject.html\">http://www.gnu.org/gnu/thegnuproject.html</a> for the "
-"history."
+"thegnuproject.html\">The GNU Project</a> for the history."
 msgstr ""
 "Serons-nous assez nombreux à être concernés ? Cela dépend de beaucoup de "
 "choses, entre autres de l'influence qu'aura le projet GNU et de l'influence "
@@ -297,10 +295,10 @@ msgstr ""
 "écouteront mieux, et le message que nous leur donnerons sera : « Ce système "
 "existe grâce à des gens qui se soucient de la liberté. Rejoignez-nous, "
 "donnez du prix à votre liberté et ensemble nous pourrons la préserver. » "
-"Vous trouverez l'historique de notre projet sur <a href=\"/gnu/thegnuproject."
-"html\">http://www.gnu.org/gnu/the-gnu-project.html</a>."
+"Vous trouverez l'historique de notre projet dans « <a href=\"/gnu/"
+"thegnuproject.html\">Le projet GNU</a> »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "When I ask people to call the system GNU/Linux, some of them respond with <a "
 "href=\"/gnu/gnu-linux-faq.html\"> silly excuses and straw men</a>.  But we "
@@ -319,7 +317,7 @@ msgstr ""
 "raison d'être du système GNU/Linux, et cela accroît notre capacité à "
 "répandre l'idée que la liberté est une valeur importante."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This is why I keep butting my head against bias, calumny, and grief.  They "
 "hurt my feelings, but when successful, this effort helps the GNU Project "
@@ -329,31 +327,31 @@ msgstr ""
 "l'accablement. Cela heurte mes sentiments, mais quand mon effort aboutit, il "
 "aide la campagne du projet GNU pour la liberté."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Since this came up in the context of Linux (the kernel) and Bitkeeper, the "
-"non-free version control system that Linus Torvalds now uses, I'd like to "
+"nonfree version control system that Linus Torvalds now uses, I'd like to "
 "address that issue as well."
 msgstr ""
 "Puisque ceci est survenu dans le contexte de Linux (le noyau) et Bitkeeper, "
 "le système de contrôle de version non libre que Linus Torvalds utilise "
 "maintenant, je voudrais commenter également ce problème."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Bitkeeper issue"
 msgstr "Le problème Bitkeeper"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid "(See the <a href=\"#update\">update</a> below.)"
 msgstr "(Voir la <a href=\"#update\">mise à jour</a> ci-dessous.)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The use of Bitkeeper for the Linux sources has a grave effect on the free "
 "software community, because anyone who wants to closely track patches to "
-"Linux can only do it by installing that non-free program.  There must be "
+"Linux can only do it by installing that nonfree program.  There must be "
 "dozens or even hundreds of kernel hackers who have done this.  Most of them "
-"are gradually convincing themselves that it is ok to use non-free software, "
+"are gradually convincing themselves that it is ok to use nonfree software, "
 "in order to avoid a sense of cognitive dissonance about the presence of "
 "Bitkeeper on their machines.  What can be done about this?"
 msgstr ""
@@ -366,7 +364,7 @@ msgstr ""
 "reconnaître la dissonance cognitive qui consiste à accepter la présence de "
 "Bitkeeper sur leurs machines. Que pouvons-nous faire ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "One solution is to set up another repository for the Linux sources, using "
 "CVS or another free version control system, and arranging to load new "
@@ -382,10 +380,10 @@ msgstr ""
 "processus de mise à jour pourrait être exécuté automatiquement et "
 "fréquemment."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The FSF cannot do this, because we cannot install Bitkeeper on our "
-"machines.  We have no non-free systems or applications on them now, and our "
+"machines.  We have no nonfree systems or applications on them now, and our "
 "principles say we must keep it that way.  Operating this repository would "
 "have to be done by someone else who is willing to have Bitkeeper on his "
 "machine, unless someone can find or make a way to do it using free software."
@@ -398,9 +396,9 @@ msgstr ""
 "machine, sauf si quelqu'un trouvait ou concevait un moyen de le faire en "
 "utilisant des logiciels libres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"The Linux sources themselves have an even more serious problem with non-free "
+"The Linux sources themselves have an even more serious problem with nonfree "
 "software: they actually contain some.  Quite a few device drivers contain "
 "series of numbers that represent firmware programs to be installed in the "
 "device.  These programs are not free software.  A few numbers to be "
@@ -415,7 +413,7 @@ msgstr ""
 "les registres d'un périphérique sont une chose ; un programme binaire "
 "conséquent en est une autre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The presence of these binary-only programs in &ldquo;source&rdquo; files of "
 "Linux creates a secondary problem: it calls into question whether Linux "
@@ -431,15 +429,15 @@ msgstr ""
 "un code source. Pour la même raison, ajouter de tels binaires aux sources de "
 "Linux viole la GPL."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The Linux developers have a plan to move these firmware programs into "
 "separate files; it will take a few years to mature, but when completed it "
 "will solve the secondary problem; we could make a &ldquo;free Linux&rdquo; "
-"version that doesn't have the non-free firmware files.  That by itself won't "
-"do much good if most people use the non-free &ldquo;official&rdquo; version "
+"version that doesn't have the nonfree firmware files.  That by itself won't "
+"do much good if most people use the nonfree &ldquo;official&rdquo; version "
 "of Linux.  That may well occur, because on many platforms the free version "
-"won't run without the non-free firmware.  The &ldquo;free Linux&rdquo; "
+"won't run without the nonfree firmware.  The &ldquo;free Linux&rdquo; "
 "project will have to figure out what the firmware does and write source code "
 "for it, perhaps in assembler language for whatever embedded processor it "
 "runs on.  It's a daunting job.  It would be less daunting if we had done it "
@@ -463,10 +461,10 @@ msgstr ""
 "nous devrons surmonter l'idée, répandue par quelques développeurs de Linux, "
 "que ce travail n'est pas nécessaire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Linux, the kernel, is often thought of as the flagship of free software, yet "
-"its current version is partially non-free.  How did this happen? This "
+"its current version is partially nonfree.  How did this happen? This "
 "problem, like the decision to use Bitkeeper, reflects the attitude of the "
 "original developer of Linux, a person who thinks that &ldquo;technically "
 "better&rdquo; is more important than freedom."
@@ -477,7 +475,7 @@ msgstr ""
 "développeur qui est à l'origine de Linux, celle d'une personne qui pense que "
 "« techniquement mieux » est plus important que liberté."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Value your freedom, or you will lose it, teaches history.  &ldquo;Don't "
 "bother us with politics,&rdquo; respond those who don't want to learn."
@@ -486,11 +484,11 @@ msgstr ""
 "« Ne nous ennuyez pas avec la politique », répondent ceux qui ne veulent pas "
 "s'instruire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<strong>Update:</strong> Since 2005, BitKeeper is no longer used to manage "
 "the Linux kernel source tree.  See the article, <a href=\"/philosophy/mcvoy."
-"html\">Thank You, Larry McVoy</a>.  The Linux sources still contain non-free "
+"html\">Thank You, Larry McVoy</a>.  The Linux sources still contain nonfree "
 "firmware blobs, but as of January 2008, a <a href=\"//directory.fsf.org/"
 "project/linux\"> free version of Linux</a> is now maintained for use in free "
 "GNU/Linux distributions."
@@ -528,14 +526,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -546,8 +544,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2002, 2017, 2019 Richard M. Stallman"
-msgstr "Copyright &copy; 2002, 2017, 2019 Richard M. Stallman"
+msgid "Copyright &copy; 2002, 2017, 2019, 2021 Richard M. Stallman"
+msgstr "Copyright &copy; 2002, 2017, 2019, 2021 Richard M. Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

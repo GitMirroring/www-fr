@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: floss-and-foss.html\n"
-"POT-Creation-Date: 2016-07-13 14:55+0000\n"
-"PO-Revision-Date: 2020-12-06 17:36+0100\n"
+"POT-Creation-Date: 2021-07-11 09:25+0000\n"
+"PO-Revision-Date: 2021-07-11 12:16+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -22,15 +22,15 @@ msgstr ""
 msgid "FLOSS and FOSS - GNU Project - Free Software Foundation"
 msgstr "FLOSS et FOSS - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "FLOSS and FOSS"
 msgstr "FLOSS et FOSS"
 
-#. type: Content of: <p>
-msgid "by <strong>Richard Stallman</strong>"
-msgstr "par <strong>Richard Stallman</strong>"
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "par Richard Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The two political camps in the free software community are the free software "
 "movement and open source.  The free software movement is a campaign for <a "
@@ -51,7 +51,7 @@ msgstr ""
 "philosophy/open-source-misses-the-point.html\">la notion d'avantages "
 "pratiques</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To emphasize that &ldquo;free software&rdquo; refers to freedom and not to "
 "price, we sometimes write or say &ldquo;free (libre)  software,&rdquo; "
@@ -65,7 +65,7 @@ msgstr ""
 "signifie « libre » au sens de liberté. Dans certains contextes, on peut même "
 "se contenter de dire <i>libre software</i>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "A researcher studying practices and methods used by developers in the free "
 "software community decided that these questions were independent of the "
@@ -84,7 +84,7 @@ msgstr ""
 "camps. Si vous souhaitez rester neutre, c'est une bonne manière de procéder. "
 "Les deux camps sont ainsi mis en évidence de façon équivalente."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Others use the term &ldquo;FOSS,&rdquo; which stands for &ldquo;Free and "
 "Open Source Software.&rdquo; This is meant to mean the same thing as &ldquo;"
@@ -102,7 +102,7 @@ msgstr ""
 "anglais l'expression <i>open source</i> est mise en avant tandis que les "
 "mots <i>free</i> et <i>software</i> sont séparés."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "&ldquo;Free and Open Source Software&rdquo; is misleading in another way: it "
 "suggests that &ldquo;free and open source&rdquo; names a single point of "
@@ -117,7 +117,7 @@ msgstr ""
 "représentent des positions politiques différentes qui sont en fondamental "
 "désaccord."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Thus, if you want to be neutral between free software and open source, and "
 "clear about them, the way to achieve that is to say &ldquo;FLOSS,&rdquo; not "
@@ -127,7 +127,7 @@ msgstr ""
 "l'open source, tout en étant parfaitement clair à leur sujet, utilisez "
 "« FLOSS » et non « FOSS »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "We in the free software movement don't use either of these terms, because we "
 "don't want to be neutral on the political question.  We stand for freedom, "
@@ -179,14 +179,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -197,8 +197,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2013, 2015, 2016 Richard Stallman"
-msgstr "Copyright &copy; 2013, 2015, 2016 Richard Stallman"
+msgid "Copyright &copy; 2013, 2015, 2016, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2013, 2015, 2016, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

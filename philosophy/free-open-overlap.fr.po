@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-open-overlap.html\n"
-"POT-Creation-Date: 2015-01-08 16:25+0000\n"
-"PO-Revision-Date: 2015-01-09 09:25+0100\n"
+"POT-Creation-Date: 2021-07-11 08:56+0000\n"
+"PO-Revision-Date: 2021-07-11 12:16+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -25,11 +25,11 @@ msgstr ""
 "Relation entre les catégories logicielles « libre » et « open source » - "
 "Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "How Free Software and Open Source Relate as Categories of Programs"
 msgstr "Relation entre les catégories logicielles « libre » et « open source »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Here's how <a href=\"/philosophy/open-source-misses-the-point.html\">free "
 "software and open source</a> relate as categories of programs:"
@@ -37,10 +37,9 @@ msgstr ""
 "Voici la relation entre les catégories logicielles <a href=\"/philosophy/"
 "open-source-misses-the-point.html\">« libre » et « open source »</a> :"
 
-#. type: Content of: <pre>
+#. type: Content of: <div><div><pre>
 #, no-wrap
 msgid ""
-"<code>\n"
 "       /----------------------------------------------\\\n"
 "      / |                                            | \\\n"
 "     /  |                                            |  \\\n"
@@ -58,9 +57,7 @@ msgid ""
 "       \\----------------------------------------------  /\n"
 "        |     tivoized (tyrant) devices          | O | /\n"
 "        ----------------------------------------------/\n"
-"</code>\n"
 msgstr ""
-"<code>\n"
 "       /----------------------------------------------\\\n"
 "      / |                                            | \\\n"
 "     /  |                                            |  \\\n"
@@ -80,9 +77,8 @@ msgstr ""
 "        |    appareils tivoïsés (tyranniques)    | A |  /\n"
 "        |                                        |   | /\n"
 "        ----------------------------------------------/\n"
-"</code>\n"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Among all programs that are open source, only a minuscule fraction are not "
 "free.  If the bottom row were drawn to scale, its text would have to be in a "
@@ -92,7 +88,7 @@ msgstr ""
 "n'est pas libre. Si la ligne du bas était à l'échelle, le texte devrait être "
 "en tout petits caractères, peut-être même illisible."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Tivoized or <a href=\"/philosophy/proprietary/proprietary-tyrants.html"
 "\">&ldquo;tyrant&rdquo; devices</a> contain nonfree executables made from "
@@ -104,7 +100,7 @@ msgstr ""
 "faits à partir de code source libre. Actuellement, en 2013, beaucoup "
 "d'appareils sous Android sont tyranniques, mais certains ne le sont pas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "&ldquo;O&rdquo; stands for &ldquo;other&rdquo; and refers to programs whose "
 "source is under licenses which are open source but not free.  Several such "
@@ -118,7 +114,7 @@ msgstr ""
 "Il y a longtemps que nous n'entendons plus parler de logiciels publiés sous "
 "ces licences. Nous ne savons pas si elles sont encore utilisées."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Most nonfree licenses are not open source either."
 msgstr "La plupart des licences non libres ne sont pas non plus open source."
 
@@ -148,14 +144,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -166,19 +162,19 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2015 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2015, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2015, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
