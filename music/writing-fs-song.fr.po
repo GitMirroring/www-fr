@@ -6,13 +6,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: writing-fs-song.html\n"
-"POT-Creation-Date: 2014-04-05 00:02+0000\n"
-"PO-Revision-Date: 2020-12-06 17:35+0100\n"
+"POT-Creation-Date: 2021-07-12 16:25+0000\n"
+"PO-Revision-Date: 2021-07-12 20:23+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 "X-Generator: Gtranslator 2.91.5\n"
@@ -23,11 +23,31 @@ msgstr ""
 "Écriture de la chanson du logiciel libre - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "GNU Home"
+msgstr "Accueil GNU"
+
+#. type: Content of: <div>
+msgid ""
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">GNU&nbsp;humor</a>&nbsp;/ <a "
+"href=\"/music/music.html#content\">Music</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">Humour GNU</a>&nbsp;/ <a "
+"href=\"/music/music.html#content\">Musique</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "Writing the Free Software Song"
 msgstr "Écriture de la chanson du logiciel libre"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "par Richard Stallman"
+
+#. type: Content of: <div><p>
 msgid ""
 "This is the story of the writing of the <a href=\"/music/free-software-song."
 "html\">Free Software Song</a>."
@@ -35,7 +55,7 @@ msgstr ""
 "Voici l'histoire de l'écriture de la <a href=\"/music/free-software-song.html"
 "\">chanson du logiciel libre</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I wrote the free software song at a <a href=\"#filksinging\"> filksinging</"
 "a> session at a science fiction convention, probably in early 1991.  It was "
@@ -58,7 +78,7 @@ msgstr ""
 "particulière en tête. J'ai dû réfléchir sur quel sujet écrire et quoi dire."
 
 # and how => et comment ? et que dire ?
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So first I asked myself, what topic should it be about? I realized I had "
 "never written a filksong relating to free software, so I figured it was time "
@@ -68,7 +88,7 @@ msgstr ""
 "je n'avais jamais écrit de filksong à propos du logiciel libre, donc je me "
 "suis dit qu'il était temps de le faire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Then I asked myself, what tune should I use? I realized I had never written "
 "a filksong using Bulgarian dance music, so I figured that would be a good "
@@ -81,7 +101,7 @@ msgstr ""
 "J'ai choisi pour base <cite>Sadi Moma</cite> parce que ce n'est ni trop "
 "rapide ni trop compliqué, et que c'est facile à chanter."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "By the time it was my turn again, the song was ready.  After I sang it, "
 "someone else in the room said, &ldquo;That has an anthem-like quality.  You "
@@ -94,21 +114,21 @@ msgstr ""
 "peu fait parler de moi, et j'avais été invité au congrès.)"
 
 # qualité d'un hymne ? Cela pourrait être un hymne ?
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "I said, &ldquo;I am Richard Stallman.&rdquo;"
 msgstr "J'ai dit : « Je suis Richard Stallman. »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "She said, &ldquo;Oh, I'm sorry!&rdquo;"
 msgstr "Elle a dit : « Oh, je suis désolée ! »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "I responded, &ldquo;Don't be sorry, it's fun when that happens.&rdquo;"
 msgstr ""
 "J'ai répondu : « Ne soyez pas désolée, c'est amusant quand ce genre de chose "
 "se produit. »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "&ldquo;filksong&rdquo; started as a typo for &ldquo;folksong&rdquo;, and the "
 "term was adopted in science fiction fandom to refer to the practice of "
@@ -153,14 +173,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -171,23 +191,19 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 1993, 2001, 2002, 2003, 2004, 2005, 2006, 2009, 2014 "
-"Richard Stallman"
-msgstr ""
-"Copyright &copy; 1993, 2001, 2002, 2003, 2004, 2005, 2006, 2009 Richard "
-"Stallman"
+msgid "Copyright &copy; 1993, 2001-2006, 2009, 2014, 2021 Richard Stallman"
+msgstr "Copyright &copy; 1993, 2001-2006, 2009, 2014, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

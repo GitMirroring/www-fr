@@ -2,12 +2,13 @@
 # Copyright (C) 2012 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Aurélien Rivière <aurelien.riv AT gmail.com>, 2012.
+# Thérèse Godefroy  <godef.th AT free.fr>, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: till_there_was_gnu.html\n"
-"POT-Creation-Date: 2015-07-19 23:25+0000\n"
-"PO-Revision-Date: 2015-07-20 09:40+0200\n"
+"POT-Creation-Date: 2021-07-12 16:56+0000\n"
+"PO-Revision-Date: 2021-07-12 20:23+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -20,96 +21,106 @@ msgstr ""
 msgid "'Till There Was GNU - GNU Project - Free Software Foundation"
 msgstr "Jusqu'au jour où vint GNU - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <style>
+#, no-wrap
+msgid ".chorus { font-style: normal; color: #572385; }\n"
+msgstr ".chorus { font-style: normal; color: #572385; }\n"
+
+#. type: Content of: <div><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "GNU Home"
+msgstr "Accueil GNU"
+
+#. type: Content of: <div>
+msgid ""
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">GNU&nbsp;humor</a>&nbsp;/ <a "
+"href=\"/music/music.html#content\">Music</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">Humour GNU</a>&nbsp;/ <a "
+"href=\"/music/music.html#content\">Musique</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "'Till There Was GNU"
 msgstr "Jusqu'au jour où vint GNU"
 
-#. type: Content of: <p>
-msgid "<strong>A Song Performed By Steven R. Champagne</strong>"
-msgstr "<strong>Une chanson interprétée par Steven R. Champagne</strong>"
+#. type: Content of: <div><address>
+msgid "by Steven R. Champagne"
+msgstr "par Steven R. Champagne"
 
 #. type: Content of: <div><p>
-msgid "there were applications"
-msgstr "Il y avait des applications"
+msgid "Sung to the tune of <cite>'Til There Was You</cite> by Meredith Wilson"
+msgstr "Sur la mélodie de <cite>'Til There Was You</cite>, de Meredith Wilson"
 
-#. type: Content of: <div><p>
-msgid "but I never saw their source code"
-msgstr "Mais je ne voyais pas leur code source."
+#. type: Content of: <div><div><p>
+msgid "There were applications,"
+msgstr "Il y avait des applications,"
 
-#. type: Content of: <div><p>
-msgid "no I never saw it at all"
+#. type: Content of: <div><div><p>
+msgid "but I never saw their source code."
+msgstr "mais je ne voyais pas leur code source."
+
+#. type: Content of: <div><div><p>
+msgid "No I never saw it at all"
 msgstr "Non je ne le vis jamais"
 
-#. type: Content of: <div><p>
-msgid "'till there was gnu"
-msgstr "Jusqu'au jour où vint GNU."
+#. type: Content of: <div><div><p>
+msgid "'till there was GNU."
+msgstr "jusqu'au jour où vint GNU."
 
-#. type: Content of: <div><p>
-msgid "there were profits so high"
+#. type: Content of: <div><div><p>
+msgid "There were profits so high;"
 msgstr "Il y avait des profits si élevés,"
 
-#. type: Content of: <div><p>
-msgid "it was all proprietary"
-msgstr "Ils étaient tous privateurs,"
+#. type: Content of: <div><div><p>
+msgid "it was all proprietary,"
+msgstr "ils étaient tous privateurs,"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "all behind a corporate wall"
-msgstr "Tous derrière le mur d'une entreprise,"
+msgstr "tous derrière le mur d'une entreprise."
 
-#. type: Content of: <div><p>
-msgid "then there were downloads"
+#. type: Content of: <div><div><p>
+msgid "Then there were downloads,"
 msgstr "Ensuite il y eut les téléchargements"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "and wonderful mail lists"
-msgstr "Et les merveilleuses listes de diffusion"
+msgstr "et les merveilleuses listes de diffusion"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "that informed me"
-msgstr "Qui m'informaient"
+msgstr "qui m'informaient"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "with sweet contributions"
-msgstr "Avec de douces contributions"
+msgstr "avec de douces contributions"
 
-#. type: Content of: <div><p>
-msgid "from all, it's true"
-msgstr "De tous, c'est vrai."
+#. type: Content of: <div><div><p>
+msgid "from all, it's true."
+msgstr "de tous, c'est vrai."
 
-#. type: Content of: <div><p>
-msgid "there was code all around"
-msgstr "Il y avait du code partout"
+#. type: Content of: <div><div><p>
+msgid "There was code all around,"
+msgstr "Il y avait du code partout,"
 
-#. type: Content of: <div><p>
-msgid "but I never heard of sharing"
-msgstr "Mais je n'entendais pas le mot partage."
+#. type: Content of: <div><div><p>
+msgid "but I never heard of sharing."
+msgstr "mais je n'entendais pas le mot partage."
 
-#. type: Content of: <div><p>
-msgid "no I never heard it at all"
+#. type: Content of: <div><div><p>
+msgid "No I never heard it at all"
 msgstr "Non, je ne l'entendis jamais"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "&lt;instruments&gt;"
 msgstr "&lt;instruments&gt;"
 
-#. type: Content of: <h3>
-msgid "Licensing"
-msgstr "Licence"
-
-#. type: Content of: <div><p>
-msgid "Copyright &copy; 2011 Steven R. Champagne"
-msgstr "Copyright &copy; 2011 Steven R. Champagne"
-
-#. type: Content of: <p>
-msgid ""
-"'Till There Was GNU by Steven R. Champagne is licensed under a <a href="
-"\"http://creativecommons.org/licenses/by-nc-nd/3.0/\">Creative Commons "
-"Attribution-NonCommercial-NoDerivs 3.0 Unported License.</a>"
-msgstr ""
-"« 'Till There Was GNU », par Steven R.Champagne, est sous licence <a href="
-"\"http://creativecommons.org/licenses/by-nc-nd/3.0/deed.fr\">Creative "
-"Commons attribution, pas d’utilisation commerciale, pas de modification, 3.0 "
-"non transposée (CC BY-NC-ND 3.0)</a>."
+#. type: Content of: <div><div><p>
+msgid "'till there was GNU&hellip;"
+msgstr "jusqu'au jour où vint GNU&hellip;"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -137,14 +148,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -155,16 +166,19 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
+msgid "Copyright &copy; 2011 Steven R. Champagne (the lyrics)"
+msgstr "Copyright &copy; 2011 Steven R. Champagne (paroles)"
+
+#. type: Content of: <div><p>
 msgid ""
-"'Till There Was GNU by Steven R. Champagne is licensed under a <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/3.0/"
-"\">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License."
-"</a>"
+"The lyrics on this page are licensed under the <a href=\"http://"
+"creativecommons.org/licenses/by-nc-nd/3.0/\">Creative Commons Attribution-"
+"NonCommercial-NoDerivs 3.0 Unported License</a>."
 msgstr ""
-"« 'Till There Was GNU », par Steven R.Champagne, est sous licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/3.0/deed.fr"
-"\">Creative Commons attribution, pas d’utilisation commerciale, pas de "
-"modification, 3.0 non transposée (CC BY-NC-ND 3.0)</a>."
+"Les paroles de chanson présentées sur cette page sont sous licence <a href="
+"\"http://creativecommons.org/licenses/by-nc-nd/3.0/deed.fr\">Creative "
+"Commons attribution, pas d’utilisation commerciale, pas de modification, 3.0 "
+"non transposée (CC BY-NC-ND 3.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

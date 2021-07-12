@@ -3,18 +3,18 @@
 # This file is distributed under the same license as the original article.
 # Cette traduction semble avoir été soumise par webmaster AT linux-libre.net en 2005 (RT#239411)
 # Denis Barbier <bouzim AT gmail.com>, 2012.
-# Thérèse Godefroy <godef.th AT free.fr>, 2015.
+# Thérèse Godefroy <godef.th AT free.fr>, 2015, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: fun/jokes/nobody-owns.html\n"
-"POT-Creation-Date: 2015-08-21 01:55+0000\n"
-"PO-Revision-Date: 2020-12-06 11:59+0100\n"
+"POT-Creation-Date: 2021-07-12 17:55+0000\n"
+"PO-Revision-Date: 2021-07-12 20:23+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  \n"
 "X-Generator: Gtranslator 2.91.5\n"
@@ -24,105 +24,184 @@ msgid "Nobody owns this song - GNU Project - Free Software Foundation"
 msgstr ""
 "Personne ne possède cette chanson - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
-msgid "Nobody owns this song"
-msgstr "Personne ne possède cette chanson"
-
-#. type: Content of: <pre>
+#. .lyrics { display: inline-block; }
+#. .chorus { color: #6b3699; }
+#. type: Content of: <style>
 #, no-wrap
 msgid ""
-"Nobody owns this song\n"
 "\n"
-"(Title Subject To Change, Of Course)\n"
-"------------------------------------\n"
-"\n"
-"\n"
-"This song, it has no author\n"
-"No place of origin;\n"
-"This song, it has no ending,\n"
-"And it never did begin;\n"
-"This song can travel anywhere;\n"
-"There's no place it don't belong . . .\n"
-"'Cause nobody owns this song.\n"
-"\n"
-"Melodies can be added\n"
-"In major or minor keys.\n"
-"All parts can be rearranged\n"
-"In any ways you please.\n"
-"Many things can be done to this,\n"
-"And none of them are wrong,\n"
-"'Cause nobody owns this song.\n"
-"\n"
-"You can play it on the lute,\n"
-"You can play it on the flute,\n"
-"You can play it on the slide trombone.\n"
-"You can play it on the harp,\n"
-"You can play it flat or sharp,\n"
-"You can play it on the saxophone.\n"
-"You can play it real high or\n"
-"You can play it real low,\n"
-"You can play it real fast or\n"
-"You can play it real slow,\n"
-"You can play it real short or\n"
-"You can play it real long,\n"
-"'Cause nobody owns this song.\n"
+".reduced-width { width: 40em; }\n"
+"@media (min-width: 25em) {\n"
+"  .lyrics { display: block; box-sizing: border-box;\n"
+"            width: 28em; max-width: 100%; }\n"
+"  .s1  { padding-left:  3%; }\n"
+"  .s2  { padding-left:  6%; }\n"
+"  .s3  { padding-left:  9%; }\n"
+"  .s4  { padding-left: 12%; }\n"
+"  .s5  { padding-left: 15%; }\n"
+"  .s6  { padding-left: 18%; }\n"
+"  .s7  { padding-left: 21%; }\n"
+"  .s8  { padding-left: 24%; }\n"
+"  .s9  { padding-left: 27%; }\n"
+"  .s10 { padding-left: 30%; }\n"
+"  .s11 { padding-left: 33%; }\n"
+"}\n"
 msgstr ""
-"Personne ne possède cette chanson\n"
 "\n"
-"(titre modifiable, naturellement)\n"
-"---------------------------------\n"
-"\n"
-"\n"
-"Cette chanson n'a pas d'auteur,\n"
-"Pas de lieu d'origine ;\n"
-"Cette chanson, n'a pas de fin\n"
-"Et n'a jamais commencé ;\n"
-"Cette chanson peut voyager n'importe où ;\n"
-"Aucun lieu ne lui est interdit...\n"
-"Car personne ne possède cette chanson.\n"
-"\n"
-"Des mélodies peuvent être ajoutées\n"
-"Dans des tons majeurs ou mineurs.\n"
-"Toutes les parties peuvent être réarrangées\n"
-"De toutes les manières qui vous plairont.\n"
-"Beaucoup de choses peuvent lui être faites\n"
-"Et aucune d'elles n'est mauvaise,\n"
-"Car personne ne possède cette chanson.\n"
-"\n"
-"Vous pouvez la jouer sur un luth,\n"
-"Vous pouvez la jouer à la flûte,\n"
-"Vous pouvez la jouer au trombone à coulisse.\n"
-"Vous pouvez la jouer sur une harpe,\n"
-"Vous pouvez la jouer avec bémol ou dièse,\n"
-"Vous pouvez la jouer au saxophone.\n"
-"Vous pouvez la jouer vraiment fort ou\n"
-"Vous pouvez la jouer doucement,\n"
-"Vous pouvez la jouer vraiment vite ou\n"
-"Vous pouvez la jouer lentement,\n"
-"vous pouvez la jouer raccourcie ou\n"
-"vous pouvez la jouer rallongée,\n"
-"Car personne ne possède cette chanson.\n"
+".reduced-width { width: 45em; }\n"
+"@media (min-width: 28em) {\n"
+"  .lyrics { display: block; box-sizing: border-box;\n"
+"            width: 29em; max-width: 100%; }\n"
+"  .s1  { padding-left:  3%; }\n"
+"  .s2  { padding-left:  6%; }\n"
+"  .s3  { padding-left:  9%; }\n"
+"  .s4  { padding-left: 12%; }\n"
+"  .s5  { padding-left: 15%; }\n"
+"  .s6  { padding-left: 18%; }\n"
+"  .s7  { padding-left: 21%; }\n"
+"  .s8  { padding-left: 24%; }\n"
+"  .s9  { padding-left: 27%; }\n"
+"  .s10 { padding-left: 30%; }\n"
+"  .s11 { padding-left: 33%; }\n"
+"}\n"
+
+#. type: Content of: <p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <p><a><img>
+msgid "GNU Home"
+msgstr "Accueil GNU"
 
 #. type: Content of: <p>
 msgid ""
-"<a href=\"/fun/humor.html\">Other humor</a> in the GNU Humor Collection."
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">GNU humor</a>&nbsp;/ <a href="
+"\"/music/music.html#content\">Music</a>&nbsp;/"
 msgstr ""
-"<a href=\"/fun/humor.html\">D'autres blagues</a> dans la collection d'humour "
-"GNU."
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">Humour GNU</a>&nbsp;/ <a "
+"href=\"/music/music.html#content\">Musique</a>&nbsp;/"
 
-#. type: Content of: <div><h4>
+#. type: Content of: <div><h2>
+msgid "Nobody owns this song"
+msgstr "Personne ne possède cette chanson"
+
+#. type: Content of: <div><div><p>
+msgid "(Title Subject To Change, Of Course)"
+msgstr "(Titre modifiable, naturellement)"
+
+#. type: Content of: <div><div><p>
+msgid "This song, it has no author"
+msgstr "Cette chanson n'a pas d'auteur,"
+
+#. type: Content of: <div><div><p>
+msgid "<span class=\"s1\">No place of origin;</span>"
+msgstr "<span class=\"s1\">Pas de lieu d'origine ;</span>"
+
+#. type: Content of: <div><div><p>
+msgid "<span class=\"s2\">This song, it has no ending,</span>"
+msgstr "<span class=\"s2\">Cette chanson, n'a pas de fin</span>"
+
+#. type: Content of: <div><div><p>
+msgid "<span class=\"s3\">And it never did begin;</span>"
+msgstr "<span class=\"s3\">Et n'a jamais commencé ;</span>"
+
+#. type: Content of: <div><div><p>
+msgid "<span class=\"s4\">This song can travel anywhere;</span>"
+msgstr "<span class=\"s4\">Cette chanson peut voyager n'importe où ;</span>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<span class=\"s5\">There's no place it don't belong&nbsp;.&nbsp;.&nbsp;.</"
+"span>"
+msgstr "<span class=\"s5\">Aucun lieu ne lui est interdit . . .</span>"
+
+#. type: Content of: <div><div><p>
+msgid "<span class=\"chorus\">'Cause nobody owns this song.</span>"
+msgstr "<span class=\"chorus\">Car personne ne possède cette chanson.</span>"
+
+#. type: Content of: <div><div><p>
+msgid "Melodies can be added"
+msgstr "Des mélodies peuvent être ajoutées"
+
+#. type: Content of: <div><div><p>
+msgid "<span class=\"s1\">In major or minor keys.</span>"
+msgstr "<span class=\"s1\">Dans des tons majeurs ou mineurs.</span>"
+
+#. type: Content of: <div><div><p>
+msgid "<span class=\"s2\">All parts can be rearranged</span>"
+msgstr "<span class=\"s2\">Toutes les parties peuvent être réarrangées</span>"
+
+#. type: Content of: <div><div><p>
+msgid "<span class=\"s3\">In any ways you please.</span>"
+msgstr "<span class=\"s3\">De toutes les manières qui vous plairont.</span>"
+
+#. type: Content of: <div><div><p>
+msgid "<span class=\"s4\">Many things can be done to this,</span>"
+msgstr "<span class=\"s4\">Beaucoup de choses peuvent lui être faites</span>"
+
+#. type: Content of: <div><div><p>
+msgid "<span class=\"s5\">And none of them are wrong,</span>"
+msgstr "<span class=\"s5\">Et aucune d'elles n'est mauvaise,</span>"
+
+#. type: Content of: <div><div><p>
+msgid "You can play it on the lute,"
+msgstr "Vous pouvez la jouer sur un luth,"
+
+#. type: Content of: <div><div><p>
+msgid "<span class=\"s1\">You can play it on the flute,</span>"
+msgstr "<span class=\"s1\">Vous pouvez la jouer à la flûte,</span>"
+
+#. type: Content of: <div><div><p>
+msgid "<span class=\"s2\">You can play it on the slide trombone.</span>"
+msgstr "<span class=\"s2\">Vous pouvez la jouer au trombone à coulisse.</span>"
+
+#. type: Content of: <div><div><p>
+msgid "<span class=\"s3\">You can play it on the harp,</span>"
+msgstr "<span class=\"s3\">Vous pouvez la jouer sur une harpe,</span>"
+
+#. type: Content of: <div><div><p>
+msgid "<span class=\"s4\">You can play it flat or sharp,</span>"
+msgstr "<span class=\"s4\">Vous pouvez la jouer avec bémol ou dièse,</span>"
+
+#. type: Content of: <div><div><p>
+msgid "<span class=\"s5\">You can play it on the saxophone.</span>"
+msgstr "<span class=\"s5\">Vous pouvez la jouer au saxophone.</span>"
+
+#. type: Content of: <div><div><p>
+msgid "<span class=\"s6\">You can play it real high or</span>"
+msgstr "<span class=\"s6\">Vous pouvez la jouer vraiment fort ou</span>"
+
+#. type: Content of: <div><div><p>
+msgid "<span class=\"s7\">You can play it real low,</span>"
+msgstr "<span class=\"s7\">Vous pouvez la jouer doucement,</span>"
+
+#. type: Content of: <div><div><p>
+msgid "<span class=\"s8\">You can play it real fast or</span>"
+msgstr "<span class=\"s8\">Vous pouvez la jouer vraiment vite ou</span>"
+
+#. type: Content of: <div><div><p>
+msgid "<span class=\"s9\">You can play it real slow,</span>"
+msgstr "<span class=\"s9\">Vous pouvez la jouer lentement,</span>"
+
+#. type: Content of: <div><div><p>
+msgid "<span class=\"s10\">You can play it real short or</span>"
+msgstr "<span class=\"s10\">Vous pouvez la jouer raccourcie ou</span>"
+
+#. type: Content of: <div><div><p>
+msgid "<span class=\"s11\">You can play it real long,</span>"
+msgstr "<span class=\"s11\">Vous pouvez la jouer rallongée,</span>"
+
+#. type: Content of: <div><div><h3>
 msgid "Disclaimer"
 msgstr "Renonciation au copyright"
 
-#. type: Content of: <div><p>
-msgid "Nobody knows from where this song was obtained!"
+#. type: Content of: <div><div><p>
+msgid ""
+"Nobody knows from where this song was obtained! The Free Software Foundation "
+"claims no copyright on it."
 msgstr ""
 "La <i>Free Software Foundation</i> ne revendique pas de copyright sur cette "
-"chanson,"
-
-#. type: Content of: <div><p>
-msgid "The Free Software Foundation claims no copyrights on this song."
-msgstr "car personne ne sait d'où elle vient !"
+"chanson, car personne ne sait d'où elle vient !"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -150,14 +229,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
