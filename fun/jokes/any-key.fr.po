@@ -2,66 +2,85 @@
 # Copyright (C) 2012 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Aurélien Rivière <aurelien.riv AT gmail.com>, 2012.
+# Thérèse Godefroy <godef.th AT free.fr>, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: any-key.html\n"
-"POT-Creation-Date: 2015-09-13 16:56+0000\n"
-"PO-Revision-Date: 2020-12-06 11:59+0100\n"
-"Last-Translator: Aurélien Rivière <aurelien.riv AT gmail.com>\n"
+"POT-Creation-Date: 2021-07-14 16:25+0000\n"
+"PO-Revision-Date: 2021-07-14 19:12+0200\n"
+"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid "Where is any-key? - GNU Project - Free Software Foundation"
 msgstr ""
 "Où est « n'importe quelle touche » ? - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "GNU Home"
+msgstr "Accueil GNU"
+
+#. type: Content of: <div>
+msgid ""
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">GNU humor</a>&nbsp;/ <a href="
+"\"/fun/humor.html#Computing\">Computing</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">Humour GNU</a>&nbsp;/ <a "
+"href=\"/fun/humor.html#Computing\">Informatique</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "Where is any-key???"
 msgstr "Où est « n'importe quelle touche » ???"
 
-#. type: Content of: <pre>
-#, no-wrap
-msgid ""
-"From: Thomas Henneke\n"
-"To: gnu@gnu.org\n"
-"Subject: humor\n"
-"Date: Fri, 21 Feb 2003 22:05:41 +0100\n"
-"\n"
-"Here is an old one, but I still like it:\n"
-"\n"
-"- Please press any key!\n"
-"- Where is the any-key?\n"
-msgstr ""
-"De: Thomas Henneke\n"
-"À: gnu@gnu.org\n"
-"Sujet: humour\n"
-"Date: Fri, 21 Feb 2003 22:05:41 +0100\n"
-"\n"
-"En voici une classique, mais elle me fait toujours rire :\n"
-"\n"
-"- Veuillez appuyer sur n'importe quelle touche !\n"
-"- Où est « n'importe quelle touche » ?\n"
+#. type: Content of: <div><p>
+msgid "From: Thomas Henneke"
+msgstr "De Thomas Henneke"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><p>
+msgid "To: gnu@gnu.org"
+msgstr "À gnu@gnu.org"
+
+#. type: Content of: <div><p>
+msgid "Subject: humor"
+msgstr "Sujet : humour"
+
+#. type: Content of: <div><p>
+msgid "Date: Fri, 21 Feb 2003 22:05:41 +0100"
+msgstr "Date: vendredi 21 fév. 2003, 22:05:41 +0100"
+
+#. type: Content of: <div><p>
+msgid "Here is an old one, but I still like it:"
+msgstr "En voici une classique, mais elle me fait toujours rire :"
+
+#. type: Content of: <div><p>
+msgid "- Please press any key!"
+msgstr "- Veuillez appuyer sur n'importe quelle touche !"
+
+#. type: Content of: <div><p>
+msgid "- Where is the any-key?"
+msgstr "- Où est « n'importe quelle touche » ?"
+
+#. type: Content of: <div><div><h3>
 msgid "Disclaimer"
 msgstr "Renonciation au copyright"
 
-#. type: Content of: <p>
-msgid "The joke on this page was submitted by Thomas Henneke (thanks, Thomas)."
+#. type: Content of: <div><div><p>
+msgid ""
+"The joke on this page was obtained from the FSF's email archives of the GNU "
+"Project. The Free Software Foundation claims no copyright on it."
 msgstr ""
-"La blague de cette page a été proposée par Thomas Henneke (merci, Thomas)."
-
-#. type: Content of: <p>
-msgid "The Free Software Foundation does not claim copyright for this joke."
-msgstr ""
-"La <i>Free Software Foundation</i> ne revendique pas de copyright sur cette "
-"blague."
+"La blague ci-dessus provient des archives de courriel du projet GNU "
+"maintenues par la FSF. La <i>Free Software Foundation</i> ne revendique pas "
+"de copyright sur ce texte."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -89,14 +108,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="

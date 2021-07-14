@@ -2,42 +2,50 @@
 # Copyright (C) 2012 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Aurélien Rivière <aurelien.riv AT gmail.com>, 2012.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: dna.html\n"
-"POT-Creation-Date: 2015-08-27 16:07+0000\n"
-"PO-Revision-Date: 2020-12-06 11:59+0100\n"
-"Last-Translator: Aurélien Rivière <aurelien.riv AT gmail.com>\n"
+"POT-Creation-Date: 2021-07-14 16:25+0000\n"
+"PO-Revision-Date: 2021-07-14 19:12+0200\n"
+"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
-msgid "Human DNA as C code"
-msgstr "L'ADN humain en code C"
+msgid "Human DNA as C code - GNU Project - Free Software Foundation"
+msgstr ""
+"L'ADN humain transposé en code C - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "GNU Home"
+msgstr "Accueil GNU"
+
+#. type: Content of: <div>
+msgid ""
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">GNU humor</a>&nbsp;/ <a href="
+"\"/fun/humor.html#Software\">Software</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">Humour GNU</a>&nbsp;/ <a "
+"href=\"/fun/humor.html#Computing\">Informatique</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "Human DNA deciphered into C code!"
 msgstr "L'ADN humain transposé en code C !"
 
-#. type: Content of: <blockquote><pre>
-#, no-wrap
-msgid ""
-"Newsgroups: rec.humor.funny\n"
-"Subject: A little C programming&hellip;\n"
-"Keywords: computer, smirk\n"
-"Date: 4 Aug 91 23:30:05 GMT\n"
-msgstr ""
-"Groupe de discussion: rec.humor.funny\n"
-"Sujet: Un peu de programmation C&hellip;\n"
-"Mots-clés: ordinateur, sourire en coin\n"
-"Date: 4 Aug 91 23:30:05 GMT\n"
+#. type: Content of: <div><address>
+msgid "by Mathew Murphy"
+msgstr "par Mathew Murphy"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><p>
 msgid ""
 "For many years molecular biologists have been mystified by the fact that "
 "very little of an organism's DNA seems to serve any useful function."
@@ -46,19 +54,19 @@ msgstr ""
 "qu'une infime partie de l'ADN de l'organisme semble remplir une fonction "
 "utile."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><p>
 msgid "I have solved the mystery."
 msgstr "J'ai résolu ce mystère."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><p>
 msgid ""
 "The reason why only 30% of human DNA performs any useful function is that "
 "the rest of it is comments."
 msgstr ""
-"La raison pour laquelle 30% seulement de l'ADN humain remplit une quelconque "
-"fonction utile est que le reste n'est que commentaires."
+"La raison pour laquelle 30 % seulement de l'ADN humain remplit une "
+"quelconque fonction utile est que le reste n'est que commentaires."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><p>
 msgid ""
 "Once we decode a typical human genome, we see that the contents begin as "
 "follows:"
@@ -66,7 +74,7 @@ msgstr ""
 "Après avoir décodé un génome humain typique, nous observons que son contenu "
 "commence ainsi :"
 
-#. type: Content of: <blockquote><pre>
+#. type: Content of: <div><pre>
 #, no-wrap
 msgid ""
 "/* HUMAN_DNA.H\n"
@@ -85,7 +93,7 @@ msgstr ""
 " * (C) Dieu\n"
 " */\n"
 
-#. type: Content of: <blockquote><pre>
+#. type: Content of: <div><pre>
 #, no-wrap
 msgid ""
 "/* Revision history:\n"
@@ -131,7 +139,7 @@ msgstr ""
 " * 6004-11-04 16:11  2.1  Index affiné pour s'adapter au trou central du CD. \n"
 " */\n"
 
-#. type: Content of: <blockquote><pre>
+#. type: Content of: <div><pre>
 #, no-wrap
 msgid ""
 "/* Standard definitions\n"
@@ -150,7 +158,7 @@ msgstr ""
 "#define MASSE 68\n"
 "#define TYPE caucasien\n"
 
-#. type: Content of: <blockquote><pre>
+#. type: Content of: <div><pre>
 #, no-wrap
 msgid ""
 "/* Include inherited traits from parent DNA files.\n"
@@ -181,7 +189,7 @@ msgstr ""
 "#include \"batard.h\"\n"
 "#endif\n"
 
-#. type: Content of: <blockquote><pre>
+#. type: Content of: <div><pre>
 #, no-wrap
 msgid ""
 "/* Set up sex-specific functions and variables\n"
@@ -206,7 +214,7 @@ msgstr ""
 " */\n"
 "#include &lt;sexe.h&gt;\n"
 "\n"
-"/* Workaround -- Je changerai la conception de cette partie et j'en ferai une\n"
+"/* Workaround -- Je reverrai cette partie et j'en ferai une\n"
 " * bibliothèque correcte prochainement.\n"
 " */\n"
 "struct organes_genitaux\n"
@@ -220,7 +228,7 @@ msgstr ""
 "#endif\n"
 "   }\n"
 
-#. type: Content of: <blockquote><pre>
+#. type: Content of: <div><pre>
 #, no-wrap
 msgid ""
 "/* Initialization bootstrap routine -- called before DNA duplication.\n"
@@ -233,7 +241,7 @@ msgstr ""
 " */\n"
 "ADN *zygote_initialisation(Sperme *, Ovule *);\n"
 
-#. type: Content of: <blockquote><pre>
+#. type: Content of: <div><pre>
 #, no-wrap
 msgid ""
 "/* MAIN INITIALIZATION CODE\n"
@@ -254,55 +262,33 @@ msgstr ""
 " */\n"
 "Caracteristiques *rechercher_phenotype(Identifiant *i);\n"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><p>
 msgid "&hellip;and so on."
 msgstr "&hellip;et ainsi de suite"
 
-#. type: Content of: <blockquote><p>
-msgid "[ Note that God uses three-space tabs ]"
+#. type: Content of: <div><p>
+msgid "[ Note that God uses three-space tabs&nbsp;]"
 msgstr "[ Notez que Dieu utilise des tabulations de trois espaces ]"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
+msgid "<a href=\"/fun/jokes/dna.txt\">Original email</a>"
+msgstr "<a href=\"/fun/jokes/dna.txt\">Message d'origine</a>"
+
+#. type: Content of: <div><div><p>
 msgid ""
-"The original author of this joke is Mathew Murphy <a href=\"mailto:"
-"meta@pobox.com\">&lt;meta@pobox.com&gt;</a>.  He has kindly released this "
-"joke under GPL.  Thanks Mathew!"
+"Source:&nbsp; <a href=\"https://www.netfunny.com/rhf/jokes/91q3/genome.html"
+"\"> rec.humor.funny</a> (1991)."
 msgstr ""
-"L'auteur original de cette blague est Mathew Murphy <a href=\"mailto:"
-"meta@pobox.com\">&lt;meta@pobox.com&gt;</a>. Il a gentiment publié cette "
-"blague sous GPL. Merci Mathew !"
+"Source : <a href=\"https://www.netfunny.com/rhf/jokes/91q3/genome.html\">rec."
+"humor.funny</a> (1991)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"This joke is also available in <a href=\"/fun/jokes/dna\">plain text</a>."
+"&lt;<a href=\"mailto:meta@pobox.com\">Mathew Murphy</a>&gt; kindly released "
+"this joke under GPL. Thanks Mathew!"
 msgstr ""
-"Cette blague est aussi disponible en <a href=\"/fun/jokes/dna\">texte brut</"
-"a>."
-
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/fun/humor.html\">Other humor</a> in the GNU Humor Collection."
-msgstr ""
-"<a href=\"/fun/humor.html\">D'autres blagues</a> dans la collection d'humour "
-"GNU."
-
-#. type: Content of: <h4>
-msgid "Disclaimer"
-msgstr "Renonciation au copyright"
-
-#. type: Content of: <p>
-msgid ""
-"The joke on this page was obtained from the FSF's <a href=\"http://lists.gnu."
-"org/\">email archives</a> of the GNU Project."
-msgstr ""
-"La blague figurant sur cette page provient des <a href=\"http://lists.gnu."
-"org/\">archives de courriels du projet GNU</a> maintenues par la FSF."
-
-#. type: Content of: <p>
-msgid "The Free Software Foundation claims no copyright on this joke."
-msgstr ""
-"La <i>Free Software Foundation</i> ne revendique pas de copyright sur cette "
-"blague."
+"&lt;<a href=\"mailto:meta@pobox.com\">Mathew Murphy</a>&gt; a aimablement "
+"publié cette blague sous GPL. Merci Mathew !"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -318,29 +304,35 @@ msgstr ""
 "permis d'élaborer un peu sur la deuxième solution. ;-) <a href=\"#TransNote1-"
 "rev\" class=\"nounderline\">&#8593;</a></li></ol>"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"Please send FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
-"\"><em>gnu@gnu.org</em></a>.  There are also <a href=\"/contact/\">other "
-"ways to contact</a> the FSF."
-msgstr ""
-"Veuillez envoyer les requêtes concernant la FSF et GNU à <a href=\"mailto:"
-"gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>. Il existe aussi <a href=\"/contact/"
-"\">d'autres moyens de contacter</a> la FSF."
-
-#. type: Content of: <div><p>
-msgid ""
-"Please send broken links and other corrections or suggestions to <a href="
-"\"mailto:webmasters@gnu.org\"><em>webmasters@gnu.org</em></a>."
-msgstr ""
-"Veuillez indiquer (en anglais) les liens orphelins et autres corrections ou "
-"suggestions à <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
 "org&gt;</a>."
+msgstr ""
+"Veuillez envoyer les requêtes concernant la FSF et GNU à &lt;<a href="
+"\"mailto:gnu@gnu.org\">gnu@gnu.org</a>&gt;. Il existe aussi <a href=\"/"
+"contact/\">d'autres moyens de contacter</a> la FSF. Les liens orphelins et "
+"autres corrections ou suggestions peuvent être signalés à &lt;<a href="
+"\"mailto:webmasters@gnu.org\">webmasters@gnu.org</a>&gt;."
 
-#. type: Content of: <div><p>
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -351,17 +343,18 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1991 Mathew Murphy."
-msgstr "Copyright &copy; 1991 Mathew Murphy."
+msgid "Copyright &copy; 1991 Mathew Murphy"
+msgstr "Copyright &copy; 1991 Mathew Murphy"
 
 #. type: Content of: <div><p>
 msgid ""
-"Human DNA deciphered into C code! by Mathew Murphy is licensed under the <a "
-"rel=\"license\" href=\"/licenses/gpl.html\">GNU General Public License</a>."
+"&ldquo;Human DNA deciphered into C code!&rdquo; is licensed under the <a rel="
+"\"license\" href=\"/licenses/gpl.html\">GNU General Public License</a>, "
+"version&nbsp;2 or later."
 msgstr ""
-"<cite>Human DNA deciphered into C code!</cite>, par Mathew Murphy, est mis à "
-"disposition selon les termes de la <a rel=\"license\" href=\"/licenses/gpl."
-"html\">licence publique générale GNU</a>."
+"<cite>Human DNA deciphered into C code!</cite> est disponible selon les "
+"termes de la <a rel=\"license\" href=\"/licenses/gpl.html\">licence publique "
+"générale GNU</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

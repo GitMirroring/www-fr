@@ -2,44 +2,61 @@
 # Copyright (C) 2012 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Aurélien Rivière <aurelien.riv AT gmail.com>, 2012.
+# Thérèse Godefroy <godef.th AT free.fr>, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: deadbeef.html\n"
-"POT-Creation-Date: 2015-09-13 16:56+0000\n"
-"PO-Revision-Date: 2020-12-06 11:59+0100\n"
-"Last-Translator: Aurélien Rivière <aurelien.riv AT gmail.com>\n"
+"POT-Creation-Date: 2021-07-14 16:25+0000\n"
+"PO-Revision-Date: 2021-07-14 19:12+0200\n"
+"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid "Dead Beef? - GNU Project - Free Software Foundation"
 msgstr "Dead Beef ? - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "GNU Home"
+msgstr "Accueil GNU"
+
+#. type: Content of: <div>
+msgid ""
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">GNU humor</a>&nbsp;/ <a href="
+"\"/fun/humor.html#Computing\">Computing</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">Humour GNU</a>&nbsp;/ <a "
+"href=\"/fun/humor.html#Computing\">Informatique</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "Dead Beef?"
 msgstr "Dead Beef ?"
 
-#. type: Content of: <blockquote><pre>
-#, no-wrap
-msgid ""
-"From: Wolfgang Formann\n"
-"Subject: More jokes\n"
-"Date: Sun, 21 Nov 1999 20:30:42 +0100\n"
-msgstr ""
-"De: Wolfgang Formann\n"
-"Sujet: D'autres blagues\n"
-"Date: Sun, 21 Nov 1999 20:30:42 +0100\n"
+#. type: Content of: <div><p>
+msgid "From: Wolfgang Formann"
+msgstr "De : Wolfgang Formann"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><p>
+msgid "Subject: More jokes"
+msgstr "Sujet : D'autres blagues"
+
+#. type: Content of: <div><p>
+msgid "Date: Sun, 21 Nov 1999 20:30:42 +0100"
+msgstr "Date : dimanche 21 nov. 1999 20:30:42 +0100"
+
+#. type: Content of: <div><p>
 msgid "This was true with the ancient IBM 6150/6151!"
 msgstr "Ceci était vrai avec les antiques IBM 6150 et 6151 !"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><p>
 msgid ""
 "When you looked at the registers of the CPU with their debugger, all "
 "uninitialized registers had the hexcode 0xdeadbeef!"
@@ -48,7 +65,7 @@ msgstr ""
 "registres non initialisés avaient le code hexadécimal <code>0xdeadbeef</"
 "code> !<a id=\"TransNote1-rev\" href=\"#TransNote1\"><sup>1</sup></a>"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><p>
 msgid ""
 "I do not know if this is still true with Power-PC, but I did laugh much that "
 "time (somewhen in the late 80's)."
@@ -56,30 +73,27 @@ msgstr ""
 "Je ne sais pas si c'est toujours vrai avec les Power-PC, mais j'ai beaucoup "
 "ri à ce moment-là (un jour indéterminé de la fin des années 80)."
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/fun/humor.html\">Other humor</a> in the GNU Humor Collection."
-msgstr ""
-"<a href=\"/fun/humor.html\">D'autres blagues</a> dans la collection d'humour "
-"GNU."
-
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Disclaimer"
 msgstr "Renonciation au copyright"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"The joke on this page was obtained from the FSF's <a href=\"http://lists.gnu."
-"org/\">email archives</a> of the GNU Project."
+"The joke on this page was obtained from the FSF's email archives of the GNU "
+"Project. The Free Software Foundation claims no copyright on it."
 msgstr ""
-"La blague figurant sur cette page provient des <a href=\"http://lists.gnu."
-"org/\">archives de courriels du projet GNU</a> maintenues par la FSF."
+"La blague ci-dessus provient des archives de courriel du projet GNU "
+"maintenues par la FSF. La <i>Free Software Foundation</i> ne revendique pas "
+"de copyright sur ce texte."
 
-#. type: Content of: <p>
-msgid "The Free Software Foundation claims no copyright on this joke."
+#. type: Content of: <div><div><p>
+msgid ""
+"A similar joke was submitted to <a href=\"https://www.netfunny.com/rhf/"
+"jokes/91q1/deadb.html\">rec.humor.funny</a> by Judy Anderson in 1991."
 msgstr ""
-"La <i>Free Software Foundation</i> ne revendique pas de copyright sur cette "
-"blague."
+"Une blague similaire, poposée par Judy Anderson in 1991, est publiée sur <a "
+"href=\"https://www.netfunny.com/rhf/jokes/91q1/deadb.html\">rec.humor.funny</"
+"a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -112,14 +126,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
