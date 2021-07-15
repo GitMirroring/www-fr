@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: users-lightbulb.html\n"
-"POT-Creation-Date: 2019-07-24 12:25+0000\n"
-"PO-Revision-Date: 2020-12-06 11:59+0100\n"
+"POT-Creation-Date: 2021-07-15 15:56+0000\n"
+"PO-Revision-Date: 2021-07-15 18:08+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -26,30 +26,50 @@ msgstr ""
 "Combien faut-il d'utilisateurs de GNU/Linux pour changer une ampoule ? - "
 "Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "GNU Home"
+msgstr "Accueil GNU"
+
+#. type: Content of: <div>
+msgid ""
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">GNU humor</a>&nbsp;/ <a href="
+"\"/fun/humor.html#Unclassified\">Unclassified</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">Humour GNU</a>&nbsp;/ <a "
+"href=\"/fun/humor.html#Unclassified\">Non classé</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "How many GNU/Linux users are needed to change a light bulb?"
 msgstr "Combien faut-il d'utilisateurs de GNU/Linux pour changer une ampoule ?"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><address>
+msgid "by Andr&eacute; Ferreira Machado"
+msgstr "par André Ferreira Machado"
+
+#. type: Content of: <div><ul><li>
 msgid "1 to post a thread in a mailing list telling the bulb has burnt."
 msgstr ""
 "1 pour démarrer un fil sur une liste de discussion, signalant que l'ampoule "
 "a grillé ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "1 to suggest to try to turn the lamp on through command lines."
 msgstr "1 pour suggérer d'essayer la ligne de commande pour allumer la lampe ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "1 to complain that the user broke the thread."
 msgstr ""
 "1 pour se plaindre que l'utilisateur précédent a rompu le fil(-ament) ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "1 to ask what new bulb will he install."
 msgstr "1 pour demander quelle nouvelle ampoule il pense installer ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "1 to advise that we shouldn't use the word burn for meaning a broken "
 "lightbulb, because it would mean that the bulb was set on fire and that it "
@@ -61,14 +81,14 @@ msgstr ""
 "plutôt de dire que l'ampoule s'est cassée en raison d'un excès de courant "
 "électrique ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "25 to suggest to install all the kinds of existing and imaginable lightbulbs."
 msgstr ""
 "25 pour suggérer d'installer toutes sortes d'ampoules existantes ou "
 "imaginables ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "5 who say that the burnt bulb is an upstream issue that doesn't belong to "
 "the distro. There's an open bug on the bulb's developer mail list."
@@ -77,15 +97,15 @@ msgstr ""
 "pas à la distribution ; un bogue a d'ailleurs été ouvert sur la liste de "
 "discussion des développeurs de l'ampoule ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "1 noob to suggest to install a Microsoft lightbulb."
 msgstr "1 noob pour suggérer d'installer une ampoule Microsoft ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "250 to flood the noob's mail address."
 msgstr "250 pour spammer l'adresse perso du noob ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "300 to say that a Microsoft lightbulb would turn blue and that you'd had to "
 "reboot continuously to get back to normal."
@@ -93,7 +113,7 @@ msgstr ""
 "300 pour dire qu'une ampoule Microsoft virerait au bleu et qu'on devrait "
 "continuellement redémarrer pour revenir à la normale ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "1 former GNU/Linux user who still frequents the forum, to suggest to install "
 "an Apple iBulb, which has a fresh and innovating design and it costs $250."
@@ -102,7 +122,7 @@ msgstr ""
 "suggérer d'installer une  iAmpoule d'Apple, d'une conception moderne et "
 "innovante, qui coûte 250 $ ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "20 to say that iBulbs aren't free, and that they have less functions than a "
 "20 times cheaper standard lightbulb."
@@ -110,11 +130,11 @@ msgstr ""
 "20 pour dire que les iAmpoules ne sont pas libres et qu'elles ont moins de "
 "fonctions que des ampoules normales 20 fois moins chères ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "15 to suggest to install a national lightbulb."
 msgstr "15 pour suggérer d'installer une ampoule fabriquée localement ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "30 to say that national lightbulbs are crippled remasters of foreign "
 "lightbulbs and that they don't bring anything new."
@@ -122,17 +142,17 @@ msgstr ""
 "30 pour dire que les ampoules locales sont de pâles copies d'ampoules "
 "étrangères et qu'elles n'apportent rien de nouveau ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "23 to argue if it must be a white or a transparent bulb."
 msgstr "23 pour discuter sur le choix d'une ampoule blanche ou transparente ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "1 to remind everyone that the right name is GNU/Lightbulb."
 msgstr ""
 "1 pour rappeler à tout le monde que son appellation correcte est GNU/"
 "Ampoule ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "1 to say that lightbulbs are a Winbugs users thing and that real GNU/Linux "
 "users aren't afraid of the dark."
@@ -140,15 +160,15 @@ msgstr ""
 "1 pour dire que les ampoules sont des trucs pour les utilisateurs de "
 "Windaube et que les vrais utilisateurs de GNU/Linux n'ont pas peur du noir ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "1 to announce finally which will be the model of the installed bulb."
 msgstr "1 pour annoncer enfin quel modèle d'ampoule sera installé ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "217 to discard the chosen model and suggest another."
 msgstr "217 pour rejeter le modèle choisi et en suggérer un autre ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "6 to complain that the chosen lightbulb has proprietary elements, and that "
 "another should be used."
@@ -156,20 +176,20 @@ msgstr ""
 "6 pour se plaindre que l'ampoule choisie possède des éléments privateurs et "
 "qu'il faut en utiliser une autre ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "20 to say that a 100% free bulb, isn't compatible with the lamp switch."
 msgstr ""
 "20 pour dire qu'une ampoule 100% libre n'est pas compatible avec "
 "l'interrupteur de la lampe ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The same previous 6, to suggest to change the switch for a compatible one."
 msgstr ""
 "les mêmes 6 que précédemment, pour suggérer de remplacer ce dernier par un "
 "interrupteur compatible ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "1 to yell out: &ldquo;STOP ARGUING AND CHANGE THAT LIGHTBULB FOR GOD'S SAKE!"
 "&rdquo;"
@@ -177,7 +197,7 @@ msgstr ""
 "1 pour s'écrier: « ARRÊTEZ DE DISCUTER ET CHANGEZ CETTE AMPOULE, BON "
 "DIEU ! » ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "350 to ask the previous user what God is he talking about, and that if he "
 "has scientific proofs of His existence."
@@ -185,13 +205,13 @@ msgstr ""
 "350 pour demander à l'utilisateur précédent de quel Dieu il parle et s'il a "
 "des preuves scientifiques de son existence ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "1 to explain how electricity works and why a light bulb is inefficient."
 msgstr ""
 "1 pour expliquer comment fonctionne l'électricité et pourquoi les ampoules "
 "sont inefficaces ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "1 to say that we can't trust in corporation-made bulbs and that we should "
 "trust in community-made bulbs."
@@ -200,7 +220,7 @@ msgstr ""
 "par les entreprises et que nous devons faire confiance aux ampoules "
 "fabriquées par la communauté ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "1 to post a link to an ODF file explaining how to build a lightbulb from "
 "scratch."
@@ -208,7 +228,7 @@ msgstr ""
 "1 pour publier un lien vers un fichier ODF expliquant comment construire une "
 "ampoule à partir de zéro ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "14 to complain about the format of the previous file and asking to send it "
 "in txt or LaTeX."
@@ -216,7 +236,7 @@ msgstr ""
 "14 pour se plaindre du format du fichier précédent et demander de l'envoyer "
 "en txt ou en LaTeX ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "5 to say that they didn't like the taken decision and that they'll fork the "
 "house's electric installation and install a better lamp."
@@ -225,48 +245,33 @@ msgstr ""
 "vont dériver l'installation électrique de la maison pour installer une "
 "meilleure lampe ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "1 to post a series of commands to put to change the lightbulb."
 msgstr ""
 "1 pour poster une série de commandes à utiliser pour changer l'ampoule ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "1 to comment that he executed the commands and had an error message."
 msgstr ""
 "1 pour signaler en commentaire qu'il a exécuté les commandes et a reçu un "
 "message d'erreur ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "1 to advise that the commands must be executed as root."
 msgstr ""
 "1 pour lui conseiller d'exécuter les commande en tant qu'utilisateur root ;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "And finally:"
 msgstr "et enfin&hellip;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The father of the first user, who while everyone was discussing, went to the "
 "shop and bought the cheapest lightbulb."
 msgstr ""
 "le père du premier utilisateur qui, pendant que tout le monde discutait, est "
 "allé au magasin et a acheté l'ampoule la moins chère."
-
-#. type: Content of: <h3>
-msgid "Disclaimer"
-msgstr "Avis de non-responsabilité"
-
-#. type: Content of: <p>
-msgid ""
-"The joke on this page was mailed to the FSF by its author Andre Machado."
-msgstr "Cette blague a été envoyée à la FSF par son auteur, André Machado."
-
-#. type: Content of: <p>
-msgid "The Free Software Foundation claims no copyright on this joke."
-msgstr ""
-"La <i>Free Software Foundation</i> ne revendique pas de copyright sur cette "
-"blague."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -294,14 +299,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -312,16 +317,16 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014 Andre Machado"
-msgstr "Copyright &copy; 2014 Andre Machado"
+msgid "Copyright &copy; 2013 Andre Machado"
+msgstr "Copyright &copy; 2013 Andre Machado"
 
 #. type: Content of: <div><p>
 msgid ""
-"This page is licensed under a <a rel=\"license\" href=\"http://"
+"The joke on this page is licensed under the <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
 "NoDerivatives 4.0 International License</a>."
 msgstr ""
-"Cette page peut être utilisée suivant les conditions de la licence <a rel="
+"Cette blague peut être utilisée suivant les conditions de la licence <a rel="
 "\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
 "\">Creative Commons attribution, pas de modification, 4.0 internationale "
 "(CC BY-ND 4.0)</a>."
