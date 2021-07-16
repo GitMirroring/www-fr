@@ -6,13 +6,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: uruguay.html\n"
-"POT-Creation-Date: 2014-03-14 04:36+0000\n"
-"PO-Revision-Date: 2013-08-13 16:21+0200\n"
+"POT-Creation-Date: 2021-07-16 16:56+0000\n"
+"PO-Revision-Date: 2021-07-16 19:26+0200\n"
 "Last-Translator: Maxime Paquin <maxime.paquin AT gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 "X-Generator: Gtranslator 2.91.5\n"
@@ -21,15 +21,15 @@ msgstr ""
 msgid "Lesson from Uruguay - GNU Project - Free Software Foundation"
 msgstr "Enseignement tiré de l'Uruguay - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Lesson from Uruguay"
 msgstr "Enseignement tiré de l'Uruguay"
 
-#. type: Content of: <blockquote><p>
-msgid "22 July 2013"
-msgstr "22 juillet 2013"
+#. type: Content of: <div><p>
+msgid "<em>22 July 2013</em>"
+msgstr "<em>22 juillet 2013</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A bill now under consideration in Uruguay showed the Free Software "
 "Foundation an important point that was missing in our list of recommended "
@@ -44,7 +44,7 @@ msgstr ""
 "logiciel ou en passe commande, ce développement doit être possible dans un "
 "environnement logiciel 100 % libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This requirement avoids problems that can really happen. Even if the source "
 "code of the solution is delivered as free software, and can run on a 100%-"
@@ -55,7 +55,7 @@ msgstr ""
 "logiciel libre et peut fonctionner sur un système GNU/Linux 100 % libre, il "
 "pourrait être restreint par d'autres moyens."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For example, compiling its source code could require a nonfree program.  "
 "Even editing its source code could require a nonfree program. Both of these "
@@ -73,21 +73,21 @@ msgstr ""
 "judicieux que ce projet de loi rejette ces méthodes de développement de "
 "solutions informatiques pour l’État."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Taking this into consideration, the FSF has updated its recommendations for "
 "government policies to suggest that contracts require that solutions be "
-"developable in 100%-free-software environments.  (See <a href=\"/philosophy/"
-"government-free-software.html\"> http://www.gnu.org/philosophy/government-"
-"free-software.html</a>.)"
+"developable in 100%-free-software environments. (See &ldquo;<a href=\"/"
+"philosophy/government-free-software.html\">Measures Governments Can Use to "
+"Promote Free Software</a>.&rdquo;)"
 msgstr ""
 "Compte tenu de cela, la Fondation pour le logiciel libre a mis à jour sa "
 "liste de recommandations concernant les politiques publiques, de manière à y "
 "inclure l'obligation, pour l'État, de spécifier dans ses contrats que les "
 "solutions informatiques doivent pouvoir être développées dans des "
-"environnements 100 % libres (voir <a href=\"/philosophy/government-free-"
-"software.html\">http://www.gnu.org/philosophy/government-free-software.fr."
-"html</a>)."
+"environnements 100 % libres (voir « <a href=\"/philosophy/government-free-"
+"software.html\">Mesures à la portée des gouvernements pour promouvoir le "
+"logiciel libre</a> »)."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -115,14 +115,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -133,19 +133,19 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2013 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2013 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2013, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2013, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

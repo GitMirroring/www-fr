@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: your-freedom-needs-free-software.html\n"
-"POT-Creation-Date: 2017-08-27 14:56+0000\n"
-"PO-Revision-Date: 2020-12-07 14:06+0100\n"
+"POT-Creation-Date: 2021-07-16 16:56+0000\n"
+"PO-Revision-Date: 2021-07-16 19:26+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -26,11 +26,15 @@ msgstr ""
 "Votre liberté a besoin du logiciel libre - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Your Freedom Needs Free Software"
 msgstr "Votre liberté a besoin du logiciel libre"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "par Richard Stallman"
+
+#. type: Content of: <div><p>
 msgid ""
 "Many of us know that governments can threaten the human rights of software "
 "users through censorship and surveillance of the Internet.  Many do not "
@@ -46,10 +50,10 @@ msgstr ""
 "outil, ils supposent qu'il leur obéit alors qu'en fait il obéit souvent à "
 "d'autres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The software running in most computers is <a href=\"/philosophy/categories."
-"html#ProprietarySoftware\">non-free, proprietary software</a>: controlled by "
+"html#ProprietarySoftware\">nonfree, proprietary software</a>: controlled by "
 "software companies, not by its users.  Users can't check what these programs "
 "do, nor prevent them from doing what they don't want.  Most people accept "
 "this because they have seen no other way, but it is simply wrong to give "
@@ -65,14 +69,14 @@ msgstr ""
 "comment il pourrait en être autrement, mais c'est pourtant une erreur que de "
 "laisser aux développeurs un pouvoir sur les ordinateurs dont ils se servent."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This unjust power, as usual, tempts its wielders to further misdeeds. If a "
 "computer talks to a network, and you don't control the software in it, it "
 "can easily spy on you.  Microsoft Windows spies on users; for instance, it "
 "reports what words a user searches for in her own files, and what other "
 "programs are installed.  RealPlayer spies too; it reports what the user "
-"plays.  Cell phones are full of non-free software, which spies.  Cell phones "
+"plays.  Cell phones are full of nonfree software, which spies.  Cell phones "
 "send out localizing signals even when &lsquo;off&rsquo;, many can send out "
 "your precise GPS location whether you wish or not, and some models can be "
 "switched on remotely as listening devices.  Users can't fix these malicious "
@@ -93,7 +97,7 @@ msgstr ""
 "peut pas corriger ces fonctions malveillantes, car ce n'est pas lui qui en a "
 "le contrôle."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some proprietary software is designed to restrict and attack its users.  <a "
 "href=\"http://badvista.org/\">Windows Vista</a> is a big advance in this "
@@ -123,22 +127,22 @@ msgstr ""
 "lui aussi, des fonctions dont le but est de restreindre les possibilités de "
 "ses utilisateurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Microsoft has installed back doors for the US government's use in the past "
-"(<a href=\"http://www.heise.de/tp/artikel/5/5263/1.html\">reported on heise."
+"(<a href=\"https://www.heise.de/tp/artikel/5/5263/1.html\">reported on heise."
 "de</a>).  We cannot check whether they have successors today.  Other "
 "proprietary programs may or may not have back doors, but since we cannot "
 "check them, we cannot trust them."
 msgstr ""
 "Dans le passé, Microsoft a installé des portes dérobées <i>[backdoors]</i> "
-"au service du gouvernement américain (<a href=\"http://www.heise.de/tp/"
+"au service du gouvernement américain (<a href=\"https://www.heise.de/tp/"
 "artikel/5/5263/1.html\">rapporté sur heise.de</a>). Nous ne pouvons pas "
 "vérifier si elles ont des successeurs aujourd'hui. Les autres programmes "
 "privateurs peuvent comporter des portes dérobées, ou non, mais puisque nous "
 "ne pouvons pas le vérifier, nous ne pouvons pas leur faire confiance."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The only way to assure that your software is working for you is to insist on "
 "Free/Libre software.  This means users get the source code, are free to "
@@ -146,9 +150,9 @@ msgid ""
 "changes.  The <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux system</a>, "
 "developed <a href=\"/gnu/gnu.html\">specifically for users' freedom</a>, "
 "includes office applications, multimedia, games, and everything you really "
-"need to run a computer.  See <a href=\"http://www.gnewsense.org/\">gNewSense."
-"org</a> for a <a href=\"/distros/distros.html\">totally Free/Libre version "
-"of GNU/Linux</a>."
+"need to run a computer.  See <a href=\"https://www.gnewsense.org/"
+"\">gNewSense.org</a> for a <a href=\"/distros/distros.html\">totally Free/"
+"Libre version of GNU/Linux</a>."
 msgstr ""
 "La seule façon de vous assurer que votre logiciel travaille pour vous est "
 "d'exiger du logiciel libre.<a id=\"TransNote2-rev\" href="
@@ -158,11 +162,11 @@ msgstr ""
 "linux-and-gnu.html\">système GNU/Linux</a>, développé <a href=\"/gnu/gnu.html"
 "\">spécialement en vue de la liberté de l'utilisateur</a>, inclut des "
 "applications bureautiques et multimédias, des jeux et tout ce dont on a "
-"besoin en pratique sur un ordinateur. Voir <a href=\"http://www.gnewsense."
-"org/\">gNewSense</a> pour une <a href=\"/distros/distros.html\">version "
+"besoin en pratique sur un ordinateur. Voir <a href=\"https://www.gnewsense."
+"org/\">gNewSense.org</a> pour une <a href=\"/distros/distros.html\">version "
 "totalement libre de GNU/Linux</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A special problem occurs when activists for social change use proprietary "
 "software, because its developers, who control it, may be companies they wish "
@@ -180,7 +184,7 @@ msgstr ""
 "contrôle de ce que nous pouvons dire, et à qui. Cela met notre liberté en "
 "danger dans tous les domaines de la vie."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There is also danger in using a company's server to do your word processing "
 "or email&mdash;and not just if you are in China, as US lawyer Michael "
@@ -197,7 +201,7 @@ msgstr ""
 "d'admettre que c'était intentionnel, jusqu'à ce qu'un de ses employés fasse "
 "un lapsus. Springmann dut renoncer à récupérer ses données."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The US is not the only state that doesn't respect human rights, so keep your "
 "data on your own computer, and your backups under your own custody&mdash;and "
@@ -243,14 +247,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -261,8 +265,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2007, 2017 Richard Stallman"
-msgstr "Copyright &copy; 2007, 2017 Richard Stallman"
+msgid "Copyright &copy; 2007, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2007, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

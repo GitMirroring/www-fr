@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnutella.html\n"
-"POT-Creation-Date: 2019-03-09 16:56+0000\n"
-"PO-Revision-Date: 2019-05-01 15:50+0200\n"
+"POT-Creation-Date: 2021-07-16 16:56+0000\n"
+"PO-Revision-Date: 2021-07-16 19:26+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -23,11 +23,11 @@ msgstr ""
 msgid "Regarding Gnutella - GNU Project - Free Software Foundation"
 msgstr "À propos de Gnutella - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Regarding Gnutella"
 msgstr "À propos de Gnutella"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "&ldquo;Gnutella&rdquo; is, at present, the name for a protocol for "
 "distributed file sharing, mostly used for music files.  The name also "
@@ -43,7 +43,7 @@ msgstr ""
 "et l'histoire de Gnutella, veuillez vous référer à <a href=\"http://fr."
 "wikipedia.org/wiki/Gnutella\">l'article de Wikipédia</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In any case, the name was originally a word play on &ldquo;GNU&rdquo; (the "
 "original developers planned to release their code under the GNU GPL, and may "
@@ -63,7 +63,7 @@ msgstr ""
 "a>. Nous avons demandé aux développeurs de Gnutella de changer le nom pour "
 "éviter la confusion, peut être le feront-ils un jour."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There are a number of free software programs that implement the Gnutella "
 "protocol, such as <a href=\"http://gtk-gnutella.sourceforge.net/en/\">Gtk-"
@@ -87,7 +87,7 @@ msgstr ""
 "archive.org/web/20180616130316/https://gnunet.org/compare\">comparaison des "
 "protocoles</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The Free Software Foundation is concerned with the freedom to copy and "
 "change software; music is outside our scope.  But there is a partial "
@@ -107,7 +107,7 @@ msgstr ""
 "third-party-ideas.html\">articles écrits par d'autres personnes</a> vers "
 "lesquels nous avons des liens sont tout aussi pertinents."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "No matter what sort of published information is being shared, we urge people "
 "to reject the assumption that some person or company has a natural right to "
@@ -148,14 +148,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -166,11 +166,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2004, 2005, 2007, 2016, 2017, 2018, 2019 Free Software "
-"Foundation, Inc."
-msgstr ""
-"Copyright &copy; 2004, 2005, 2007, 2016-2019 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2000, 2001, 2004, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2000, 2001, 2004, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
