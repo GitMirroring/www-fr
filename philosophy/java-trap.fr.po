@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: java-trap.html\n"
-"POT-Creation-Date: 2015-10-03 16:56+0000\n"
-"PO-Revision-Date: 2018-09-06 21:52+0200\n"
+"POT-Creation-Date: 2021-07-18 11:25+0000\n"
+"PO-Revision-Date: 2021-07-18 14:23+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -26,33 +26,34 @@ msgid ""
 msgstr ""
 "Libre mais entravé - le piège Java - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Free but Shackled - The Java Trap"
 msgstr "Libre mais entravé - le piège Java"
 
-#. type: Content of: <p>
-msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
-msgstr "par <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <div><blockquote><h3>
+#. type: Content of: <div><h3>
 msgid "Headnote"
 msgstr "Note préliminaire"
 
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <div><p>
 msgid ""
 "Since this article was first published, Sun (now part of Oracle)  has <a "
-"href=\"http://www.fsf.org/news/fsf-welcomes-gpl-java.html\">relicensed</a> "
+"href=\"https://www.fsf.org/news/fsf-welcomes-gpl-java.html\">relicensed</a> "
 "most of its Java platform reference implementation under the GNU General "
 "Public License, and there is now a free development environment for Java.  "
 "Thus, the Java language as such is no longer a trap."
 msgstr ""
 "Depuis la parution de cet article, Sun (qui fait maintenant partie d'Oracle) "
-"a <a href=\"http://www.fsf.org/news/fsf-welcomes-gpl-java.html\">fait passer "
-"l'essentiel de l'implémentation de référence de sa plateforme Java sous la "
-"licence publique générale GNU</a> ; il y a donc maintenant un environnement "
-"de développement libre pour Java. Ainsi le langage Java n'est plus un piège."
+"a <a href=\"https://www.fsf.org/news/fsf-welcomes-gpl-java.html\">fait "
+"passer l'essentiel de l'implémentation de référence de sa plateforme Java "
+"sous la licence publique générale GNU</a> ; il y a donc maintenant un "
+"environnement de développement libre pour Java. Ainsi le langage Java n'est "
+"plus un piège."
 
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <div><p>
 msgid ""
 "You must be careful, however, because not every Java platform is free.  Sun "
 "continues distributing an executable Java platform which is nonfree, and "
@@ -62,7 +63,7 @@ msgstr ""
 "ne sont pas libres. Sun continue à distribuer une plateforme Java exécutable "
 "qui n'est pas libre et d'autres sociétés font de même."
 
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <div><p>
 msgid ""
 "The free environment for Java is called IcedTea; the source code Sun freed "
 "is included in that.  So that is the one you should use.  Many GNU/Linux "
@@ -77,7 +78,7 @@ msgstr ""
 "octobre 2015 : l'implémentation libre de Java s'appelle OpenJDK dans "
 "beaucoup de distributions GNU/Linux.)"
 
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <div><p>
 msgid ""
 "To reliably ensure your Java programs run fine in a free environment, you "
 "need to develop them using IcedTea.  Theoretically the Java platforms should "
@@ -88,7 +89,7 @@ msgstr ""
 "IcedTea. Théoriquement les plateformes Java devraient être compatibles, mais "
 "elles ne le sont pas à 100%."
 
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <div><p>
 msgid ""
 "In addition, there are nonfree programs with &ldquo;Java&rdquo; in their "
 "name, such as JavaFX, and there are nonfree Java packages you might find "
@@ -105,7 +106,7 @@ msgstr ""
 "ajoutée en octobre 2015 : un programme libre remplaçant JavaFX a été publié "
 "sous le nom d'OpenJFX.)"
 
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <div><p>
 msgid ""
 "Aside from those Java specifics, the general issue described here remains "
 "important, because any nonfree library or programming platform can cause a "
@@ -117,7 +118,7 @@ msgstr ""
 "libre peut causer un problème similaire. Nous devons retenir la leçon de "
 "l'histoire de Java de manière à éviter d'autres pièges à l'avenir."
 
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <div><p>
 msgid ""
 "Please also see: <a href=\"/philosophy/javascript-trap.html\"> The "
 "JavaScript Trap</a>."
@@ -125,11 +126,11 @@ msgstr ""
 "Veuillez aussi consulter : <a href=\"/philosophy/javascript-trap.html\">Le "
 "piège JavaScript</a>."
 
-#. type: Content of: <p>
-msgid "April 12, 2004"
-msgstr "Le 12 avril 2004"
+#. type: Content of: <div><div><p>
+msgid "<em>April 12, 2004</em>"
+msgstr "<em>Le 12 avril 2004</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If your program is free software, it is basically ethical&mdash;but there is "
 "a trap you must be on guard for. Your program, though in itself free, may be "
@@ -142,25 +143,25 @@ msgstr ""
 "dépend. Comme c'est avec les programmes Java que ce problème est aujourd'hui "
 "le plus évident, nous l'avons nommé le « piège Java »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "A program is free software if its users have certain crucial freedoms. "
 "Roughly speaking, they are: the freedom to run the program, the freedom to "
 "study and change the source, the freedom to redistribute the source and "
-"binaries, and the freedom to publish improved versions. (See <a href=\"/"
-"philosophy/free-sw.html\">http://www.gnu.org/philosophy/free-sw.html</a>.)  "
-"Whether any given program in source form is free software depends solely on "
-"the meaning of its license."
+"binaries, and the freedom to publish improved versions. (See the <a href=\"/"
+"philosophy/free-sw.html\">Free Software Definition</a>.)  Whether any given "
+"program in source form is free software depends solely on the meaning of its "
+"license."
 msgstr ""
 "Un programme est un logiciel libre si ses utilisateurs possèdent certaines "
 "libertés fondamentales. En gros, il s'agit de : la liberté d'exécuter le "
 "programme, la liberté d'en étudier et modifier le code source, la liberté "
 "d'en redistribuer les fichiers source et binaires, et la liberté d'en "
-"publier des versions améliorées (voir <a href=\"/philosophy/free-sw.html"
-"\">http://www.gnu.org/philosophy/free-sw.html</a>). Qu'un programme donné "
-"soit un logiciel libre ne dépend que de la signification de sa licence."
+"publier des versions améliorées (voir la <a href=\"/philosophy/free-sw.html"
+"\">définition du logiciel libre</a>). Qu'un programme donné soit un logiciel "
+"libre ne dépend que de la signification de sa licence."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Whether the program can be used in the Free World, used by people who mean "
 "to live in freedom, is a more complex question. This is not determined by "
@@ -188,7 +189,7 @@ msgstr ""
 "de ses fonctionnalités. D'une façon ou d'une autre, tout ou partie du "
 "programme ne peut pas fonctionner sans elles."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If some of a program's dependencies are nonfree, this means that all or part "
 "of the program is unable to run in an entirely free system&mdash;it is "
@@ -204,7 +205,7 @@ msgstr ""
 "ne sert pas à grand-chose s'il ne s'exécute pas. Ce programme est un "
 "logiciel libre, mais il est en fait entravé par des dépendances non libres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This problem can occur in any kind of software, in any language. For "
 "instance, a free program that only runs on Microsoft Windows is clearly "
@@ -231,11 +232,12 @@ msgstr ""
 "par l'attrait du langage, ils sous-estiment le problème des dépendances et "
 "tombent dans le piège Java."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Sun's implementation of Java is nonfree. The standard Java libraries are "
 "nonfree also. We do have free implementations of Java, such as the <a href="
-"\"http://gcc.gnu.org/java/\">GNU Compiler for Java</a> (GCJ) and <a href=\"/"
+"\"https://objectcomputing.com/resources/publications/sett/january-2003-gcj-"
+"the-gnu-compiler-for-java\"> GNU Compiler for Java</a> (GCJ) and <a href=\"/"
 "software/classpath\">GNU Classpath</a>, but they don't support all the "
 "features yet. We are still catching up."
 msgstr ""
@@ -243,12 +245,13 @@ msgstr ""
 "sont aussi non libres ; c'est une adaptation du code privateur "
 "(propriétaire) de Sun. Les bibliothèques de base de Java sont non libres "
 "aussi. Bien sûr, nous disposons d'implémentations libres de Java, comme le "
-"<a href=\"http://gcc.gnu.org/java/\">compilateur GNU pour Java</a> (GCJ) et "
-"<a href=\"/software/classpath\">GNU Classpath</a>, mais ils ne gèrent pas "
-"encore toutes les fonctionnalités. Nous sommes encore en train de rattraper "
-"le retard."
+"<a href=\"https://objectcomputing.com/resources/publications/sett/"
+"january-2003-gcj-the-gnu-compiler-for-java\">compilateur GNU pour Java</a> "
+"(GCJ) et <a href=\"/software/classpath\">GNU Classpath</a>, mais ils ne "
+"gèrent pas encore toutes les fonctionnalités. Nous sommes encore en train de "
+"rattraper le retard."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If you develop a Java program on Sun's Java platform, you are liable to use "
 "Sun-only features without even noticing. By the time you find this out, you "
@@ -265,7 +268,7 @@ msgstr ""
 "votre programme sera tombé dans le piège Java ; il sera inutilisable dans le "
 "monde du Libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The reliable way to avoid the Java Trap is to have only a free "
 "implementation of Java on your system. Then if you use a Java feature or "
@@ -278,30 +281,29 @@ msgstr ""
 "encore, vous vous en rendrez compte immédiatement et vous pourrez réécrire "
 "ce code tout de suite."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Sun continues to develop additional &ldquo;standard&rdquo; Java libraries, "
 "and nearly all of them are nonfree; in many cases, even a library's "
 "specification is a trade secret, and Sun's latest license for these "
 "specifications prohibits release of anything less than a full implementation "
-"of the specification. (See <a href=\"http://jcp.org/aboutJava/"
-"communityprocess/JSPA2.pdf\">http://jcp.org/aboutJava/communityprocess/JSPA2."
-"pdf</a> and <a href=\"http://jcp.org/aboutJava/communityprocess/final/jsr129/"
-"j2me_pb-1_0-fr-spec-license.html\">http://jcp.org/aboutJava/communityprocess/"
-"final/jsr129/j2me_pb-1_0-fr-spec-license.html</a> for examples.)"
+"of the specification. (See the <a href=\"https://jcp.org/aboutJava/"
+"communityprocess/JSPA2.pdf\"> Java Specification Participation Agreement</a> "
+"and the <a href=\"https://jcp.org/aboutJava/communityprocess/final/jsr129/"
+"j2me_pb-1_0-fr-spec-license.html\"> J2ME&trade; Personal Basis Profile "
+"Specification</a> for examples.)"
 msgstr ""
 "Sun continue de créer des bibliothèques « de base » supplémentaires, presque "
 "toutes non libres ; dans bien des cas, même les spécifications de la "
 "bibliothèque sont des secrets de fabrication. De plus, la dernière licence "
 "de Sun concernant ces spécifications interdit la publication d'une mise en "
-"œuvre partielle de ces dernières (voir par exemple <a href=\"http://jcp.org/"
-"aboutJava/communityprocess/JSPA2.pdf\">http://jcp.org/aboutJava/"
-"communityprocess/JSPA2.pdf</a> [en] et <a href=\"http://jcp.org/aboutJava/"
-"communityprocess/final/jsr129/j2me_pb-1_0-fr-spec-license.html\">http://jcp."
-"org/aboutJava/communityprocess/final/jsr129/j2me_pb-1_0-fr-spec-license."
-"html</a> [en])."
+"œuvre partielle de ces dernières (voir par exemple <a href=\"https://jcp.org/"
+"aboutJava/communityprocess/JSPA2.pdf\"><i>Java Specification Participation "
+"Agreement</i></a> et <a href=\"https://jcp.org/aboutJava/communityprocess/"
+"final/jsr129/j2me_pb-1_0-fr-spec-license.html\"><i>J2ME&trade; Personal "
+"Basis Profile Specification</i></a>)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Fortunately, that specification license does permit releasing an "
 "implementation as free software; others who receive the library can be "
@@ -319,7 +321,7 @@ msgstr ""
 "L'utilisation d'un tel modèle impliquerait la parution de versions "
 "incomplètes, ce qui est interdit aux personnes ayant lu les spécifications."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In the early days of the free software movement, it was impossible to avoid "
 "depending on nonfree programs. Before we had the GNU C compiler, every C "
@@ -351,7 +353,7 @@ msgstr ""
 "système GNU/Linux, nous pouvons à présent exécuter ces programmes sur des "
 "plateformes libres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The situation is different today. We now have powerful free operating "
 "systems and many free programming tools. Whatever job you want to do, you "
@@ -369,30 +371,28 @@ msgstr ""
 "vient pas à l'esprit. La plus simple des solutions concernant le piège Java "
 "est d'apprendre aux gens à ne pas tomber dedans."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To keep your Java code safe from the Java Trap, install a free Java "
 "development environment and use it. More generally, whatever language you "
 "use, keep your eyes open, and check the free status of programs your code "
 "depends on. The easiest way to verify that a program is free is by looking "
-"for it in the Free Software Directory (<a href=\"http://www.fsf.org/directory"
-"\">http://www.fsf.org/directory</a>).  If a program is not in the directory, "
-"you can check its license(s)  against the list of free software licenses (<a "
-"href=\"/licenses/license-list.html\">http://www.gnu.org/licenses/license-"
-"list.html</a>)."
+"for it in the <a href=\"https://www.fsf.org/directory\">Free Software "
+"Directory</a>.  If a program is not in the directory, you can check its "
+"license(s)  against the <a href=\"/licenses/license-list.html\">list of free "
+"software licenses</a>."
 msgstr ""
 "Afin de protéger votre code Java du piège Java, installez un environnement "
 "de développement Java libre et utilisez-le. De façon générale, quel que soit "
 "le langage que vous utilisiez, ouvrez l'œil et assurez-vous du statut libre "
 "des programmes dont dépend le code de vos programmes. La façon la plus "
 "simple de vérifier si ce programme est libre est de s'assurer qu'il possède "
-"une entrée dans le répertoire du logiciel libre (<a href=\"http://www.fsf."
-"org/directory\">http://www.fsf.org/directory</a>). Si un programme n'est pas "
-"dans ce répertoire, vous pouvez vérifier si la licence qui l'accompagne est "
-"dans la liste des licences de logiciel libre (<a href=\"/licenses/license-"
-"list.html\">http://www.gnu.org/licenses/license-list.html</a>)."
+"une entrée dans le <a href=\"https://www.fsf.org/directory\">répertoire du "
+"logiciel libre</a>. Si un programme n'est pas dans ce répertoire, vous "
+"pouvez vérifier si la licence qui l'accompagne est dans la <a href=\"/"
+"licenses/license-list.html\">liste des licences de logiciel libre</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "We are trying to rescue the trapped Java programs, so if you like the Java "
 "language, we invite you to help in developing GNU Classpath. Trying your "
@@ -413,11 +413,11 @@ msgstr ""
 "en sorte que l'application que vous écrivez en ce moment soit conçue pour "
 "fonctionner dans un environnement libre dès le départ."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "See also:"
 msgstr "Voir également :"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"/philosophy/sun-in-night-time.html\">The Curious Incident of Sun "
 "in the Night-Time</a>"
@@ -451,14 +451,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -469,8 +469,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2004, 2010, 2015 Richard Stallman"
-msgstr "Copyright &copy; 2004, 2010, 2015 Richard Stallman"
+msgid "Copyright &copy; 2004, 2010, 2015, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2004, 2010, 2015, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

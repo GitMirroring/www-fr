@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: microsoft.html\n"
-"POT-Creation-Date: 2018-01-01 05:58+0000\n"
-"PO-Revision-Date: 2020-12-06 19:30+0100\n"
+"POT-Creation-Date: 2021-07-18 09:55+0000\n"
+"PO-Revision-Date: 2021-07-18 14:23+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -23,19 +23,19 @@ msgid "Is Microsoft the Great Satan? - GNU Project - Free Software Foundation"
 msgstr ""
 "Microsoft est-il le Grand Satan ? - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Is Microsoft the Great Satan?"
 msgstr "Microsoft est-il le Grand Satan ?"
 
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <div><p>
 msgid ""
-"This article was given a major rewrite in 2009.  The <a href=\"/philosophy/"
-"microsoft-old.html\">old version</a> is also available."
+"<em>This article was given a major rewrite in 2009.  The <a href=\"/"
+"philosophy/microsoft-old.html\">old version</a> is also available.</em>"
 msgstr ""
-"Cet article a été complètement remanié en 2009. L'<a href=\"/philosophy/"
-"microsoft-old.html\">ancienne version</a> est également disponible."
+"<em>Cet article a été complètement remanié en 2009. L'<a href=\"/philosophy/"
+"microsoft-old.html\">ancienne version</a> est également disponible.</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Many people think of Microsoft as the monster menace of the software "
 "industry.  There is even a specific campaign to boycott Microsoft.  This "
@@ -47,7 +47,7 @@ msgstr ""
 "elle. Ce sentiment s'est accru depuis que Microsoft a exprimé activement son "
 "hostilité à l'encontre du logiciel libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In the free software movement, our perspective is different.  We see that "
 "Microsoft is doing something that mistreats software users: making software "
@@ -67,7 +67,7 @@ msgstr ""
 "sociétés n'ont pas réussi à dominer plus d'utilisateurs que Microsoft, ce "
 "n'est pas faute d'avoir essayé."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This is not meant to excuse Microsoft.  Rather, it is meant as a reminder "
 "that Microsoft is the natural development of a software industry based on <a "
@@ -83,7 +83,7 @@ msgstr ""
 "critiquons Microsoft, nous ne devons pas absoudre pour autant les autres "
 "sociétés qui font du logiciel privateur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "When we reject Microsoft's proprietary software, that is not a boycott.  The "
 "word &ldquo;boycott&rdquo; means rejection, as a protest, of products that "
@@ -100,12 +100,12 @@ msgstr ""
 "vous privent de votre liberté, peu importe qui les a développés ou les "
 "distribue."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "There is no need to reject Microsoft non-software products, or services that "
 "you can use without proprietary software.  (When you use a web service, "
 "whether Microsoft's or not, watch out for <a href=\"/philosophy/javascript-"
-"trap.html\">non-free JavaScript programs</a> that it may try to slip into "
+"trap.html\">nonfree JavaScript programs</a> that it may try to slip into "
 "your browser.)  When Microsoft releases free programs, which it occasionally "
 "does, they are acceptable in theory.  Alas, most of them depend "
 "fundamentally on Microsoft proprietary software, which we do need to reject, "
@@ -121,7 +121,7 @@ msgstr ""
 "basés sur ses propres logiciels privateurs – que nous devons rejeter – et "
 "cela les rend inutiles pour ceux d'entre nous qui veulent vivre en liberté."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In the &ldquo;Halloween documents&rdquo;, leaked in October 1998, Microsoft "
 "executives stated an intention to use various methods to obstruct the "
@@ -135,14 +135,14 @@ msgstr ""
 "secrets et en faisant breveter des algorithmes et des fonctionnalités "
 "logicielles."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "These obstructionist policies were not new: Microsoft, and many other "
 "software companies, had been doing them for years.  Secrecy and patents have "
 "obstructed us greatly, and they may be more damaging in the future.  For the "
 "most part, the companies' main motivation in doing these things is to attack "
 "each other; now, it seems, we are specifically targeted.  Microsoft is using "
-"its patents directly to <a href=\"http://www.redhat.com/about/news/"
+"its patents directly to <a href=\"https://www.redhat.com/about/news/"
 "archive/2009/9/microsoft-and-patent-trolls\"> attack the free software "
 "community</a>, and our community is fighting back."
 msgstr ""
@@ -152,11 +152,11 @@ msgstr ""
 "être encore plus dommageables à l'avenir. D'une manière générale, la "
 "motivation principale de ces sociétés est de s'attaquer entre elles ; "
 "maintenant, il semble que nous soyons spécifiquement visés. Microsoft "
-"utilise ses brevets pour <a href=\"http://www.redhat.com/about/news/"
+"utilise ses brevets pour <a href=\"https://www.redhat.com/about/news/"
 "archive/2009/9/microsoft-and-patent-trolls\">attaquer directement la "
 "communauté du logiciel libre</a>, et notre communauté se défend."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "But Microsoft's patents are not the only patents that threaten us (and "
 "software developers and users generally)&mdash;consider the harm that the "
@@ -171,15 +171,15 @@ msgstr ""
 "seule solution est d'<a href=\"http://endsoftpatents.org/\">éliminer les "
 "brevets logiciels</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Other Microsoft practices specifically harmful to the adoption of free "
 "software are the ones designed to build up social inertia that obstructs "
 "migration to GNU/Linux.  For instance, when Microsoft &ldquo;donates&rdquo; "
 "copies of Windows to schools, it converts these schools into tools for "
 "implanting a dependence on Windows.  There are indications that Microsoft "
-"systematically plans these activities <a href=\"http://boycottnovell.com/"
-"wiki/index.php/EDGI\"> as a campaign against the adoption of GNU/Linux</a>."
+"systematically plans these activities <a href=\"http://techrights.org/wiki/"
+"index.php/EDGI\"> as a campaign against the adoption of GNU/Linux</a>."
 msgstr ""
 "Microsoft a d'autres pratiques particulièrement dommageables pour l'adoption "
 "du logiciel libre : celles qui sont conçues pour favoriser une inertie "
@@ -187,32 +187,33 @@ msgstr ""
 "Microsoft « donne » des copies de Windows aux écoles, elle convertit ces "
 "écoles en outils pour une implantation de la dépendance à Windows. Il y a "
 "des indications que Microsoft programme de manière systématique ces "
-"activités <a href=\"http://boycottnovell.com/wiki/index.php/EDGI\">afin de "
+"activités <a href=\"http://techrights.org/wiki/index.php/EDGI\">afin de "
 "lutter contre l'adoption de GNU/Linux</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Each Windows &ldquo;upgrade&rdquo; augments Microsoft's power over the "
 "users; Microsoft plans it that way.  And each one is a step forward in "
-"malicious features, which include <a href=\"http://DefectiveByDesign.org"
-"\">Digital Restrictions Management</a> and back doors.  So the FSF runs "
+"malicious features, which include <a href=\"https://www.defectivebydesign."
+"org/\">Digital Restrictions Management</a> and back doors.  So the FSF runs "
 "campaigns to warn users against &ldquo;upgrading&rdquo; to <a href=\"http://"
-"BadVista.org/\">Windows Vista</a> and <a href=\"http://Windows7Sins.org"
+"badvista.fsf.org/\">Windows Vista</a> and <a href=\"http://windows7sins.org/"
 "\">Windows 7</a>.  We aim to reduce the amount of inertia they will create."
 msgstr ""
 "Chaque « mise à niveau » de Windows augmente le pouvoir de Microsoft sur les "
 "utilisateurs ; cela fait partie du plan. Et chacune d'elle est une étape "
 "supplémentaire dans les fonctionnalités malveillantes, ce qui comprend la <a "
-"href=\"http://DefectiveByDesign.org\">gestion numérique des restrictions</a> "
-"(<abbr title=\"Digital Restrictions Management\">DRM</abbr>) et les portes "
-"dérobées <i>[backdoors]</i>. La FSF fait donc des campagnes pour alerter les "
-"utilisateurs sur ces « mises à niveau » vers <a href=\"http://BadVista.org/"
-"\">Windows Vista</a> [traduction en <a href=\"http://www.framablog.org/index."
-"php/post/2009/01/13/windows-vista-echec-microsoft\">français</a>] et <a href="
-"\"http://fr.windows7sins.org/\">Windows 7</a>. Nous visons à réduire la "
-"capacité d'inertie sociale qu'elles créeront."
+"href=\"http://www.defectivebydesign.org\">gestion numérique des "
+"restrictions</a> (<abbr title=\"Digital Restrictions Management\">DRM</"
+"abbr>) et les portes dérobées <i>[backdoors]</i>. La FSF fait donc des "
+"campagnes pour alerter les utilisateurs sur ces « mises à niveau » vers <a "
+"href=\"http://badvista.fsf.org/\">Windows Vista</a> [traduction en <a href="
+"\"http://www.framablog.org/index.php/post/2009/01/13/windows-vista-echec-"
+"microsoft\">français</a>] et <a href=\"http://fr.windows7sins.org/"
+"\">Windows 7</a>. Nous visons à réduire la capacité d'inertie sociale "
+"qu'elles créeront."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "We don't hate Microsoft, and we don't consider it the Great Satan.  But we "
 "do recognize it as the company that has separated more users from their "
@@ -254,14 +255,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -273,11 +274,9 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1997, 1998, 1999, 2000, 2007, 2008, 2009, 2010, 2017, 2018 "
-"Free Software Foundation, Inc."
+"Copyright &copy; 1997-2000, 2009, 2010, 2021 Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1997, 1998, 1999, 2000, 2007, 2008, 2009, 2010, 2017, 2018 "
-"Free Software Foundation, Inc."
+"Copyright &copy; 1997-2000, 2009, 2010, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

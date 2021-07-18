@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: microsoft-new-monopoly.html\n"
-"POT-Creation-Date: 2020-07-17 18:55+0000\n"
-"PO-Revision-Date: 2020-12-06 19:30+0100\n"
+"POT-Creation-Date: 2021-07-18 11:55+0000\n"
+"PO-Revision-Date: 2021-07-18 14:23+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -24,18 +24,15 @@ msgid "Microsoft's New Monopoly - GNU Project - Free Software Foundation"
 msgstr ""
 "Le nouveau monopole de Microsoft - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Microsoft's New Monopoly"
 msgstr "Le nouveau monopole de Microsoft"
 
-#. type: Content of: <p>
-msgid ""
-"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
-msgstr ""
-"par <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></"
-"a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This article was written in July 2005.  Microsoft adopted a different policy "
 "in 2006, so the specific policies described below and the specific "
@@ -56,7 +53,7 @@ msgstr ""
 "\"> La nouvelle politique astucieusement formulée de Microsoft ne donne pas "
 "à tout le monde la permission claire de mettre en œuvre OOXML</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "European legislators who endorse software patents frequently claim that "
 "those wouldn't affect free software (or &ldquo;open source&rdquo;).  "
@@ -67,7 +64,7 @@ msgstr ""
 "source »). Les avocats de Microsoft ont bien l'intention de prouver qu'ils "
 "se trompent."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Leaked internal documents in 1998 said that Microsoft considered the free "
 "software GNU/Linux operating system (referred to therein as &ldquo;"
@@ -80,7 +77,7 @@ msgstr ""
 "et envisageait d'utiliser des brevets et des formats de fichiers secrets "
 "pour freiner sa progression."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Because Microsoft has so much market power, it can often impose new "
 "standards at will. It need only patent some minor idea, design a file "
@@ -98,7 +95,7 @@ msgstr ""
 "les mains liées par Microsoft et nous avons les mains liées pour leur "
 "proposer nos services."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Previously Microsoft tried to get its patented scheme for spam blocking "
 "adopted as an Internet standard, so as to exclude free software from "
@@ -112,12 +109,12 @@ msgstr ""
 "proposition, mais Microsoft a déclaré qu'elle allait essayer de convaincre "
 "les grands fournisseurs d'accès d'utiliser ce système malgré tout."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid "Now Microsoft is planning to try something similar for Word files."
 msgstr ""
 "Maintenant Microsoft essaie de faire la même chose avec les fichiers Word."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Several years ago, Microsoft abandoned its documented format for saving "
 "documents, and switched to a new format which was secret.  However, the "
@@ -132,7 +129,7 @@ msgstr ""
 "ce format, et maintenant ces  programmes peuvent lire la plupart des "
 "fichiers Word. Mais Microsoft n'a pas dit son dernier mot."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The next version of Microsoft Word will use formats that involve a technique "
 "that Microsoft claims to hold a patent on. Microsoft offers a royalty-free "
@@ -147,7 +144,7 @@ msgstr ""
 "libres. Voici <a href=\"https://docs.microsoft.com/en-us/previous-versions/"
 "gg463420(v=msdn.10)\">la licence</a> en question."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Free software is defined as software that respects four fundamental "
 "freedoms: (0) freedom to run the software as you wish, (1) freedom to study "
@@ -167,7 +164,7 @@ msgstr ""
 "utilisateurs bénéficient des modifications que les programmeurs écrivent et "
 "publient."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Distributing an application under Microsoft's patent license imposes license "
 "terms that prohibit most possible modifications of the software. Lacking "
@@ -183,7 +180,7 @@ msgstr ""
 "source » non plus, puisque cette définition est similaire ; mais elle n'est "
 "pas identique et je ne peux pas parler pour les défenseurs de l'open source)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The Microsoft license also requires inclusion of a specific statement. That "
 "requirement would not in itself prevent the program from being free: it is "
@@ -194,8 +191,8 @@ msgid ""
 "meaningful, only to include it. The software developer could cancel its "
 "misleading effect with a disclaimer like this: &ldquo;The following "
 "misleading statement has been imposed on us by Microsoft; please be advised "
-"that it is propaganda. See <a href=\"/philosophy/not-ipr.html\"> http://www."
-"gnu.org/philosophy/not-ipr.html</a> for more explanation.&rdquo;"
+"that it is propaganda. See <a href=\"/philosophy/not-ipr.html\">our article "
+"on &ldquo;intellectual property&rdquo;</a> for more explanation."
 msgstr ""
 "La licence Microsoft impose également d'inclure une mention bien précise. "
 "Cette exigence en elle-même n'empêcherait pas le programme d'être libre : il "
@@ -207,10 +204,10 @@ msgstr ""
 "l'inclure. Le développeur du logiciel pourrait annuler son effet trompeur "
 "avec un avertissement du genre : « La mention suivante est fallacieuse et "
 "nous est imposée par Microsoft ; attention, il s'agit de propagande. Voir <a "
-"href=\"/philosophy/not-ipr.html\">http://www.gnu.org/philosophy/not-ipr."
-"html</a> pour en savoir plus. »"
+"href=\"/philosophy/not-ipr.html\">notre article sur la « propriété "
+"intellectuelle »</a> pour en savoir plus. »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "However, the requirement to include a fixed piece of text is actually quite "
 "cunning, because anyone who does so has explicitly accepted and applied the "
@@ -222,7 +219,7 @@ msgstr ""
 "imposées par la licence de brevet de Microsoft. Le programme qui en résulte "
 "n'est de toute évidence pas un logiciel libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Some free software licenses, such as the most popular GNU General Public "
 "License (GNU GPL), forbid publication of a modified version if it isn't free "
@@ -247,7 +244,7 @@ msgstr ""
 "licence de brevet Microsoft. Mais cette version modifiée, avec sa licence "
 "modifiée, ne serait pas un logiciel libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Microsoft's patent covering the new Word format is a US patent.  It doesn't "
 "restrict anyone in Europe; Europeans are free to make and use software that "
@@ -269,7 +266,7 @@ msgstr ""
 "poursuivre des Américains, mais les Américains ne peuvent pas obtenir de "
 "brevets logiciels européens si l'Europe ne les autorise pas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "All that will change if the European Parliament authorizes software patents. "
 "Microsoft will be one of thousands of foreign software patent holders that "
@@ -288,18 +285,18 @@ msgstr ""
 "vote du Parlement européen confirme l'illégalité de ces brevets et "
 "garantisse la protection des Européens."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "[2009 note]: the EU directive to allow software patents was rejected, but "
 "the European Patent Office has continued issuing them and some countries "
-"treat them as valid.  See <a href=\"http://ffii.org\"> ffii.org</a> for more "
-"information and to participate in the campaign against software patents in "
-"Europe."
+"treat them as valid.  See <a href=\"https://ffii.org\"> ffii.org</a> for "
+"more information and to participate in the campaign against software patents "
+"in Europe."
 msgstr ""
 "[Note écrite en 2009] : la directive européenne autorisant les brevets "
 "logiciels a été rejetée, mais l'Office européen des brevets a continué à en "
-"octroyer et ils sont reconnus dans certains pays. Voir <a href=\"http://ffii."
-"org\">ffii.org</a> pour en savoir plus et pour participer à la campagne "
+"octroyer et ils sont reconnus dans certains pays. Voir <a href=\"https://"
+"ffii.org\">ffii.org</a> pour en savoir plus et pour participer à la campagne "
 "contre les brevets logiciels en Europe."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
@@ -328,14 +325,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -346,8 +343,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2005, 2009, 2015, 2016, 2020 Richard Stallman"
-msgstr "Copyright &copy; 2005, 2009, 2015, 2016, 2020 Richard Stallman"
+msgid "Copyright &copy; 2005, 2007, 2009, 2010, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2005, 2007, 2009, 2010, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
