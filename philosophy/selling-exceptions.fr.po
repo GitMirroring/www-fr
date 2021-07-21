@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: selling-exceptions.html\n"
-"POT-Creation-Date: 2019-02-20 15:24+0000\n"
-"PO-Revision-Date: 2020-12-07 14:06+0100\n"
+"POT-Creation-Date: 2021-07-21 18:26+0000\n"
+"PO-Revision-Date: 2021-07-21 21:45+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -22,15 +22,15 @@ msgid ""
 msgstr ""
 "Vendre des exceptions à la GNU GPL - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Selling Exceptions to the GNU GPL"
 msgstr "Vendre des exceptions à la GNU GPL"
 
-#. type: Content of: <p>
-msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
-msgstr "par <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Selling exceptions means that the copyright holder of the code releases it "
 "to the general public under a valid free software license, then separately "
@@ -45,7 +45,7 @@ msgstr ""
 "exemple des termes leur permettant de l'inclure dans des applications "
 "privatrices."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We must distinguish the practice of selling exceptions from something "
 "crucially different: purely proprietary extensions or versions of a free "
@@ -68,7 +68,7 @@ msgstr ""
 "que n'importe quel autre logiciel privateur. Cet article s'intéresse aux cas "
 "qui impliquent strictement et uniquement la vente d'exceptions."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We must also distinguish selling exceptions from dual licensing, which means "
 "releasing the program under a choice of licenses.  With dual licensing, each "
@@ -90,7 +90,7 @@ msgstr ""
 "plus nécessaire, puisque la version 2 de l'<i>Artistic License</i> est "
 "compatible avec la GNU GPL."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In selling exceptions, the exception's terms are not a second license that "
 "the program is released under.  Rather, they are available only to those "
@@ -103,7 +103,7 @@ msgstr ""
 "seule licence que porte la version publiée est la GNU GPL ; ce n'est donc "
 "pas une double licence."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We must distinguish selling of exceptions from the usual kind of &ldquo;"
 "exception to the GPL,&rdquo; which simply gives all users permission to go "
@@ -119,7 +119,7 @@ msgstr ""
 "vaut mieux ne pas utiliser le vocable « exceptions à la GPL » pour les "
 "exceptions qui font l'objet d'une vente."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I've considered selling exceptions acceptable since the 1990s, and on "
 "occasion I've suggested it to companies.  Sometimes this approach has made "
@@ -129,7 +129,7 @@ msgstr ""
 "à l'occasion je l'ai suggérée à des entreprises. Quelquefois cette approche "
 "a permis à des programmes importants de devenir libres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The KDE desktop was developed in the 90s based on the Qt library.  Qt was "
 "proprietary software, and TrollTech charged for permission to embed it in "
@@ -145,7 +145,7 @@ msgstr ""
 "l'avait pas rendue libre. Les systèmes d'exploitation entièrement libres ne "
 "pouvaient donc pas inclure Qt, ni par conséquent KDE."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In 1998, the management of TrollTech recognized that they could make Qt free "
 "software and continue charging for permission to embed it in proprietary "
@@ -159,7 +159,7 @@ msgstr ""
 "mais j'ai certainement été content de ce changement, qui a rendu possible "
 "l'utilisation de Qt et donc de KDE dans le monde du libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Initially, they used their own license, the Q Public License (QPL)&mdash;"
 "quite restrictive as free software licenses go, and incompatible with the "
@@ -171,7 +171,7 @@ msgstr ""
 "incompatible avec la GNU GPL. Plus tard ils sont passés à la GNU GPL ; je "
 "pense que je leur avais expliqué qu'elle répondrait à leurs besoins."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Selling exceptions depends fundamentally on using a copyleft license, such "
 "as the GNU GPL, for the free software release.  A copyleft license permits "
@@ -193,7 +193,7 @@ msgstr ""
 "aurait reçu le code sous la GNU GPL ou une autre licence à copyleft, ne "
 "pourrait pas accorder d'exception."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When I first heard of the practice of selling exceptions, I asked myself "
 "whether the practice is ethical.  If someone buys an exception to embed a "
@@ -208,7 +208,7 @@ msgstr ""
 "privateur). Est-ce que, de ce fait, le développeur qui a vendu l'exception "
 "fait aussi quelque chose de mal ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If that implication were valid, it would also apply to releasing the same "
 "program under a noncopyleft free software license, such as the X11 license.  "
@@ -229,7 +229,7 @@ msgstr ""
 "\">n'est pas optimal la plupart du temps</a>, mais il n'est pas contraire à "
 "l'éthique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In other words, selling exceptions permits limited embedding of the code in "
 "proprietary software, but the X11 license goes even further, permitting "
@@ -243,7 +243,7 @@ msgstr ""
 "dans du logiciel privateur. Si cela ne rend pas la licence X11 inacceptable, "
 "cela ne rend pas la vente d'exceptions inacceptable."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There are three reasons why the FSF doesn't practice selling exceptions.  "
 "One is that it doesn't lead to the FSF's goal: assuring freedom for each "
@@ -263,11 +263,11 @@ msgstr ""
 "contre-productif, de même que publier sous la licence X11. Donc normalement "
 "nous ne faisons ni l'un ni l'autre; nous ne publions que sous la GPL."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another reason we release only under the GPL is so as not to permit "
 "proprietary extensions that would present practical advantages over our free "
-"programs.  Users for whom freedom is not a value might choose those non-free "
+"programs.  Users for whom freedom is not a value might choose those nonfree "
 "versions rather than the free programs they are based on&mdash;and lose "
 "their freedom.  We don't want to encourage that."
 msgstr ""
@@ -278,7 +278,7 @@ msgstr ""
 "libres plutôt que les programmes libres sur lesquels ils sont basés – et "
 "perdre leur liberté. Nous ne voulons pas encourager cela."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There are occasional cases where, for specific reasons of strategy, we "
 "decide that using a more permissive license on a certain program is better "
@@ -291,7 +291,7 @@ msgstr ""
 "là, nous publions ce programme pour tout le monde sous cette licence "
 "permissive."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This is because of another ethical principle that the FSF follows: to treat "
 "all users the same.  An idealistic campaign for freedom should not "
@@ -306,7 +306,7 @@ msgstr ""
 "quelle que soit la licence ou les licences sous lesquelles nous publions un "
 "programme, elles sont disponibles pour tout un chacun."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But we need not insist that companies follow that principle.  I consider "
 "selling exceptions an acceptable thing for a company to do, and I will "
@@ -346,14 +346,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -365,8 +365,9 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2009, 2010, 2015, 2016, 2017, 2018, 2019 Richard Stallman"
-msgstr "Copyright &copy; 2009, 2010, 2015-2019 Richard Stallman"
+"Copyright &copy; 2009, 2010, 2015, 2016, 2017, 2019, 2021 Richard Stallman"
+msgstr ""
+"Copyright &copy; 2009, 2010, 2015, 2016, 2017, 2019, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

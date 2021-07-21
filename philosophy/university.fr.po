@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: university.html\n"
-"POT-Creation-Date: 2020-10-26 13:26+0000\n"
-"PO-Revision-Date: 2020-12-07 14:06+0100\n"
+"POT-Creation-Date: 2021-07-21 18:26+0000\n"
+"PO-Revision-Date: 2021-07-21 21:45+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -27,11 +27,11 @@ msgstr ""
 "Publier des logiciels libres si vous travaillez à l'université - Projet GNU "
 "- Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Releasing Free Software If You Work at a University"
 msgstr "Publier des logiciels libres si vous travaillez à l'université"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In the free software movement, we believe computer users should have the "
 "freedom to change and redistribute the software that they use.  The &ldquo;"
@@ -53,7 +53,7 @@ msgstr ""
 "manière qu'elles doivent encourager les scientifiques et les étudiants à "
 "publier leurs travaux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Alas, many university administrators have a grasping attitude towards "
 "software (and towards science); they see programs as opportunities for "
@@ -66,7 +66,7 @@ msgstr ""
 "participer à la connaissance humaine. Les développeurs de logiciels libres "
 "doivent faire face à cette tendance depuis presque 20 ans."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "When I started developing the <a href=\"/gnu/thegnuproject.html\">GNU "
 "operating system</a>, in 1984, my first step was to quit my job at MIT.  I "
@@ -90,7 +90,7 @@ msgstr ""
 "title=\"General Public License\">GPL</abbr>) ; je ne voulais pas avoir à "
 "supplier l'administration du MIT de me laisser l'utiliser."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Over the years, university affiliates have often come to the Free Software "
 "Foundation for advice on how to cope with administrators who see software "
@@ -114,7 +114,7 @@ msgstr ""
 "dollars, ils consentiront généralement à le diffuser en tant que logiciel "
 "libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "You can also ask your funding sponsor for help.  When a group at NYU "
 "developed the GNU Ada Compiler, with funding from the US Air Force, the "
@@ -134,7 +134,7 @@ msgstr ""
 "logiciel libre que pas de contrat du tout, donc elle s'en accommodera "
 "vraisemblablement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Whatever you do, raise the issue early&mdash;well before the program is half "
 "finished.  At this point, the university still needs you, so you can play "
@@ -157,7 +157,7 @@ msgstr ""
 "dont le crédit reviendra à l'université et rien du tout, elle choisira "
 "probablement la première solution."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The FSF can sometimes persuade your university to accept the GNU General "
 "Public License, or to accept GPL version 3.  If you can't do it alone, "
@@ -169,7 +169,7 @@ msgstr ""
 "seul, donnez-nous une chance de vous aider. Écrivez à licensing@fsf.org et "
 "mettez « urgent » dans le sujet."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Not all universities have grasping policies.  The University of Texas has a "
 "policy that makes it easy to release software developed there as free "
@@ -193,7 +193,7 @@ msgstr ""
 "la connaissance humaine, ou est-ce que son seul but est de s'entretenir elle-"
 "même ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In persuading the university, it helps to approach the issue with "
 "determination and based on an ethical perspective, as we do in the free "
@@ -205,7 +205,7 @@ msgstr ""
 "logiciel libre, aide toujours. Pour faire preuve d'éthique envers le public, "
 "le logiciel doit être libre pour l'ensemble du public."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Many developers of free software profess narrowly practical reasons for "
 "doing so: they advocate allowing others to share and change software as an "
@@ -224,7 +224,7 @@ msgstr ""
 "rester ferme face aux gestionnaires de l'université quand ils essaieront de "
 "vous pousser ou de vous inciter à rendre le programme non libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "For instance, they may argue that &ldquo;We could make it even more powerful "
 "and reliable with all the money we can get.&rdquo; This claim may or may not "
@@ -243,7 +243,7 @@ msgstr ""
 "et ils ajouteraient que cela vous permettrait d'obtenir une coopération "
 "universitaire, ce qui est (selon eux) tout ce dont vous avez besoin."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If you start from values of convenience alone, it is hard to make a good "
 "case for rejecting these dead-end proposals, but you can do it easily if you "
@@ -263,7 +263,7 @@ msgstr ""
 "objectifs. Le logiciel libre respecte la liberté des utilisateurs, alors que "
 "les logiciels non libres la bafouent."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Nothing strengthens your resolve like knowing that the community's freedom "
 "depends, in one instance, on you."
@@ -271,13 +271,13 @@ msgstr ""
 "Rien ne peut mieux renforcer votre résolution que le fait de savoir que la "
 "liberté de la communauté dépend, en cette occasion, de vous."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
-"This essay is published in <a href=\"http://shop.fsf.org/product/free-"
+"This essay is published in <a href=\"https://shop.fsf.org/product/free-"
 "software-free-society/\"><cite>Free Software, Free Society: The Selected "
 "Essays of Richard M. Stallman</cite></a>."
 msgstr ""
-"Cet article est publié dans le livre <a href=\"http://shop.fsf.org/product/"
+"Cet article est publié dans le livre <a href=\"https://shop.fsf.org/product/"
 "free-software-free-society/\"><cite>Free Software, Free Society: The "
 "Selected Essays of Richard M. Stallman</cite></a>."
 
@@ -311,14 +311,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -329,8 +329,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2002, 2020 Richard Stallman"
-msgstr "Copyright &copy; 2002, 2020 Richard Stallman"
+msgid "Copyright &copy; 2002, 2014, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2002, 2014, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

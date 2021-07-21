@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: irc-rules.html\n"
-"POT-Creation-Date: 2021-07-17 06:56+0000\n"
-"PO-Revision-Date: 2021-07-17 09:42+0200\n"
+"POT-Creation-Date: 2021-07-21 15:55+0000\n"
+"PO-Revision-Date: 2021-07-21 19:15+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -79,15 +79,53 @@ msgstr ""
 "telle la gestion numérique des restrictions (<abbr title=\"Digital "
 "Restrictions Management\">DRM</abbr>)."
 
+#. type: Content of: <h3>
+msgid "Getting help"
+msgstr "Comment obtenir de l'aide"
+
 #. type: Content of: <p>
 msgid ""
-"<b>If you have problems with any of these channels, with trolls or abusive "
-"members, please email us at <a href=\"mailto:campaigns@fsf.org"
-"\">campaigns@fsf.org</a>.</b>"
+"If you believe that someone is violating these rules, in any of these "
+"channels, please reach out to that channel's operators.  If an operator is "
+"unable to help you immediately, please be patient."
 msgstr ""
-"<b>Si vous avez des problèmes avec l'un de ces canaux, avec des trolls ou "
-"avec le comportement inapproprié de certains membres, veuillez écrire à <a "
-"href=\"mailto:campaigns@fsf.org\">campaigns@fsf.org</a>.</b>"
+"Si vous pensez que quelqu'un a enfreint ces règles, contactez les opérateurs "
+"du canal où cela s'est produit. Si l'opérateur ne peut pas vous aider "
+"immédiatement, soyez patient."
+
+#. type: Content of: <p>
+msgid ""
+"Prefer to ask general questions generally, in the main channel.  Other "
+"community members can help, as much as the operators, in most cases."
+msgstr ""
+"Il est souvent préférable de poser les questions générales dans le canal "
+"principal. Dans la plupart des cas, les autres membres de la communauté "
+"peuvent vous aider tout autant que les opérateurs."
+
+#. type: Content of: <p>
+msgid ""
+"If you need to chat privately with one of the operators, one way to do that "
+"is by typing: <code>/query NICK</code> (where 'NICK' is the plain username - "
+"for example: bandali, not: @bandali)."
+msgstr ""
+"Si vous avez besoin d'avoir une conversation privée avec un opérateur, l'un "
+"des moyens est de taper <code>/query <var>nick</var></code> (où <var>nick</"
+"var> est son nom d'utilisateur – par exemple <code>bandali</code> et non "
+"<code>@bandali</code>)."
+
+#. type: Content of: <p>
+msgid ""
+"You can identify the operators by typing: <code>/msg ChanServ flags CHANNEL</"
+"code> (where: 'CHANNEL' is the channel name - for example: #gnu).  If the "
+"operators are unable to help you, or if your concern is of a more sensitive "
+"nature, please email <a href=\"mailto:campaigns@fsf.org\">campaigns@fsf.org</"
+"a>."
+msgstr ""
+"Vous pouvez identifier les opérateurs en tapant <code>/"
+"msg ChanServ flags <var>nom-du-canal</var></code> (par exemple <code>/"
+"msg ChanServ flags #gnu</code>). Si l'opérateur n'est pas en mesure de vous "
+"aider ou si votre souci est d'une nature plus délicate, écrivez à <a href="
+"\"mailto:campaigns@fsf.org\">campaigns@fsf.org</a>."
 
 #. type: Content of: <h3>
 msgid "List of channels"
@@ -321,10 +359,6 @@ msgid "Rules end here, but here are some helpful suggestions&hellip;"
 msgstr ""
 "Les règles s'arrêtent là, mais voici quelques suggestions utiles&hellip;"
 
-#. type: Content of: <h3>
-msgid "Getting help"
-msgstr "Comment obtenir de l'aide"
-
 #. type: Content of: <p>
 msgid ""
 "Speak to one of the operators.  If an operator is unable to help you "
@@ -451,3 +485,12 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+#~ msgid ""
+#~ "<b>If you have problems with any of these channels, with trolls or "
+#~ "abusive members, please email us at <a href=\"mailto:campaigns@fsf.org"
+#~ "\">campaigns@fsf.org</a>.</b>"
+#~ msgstr ""
+#~ "<b>Si vous avez des problèmes avec l'un de ces canaux, avec des trolls ou "
+#~ "avec le comportement inapproprié de certains membres, veuillez écrire à "
+#~ "<a href=\"mailto:campaigns@fsf.org\">campaigns@fsf.org</a>.</b>"

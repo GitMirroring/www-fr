@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: using-gfdl.html\n"
-"POT-Creation-Date: 2014-03-14 04:36+0000\n"
-"PO-Revision-Date: 2018-10-30 18:17+0100\n"
+"POT-Creation-Date: 2021-07-21 18:26+0000\n"
+"PO-Revision-Date: 2021-07-21 21:45+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -21,30 +21,30 @@ msgstr ""
 msgid "Using GNU FDL - GNU Project - Free Software Foundation"
 msgstr "Utiliser la GNU FDL - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Using GNU FDL"
 msgstr "Utiliser la licence GNU de documentation libre"
 
-#. type: Content of: <p>
-msgid "by <a href=\"http://www.stallman.org\">Richard Stallman</a>"
-msgstr "par <a href=\"http://www.stallman.org\">Richard Stallman</a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"https://www.stallman.org\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If you know someone who is writing a manual about free software, and looking "
 "towards commercial publication, you have a chance to help the Free Software "
 "Movement a great deal with a small amount of work: by suggesting the idea of "
-"publishing the manual under the <a href=\"/copyleft/fdl.html\">GNU Free "
+"publishing the manual under the <a href=\"/licenses/fdl.html\">GNU Free "
 "Documentation License</a>."
 msgstr ""
 "Si vous connaissez une personne qui écrit un manuel sur les logiciels libres "
 "et qui envisage une publication commerciale, vous avez une chance d'aider le "
 "mouvement du logiciel libre de manière significative, avec peu de travail : "
-"en lui suggérant de publier le manuel sous la <a href=\"/copyleft/fdl.html"
+"en lui suggérant de publier le manuel sous la <a href=\"/licenses/fdl.html"
 "\">GNU Free Documentation License - GNU FDL</a> (licence GNU de "
 "documentation libre)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Until recently, commercial book publication almost always implied a nonfree "
 "book.  But just as free commercial software has been increasing for a while, "
@@ -63,7 +63,7 @@ msgstr ""
 "à présent de publier des livres sous la GNU FDL et de payer les auteurs de "
 "la même manière que d'habitude – SI les auteurs sont fermes à ce sujet."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "But publishers are likely to first propose an ordinary proprietary book. And "
 "if the authors agree, that's what it will be.  So it is essential for "
@@ -78,7 +78,7 @@ msgstr ""
 "d'écrire un manuel, vous pourrez influencer le cours des événements "
 "simplement en suggérant cette possibilité."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If a publisher rejects the request at first, the GNU Project may be able to "
 "help the authors prevail.  They can contact us at <a href=\"mailto:gnu@gnu."
@@ -88,7 +88,7 @@ msgstr ""
 "auteurs à les persuader. Ils peuvent nous contacter à <a href=\"mailto:"
 "gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "There are <a href=\"/licenses/license-list.html#DocumentationLicenses\"> "
 "other</a> legitimate free documentation licenses, but sometimes using them "
@@ -111,7 +111,7 @@ msgstr ""
 "la GNU FDL, peuvent nous contacter afin que nous puissions vérifier que la "
 "licence relève vraiment de la documentation libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "When a commercial manual is free and relates to the GNU system, the GNU "
 "Project can recommend it to the public.  So if the authors or publisher set "
@@ -134,7 +134,7 @@ msgstr ""
 "webmasters@gnu.org\"> &lt;webmasters@gnu.org&gt;</a> si vous trouvez de "
 "telles pages."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "See also <a href=\"/philosophy/free-doc.html\">Free Software and Free "
 "Manuals</a>."
@@ -168,14 +168,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -186,19 +186,19 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1999 Richard M. Stallman"
-msgstr "Copyright &copy; 1999 Richard M. Stallman"
+msgid "Copyright &copy; 1999, 2021 Richard M. Stallman"
+msgstr "Copyright &copy; 1999, 2021 Richard M. Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
