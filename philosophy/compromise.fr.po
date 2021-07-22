@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: compromise.html\n"
-"POT-Creation-Date: 2020-10-27 08:55+0000\n"
+"POT-Creation-Date: 2021-07-22 12:26+0000\n"
 "PO-Revision-Date: 2020-12-06 17:35+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -19,34 +19,32 @@ msgstr ""
 "X-Poedit-Country: FRANCE\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid "Avoiding Ruinous Compromises - GNU Project - Free Software Foundation"
 msgstr "Éviter les compromis ruineux - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Avoiding Ruinous Compromises"
 msgstr "Éviter les compromis ruineux"
 
-#. type: Content of: <address>
+#. type: Content of: <div><address>
 msgid "by Richard Stallman"
 msgstr "par Richard Stallman"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"&ldquo;Twenty-five years ago <a href=\"/gnu/initial-announcement.html\">on "
+"Twenty-five years ago <a href=\"/gnu/initial-announcement.html\">on "
 "September 27, 1983, I announced a plan</a> to create a completely free "
-"operating system called GNU&mdash;for &lsquo;GNU's Not Unix&rsquo;.  As part "
+"operating system called GNU&mdash;for &ldquo;GNU's Not Unix&rdquo;.  As part "
 "of the 25th anniversary of the GNU system, I have written this article on "
 "how our community can avoid ruinous compromises.  In addition to avoiding "
 "such compromises, there are many ways you can <a href=\"/help/help.html\"> "
 "help GNU</a> and free software.  One way is to say no to the use of a "
 "nonfree program or an online disservice as often as you can or <a href=\"/"
-"philosophy/saying-no-even-once.html\"> even once.</a>&rdquo;&mdash;"
-"<b>Richard Stallman</b>"
+"philosophy/saying-no-even-once.html\"> even once</a>."
 msgstr ""
-"« Il y a vingt-cinq ans, <a href=\"/gnu/initial-announcement.html\">le "
+"Il y a vingt-cinq ans, <a href=\"/gnu/initial-announcement.html\">le "
 "27 septembre 1983, j'annonçais le projet</a> de créer un système "
 "d'exploitation totalement libre, appelé GNU (ce qui signifie <i>GNU's Not "
 "Unix</i> – GNU N'est pas Unix). Cet article, écrit à l'occasion du 25e "
@@ -55,9 +53,9 @@ msgstr ""
 "a de nombreuses façons d'<a href=\"/help/help.html\">aider le projet GNU</a> "
 "et le logiciel libre. L'une d'elles est de refuser d'utiliser un programme "
 "non libre ou un mal-service en ligne <a href=\"/philosophy/saying-no-even-"
-"once.html\">ne serait-ce qu'une seule fois</a>. » – <b>Richard Stallman</b>"
+"once.html\">ne serait-ce qu'une seule fois</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The free software movement aims for a social change: <a href=\"/philosophy/"
 "free-sw.html\">to make all software free</a> so that all software users are "
@@ -72,16 +70,16 @@ msgstr ""
 "procure à son développeur un pouvoir injuste sur les utilisateurs. Notre but "
 "est de mettre fin à cette injustice."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"The road to freedom is <a href=\"http://www.fsf.org/bulletin/2008/spring/the-"
-"last-mile-is-always-the-hardest/\"> a long road</a>.  It will take many "
+"The road to freedom is <a href=\"https://www.fsf.org/bulletin/2008/spring/"
+"the-last-mile-is-always-the-hardest/\"> a long road</a>.  It will take many "
 "steps and many years to reach a world in which it is normal for software "
 "users to have freedom.  Some of these steps are hard, and require "
 "sacrifice.  Some of them become easier if we make compromises with people "
 "that have different goals."
 msgstr ""
-"Il reste <a href=\"http://www.fsf.org/bulletin/2008/spring/the-last-mile-is-"
+"Il reste <a href=\"https://www.fsf.org/bulletin/2008/spring/the-last-mile-is-"
 "always-the-hardest/\">une longue route</a> à parcourir pour atteindre la "
 "liberté. Il faudra de nombreuses étapes et de nombreuses années pour arriver "
 "à un monde dans lequel il sera normal que les utilisateurs de logiciels "
@@ -89,16 +87,20 @@ msgstr ""
 "requièrent un sacrifice. Certaines deviennent plus faciles si nous faisons "
 "des compromis avec des personnes qui ont des buts différents."
 
-#. type: Content of: <p>
+#. type: Attribute 'alt' of: <div><div><img>
+msgid "&nbsp;[GPL Logo]&nbsp;"
+msgstr " [Logo de la GPL] "
+
+#. type: Content of: <div><div><p>
 msgid ""
-"Thus, the <a href=\"http://www.fsf.org/\">Free Software Foundation</a> makes "
-"compromises&mdash;even major ones.  For instance, we made compromises in the "
-"patent provisions of version 3 of the <a href=\"/licenses/gpl.html\">GNU "
-"General Public License</a> (GNU GPL) so that major companies would "
+"Thus, the <a href=\"https://www.fsf.org/\">Free Software Foundation</a> "
+"makes compromises&mdash;even major ones.  For instance, we made compromises "
+"in the patent provisions of version 3 of the <a href=\"/licenses/gpl.html"
+"\">GNU General Public License</a> (GNU GPL) so that major companies would "
 "contribute to and distribute GPLv3-covered software and thus bring some "
 "patents under the effect of these provisions."
 msgstr ""
-"Par conséquent, la <a href=\"http://www.fsf.org/\">Fondation pour le "
+"Par conséquent, la <a href=\"https://www.fsf.org/\">Fondation pour le "
 "logiciel libre</a> fait des compromis – et même des compromis majeurs. Par "
 "exemple, nous faisons des compromis dans les clauses relatives aux brevets "
 "qui se trouvent dans la version 3 de la <a href=\"/licenses/gpl.html"
@@ -107,11 +109,11 @@ msgstr ""
 "logiciels à la communauté et les distribuer sous GPLv3, amenant ainsi ces "
 "clauses à couvrir certains brevets."
 
-#. type: Attribute 'alt' of: <img>
-msgid "[GPLv3 Logo]"
-msgstr " [Logo de la GPLv3] "
+#. type: Attribute 'alt' of: <div><div><img>
+msgid "&nbsp;[LGPL Logo]&nbsp;"
+msgstr " [Logo de la LGPL] "
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<a href=\"/licenses/lgpl.html\">The Lesser GPL</a>'s purpose is a "
 "compromise: we use it on certain chosen free libraries to permit their use "
@@ -138,7 +140,7 @@ msgstr ""
 "entièrement d'accord avec les groupes qui les ont lancées."
 
 # il faut aussi faire les définitions de ruinous ? en français ça ne semble pas très utile
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "But we reject certain compromises even though many others in our community "
 "are willing to make them.  For instance, we <a href=\"/distros/free-system-"
@@ -155,10 +157,10 @@ msgstr ""
 "distributions GNU/Linux</a> qui ont pour principe de ne pas inclure de "
 "logiciel non libre et de ne pas encourager les utilisateurs à en installer. "
 "Soutenir les distributions non libres serait un compromis <abbr title=\"1. "
-"Littér. Gravement dommageable. Synon. (p. exagér.) catastrophique, "
+"Littér. gravement dommageable. Synon. (p. exagér.) catastrophique, "
 "désastreux.\">ruineux</abbr>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Compromises are ruinous if they would work against our aims in the long "
 "term.  That can occur either at the level of ideas or at the level of "
@@ -167,7 +169,7 @@ msgstr ""
 "Les compromis sont ruineux s'ils peuvent œuvrer contre nos buts sur le long "
 "terme. Ceci peut se produire au niveau des idées ou au niveau des actions."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "At the level of ideas, ruinous compromises are those that reinforce the "
 "premises we seek to change.  Our goal is a world in which software users are "
@@ -184,7 +186,7 @@ msgstr ""
 "de « consommation » ; en d'autres termes ils ne jugent un programme que sur "
 "des caractéristiques pratiques comme le prix ou l'ergonomie."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Dale Carnegie's classic self-help book, <cite>How to Win Friends and "
 "Influence People</cite>, advises that the most effective way to persuade "
@@ -206,7 +208,7 @@ msgstr ""
 "pratiques a permis de convaincre beaucoup d'utilisateurs d'adopter divers "
 "programmes libres, parmi lesquels certains ont maintenant un grand succès."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If getting more people to use some free programs is as far as you aim to go, "
 "you might decide to keep quiet about the concept of freedom, and focus only "
@@ -220,7 +222,7 @@ msgstr ""
 "des valeurs de consommation. C'est ce que fait le terme « open source » et "
 "la rhétorique associée."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "That approach can get us only part way to the goal of freedom.  People who "
 "use free software only because it is convenient will stick with it only as "
@@ -233,7 +235,7 @@ msgstr ""
 "pratiques. Et elles ne verront aucune raison de ne pas utiliser des "
 "programmes privateurs en même temps."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The philosophy of open source presupposes and appeals to consumer values, "
 "and this affirms and reinforces them.  That's why we <a href=\"/philosophy/"
@@ -244,11 +246,11 @@ msgstr ""
 "C'est pourquoi nous <a href=\"/philosophy/open-source-misses-the-point.html"
 "\">ne militons pas pour l'open source</a>."
 
-#. type: Attribute 'alt' of: <img>
+#. type: Attribute 'alt' of: <div><div><div><img>
 msgid "[Levitating Gnu with a laptop]"
-msgstr " [GNU en lévitation avec un ordinateur portable]"
+msgstr " [GNU en lévitation avec un ordinateur portable] "
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To establish a free community fully and lastingly, we need to do more than "
 "get people to use some free software.  We need to spread the idea of judging "
@@ -266,7 +268,7 @@ msgstr ""
 "utilisateurs ne tomberont pas dans le piège des logiciels privateurs, "
 "appâtés par une fonctionnalité attractive et pratique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To promote citizen values, we have to talk about them and show how they are "
 "the basis of our actions.  We must reject the Dale Carnegie compromise that "
@@ -277,7 +279,7 @@ msgstr ""
 "compromis décrit par Dale Carnegie qui influencerait les actions des "
 "utilisateurs en encourageant leurs valeurs de consommation."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This is not to say we cannot cite practical advantage at all&mdash;we can "
 "and we do.  It becomes a problem only when the practical advantage steals "
@@ -292,7 +294,7 @@ msgstr ""
 "du logiciel libre, nous rappelons fréquemment que ce sont juste des raisons "
 "<em>supplémentaires, secondaires</em> de le préférer."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "It's not enough to make our words accord with our ideals; our actions have "
 "to accord with them too.  So we must also avoid compromises that involve "
@@ -303,7 +305,7 @@ msgstr ""
 "qui impliquent de faire ou de légitimer des choses que nous avons pour "
 "objectif d'éradiquer."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "For instance, experience shows that you can attract some users to <a href=\"/"
 "gnu/why-gnu-linux.html\">GNU/Linux</a> if you include some nonfree "
@@ -321,7 +323,7 @@ msgstr ""
 "Flash, ou un pilote de périphérique non libre qui permette à certains "
 "matériels de fonctionner."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "These compromises are tempting, but they undermine the goal.  If you "
 "distribute nonfree software, or steer people towards it, you will find it "
@@ -335,7 +337,7 @@ msgstr ""
 "un problème social, et nous devons y mettre un terme. » Et même si vous "
 "continuez de prononcer ces paroles, vos actions les videront de leur sens."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The issue here is not whether people should be <em>able</em> or <em>allowed</"
 "em> to install nonfree software; a general-purpose system enables and allows "
@@ -355,7 +357,7 @@ msgstr ""
 "diriger les utilisateurs vers des logiciels privateurs comme s'il s'agissait "
 "d'une solution, parce que les logiciels privateurs sont le problème."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "A ruinous compromise is not just a bad influence on others.  It can distort "
 "your own values, too, through cognitive dissonance.  If you have certain "
@@ -379,13 +381,13 @@ msgstr ""
 "aussi bien que pour le public, ils renforcent les valeurs de consommation. "
 "Nous devons rejeter ces compromis afin de garder la droiture de nos valeurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If you want to move to free software without compromising the goal of "
-"freedom, look at <a href=\"http://www.fsf.org/resources\">the FSF's "
+"freedom, look at <a href=\"https://www.fsf.org/resources\">the FSF's "
 "resources area</a>.  It lists hardware and machine configurations that work "
 "with free software, <a href=\"/distros/distros.html\"> totally free GNU/"
-"Linux distros</a> to install, and <a href=\"http://directory.fsf.org/\"> "
+"Linux distros</a> to install, and <a href=\"https://directory.fsf.org/\"> "
 "thousands of free software packages</a> that work in a 100 percent free "
 "software environment.  If you want to help the community stay on the road to "
 "freedom, one important way is to publicly uphold citizen values.  When "
@@ -393,18 +395,18 @@ msgid ""
 "freedom and community and argue from them."
 msgstr ""
 "Si vous voulez migrer vers le logiciel libre sans compromettre votre "
-"objectif de liberté, consultez la <a href=\"http://www.fsf.org/resources"
-"\">page des ressources de la FSF</a>. Vous y trouverez la liste du matériel "
+"objectif de liberté, consultez la <a href=\"https://www.fsf.org/resources"
+"\">page des ressources de la FSF</a>. Vous y trouverez une liste de matériel "
 "et d'ordinateurs qui fonctionnent avec des logiciels libres, <a href=\"/"
 "distros/distros.html\">des distributions GNU/Linux totalement libres</a> à "
-"installer et <a href=\"http://directory.fsf.org/\">des milliers de logiciels "
-"libres</a> fonctionnant dans un environnement 100% libre. Si vous voulez "
+"installer et <a href=\"https://directory.fsf.org/\">des milliers de logiciels "
+"libres</a> fonctionnant dans un environnement 100 % libre. Si vous voulez "
 "aider la communauté à rester sur le chemin de la liberté, il est important "
 "de défendre publiquement les valeurs citoyennes. Quand des gens discutent de "
 "ce qui est bien ou mal, ou se demandent quoi faire, citez les valeurs de "
 "liberté et de communauté et argumentez en vous appuyant sur elles."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "A road that lets you go faster is not better if it leads to the wrong "
 "place.  Compromise is essential to achieve an ambitious goal, but beware of "
@@ -415,14 +417,14 @@ msgstr ""
 "de faire des compromis, mais faites attention à ceux qui vous éloignent du "
 "but."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"For a similar point in a different area of life, see <a href=\"http://www."
+"For a similar point in a different area of life, see <a href=\"https://www."
 "guardian.co.uk/commentisfree/2011/jul/19/nudge-is-not-enough-behaviour-change"
 "\"> &ldquo;Nudge&rdquo; is not enough</a>."
 msgstr ""
 "Vous trouverez un point de vue similaire appliqué à un domaine différent de "
-"la vie, dans <a href=\"http://www.guardian.co.uk/commentisfree/2011/jul/19/"
+"la vie, dans <a href=\"https://www.guardian.co.uk/commentisfree/2011/jul/19/"
 "nudge-is-not-enough-behaviour-change\">« Nudge » is not enough</a> (Les "
 "conseils ne suffisent pas pour changer de comportement)."
 
@@ -457,14 +459,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -475,12 +477,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2008, 2009, 2014, 2015, 2017, 2018, 2019, 2020 <a href="
-"\"http://www.stallman.org/\">Richard Stallman</a>."
-msgstr ""
-"Copyright &copy; 2008, 2009, 2014, 2015, 2017-2020 <a href=\"http://www."
-"stallman.org/\">Richard Stallman</a>."
+msgid "Copyright &copy; 2008, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2008, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

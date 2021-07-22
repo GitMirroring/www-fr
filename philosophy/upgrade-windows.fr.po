@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: upgrade-windows.html\n"
-"POT-Creation-Date: 2019-01-29 00:26+0000\n"
+"POT-Creation-Date: 2021-07-22 13:56+0000\n"
 "PO-Revision-Date: 2019-02-01 18:05+0100\n"
 "Last-Translator: Alexandre Garreau <galex-713 AT galex-713.eu>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -23,15 +23,15 @@ msgstr ""
 "Comment bien mettre à niveau une installation de Windows ? - Projet GNU - "
 "Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "What Is the Right Way to Upgrade an Installation of Windows?"
 msgstr "Comment bien mettre à niveau une installation de Windows ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "by Richard Stallman"
 msgstr "par Richard Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "It is commonplace in the computing field to urge users to &ldquo;"
 "upgrade&rdquo; to newer versions of Windows (and other nonfree programs) so "
@@ -49,7 +49,7 @@ msgstr ""
 "savons que ce n’est pas le cas pour Windows. Ainsi, nous recommandons "
 "quelque chose de différent."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In fact, newer versions of Windows have exploits before they are released. "
 "They are designed with various kinds of malicious functionalities; see "
@@ -61,7 +61,7 @@ msgstr ""
 "malveillantes ; voir « <a href=\"/proprietary/malware-microsoft.html"
 "\">Malveillance des logiciels Microsoft</a> »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Newer Windows versions contain added malicious functionalities; they give "
 "Microsoft more power over the users. That is a reason not to switch to a "
@@ -75,7 +75,7 @@ msgstr ""
 "utilisateurs, cela pourrait nécessiter de rétribuer Microsoft financièrement "
 "ou même d’acheter un nouvel ordinateur. Nous sommes loin d’encourager cela !"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Therefore we decline to support Microsoft by urging users to move to newer "
 "versions; we do not treat the unintentional flaws of Windows as more "
@@ -86,7 +86,7 @@ msgstr ""
 "failles accidentelles de Windows plus d'importance qu'aux failles "
 "intentionnelles."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Our advice to those using any version of Windows is to <a href=\"https://"
 "upgradefromwindows.org\">upgrade to GNU/Linux</a>."
@@ -94,7 +94,7 @@ msgstr ""
 "Notre conseil à ceux qui utilisent une version de Windows, quelle qu'elle "
 "soit : <a href=\"https://upgradefromwindows.org\">passez à GNU/Linux</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Supporting GNU packages on any version of Windows (or any non-GNU-like "
 "systems) is not part of the GNU Project's core mission. Our slogan is, "
@@ -138,14 +138,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -156,8 +156,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2019 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2019 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2019, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2019, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

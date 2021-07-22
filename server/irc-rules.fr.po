@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: irc-rules.html\n"
-"POT-Creation-Date: 2021-07-21 15:55+0000\n"
-"PO-Revision-Date: 2021-07-21 19:15+0200\n"
+"POT-Creation-Date: 2021-07-22 08:26+0000\n"
+"PO-Revision-Date: 2021-07-22 11:13+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -26,13 +26,13 @@ msgstr ""
 "Canaux IRC en rapport avec GNU et la FSF - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Rules and guidelines for the official GNU and FSF IRC channels"
 msgstr ""
 "Règles et recommandations pour l'utilisation des canaux officiels de GNU et "
 "de la FSF"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<strong>GNU and FSF move official IRC channels to the Libera.Chat network "
 "effective immediately.</strong>"
@@ -40,7 +40,7 @@ msgstr ""
 "<strong>Les canaux IRC officiels de GNU et de la FSF ont migré vers le "
 "réseau Libera.Chat.</strong>"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"https://lists.gnu.org/archive/html/info-gnu/2021-06/"
 "msg00005.html\">original announcement</a> and the follow-up <a href="
@@ -51,7 +51,7 @@ msgstr ""
 "html\">l'annonce initiale</a> et sa <a href=\"https://lists.gnu.org/archive/"
 "html/info-gnu/2021-06/msg00007.html\">mise à jour</a> pour plus de détails."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "IRC (Internet Relay Chat) provides a wonderful resource to connect free "
 "software users and developers together.  Our channels try to be welcoming to "
@@ -64,7 +64,7 @@ msgstr ""
 "accueillants, aussi bien pour les nouveaux venus que pour les habitués. Les "
 "recommandations qui suivent ont été établies dans ce but."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Everyone who uses or contributes to free software is a valuable member of "
 "the free software community.  The goal of the GNU and FSF IRC channels is to "
@@ -79,63 +79,15 @@ msgstr ""
 "telle la gestion numérique des restrictions (<abbr title=\"Digital "
 "Restrictions Management\">DRM</abbr>)."
 
-#. type: Content of: <h3>
-msgid "Getting help"
-msgstr "Comment obtenir de l'aide"
-
-#. type: Content of: <p>
-msgid ""
-"If you believe that someone is violating these rules, in any of these "
-"channels, please reach out to that channel's operators.  If an operator is "
-"unable to help you immediately, please be patient."
-msgstr ""
-"Si vous pensez que quelqu'un a enfreint ces règles, contactez les opérateurs "
-"du canal où cela s'est produit. Si l'opérateur ne peut pas vous aider "
-"immédiatement, soyez patient."
-
-#. type: Content of: <p>
-msgid ""
-"Prefer to ask general questions generally, in the main channel.  Other "
-"community members can help, as much as the operators, in most cases."
-msgstr ""
-"Il est souvent préférable de poser les questions générales dans le canal "
-"principal. Dans la plupart des cas, les autres membres de la communauté "
-"peuvent vous aider tout autant que les opérateurs."
-
-#. type: Content of: <p>
-msgid ""
-"If you need to chat privately with one of the operators, one way to do that "
-"is by typing: <code>/query NICK</code> (where 'NICK' is the plain username - "
-"for example: bandali, not: @bandali)."
-msgstr ""
-"Si vous avez besoin d'avoir une conversation privée avec un opérateur, l'un "
-"des moyens est de taper <code>/query <var>nick</var></code> (où <var>nick</"
-"var> est son nom d'utilisateur – par exemple <code>bandali</code> et non "
-"<code>@bandali</code>)."
-
-#. type: Content of: <p>
-msgid ""
-"You can identify the operators by typing: <code>/msg ChanServ flags CHANNEL</"
-"code> (where: 'CHANNEL' is the channel name - for example: #gnu).  If the "
-"operators are unable to help you, or if your concern is of a more sensitive "
-"nature, please email <a href=\"mailto:campaigns@fsf.org\">campaigns@fsf.org</"
-"a>."
-msgstr ""
-"Vous pouvez identifier les opérateurs en tapant <code>/"
-"msg ChanServ flags <var>nom-du-canal</var></code> (par exemple <code>/"
-"msg ChanServ flags #gnu</code>). Si l'opérateur n'est pas en mesure de vous "
-"aider ou si votre souci est d'une nature plus délicate, écrivez à <a href="
-"\"mailto:campaigns@fsf.org\">campaigns@fsf.org</a>."
-
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "List of channels"
 msgstr "Liste des canaux"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "This is a list of our channels."
 msgstr "Voici une liste de nos canaux."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"ircs://irc.libera.chat:6697/gnu\">#gnu</a> &mdash; the "
 "<em>official</em> GNU Project Channel"
@@ -143,7 +95,7 @@ msgstr ""
 "<a href=\"ircs://irc.libera.chat:6697/gnu\">#gnu</a> – le canal "
 "<em>officiel</em> du projet GNU"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"ircs://irc.libera.chat:6697/gnu-women\">#gnu-women</a> &mdash; a "
 "channel for women in GNU and other free software"
@@ -151,14 +103,14 @@ msgstr ""
 "<a href=\"ircs://irc.libera.chat:6697/gnu-women\">#gnu-women</a> – un canal "
 "pour les femmes travaillant sur le projet GNU ou autres logiciels libres"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"ircs://irc.libera.chat:6697/gnu-es\">#gnu-es</a> &mdash; GNU in "
 "Spanish"
 msgstr ""
 "<a href=\"ircs://irc.libera.chat:6697/gnu-es\">#gnu-es</a> – GNU en espagnol"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"ircs://irc.libera.chat:6697/gnu-mx\">#gnu-mx</a> &mdash; "
 "Discussion about GNU Mexico chapter"
@@ -166,7 +118,7 @@ msgstr ""
 "<a href=\"ircs://irc.libera.chat:6697/gnu-mx\">#gnu-mx</a> – le canal de la "
 "branche mexicaine de GNU"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"ircs://irc.libera.chat:6697/fsf\">#fsf</a> &mdash; Discussion "
 "about the <a href=\"https://www.fsf.org/\">FSF (Free Software Foundation) "
@@ -175,7 +127,7 @@ msgstr ""
 "<a href=\"ircs://irc.libera.chat:6697/fsf\">#fsf</a> – à propos de <a href="
 "\"https://www.fsf.org/\">la FSF et fsf.org</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"ircs://irc.libera.chat:6697/libreplanet\">#libreplanet</a> &mdash; "
 "Discussion of the LibrePlanet website, and <a href=\"https://www.fsf.org/"
@@ -185,7 +137,7 @@ msgstr ""
 "propos du site web LibrePlanet et du <a href=\"https://www.fsf.org/"
 "conference/\">congrès LibrePlanet</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"ircs://irc.libera.chat:6697/emacs\">#emacs</a> &mdash; Discussion "
 "regarding <a href=\"/software/emacs/\">Emacs</a>"
@@ -193,7 +145,7 @@ msgstr ""
 "<a href=\"ircs://irc.libera.chat:6697/emacs\">#emacs</a> – à propos d'<a "
 "href=\"/software/emacs/\">Emacs</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"ircs://irc.libera.chat:6697/hurd\">#hurd</a> &mdash; Discussion "
 "regarding <a href=\"/software/hurd/\">Hurd</a>"
@@ -201,7 +153,7 @@ msgstr ""
 "<a href=\"ircs://irc.libera.chat:6697/hurd\">#hurd</a> – à propos de <a href="
 "\"/software/hurd/\">Hurd</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"ircs://irc.libera.chat:6697/grub\">#grub</a> &mdash; for the GNU "
 "bootloader, <a href=\"/software/grub/\">GRUB</a>"
@@ -209,7 +161,7 @@ msgstr ""
 "<a href=\"ircs://irc.libera.chat:6697/grub\">#grub</a> – à propos de <a href="
 "\"/software/grub/\">GRUB</a>, le chargeur d'amorçage de GNU"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"ircs://irc.libera.chat:6697/savannah\">#savannah</a> &mdash; GNU "
 "and NonGNU <a href=\"https://savannah.gnu.org\">Savannah</a> hangout and "
@@ -219,7 +171,7 @@ msgstr ""
 "retrouvent les utilisateurs de <a href=\"https://savannah.gnu.org/"
 "\">Savannah.GNU.org</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"ircs://irc.libera.chat:6697/gnu-webmasters\">#gnu-webmasters</a> "
 "&mdash; The <a href=\"/people/webmeisters.html\">GNU Webmasters</a> channel, "
@@ -229,7 +181,7 @@ msgstr ""
 "le canal des <a href=\"/people/webmeisters.html\">webmestres de GNU</a>, "
 "réservé aux discussions à propos de www.gnu.org"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"ircs://irc.libera.chat:6697/erc\">#erc</a> &mdash; IRC channel "
 "about ERC, an IRC client built into GNU Emacs"
@@ -237,7 +189,7 @@ msgstr ""
 "<a href=\"ircs://irc.libera.chat:6697/erc\">#erc</a> – un canal dédié à ERC, "
 "un client IRC pour Emacs"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"ircs://irc.libera.chat:6697/emacs-beginners\">#emacs-beginners</a> "
 "&mdash; IRC channel for helping out Emacs beginners"
@@ -245,7 +197,7 @@ msgstr ""
 "<a href=\"ircs://irc.libera.chat:6697/emacs-beginners\">#emacs-beginners</a> "
 "– sur lequel les utilisateurs débutants d'Emacs peuvent trouver de l'aide"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"ircs://irc.libera.chat:6697/emacsconf\">#emacsconf</a> &mdash; "
 "Discussion about the Emacs Conference"
@@ -253,7 +205,7 @@ msgstr ""
 "<a href=\"ircs://irc.libera.chat:6697/emacsconf\">#emacsconf</a> – "
 "discussion sur le congrès d'Emacs"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"ircs://irc.libera.chat:6697/gnu-librejs\">#librejs</a> &mdash; "
 "Discussion regarding <a href=\"/software/librejs/\">LibreJS</a> and how to "
@@ -263,11 +215,11 @@ msgstr ""
 "discussion sur <a href=\"/software/librejs/\">LibreJS</a> and comment "
 "libérer votre JavaScript"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Channel rules"
 msgstr "Règles à suivre"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "Respect &mdash; don't engage in racism or hate speech.  People are entitled "
 "to different opinions."
@@ -275,7 +227,7 @@ msgstr ""
 "Respect – ne tenez pas de propos raciste ou haineux. Chacun a le droit "
 "d'avoir ses opinions."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "Appropriate &mdash; think before you type, is your comment appropriate? Is "
 "it possible someone may misinterpret what you're saying in jest as hateful "
@@ -285,7 +237,7 @@ msgstr ""
 "approprié ? Votre plaisanterie pourrait-elle être interprétée comme un "
 "propos haineux ?"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "Keep it on topic &mdash; personal attacks, trolling/baiting or flooding "
 "(posting multiple repetitive lines or large amounts of code) of the channel "
@@ -295,7 +247,7 @@ msgstr ""
 "trolls ou leur amorçage, ni le flood (poster plusieurs fois la même ligne, "
 "ou de grandes quantités de code)."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "And finally &mdash; each GNU Project and FSF channel exists to promote a "
 "specific aspect of GNU development or use; more generally, they all exist to "
@@ -308,11 +260,11 @@ msgstr ""
 "la liberté des utilisateurs de logiciels. Utilisez ces canaux d'une manière "
 "qui contribue à ces objectifs."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Abuses will not be tolerated"
 msgstr "Les comportements inappropriés ne seront pas tolérés"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "IRC is not the exclusive playground of a few select individuals, and "
 "recently some users have been banned from various official channels.  These "
@@ -324,7 +276,7 @@ msgstr ""
 "officiels. Ces mesures regrettables mais malheureusement nécessaires sont "
 "destinées à prévenir d'autres abus de leur part."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Bans can be applied to a channel, or to all channels based on the severity "
 "or frequency of the abuses, at the discretion of the channel operators."
@@ -333,7 +285,7 @@ msgstr ""
 "canaux selon la gravité ou la fréquence des abus, à la discrétion des "
 "opérateurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Before you are banned, you will often be warned by an operator first, "
 "however this is not always practical and an operator may deem it unnecessary "
@@ -344,7 +296,7 @@ msgstr ""
 "l'opérateur peut juger que ce n'est pas nécessaire si l'utilisateur a été "
 "récemment exclu ou banni."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In an ideal world, there would be no need for IRC operators, but instead of "
 "trying to blame operators for this, blame the users who are not willing to "
@@ -354,34 +306,59 @@ msgstr ""
 "les rendre responsables de la situation, blâmez les utilisateurs qui mettent "
 "de la mauvaise volonté à s'intégrer à notre communauté."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Rules end here, but here are some helpful suggestions&hellip;"
 msgstr ""
 "Les règles s'arrêtent là, mais voici quelques suggestions utiles&hellip;"
 
-#. type: Content of: <p>
-msgid ""
-"Speak to one of the operators.  If an operator is unable to help you "
-"immediately, please be patient.  Ask other members of the channel for help "
-"and contact details for the operator."
-msgstr ""
-"Parlez de votre problème à l'un des opérateurs. Si aucun ne peut vous aider "
-"immédiatement, veuillez être patient. Demandez aux autres membres présents "
-"sur le canal de vous aider et de vous dire comment contacter un opérateur."
+#. type: Content of: <div><h3>
+msgid "Getting help"
+msgstr "Comment obtenir de l'aide"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"You can find a list of operators by typing <code>/msg ChanServ flags #gnu</"
-"code> (where #gnu is the channel you are interested in)."
+"If you had any problem with trolls, abusers, or people violating channels' "
+"rules, please reach out to the channel's operators.  If an operator is "
+"unable to help you immediately, please be patient."
 msgstr ""
-"Vous trouverez la liste des opérateurs en tapant <code>/msg ChanServ flags "
-"#gnu list</code> (où #gnu est le canal qui vous intéresse)"
+"Si vous avez des problèmes avec des trolls, des comportements inappropriés "
+"ou des manquements aux règles, signalez-les aux opérateurs du canal "
+"concerné. Si aucun opérateur ne peut vous aider immédiatement, soyez patient."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><p>
+msgid ""
+"Prefer to ask general questions generally; other channel members can help, "
+"as much as the operators, in most cases."
+msgstr ""
+"Posez de préférence les questions générales d'une manière générale ; dans la "
+"plupart des cas, les autres membres de la communauté peuvent vous aider tout "
+"autant que les opérateurs."
+
+#. type: Content of: <div><p>
+msgid "You can identify the operators by typing:"
+msgstr "Vous pouvez identifier les opérateurs en tapant"
+
+#. type: Content of: <div><p>
+msgid "<code>/msg ChanServ flags <var>channel</var></code>"
+msgstr "<code>/msg ChanServ flags <var>canal</var></code>"
+
+#. type: Content of: <div><p>
+msgid ""
+"where <code><var>channel</var></code> is the channel name, for example "
+"<code>#gnu</code>.  If the operators are unable to help you, or if your "
+"concern is of a more sensitive nature, please email <a href=\"mailto:"
+"campaigns@fsf.org\">&lt;campaigns@fsf.org&gt;</a>."
+msgstr ""
+"où <code><var>canal</var></code> est les nom du canal, par exemple "
+"<code>#gnu</code>. Si l'opérateur n'est pas en mesure de vous aider ou que "
+"votre souci est de nature plus délicate, écrivez à &lt;<a href=\"mailto:"
+"campaigns@fsf.org\">campaigns@fsf.org</a>&gt;."
+
+#. type: Content of: <div><h3>
 msgid "Libera.Chat guidelines"
 msgstr "Recommandations de Libera.Chat"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Libera.Chat also maintains <a href=\"https://libera.chat/guidelines\">a list "
 "of channel guidelines</a> which you should also consider.  Certain "
@@ -395,11 +372,11 @@ msgstr ""
 "\">Emacs</a> sont souvent constructives pour le logiciel libre. Nous "
 "encourageons ces débats constructifs."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Remember"
 msgstr "N'oubliez pas"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "IRC is there for everyone, not just seasoned GNU developers.  It is "
 "unreasonable to expect everyone to ignore a user who is misbehaving, and if "
@@ -438,14 +415,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -456,12 +433,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 1996-2009, 2014-2018, 2020, 2021 Free Software Foundation, "
-"Inc."
-msgstr ""
-"Copyright &copy; 1996-2009, 2014-2018, 2020, 2021 Free Software Foundation, "
-"Inc."
+msgid "Copyright &copy; 1996-2010, 2015, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1996-2010, 2015, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -485,12 +458,3 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
-
-#~ msgid ""
-#~ "<b>If you have problems with any of these channels, with trolls or "
-#~ "abusive members, please email us at <a href=\"mailto:campaigns@fsf.org"
-#~ "\">campaigns@fsf.org</a>.</b>"
-#~ msgstr ""
-#~ "<b>Si vous avez des problèmes avec l'un de ces canaux, avec des trolls ou "
-#~ "avec le comportement inapproprié de certains membres, veuillez écrire à "
-#~ "<a href=\"mailto:campaigns@fsf.org\">campaigns@fsf.org</a>.</b>"
