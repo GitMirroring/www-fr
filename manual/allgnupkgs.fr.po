@@ -10,8 +10,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: allgnupkgs.html\n"
-"POT-Creation-Date: 2021-05-03 21:56+0000\n"
-"PO-Revision-Date: 2021-07-04 20:19+0200\n"
+"POT-Creation-Date: 2021-08-16 08:57+0000\n"
+"PO-Revision-Date: 2021-08-17 10:26+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -1585,18 +1585,6 @@ msgstr ""
 "software/oo-browser/\">oo-browser – accueil</a>]"
 
 #. type: Content of: <div><dl><dt>
-msgid "<a href=\"/software/phantom_home/\">Phantom.Home</a>"
-msgstr "<a href=\"/software/phantom_home/\">Phantom.Home</a>"
-
-#. type: Content of: <div><dl><dd>
-msgid ""
-"Computer-controlled home automation.  [<a href=\"/software/phantom_home/"
-"\">phantom_home&nbsp;home</a>]"
-msgstr ""
-"Domotique contrôlée par ordinateur. [<a href=\"/software/phantom_home/"
-"\">phantom_home – accueil</a>]"
-
-#. type: Content of: <div><dl><dt>
 msgid "<a href=\"/software/powerguru/#documentation\">PowerGuru</a>"
 msgstr "<a href=\"/software/powerguru/#documentation\">PowerGuru</a>"
 
@@ -2441,18 +2429,6 @@ msgstr ""
 " accueil</a>]"
 
 #. type: Content of: <div><dl><dt>
-msgid "<a href=\"/software/dionysus/\">Dionysus</a>"
-msgstr "<a href=\"/software/dionysus/\">Dionysus</a>"
-
-#. type: Content of: <div><dl><dd>
-msgid ""
-"Local search for universal constants and scientific values.  [<a href=\"/"
-"software/dionysus/\">dionysus&nbsp;home</a>]"
-msgstr ""
-"Recherche locale de constantes universelles et autres paramètres à usage "
-"scientifique. [<a href=\"/software/dionysus/\">dionysus – accueil</a>]"
-
-#. type: Content of: <div><dl><dt>
 msgid "<a href=\"http://www.staticfreesoft.com/jmanual/\">Electric</a>"
 msgstr "<a href=\"http://www.staticfreesoft.com/jmanual/\">Electric</a>"
 
@@ -2475,18 +2451,6 @@ msgid ""
 msgstr ""
 "Ajustement des réseaux géodésiques. [<a href=\"/software/gama/\">gama –"
 " accueil</a>]"
-
-#. type: Content of: <div><dl><dt>
-msgid "<a href=\"/software/gneuralnetwork/\">Gneural Network</a>"
-msgstr "<a href=\"/software/gneuralnetwork/\">Gneural Network</a>"
-
-#. type: Content of: <div><dl><dd>
-msgid ""
-"Programmable neural network.  [<a href=\"/software/gneuralnetwork/"
-"\">gneuralnetwork&nbsp;home</a>]"
-msgstr ""
-"Réseau de neurones programmable. [<a href=\"/software/gneuralnetwork/"
-"\">gneuralnetwork – accueil</a>]"
 
 #. type: Content of: <div><dl><dt>
 msgid "<a href=\"/software/gnuae/manual/\">GnuAE</a>"
@@ -3677,18 +3641,6 @@ msgstr ""
 "\">poke&nbsp;home</a>]"
 
 #. type: Content of: <div><dl><dt>
-msgid "<a href=\"/software/pyconfigure/manual/\">Pyconfigure</a>"
-msgstr "<a href=\"/software/pyconfigure/manual/\">Pyconfigure</a>"
-
-#. type: Content of: <div><dl><dd>
-msgid ""
-"Configure interface for Python-based packages.  [<a href=\"/software/"
-"pyconfigure/\">pyconfigure&nbsp;home</a>]"
-msgstr ""
-"Interface avec configure pour les paquets basés sur Python. [<a href=\"/"
-"software/pyconfigure/\">pyconfigure – accueil</a>]"
-
-#. type: Content of: <div><dl><dt>
 msgid "<a href=\"/software/pythonwebkit/\">Pythonwebkit</a>"
 msgstr "<a href=\"/software/pythonwebkit/\">Pythonwebkit</a>"
 
@@ -3858,18 +3810,6 @@ msgstr ""
 "le déboguage. [<a href=\"/software/teseq/\">teseq – accueil</a>]"
 
 #. type: Content of: <div><dl><dt>
-msgid "<a href=\"/software/thales/manual/\">Thales</a>"
-msgstr "<a href=\"/software/thales/manual/\">Thales</a>"
-
-#. type: Content of: <div><dl><dd>
-msgid ""
-"Unit test framework for Guile.  [<a href=\"/software/thales/\">thales&nbsp;"
-"home</a>]"
-msgstr ""
-"Ensemble de méthodes pour les tests unitaires dans Guile. [<a href=\"/"
-"software/thales/\">thales – accueil</a>]"
-
-#. type: Content of: <div><dl><dt>
 msgid "<a href=\"/software/vmgen/\">Vmgen</a>"
 msgstr "<a href=\"/software/vmgen/\">Vmgen</a>"
 
@@ -3947,6 +3887,19 @@ msgstr ""
 " accueil</a>]"
 
 #. type: Content of: <div><dl><dt>
+msgid "<a href=\"https://sourceware.org/binutils/docs/bfd/\">BFD</a>"
+msgstr "<a href=\"https://sourceware.org/binutils/docs/bfd/\">BFD</a>"
+
+#. type: Content of: <div><dl><dd>
+msgid ""
+"Binary File Descriptor library.  [<a href=\"/software/bfd/\">bfd&nbsp;home</"
+"a>]"
+msgstr ""
+"Bibliothèque de descripteurs de fichiers binaires (<abbr title=\"Generic "
+"Security Services\">GSS</abbr>). [<a href=\"/software/bfd/\">bfd – accueil</"
+"a>]"
+
+#. type: Content of: <div><dl><dt>
 msgid "<a href=\"/software/cgicc/\">Cgicc</a>"
 msgstr "<a href=\"/software/cgicc/\">Cgicc</a>"
 
@@ -4010,18 +3963,6 @@ msgid ""
 msgstr ""
 "Gestion d'une plateforme, y compris la surveillance des capteurs et de "
 "l'énergie. [<a href=\"/software/freeipmi/\">freeipmi – accueil</a>]"
-
-#. type: Content of: <div><dl><dt>
-msgid "<a href=\"/software/gleem/doc/\">Gleem</a>"
-msgstr "<a href=\"/software/gleem/doc/\">Gleem</a>"
-
-#. type: Content of: <div><dl><dd>
-msgid ""
-"OpenGL Extremely Easy-to-use Manipulators.  [<a href=\"/software/gleem/"
-"\">gleem&nbsp;home</a>]"
-msgstr ""
-"Manipulateurs d'OpenGL extrêmement faciles à utiliser. [<a href=\"/software/"
-"gleem/\">gleem – accueil</a>]"
 
 #. type: Content of: <div><dl><dt>
 msgid "<a href=\"http://library.gnome.org/devel/glib/unstable/\">GLib</a>"
