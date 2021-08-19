@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: microsoft-new-monopoly.html\n"
-"POT-Creation-Date: 2021-07-21 12:56+0000\n"
+"POT-Creation-Date: 2021-08-19 07:56+0000\n"
 "PO-Revision-Date: 2021-07-21 19:15+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -24,15 +24,15 @@ msgid "Microsoft's New Monopoly - GNU Project - Free Software Foundation"
 msgstr ""
 "Le nouveau monopole de Microsoft - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Microsoft's New Monopoly"
 msgstr "Le nouveau monopole de Microsoft"
 
-#. type: Content of: <address>
+#. type: Content of: <div><address>
 msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This article was written in July 2005.  Microsoft adopted a different policy "
 "in 2006, so the specific policies described below and the specific "
@@ -53,7 +53,7 @@ msgstr ""
 "\"> La nouvelle politique astucieusement formulée de Microsoft ne donne pas "
 "à tout le monde la permission claire de mettre en œuvre OOXML</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "European legislators who endorse software patents frequently claim that "
 "those wouldn't affect free software (or &ldquo;open source&rdquo;).  "
@@ -64,7 +64,7 @@ msgstr ""
 "source »). Les avocats de Microsoft ont bien l'intention de prouver qu'ils "
 "se trompent."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Leaked internal documents in 1998 said that Microsoft considered the free "
 "software GNU/Linux operating system (referred to therein as &ldquo;"
@@ -77,7 +77,7 @@ msgstr ""
 "et envisageait d'utiliser des brevets et des formats de fichiers secrets "
 "pour freiner sa progression."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Because Microsoft has so much market power, it can often impose new "
 "standards at will. It need only patent some minor idea, design a file "
@@ -95,7 +95,7 @@ msgstr ""
 "les mains liées par Microsoft et nous avons les mains liées pour leur "
 "proposer nos services."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Previously Microsoft tried to get its patented scheme for spam blocking "
 "adopted as an Internet standard, so as to exclude free software from "
@@ -109,12 +109,12 @@ msgstr ""
 "proposition, mais Microsoft a déclaré qu'elle allait essayer de convaincre "
 "les grands fournisseurs d'accès d'utiliser ce système malgré tout."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid "Now Microsoft is planning to try something similar for Word files."
 msgstr ""
 "Maintenant Microsoft essaie de faire la même chose avec les fichiers Word."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Several years ago, Microsoft abandoned its documented format for saving "
 "documents, and switched to a new format which was secret.  However, the "
@@ -129,7 +129,7 @@ msgstr ""
 "ce format, et maintenant ces  programmes peuvent lire la plupart des "
 "fichiers Word. Mais Microsoft n'a pas dit son dernier mot."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The next version of Microsoft Word will use formats that involve a technique "
 "that Microsoft claims to hold a patent on. Microsoft offers a royalty-free "
@@ -144,7 +144,7 @@ msgstr ""
 "libres. Voici <a href=\"https://docs.microsoft.com/en-us/previous-versions/"
 "gg463420(v=msdn.10)\">la licence</a> en question."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Free software is defined as software that respects four fundamental "
 "freedoms: (0) freedom to run the software as you wish, (1) freedom to study "
@@ -164,7 +164,7 @@ msgstr ""
 "utilisateurs bénéficient des modifications que les programmeurs écrivent et "
 "publient."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Distributing an application under Microsoft's patent license imposes license "
 "terms that prohibit most possible modifications of the software. Lacking "
@@ -180,7 +180,7 @@ msgstr ""
 "source » non plus, puisque cette définition est similaire ; mais elle n'est "
 "pas identique et je ne peux pas parler pour les défenseurs de l'open source)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The Microsoft license also requires inclusion of a specific statement. That "
 "requirement would not in itself prevent the program from being free: it is "
@@ -208,7 +208,7 @@ msgstr ""
 "href=\"/philosophy/not-ipr.html\">l'article de Richard Stallman sur la "
 "“propriété intellectuelle”</a> pour en savoir plus. »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "However, the requirement to include a fixed piece of text is actually quite "
 "cunning, because anyone who does so has explicitly accepted and applied the "
@@ -220,7 +220,7 @@ msgstr ""
 "imposées par la licence de brevet de Microsoft. Le programme qui en résulte "
 "n'est de toute évidence pas un logiciel libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Some free software licenses, such as the most popular GNU General Public "
 "License (GNU GPL), forbid publication of a modified version if it isn't free "
@@ -245,7 +245,7 @@ msgstr ""
 "licence de brevet Microsoft. Mais cette version modifiée, avec sa licence "
 "modifiée, ne serait pas un logiciel libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Microsoft's patent covering the new Word format is a US patent.  It doesn't "
 "restrict anyone in Europe; Europeans are free to make and use software that "
@@ -267,7 +267,7 @@ msgstr ""
 "poursuivre des Américains, mais les Américains ne peuvent pas obtenir de "
 "brevets logiciels européens si l'Europe ne les autorise pas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "All that will change if the European Parliament authorizes software patents. "
 "Microsoft will be one of thousands of foreign software patent holders that "
@@ -286,7 +286,7 @@ msgstr ""
 "vote du Parlement européen confirme l'illégalité de ces brevets et "
 "garantisse la protection des Européens."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "[2009 note]: the EU directive to allow software patents was rejected, but "
 "the European Patent Office has continued issuing them and some countries "

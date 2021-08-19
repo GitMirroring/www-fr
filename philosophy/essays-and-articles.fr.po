@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: essays-and-articles.html\n"
-"POT-Creation-Date: 2021-07-10 09:56+0000\n"
-"PO-Revision-Date: 2021-07-17 21:01+0200\n"
+"POT-Creation-Date: 2021-08-19 07:56+0000\n"
+"PO-Revision-Date: 2021-08-19 10:41+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -23,11 +23,11 @@ msgstr ""
 msgid "Essays and Articles - GNU Project - Free Software Foundation"
 msgstr "Essais et articles - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Essays and Articles"
 msgstr "Essais et articles"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This page lists a series of articles describing the philosophy of the free "
 "software movement, which is the motivation for our development of the free "
@@ -37,91 +37,145 @@ msgstr ""
 "mouvement du logiciel libre, qui est la motivation de notre développement du "
 "système d'exploitation libre GNU."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"A <a href=\"/philosophy/latest-articles.html\">list of the latest published "
-"articles</a> is also available."
+"The most important articles are marked with asterisks, and listed first in "
+"each category. The other ones are in reverse chronological order."
 msgstr ""
-"Il existe également une <a href=\"/philosophy/latest-articles.html\">liste "
-"des derniers articles</a>."
+"Les articles les plus importants de chaque catégorie sont marqués d'une "
+"astérisque et placés en premier. Les autres sont en ordre chronologique "
+"inverse."
 
-#.  please leave both these ID attributes here. ... 
-#.  ... we removed this as an H$ section as it was duplicating the  
-#.  same information on links.html, but it's possible that some users 
-#.  have the URLs bookmarked or on their pages. -len 
-#. type: Content of: <div><p>
-msgid ""
-"<a id=\"TOCFreedomOrganizations\">We</a> <a id=\"FreedomOrganizations"
-"\">also</a> keep a list of <a href=\"/links/links.html#FreedomOrganizations"
-"\">Organizations that Work for Freedom in Computer Development and "
-"Electronic Communications</a>."
-msgstr ""
-"<a id=\"TOCFreedomOrganizations\">Nous</a> <a id=\"FreedomOrganizations"
-"\">répertorions</a> également les <a href=\"/links/links."
-"html#FreedomOrganizations\">organisations qui œuvrent pour la liberté dans "
-"le développement informatique et les communications électroniques</a>."
-
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Table of Contents"
 msgstr "Table des matières"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#aboutfs\">About Free Software</a>"
 msgstr "<a href=\"#aboutfs\">À propos du logiciel libre</a>"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"#aboutgnu\">About the GNU Operating System</a>"
-msgstr "<a href=\"#aboutgnu\">À propos du système d'exploitation GNU</a>"
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#principles\">Principles</a>"
+msgstr "<a href=\"#principles\">Principes</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#practice\">Practice</a>"
+msgstr "<a href=\"#practice\">Pratique</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#extension\">Extension to other areas</a>"
+msgstr "<a href=\"#extension\">Extension à d'autres domaines</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#mix\">Mixing free and nonfree</a>"
+msgstr "<a href=\"#mix\">Mélange du libre et du non libre</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#free-open\">Free software and open source</a>"
+msgstr "<a href=\"#free-open\">Logiciel libre et open source</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#upholding\">Upholding Software Freedom</a>"
+msgstr "<a href=\"#upholding\">Défense du logiciel libre</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"/gnu/gnu.html\">The GNU Project</a>"
+msgstr "<a href=\"/gnu/gnu.html\">Le projet GNU</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#fsmovement\">The free software movement</a>"
+msgstr "<a href=\"#fsmovement\">Le mouvement du logiciel libre</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#need\">The need for free software</a>"
+msgstr "<a href=\"#need\">Nécessité du logiciel libre</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#action\">Guide for action</a>"
+msgstr "<a href=\"#action\">Guide pour l'action</a>"
+
+#. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#LicensingFreeSoftware\">Licensing Free Software</a>"
 msgstr "<a href=\"#LicensingFreeSoftware\">Licences de logiciel libre</a>"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"#Laws\">Laws and Issues</a>"
-msgstr "<a href=\"#Laws\">Droit et société</a>"
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"/licenses/licenses.html\">General information</a>"
+msgstr "<a href=\"/licenses/licenses.html\">Informations générales</a>"
 
-#. type: Content of: <div><ul><li><ul><li>
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#copyleft\">Copyleft</a>"
+msgstr "<a href=\"#copyleft\">Copyleft</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#non-copyleft\">Non-copyleft</a>"
+msgstr "<a href=\"#non-copyleft\">Non-copyleft</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#traps\">Licensing traps</a>"
+msgstr "<a href=\"#traps\">Pièges</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#Laws\">Legal Issues</a>"
+msgstr "<a href=\"#Laws\">Questions juridiques</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
 msgid "<a href=\"#patents\">Patents</a>"
 msgstr "<a href=\"#patents\">Brevets</a>"
 
-#. type: Content of: <div><ul><li><ul><li>
+#. type: Content of: <div><div><ul><li><ul><li>
 msgid "<a href=\"#copyright\">Copyright</a>"
 msgstr "<a href=\"#copyright\">Copyright</a>"
 
-#. type: Content of: <div><ul><li><ul><li>
-msgid "<a href=\"#drm\">Digital Restrictions Management</a>"
-msgstr "<a href=\"#drm\">Gestion numérique des restrictions</a>"
-
-#. type: Content of: <div><ul><li><ul><li>
+#. type: Content of: <div><div><ul><li><ul><li>
 msgid ""
 "<a href=\"#noip\">The propaganda term &ldquo;Intellectual Property&rdquo;</a>"
 msgstr ""
 "<a href=\"#noip\">Le terme de propagande « propriété intellectuelle »</a>"
 
-#. type: Content of: <div><ul><li><ul><li>
-msgid "<a href=\"#ns\">Network Services</a>"
-msgstr "<a href=\"#ns\">Services en ligne</a>"
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#sco\">Response to SCO's attacks</a>"
+msgstr "<a href=\"#sco\">Réponse aux attaques de SCO</a>"
 
-#. type: Content of: <div><ul><li><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#cultural\">Cultural and Social Issues</a>"
 msgstr "<a href=\"#cultural\">Enjeux culturels et sociétaux</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#society\">Digital society</a>"
+msgstr "<a href=\"#society\">Société numérique</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#drm\">Digital restrictions management</a>"
+msgstr "<a href=\"#drm\">Gestion numérique des restrictions</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#ns\">Network services</a>"
+msgstr "<a href=\"#ns\">Services en ligne</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#access\">Accessing culture</a>"
+msgstr "<a href=\"#access\">Accès à la culture</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#funding\">Funding cultural works</a>"
+msgstr "<a href=\"#funding\">Financement des œuvres culturelles</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#evils\">Surveillance, censorship, lock-in, etc.</a>"
+msgstr "<a href=\"#evils\">Surveillance, censure, verrouillage, etc.</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"/proprietary/proprietary.html\">Proprietary malware</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary.html\">Maliciels du logiciel privateur</a>"
+
+#. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#terminology\">Terminology and Definitions</a>"
 msgstr "<a href=\"#terminology\">Terminologie et définitions</a>"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"#upholding\">Upholding Software Freedom</a>"
-msgstr "<a href=\"#upholding\">Maintenir la liberté des logiciels</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"#misc\">Misc</a>"
-msgstr "<a href=\"#misc\">Divers</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"#humor\">Philosophical Humor</a>"
-msgstr "<a href=\"#humor\">Humour philosophique</a>"
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"/fun/humor.html#Philosophy\">Philosophical Humor</a>"
+msgstr "<a href=\"/fun/humor.html#Philosophy\">Humour philosophique</a>"
 
 #. type: Content of: <div><h3>
 msgid "About Free Software"
@@ -144,140 +198,526 @@ msgstr ""
 "l'être ; nous croyons que les utilisateurs de logiciels devraient pouvoir en "
 "faire usage."
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/philosophy/free-sw.html\">What is Free Software?</a>"
-msgstr ""
-"<a href=\"/philosophy/free-sw.html\">Qu'est-ce qu'un logiciel libre ?</a>"
+#. type: Content of: <div><h4>
+msgid "Principles"
+msgstr "Principes"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. *[1996&hellip;&nbsp;]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/philosophy/free-sw.html\"> What is Free Software?</a>"
+msgstr ""
+"<a href=\"/philosophy/free-sw.html\">Qu'est-ce que le logiciel libre ?</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[2015]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/why-free.html\">Why Software Should Not Have Owners</a>"
+"<a href=\"/philosophy/free-software-even-more-important.html\"> Free "
+"Software Is Even More Important Now</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/free-software-even-more-important.html\">Le logiciel "
+"libre est encore plus essentiel maintenant</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[1996]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/selling.html\"> Selling Free Software</a> &mdash; This "
+"is OK!"
+msgstr ""
+"<a href=\"/philosophy/selling.html\">Vendre des logiciels libres</a> – Ce "
+"n'est pas un problème !"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2012]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/programs-must-not-limit-freedom-to-run.html\"> Why "
+"programs must not limit the freedom to run them</a> (by RMS)  &mdash; "
+"Freedom 0 must not be limited."
+msgstr ""
+"<a href=\"/philosophy/programs-must-not-limit-freedom-to-run.html\">Pourquoi "
+"la liberté d'exécuter un programme doit être totale</a>, par RMS – La "
+"liberté 0 ne doit pas avoir de limites."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2007]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/your-freedom-needs-free-software.html\"> Your Freedom "
+"Needs Free Software</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/your-freedom-needs-free-software.html\">Votre liberté "
+"a besoin du logiciel libre</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1994]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/why-free.html\"> Why Software Should Not Have Owners</"
+"a> (by RMS)"
 msgstr ""
 "<a href=\"/philosophy/why-free.html\">Pourquoi les logiciels ne doivent pas "
-"avoir de propriétaire</a>"
+"avoir de propriétaire</a>, par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [1991]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/shouldbefree.html\">Why Software Should Be Free</a> "
-"(This is an older and longer essay about the same topic as the previous one)"
+"<a href=\"/philosophy/shouldbefree.html\"> Why Software Should Be Free</a> "
+"(by RMS)  &mdash; An older and longer essay about the same topic as the "
+"previous one."
 msgstr ""
 "<a href=\"/philosophy/shouldbefree.html\">Pourquoi le logiciel doit être "
-"libre</a> : un essai plus ancien et plus long sur le même sujet que le "
-"précédent."
+"libre</a> par RMS – Un essai plus ancien et plus long sur le même sujet que "
+"le précédent."
 
+#. type: Content of: <div><h4>
+msgid "Practice"
+msgstr "Pratique"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[1999-2011]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/free-doc.html\">Why Free Software Needs Free "
+"<a href=\"/philosophy/when-free-software-isnt-practically-superior.html\"> "
+"When Free Software Isn't (Practically) Superior</a> (by Benjamin Mako Hill)"
+msgstr ""
+"<a href=\"/philosophy/when-free-software-isnt-practically-superior.html"
+"\">Quand le logiciel libre n'est pas supérieur, en pratique</a>, par "
+"Benjamin Mako Hill"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2015]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/applying-free-sw-criteria.html\"> Applying the Free "
+"Software Criteria</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/applying-free-sw-criteria.html\">Mettre en application "
+"les critères du logiciel libre</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2014]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/imperfection-isnt-oppression.html\"> Imperfection is "
+"not the same as oppression</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/imperfection-isnt-oppression.html\">Imperfection ne "
+"veut pas dire oppression</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2011]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/android-and-users-freedom.html\"> Android and Users' "
+"Freedom</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/android-and-users-freedom.html\">Android et la liberté "
+"des utilisateurs</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1997-2011]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/software/reliability.html\"> Free Software is More Reliable!</a>"
+msgstr ""
+"<a href=\"/software/reliability.html\">Le logiciel libre est plus fiable</"
+"a> !"
+
+#. type: Content of: <div><h4>
+msgid "Extension to other areas"
+msgstr "Extension à d'autres domaines"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[1996]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/free-doc.html\"> Why Free Software Needs Free "
 "Documentation</a>"
 msgstr ""
 "<a href=\"/philosophy/free-doc.html\">Pourquoi le logiciel libre a besoin "
 "d'une documentation libre</a>"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2020]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/free-software-rocket.html\"> Should Rockets Have Only "
+"Free Software? Free Software and Appliances</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/free-software-rocket.html\">Le logiciel des fusées "
+"doit-il être entièrement libre ? Logiciel libre et matériel</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2015]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/free-hardware-designs.html\"> Free Hardware and Free "
+"Hardware Designs</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/free-hardware-designs.html\">Matériel libre et plans "
+"libres pour le matériel</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2015]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/loyal-computers.html\"> What Does It Mean for Your "
+"Computer to Be Loyal?</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/loyal-computers.html\">À quelles conditions votre "
+"ordinateur vous est-il loyal ?</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2012]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/network-services-arent-free-or-nonfree.html\"> Network "
+"Services Aren't Free or Nonfree; They Raise Other Issues</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/network-services-arent-free-or-nonfree.html\">Les "
+"services en ligne ne sont ni libres ni privateurs ; ils posent d'autres "
+"problèmes</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2000]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/gnutella.html\" id=\"Gnutella\"> Regarding Gnutella</a>"
+msgstr ""
+"<a href=\"/philosophy/gnutella.html\" id=\"Gnutella\">À propos de Gnutella</"
+"a>"
+
+#. type: Content of: <div><h4>
+msgid "Mixing free and nonfree"
+msgstr "Mélange du libre et du non libre"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2016]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/when-free-depends-on-nonfree.html\"> When Free "
-"Software Depends on Nonfree</a>"
+"Software Depends on Nonfree</a> (by RMS)"
 msgstr ""
 "<a href=\"/philosophy/when-free-depends-on-nonfree.html\">Quand le logiciel "
-"libre dépend du logiciel non libre</a>"
+"libre dépend du logiciel non libre</a>, par RMS"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/philosophy/selling.html\">Selling Free Software</a> is OK!"
-msgstr ""
-"<a href=\"/philosophy/selling.html\">Vendre des logiciels libres</a>, ce "
-"n'est pas un problème !"
-
+#. #set var='DATE' value='<span class="date-tag">
+#. [2013]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/categories.html\">Categories of Free and Non-Free "
-"Software</a>"
+"<a href=\"/philosophy/is-ever-good-use-nonfree-program.html\"> Is It Ever a "
+"Good Thing to Use a Nonfree Program?</a> (by RMS)"
 msgstr ""
-"<a href=\"/philosophy/categories.html\">Catégories de logiciels libres et "
-"non libres</a>"
+"<a href=\"/philosophy/is-ever-good-use-nonfree-program.html\">Arrive-t-il "
+"parfois qu'utiliser un logiciel non libre soit une bonne chose ?</a> par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2005]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"/philosophy/floss-and-foss.html\"> FLOSS and FOSS</a>"
-msgstr "<a href=\"/philosophy/floss-and-foss.html\">FLOSS et FOSS</a>"
+msgid "<a href=\"/philosophy/mcvoy.html\"> Thank You, Larry McVoy</a> (by RMS)"
+msgstr "<a href=\"/philosophy/mcvoy.html\">Merci, Larry McVoy</a>, par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [1998]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/software/reliability.html\">Free Software is More Reliable!</a>"
+"<a href=\"/philosophy/udi.html\"> The Free Software Movement and UDI</a> (by "
+"RMS)"
 msgstr ""
-"<a href=\"/software/reliability.html\">Le logiciel libre est plus fiable</"
-"a> !"
+"<a href=\"/philosophy/udi.html\">Le mouvement du logiciel libre et le projet "
+"UDI</a>, par RMS"
 
+#. type: Content of: <div><h4>
+msgid "Free software and open source"
+msgstr "Logiciel libre et open source"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[2007-2021]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/when-free-software-isnt-practically-superior.html\"> "
-"When Free Software Isn't (Practically) Superior</a>"
-msgstr ""
-"<a href=\"/philosophy/when-free-software-isnt-practically-superior.html"
-"\">Quand le logiciel libre n'est pas supérieur, en pratique</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/open-source-misses-the-point.html\">Why &ldquo;Open "
-"Source&rdquo; misses the point of Free Software</a>"
+"<a href=\"/philosophy/open-source-misses-the-point.html\"> Why &ldquo;Open "
+"Source&rdquo; Misses the Point of Free Software</a> (by RMS)"
 msgstr ""
 "<a href=\"/philosophy/open-source-misses-the-point.html\">En quoi l'open "
-"source perd de vue l'éthique du logiciel libre</a>"
+"source perd de vue l'éthique du logiciel libre</a>, par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2015]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/free-open-overlap.html\">How Free Software and Open "
+"<a href=\"/philosophy/free-open-overlap.html\"> How Free Software and Open "
 "Source Relate as Categories of Programs</a>"
 msgstr ""
 "<a href=\"/philosophy/free-open-overlap.html\">Relation entre les catégories "
 "logicielles « libre » et « open source »</a>"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2013]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/linux-gnu-freedom.html\">Linux, GNU, and Freedom</a>"
+"<a href=\"/philosophy/floss-and-foss.html\"> FLOSS and FOSS</a> (by RMS)"
+msgstr "<a href=\"/philosophy/floss-and-foss.html\">FLOSS et FOSS</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2002]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/linux-gnu-freedom.html\"> Linux, GNU, and Freedom</a> "
+"(by RMS)"
 msgstr ""
-"<a href=\"/philosophy/linux-gnu-freedom.html\">Linux, GNU et liberté</a>"
+"<a href=\"/philosophy/linux-gnu-freedom.html\">Linux, GNU et liberté</a>, "
+"par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2001]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/drdobbs-letter.html\"> Letter from RMS to the Editor "
+"of Dr. Dobb's Journal</a> on the distinction between the free software and "
+"open source movements."
+msgstr ""
+"<a href=\"/philosophy/drdobbs-letter.html\">Lettre de RMS au rédacteur en "
+"chef du <cite>Dr. Dobb's Journal</cite></a> à propos de la différence entre "
+"les mouvements du logiciel libre et de l'open source."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1998]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/free-software-for-freedom.html\"> &ldquo;Open Source "
+"Software&rdquo; or &ldquo;Free Software&rdquo;?</a> (replaced by <a href=\"/"
+"philosophy/open-source-misses-the-point.html\"> Why &ldquo;Open "
+"Source&rdquo; Misses the Point of Free Software</a>)"
+msgstr ""
+"<a href=\"/philosophy/free-software-for-freedom.html\">Pourquoi l'expression "
+"« logiciel libre » est meilleure qu'« open source »</a> (remplacé par <a "
+"href=\"/philosophy/open-source-misses-the-point.html\">En quoi l'open source "
+"perd de vue l'éthique du logiciel libre</a>)"
+
+#. type: Content of: <div><h3>
+msgid "Upholding Software Freedom"
+msgstr "Défense du logiciel libre"
+
+#. type: Content of: <div><h4>
+msgid "The GNU Project"
+msgstr "Le Projet GNU"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/gnutella.html\" id=\"Gnutella\">Regarding Gnutella</a>"
+"<a href=\"/gnu/gnu.html\">The GNU Operating System</a> &mdash; History, "
+"relationship with Linux, etc."
 msgstr ""
-"<a href=\"/philosophy/gnutella.html\" id=\"Gnutella\">À propos de Gnutella</"
-"a>"
+"<a href=\"/gnu/gnu.html\">The système d'exploitation GNU</a> – Histoire, "
+"relation avec Linux, etc."
+
+#. type: Content of: <div><h4>
+msgid "The free software movement"
+msgstr "Le mouvement du logiciel libre"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/schools.html\">Why Schools Should Use Exclusively Free "
-"Software</a>"
+"<a href=\"https://www.fsf.org/\"> The official website of the Free Software "
+"Foundation</a>"
 msgstr ""
-"<a href=\"/philosophy/schools.html\">Pourquoi les écoles doivent utiliser "
-"exclusivement du logiciel libre</a>"
+"<a href=\"https://www.fsf.org/\">Site officiel de la <i>Free Software "
+"Foundation</i> (Fondation pour le logiciel libre)</a>"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2004]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"/philosophy/my_doom.html\">MyDoom and You</a>"
-msgstr "<a href=\"/philosophy/my_doom.html\">MyDoom et vous</a>"
+msgid ""
+"<a href=\"/philosophy/use-free-software.html\"> The Free Software Community "
+"After 20 Years</a> (by RMS)  &mdash; With great but incomplete success, what "
+"now?"
+msgstr ""
+"<a href=\"/philosophy/use-free-software.html\">La communauté du logiciel "
+"libre 20 ans après</a>, par RMS – Un grand succès, mais un succès "
+"incomplet ; et maintenant ?"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/15-years-of-free-software.html\"> 15 Years of Free "
-"Software</a>"
+"Software</a> (by RMS)"
 msgstr ""
 "<a href=\"/philosophy/15-years-of-free-software.html\">15 ans de logiciel "
-"libre</a>"
+"libre</a>, par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/free-software-intro.html\">Free Software movement</a>"
+"<a href=\"/philosophy/free-software-intro.html\"> Free Software Movement</a>"
 msgstr ""
 "<a href=\"/philosophy/free-software-intro.html\">Le mouvement du logiciel "
 "libre</a>"
 
+#. type: Content of: <div><h4>
+msgid "The need for free software"
+msgstr "La nécessité du logiciel libre"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[2011-2017]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/your-freedom-needs-free-software.html\"> Your Freedom "
-"Needs Free Software</a>"
+"<a href=\"/philosophy/government-free-software.html\"> Measures Governments "
+"Can Use to Promote Free Software</a> (by RMS)"
 msgstr ""
-"<a href=\"/philosophy/your-freedom-needs-free-software.html\">Votre liberté "
-"a besoin du logiciel libre</a>"
+"<a href=\"/philosophy/government-free-software.html\">Mesures à la portée "
+"des gouvernements pour promouvoir le logiciel libre</a>, par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. *[2009-2014]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/education/edu-schools.html\"> Why Schools Should Use Exclusively "
+"Free Software</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/schools.html\">Pourquoi les écoles doivent utiliser "
+"exclusivement du logiciel libre</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2014]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/technological-neutrality.html\"> Technological "
+"Neutrality and Free Software</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/technological-neutrality.html\">Neutralité "
+"technologique et logiciel libre</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2013]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/uruguay.html\"> Lesson from Uruguay</a> &mdash; The "
+"FSF learned something from a bill presented in Uruguay."
+msgstr ""
+"<a href=\"/philosophy/uruguay.html\">Enseignement tiré de l'Uruguay</a> – La "
+"FSF tire les leçons d'une proposition de loi présentée en Uruguay."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2005]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/second-sight.html\"> Free Software and (e-)Government</"
+"a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/second-sight.html\">Logiciel libre et (e-)"
+"administration</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2005]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/fs-and-sustainable-development.html\"> Free Software "
+"and Sustainable Development</a> (by RMS)  &mdash; A short article regarding "
+"the use of proprietary software in cultural development."
+msgstr ""
+"<a href=\"/philosophy/fs-and-sustainable-development.html\"><i>Free Software "
+"and Sustainable Development</i></a> (Logiciel libre et développement "
+"durable), par RMS – Un court article concernant l'utilisation de logiciels "
+"privateurs (propriétaires) dans le développement culturel."
+
+#. type: Content of: <div><h4>
+msgid "Guide for action"
+msgstr "Guide pour l'action"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[2020]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/saying-no-even-once.html\"> Saying No to unjust "
+"computing even once is help</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/saying-no-even-once.html\">Dire non à l'informatique "
+"injuste, même une seule fois, est une aide</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[2009]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/fs-motives.html\"> Motives For Writing Free Software</"
@@ -286,86 +726,166 @@ msgstr ""
 "<a href=\"/philosophy/fs-motives.html\">Raisons d'écrire des logiciels "
 "libres</a>"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2002-2020]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/government-free-software.html\">Measures Governments "
-"Can Use to Promote Free Software</a>"
+"<a href=\"/philosophy/no-word-attachments.html\" id=\"NoWordAttachments\"> "
+"We Can Put an End to Word Attachments</a> (by RMS)"
 msgstr ""
-"<a href=\"/philosophy/government-free-software.html\">Mesures à la portée "
-"des gouvernements pour promouvoir le logiciel libre</a>"
+"<a href=\"/philosophy/no-word-attachments.html\" id=\"NoWordAttachments"
+"\">Finissons-en avec les pièces jointes Word</a>, par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2019]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/uruguay.html\">Lesson from Uruguay</a>. The FSF "
-"learned something from a bill presented in Uruguay."
+"<a href=\"/philosophy/install-fest-devil.html\"> Install Fests: What to Do "
+"about the Deal with the Devil</a> (by RMS)"
 msgstr ""
-"<a href=\"/philosophy/uruguay.html\">Enseignement tiré de l'Uruguay</a>. La "
-"FSF tire les leçons d'une proposition de loi présentée en Uruguay."
+"<a href=\"/philosophy/install-fest-devil.html\">Install parties : comment "
+"réagir au pacte avec le diable</a>, par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2019]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/programs-must-not-limit-freedom-to-run.html\"> Why "
-"programs must not limit the freedom to run them</a> &mdash; Freedom 0 must "
-"not be limited."
+"<a href=\"/philosophy/upgrade-windows.html\"> What Is the Right Way to "
+"Upgrade an Installation of Windows?</a> (by RMS)"
 msgstr ""
-"<a href=\"/philosophy/programs-must-not-limit-freedom-to-run.html\">Pourquoi "
-"la liberté d'exécuter un programme doit être totale</a> – la liberté 0 ne "
-"doit pas avoir de limites."
+"<a href=\"/philosophy/upgrade-windows.html\">Comment bien mettre à niveau "
+"une installation de Windows ?</a> par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2018]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/imperfection-isnt-oppression.html\"> Imperfection is "
-"not the same as oppression</a>"
+"<a href=\"/philosophy/kind-communication.html\"> GNU Kind Communications "
+"Guidelines</a> (by RMS)"
 msgstr ""
-"<a href=\"/philosophy/imperfection-isnt-oppression.html\">Imperfection ne "
-"veut pas dire oppression</a>"
+"<a href=\"/philosophy/kind-communication.html\">Charte de GNU pour une "
+"communication bienveillante</a>, par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2017]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/applying-free-sw-criteria.html\"> Applying the Free "
-"Software Criteria</a>"
+"<a href=\"/philosophy/hackathons.html\"> Why Hackathons Should Insist on "
+"Free Software</a> (by RMS)"
 msgstr ""
-"<a href=\"/philosophy/applying-free-sw-criteria.html\">Mettre en application "
-"les critères du logiciel libre</a>"
+"<a href=\"/philosophy/hackathons.html\">Pourquoi les hackathons doivent "
+"exiger du logiciel libre</a>, par RMS"
 
-#. type: Content of: <div><h3>
-msgid "About the GNU Operating System"
-msgstr "À propos du système d'exploitation GNU"
-
+#. #set var='DATE' value='<span class="date-tag">
+#. [2014]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/gnu/initial-announcement.html\">Initial announcement of the GNU "
-"Operating System</a>"
+"<a href=\"/philosophy/contradictory-support.html\"> Beware of Contradictory "
+"&ldquo;Support&rdquo;</a> (by RMS)"
 msgstr ""
-"<a href=\"/gnu/initial-announcement.html\">Annonce initiale du projet GNU</a>"
+"<a href=\"/philosophy/contradictory-support.html\">Attention au « soutien » "
+"contredit par les faits</a>, par RMS"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/gnu/manifesto.html\">The GNU Manifesto</a>"
-msgstr "<a href=\"/gnu/manifesto.html\">Le manifeste GNU</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/gnu/gnu-history.html\">Brief history of the GNU Project</a>"
-msgstr "<a href=\"/gnu/gnu-history.html\">Brève histoire du projet GNU</a>"
-
+#. #set var='DATE' value='<span class="date-tag">
+#. [2012]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/gnu/thegnuproject.html\">The GNU Project</a>, a longer and more "
-"complete description of the project and its history."
+"<a href=\"/philosophy/devils-advocate.html\"> Why the Devil's Advocate "
+"Doesn't Help Reach the Truth</a> (by RMS)"
 msgstr ""
-"<a href=\"/gnu/thegnuproject.html\">Le projet GNU</a> : une description plus "
-"longue et plus complète du projet et de son histoire."
+"<a href=\"/philosophy/devils-advocate.html\">En quoi jouer l'avocat du "
+"diable n'aide pas à la manifestation de la vérité</a>, par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2010]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/fsf/fsf.html\">The official website of the Free Software "
-"Foundation</a>"
+"<a href=\"/philosophy/practical.html\"> The Advantages of Free Software</a> "
+"(by RMS)"
 msgstr ""
-"<a href=\"/fsf/fsf.html\">Site officiel de la <i>Free Software Foundation</"
-"i> (Fondation pour le logiciel libre)</a>."
+"<a href=\"/philosophy/practical.html\">Les avantages du logiciel libre</a>, "
+"par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2009]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"/gnu/why-gnu-linux.html\">Why GNU/Linux?</a>"
-msgstr "<a href=\"/gnu/why-gnu-linux.html\">Pourquoi GNU/Linux ?</a>"
+msgid ""
+"<a href=\"/philosophy/pirate-party.html\"> How the Swedish Pirate Party "
+"Platform Backfires on Free Software</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/pirate-party.html\">Pourquoi les propositions du Parti "
+"Pirate suédois se retournent contre le logiciel libre</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2009]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/lest-codeplex-perplex.html\"> Lest CodePlex perplex</"
+"a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/lest-codeplex-perplex.html\">Ne soyons pas déroutés "
+"par CodePlex</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2008]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/philosophy/ucita.html\"> Why We Must Fight UCITA</a>"
+msgstr ""
+"<a href=\"/philosophy/ucita.html\">Pourquoi nous devons contrer UCITA</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2008]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/compromise.html\"> Avoiding Ruinous Compromises</a> "
+"(by RMS)"
+msgstr ""
+"<a href=\"/philosophy/compromise.html\">Éviter les compromis ruineux</a>, "
+"par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2007]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/social-inertia.html\"> Overcoming Social Inertia</a> "
+"(by RMS)"
+msgstr ""
+"<a href=\"/philosophy/social-inertia.html\">Vaincre l'inertie sociale</a>, "
+"par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2004]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/philosophy/my_doom.html\"> MyDoom and You</a> (by RMS)"
+msgstr "<a href=\"/philosophy/my_doom.html\">MyDoom et vous</a>, par RMS"
 
 #. type: Content of: <div><h3>
 msgid "Licensing Free Software"
@@ -373,297 +893,327 @@ msgstr "Licences de logiciel libre"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/licenses/licenses.html\">General information on licensing and "
-"copyleft</a>"
+"<a href=\"/licenses/licenses.html\"> Licenses</a> &mdash; General "
+"information on licensing and copyleft"
 msgstr ""
 "<a href=\"/licenses/licenses.html\">Informations générales sur les licences "
 "et le copyleft</a>"
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/licenses/license-list.html\">A list of free and nonfree licenses, "
-"with comments</a>."
-msgstr ""
-"<a href=\"/licenses/license-list.html\">Une liste de licences libres et non "
-"libres avec commentaires</a>"
+#. type: Content of: <div><h4>
+msgid "Copyleft"
+msgstr "Copyleft"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. *[2003]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/licenses/gpl-faq.html\">Frequently Asked Questions About the GNU "
-"Licenses</a>"
-msgstr ""
-"<a href=\"/licenses/gpl-faq.html\">Foire aux questions sur les licences GNU</"
-"a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/licenses/why-not-lgpl.html\">Why You Shouldn't Use the Lesser GPL "
-"for Your Next Library</a>"
-msgstr ""
-"<a href=\"/licenses/why-not-lgpl.html\">Pourquoi vous ne devriez pas "
-"utiliser la <i>Lesser GPL</i> pour votre prochaine bibliothèque</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/licenses/copyleft.html\">Copyleft</a>"
-msgstr "<a href=\"/licenses/copyleft.html\">Qu'est-ce que le copyleft ?</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/philosophy/why-copyleft.html\">Why Copyleft?</a>"
+msgid "<a href=\"/philosophy/why-copyleft.html\"> Why Copyleft?</a>"
 msgstr "<a href=\"/philosophy/why-copyleft.html\">Pourquoi le copyleft ?</a>"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. *[1998]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/university.html\">Releasing Free Software if You Work "
-"at a University</a>"
-msgstr ""
-"<a href=\"/philosophy/university.html\">Publier des logiciels libres si vous "
-"travaillez à l'université</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/philosophy/pragmatic.html\">Copyleft: Pragmatic Idealism</a>"
+"<a href=\"/philosophy/pragmatic.html\"> Copyleft: Pragmatic Idealism</a> (by "
+"RMS)"
 msgstr ""
 "<a href=\"/philosophy/pragmatic.html\">Copyleft : idéalisme pragmatique</a>"
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/javascript-trap.html\">Javascript Trap</a>.  You may "
-"be running nonfree programs on your computer every day without realizing "
-"it&mdash;through your web browser."
-msgstr ""
-"<a href=\"/philosophy/javascript-trap.html\">Le piège JavaScript</a> : il se "
-"peut que vous exécutiez des programmes non libres sur votre ordinateur tous "
-"les jours sans le savoir&hellip; par l'intermédiaire de votre navigateur web."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://www.fsf.org/blogs/licensing/20050211.html\"> Censorship "
-"envy and licensing</a>"
-msgstr ""
-"<a href=\"http://www.fsf.org/blogs/licensing/20050211.html\"><i> Censorship "
-"envy and licensing</i></a> (Tentation de censure et licence)"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/philosophy/x.html\">The X Window System Trap</a>"
-msgstr "<a href=\"/philosophy/x.html\">Le piège X Window System</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/philosophy/apsl.html\">The Problems of the Apple License</a>"
-msgstr ""
-"<a href=\"/philosophy/apsl.html\">Opinion de la FSF sur l'<i>Apple Public "
-"Source License</i> (APSL) 2.0</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/licenses/bsd.html\">The BSD License Problem</a>"
-msgstr "<a href=\"/licenses/bsd.html\">Le problème de la licence BSD</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/netscape-npl.html\">The Netscape Public License Has "
-"Serious Problems</a>. An <a href=\"/philosophy/netscape-npl-old.html\"> "
-"earlier version of this article</a> is also available."
-msgstr ""
-"<a href=\"/philosophy/netscape-npl.html\">La <i>Netscape Public License</i> "
-"(licence publique de Netscape) a de gros problèmes</a>. Une <a href=\"/"
-"philosophy/netscape-npl-old.html\">version plus ancienne</a> de cet article "
-"est également disponible."
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/philosophy/udi.html\">The Free Software Movement and UDI</a>"
-msgstr ""
-"<a href=\"/philosophy/udi.html\">Le mouvement du logiciel libre et le projet "
-"UDI</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/gates.html\">It's not the Gates, it's the bars</a>, an "
-"article by Richard Stallman published in BBC News in 2008."
-msgstr ""
-"<a href=\"/philosophy/gates.html\">Ce ne sont pas des barrières mais une "
-"prison</a>, un article de Richard Stallman publié dans <cite>BBC News</cite> "
-"en 2008."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/microsoft.html\">Is Microsoft the Great Satan?</a> (An "
-"<a href=\"/philosophy/microsoft-old.html\">older version</a> of this article "
-"is also available.)"
-msgstr ""
-"<a href=\"/philosophy/microsoft.html\">Microsoft est-il le Grand Satan ?</a> "
-"(Une <a href=\"/philosophy/microsoft-old.html\">version plus ancienne</a> de "
-"cet article est également disponible.)"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/microsoft-antitrust.html\">The Microsoft Antitrust "
-"Trial and Free Software</a>"
-msgstr ""
-"<a href=\"/philosophy/microsoft-antitrust.html\">Le procès antitrust contre "
-"Microsoft, propositions de la FSF</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/microsoft-verdict.html\">On the Microsoft Verdict</a>"
-msgstr ""
-"<a href=\"/philosophy/microsoft-verdict.html\">À propos du verdict "
-"Microsoft</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/microsoft-new-monopoly.html\"> Microsoft's New "
-"Monopoly</a>"
-msgstr ""
-"<a href=\"/philosophy/microsoft-new-monopoly.html\">Le nouveau monopole de "
-"Microsoft</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/lest-codeplex-perplex.html\"> Lest CodePlex perplex</a>"
-msgstr ""
-"<a href=\"/philosophy/lest-codeplex-perplex.html\">Ne soyons pas déroutés "
-"par CodePlex</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/plan-nine.html\" id=\"PlanNineLicense\"> The Problems "
-"of the Plan 9 License</a>"
-msgstr ""
-"<a href=\"/philosophy/plan-nine.html\" id=\"PlanNineLicense\">Les problèmes "
-"de la (précédente) licence de Plan 9</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/motif.html\" id=\"MotifLicense\"> The New Motif "
-"License</a>"
-msgstr ""
-"<a href=\"/philosophy/motif.html\" id=\"MotifLicense\">La licence Motif</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/using-gfdl.html\" id=\"UsingGFDL\">Using the GNU FDL</"
-"a>"
-msgstr ""
-"<a href=\"/philosophy/using-gfdl.html\" id=\"UsingGFDL\">Utiliser la GNU FDL "
-"(GFDL)</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/gpl-american-way.html\" id=\"GPLAmericanWay\"> The GNU "
-"GPL and the American Way</a>"
-msgstr ""
-"<a href=\"/philosophy/gpl-american-way.html\" id=\"GPLAmericanWay\">La GNU "
-"GPL et l'<i>American Way</i></a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/gpl-american-dream.html\" id=\"GPLAmericanDream\"> The "
-"GNU GPL and the American Dream</a>"
-msgstr ""
-"<a href=\"/philosophy/gpl-american-dream.html\" id=\"GPLAmericanDream\">La "
-"GNU GPL comme incarnation du rêve américain</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/enforcing-gpl.html\" id=\"EnforcingGPL\"> Enforcing "
-"the GNU GPL</a>"
-msgstr ""
-"<a href=\"/philosophy/enforcing-gpl.html\" id=\"EnforcingGPL\">Faire "
-"respecter la GNU GPL</a>"
-
+#. #set var='DATE' value='<span class="date-tag">
+#. [2009-2017]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/selling-exceptions.html\"> On Selling Exceptions to "
-"the GNU GPL</a>"
+"the GNU GPL</a> (by RMS)"
 msgstr ""
 "<a href=\"/philosophy/selling-exceptions.html\">À propos de la vente "
-"d'exceptions à la GNU GPL</a>"
+"d'exceptions à la GNU GPL</a>, par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2005]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.fsf.org/blogs/licensing/20050211.html\"> Censorship "
+"envy and licensing</a> (by David &ldquo;Novalis&rdquo; Turner, on <i>fsf."
+"org</i>)"
+msgstr ""
+"<a href=\"https://www.fsf.org/blogs/licensing/20050211.html\"><i>Censorship "
+"envy and licensing</i></a> (Tentation de censure et licence), par David "
+"« Novalis » Turner, sur <i>fsf.org</i>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2004]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.oii.ox.ac.uk/archive/downloads/research/gpl/"
+"OIIFB_GPL2_20040903.pdf\"> English translation of the famous decision of the "
+"District Court of Munich</a> regarding the enforceability and validity of "
+"the GPL (by the translators of the Oxford Internet Institute, on <i>oii.ox."
+"ac.uk</i>)"
+msgstr ""
+"<a href=\"https://www.oii.ox.ac.uk/archive/downloads/research/gpl/"
+"OIIFB_GPL2_20040903.pdf\">Traduction en anglais de la fameuse décision du "
+"tribunal de grande instance de Munich</a> concernant l'applicabilité et la "
+"validité de la GPL, par les traducteurs de l'<i>Oxford Internet Institute</"
+"i>, sur <i>oii.ox.ac.uk</i>."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2002]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/university.html\"> Releasing Free Software if You Work "
+"at a University</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/university.html\">Publier des logiciels libres si vous "
+"travaillez à l'université</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2001]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/gpl-american-way.html\" id=\"GPLAmericanWay\"> The GNU "
+"GPL and the American Way</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/gpl-american-way.html\" id=\"GPLAmericanWay\">La GNU "
+"GPL et l'<i>American Way</i></a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2001]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/gpl-american-dream.html\" id=\"GPLAmericanDream\"> The "
+"GNU GPL and the American Dream</a> (by Bradley&nbsp;M.&nbsp;Kuhn)"
+msgstr ""
+"<a href=\"/philosophy/gpl-american-dream.html\" id=\"GPLAmericanDream\">La "
+"GNU GPL comme incarnation du rêve américain</a>, par Bradley M. Kuhn"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2001]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/freedom-or-power.html\" id=\"FreedomOrPower\"> Freedom "
-"or Power?</a>"
+"or Power?</a> (by Bradley&nbsp;M.&nbsp;Kuhn and RMS)"
 msgstr ""
 "<a href=\"/philosophy/freedom-or-power.html\" id=\"FreedomOrPower\">Liberté "
-"ou pouvoir ?</a>"
+"ou pouvoir ?</a> par Bradley M. Kuhn et RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2001]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/no-word-attachments.html\" id=\"NoWordAttachments\"> "
-"We Can Put an End to Word Attachments</a>"
-msgstr ""
-"<a href=\"/philosophy/no-word-attachments.html\" id=\"NoWordAttachments"
-"\">Finissons-en avec les pièces jointes Word</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/java-trap.html\" id=\"JavaTrap\"> Free But Shackled - "
-"The Java Trap</a> (Although Sun has <a href=\"http://www.fsf.org/news/fsf-"
-"welcomes-gpl-java.html\"> relicensed</a> most of its Java platform reference "
-"implementation under the GNU General Public License, the issue described in "
-"this article still remains important.)"
-msgstr ""
-"<a href=\"/philosophy/java-trap.html\" id=\"JavaTrap\">Libre mais entravé - "
-"le piège Java</a> (bien que Sun ait <a href=\"http://www.fsf.org/news/fsf-"
-"welcomes-gpl-java.html\">republié sa plateforme Java sous la licence "
-"publique générale GNU</a>, le problème décrit dans cet article demeure "
-"important)."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/rtlinux-patent.html\">GPL-compliant version of RTLinux "
-"Open Patent License in Works</a>"
+"<a href=\"/philosophy/rtlinux-patent.html\"> GPL-compliant version of "
+"RTLinux Open Patent License in Works</a>"
 msgstr ""
 "<a href=\"/philosophy/rtlinux-patent.html\">Une version de la <i>RTLinux "
 "Open Patent License</i> compatible avec la GPL</a>"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2001]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/enforcing-gpl.html\" id=\"EnforcingGPL\"> Enforcing "
+"the GNU GPL</a> (by Eben Moglen)"
+msgstr ""
+"<a href=\"/philosophy/enforcing-gpl.html\" id=\"EnforcingGPL\">Faire "
+"respecter la GNU GPL</a>, par Eben Moglen"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/using-gfdl.html\" id=\"UsingGFDL\"> Using the GNU FDL</"
+"a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/using-gfdl.html\" id=\"UsingGFDL\">Utiliser la GNU FDL "
+"(GFDL)</a>, par RMS"
+
+#. type: Content of: <div><h4>
+msgid "Non-copyleft"
+msgstr "Non copyleft"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2003]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/apsl.html\"> FSF's Opinion of the Apple Public Source "
+"License (APSL) 2.0</a>"
+msgstr ""
+"<a href=\"/philosophy/apsl.html\">Opinion de la FSF sur l'<i>Apple Public "
+"Source License</i> (APSL) 2.0</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2000]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/plan-nine.html\" id=\"PlanNineLicense\"> The Problems "
+"of the (Earlier) Plan 9 License</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/plan-nine.html\" id=\"PlanNineLicense\">Les problèmes "
+"de la (précédente) licence de Plan 9</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1998]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/netscape-npl.html\"> On the Netscape Public License</"
+"a> (by RMS)  [<a href=\"/philosophy/netscape-npl-old.html\">older version</"
+"a>]"
+msgstr ""
+"<a href=\"/philosophy/netscape-npl.html\">La <i>Netscape Public License</i> "
+"(licence publique de Netscape) a de gros problèmes</a>, par RMS [<a href=\"/"
+"philosophy/netscape-npl-old.html\">version plus ancienne</a>]"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1998]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/netscape.html\"> Netscape and Free Software</a> "
+"&mdash; An old article that clarifies some misunderstandings about an "
+"announcement by Netscape."
+msgstr ""
+"<a href=\"/philosophy/netscape.html\">Netscape et le logiciel libre</a> – Un "
+"article assez ancien qui clarifie quelques malentendus sur une annonce faite "
+"par Netscape."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1997]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/motif.html\" id=\"MotifLicense\"> The New Motif "
+"License</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/motif.html\" id=\"MotifLicense\">La licence Motif</a>, "
+"par RMS"
+
+#. type: Content of: <div><h4>
+msgid "Licensing traps"
+msgstr "Pièges"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[2009-2019]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/javascript-trap.html\"> JavaScript Trap</a> (by RMS)  "
+"&mdash; You may be running nonfree programs on your computer every day "
+"without realizing it&mdash;through your web browser."
+msgstr ""
+"<a href=\"/philosophy/javascript-trap.html\">Le piège JavaScript</a> (par "
+"RMS) – Il se peut que vous exécutiez des programmes non libres sur votre "
+"ordinateur tous les jours sans le savoir&hellip; par l'intermédiaire de "
+"votre navigateur web."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2004-2015]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/java-trap.html\" id=\"JavaTrap\"> Free But Shackled - "
+"The Java Trap</a> (by RMS)  &mdash; Although Sun has <a href=\"https://www."
+"fsf.org/news/fsf-welcomes-gpl-java.html\"> relicensed</a> most of its Java "
+"platform reference implementation under the GNU General Public License, the "
+"issue described in this article still remains important."
+msgstr ""
+"<a href=\"/philosophy/java-trap.html\" id=\"JavaTrap\">Libre mais entravé - "
+"le piège Java</a>, par RMS – Bien que Sun ait <a href=\"https://www.fsf.org/"
+"news/fsf-welcomes-gpl-java.html\">republié sa plateforme Java sous la "
+"licence publique générale GNU</a>, le problème décrit dans cet article "
+"demeure important."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1998-2009]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/philosophy/x.html\"> The X Window System Trap</a> (by RMS)"
+msgstr "<a href=\"/philosophy/x.html\">Le piège X Window System</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2006]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/sun-in-night-time.html\"> The Curious Incident of Sun "
+"in the Night-Time</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/sun-in-night-time.html\">Le curieux non-événement de "
+"Sun dans la pénombre</a>, par RMS"
+
 #. type: Content of: <div><h3>
-msgid "Laws and Issues"
-msgstr "Droit et société"
+msgid "Legal issues"
+msgstr "Questions juridiques"
 
 #. type: Content of: <div><h4>
 msgid "Patents"
 msgstr "Brevets"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. *[2012]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/limit-patent-effect.html\">Giving the Software Field "
-"Protection from Patents</a>"
+"<a href=\"/philosophy/limit-patent-effect.html\"> Giving the Software Field "
+"Protection from Patents</a> (by RMS)"
 msgstr ""
 "<a href=\"/philosophy/limit-patent-effect.html\">Protéger le secteur du "
-"logiciel des brevets</a>"
+"logiciel des brevets</a>, par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2011]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/w3c-patent.html\">FSF's Position on W3 Consortium "
-"&ldquo;Royalty-Free&rdquo; Patent Policy</a> rewritten"
+"<a href=\"/philosophy/europes-unitary-patent.html\"> Europe's &ldquo;unitary "
+"patent&rdquo; could mean unlimited software patents</a> (by RMS)"
 msgstr ""
-"<a href=\"/philosophy/w3c-patent.html\">Position de la FSF sur la politique "
-"de brevets « libres de droits » <i>[Royalty-Free]</i> du W3 Consortium</a>, "
-"réécrite."
+"<a href=\"/philosophy/europes-unitary-patent.html\">Le « brevet unitaire » "
+"européen pourrait engendrer des brevets logiciels sans limites</a>, par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2000-2007]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"How to Protect the <a href=\"/philosophy/protecting.html\">Right to Write "
-"Software</a> (whether it's free or not)."
-msgstr ""
-"Aider à défendre le <a href=\"/philosophy/protecting.html\">droit d'écrire "
-"des logiciels</a> (libres ou non)."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"In <a href=\"https://www.eff.org/press/releases/princeton-scientists-sue-"
-"over-squelched-research\"> Felten v. RIAA</a>, scientists are asking a court "
-"to rule that the Digital Millennium Copyright Act (DMCA) does not prohibit "
-"them from publishing their research."
-msgstr ""
-"Dans <a href=\"https://www.eff.org/press/releases/princeton-scientists-sue-"
-"over-squelched-research\"><cite>Felten v. RIAA</cite></a> : des "
-"scientifiques demandent à un tribunal de juger que la loi dite <i>Digital "
-"Millennium Copyright Act</i> (DMCA) ne les empêche pas de publier leur "
-"recherche."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://www.eff.org/search/site/dvd cases/\">EFF &ldquo;"
+"<a href=\"https://www.eff.org/search/site/dvd%20cases/\"> EFF &ldquo;"
 "Intellectual Property&rdquo;: MPAA (Motion Picture Association of America) "
 "DVD Cases Archive</a>"
 msgstr ""
@@ -673,939 +1223,1150 @@ msgstr ""
 "intellectuelle » : archives des procès de la <abbr title=\"Motion Picture "
 "Association of America\">MPAA</abbr> à propos de DVD)"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2006]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/patent-reform-is-not-enough.html\">Patent Reform Is "
-"Not Enough</a>"
-msgstr ""
-"<a href=\"/philosophy/patent-reform-is-not-enough.html\">Une réforme des "
-"brevets n'est pas suffisante</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/savingeurope.html\">Saving Europe from Software "
-"Patents</a>"
-msgstr ""
-"<a href=\"/philosophy/savingeurope.html\">Sauver l'Europe des brevets "
-"logiciels</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/europes-unitary-patent.html\">Europe's &ldquo;unitary "
-"patent&rdquo; could mean unlimited software patents</a>"
-msgstr ""
-"<a href=\"/philosophy/europes-unitary-patent.html\">Le « brevet unitaire » "
-"européen pourrait engendrer des brevets logiciels sans limites</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/philosophy/amazon.html\">Boycott Amazon!</a>"
-msgstr "<a href=\"/philosophy/amazon.html\">Boycottez Amazon ! (autrefois)</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/amazon-nat.html\">Amazon Boycott Success!</a>, a "
-"letter from Nat Friedman to Richard Stallman."
-msgstr ""
-"<a href=\"/philosophy/amazon-nat.html\">Le boycott d'Amazon a réussi !</a> : "
-"une lettre de Nat Friedman à Richard Stallman."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/amazon-rms-tim.html\">Letter from RMS to Tim O'Reilly</"
-"a> in regard to a statement by Jeff Bezos, CEO of Amazon, on the duration of "
-"software patents."
-msgstr ""
-"<a href=\"/philosophy/amazon-rms-tim.html\">Lettre de RMS à Tim O'Reilly</a> "
-"concernant une déclaration de Jeff Bezos, PDG d'Amazon, sur la durée des "
-"brevets logiciels."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/amazonpatent.html\">Amazon's patent on a system for "
-"placing a purchase order over the internet</a>, with notes by Richard "
-"Stallman."
-msgstr ""
-"<a href=\"/philosophy/amazonpatent.html\">Brevet d'Amazon sur un système "
-"d'achat sur Internet</a>, avec des notes de Richard Stallman."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://web.archive.org/web/20000815064858/http://www."
-"researchoninnovation.org/patent.pdf\" id=\"SequentialIPandI\">Sequential "
-"Innovation, Patents, and Imitation</a> is a paper that presents a "
-"mathematical model showing how patents can impede progress in fields like "
-"software."
-msgstr ""
-"<a href=\"https://web.archive.org/web/20000815064858/http://www."
-"researchoninnovation.org/patent.pdf\" id=\"SequentialIPandI"
-"\"><cite>Sequential Innovation, Patents, and Imitation</cite></a> "
-"(Innovation séquentielle, brevets et imitation) : ce mémoire présente un "
-"modèle mathématique montrant comment les brevets peuvent freiner le progrès "
-"dans des domaines comme celui du logiciel."
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/philosophy/hague.html\">Harm from the Hague</a>."
-msgstr "<a href=\"/philosophy/hague.html\">Le danger de La Haye</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/guardian-article.html\">Opposing The European Software "
-"Patent Directive</a>, a slightly modified version of the article originally "
-"published in <a href=\"http://www.theguardian.com/international\"> The "
-"Guardian</a> of London, by Richard Stallman and Nick Hill."
-msgstr ""
-"<a href=\"/philosophy/guardian-article.html\">Contre la directive européenne "
-"sur les brevets logiciels</a> : version légèrement modifiée d'un article "
-"publié à l'origine dans <a href=\"http://www.theguardian.com/international"
-"\"><cite>The Guardian</cite></a>, de Londres, par Richard Stallman et "
-"Nick Hill."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://www.theguardian.com/technology/2005/aug/02/comment.business"
-"\"> Soft sell</a>. Richard Stallman's comments on the defeat of the EU "
-"software patenting directive. Published in <i>The Guardian</i> in 2005."
-msgstr ""
-"<a href=\"http://www.theguardian.com/technology/2005/aug/02/comment.business"
-"\"><i>Soft sell</i></a> : les commentaires de Richard Stallman concernant la "
-"défaite de la directive européenne sur les brevets logiciels, publiés dans "
-"<cite>The Guardian</cite> en 2005."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://www.theguardian.com/technology/2005/jun/23/onlinesupplement."
-"insideit\"> Patent absurdity</a>, an article by Richard M. Stallman "
-"published in <i>The Guardian</i> in 2005."
-msgstr ""
-"<a href=\"http://www.theguardian.com/technology/2005/jun/23/onlinesupplement."
-"insideit\"><i>Patent absurdity</i></a> (L'absurdité des brevets), un article "
-"de Richard M. Stallman publié dans <cite>The Guardian</cite> en 2005."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/bill-gates-and-other-communists.html\">Bill Gates and "
-"Other Communists</a>. An article by Richard Stallman published in CNET News."
-"com in 2005."
-msgstr ""
-"<a href=\"/philosophy/bill-gates-and-other-communists.html\">Bill Gates et "
-"autres communistes</a>, un article de Richard Stallman publié sur <cite>CNET "
-"News.com</cite> en 2005."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/trivial-patent.html\">The Anatomy of a Trivial Patent</"
-"a>, by Richard M. Stallman."
+"<a href=\"/philosophy/trivial-patent.html\"> The Anatomy of a Trivial "
+"Patent</a> (by RMS)"
 msgstr ""
 "<a href=\"/philosophy/trivial-patent.html\">L'anatomie d'un brevet trivial</"
-"a>, par Richard M. Stallman."
+"a>, par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2005]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/fighting-software-patents.html\" id="
-"\"FightingSoftwarePatents\"> Fighting Software Patents - Singly and "
-"Together</a>"
+"<a href=\"/philosophy/microsoft-new-monopoly.html\"> Microsoft's New "
+"Monopoly</a> (by RMS)"
 msgstr ""
-"<a href=\"/philosophy/fighting-software-patents.html\" id="
-"\"FightingSoftwarePatents\">Combattre les brevets logiciels, "
-"individuellement et collectivement</a>"
+"<a href=\"/philosophy/microsoft-new-monopoly.html\">Le nouveau monopole de "
+"Microsoft</a>, par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2005]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/software-patents.html\">Software patents &mdash; "
-"Obstacles to software development</a>"
+"<a href=\"https://www.theguardian.com/technology/2005/aug/02/comment.business"
+"\"> Soft sell</a> (by RMS, on <i>theguardian.com</i>)  &mdash; Comments on "
+"the defeat of the EU software patenting directive."
 msgstr ""
-"<a href=\"/philosophy/software-patents.html\">Les brevets logiciels, "
-"obstacles au développement logiciel</a>"
+"<a href=\"http://www.theguardian.com/technology/2005/aug/02/comment.business"
+"\"><i>Soft sell</i></a>, par RMS, sur <i>theguardian.com</i> – À propos de "
+"la défaite de la directive européenne sur les brevets logiciels."
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2005]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/bill-gates-and-other-communists.html\"> Bill Gates and "
+"Other Communists</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/bill-gates-and-other-communists.html\">Bill Gates et "
+"autres communistes</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2005]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/software-literary-patents.html\" id="
-"\"SoftwareLiteraryPatents\"> Software Patents and Literary Patents</a>, by "
-"Richard M. Stallman.  Speaking of patenting artistic techniques, US patent "
+"\"SoftwareLiteraryPatents\"> Software Patents and Literary Patents</a> (by "
+"RMS)  &mdash; Speaking of patenting artistic techniques, US patent "
 "(6,935,954)  covers making game characters start to hallucinate when "
 "(according to the game) they are being driven insane. That is getting pretty "
 "close to the hypothetical examples cited in this article."
 msgstr ""
 "<a href=\"/philosophy/software-literary-patents.html\" id="
 "\"SoftwareLiteraryPatents\">Brevets logiciels et brevets littéraires</a>, "
-"par Richard M. Stallman. S'agissant de brevets sur les techniques "
-"artistiques, le brevet américain n° 6 935 954 couvre la conception de "
-"personnages de jeu qui commencent à halluciner quand (d'après le jeu) on les "
-"rend fous, ce qui est très proche des exemples hypothétiques donnés dans cet "
-"article."
+"par RMS – S'agissant de brevets sur les techniques artistiques, le brevet "
+"américain n° 6 935 954 couvre la conception de personnages de jeu qui "
+"commencent à halluciner quand (d'après le jeu) on les rend fous, ce qui est "
+"très proche des exemples hypothétiques donnés dans cet article."
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2004]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/gif.html\">Why there are no GIF files on GNU web "
-"pages</a>. While this story is a historical illustration of the danger of "
-"software patents, these particular patents are now no longer a concern.  For "
-"details of our website <a href=\"/server/fsf-html-style-sheet."
-"html#UseofGraphics\"> policies regarding GIFs</a>, see our <a href=\"/server/"
-"standards/\"> web guidelines</a>."
+"<a href=\"/philosophy/fighting-software-patents.html\" id="
+"\"FightingSoftwarePatents\"> Fighting Software Patents&mdash;Singly and "
+"Together</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/fighting-software-patents.html\" id="
+"\"FightingSoftwarePatents\">Combattre les brevets logiciels, "
+"individuellement et collectivement</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2005]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.theguardian.com/technology/2005/jun/23/"
+"onlinesupplement.insideit\"> Patent absurdity</a> (by RMS, on <i>theguardian."
+"com</i>)"
+msgstr ""
+"<a href=\"http://www.theguardian.com/technology/2005/jun/23/onlinesupplement."
+"insideit\"><i>Patent absurdity</i></a> (L'absurdité des brevets), par RMS, "
+"sur <i>theguardian.com</i>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2003]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/w3c-patent.html\"> FSF's Position on W3 Consortium "
+"&ldquo;Royalty-Free&rdquo; Patent Policy</a> (rewritten)"
+msgstr ""
+"<a href=\"/philosophy/w3c-patent.html\">Position de la FSF sur la politique "
+"de brevets « libres de droits » <i>[Royalty-Free]</i> du W3 Consortium</a>, "
+"réécrite."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2003]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/guardian-article.html\"> Opposing The European "
+"Software Patent Directive</a> (by RMS and Nick&nbsp;Hill)"
+msgstr ""
+"<a href=\"/philosophy/savingeurope.html\">Sauver l'Europe des brevets "
+"logiciels</a>, par RMS et Nick Hill"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2001]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.eff.org/press/releases/princeton-scientists-sue-over-"
+"squelched-research\"> Princeton Scientists Sue Over Squelched Research</a> "
+"(press release on <i>eff.org</i>)  &mdash; In <cite>Felten v. RIAA</cite>, "
+"scientists ask a court to rule that the Digital Millennium Copyright Act "
+"(DMCA) does not prohibit them from publishing their research."
+msgstr ""
+"Dans <a href=\"https://www.eff.org/press/releases/princeton-scientists-sue-"
+"over-squelched-research\">Princeton Scientists Sue Over Squelched Research</"
+"a> (Des scientifiques de Princeton intentent un procès pour étouffement de "
+"la recherche) – Dans l'affaire <cite>Felten v. RIAA</cite>, des "
+"scientifiques demandent à un tribunal de juger que la loi dite <i>Digital "
+"Millennium Copyright Act</i> (DMCA) ne les empêche pas de publier leur "
+"recherche."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2001]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/philosophy/hague.html\"> Harm from the Hague</a> (by RMS)"
+msgstr "<a href=\"/philosophy/hague.html\">Le danger de La Haye</a> par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2000]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20000815064858/http://www."
+"researchoninnovation.org/patent.pdf\" id=\"SequentialIPandI\"> Sequential "
+"Innovation, Patents, and Imitation</a> (by James Bessen and Eric Maskin, on "
+"<i>researchoninnovation.org</i>, archived)  &mdash; This paper presents a "
+"mathematical model showing how patents can impede progress in fields like "
+"software."
+msgstr ""
+"<a href=\"https://web.archive.org/web/20000815064858/http://www."
+"researchoninnovation.org/patent.pdf\" id=\"SequentialIPandI"
+"\"><cite>Sequential Innovation, Patents, and Imitation</cite></a> "
+"(Innovation séquentielle, brevets et imitation), par James Bessen et Eric "
+"Maskin, sur <i>researchoninnovation.org</i> (archivé) – Ce mémoire présente "
+"un modèle mathématique montrant comment les brevets peuvent freiner le "
+"progrès dans des domaines comme celui du logiciel."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/amazon-rms-tim.html\"> Letter from RMS to Tim "
+"O'Reilly</a> in regard to a statement by Jeff Bezos, CEO of Amazon, on the "
+"duration of software patents."
+msgstr ""
+"<a href=\"/philosophy/amazon-rms-tim.html\">Lettre de RMS à Tim O'Reilly</a> "
+"concernant une déclaration de Jeff Bezos, PDG d'Amazon, sur la durée des "
+"brevets logiciels."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/amazon-nat.html\"> Amazon Boycott Success!</a> (a "
+"letter from Nat Friedman to RMS)"
+msgstr ""
+"<a href=\"/philosophy/amazon-nat.html\">Le boycott d'Amazon a réussi !</"
+"a> (une lettre de Nat Friedman à Richard Stallman)"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/philosophy/amazon.html\"> (Formerly) Boycott Amazon!</a>"
+msgstr "<a href=\"/philosophy/amazon.html\">Boycottez Amazon ! (autrefois)</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/amazonpatent.html\"> Method and system for placing a "
+"purchase order via a communications network</a> &mdash; Amazon patent with "
+"notes by RMS"
+msgstr ""
+"<a href=\"/philosophy/amazonpatent.html\">Method and system for placing a "
+"purchase order via a communications network</a> (Méthode et système pour "
+"commander des biens sur un réseau de communication) – Brevet d'Amazon avec "
+"des notes de RMS."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1997]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/gif.html\"> Why There Are No GIF Files on GNU Web "
+"Pages</a> &mdash; While this story is a historical illustration of the "
+"danger of software patents, these particular patents are now no longer a "
+"concern.  For details of our website policies regarding GIFs, see our <a "
+"href=\"/server/gnu-website-guidelines.html#UseofGraphics\">web guidelines</"
+"a>."
 msgstr ""
 "<a href=\"/philosophy/gif.html\">Pourquoi il n'y a pas de fichiers GIF sur "
-"le site de GNU</a>. On a là une illustration historique du danger des "
+"le site de GNU</a> – On a là une illustration historique du danger des "
 "brevets logiciels. Ces brevets particuliers ne sont toutefois plus un "
 "problème. Vous trouverez plus de détails sur notre <a href=\"/server/fsf-"
 "html-style-sheet.html#UseofGraphics\">politique en matière de fichiers GIF</"
 "a> dans le <a href=\"/server/standards/\">guide destiné aux webmestres</a>."
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [1996]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/savingeurope.html\"> Saving Europe from Software "
+"Patents</a>"
+msgstr ""
+"<a href=\"/philosophy/savingeurope.html\">Sauver l'Europe des brevets "
+"logiciels</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1996]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/protecting.html\"> Help Protect the Rights to Write "
+"Both Nonfree and Free Software</a>"
+msgstr ""
+"<a href=\"/philosophy/protecting.html\">Aider à défendre le droit d'écrire "
+"des logiciels, libres ou non</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1996]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/patent-reform-is-not-enough.html\"> Patent Reform Is "
+"Not Enough</a>"
+msgstr ""
+"<a href=\"/philosophy/patent-reform-is-not-enough.html\">Une réforme des "
+"brevets n'est pas suffisante</a>"
+
 #. type: Content of: <div><h4>
 msgid "Copyright"
 msgstr "Copyright"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. *[2002]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/assigning-copyright.html\">When a Company Asks For "
+"<a href=\"/philosophy/misinterpreting-copyright.html\"> Misinterpreting "
+"Copyright&mdash;A Series of Errors</a> (by RMS)  &mdash; About the flaws in "
+"popular defenses of copyright law."
+msgstr ""
+"<a href=\"/philosophy/misinterpreting-copyright.html\">Mauvaise "
+"interprétation du copyright</a>, par RMS – Sur les erreurs des argumentaires "
+"habituels défendant la loi sur le copyright."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[1996]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/reevaluating-copyright.html\"> Reevaluating Copyright: "
+"The Public Must Prevail</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/reevaluating-copyright.html\">Dans une réévaluation du "
+"copyright, on doit donner la priorité au public</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2014]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/assigning-copyright.html\"> When a Company Asks For "
 "Your Copyright</a>"
 msgstr ""
 "<a href=\"/philosophy/assigning-copyright.html\">Quand une entreprise vous "
 "demande de lui céder vos droits</a>"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2010]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/public-domain-manifesto.html\">Why I Will Not Sign the "
-"Public Domain Manifesto</a>"
+"<a href=\"/philosophy/public-domain-manifesto.html\"> Why I Will Not Sign "
+"the Public Domain Manifesto</a> (by RMS)"
 msgstr ""
 "<a href=\"/philosophy/public-domain-manifesto.html\">Pourquoi je ne signerai "
-"pas le manifeste pour le domaine public</a>"
+"pas le manifeste pour le domaine public</a> (par RMS)"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2008]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/pirate-party.html\">How the Swedish Pirate Party "
-"Platform Backfires on Free Software</a>"
+"<a href=\"/philosophy/freedom-or-copyright.html\"> Freedom&mdash;or "
+"Copyright?</a> (by RMS)  [<a href=\"/philosophy/freedom-or-copyright-old.html"
+"\">older version</a>]"
 msgstr ""
-"<a href=\"/philosophy/pirate-party.html\">Pourquoi les propositions du Parti "
-"Pirate suédois se retournent contre le logiciel libre</a>"
+"<a href=\"/philosophy/freedom-or-copyright.html\">La liberté ou le "
+"copyright ?</a> par RMS [<a href=\"/philosophy/freedom-or-copyright-old.html"
+"\">version plus ancienne</a>]"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2002]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/misinterpreting-copyright.html\">Misinterpreting "
-"Copyright</a> is another essay by Richard Stallman about the flaws in "
-"popular defenses of copyright law."
-msgstr ""
-"<a href=\"/philosophy/misinterpreting-copyright.html\">Mauvaise "
-"interprétation du copyright</a> est un autre essai de Richard Stallman sur "
-"les erreurs des argumentaires habituels défendant la loi sur le copyright."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/eldred-amicus.html\">FSF's Brief Amicus Curiae in the "
-"Eldred v. Ashcroft Supreme Court case</a>"
+"<a href=\"/philosophy/eldred-amicus.html\"> FSF's Brief Amicus Curiae in the "
+"<cite>Eldred v. Ashcroft</cite> Supreme Court case</a> (by Eben Moglen)"
 msgstr ""
 "<a href=\"/philosophy/eldred-amicus.html\">Mémoire d'<i> amicus curiae</i> "
 "de la FSF dans l'affaire <cite>Eldred v. Ashcroft</cite> de la Cour suprême "
-"des États-Unis</a>"
+"des États-Unis</a>, par Eben Moglen"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2001]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/push-copyright-aside.html\">Science must &ldquo;push "
-"copyright aside&rdquo;</a>, another work of <a href=\"http://www.stallman.org"
-"\">Richard Stallman</a> that appeared in the <a href=\"https://web.archive."
-"org/web/20050729110347/http://www.nature.com/nature/debates/e-access/"
-"Articles/stallman.html\"> Nature Webdebates</a> in 2001, explains how "
-"copyright is impeding progress in scientific research.  You may also be "
-"interested in <a href=\"https://www.plos.org/\">The Public Library of "
-"Science</a>, which is dedicated to making scientific research freely "
-"available to all on the Internet."
+"<a href=\"/philosophy/push-copyright-aside.html\"> Science must &ldquo;push "
+"copyright aside&rdquo;</a> (by RMS, first published in <a href=\"https://web."
+"archive.org/web/20050729110347/http://www.nature.com/nature/debates/e-access/"
+"Articles/stallman.html\"> <cite>Nature WebDebates</cite></a> in 2001)  "
+"&mdash; This article explains how copyright is impeding progress in "
+"scientific research.  You may also be interested in <a href=\"https://www."
+"plos.org/\">The Public Library of Science</a>, which is dedicated to making "
+"scientific research freely available to all on the Internet."
 msgstr ""
 "<a href=\"/philosophy/push-copyright-aside.html\">La science doit mettre le "
-"droit d'auteur de côté</a> : un autre article de <a href=\"http://www."
-"stallman.org\">Richard Stallman</a> paru dans <a href=\"https://web.archive."
-"org/web/20050729110347/http://www.nature.com/nature/debates/e-access/"
-"Articles/stallman.html\"><cite>Nature Webdebates</cite></a> en 2001, qui "
-"explique comment le copyright freine le progrès dans la recherche "
-"scientifique. Vous pourriez aussi être intéressé par la <i><a href=\"https://"
-"www.plos.org/\">Public Library of Science</a></i> (Bibliothèque scientifique "
-"publique), dont la mission est de mettre les recherches scientifiques à la "
-"disposition de tous, librement."
+"droit d'auteur de côté</a>, par RMS, publié à l'origine dans <a href="
+"\"https://web.archive.org/web/20050729110347/http://www.nature.com/nature/"
+"debates/e-access/Articles/stallman.html\"><cite>Nature WebDebates</cite></a> "
+"en 2001 – Cet article explique comment le copyright freine le progrès dans "
+"la recherche scientifique. Vous pourriez aussi être intéressé par la <i><a "
+"href=\"https://www.plos.org/\">Public Library of Science</a></i> "
+"(Bibliothèque scientifique publique), dont la mission est de mettre les "
+"recherches scientifiques à la disposition de tous, librement."
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2001]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/reevaluating-copyright.html\">Reevaluating Copyright: "
-"The Public must prevail</a>"
+"<a href=\"https://web.archive.org/web/20030604075825/http://www.humaninfo."
+"org/copyrigh.htm\"> Examples of Excellent Copyright Policies</a> (on "
+"<i>humaninfo.org</i>, archived)"
 msgstr ""
-"<a href=\"/philosophy/reevaluating-copyright.html\">Dans une réévaluation du "
-"copyright, on doit donner la priorité au public</a>"
+"<a href=\"https://web.archive.org/web/20030604075825/http://www.humaninfo."
+"org/copyrigh.htm\">Examples of Excellent Copyright Policies</a> (Exemples de "
+"bonnes pratiques en matière de copyright), sur <i>humaninfo.org</i> "
+"(archivé)."
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
+"<a href=\"https://cyber.harvard.edu/openlaw/eldredvashcroft/cyber/"
+"complaint_orig.html\"> Original complaint in <cite>Eldred v. Reno</cite></a> "
+"(on <i>harvard.edu</i>)  &mdash; A lawsuit to overturn a law that extends "
+"copyright by 20 extra years."
+msgstr ""
 "<a href=\"http://cyber.law.harvard.edu/openlaw/eldredvashcroft/cyber/"
-"complaint_orig.html\"> Eldred v. Reno</a> is about a lawsuit to overturn a "
-"law that extends copyright by 20 extra years."
-msgstr ""
-"<a href=\"http://cyber.law.harvard.edu/openlaw/eldredvashcroft/cyber/"
-"complaint_orig.html\">Eldred contre Reno</a> traite d'un procès visant à "
-"annuler une loi qui ajoute 20 ans à la durée du copyright."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/freedom-or-copyright.html\">Freedom-Or Copyright?</a>, "
-"by Richard Stallman (an <a href=\"/philosophy/freedom-or-copyright-old.html"
-"\">older version</a> of this essay remains online as well.)"
-msgstr ""
-"<a href=\"/philosophy/freedom-or-copyright.html\">La liberté ou le "
-"copyright ?</a> par Richard Stallman (une <a href=\"/philosophy/freedom-or-"
-"copyright-old.html\">version plus ancienne</a> de cet essai reste également "
-"en ligne)."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"An <a href=\"https://www.oii.ox.ac.uk/archive/downloads/research/gpl/"
-"OIIFB_GPL2_20040903.pdf\"> English translation of the famous decision of the "
-"District Court of Munich</a> regarding the enforceability and validity of "
-"the GPL. The translation was done by the Oxford Internet Institute."
-msgstr ""
-"<a href=\"https://www.oii.ox.ac.uk/archive/downloads/research/gpl/"
-"OIIFB_GPL2_20040903.pdf\">Traduction en anglais de la fameuse décision du "
-"tribunal de grande instance de Munich</a> concernant l'applicabilité et la "
-"validité de la GPL. La traduction a été faite par l'<i>Oxford Internet "
-"Institute</i>."
-
-#. type: Content of: <div><h4>
-msgid "Digital Restrictions Management"
-msgstr "Gestion numérique des restrictions"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/correcting-france-mistake.html\"> Correcting My "
-"Mistake about French Law</a>"
-msgstr ""
-"<a href=\"/philosophy/correcting-france-mistake.html\">Erratum sur une loi "
-"française</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/the-root-of-this-problem.html\">The problem is "
-"software controlled by its developer</a>, by Richard&nbsp;M. Stallman."
-msgstr ""
-"<a href=\"/philosophy/the-root-of-this-problem.html\">Le problème est le "
-"logiciel contrôlé par son développeur</a>, par Richard M. Stallman."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/computing-progress.html\">Computing &ldquo;"
-"progress&rdquo;: good and bad</a>, by Richard M. Stallman."
-msgstr ""
-"<a href=\"/philosophy/computing-progress.html\">Le « progrès » "
-"informatique : du bon et du mauvais</a>, par Richard M. Stallman."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/opposing-drm.html\">Opposing Digital Rights "
-"Mismanagement</a>, by Richard M. Stallman, answers a few common questions "
-"about DRM."
-msgstr ""
-"<a href=\"/philosophy/opposing-drm.html\">S'opposer à la mégestion numérique "
-"des droits</a>, par Richard M. Stallman, répond à quelques questions "
-"fréquentes sur les DRM."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/ebooks.html\">Ebooks: Freedom Or Copyright</a> a "
-"slightly modified version of the article, originally published in Technology "
-"Review in 2000, by Richard Stallman"
-msgstr ""
-"<a href=\"/philosophy/ebooks.html\">Livres électroniques : liberté ou "
-"copyright</a> : une version légèrement modifiée d'un article publié "
-"initialement en 2000 dans <cite>Technology Review</cite>, par "
-"Richard Stallman."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/ebooks-must-increase-freedom.html\"> Ebooks must "
-"increase our freedom, not decrease it</a>"
-msgstr ""
-"<a href=\"/philosophy/ebooks-must-increase-freedom.html\">Les e-books "
-"doivent nous rendre plus libres, pas moins</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/can-you-trust.html\">Can you trust your computer?</a>, "
-"a work by Richard Stallman about the so-called &ldquo;trusted "
-"computing&rdquo; initiatives."
-msgstr ""
-"<a href=\"/philosophy/can-you-trust.html\">Pouvez-vous faire confiance à "
-"votre ordinateur ?</a> : un texte de Richard Stallman sur les initiatives de "
-"la soi-disant « informatique de confiance »."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/right-to-read.html\">The Right to Read: A Dystopian "
-"Short Story</a> by Richard Stallman."
-msgstr ""
-"<a href=\"/philosophy/right-to-read.html\">Le droit de lire : une courte "
-"histoire dystopique</a>, par Richard Stallman."
+"complaint_orig.html\">Plainte initiale dans l'affaire Eldred contre Reno</"
+"a>, <i>sur hardvard.edu</i> – Ce procès visait à annuler une loi qui "
+"rallonge la durée du copyright de 20 ans."
 
 #. type: Content of: <div><h4>
 msgid ""
-"The propaganda term <a href=\"/philosophy/words-to-avoid."
-"html#IntellectualProperty\"> &ldquo;Intellectual Property&rdquo;</a>"
+"The propaganda term &ldquo;<a href=\"/philosophy/words-to-avoid."
+"html#IntellectualProperty\">Intellectual Property</a>&rdquo;"
 msgstr ""
 "Le terme de propagande « <a href=\"/philosophy/words-to-avoid."
 "html#IntellectualProperty\">propriété intellectuelle</a> »"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2004]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/komongistan.html\">The Curious History of Komongistan "
-"(Busting the term &ldquo;intellectual property&rdquo;)</a>"
+"<a href=\"/philosophy/not-ipr.html\"> Did You Say &ldquo;Intellectual "
+"Property&rdquo;? It's a Seductive Mirage</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/not-ipr.html\">Vous avez dit « propriété "
+"intellectuelle » ? Un séduisant mirage</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2015]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/komongistan.html\"> The Curious History of Komongistan "
+"(Busting the term &ldquo;intellectual property&rdquo;)</a> (by RMS)"
 msgstr ""
 "<a href=\"/philosophy/komongistan.html\">L'histoire étrange du Komongistan "
 "(ou comment faire voler en éclats l'expression « propriété intellectuelle »)"
-"</a>"
+"</a>, par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2006]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/no-ip-ethos.html\">Don't Let &ldquo;Intellectual "
-"Property&rdquo; Twist Your Ethos</a>, by Richard Stallman."
+"<a href=\"/philosophy/no-ip-ethos.html\"> Don't Let &ldquo;Intellectual "
+"Property&rdquo; Twist Your Ethos</a> (by RMS)"
 msgstr ""
 "<a href=\"/philosophy/no-ip-ethos.html\">Ne laissez pas la « propriété "
-"intellectuelle » déformer votre ethos</a>, par Richard Stallman."
+"intellectuelle » déformer votre ethos</a>, par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2003]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"Comments from Richard Stallman on <a href=\"/philosophy/ipjustice.html\">the "
-"ICLC's rejection of the IP Enforcement Directive</a>"
+"<a href=\"/philosophy/ipjustice.html\"> Reject IP Enforcement Directive</a> "
+"&mdash; Comments on the rejection of this directive by the International "
+"Civil Liberties Coalition."
 msgstr ""
-"Commentaires de Richard Stallman sur <a href=\"/philosophy/ipjustice.html"
-"\">le rejet par la <abbr title=\"coalition internationale des libertés "
-"civiles\">CILC</abbr> de la directive relative au respect des droits de "
-"propriété intellectuelle</a>"
+"<a href=\"/philosophy/ipjustice.html\">Rejetez la directive relative au "
+"respect des droits de propriété intellectuelle</a> Commentaires sur le rejet "
+"de cette directive par la Coalition internationale des libertés civiles."
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2003]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"Richard Stallman has written <a href=\"/philosophy/boldrin-levine.html\">a "
-"review of Boldrin and Levine's &ldquo;The case against intellectual property."
-"&rdquo;</a>"
+"<a href=\"/philosophy/boldrin-levine.html\"> Review: Boldrin and Levine, "
+"&ldquo;The Case Against Intellectual Property&rdquo;</a> (by RMS)"
 msgstr ""
-"Richard Stallman a écrit <a href=\"/philosophy/boldrin-levine.html\">une "
-"critique sur « Le procès contre la propriété intellectuelle » de Boldrin et "
-"Levine</a>."
+"<a href=\"/philosophy/boldrin-levine.html\"> Critique : Boldrin et Levine, « "
+"Le procès contre la propriété intellectuelle »</a>, par RMS"
 
+#. type: Content of: <div><h4>
+msgid "Response to SCO's attacks"
+msgstr "Réponse aux attaques de SCO"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2003-2004]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/not-ipr.html\">Did You Say &ldquo;Intellectual "
-"Property&rdquo;? It's a Seductive Mirage</a>.  An essay on the true meaning "
-"of the phrase &ldquo;Intellectual Property&rdquo;, by Richard M. Stallman."
+"<a href=\"/philosophy/sco/sco.html\"> FSF's Position regarding SCO's attacks "
+"on Free Software</a>"
 msgstr ""
-"<a href=\"/philosophy/not-ipr.html\">Vous avez dit « propriété "
-"intellectuelle » ? Un séduisant mirage</a> : un essai sur la vraie "
-"signification du terme « propriété intellectuelle », par Richard M. Stallman."
+"<a href=\"/philosophy/sco/sco.html\">Position de la FSF concernant les "
+"attaques de SCO contre le logiciel libre</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2003]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/sco/sco-gnu-linux.html\"> SCO, GNU, and Linux</a> (by "
+"RMS)  &mdash; How SCO's lawsuit against IBM pertains to the work of the GNU "
+"project."
+msgstr ""
+"<a href=\"/philosophy/sco/sco-gnu-linux.html\">SCO, GNU et Linux</a>, par "
+"RMS – Comment les poursuites judiciaires de SCO contre IBM sont reliées au "
+"travail du projet GNU."
+
+#. type: Content of: <div><h3>
+msgid "Cultural and Social Issues"
+msgstr "Enjeux culturels et sociétaux"
+
+#. type: Content of: <div><h4>
+msgid "Digital society"
+msgstr "Société numérique"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[2012]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/philosophy/stallmans-law.html\"> Stallman's Law</a>"
+msgstr "<a href=\"/philosophy/stallmans-law.html\">Loi de Stallman</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[2009]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/digital-inclusion-in-freedom.html\"> Is Digital "
+"Inclusion A Good Thing? How Can We Make Sure It Is?</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/digital-inclusion-in-freedom.html\">L'inclusion dans "
+"le monde numérique est-elle une bonne chose ? Comment faire en sorte qu'elle "
+"le soit ?</a> par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2007]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/computing-progress.html\"> Computing &ldquo;"
+"progress&rdquo;: good and bad</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/computing-progress.html\">Le « progrès » "
+"informatique : du bon et du mauvais</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2003]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/wsis.html\"> World Summit on the Information Society</"
+"a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/wsis.html\">Sommet mondial sur la société de "
+"l'information</a>, par RMS"
+
+#. type: Content of: <div><h4>
+msgid "Digital restrictions management"
+msgstr "Gestion numérique des restrictions"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[2006]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/opposing-drm.html\"> Opposing Digital Rights "
+"Mismanagement</a> (by RMS)  &mdash; Answers to a few common questions about "
+"DRM."
+msgstr ""
+"<a href=\"/philosophy/opposing-drm.html\">S'opposer à la mégestion numérique "
+"des droits</a> par RMS – Réponses à quelques questions fréquentes sur "
+"les DRM."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[2002]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/can-you-trust.html\"> Can You Trust Your Computer?</a> "
+"(by RMS)  &mdash; About the so-called &ldquo;trusted computing&rdquo; "
+"initiatives."
+msgstr ""
+"<a href=\"/philosophy/can-you-trust.html\">Pouvez-vous faire confiance à "
+"votre ordinateur ?</a> par RMS – Sur les initiatives de la soi-disant "
+"« informatique de confiance »."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2013]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/nonfree-games.html\"> Nonfree DRM'd Games on GNU/"
+"Linux: Good or Bad?</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/nonfree-games.html\">Des jeux avec DRM sur GNU/Linux : "
+"bon ou mauvais ?</a> par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2012]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/correcting-france-mistake.html\"> Correcting My "
+"Mistake about French Law</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/correcting-france-mistake.html\">Erratum sur une loi "
+"française</a> par RMS"
 
 #. type: Content of: <div><h4>
 msgid "Network Services"
 msgstr "Services en ligne"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. *[2010-2020]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/network-services-arent-free-or-nonfree.html\"> Network "
-"Services Aren't Free or Nonfree; They Raise Other Issues</a> an article by "
-"Richard Stallman."
-msgstr ""
-"<a href=\"/philosophy/network-services-arent-free-or-nonfree.html\">Les "
-"services en ligne ne sont ni libres ni privateurs ; ils posent d'autres "
-"problèmes</a>, un article de Richard Stallman."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/who-does-that-server-really-serve.html\">Who does that "
-"server really serve?</a> by Richard Stallman published in <a href=\"http://"
-"www.bostonreview.net/richard-stallman-free-software-DRM\"> Boston Review.</a>"
+"<a href=\"/philosophy/who-does-that-server-really-serve.html\"> Who does "
+"that server really serve?</a> (by RMS)"
 msgstr ""
 "<a href=\"/philosophy/who-does-that-server-really-serve.html\">Qui ce "
-"serveur sert-il réellement ?</a> par Richard Stallman, publié dans la <a "
-"href=\"http://www.bostonreview.net/richard-stallman-free-software-DRM"
-"\"><cite>Boston Review</cite></a>."
+"serveur sert-il réellement ?</a> par RMS"
 
-#. type: Content of: <div><h4>
-msgid "Cultural and Social Issues"
-msgstr "Enjeux culturels et sociétaux"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/philosophy/stallmans-law.html\">Stallman's Law</a>"
-msgstr "<a href=\"/philosophy/stallmans-law.html\">Loi de Stallman</a>"
-
+#. #set var='DATE' value='<span class="date-tag">
+#. [2020]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/phone-anonymous-payment.html\">Anonymous Payment by "
-"Phone</a>"
-msgstr ""
-"<a href=\"/philosophy/phone-anonymous-payment.html\">Anonymous Payment by "
-"Phone</a> (Paiement anonyme au moyen du téléphone)"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://www.theguardian.com/commentisfree/2018/apr/03/facebook-"
-"abusing-data-law-privacy-big-tech-surveillance\"> A radical proposal to keep "
-"your personal data safe</a>, by Richard Stallman"
-msgstr ""
-"<i><a href=\"https://www.theguardian.com/commentisfree/2018/apr/03/facebook-"
-"abusing-data-law-privacy-big-tech-surveillance\">A radical proposal to keep "
-"your personal data safe</a></i> (une proposition radicale pour assurer la "
-"sécurité de vos données personnelles), par Richard Stallman"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/surveillance-testimony.html\">Surveillance Testimony</"
-"a>"
-msgstr ""
-"<a href=\"/philosophy/surveillance-testimony.html\">Surveillance Testimony</"
-"a> (Témoignage sur la surveillance)"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/devils-advocate.html\"> Why the Devil's Advocate "
-"Doesn't Help Reach the Truth</a>"
-msgstr ""
-"<a href=\"/philosophy/devils-advocate.html\">En quoi jouer l'avocat du "
-"diable n'aide pas à la manifestation de la vérité</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/hackathons.html\"> Why Hackathons Should Insist on "
-"Free Software</a> by Richard Stallman"
-msgstr ""
-"<a href=\"/philosophy/hackathons.html\">Pourquoi les hackathons doivent "
-"exiger du logiciel libre</a>, par Richard Stallman"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/technological-neutrality.html\"> Technological "
-"Neutrality and Free Software</a> by Richard Stallman"
-msgstr ""
-"<a href=\"/philosophy/technological-neutrality.html\">Neutralité "
-"technologique et logiciel libre</a>, par Richard Stallman"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/surveillance-vs-democracy.html\">How Much Surveillance "
-"Can Democracy Withstand?</a> by Richard Stallman"
-msgstr ""
-"<a href=\"/philosophy/surveillance-vs-democracy.html\">Quel niveau de "
-"surveillance la démocratie peut-elle endurer ?</a>, par Richard Stallman"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/nonfree-games.html\">Nonfree DRM'd Games on GNU/Linux: "
-"Good or Bad?</a> by Richard Stallman."
-msgstr ""
-"<a href=\"/philosophy/nonfree-games.html\">Des jeux avec DRM sur GNU/Linux : "
-"bon ou mauvais ?</a> par Richard Stallman."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://www.theguardian.com/technology/blog/2010/apr/06/digital-"
-"economy-bill-richard-stallman\"> Digital economy bill: One clown giveth and "
-"the other clown taketh away</a>, by Richard Stallman."
-msgstr ""
-"<a href=\"http://www.theguardian.com/technology/blog/2010/apr/06/digital-"
-"economy-bill-richard-stallman\"><i>Digital economy bill: One clown giveth "
-"and the other clown taketh away</i></a> (Proposition de loi sur l'économie "
-"numérique : un clown donne et un autre clown reprend), par Richard Stallman."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/digital-inclusion-in-freedom.html\"> Is Digital "
-"Inclusion A Good Thing? How Can We Make Sure It Is?</a> By Richard Stallman."
-msgstr ""
-"<a href=\"/philosophy/digital-inclusion-in-freedom.html\">L'inclusion dans "
-"le monde numérique est-elle une bonne chose ? Comment faire en sorte qu'elle "
-"le soit ?</a> par Richard Stallman."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/wsis.html\">World Summit on the Information Society</a>"
-msgstr ""
-"<a href=\"/philosophy/wsis.html\">Sommet mondial sur la société de "
-"l'information</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/wassenaar.html\">Encryption software volunteers needed "
-"in countries without export control</a>."
-msgstr ""
-"<a href=\"/philosophy/wassenaar.html\">On recherche des bénévoles de la "
-"cryptographie logicielle dans des pays sans contrôle des exportations</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"How to Protect the <a href=\"/philosophy/basic-freedoms.html\"> Freedoms of "
-"Speech, Press, and Association</a> on the Internet."
-msgstr ""
-"Comment protéger les <a href=\"/philosophy/basic-freedoms.html\">libertés "
-"d'expression, de la presse et d'association</a> sur Internet."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/privacyaction.html\">Protect Postal Privacy</a>, a "
-"campaign to resist the proposed rule by the United States Postal Service to "
-"collect private information from customers."
-msgstr ""
-"<a href=\"/philosophy/privacyaction.html\">Protégeons l'anonymat postal</"
-"a> : une campagne d'opposition à une proposition de règlement du Service "
-"postal des États-Unis visant à collecter des informations privées sur "
-"ses clients."
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/philosophy/ucita.html\">Why We Must Fight UCITA</a>"
-msgstr ""
-"<a href=\"/philosophy/ucita.html\">Pourquoi nous devons contrer UCITA</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/second-sight.html\">Free Software and (e-)Government</"
-"a> &mdash; an article from The Guardian, by Richard Stallman (originally "
-"published under the title &ldquo;Second Sight&rdquo;)."
-msgstr ""
-"<a href=\"/philosophy/second-sight.html\">Logiciel libre et (e-)"
-"administration</a>, un article du journal <cite>The Guardian</cite>, par "
-"Richard M. Stallman, initialement publié sous le titre <i>Second Sight</i> "
-"(Clairvoyance)."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/fs-and-sustainable-development.html\"> Free Software "
-"and Sustainable Development</a> &mdash; A short article by Richard Stallman "
-"regarding the use of proprietary software in cultural development."
-msgstr ""
-"<a href=\"/philosophy/fs-and-sustainable-development.html\"><i>Free Software "
-"and Sustainable Development</i></a> (Logiciel libre et développement "
-"durable) : un court article de Richard Stallman concernant l'utilisation de "
-"logiciels privateurs (propriétaires) dans le développement culturel."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/keep-control-of-your-computing.html\"> Keep control of "
-"your computing, so it doesn't control you!</a>"
-msgstr ""
-"<a href=\"/philosophy/keep-control-of-your-computing.html\">Gardez le "
-"contrôle de votre informatique, afin qu'elle ne vous contrôle pas !</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/judge-internet-usage.html\"> A wise user judges each "
-"Internet usage scenario carefully</a>"
-msgstr ""
-"<a href=\"/philosophy/judge-internet-usage.html\">Un utilisateur averti "
-"évalue soigneusement les différents usages d'Internet</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/the-danger-of-ebooks.html\">The Danger of E-Books</a>"
-msgstr ""
-"<a href=\"/philosophy/the-danger-of-ebooks.html\">Le danger des livres "
-"électroniques</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/is-ever-good-use-nonfree-program.html\"> Is It Ever a "
-"Good Thing to Use a Nonfree Program?</a> By Richard Stallman."
-msgstr ""
-"<a href=\"/philosophy/is-ever-good-use-nonfree-program.html\">Arrive-t-il "
-"parfois qu'utiliser un logiciel non libre soit une bonne chose ?</a> par "
-"Richard Stallman."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/contradictory-support.html\"> Beware of Contradictory "
-"&ldquo;Support&rdquo;</a>"
-msgstr ""
-"<a href=\"/philosophy/contradictory-support.html\">Attention au « soutien » "
-"contredit par les faits</a>"
-
-#. type: Content of: <div><h3>
-msgid "Terminology and Definitions"
-msgstr "Terminologie et définitions"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/free-hardware-designs.html\"> Free Hardware and Free "
-"Hardware Designs</a>"
-msgstr ""
-"<a href=\"/philosophy/free-hardware-designs.html\">Matériel libre et plans "
-"libres pour le matériel</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/words-to-avoid.html\">Confusing Words</a> which You "
-"Might Want to Avoid"
-msgstr ""
-"<a href=\"/philosophy/words-to-avoid.html\">Termes prêtant à confusion</a> "
-"qu'il vaut mieux éviter."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/wipo-PublicAwarenessOfCopyright-2002.html\"> Public "
-"Awareness of Copyright, WIPO, June 2002</a>. On how WIPO recognizes that "
-"their system is designed to restrict the public, and how they propose to "
-"modify terminology so that people won't notice."
-msgstr ""
-"<a href=\"/philosophy/wipo-PublicAwarenessOfCopyright-2002.html"
-"\">Sensibilisation du public au droit d'auteur, OMPI, juin 2002</a>, où "
-"l'OMPI reconnaît que son système est conçu pour imposer des restrictions au "
-"public, et propose de modifier la terminologie pour que les gens ne s'en "
-"rendent pas compte."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/free-software-for-freedom.html\">&ldquo;Open Source "
-"Software&rdquo; or &ldquo;Free Software&rdquo;?</a> (This is an older essay "
-"about the same topic as the previous one.)"
-msgstr ""
-"<a href=\"/philosophy/free-software-for-freedom.html\">Pourquoi l'expression "
-"« logiciel libre » est meilleure qu'« open source »</a> : un essai plus "
-"ancien sur le même sujet que le précédent."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"Richard Stallman wrote <a href=\"/philosophy/drdobbs-letter.html\"> letter "
-"to the editor</a> of Dr. Dobb's Journal in June 2001 which further explains "
-"the distinction between the Free Software and Open Source movements."
-msgstr ""
-"Richard Stallman a écrit une <a href=\"/philosophy/drdobbs-letter.html"
-"\">lettre au rédacteur en chef</a> du <cite>Dr. Dobb's Journal</cite> de "
-"juin 2001 qui explique encore mieux la différence entre les mouvements du "
-"logiciel libre et de l'open source."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/loyal-computers.html\"> What Does It Mean for Your "
-"Computer to Be Loyal?</a>"
-msgstr ""
-"<a href=\"/philosophy/loyal-computers.html\">À quelles conditions votre "
-"ordinateur vous est-il loyal ?</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/fs-translations.html\">Translations of the term &ldquo;"
-"free software&rdquo;</a> into various languages."
-msgstr ""
-"<a href=\"/philosophy/fs-translations.html\">Traductions du terme <i>free "
-"software</i></a> en diverses langues."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/why-call-it-the-swindle.html\">Why call it the "
-"Swindle</a>"
-msgstr ""
-"<a href=\"/philosophy/why-call-it-the-swindle.html\">Pourquoi l'appeler le "
-"Swindle (l'arnaque)</a>"
-
-#. type: Content of: <div><h3>
-msgid "Upholding Software Freedom"
-msgstr "Défendre la liberté des logiciels"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/saying-no-even-once.html\">Saying No to unjust "
-"computing even once is help</a>"
-msgstr ""
-"<a href=\"/philosophy/saying-no-even-once.html\">Dire non à l'informatique "
-"injuste, même une seule fois, est une aide</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/install-fest-devil.html\">Install Fests: What to Do "
-"about the Deal with the Devil</a>"
-msgstr ""
-"<a href=\"/philosophy/install-fest-devil.html\">Install parties : comment "
-"réagir au pacte avec le diable</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/upgrade-windows.html\">What Is the Right Way to "
-"Upgrade an Installation of Windows?</a>"
-msgstr ""
-"<a href=\"/philosophy/upgrade-windows.html\">Comment bien mettre à niveau "
-"une installation de Windows ?</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/use-free-software.html\">The Free Software Community "
-"After 20 Years</a>, With great but incomplete success, what now?"
-msgstr ""
-"<a href=\"/philosophy/use-free-software.html\">La communauté du logiciel "
-"libre 20 ans après</a> : un grand succès, mais un succès incomplet ; et "
-"maintenant ?"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/mcvoy.html\">Thank You, Larry McVoy</a>, by Richard M. "
-"Stallman."
-msgstr ""
-"<a href=\"/philosophy/mcvoy.html\">Merci, Larry McVoy</a>, par Richard M. "
-"Stallman."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/social-inertia.html\"> Overcoming Social Inertia</a>, "
-"by Richard M. Stallman."
-msgstr ""
-"<a href=\"/philosophy/social-inertia.html\">Vaincre l'inertie sociale</a>, "
-"par Richard M. Stallman."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/compromise.html\">Avoiding Ruinous Compromises</a>"
-msgstr ""
-"<a href=\"/philosophy/compromise.html\">Éviter les compromis ruineux</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/free-software-even-more-important.html\"> Free "
-"Software Is Even More Important Now</a>"
-msgstr ""
-"<a href=\"/philosophy/free-software-even-more-important.html\">Le logiciel "
-"libre est encore plus essentiel maintenant</a>"
-
-#. type: Content of: <div><h3>
-msgid "Misc"
-msgstr "Divers"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/philosophy/posting-videos.html\">Posting Videos</a>"
+"<a href=\"/philosophy/posting-videos.html\"> Posting Videos</a> (by RMS)"
 msgstr ""
 "<a href=\"/philosophy/posting-videos.html\">Mettre des vidéos en ligne</a>"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2015]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/proprietary.html\">Clearly established cases of "
-"proprietary software that does nasty things to the users</a>."
-msgstr ""
-"<a href=\"/philosophy/proprietary.html\">Cas clairement établis de logiciels "
-"privateurs qui font des mauvais coups à leurs utilisateurs</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/practical.html\">The advantages of free software</a>."
-msgstr ""
-"<a href=\"/philosophy/practical.html\">Les avantages du logiciel libre</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/bug-nobody-allowed-to-understand.html\">The Bug Nobody "
-"is Allowed to Understand</a>, By Richard Stallman."
-msgstr ""
-"<a href=\"/philosophy/bug-nobody-allowed-to-understand.html\">Le bogue que "
-"personne n'est autorisé à comprendre</a>, par Richard Stallman."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/sun-in-night-time.html\">The Curious Incident of Sun "
-"in the Night-Time</a>, by Richard M. Stallman."
-msgstr ""
-"<a href=\"/philosophy/sun-in-night-time.html\">Le curieux non-événement de "
-"Sun dans la pénombre</a>, par Richard M. Stallman."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/sco/sco-gnu-linux.html\">SCO, GNU, and Linux</a>, by "
-"Richard Stallman, discusses how SCO's lawsuit against IBM pertains to the "
-"work of the GNU project.  Please see the <a href=\"/philosophy/sco/sco.html"
-"\">FSF SCO Response Page</a> for more details on this subject."
-msgstr ""
-"<a href=\"/philosophy/sco/sco-gnu-linux.html\">SCO, GNU et Linux</a>, par "
-"Richard Stallman, parle de la façon dont les poursuites judiciaires de SCO "
-"contre IBM sont reliées au travail du projet GNU. Veuillez consulter la <a "
-"href=\"/philosophy/sco/sco.html\">réponse de la FSF à SCO</a> pour plus de "
-"détails à ce sujet."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/ms-doj-tunney.html\">FSF's Statement in Response to "
-"Proposed Revised Final Judgment in Microsoft vs. United States, submitted to "
-"the US Department of Justice under the Tunney Act</a>."
-msgstr ""
-"<a href=\"/philosophy/ms-doj-tunney.html\">Déclaration de la FSF en réponse "
-"à la proposition de jugement définitif révisé dans le procès Microsoft "
-"contre les États-Unis, soumise au ministère de la justice américain dans le "
-"cadre du <i>Tunney Act</i></a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/new-monopoly.html\">U.S. Congress Threatens to "
-"Establish a New Kind of Monopoly</a>, an attempt of the Congress to create a "
-"private monopoly over repeating publicly known information."
-msgstr ""
-"<a href=\"/philosophy/new-monopoly.html\">Le Congrès des États-Unis menace "
-"d'établir un nouveau type de monopole</a> : une tentative du Congrès pour "
-"créer un monopole privé sur la répétition d'informations déjà connues du "
-"public."
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/philosophy/dat.html\">The Right Way to Tax DAT</a>"
-msgstr ""
-"<a href=\"/philosophy/dat.html\">La bonne façon de taxer les cassettes audio-"
-"numériques</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/censoring-emacs.html\">Censoring My Software</a>, by "
-"Richard Stallman."
-msgstr ""
-"<a href=\"/philosophy/censoring-emacs.html\">Je censure mes logiciels</a>, "
-"par Richard Stallman>."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/funding-art-vs-funding-software.html\">Funding Art vs "
-"Funding Software</a>, by Richard Stallman."
-msgstr ""
-"<a href=\"/philosophy/funding-art-vs-funding-software.html\">Financer l'art "
-"vs financer le logiciel</a>, par Richard Stallman."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/android-and-users-freedom.html\"> Android and Users' "
-"Freedom</a>"
-msgstr ""
-"<a href=\"/philosophy/android-and-users-freedom.html\">Android et la liberté "
-"des utilisateurs</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/ubuntu-spyware.html\">Ubuntu Spyware: What to Do?</a>"
-msgstr ""
-"<a href=\"/philosophy/ubuntu-spyware.html\">Un logiciel espion dans Ubuntu ! "
-"Que faire ?</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/whats-wrong-with-youtube.html\">What's Wrong with "
+"<a href=\"/philosophy/whats-wrong-with-youtube.html\"> What's Wrong with "
 "YouTube</a>"
 msgstr ""
 "<a href=\"/philosophy/whats-wrong-with-youtube.html\">Qu'y a-t-il de mal "
 "dans YouTube ?</a>"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2014]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/netscape.html\">Netscape and Free Software</a>, an old "
-"article that clarifies some misunderstandings about an announcement by "
-"Netscape."
+"<a href=\"/philosophy/bug-nobody-allowed-to-understand.html\"> The Bug "
+"Nobody is Allowed to Understand</a> (by RMS)"
 msgstr ""
-"<a href=\"/philosophy/netscape.html\">Netscape et le logiciel libre</a>, un "
-"article assez ancien qui clarifie quelques malentendus sur une annonce faite "
-"par Netscape."
+"<a href=\"/philosophy/bug-nobody-allowed-to-understand.html\">Le bogue que "
+"personne n'est autorisé à comprendre</a>, par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2011]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/rms-comment-longs-article.html\">Comments on Roderick "
-"Long's Article</a>."
+"<a href=\"/philosophy/judge-internet-usage.html\"> A wise user judges each "
+"Internet usage scenario carefully</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/judge-internet-usage.html\">Un utilisateur averti "
+"évalue soigneusement les différents usages d'Internet</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2011]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/keep-control-of-your-computing.html\"> Keep control of "
+"your computing, so it doesn't control you!</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/keep-control-of-your-computing.html\">Gardez le "
+"contrôle de votre informatique, afin qu'elle ne vous contrôle pas !</a> par "
+"RMS"
+
+#. type: Content of: <div><h4>
+msgid "Accessing culture"
+msgstr "Accès à la culture"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[1996-2016]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/right-to-read.html\"> The Right to Read: A Dystopian "
+"Short Story</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/right-to-read.html\">Le droit de lire : une courte "
+"histoire dystopique</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2012]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/ebooks-must-increase-freedom.html\"> Ebooks must "
+"increase our freedom, not decrease it</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/ebooks-must-increase-freedom.html\">Les e-books "
+"doivent nous rendre plus libres, pas moins</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2011]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/the-danger-of-ebooks.html\"> The Danger of E-Books</a> "
+"(by RMS)"
+msgstr ""
+"<a href=\"/philosophy/the-danger-of-ebooks.html\">Le danger des livres "
+"électroniques</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2010]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.theguardian.com/technology/blog/2010/apr/06/digital-"
+"economy-bill-richard-stallman\"> Digital economy bill: One clown giveth and "
+"the other clown taketh away</a> (by RMS, on <i>theguardian.com</i>)"
+msgstr ""
+"<a href=\"http://www.theguardian.com/technology/blog/2010/apr/06/digital-"
+"economy-bill-richard-stallman\"><i>Digital economy bill: One clown giveth "
+"and the other clown taketh away</i></a> (Proposition de loi sur l'économie "
+"numérique : un clown donne et un autre clown reprend), par RMS, sur "
+"<i>theguardian.com</i>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2000]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/ebooks.html\"> Ebooks: Freedom Or Copyright</a> (by "
+"RMS)"
+msgstr ""
+"<a href=\"/philosophy/ebooks.html\">Livres électroniques : liberté ou "
+"copyright</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2000]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/encyclopedia/free-encyclopedia.html\"> The Free Universal "
+"Encyclopedia and Learning Resource</a> (by RMS)"
+msgstr ""
+"<a href=\"/encyclopedia/free-encyclopedia.html\">Encyclopédie universelle et "
+"ressources pédagogiques libres</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/new-monopoly.html\"> U.S. Congress Threatens to "
+"Establish a New Kind of Monopoly</a> &mdash; An attempt of the Congress to "
+"create a private monopoly over repeating publicly known information."
+msgstr ""
+"<a href=\"/philosophy/new-monopoly.html\">Le Congrès des États-Unis menace "
+"d'établir un nouveau type de monopole</a> – Une tentative du Congrès pour "
+"créer un monopole privé sur la répétition d'informations déjà connues du "
+"public."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/stophr3028.html\"> Stop H.R. 3028 - Protect the Net - "
+"Stop the Trademark Monopolists</a> (by Marc Rotenberg)"
+msgstr ""
+"<a href=\"/philosophy/stophr3028.html\">Stoppez HR 3028 - Protégez Internet "
+"- Stoppez les monopoles des marques déposées</a>, par Marc Rotenberg"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1996]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/rms-comment-longs-article.html\"> Comments on Roderick "
+"Long's Article</a> (by RMS)"
 msgstr ""
 "<a href=\"/philosophy/rms-comment-longs-article.html\">Commentaires "
-"concernant l'article de Roderick Long</a>"
+"concernant l'article de Roderick Long</a>, par RMS"
+
+#. type: Content of: <div><h4>
+msgid "Funding cultural works"
+msgstr "Financement des œuvres culturelles"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2013]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/funding-art-vs-funding-software.html\"> Funding Art vs "
+"Funding Software</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/funding-art-vs-funding-software.html\">Financer l'art "
+"vs financer le logiciel</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1992]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/philosophy/dat.html\"> The Right Way to Tax DAT</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/dat.html\">La bonne façon de taxer les cassettes audio-"
+"numériques</a>, par RMS"
+
+#. type: Content of: <div><h4>
+msgid "Surveillance, censorship, lock-in, etc."
+msgstr "Surveillance, censure, verrouillage, etc."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[2013&hellip;&nbsp;]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary.html\"> Proprietary Software Is Often "
+"Malware</a> &mdash; Clearly established cases of proprietary software that "
+"does nasty things to the users."
+msgstr ""
+"<a href=\"/philosophy/proprietary.html\">Le logiciel privateur est souvent "
+"malveillant</a> – Cas clairement établis de logiciels privateurs qui font "
+"des mauvais coups à leurs utilisateurs"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[2015-2019]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/surveillance-vs-democracy.html\"> How Much "
+"Surveillance Can Democracy Withstand?</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/surveillance-vs-democracy.html\">Quel niveau de "
+"surveillance la démocratie peut-elle endurer ?</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2021]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/wwworst-app-store.html\"> The WWWorst App Store</a> "
+"(by Alexandre Oliva)"
+msgstr ""
+"<a href=\"/philosophy/wwworst-app-store.html\">Un app store de la pire "
+"espèce</a>, par Alexandre Oliva"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2018]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/phone-anonymous-payment.html\"> Anonymous Payment by "
+"Phone</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/phone-anonymous-payment.html\">Paiement anonyme par "
+"téléphone</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2018]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.theguardian.com/commentisfree/2018/apr/03/facebook-"
+"abusing-data-law-privacy-big-tech-surveillance\"> A radical proposal to keep "
+"your personal data safe</a> (by RMS, on <i>theguardian.com</i>)"
+msgstr ""
+"<i><a href=\"https://www.theguardian.com/commentisfree/2018/apr/03/facebook-"
+"abusing-data-law-privacy-big-tech-surveillance\">A radical proposal to keep "
+"your personal data safe</a></i> (une proposition radicale pour assurer la "
+"sécurité de vos données personnelles), par RMS, sur <i>theguardian.com</i>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2018]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/surveillance-testimony.html\"> Surveillance Testimony</"
+"a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/surveillance-testimony.html\">Témoignage sur la "
+"surveillance</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2012]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/ubuntu-spyware.html\"> Ubuntu Spyware: What to Do?</a> "
+"(by RMS)"
+msgstr ""
+"<a href=\"/philosophy/ubuntu-spyware.html\">Un logiciel espion dans Ubuntu ! "
+"Que faire ?</a> par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2009]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/microsoft.html\"> Is Microsoft the Great Satan?</a> "
+"[<a href=\"/philosophy/microsoft-old.html\">older version</a>]"
+msgstr ""
+"<a href=\"/philosophy/microsoft.html\">Microsoft est-il le Grand Satan ?</a> "
+"[<a href=\"/philosophy/microsoft-old.html\">version plus ancienne</a>]"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2008]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/the-root-of-this-problem.html\"> The Problem Is "
+"Software Controlled By Its Developer</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/the-root-of-this-problem.html\">Le problème est le "
+"logiciel contrôlé par son développeur</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2008]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/gates.html\"> It's not the Gates, it's the bars</a> "
+"(by RMS)"
+msgstr ""
+"<a href=\"/philosophy/gates.html\">Ce ne sont pas des barrières mais une "
+"prison</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2002]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/wassenaar.html\"> The Wassenaar Arrangement</a> "
+"&mdash; Encryption software volunteers needed in countries without export "
+"control."
+msgstr ""
+"<a href=\"/philosophy/wassenaar.html\">L'arrangement de Wassenaar</a> – On "
+"recherche des bénévoles de la cryptographie logicielle dans des pays sans "
+"contrôle des exportations."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2002]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/ms-doj-tunney.html\"> FSF's Statement in Response to "
+"Proposed Revised Final Judgment in <cite>Microsoft v. United States</cite></"
+"a>"
+msgstr ""
+"<a href=\"/philosophy/ms-doj-tunney.html\">Déclaration de la FSF en réponse "
+"à la proposition de jugement définitif révisé dans le procès Microsoft "
+"contre les États-Unis</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2000]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/microsoft-verdict.html\"> On the Microsoft Verdict</a>"
+msgstr ""
+"<a href=\"/philosophy/microsoft-verdict.html\">À propos du verdict "
+"Microsoft</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/microsoft-antitrust.html\"> The Microsoft Antitrust "
+"Trial and Free Software</a>"
+msgstr ""
+"<a href=\"/philosophy/microsoft-antitrust.html\">Le procès antitrust contre "
+"Microsoft, propositions de la FSF</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1996]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/privacyaction.html\"> Protect Postal Privacy</a> (by "
+"Kathleen Ellis)  &mdash; A campaign to resist the proposed rule by the "
+"United States Postal Service to collect private information from customers."
+msgstr ""
+"<a href=\"/philosophy/privacyaction.html\">Protégeons l'anonymat postal</a>, "
+"par Kathleen Ellis – Une campagne d'opposition à une proposition de "
+"règlement du Service postal des États-Unis visant à collecter des "
+"informations privées sur ses clients."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1996]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/basic-freedoms.html\"> Freedoms of Speech, Press, and "
+"Association</a> &mdash; How to protect these freedoms on the Internet."
+msgstr ""
+"<a href=\"/philosophy/basic-freedoms.html\">Libertés d'expression, de la "
+"presse et d'association sur Internet</a> – Comment protéger ces libertés sur "
+"Internet."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1996]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/censoring-emacs.html\"> Censoring My Software</a> (by "
+"RMS)"
+msgstr ""
+"<a href=\"/philosophy/censoring-emacs.html\">Je censure mes logiciels</a>, "
+"par RMS."
+
+#. type: Content of: <div><h3>
+msgid "Terminology and Definitions"
+msgstr "Terminologie et définitions"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[1996&hellip;&nbsp;]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/words-to-avoid.html\"> Words to Avoid (or Use with "
+"Care) Because They Are Loaded or Confusing</a>"
+msgstr ""
+"<a href=\"/philosophy/words-to-avoid.html\">Mots à éviter ou à utiliser avec "
+"précaution, car connotés ou prêtant à confusion</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999&hellip;&nbsp;]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/fs-translations.html\"> Translations of the term "
+"&ldquo;free software&rdquo;</a> into various languages."
+msgstr ""
+"<a href=\"/philosophy/fs-translations.html\">Traductions du terme <i>free "
+"software</i></a> en diverses langues."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1996-2019]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/categories.html\"> Categories of Free and Nonfree "
+"Software</a>"
+msgstr ""
+"<a href=\"/philosophy/categories.html\">Catégories de logiciels libres et "
+"non libres</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2013]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/why-call-it-the-swindle.html\"> Why Call It The "
+"Swindle?</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/why-call-it-the-swindle.html\">Pourquoi l'appeler le "
+"<i>Swindle</i> (l'arnaque)</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2002]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/wipo-PublicAwarenessOfCopyright-2002.html\"> Public "
+"Awareness of Copyright, WIPO, June 2002</a> (by RMS)  &mdash; How WIPO "
+"recognizes that their system is designed to restrict the public, and how "
+"they propose to modify terminology so that people won't notice."
+msgstr ""
+"<a href=\"/philosophy/wipo-PublicAwarenessOfCopyright-2002.html"
+"\">Sensibilisation du public au droit d'auteur, OMPI juin 2002</a>, par RMS "
+"– Où l'OMPI reconnaît que son système est conçu pour imposer des "
+"restrictions au public et propose de modifier la terminologie pour que les "
+"gens ne s'en rendent pas compte."
 
 #. type: Content of: <div><h3>
 msgid "Philosophical humor"
 msgstr "Humour philosophique"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><p>
 msgid ""
-"<a href=\"/fun/humor.html#Philosophy\">Philosophy Humor</a>.  We don't have "
-"to be serious <i>all</i> the time."
+"<a href=\"/fun/humor.html#Philosophy\">Laugh along with GNU (Philosophy)</a> "
+"&mdash; We don't have to be serious <i>all</i> the time."
 msgstr ""
-"<a href=\"/fun/humor.html#Philosophy\">Humour philosophique</a> : nous "
-"n'avons pas à être sérieux <em>tout</em> le temps."
+"<a href=\"/fun/humor.html#Philosophy\">Rions avec le GNU (philosophie)</a> – "
+"Nous n'avons pas à être sérieux tout le temps."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
