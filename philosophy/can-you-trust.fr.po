@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: can-you-trust.html\n"
-"POT-Creation-Date: 2020-12-08 11:55+0000\n"
-"PO-Revision-Date: 2021-01-12 14:52+0100\n"
+"POT-Creation-Date: 2021-08-20 20:25+0000\n"
+"PO-Revision-Date: 2021-08-20 23:23+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -26,15 +26,15 @@ msgstr ""
 "Pouvez-vous faire confiance à votre ordinateur ? - Projet GNU - Free "
 "Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Can You Trust Your Computer?"
 msgstr "Pouvez-vous faire confiance à votre ordinateur ?"
 
-#. type: Content of: <p>
-msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
-msgstr "par <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Who should your computer take its orders from? Most people think their "
 "computers should obey them, not obey someone else.  With a plan they call "
@@ -57,7 +57,7 @@ msgstr ""
 "contiennent des dispositifs malveillants, mais ce projet rendrait cette "
 "pratique universelle."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Proprietary software means, fundamentally, that you don't control what it "
 "does; you can't study the source code, or change it.  It's not surprising "
@@ -85,7 +85,7 @@ msgstr ""
 "secrets, mais même une fois que vous en avez connaissance, il est difficile "
 "de les enlever, puisque vous ne disposez pas du code source de l'application."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In the past, these were isolated incidents.  &ldquo;Trusted computing&rdquo; "
 "would make the practice pervasive.  &ldquo;Treacherous computing&rdquo; is a "
@@ -102,7 +102,7 @@ msgstr ""
 "plus fonctionner comme ordinateur polyvalent. Chaque opération pourra exiger "
 "une permission explicite."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The technical idea underlying treacherous computing is that the computer "
 "includes a digital encryption and signature device, and the keys are kept "
@@ -125,7 +125,7 @@ msgstr ""
 "ne laissez pas votre ordinateur récupérer périodiquement ces nouvelles "
 "règles depuis Internet, certaines fonctions se désactiveront automatiquement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Of course, Hollywood and the record companies plan to use treacherous "
 "computing for Digital Restrictions Management (DRM), so that downloaded "
@@ -148,7 +148,7 @@ msgstr ""
 "que la gestion numérique des restrictions n'atteigne pas complètement son "
 "but, mais cela ne justifie pas ce système)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Making sharing impossible is bad enough, but it gets worse.  There are plans "
 "to use the same facility for email and documents&mdash;resulting in email "
@@ -161,7 +161,7 @@ msgstr ""
 "disparaître un courriel au bout de deux semaines, ou de ne pouvoir lire "
 "certains documents que sur les ordinateurs d'une société déterminée."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Imagine if you get an email from your boss telling you to do something that "
 "you think is risky; a month later, when it backfires, you can't use the "
@@ -175,7 +175,7 @@ msgstr ""
 "que la décision n'était pas de vous. « Recevoir l'ordre par écrit » ne vous "
 "protège pas quand l'ordre est écrit avec une encre qui disparaît."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Imagine if you get an email from your boss stating a policy that is illegal "
 "or morally outrageous, such as to shred your company's audit documents, or "
@@ -193,7 +193,7 @@ msgstr ""
 "journaliste ne pourra pas lire le document ; son ordinateur refusera de lui "
 "obéir. L'informatique déloyale devient un paradis pour la corruption."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Word processors such as Microsoft Word could use treacherous computing when "
 "they save your documents, to make sure no competing word processors can read "
@@ -216,7 +216,7 @@ msgstr ""
 "dite <i>Digital Millennium Copyright Act</i>.<a id=\"TransNote2-rev\" href="
 "\"#TransNote2\"><sup>b</sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Programs that use treacherous computing will continually download new "
 "authorization rules through the Internet, and impose those rules "
@@ -237,7 +237,7 @@ msgstr ""
 "sujet à un effacement rétroactif « façon <cite>1984</cite> » ; au final, "
 "vous ne pourriez même plus le relire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "You might think you can find out what nasty things a treacherous-computing "
 "application does, study how painful they are, and decide whether to accept "
@@ -258,7 +258,7 @@ msgstr ""
 "automatiquement des mises à jour qui fonctionneront alors de façon "
 "différente, et elles ne vous laisseront pas le choix de mettre à jour ou non."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Today you can avoid being restricted by proprietary software by not using "
 "it.  If you run GNU/Linux or another free operating system, and if you avoid "
@@ -279,7 +279,7 @@ msgstr ""
 "systèmes d'exploitation non libres ; cela ne vous octroie pas une liberté "
 "totale, mais beaucoup d'utilisateurs le font."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Treacherous computing puts the existence of free operating systems and free "
 "applications at risk, because you may not be able to run them at all.  Some "
@@ -302,7 +302,7 @@ msgstr ""
 "système. Si vous trouviez une façon de le faire et que vous le disiez à "
 "quelqu'un, cela pourrait être considéré comme une infraction."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "There are proposals already for US laws that would require all computers to "
 "support treacherous computing, and to prohibit connecting old computers to "
@@ -333,34 +333,35 @@ msgstr ""
 "laisser). Pour s'opposer à l'informatique déloyale, nous devons nous "
 "regrouper et confronter la situation en termes de choix collectif."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"For further information about treacherous computing, see <a href=\"http://"
-"www.cl.cam.ac.uk/users/rja14/tcpa-faq.html\">http://www.cl.cam.ac.uk/users/"
-"rja14/tcpa-faq.html</a>."
+"For further information about treacherous computing, see the <a href="
+"\"https://www.cl.cam.ac.uk/~rja14/tcpa-faq.html\"> &ldquo;Trusted "
+"Computing&rdquo; Frequently Asked Questions</a>."
 msgstr ""
 "Pour plus ample information au sujet de l'informatique déloyale, voir <a "
-"href=\"http://www.cl.cam.ac.uk/users/rja14/tcpa-faq.html\">http://www.cl.cam."
-"ac.uk/users/rja14/tcpa-faq.html</a>."
+"href=\"https://www.cl.cam.ac.uk/~rja14/tcpa-faq.html\">&ldquo;Trusted "
+"Computing&rdquo; Frequently Asked Questions</a> (FAQ sur « l'informatique de "
+"confiance »)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To block treacherous computing will require large numbers of citizens to "
-"organize.  We need your help! Please support <a href=\"http://"
-"DefectiveByDesign.org\">Defective by Design</a>, the FSF's campaign against "
+"organize.  We need your help! Please support <a href=\"https://www."
+"defectivebydesign.org/\">Defective by Design</a>, the FSF's campaign against "
 "Digital Restrictions Management."
 msgstr ""
 "Contrer l'informatique déloyale va nécessiter que de nombreux citoyens "
-"s'organisent. Nous avons besoin de votre aide ! Soutenez <a href=\"http://"
-"DefectiveByDesign.org\">Defective by Design</a> (défectueux à dessein), la "
-"campagne de la Fondation pour le logiciel libre contre la gestion numérique "
-"des restrictions."
+"s'organisent. Nous avons besoin de votre aide ! Soutenez <a href=\"https://"
+"www.defectivebydesign.org/\">Defective by Design</a> (défectueux à dessein), "
+"la campagne de la Fondation pour le logiciel libre contre la gestion "
+"numérique des restrictions."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Postscripts"
 msgstr "Post-scriptum"
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><div><ol><li><p>
 msgid ""
 "The computer security field uses the term &ldquo;trusted computing&rdquo; in "
 "a different way&mdash;beware of confusion between the two meanings."
@@ -369,7 +370,7 @@ msgstr ""
 "d'une manière différente. Attention à ne pas confondre les deux "
 "significations."
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><div><ol><li><p>
 msgid ""
 "The GNU Project distributes the GNU Privacy Guard, a program that implements "
 "public-key encryption and digital signatures, which you can use to send "
@@ -383,7 +384,7 @@ msgstr ""
 "comment GPG diffère de l'informatique déloyale, pour voir ce qui rend l'un "
 "utile et l'autre si dangereux."
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><div><ol><li><p>
 msgid ""
 "When someone uses GPG to send you an encrypted document, and you use GPG to "
 "decode it, the result is an unencrypted document that you can read, forward, "
@@ -405,7 +406,7 @@ msgstr ""
 "conçue pour imposer des restrictions aux utilisateurs ; c'est <em>elle</em> "
 "qui <em>les</em> « utilise »."
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><div><ol><li><p>
 msgid ""
 "The supporters of treacherous computing focus their discourse on its "
 "beneficial uses.  What they say is often correct, just not important."
@@ -414,7 +415,7 @@ msgstr ""
 "utilisation bénéfique. Ce qu'ils disent est souvent correct, mais porte sur "
 "des points mineurs."
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><div><ol><li><p>
 msgid ""
 "Like most hardware, treacherous-computing hardware can be used for purposes "
 "which are not harmful.  But these features can be implemented in other ways, "
@@ -429,7 +430,7 @@ msgstr ""
 "que l'informatique déloyale a une conséquence fâcheuse : la manipulation de "
 "votre ordinateur pour qu'il agisse contre vous."
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><div><ol><li><p>
 msgid ""
 "What they say is true, and what I say is true.  Put them together and what "
 "do you get? Treacherous computing is a plan to take away our freedom, while "
@@ -440,7 +441,7 @@ msgstr ""
 "destiné à nous ôter la liberté tout en offrant des avantages mineurs "
 "destinés à nous distraire de ce que nous perdrions."
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><div><ol><li><p>
 msgid ""
 "Microsoft presents Palladium as a security measure, and claims that it will "
 "protect against viruses, but this claim is evidently false.  A presentation "
@@ -458,7 +459,7 @@ msgstr ""
 "continuent à fonctionner ; donc les virus seront toujours capables de faire "
 "tout ce qu'ils font aujourd'hui."
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><div><ol><li><p>
 msgid ""
 "When Microsoft employees speak of &ldquo;security&rdquo; in connection with "
 "Palladium, they do not mean what we normally mean by that word: protecting "
@@ -481,7 +482,7 @@ msgstr ""
 " mais j'ai mis « secrets de l'utilisateur » entre guillemets, car c'est "
 "quelque peu absurde dans le contexte de Palladium."
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><div><ol><li><p>
 msgid ""
 "The presentation made frequent use of other terms that we frequently "
 "associate with the context of security, such as &ldquo;attack&rdquo;, &ldquo;"
@@ -503,7 +504,7 @@ msgstr ""
 "« Spoofing » ne veut pas dire que quelqu'un vous trompe, mais que vous "
 "trompez Palladium. Et ainsi de suite."
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><div><ol><li><p>
 msgid ""
 "A previous statement by the Palladium developers stated the basic premise "
 "that whoever developed or collected information should have total control of "
@@ -521,7 +522,7 @@ msgstr ""
 "résultent de leur principe de base. C'est ce principe que nous devons "
 "rejeter."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "As of 2015, treacherous computing has been implemented for PCs in the form "
 "of the &ldquo;Trusted Platform Module&rdquo;; however, for practical "
@@ -547,7 +548,7 @@ msgstr ""
 "fonctions secondaires comme de vérifier que quelqu'un n'a pas subrepticement "
 "modifié le système d'un ordinateur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Therefore, we conclude that the &ldquo;Trusted Platform Modules&rdquo; "
 "available for PCs are not dangerous, and there is no reason not to include "
@@ -557,7 +558,7 @@ msgstr ""
 "sont pas dangereux et qu'il n'y a aucune raison de les exclure d'un "
 "ordinateur ou de ne pas les prendre en charge dans un système d'exploitation."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This does not mean that everything is rosy.  Other hardware systems for "
 "blocking the owner of a computer from changing the software in it are in use "
@@ -571,7 +572,7 @@ msgstr ""
 "télévisions et autres appareils, et ceux-ci sont aussi néfastes que l'on "
 "pouvait s'y attendre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This also does not mean that remote attestation is harmless.  If ever a "
 "device succeeds in implementing that, it will be a grave threat to users' "
@@ -586,13 +587,13 @@ msgstr ""
 "l'attestation à distance possible. Nous ne devons pas partir du principe que "
 "toutes les tentatives futures échoueront également."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"This essay is published in <a href=\"http://shop.fsf.org/product/free-"
+"This essay is published in <a href=\"https://shop.fsf.org/product/free-"
 "software-free-society/\"><cite>Free Software, Free Society: The Selected "
 "Essays of Richard M. Stallman</cite></a>."
 msgstr ""
-"Cet essai est publié dans le livre <a href=\"http://shop.fsf.org/product/"
+"Cet essai est publié dans le livre <a href=\"https://shop.fsf.org/product/"
 "free-software-free-society/\"><cite>Free Software, Free Society: The "
 "Selected Essays of Richard M. Stallman</cite></a>."
 
@@ -634,14 +635,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -652,8 +653,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2002, 2007, 2014, 2015, 2016, 2020 Richard Stallman"
-msgstr "Copyright &copy; 2002, 2007, 2014, 2015, 2016, 2020 Richard Stallman"
+msgid "Copyright &copy; 2002, 2007, 2015, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2002, 2007, 2015, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

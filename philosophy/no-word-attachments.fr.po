@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: no-word-attachments.html\n"
-"POT-Creation-Date: 2020-01-07 17:25+0000\n"
-"PO-Revision-Date: 2020-12-06 19:30+0100\n"
+"POT-Creation-Date: 2021-08-20 20:26+0000\n"
+"PO-Revision-Date: 2021-08-20 23:23+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -45,15 +45,15 @@ msgstr ""
 "est une mauvaise pratique et décrit ce que vous pouvez faire pour aider à "
 "l'arrêter."
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "We Can Put an End to Word Attachments"
 msgstr "Finissons-en avec les pièces jointes Word !"
 
-#. type: Content of: <p>
-msgid "by <strong>Richard M. Stallman</strong>"
-msgstr "par <strong>Richard M. Stallman</strong>"
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "par Richard M. Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Don't you just hate receiving Word documents in email messages? Word "
 "attachments are annoying, but, worse than that, they impede people from "
@@ -68,7 +68,7 @@ msgstr ""
 "faire, c'est de demander à chaque personne qui nous envoie un document Word "
 "de reconsidérer sa façon de procéder."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Most computer users use Microsoft Word.  That is unfortunate for them, since "
 "Word is proprietary software, denying its users the freedom to study, "
@@ -90,7 +90,7 @@ msgstr ""
 "documents rédigés cette année sont devenus illisibles avec la dernière "
 "version de Word."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "But it hurts us, too, when they assume we use Word and send us (or demand "
 "that we send them) documents in Word format.  Some people publish or post "
@@ -107,7 +107,7 @@ msgstr ""
 "devaient être dans ce format. Les administrations elles-mêmes imposent "
 "parfois son usage au public, ce qui est franchement scandaleux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "For us users of free operating systems, receiving Word documents is an "
 "inconvenience or an obstacle.  But the worst impact of sending Word format "
@@ -130,7 +130,7 @@ msgstr ""
 "Word, ce mal constant et persistant infligé à notre communauté n'attire "
 "généralement pas notre attention. Pourtant, il se manifeste tout le temps."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Many GNU users who receive Word documents try to find ways to handle them.  "
 "You can manage to find the somewhat obfuscated ASCII text in the file by "
@@ -145,7 +145,7 @@ msgstr ""
 "format est secret et n'a pas encore été totalement décodé). Et pire encore, "
 "Microsoft peut le changer à tout moment."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Worst of all, it has already done so.  Microsoft Office 2007 uses by default "
 "a format based on the patented OOXML format.  (This is the one that "
@@ -164,7 +164,7 @@ msgstr ""
 "libres. Ainsi nous commençons à recevoir des fichiers Word dans un format "
 "que les programmes libres ne sont pas même autorisés à lire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "When you receive a Word file, if you think of that as an isolated event, it "
 "is natural to try to cope by finding a way to read it.  Considered as an "
@@ -182,7 +182,7 @@ msgstr ""
 "signifie que nous devons convaincre les gens de ne plus envoyer ni mettre en "
 "ligne de documents Word."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "I therefore make a practice of responding to Word attachments with a polite "
 "message explaining why the practice of sending Word files is a bad thing, "
@@ -199,7 +199,7 @@ msgstr ""
 "d'habitude les gens comprennent le problème, et beaucoup disent qu'ils "
 "n'enverront plus de documents Word aux autres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If we all do this, we will have a much larger effect.  People who disregard "
 "one polite request may change their practice when they receive multiple "
@@ -214,7 +214,7 @@ msgstr ""
 "rien au format Word ! »</em>, en évoquant systématiquement le problème avec "
 "tous ceux qui nous envoient des fichiers Word."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To make this effort efficient, you will probably want to develop a canned "
 "reply that you can quickly send each time it is necessary.  I've included "
@@ -229,7 +229,7 @@ msgstr ""
 "comment convertir le texte vers d'autres formats utiles. Ils sont suivis de "
 "plusieurs suggestions envoyées par d'autres personnes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "You can use these replies verbatim if you like, or you can personalize them "
 "or write your own.  By all means construct a reply that fits your ideas and "
@@ -242,7 +242,7 @@ msgstr ""
 "personnalité : si les réponses sont personnalisées et toutes différentes, "
 "cela rendra la campagne plus efficace."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "These replies are meant for individuals who send Word files.  When you "
 "encounter an organization that imposes use of Word format, that calls for a "
@@ -255,7 +255,7 @@ msgstr ""
 "soulever la question de l'équité, qui ne s'appliquerait pas à des actions "
 "individuelles."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Some recruiters ask for resumes in Word format.  Ludicrously, some "
 "recruiters do this even when looking for someone for a free software job.  "
@@ -271,7 +271,7 @@ msgstr ""
 "mettre cette page en lien dans votre CV, à côté des autres formats du CV. "
 "Celui qui cherche une version Word la lira probablement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This page talks about Word attachments, since they are by far the most "
 "common case.  However, the same issues apply with other proprietary formats, "
@@ -283,12 +283,12 @@ msgstr ""
 "autres formats privateurs comme PowerPoint et Excel. N'hésitez pas à adapter "
 "les réponses pour couvrir ces cas également, si vous le souhaitez."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid "With our numbers, simply by asking, we can make a difference."
 msgstr ""
 "À nous tous, par cette simple demande, nous pouvons faire changer les choses."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<em>You sent the attachment in Microsoft Word format, a secret proprietary "
 "format, so I cannot read it.  If you send me the plain text, HTML, or PDF, "
@@ -298,7 +298,7 @@ msgstr ""
 "privateur et tenu secret, difficile à lire pour moi. Si me l'envoyez en "
 "texte brut, HTML ou PDF, alors je la lirai.</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<em>Sending people documents in Word format has bad effects, because that "
 "practice puts pressure on them to use Microsoft software.  In effect, you "
@@ -313,7 +313,7 @@ msgstr ""
 "vous, s'il vous plaît, reconsidérer l'utilisation du format Word pour "
 "communiquer avec les autres ?</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "(Explanatory note: I can handle ODF too, but it isn't very convenient for "
 "me, so I don't include it in my list of suggestions.)"
@@ -321,7 +321,7 @@ msgstr ""
 "(Note d'explication : je peux aussi manipuler l'ODF mais ce n'est pas très "
 "commode pour moi, c'est pourquoi il n'est pas dans ma liste de suggestions.)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<em>You sent the attachment in Microsoft Word format, a secret proprietary "
 "format, so it is hard for me to read.  If you send me plain text, HTML, or "
@@ -331,7 +331,7 @@ msgstr ""
 "privateur et tenu secret, difficile à lire pour moi. Si me l'envoyez en "
 "texte brut, HTML ou PDF, alors je la lirai.</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<em>Distributing documents in Word format is bad for you and for others.  "
 "You can't be sure what they will look like if someone views them with a "
@@ -342,26 +342,26 @@ msgstr ""
 "quelqu'un les regarde avec une version différente de Word ; ils peuvent même "
 "ne pas fonctionner du tout.</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<em>Receiving Word documents is bad for you because they can carry viruses "
-"(see http://en.wikipedia.org/wiki/Macro_virus_(computing)).  Sending Word "
-"documents is bad for you because a Word document normally includes hidden "
-"information about the author, enabling those in the know to pry into the "
-"author's activities (maybe yours).  Text that you think you deleted may "
-"still be embarrassingly present.  See http://news.bbc.co.uk/2/hi/"
-"technology/3154479.stm for more info.</em>"
+"(see https://en.wikipedia.org/wiki/Macro_virus).  Sending Word documents is "
+"bad for you because a Word document normally includes hidden information "
+"about the author, enabling those in the know to pry into the author's "
+"activities (maybe yours).  Text that you think you deleted may still be "
+"embarrassingly present.  See http://news.bbc.co.uk/2/hi/technology/3154479."
+"stm for more info.</em>"
 msgstr ""
 "<em>Recevoir des documents Word est mauvais pour vous, car ils peuvent "
-"servir de vecteurs à la propagation de virus (voir http://fr.wikipedia.org/"
-"wiki/Macro-virus). Envoyer des documents Word est mauvais pour vous, car ces "
+"servir de vecteurs à la propagation de virus (voir https://en.wikipedia.org/"
+"wiki/Macro_virus). Envoyer des documents Word est mauvais pour vous, car ces "
 "documents incorporent normalement des informations cachées sur l'auteur, "
 "permettant à ceux qui le savent de fourrer leur nez dans ses activés (peut-"
 "être les vôtres). Le texte que vous croyez avoir effacé peut être encore "
 "présent, pour votre plus grand embarras. Allez voir http://news.bbc.co.uk/2/"
 "hi/technology/3154479.stm pour en savoir plus</em>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<em>But above all, sending people Word documents puts pressure on them to "
 "use Microsoft software and helps to deny them any other choice.  In effect, "
@@ -374,7 +374,7 @@ msgstr ""
 "constitue un obstacle majeur à une plus large adoption du logiciel libre.</"
 "em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<em>Would you please switch to a different way of sending files to other "
 "people, instead of Word format?</em>"
@@ -382,7 +382,7 @@ msgstr ""
 "<em>Pourriez-vous s'il vous plaît, utiliser autre chose que le format Word "
 "pour envoyer des documents aux autres ?</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<em>Microsoft is already starting to make Word users switch to a new version "
 "of Word format, based on OOXML.  Its specs are 6000 pages long&mdash;so "
@@ -399,7 +399,7 @@ msgstr ""
 "l'interopérabilité, n'utilisez pas le format Word pour les échanges de "
 "documents.</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<em>Both versions of Word format allow <a href=\"https://outflank.nl/"
 "blog/2019/05/05/evil-clippy-ms-office-maldoc-assistant/\">incorporation of "
@@ -409,7 +409,7 @@ msgstr ""
 "nl/blog/2019/05/05/evil-clippy-ms-office-maldoc-assistant/\">l'incorporation "
 "de logiciels malveillants</a>.</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<em>To convert the file to HTML using Word is simple.  Open the document, "
 "click on File, then Save As, and in the Save As Type strip box at the bottom "
@@ -426,7 +426,7 @@ msgstr ""
 "change de façon imprévisible ; si vous constatez que les options ont des "
 "noms légèrement différents, essayez-les tout de même.</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<em>To convert to plain text is almost the same&mdash;instead of HTML "
 "Document, choose Text Only or Text Document as the Save As Type.</em>"
@@ -435,7 +435,7 @@ msgstr ""
 "de « Document HTML », choisissez « Texte seulement » dans « Enregistrer au "
 "format ».</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<em>Your computer may also have a program to convert to PDF format.  Select "
 "File, then Print.  Scroll through available printers and select the PDF "
@@ -448,15 +448,15 @@ msgstr ""
 "le bouton «Imprimer» et, quand la boîte de dialogue vous le demande, entrez "
 "un nom pour le ficher PDF.</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"<em>See http://www.gnu.org/philosophy/no-word-attachments.html for more "
+"<em>See https://www.gnu.org/philosophy/no-word-attachments.html for more "
 "about this issue.</em>"
 msgstr ""
-"<em>Consulter http://www.gnu.org/philosophy/no-word-attachments.html pour en "
-"savoir plus sur ce problème.</em>"
+"<em>Consulter https://www.gnu.org/philosophy/no-word-attachments.html pour "
+"en savoir plus sur ce problème.</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Here's another approach, suggested by Bob Chassell.  It requires that you "
 "edit it for the specific example, and it presumes you have a way to extract "
@@ -466,7 +466,7 @@ msgstr ""
 "votre cas et elle suppose que vous ayez un moyen d'extraire le texte du "
 "message et d'en déterminer la longueur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<em>I am puzzled.  Why did you choose to send me 876,377 bytes in your "
 "recent message when the content is only 27,133 bytes?</em>"
@@ -475,7 +475,7 @@ msgstr ""
 "dans votre dernier message alors que le contenu utile se réduit à seulement "
 "27 133 octets ?</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<em>You sent me five files in the non-standard, bloated .doc format that is "
 "Microsoft's secret, rather than in the international, public, and more "
@@ -485,7 +485,7 @@ msgstr ""
 "hypertrophié et tenu secret par Microsoft, plutôt qu'au format texte brut, "
 "international, public et plus efficace.</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<em>Microsoft can (and did recently in Kenya and Brazil) have local police "
 "enforce laws that prohibit students from studying the code, prohibit "
@@ -498,24 +498,25 @@ msgstr ""
 "nouvelles sociétés et interdisant à des professionnels de proposer leurs "
 "services. S'il vous plaît, n'apportez pas votre soutien à ces actions !</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "John D. Ramsdell suggests people discourage the use of proprietary "
-"attachments by making a small statement in their <kbd>.signature</kbd> file:"
+"attachments by making a small statement in their <code>.signature</code> "
+"file:"
 msgstr ""
 "John D. Ramsdell suggère de décourager l'utilisation de formats privateurs "
-"dans les pièces jointes en mettant une petite phrase dans le fichier <kbd>."
-"signature</kbd> :"
+"dans les pièces jointes en mettant une petite phrase dans le fichier <code>."
+"signature</code> :"
 
-#. type: Content of: <p><em>
+#. type: Content of: <div><div><p><em>
 msgid "<em>Please avoid sending me Word or PowerPoint attachments."
 msgstr "<em>Veuillez ne pas m'envoyer de pièces jointes Word ou PowerPoint."
 
-#. type: Content of: <p>
-msgid "See http://www.gnu.org/philosophy/no-word-attachments.html</em>"
-msgstr "Consulter http://www.gnu.org/philosophy/no-word-attachments.html</em>"
+#. type: Content of: <div><div><p>
+msgid "See https://www.gnu.org/philosophy/no-word-attachments.html</em>"
+msgstr "Consulter https://www.gnu.org/philosophy/no-word-attachments.html</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<a href=\"/philosophy/anonymous-response.html\">Here is a response letter</"
 "a> to an email message with a Word attachment."
@@ -523,7 +524,7 @@ msgstr ""
 "Voici <a href=\"/philosophy/anonymous-response.html\">un autre exemple de "
 "réponse</a> aux courriels contenant des pièces jointes Word."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Kevin Cole of the Gallaudet University in Washington, DC, <a href=\"/"
 "philosophy/kevin-cole-response.html\">sends out this automatic reply "
@@ -567,14 +568,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -585,8 +586,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2002, 2007, 2019, 2020 Richard M. Stallman"
-msgstr "Copyright &copy; 2002, 2007, 2019, 2020 Richard M. Stallman"
+msgid "Copyright &copy; 2002, 2003, 2008, 2020, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2002, 2003, 2008, 2020, 2021 Richard M. Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

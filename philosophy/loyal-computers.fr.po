@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: loyal-computers.html\n"
-"POT-Creation-Date: 2019-03-18 17:56+0000\n"
-"PO-Revision-Date: 2019-03-18 20:39+0100\n"
+"POT-Creation-Date: 2021-08-20 20:26+0000\n"
+"PO-Revision-Date: 2021-08-20 23:23+0200\n"
 "Last-Translator: Sébastien Poher <sbphr @T volted.net>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -24,15 +24,15 @@ msgstr ""
 "À quelles conditions votre ordinateur vous est-il loyal ? - Projet GNU - "
 "Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "What Does It Mean for Your Computer to Be Loyal?"
 msgstr "À quelles conditions votre ordinateur vous est-il loyal ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "We say that running <a href=\"/philosophy/free-sw.html\">free software</a> "
 "on your computer means that its operation is <a href=\"/philosophy/free-"
@@ -47,7 +47,7 @@ msgstr ""
 "que vos programmes lui disent de faire et rien de plus. En d'autres termes, "
 "que votre ordinateur vous sera loyal."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In 1990 we took that for granted; nowadays, many computers are designed to "
 "be disloyal to their users.  It has become necessary to spell out what it "
@@ -60,15 +60,15 @@ msgstr ""
 "ordinateur soit une plateforme loyale, obéissant à vos décisions, telles que "
 "vous les exprimez en lui disant d'exécuter certains programmes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid "Our tentative definition consists of these principles."
 msgstr "Notre définition provisoire est constituée des principes suivants :"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "Installability"
 msgstr "Capacité d'installer des logiciels"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Any software that can be replaced by someone else, the user must be "
 "empowered to replace."
@@ -76,7 +76,7 @@ msgstr ""
 "Si un logiciel peut être remplacé par quelqu'un d'autre, l'utilisateur doit "
 "également en avoir le pouvoir."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Thus, if the computer requires a password or some other secret in order to "
 "replace some of the software in it, whoever sells you the computer must tell "
@@ -86,11 +86,11 @@ msgstr ""
 "secret pour remplacer un logiciel qu'il contient, la personne vous vendant "
 "l'ordinateur doit également vous donner ce code secret."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "Neutrality towards software"
 msgstr "Neutralité envers le logiciel"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The computer will run, without prejudice, whatever software you install in "
 "it, and let that software do whatever its code says to do."
@@ -99,7 +99,7 @@ msgstr ""
 "installerez et laissera ce logiciel faire tout ce que son code lui dit de "
 "faire."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "A feature to check for signatures on the programs that run is compatible "
 "with this principle provided the signature checking is fully under the "
@@ -117,11 +117,11 @@ msgstr ""
 "système de vérification des signatures numériques qui n'est pas "
 "intégralement sous le contrôle de l'utilisateur viole ce principe."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "Neutrality towards protocols"
 msgstr "Neutralité envers les protocoles"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The computer will communicate, without prejudice, through whatever protocol "
 "your installed software implements, with whatever users and whatever other "
@@ -132,7 +132,7 @@ msgstr ""
 "utilisateur et tout autre ordinateur en réseau avec lequel vous lui "
 "indiquerez de communiquer."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "This means that computer does not impose one particular service rather than "
 "another, or one protocol rather than another. It does not require the user "
@@ -143,11 +143,11 @@ msgstr ""
 "pas avoir besoin de l'autorisation d'une tierce personne pour communiquer "
 "via un protocole particulier."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "Neutrality towards implementations"
 msgstr "Neutralité vis-à-vis des implémentations"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "When the computer communicates using any given protocol, it will support "
 "doing so, without prejudice, via whatever code you choose (assuming the code "
@@ -162,7 +162,7 @@ msgstr ""
 "quel changement vous y avez apporté, ou encore à procéder à une "
 "discrimination basée sur votre choix."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "This entails that the computer rejects remote attestation, that is, that it "
 "does not permit other computers to determine over the network whether your "
@@ -179,7 +179,7 @@ msgstr ""
 "numériques (DRM) que vous ne pouvez briser. Ceci vous ôte le contrôle "
 "effectif du logiciel que vous utilisez pour communiquer avec ces sites."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "We can comprehend remote attestation as a general scheme to allow any web "
 "site to impose tivoization or &ldquo;lockdown&rdquo; on the local software "
@@ -201,11 +201,11 @@ msgstr ""
 "à vous bloquer l'usage d'un programme modifié, c'est à ces sites qu'il est "
 "loyal, pas à vous."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "Neutrality towards data communicated"
 msgstr "Neutralité envers les données transférées"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "When the computer receives data using whatever protocol, it will not limit "
 "what the program can do with the data received through that communication."
@@ -214,7 +214,7 @@ msgstr ""
 "il ne limite pas ce que le programme peut faire des données reçues dans le "
 "cadre de cette communication."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Any hardware-level DRM violates this principle.  For instance, the hardware "
 "must not deliver video streams encrypted such that only the monitor can "
@@ -224,11 +224,11 @@ msgstr ""
 "matériel ne doit pas transmettre les flux vidéos sous une forme chiffrée que "
 "seul le moniteur peut déchiffrer."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "Debugability"
 msgstr "Possibilité de débogage"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The computer always permits you to analyze the operation of a program that "
 "is running."
@@ -236,11 +236,11 @@ msgstr ""
 "L'ordinateur vous permet toujours d'analyser ce que fait un programme en "
 "cours d'exécution."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "Completeness"
 msgstr "Exhaustivité"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The principles above apply to all the computer's software interfaces and all "
 "communication the computer does.  The computer must not have any disloyal "
@@ -252,7 +252,7 @@ msgstr ""
 "de fonctionnalité programmable déloyale ni effectuer de communication "
 "déloyale."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "For instance, the AMT functionality in recent Intel processors runs nonfree "
 "software that can talk to Intel remotely.  Unless disabled, this makes the "
@@ -262,7 +262,7 @@ msgstr ""
 "logiciels privateurs capables de communiquer à distance avec Intel. À moins "
 "qu'ils ne soient désactivés, ils rendent tout le système déloyal."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "For a computer to be fully at your service, it should come with "
 "documentation of all the interfaces intended for software running in the "
@@ -278,7 +278,7 @@ msgstr ""
 "certainement que par certains côtés il n'est pas à votre service. Selon la "
 "fonction concernée, ce peut être un problème, ou non."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "We ask readers to send criticisms and suggestions about this definition to "
 "<a href=\"mailto:computer-principles@gnu.org\"> &lt;computer-principles@gnu."
@@ -288,7 +288,7 @@ msgstr ""
 "suggestions concernant cette définition à &lt;<a href=\"mailto:computer-"
 "principles@gnu.org\">computer-principles@gnu.org</a>&gt;."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Loyalty as defined here is the most basic criterion we could think of that "
 "is meaningful.  It does not require that all the software in the computer be "
@@ -303,33 +303,33 @@ msgstr ""
 "a> est un obstacle lorsqu'on veut vérifier que l'ordinateur est loyal ou "
 "faire ne sorte qu'il le reste."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "History"
 msgstr "Historique"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Here is the list of substantive changes in this page."
 msgstr "Voici la liste des modifications significatives de cette page."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/loyal-"
-"computers.html?root=www&amp;r1=1.5&amp;r2=1.6\">Version 1.6</a>: Add "
-"installability requirement."
+"<a href=\"https://web.cvs.savannah.gnu.org/viewvc/www/www/philosophy/loyal-"
+"computers.html?r1=1.5&amp;r2=1.6\">Version 1.6</a>: Add installability "
+"requirement."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/loyal-"
-"computers.html?root=www&amp;r1=1.5&amp;r2=1.6\">Version 1.6</a> : Exigence "
+"<a href=\"https://web.cvs.savannah.gnu.org/viewvc/www/www/philosophy/loyal-"
+"computers.html?r1=1.5&amp;r2=1.6\">Version 1.6</a> : Exigence "
 "supplémentaire, la capacité d'installer des logiciels."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/loyal-"
-"computers.html?root=www&amp;r1=1.3&amp;r2=1.4\">Version 1.4</a>: Full "
-"documentation is not a requirement for loyalty."
+"<a href=\"https://web.cvs.savannah.gnu.org/viewvc/www/www/philosophy/loyal-"
+"computers.html?r1=1.4&amp;r2=1.5\">Version 1.5</a>: Full documentation is "
+"not a requirement for loyalty."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/loyal-"
-"computers.html?root=www&amp;r1=1.3&amp;r2=1.4\">Version 1.4</a> : Une "
-"documentation complète n'est pas une condition de loyauté."
+"<a href=\"https://web.cvs.savannah.gnu.org/viewvc/www/www/philosophy/loyal-"
+"computers.html?r1=1.4&amp;r2=1.5\">Version 1.5</a> : Une documentation "
+"complète n'est pas une condition de loyauté."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -357,14 +357,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -375,8 +375,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015, 2019 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2015, 2019 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014, 2015, 2019, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2015, 2019, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

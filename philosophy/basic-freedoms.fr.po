@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: basic-freedoms.html\n"
-"POT-Creation-Date: 2018-06-05 15:56+0000\n"
-"PO-Revision-Date: 2020-12-06 17:35+0100\n"
+"POT-Creation-Date: 2021-08-20 20:25+0000\n"
+"PO-Revision-Date: 2021-08-20 23:23+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -27,11 +27,11 @@ msgstr ""
 "Liberté d'expression, de la presse et d'association sur Internet - Projet "
 "GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Freedom of Speech, Press, and Association on the Internet"
 msgstr "Liberté d'expression, de la presse et d'association sur Internet"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The Free Software Foundation supports the freedoms of speech, press, and "
 "association on the Internet.  Please check out:"
@@ -40,7 +40,7 @@ msgstr ""
 "la presse et d'association sur Internet. Nous vous invitons à consulter les "
 "sites suivants :"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The <a href=\"https://web.archive.org/web/19990424100121/http://www.ciec.org/"
 "\">Citizens Internet Empowerment Coalition</a> at the Wayback Machine "
@@ -61,7 +61,7 @@ msgstr ""
 "judiciaires."
 
 #.  activating this link… site is archived as of July 09, 1998 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The <a href=\"https://web.archive.org/web/19980709161803/http://vtw.org/"
 "\">Voters Telecommunications Watch</a> at the Wayback Machine (archived July "
@@ -72,7 +72,7 @@ msgstr ""
 "ayant trait aux télécommunications – site archivé par la Wayback machine le "
 "9 juillet 1998) et leur excellente liste de diffusion électronique."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/censoring-emacs.html\">Censoring GNU Emacs</a> "
 "describes how the Communications Decency Act required the GNU Project to "
@@ -83,30 +83,30 @@ msgstr ""
 "décrit comment la CDA a obligé le projet GNU à censurer GNU Emacs et comment "
 "cela a paradoxalement eu l'effet inverse de ce que voulaient les censeurs."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://www.factnetglobal.org/\">F.A.C.T.Net Inc.</a> is a non-"
+"<a href=\"https://www.factnetglobal.org/\">F.A.C.T.Net Inc.</a> is a non-"
 "profit Internet digest, news service, library, dialogue center, and archive "
 "dedicated to the promotion and defense of international free thought, free "
 "speech, and privacy rights."
 msgstr ""
-"<a href=\"http://www.factnetglobal.org/\">F.A.C.T.Net Inc</a>. est une "
+"<a href=\"https://www.factnetglobal.org/\">F.A.C.T.Net Inc</a>. est une "
 "synthèse de documents publiés sur Internet, un service d'information, une "
 "bibliothèque, un centre de dialogue et une archive à but non lucratif. Elle "
 "se consacre à la promotion et à la défense de la pensée internationale "
 "libre, de la liberté d'expression et des droits à la vie privée."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"The <a href=\"http://www.eff.org/blueribbon.html\">Blue Ribbon Campaign</a> "
-"for Online Freedom of Speech, Press and Association."
+"The <a href=\"https://www.eff.org/pages/blue-ribbon-campaign\">Blue Ribbon "
+"Campaign</a> for Online Freedom of Speech, Press and Association."
 msgstr ""
-"La <a href=\"http://www.eff.org/blueribbon.html\">Blue Ribbon Campaign</a> "
-"(Campagne du ruban bleu) pour les libertés d'expression, de la presse et "
-"d'association dans le cyberespace."
+"La <a href=\"https://www.eff.org/pages/blue-ribbon-campaign\">Blue Ribbon "
+"Campaign</a> (Campagne du ruban bleu) pour les libertés d'expression, de la "
+"presse et d'association dans le cyberespace."
 
 #.  activating this link… site is archived as of December 01, 2001 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "You can read <a href=\"https://web.archive.org/web/20011201050533/http://www."
 "vtw.org/speech/\">the June 1996 appeals court decision</a> at the Wayback "
@@ -122,7 +122,7 @@ msgstr ""
 "pas</em> définitive ! D'abord, la Cour suprême sera d'accord ou non ; "
 "ensuite, le Congrès aura l'occasion de chercher une autre méthode de censure."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/savingeurope.html\">Saving Europe from Software "
 "Patents</a>"
@@ -130,7 +130,7 @@ msgstr ""
 "<a href=\"/philosophy/savingeurope.html\">Sauver l'Europe des brevets "
 "logiciels</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/links/links.html#FreedomOrganizations\">Organizations</a> that "
 "work for freedom in computer development and electronic communications."
@@ -165,14 +165,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -184,11 +184,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2007, "
-"2014, 2016, 2018 Free Software Foundation, Inc."
+"Copyright &copy; 1996, 1997, 1998, 2000, 2004, 2021 Free Software "
+"Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2007, "
-"2014, 2016, 2018 Free Software Foundation, Inc."
+"Copyright &copy; 1996, 1997, 1998, 2000, 2004, 2021 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

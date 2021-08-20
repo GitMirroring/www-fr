@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: android-and-users-freedom.html\n"
-"POT-Creation-Date: 2020-02-09 07:55+0000\n"
-"PO-Revision-Date: 2020-12-06 17:35+0100\n"
+"POT-Creation-Date: 2021-08-20 20:25+0000\n"
+"PO-Revision-Date: 2021-08-20 23:23+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -24,23 +24,15 @@ msgstr ""
 "Android et la liberté des utilisateurs - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Android and Users' Freedom"
 msgstr "Android et la liberté des utilisateurs"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "by Richard Stallman"
 msgstr "par Richard Stallman"
 
-#. type: Content of: <p>
-msgid ""
-"First published in <em><a href=\"http://www.guardian.co.uk/technology/2011/"
-"sep/19/android-free-software-stallman\"> The Guardian</a></em>"
-msgstr ""
-"Publié initialement dans <em><a href=\"http://www.guardian.co.uk/"
-"technology/2011/sep/19/android-free-software-stallman\">The Guardian</a></em>"
-
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To what extent does Android respect the freedom of its users? For a computer "
 "user that values freedom, that is the most important question to ask about "
@@ -50,18 +42,18 @@ msgstr ""
 "Pour l'utilisateur d'ordinateur qui chérit la liberté, c'est la question la "
 "plus importante à se poser pour tout logiciel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"In the <a href=\"http://fsf.org\">free/libre software movement</a>, we "
+"In the <a href=\"https://fsf.org\">free/libre software movement</a>, we "
 "develop software that respects users' freedom, so we and you can escape from "
 "software that doesn't. By contrast, the idea of &ldquo;open source&rdquo; "
 "focuses on how to develop code; it is a different current of thought whose "
 "principal value is <a href=\"/philosophy/open-source-misses-the-point.html"
 "\">code quality rather than freedom</a>. Thus, the concern here is not "
 "whether Android is &ldquo;<a href=\"/philosophy/free-open-overlap.html"
-"\">open</a>&rdquo;, but whether it allows users to be free."
+"\">open</a>,&rdquo; but whether it allows users to be free."
 msgstr ""
-"Dans le <a href=\"http://fsf.org\">mouvement du logiciel libre</a>, nous "
+"Dans le <a href=\"https://fsf.org\">mouvement du logiciel libre</a>, nous "
 "concevons des logiciels qui respectent la liberté des utilisateurs de sorte "
 "que vous comme moi puissiez échapper à l'emprise de ceux qui vous la "
 "refusent. Cela contraste avec l'idée de l'<i>open source</i> qui se "
@@ -72,7 +64,7 @@ msgstr ""
 "free-open-overlap.html\">ouvert</a> », mais s'il permet à celui qui "
 "l'utilise d'être libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Android is an operating system primarily for mobile phones and other "
 "devices, which consists of Linux (Torvalds' kernel), some libraries, a Java "
@@ -89,7 +81,7 @@ msgstr ""
 "licence Apache 2.0, une licence libre laxiste, sans <a href=\"/licenses/"
 "copyleft.html\">copyleft</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The version of Linux included in Android is not entirely free software, "
 "since it contains nonfree &ldquo;binary blobs&rdquo; (just like Torvalds' "
@@ -110,17 +102,17 @@ msgstr ""
 "code est insuffisant pour faire tourner l'appareil. Quelques applications "
 "qui viennent généralement avec Android sont également non libres."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
-"<em>Support the <a href=\"http://FreeYourAndroid.org/\">Free Your Android</"
-"a> campaign.</em>"
+"Support the <a href=\"https://fsfe.org/activities/android/\">Free Your "
+"Android</a> campaign."
 msgstr ""
-"<em>Soutenez la campagne « <a href=\"http://FreeYourAndroid.org/\">Libérez "
-"votre Android</a> ».</em>"
+"<em>Soutenez la campagne « <a href=\"https://fsfe.org/activities/android/"
+"\">Libérez votre Android</a> ».</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"Android is very different from the <a href=\"/gnu/the-gnu-project.html\">GNU/"
+"Android is very different from the <a href=\"/gnu/thegnuproject.html\">GNU/"
 "Linux operating system</a> because it contains very little of GNU. Indeed, "
 "just about the only component in common between Android and GNU/Linux is "
 "Linux, the kernel. People who erroneously think &ldquo;Linux&rdquo; refers "
@@ -130,7 +122,7 @@ msgid ""
 "situation is simple: Android contains Linux, but not GNU; thus, Android and "
 "GNU/Linux are mostly different, because all they have in common is Linux."
 msgstr ""
-"Android est très différent du <a href=\"/gnu/the-gnu-project.html\">système "
+"Android est très différent du <a href=\"/gnu/thegnuproject.html\">système "
 "d'exploitation GNU/Linux</a>, car il contient très peu de GNU. En effet, le "
 "seul élément commun entre Android et GNU/Linux se résume à peu près à Linux, "
 "le noyau. Les gens qui font l'erreur de croire que « Linux » fait référence "
@@ -141,7 +133,7 @@ msgstr ""
 "Ainsi Android et GNU/Linux sont essentiellement différents, parce que Linux "
 "est la seule chose qu'ils ont en commun."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Within Android, Linux the kernel remains a separate program, with its source "
 "code under <a href=\"/licenses/gpl-2.0.html\">GNU GPL version 2</a>. To "
@@ -170,7 +162,7 @@ msgstr ""
 "pourrait être publiée sous licence GPL version 3. Mais Linux n'a pas été "
 "publié ainsi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Google has complied with the requirements of the GNU General Public License "
 "for Linux, but the Apache license on the rest of Android does not require "
@@ -184,7 +176,7 @@ msgstr ""
 "code source d'Android 3.1 est caché également. Ainsi, Android 3, en dehors "
 "de Linux, est purement et simplement constitué de logiciel non libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Google said it withheld the 3.0 source code because it was buggy, and that "
 "people should wait for the next release. That may be good advice for people "
@@ -200,7 +192,7 @@ msgstr ""
 "voudraient inclure des changements dans leurs propres versions pourraient "
 "très bien utiliser ce code."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Fortunately, Google later released the source code for Android 3.* when it "
 "released version 4 (also with source code).  The problem above turned out to "
@@ -213,7 +205,7 @@ msgstr ""
 "temporaire plutôt que comme un changement de politique. Toutefois, ce qui "
 "arrive une fois peut arriver à nouveau."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In any case, most of the source code of various versions of Android has been "
 "released as free software. Does that mean that products using those Android "
@@ -224,18 +216,18 @@ msgstr ""
 "utilisant ces versions d'Android respectent la liberté de l'utilisateur ? "
 "Non, et ceci pour plusieurs raisons."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "First of all, most of them contain nonfree Google applications for talking "
 "to services such as YouTube and Google Maps. These are officially not part "
 "of Android, but that doesn't make the product ok.  Many of the free "
 "applications available for earlier versions of Android have been <a href="
-"\"http://arstechnica.com/gadgets/2013/10/googles-iron-grip-on-android-"
+"\"https://arstechnica.com/gadgets/2013/10/googles-iron-grip-on-android-"
 "controlling-open-source-by-any-means-necessary/\"> replaced by nonfree "
-"applications</a>; in 2013 Android devices appeared which <a href=\"http://"
+"applications</a>; in 2013 Android devices appeared which <a href=\"https://"
 "www.androidbeat.com/2013/12/new-google-play-edition-devices-lack-photo-"
 "gallery-app-use-google/\"> provided no way to view photos except through a "
-"nonfree Google+ app</a>.  In 2014 Google announced that <a href=\"http://"
+"nonfree Google+ app</a>.  In 2014 Google announced that <a href=\"https://"
 "arstechnica.com/gadgets/2014/06/android-wear-auto-and-tv-save-you-from-skins-"
 "and-oems-from-themselves/\">Android versions for TVs, watches and cars would "
 "be largely nonfree.</a>"
@@ -244,19 +236,19 @@ msgstr ""
 "pour communiquer avec des services tels que YouTube et Google Maps. Celles-"
 "ci ne font pas officiellement partie d'Android, mais cela n'en fait pas un "
 "bon produit pour autant. Beaucoup des applications disponibles pour les "
-"premières versions d'Android ont été <a href=\"http://arstechnica.com/"
+"premières versions d'Android ont été <a href=\"https://arstechnica.com/"
 "gadgets/2013/10/googles-iron-grip-on-android-controlling-open-source-by-any-"
 "means-necessary/\">remplacées par des applications non libres</a> ; en 2013 "
-"sont apparus des appareils sous Android qui <a href=\"http://www.androidbeat."
-"com/2013/12/new-google-play-edition-devices-lack-photo-gallery-app-use-"
-"google/\">ne proposent aucun moyen d'afficher des photos, à part une "
+"sont apparus des appareils sous Android qui <a href=\"https://www."
+"androidbeat.com/2013/12/new-google-play-edition-devices-lack-photo-gallery-"
+"app-use-google/\">ne proposent aucun moyen d'afficher des photos, à part une "
 "application Google+ non libre</a>. En 2014, Google a annoncé que <a href="
-"\"http://arstechnica.com/gadgets/2014/06/android-wear-auto-and-tv-save-you-"
+"\"https://arstechnica.com/gadgets/2014/06/android-wear-auto-and-tv-save-you-"
 "from-skins-and-oems-from-themselves/\">les versions d'Android destinées aux "
 "télévisions, aux montres et aux voitures seraient en grande partie non "
 "libres</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Most Android devices come with the nonfree Google Play software (formerly "
 "&ldquo;Android Market&rdquo;).  This software invites users with a Google "
@@ -274,7 +266,7 @@ msgstr ""
 "Google Play ne fait pas officiellement partie d'Android, mais il n'en est "
 "pas moins mauvais pour autant."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Google has moved many basic general facilities into the nonfree <a href="
 "\"https://blog.grobox.de/2016/the-proprietarization-of-android-google-play-"
@@ -290,18 +282,18 @@ msgstr ""
 "Services, l'ensemble de cette appli est en fait non libre ; elle ne peut pas "
 "fonctionner sur une version libre d'Android comme Replicant."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If you value freedom, you don't want the nonfree apps that Google Play "
 "offers.  To install free Android apps, you don't need Google Play, because "
-"you can get them from <a href=\"http://f-droid.org\">f-droid.org</a>."
+"you can get them from <a href=\"https://f-droid.org/\">f-droid.org</a>."
 msgstr ""
 "Si vous donnez du prix à votre liberté, vous ne voudrez pas des applications "
 "non libres proposées par Google Play. Pour installer les applications "
 "Android libres, vous n'avez pas besoin de Google Play car vous pouvez aller "
-"les chercher sur <a href=\"http://f-droid.org\">f-droid.org</a>."
+"les chercher sur <a href=\"https://f-droid.org\">f-droid.org</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Android products also come with nonfree libraries.  These are officially not "
 "part of Android, but since various Android functionalities depend on them, "
@@ -312,7 +304,7 @@ msgstr ""
 "fonctionnalités en dépendent, on les trouve dans toute véritable "
 "installation d'Android."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Even the programs that are officially part of Android may not correspond to "
 "the source code Google releases. Manufacturers may change this code, and "
@@ -329,39 +321,39 @@ msgstr ""
 "est sous licence Apache, laxiste, ils ne sont pas obligés de publier le code "
 "source des versions qu'ils utilisent réellement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "One user discovered that many of the programs in the Android system that "
-"came with his phone were <a href=\"http://www.beneaththewaves.net/Projects/"
+"came with his phone were <a href=\"https://www.beneaththewaves.net/Projects/"
 "Motorola_Is_Listening.html\">modified to send personal data to Motorola.</a> "
-"Some manufacturers add a <a href=\"http://androidsecuritytest.com/features/"
+"Some manufacturers add a <a href=\"https://androidsecuritytest.com/features/"
 "logs-and-services/loggers/carrieriq/\"> hidden general surveillance package "
 "such as Carrier IQ.</a>"
 msgstr ""
 "L'un des utilisateurs a découvert que de nombreux programmes du système "
-"Android équipant son téléphone avaient été <a href=\"http://www."
+"Android équipant son téléphone avaient été <a href=\"https://www."
 "beneaththewaves.net/Projects/Motorola_Is_Listening.html\">modifiés pour "
 "envoyer des données personnelles à Motorola</a>. Certains fabricants "
-"ajoutent à Android <a href=\"http://androidsecuritytest.com/features/logs-"
+"ajoutent à Android <a href=\"https://androidsecuritytest.com/features/logs-"
 "and-services/loggers/carrieriq/\">un dispositif caché de surveillance "
 "générale</a> comme Carrier IQ."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"<a href=\"http://replicant.us\">Replicant</a> is the free version of "
+"<a href=\"https://replicant.us/\">Replicant</a> is the free version of "
 "Android.  The Replicant developers have replaced many nonfree libraries, for "
 "certain device models.  The nonfree apps are excluded, but you certainly "
 "don't want to use those.  By contrast, CyanogenMod (another modified version "
 "of Android) is nonfree, as it contains some nonfree programs."
 msgstr ""
-"<a href=\"http://replicant.us\">Replicant</a> est une version libre "
+"<a href=\"https://replicant.us\">Replicant</a> est une version libre "
 "d'Android. Pour certains modèles d'appareils, les développeurs de Replicant "
 "ont remplacé beaucoup de bibliothèques non libres. Les applications non "
 "libres sont exclues, mais de toute façon vous ne voulez sûrement pas les "
 "utiliser. Par contre, CyanogenMod (une autre version modifiée d'Android) "
 "n'est pas libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Many Android devices are &ldquo;tyrants&rdquo;: they are designed so users "
 "cannot install and run their own modified software, only the versions "
@@ -378,7 +370,7 @@ msgstr ""
 "Cependant, certains appareils Android peuvent être « rootés » (débridés), ce "
 "qui permet aux utilisateurs d'y installer des logiciels différents."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Important firmware or drivers are generally proprietary also. These handle "
 "the phone network radio, WiFi, bluetooth, GPS, 3D graphics, the camera, the "
@@ -394,7 +386,7 @@ msgstr ""
 "pilotes sont libres et d'autres ne sont pas indispensables, mais on ne peut "
 "pas se passer du microphone ni de l'accès au réseau."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The phone network firmware comes preinstalled. If all it did was sit there "
 "and talk to the phone network when you wish, we could regard it as "
@@ -411,7 +403,7 @@ msgstr ""
 "préinstallé qui ne sera jamais mis à jour, car cela ne fait pas de "
 "différence pour l'utilisateur que ce soit un programme plutôt qu'un circuit."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Unfortunately, in this case it would be a malicious circuit.  Malicious "
 "features are unacceptable no matter how they are implemented."
@@ -420,7 +412,7 @@ msgstr ""
 "malveillantes sont inacceptables, quelle que soit la manière dont elles sont "
 "implémentées."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "On most Android devices, this firmware has so much control that it could "
 "turn the product into a listening device. On some, it controls the "
@@ -431,7 +423,7 @@ msgid ""
 "device.  The point of free software is that we have control of our software "
 "and our computing; a system with a back door doesn't qualify. While any "
 "computing system might <em>have</em> bugs, these devices can <em>be</em> "
-"bugs. (Craig Murray, in <a href=\"http://www.guardian.co.uk/books/2006/"
+"bugs. (Craig Murray, in <a href=\"https://www.theguardian.com/books/2006/"
 "aug/12/politics\">Murder in Samarkand</a>, relates his involvement in an "
 "intelligence operation that remotely converted an unsuspecting target's non-"
 "Android portable phone into a listening device.)"
@@ -447,12 +439,12 @@ msgstr ""
 "logiciels et de notre informatique, un système comportant une porte dérobée "
 "est disqualifié. Bien que tout système informatique puisse <em>avoir</em> "
 "des bogues, ces appareils peuvent <em>être</em> des bogues (Craig Murray, "
-"dans <a href=\"http://www.guardian.co.uk/books/2006/aug/12/politics"
+"dans <a href=\"https://www.guardian.co.uk/books/2006/aug/12/politics"
 "\">Meurtre à Samarcande</a>, fait le récit de son rôle dans une opération de "
 "renseignement qui convertit le téléphone portable non Android d'une cible "
 "qui ne se doute de rien, en un appareil d'écoute)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In any case, the phone network firmware in an Android phone is not "
 "equivalent to a circuit, because the hardware allows installation of new "
@@ -465,7 +457,7 @@ msgstr ""
 "Comme il s'agit d'un micrologiciel privateur, en pratique seul le fabricant "
 "peut faire de nouvelles versions ; les utilisateurs ne le peuvent pas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Putting these points together, we can tolerate nonfree phone network "
 "firmware provided new versions of it won't be loaded, it can't take control "
@@ -484,14 +476,14 @@ msgstr ""
 "téléphone Android qui ait ces caractéristiques, mais nous n'en connaissons "
 "aucun."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Android is not a self-hosting system; development for Android needs to be "
 "done on some other system.  The tools in Google's &ldquo;software "
 "development kit&rdquo; (SDK) appear to be free, but it is hard work to check "
 "this.  The definition files for certain Google APIs are nonfree.  Installing "
 "the SDK requires signing a proprietary software license, which you should "
-"refuse to sign.  <a href=\"http://redmine.replicant.us/projects/replicant/"
+"refuse to sign.  <a href=\"https://redmine.replicant.us/projects/replicant/"
 "wiki/ReplicantSDK\"> Replicant's SDK</a> is a free replacement."
 msgstr ""
 "Android n'est pas un système autonome ; il a besoin d'un autre système pour "
@@ -500,29 +492,29 @@ msgstr ""
 "c'est difficile à vérifier. Les fichiers de définition de certaines <abbr "
 "title=\"Application Programming Interface\">API</abbr> de Google ne le sont "
 "pas. Installer le SDK exige de signer un contrat de licence privatrice, ce "
-"qu'on doit refuser par principe. <a href=\"http://redmine.replicant.us/"
-"projects/replicant/wiki/ReplicantSDK\">Le SDK de Replicant</a> est une "
-"alternative libre."
+"qu'on doit refuser par principe. <a href=\"https://redmine.replicant.us/"
+"projects/replicant/wiki/ReplicantSDK\">Le SDK de Replicant</a> est un "
+"remplaçant libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Recent press coverage of Android focuses on the patent wars. During 20 years "
 "of campaigning for the abolition of software patents, we have warned such "
 "wars could happen. Software patents could force elimination of features from "
-"Android, or even make it unavailable.  See <a href=\"http://endsoftpatents."
-"org\">endsoftpatents.org</a> for more information about why software patents "
-"must be abolished."
+"Android, or even make it unavailable.  See <a href=\"https://endsoftpatents."
+"org/\">endsoftpatents.org</a> for more information about why software "
+"patents must be abolished."
 msgstr ""
 "De récentes couvertures médiatiques se sont intéressées aux guerres de "
 "brevets. Pendant les 20 ans de campagne qui ont été consacrés à l'abolition "
 "des brevets logiciels, nous n'avons cessé de mettre en garde contre de "
 "telles guerres. Les brevets logiciels pourraient contraindre certaines "
 "fonctions d'Android à disparaître, ou même rendre le système indisponible "
-"(consultez <a href=\"http://endsoftpatents.org\">endsoftpatents.org</a>, "
+"(consultez <a href=\"https://endsoftpatents.org\">endsoftpatents.org</a>, "
 "pour en savoir plus sur les raisons qui rendent l'abolition des brevets "
 "logiciels nécessaire)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "However, the patent attacks and Google's responses are not directly relevant "
 "to the topic of this article: how Android products partly approach an "
@@ -535,11 +527,11 @@ msgstr ""
 "et en quoi elle reste en deçà. Ce problème mérite l'attention de la presse "
 "également."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Android is a major step towards an ethical, user-controlled, free software "
 "portable phone, but there is a long way to go, and Google is taking it in "
-"the wrong direction.  Hackers are working on <a href=\"http://replicant.us"
+"the wrong direction.  Hackers are working on <a href=\"https://replicant.us/"
 "\">Replicant</a>, but it's a big job to support a new device model, and "
 "there remains the problem of the firmware. Even though the Android phones of "
 "today are considerably less bad than Apple or Windows phones, they cannot be "
@@ -548,14 +540,18 @@ msgstr ""
 "Android représente une étape majeure vers un téléphone portable éthique, "
 "fonctionnant avec du logiciel libre et contrôlé par l'utilisateur, mais il y "
 "a encore beaucoup de chemin à parcourir et Google est en train de prendre la "
-"mauvaise direction. Les hackers travaillent sur <a href=\"http://replicant.us"
-"\">Replicant</a>, mais c'est une tâche considérable que de gérer "
+"mauvaise direction. Les hackers travaillent sur <a href=\"https://replicant."
+"us\">Replicant</a>, mais c'est une tâche considérable que de gérer "
 "techniquement un nouveau modèle d'appareil, et il reste encore le problème "
 "du micrologiciel. Même si les téléphones Android d'aujourd'hui sont "
 "considérablement moins mauvais que ceux d'Apple ou de Windows, on ne peut "
 "pas dire qu'ils respectent votre liberté."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><h3>
+msgid "Footnote"
+msgstr "Note"
+
+#. type: Content of: <div><ol><li>
 msgid ""
 "The extreme example of this confusion appears in the site linuxonandroid."
 "com, which offers help to &ldquo;install Linux [sic] on your Android devices."
@@ -570,6 +566,16 @@ msgstr ""
 "système GNU, <em>à l'exclusion</em> de Linux qui fait partie d'Android. "
 "Puisque ce site ne s'occupe que de <a href=\"/distros/distros.html"
 "\">distributions GNU/Linux non libres</a>, nous ne le recommandons pas."
+
+#. type: Content of: <div><div>
+msgid ""
+"First published in <cite><a href=\"https://www.guardian.co.uk/"
+"technology/2011/sep/19/android-free-software-stallman\"> The Guardian</a></"
+"cite>."
+msgstr ""
+"Publié initialement dans <cite><a href=\"https://www.guardian.co.uk/"
+"technology/2011/sep/19/android-free-software-stallman\">The Guardian</a></"
+"cite>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -601,14 +607,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -619,10 +625,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2011, 2012, 2014, 2015, 2016, 2018, 2020 Richard Stallman"
-msgstr ""
-"Copyright &copy; 2011, 2012, 2014, 2015, 2016, 2018, 2020 Richard Stallman"
+msgid "Copyright &copy; 2011-2016, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2011-2016, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
