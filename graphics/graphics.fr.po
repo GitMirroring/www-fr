@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: graphics.html\n"
-"POT-Creation-Date: 2021-05-06 11:55+0000\n"
-"PO-Revision-Date: 2021-05-06 16:35+0200\n"
+"POT-Creation-Date: 2021-08-26 15:55+0000\n"
+"PO-Revision-Date: 2021-08-26 22:33+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -184,16 +184,32 @@ msgid "What's new?"
 msgstr "Quoi de neuf ?"
 
 #. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/amihud-4-freedoms.html\">"
+msgstr "<a href=\"/graphics/amihud-4-freedoms.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Poster defining the four freedoms]&nbsp;"
+msgstr " [Poster définissant les 4 libertés] "
+
+#. type: Content of: <table><tr><td>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <table><tr><td>
+msgid "August 2021: Four-Freedoms Poster"
+msgstr "Août 2021: Poster « Les quatre libertés »"
+
+#. type: Content of: <table><tr><td>
+msgid "<small>by Jeison Yehuda Amihud</small>"
+msgstr "<small>par Jeison Yehuda Amihud</small>"
+
+#. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/goschler-its-me-and-gnu.html\">"
 msgstr "<a href=\"/graphics/goschler-its-me-and-gnu.html\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "&nbsp;[Flower fractal]&nbsp;"
 msgstr " [Fractale florale] "
-
-#. type: Content of: <table><tr><td>
-msgid "</a>"
-msgstr "</a>"
 
 #. type: Content of: <table><tr><td>
 msgid "May 2021: It's Me and GNU"
@@ -466,6 +482,10 @@ msgstr "Logo sphérique pour Hurd"
 #. type: Content of: <table><tr><td>
 msgid "<small>by Teddy Hogeborn</small>"
 msgstr "<small>de Teddy Hogeborn</small>"
+
+#. type: Content of: <table><tr><td>
+msgid "Four-Freedoms Poster"
+msgstr "Poster « Les quatre libertés »"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/anfsflogo.html\">"
