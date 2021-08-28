@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: udi.html\n"
-"POT-Creation-Date: 2014-03-14 04:36+0000\n"
-"PO-Revision-Date: 2020-12-07 14:06+0100\n"
+"POT-Creation-Date: 2021-08-28 13:56+0000\n"
+"PO-Revision-Date: 2021-08-28 18:08+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -25,11 +25,15 @@ msgstr ""
 "Le mouvement du logiciel libre et le projet UDI - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "The Free Software Movement and UDI"
 msgstr "Le mouvement du logiciel libre et le projet UDI"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "par Richard Stallman"
+
+#. type: Content of: <div><p>
 msgid ""
 "A project called UDI (Uniform Driver Interface) aims to define a single "
 "interface between operating system kernels and device drivers.  What should "
@@ -39,7 +43,7 @@ msgstr ""
 "interface normalisée entre les noyaux des systèmes d'exploitation et les "
 "pilotes de périphériques. Que doit faire notre communauté de cette idée ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If we imagine a number of operating systems and hardware developers, all "
 "cooperating on an equal footing, UDI (if technically feasible)  would be a "
@@ -54,7 +58,7 @@ msgstr ""
 "qu'un pilote pour chaque périphérique et d'en faire profiter tout le monde. "
 "Un plus haut niveau de coopération serait alors possible."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When we apply the idea to the actual world, which contains both free "
 "software developers seeking cooperation, and proprietary software developers "
@@ -70,7 +74,7 @@ msgstr ""
 "le mouvement du logiciel libre. Son seul effet éventuel serait de nous "
 "diviser et nous affaiblir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If Linux supported UDI, and if we started designing new drivers to "
 "communicate with Linux through UDI, what would the consequences be?"
@@ -79,13 +83,13 @@ msgstr ""
 "commencions à concevoir de nouveaux pilotes pour communiquer avec Linux à "
 "travers UDI ?"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "People could run free GPL-covered Linux drivers with Windows systems."
 msgstr ""
 "Il serait possible d'utiliser avec des systèmes Windows des pilotes Linux "
 "libres couverts par la GPL."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "This would help only Windows users; it would do nothing for us users of free "
 "operating systems.  It would not directly hurt us, either; but the "
@@ -103,7 +107,7 @@ msgstr ""
 "des pilotes à un noyau privateur constitue une violation de la GNU GPL. "
 "C'est chercher les ennuis que d'alimenter une telle tentation."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "People could run nonfree Windows drivers on <a href=\"/gnu/linux-and-gnu.html"
 "\">GNU/Linux</a> systems."
@@ -111,7 +115,7 @@ msgstr ""
 "Il serait possible d'utiliser des pilotes Windows privateurs avec des "
 "systèmes <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "This would not directly affect the range of hardware supported by free "
 "software.  But indirectly it would tend to decrease the range, by offering a "
@@ -128,7 +132,7 @@ msgstr ""
 "situation où la communauté, commençant à accepter cette tentation, "
 "utiliserait des pilotes privateurs plutôt que d'en écrire des libres."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "UDI would not in itself obstruct development of free drivers.  So if enough "
 "of us rejected the temptation, we could still develop free drivers despite "
@@ -139,7 +143,7 @@ msgstr ""
 "projet, comme nous le faisons actuellement, à condition toutefois qu'un "
 "nombre suffisant d'entre nous résiste à la tentation."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "But why encourage the community to be weaker than it needs to be? Why make "
 "unnecessary difficulties for the future of free software? Since UDI does no "
@@ -149,7 +153,7 @@ msgstr ""
 "des obstacles inutiles au futur du logiciel libre ? Puisque le projet UDI ne "
 "nous est pas bénéfique, il est préférable de le rejeter."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Given these consequences, it is no surprise that Intel, a supporter of UDI, "
 "has started to &ldquo;look to the Linux community for help with UDI.&rdquo; "
@@ -164,7 +168,7 @@ msgstr ""
 "ne risquent rien à demander et, pris par surprise, nous serions bien "
 "capables de répondre oui."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Cooperation with UDI is not out of the question.  We should not label UDI, "
 "Intel, or anyone, as a Great Satan.  But before we participate in any "
@@ -184,7 +188,7 @@ msgstr ""
 "plus vers le but ultime dans le domaine des noyaux et pilotes libres : gérer "
 "<em>tous</em> les principaux matériels informatiques avec des pilotes libres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "One way to make a deal a good one could be by modifying the UDI project "
 "itself.  Eric Raymond has proposed that UDI compliance could require that "
@@ -203,7 +207,7 @@ msgstr ""
 "cela nous dirait au moins ce que nous aurions besoin de savoir pour écrire "
 "un pilote qui le soit."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Intel could also do something outside of UDI to help the free software "
 "community solve this problem.  For example, there may be some sort of "
@@ -220,7 +224,7 @@ msgstr ""
 "matériel étaient gardées secrètes. Ce ne serait pas une solution parfaite du "
 "problème mais cela pourrait aider considérablement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "One difficulty with any deal with Intel about UDI is that we would do our "
 "part for Intel at the beginning, but Intel's payback would extend over a "
@@ -246,7 +250,7 @@ msgstr ""
 "toujours signer un engagement contraignant quand on passe un accord avec une "
 "société commerciale."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It does not seem likely that Intel would offer a deal that gives us what we "
 "need.  In fact, UDI seems designed to make it easier to keep specifications "
@@ -256,7 +260,7 @@ msgstr ""
 "besoins. En fait, UDI semble avoir été conçu pour garder plus facilement les "
 "spécifications secrètes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Still, there is no harm in keeping the door unlocked, as long as we are "
 "careful about who we let in."
@@ -294,14 +298,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -312,19 +316,19 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1998 Richard M. Stallman"
-msgstr "Copyright &copy; 1998 Richard M. Stallman"
+msgid "Copyright &copy; 1998, 2021 Richard M. Stallman"
+msgstr "Copyright &copy; 1998, 2021 Richard M. Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
