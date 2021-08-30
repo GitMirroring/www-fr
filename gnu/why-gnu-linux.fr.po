@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: why-gnu-linux.html\n"
-"POT-Creation-Date: 2021-04-07 17:55+0000\n"
-"PO-Revision-Date: 2021-07-04 20:19+0200\n"
+"POT-Creation-Date: 2021-08-30 13:26+0000\n"
+"PO-Revision-Date: 2021-08-30 15:48+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -24,47 +24,21 @@ msgstr ""
 msgid "Why GNU/Linux? - GNU Project - Free Software Foundation"
 msgstr "Pourquoi GNU/Linux ? - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "What's in a Name?"
 msgstr "Qu'y a-t-il dans un nom ?"
 
-#. type: Content of: <address>
+#. type: Content of: <div><address>
 msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <div><div><p>
-msgid ""
-"To learn more about this issue, you can read our <a href=\"/gnu/gnu-linux-"
-"faq.html\">GNU/Linux FAQ</a>, our page on <a href=\"/gnu/linux-and-gnu.html"
-"\">Linux and the GNU Project</a>, which gives a history of the GNU/Linux "
-"system as it relates to this issue of naming, and our page on <a href=\"/gnu/"
-"gnu-users-never-heard-of-gnu.html\">GNU Users Who Have Never Heard of GNU</"
-"a>."
-msgstr ""
-"Si vous souhaitez en savoir plus sur ce sujet, vous pouvez aussi consulter "
-"notre <a href=\"/gnu/gnu-linux-faq.html\">FAQ GNU/Linux</a>, notre page <a "
-"href=\"/gnu/linux-and-gnu.html\">Linux et le projet GNU</a>, qui donne une "
-"histoire du système GNU/Linux s'intéressant à la question du nom, et notre "
-"page sur <a href=\"/gnu/gnu-users-never-heard-of-gnu.html\">les utilisateurs "
-"de GNU qui n'ont jamais entendu parler de GNU</a>."
-
 #. type: Content of: <div><p>
-msgid ""
-"This essay is published in <a href=\"http://shop.fsf.org/product/free-"
-"software-free-society/\"> <cite>Free Software, Free Society: The Selected "
-"Essays of Richard M. Stallman</cite></a>."
-msgstr ""
-"Cet essai est publié dans <a href=\"http://shop.fsf.org/product/free-"
-"software-free-society/\"><cite>Free Software, Free Society: The Selected "
-"Essays of Richard M. Stallman</cite></a>."
-
-#. type: Content of: <div><div><p>
 msgid ""
 "Names convey meanings; our choice of names determines the meaning of what we "
 "say.  An inappropriate name gives people the wrong idea.  A rose by any "
 "other name would smell as sweet&mdash;but if you call it a pen, people will "
 "be rather disappointed when they try to write with it.  And if you call pens "
-"&ldquo;roses&rdquo;, people may not realize what they are good for.  If you "
+"&ldquo;roses,&rdquo; people may not realize what they are good for.  If you "
 "call our operating system Linux, that conveys a mistaken idea of the "
 "system's origin, history, and purpose.  If you call it <a href=\"/gnu/linux-"
 "and-gnu.html\">GNU/Linux</a>, that conveys (though not in detail) an "
@@ -83,6 +57,22 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 msgid ""
+"To learn more about this issue, you can read our <a href=\"/gnu/gnu-linux-"
+"faq.html\">GNU/Linux FAQ</a>, our page on <a href=\"/gnu/linux-and-gnu.html"
+"\">Linux and the GNU System</a>, which gives a history of the GNU/Linux "
+"system as it relates to this issue of naming, and our page on <a href=\"/gnu/"
+"gnu-users-never-heard-of-gnu.html\">GNU Users Who Have Never Heard of GNU</"
+"a>."
+msgstr ""
+"Si vous souhaitez en savoir plus sur ce sujet, vous pouvez aussi consulter "
+"notre <a href=\"/gnu/gnu-linux-faq.html\">FAQ GNU/Linux</a>, notre page <a "
+"href=\"/gnu/linux-and-gnu.html\">Linux et le système GNU</a>, qui donne une "
+"histoire du système GNU/Linux s'intéressant à la question du nom, et notre "
+"page sur <a href=\"/gnu/gnu-users-never-heard-of-gnu.html\">les utilisateurs "
+"de GNU qui n'ont jamais entendu parler de GNU</a>."
+
+#. type: Content of: <div><p>
+msgid ""
 "Does this really matter for our community? Is it important whether people "
 "know the system's origin, history, and purpose? Yes&mdash;because people who "
 "forget history are often condemned to repeat it.  The Free World that has "
@@ -97,7 +87,7 @@ msgstr ""
 "\">GNU/Linux</a> n'est pas en sécurité ; les problèmes qui nous ont amenés à "
 "développer GNU ne sont pas complètement éradiqués et ils menacent de revenir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "When I explain why it's appropriate to call the operating system GNU/Linux "
 "rather than Linux, people sometimes respond this way:"
@@ -106,7 +96,7 @@ msgstr ""
 "« GNU/Linux » plutôt que « Linux », les gens répondent parfois de la manière "
 "suivante :"
 
-#. type: Content of: <div><div><blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "<em> Granted that the GNU Project deserves credit for this work, is it "
 "really worth a fuss when people don't give credit? Isn't the important thing "
@@ -119,7 +109,7 @@ msgstr ""
 "fait ? Vous devriez vous calmer, être fiers du travail bien fait et ne pas "
 "vous soucier de reconnaissance.</em>"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "This would be wise advice, if only the situation were like that&mdash;if the "
 "job were done and it were time to relax.  If only that were true! But "
@@ -136,7 +126,7 @@ msgstr ""
 "\">GNU/Linux</a> est une manière pour les gens de s'en souvenir, pour "
 "ensuite informer les autres de ces buts."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "It is possible to write good free software without thinking of GNU; much "
 "good work has been done in the name of Linux also.  But the term &ldquo;"
@@ -152,7 +142,7 @@ msgstr ""
 "entreprises, nous aurons de plus en plus de mal à le connecter à l'esprit "
 "communautaire."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "A great challenge to the future of free software comes from the tendency of "
 "the &ldquo;Linux&rdquo; distribution companies to add nonfree software to <a "
@@ -161,7 +151,7 @@ msgid ""
 "limits itself to free software.  Most of them do not clearly identify the "
 "nonfree packages in their distributions.  Many even develop nonfree software "
 "and add it to the system.  Some outrageously advertise &ldquo;Linux&rdquo; "
-"systems that are &ldquo;licensed per seat&rdquo;, which give the user as "
+"systems that are &ldquo;licensed per seat,&rdquo; which give the user as "
 "much freedom as Microsoft Windows."
 msgstr ""
 "Un grand défi pour l'avenir du logiciel libre vient de la tendance des "
@@ -176,7 +166,7 @@ msgstr ""
 "par poste, ce qui donne à l'utilisateur autant de liberté que Microsoft "
 "Windows."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "People try to justify adding nonfree software in the name of the &ldquo;"
 "popularity of Linux&rdquo;&mdash;in effect, valuing popularity above "
@@ -184,7 +174,7 @@ msgid ""
 "said that Robert McMillan, editor of Linux Magazine, &ldquo;feels that the "
 "move toward open source software should be fueled by technical, rather than "
 "political, decisions.&rdquo; And Caldera's <abbr title=\"Chief Executive "
-"Officer\">CEO</abbr> openly urged users to <a href=\"http://www.zdnet.com/"
+"Officer\">CEO</abbr> openly urged users to <a href=\"https://www.zdnet.com/"
 "article/stallman-love-is-not-free/\">drop the goal of freedom and work "
 "instead for the &ldquo;popularity of Linux&rdquo;</a>."
 msgstr ""
@@ -194,11 +184,11 @@ msgstr ""
 "Magazine, Robert McMillan (éditeur de Linux Magazine) « pense que le "
 "mouvement vers le logiciel open source devrait être soutenu par des "
 "décisions techniques, plutôt que politiques ». Et le PDG de Caldera a "
-"demandé ouvertement aux utilisateurs de <a href=\"http://www.zdnet.com/"
+"demandé ouvertement aux utilisateurs de <a href=\"https://www.zdnet.com/"
 "article/stallman-love-is-not-free/\">laisser tomber l'objectif de la liberté "
 "pour travailler à la place en faveur de « la popularité de Linux »</a>."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Adding nonfree software to the <a href=\"/gnu/linux-and-gnu.html\">GNU/"
 "Linux</a> system may increase the popularity, if by popularity we mean the "
@@ -217,7 +207,7 @@ msgstr ""
 "objectif, qui est la liberté. Ça ne sert à rien de conduire plus vite si "
 "l'on ne peut pas rester sur la route."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "When the nonfree &ldquo;add-on&rdquo; is a library or programming tool, it "
 "can become a trap for free software developers.  When they write free "
@@ -240,7 +230,7 @@ msgstr ""
 "de Sun a eu un effet similaire : <a href=\"/philosophy/java-trap.html\">le "
 "piège Java</a>, qui maintenant a presque disparu, heureusement."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If our community keeps moving in this direction, it could redirect the "
 "future of <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> into a mosaic of "
@@ -257,7 +247,7 @@ msgstr ""
 "libres que les utilisateurs espèrent trouver avec. Si cela arrive, notre "
 "campagne pour la liberté aura échoué."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If releasing free alternatives were simply a matter of programming, solving "
 "future problems might become easier as our community's development resources "
@@ -282,7 +272,7 @@ msgstr ""
 "brevetés et secrets sera de <strong>rejeter les programmes non libres qui "
 "les utilisent</strong>."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Meeting these challenges will require many different kinds of effort.  But "
 "what we need above all, to confront any kind of challenge, is to remember "
@@ -301,7 +291,7 @@ msgstr ""
 "se battent pour leur liberté et leur communauté, la détermination de tenir "
 "pendant des années et de ne pas abandonner."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "In our community, this goal and this determination emanate mainly from the "
 "GNU Project.  We're the ones who talk about freedom and community as "
@@ -328,20 +318,20 @@ msgstr ""
 "susceptibles de croiser les idées de liberté et de détermination est le "
 "projet GNU."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid "But when people come across it, will they feel it relates to them?"
 msgstr ""
 "Mais quand les gens croiseront ces idées, est-ce qu'ils se sentiront "
 "concernés ?"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "People who know they are using a system that came out of the GNU Project can "
 "see a direct relationship between themselves and GNU.  They won't "
 "automatically agree with our philosophy, but at least they will see a reason "
 "to think seriously about it.  In contrast, people who consider themselves "
-"&ldquo;Linux users&rdquo;, and believe that the GNU Project &ldquo;developed "
-"tools which proved to be useful in Linux&rdquo;, typically perceive only an "
+"&ldquo;Linux users,&rdquo; and believe that the GNU Project &ldquo;developed "
+"tools which proved to be useful in Linux,&rdquo; typically perceive only an "
 "indirect relationship between GNU and themselves.  They may just ignore the "
 "GNU philosophy when they come across it."
 msgstr ""
@@ -354,11 +344,11 @@ msgstr ""
 "habituellement qu'une relation indirecte entre GNU et eux. Ils peuvent tout "
 "simplement passer à côté de la philosophie de GNU."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The GNU Project is idealistic, and anyone encouraging idealism today faces a "
 "great obstacle: the prevailing ideology encourages people to dismiss "
-"idealism as &ldquo;impractical&rdquo;.  Our idealism has been extremely "
+"idealism as &ldquo;impractical.&rdquo; Our idealism has been extremely "
 "practical: it is the reason we have a free <a href=\"/gnu/linux-and-gnu.html"
 "\">GNU/Linux</a> operating system.  People who love this system ought to "
 "know that it is our idealism made real."
@@ -371,7 +361,7 @@ msgstr ""
 "linux-and-gnu.html\">GNU/Linux</a>. Les personnes qui aiment ce système "
 "devraient savoir que c'est une concrétisation de notre idéalisme."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If &ldquo;the job&rdquo; really were done, if there were nothing at stake "
 "except credit, perhaps it would be wiser to let the matter drop.  But we are "
@@ -386,6 +376,16 @@ msgstr ""
 "faire le travail qui doit être fait, nous avons besoin d'être reconnus pour "
 "ce que nous avons déjà fait. S'il vous plaît, aidez-nous en appelant le "
 "système d'exploitation <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This essay is published in <a href=\"https://shop.fsf.org/product/free-"
+"software-free-society/\"><cite>Free Software, Free Society: The Selected "
+"Essays of Richard M. Stallman</cite></a>."
+msgstr ""
+"Cet essai est publié dans <a href=\"https://shop.fsf.org/product/free-"
+"software-free-society/\"><cite>Free Software, Free Society: The Selected "
+"Essays of Richard M. Stallman</cite></a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -431,10 +431,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2000, 2006, 2007, 2014-2016, 2020, 2021 Richard Stallman"
-msgstr ""
-"Copyright &copy; 2000, 2006, 2007, 2014-2016, 2020, 2021 Richard Stallman"
+msgid "Copyright &copy; 2000, 2007, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2000, 2007, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
