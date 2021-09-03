@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: devils-advocate.html\n"
-"POT-Creation-Date: 2017-11-07 21:25+0000\n"
-"PO-Revision-Date: 2020-12-06 17:35+0100\n"
+"POT-Creation-Date: 2021-09-02 17:25+0000\n"
+"PO-Revision-Date: 2021-09-03 09:39+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -19,16 +19,16 @@ msgstr ""
 msgid "Devil's Advocate - GNU Project - Free Software Foundation"
 msgstr "L'avocat du diable - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Why the Devil's Advocate Doesn't Help Reach the Truth"
 msgstr ""
 "En quoi jouer l'avocat du diable n'aide pas à la manifestation de la vérité"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "by Richard Stallman"
 msgstr "par Richard Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Playing the devil's advocate means challenging a position by saying what a "
 "hypothetical adversary would say.  I encounter this frequently in interviews "
@@ -42,7 +42,7 @@ msgstr ""
 "pensent que c'est une bonne façon de tester une opinion controversée. En "
 "fait, cela met l'opinion controversée en position d'infériorité."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There is an indirect way of playing the devil's advocate: to say, &ldquo;If "
 "I defended your position, how should I respond if someone said XYZ?&rdquo; "
@@ -54,7 +54,7 @@ msgstr ""
 "C'est moins inamical que la façon habituelle, qui consiste à dire simplement "
 "« XYZ », mais l'effet est le même."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Cunning adversaries try intentionally to obstruct thoughtful consideration "
 "of a position they oppose.  My cunning and unscrupulous adversary (the "
@@ -70,7 +70,7 @@ msgstr ""
 "pourraient être d'accord. La meilleure façon d'éviter ceci est de m'empêcher "
 "de faire comprendre ce point de vue."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The devil achieves that by twisting my words: presenting a misleading "
 "context in which my words appear to mean something other than what I "
@@ -90,7 +90,7 @@ msgstr ""
 "avoir besoin d'une longue explication pour revenir au sujet. Le temps peut "
 "manquer ou le public ne plus être concentré."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If I succeed in overcoming the first misunderstanding, the cunning adversary "
 "would spring another, and another.  If the adversary is better at verbal "
@@ -107,7 +107,7 @@ msgstr ""
 "la défaite soit celle de mon opinion ou ma défaite personnelle, tant que le "
 "public rejette mon point de vue."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you are not a real &ldquo;devil,&rdquo; only playing the devil's "
 "advocate, you would not really wish to prevent me from presenting the "
@@ -128,7 +128,7 @@ msgstr ""
 "imaginer : celui qui est malin et sans scrupule, dont le but n'est pas la "
 "manifestation de la vérité mais l'opposition."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you know what such adversaries have said to me, or if you are skilled at "
 "imagining them, you would say the same things they do.  These statements "
@@ -145,7 +145,7 @@ msgstr ""
 "souhaitez. Si votre but était de faire la lumière sur le sujet, votre "
 "méthode aura été contreproductive."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What I say on many issues goes against the establishment position, and I "
 "don't expect people to agree with me without considering the issue "
@@ -161,7 +161,7 @@ msgstr ""
 "prendre en considération l'opinion établie puisque tout le monde la connaît "
 "par cœur. Déterminer ce qui est juste requiert d'aller au fond des choses."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The kind of questions that help get to the bottom of an issue are not those "
 "that a cunning and unscrupulous adversary would pose, but rather those of a "
@@ -178,7 +178,7 @@ msgstr ""
 "positions possibles sur chacun de ces aspects, ce qu'elles impliquent et "
 "quelles sont leurs relations. Très différent de jouer l'avocat du diable."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Thus, instead of trying to play the devil's advocate, I suggest that you "
 "adopt the goal of &ldquo;probing the issues.&rdquo; And if you are asked how "
@@ -190,11 +190,11 @@ msgstr ""
 "vous demande comment vous répondriez si quelqu'un posait une question "
 "hostile, peut-être que cet argumentaire serait une bonne réponse."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Footnote"
 msgstr "Note"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "The author uses the gender-neutral third person singular pronouns &ldquo;"
 "person,&rdquo; &ldquo;per,&rdquo; and &ldquo;pers.&rdquo;"
@@ -228,14 +228,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -246,8 +246,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2012, 2017 Richard Stallman"
-msgstr "Copyright &copy; 2012, 2017 Richard Stallman"
+msgid "Copyright &copy; 2012, 2017, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2012, 2017, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

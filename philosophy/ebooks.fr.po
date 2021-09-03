@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ebooks.html\n"
-"POT-Creation-Date: 2016-09-15 11:55+0000\n"
-"PO-Revision-Date: 2020-12-06 17:35+0100\n"
+"POT-Creation-Date: 2021-09-02 17:26+0000\n"
+"PO-Revision-Date: 2021-09-03 09:39+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -23,34 +23,15 @@ msgstr ""
 "Livres électroniques : liberté ou copyright - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "E-Books: Freedom Or Copyright"
 msgstr "Livres électroniques : liberté ou copyright"
 
-#. type: Content of: <p>
-msgid ""
-"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
-msgstr ""
-"par <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></"
-"a>"
-
-#. type: Content of: <p>
-msgid ""
-"<em>This is a slightly modified version of an article published in "
-"<cite>Technology Review</cite> in 2000.</em>"
-msgstr ""
-"<em>Ceci est une version légèrement modifiée d'un article publié dans "
-"<cite>Technology Review</cite> en 2000.</em>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
 #. type: Content of: <div><p>
-msgid ""
-"Also consider reading <a href=\"/philosophy/ebooks-must-increase-freedom.html"
-"\">E-books must increase our freedom, not decrease it</a>."
-msgstr ""
-"À lire également : <a href=\"/philosophy/ebooks-must-increase-freedom.html"
-"\">Les e-books doivent nous rendre plus libres, pas moins</a>."
-
-#. type: Content of: <p>
 msgid ""
 "Once upon a time, in the age of the printing press, an industrial regulation "
 "was established to cover the business of writing and publishing. It was "
@@ -68,7 +49,7 @@ msgstr ""
 "éditeurs à obtenir la permission des auteurs pour utiliser leurs œuvres "
 "récentes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Ordinary readers had little reason to disapprove, since copyright restricted "
 "only publication, not the things a reader could do. If it raised the price "
@@ -84,7 +65,7 @@ msgstr ""
 "lui imposer d'inconvénients trop lourds. Il remplissait bien son "
 "rôle&hellip; à l'époque."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Then a new way of distributing information came about: computers and "
 "networks. The advantage of digital information technology is that it "
@@ -98,7 +79,7 @@ msgstr ""
 "enregistrements musicaux ou des livres. Les réseaux offrent la possibilité "
 "d'un accès illimité à toutes sortes de données, un paradis de l'information."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But one obstacle stood in the way: copyright. Readers who made use of their "
 "computers to share published information were technically copyright "
@@ -112,7 +93,7 @@ msgstr ""
 "sorte que ce qui avait été une réglementation industrielle pour les éditeurs "
 "devint une restriction pour le public qu'il était censé servir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In a system of real democracy, a law that prohibits a popular, natural, and "
 "useful activity is usually soon relaxed. But the powerful publishers' lobby "
@@ -131,7 +112,7 @@ msgstr ""
 "strict que jamais, en imposant de fortes sanctions aux lecteurs s'étant "
 "rendus coupables de partage."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But that wasn't the last of it. Computers can be powerful tools of "
 "domination, when a few people control what other people's computers do. The "
@@ -148,7 +129,7 @@ msgstr ""
 "pouvaient contraindre les lecteurs à payer, et à s'identifier, chaque fois "
 "qu'ils lisaient un livre ! Le rêve des éditeurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So they prevailed upon the US government to give them the Digital Millennium "
 "Copyright Act of 1998, a law giving them total legal power over almost "
@@ -161,7 +142,16 @@ msgstr ""
 "pouvoir juridique total sur presque tout ce que peut faire le lecteur avec "
 "un livre électronique. Même le lire sans autorisation est une infraction."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
+msgid ""
+"<a href=\"https://www.defectivebydesign.org/ebooks.html\">Join our mailing "
+"list about the dangers of eBooks</a>."
+msgstr ""
+"<a href=\"https://www.defectivebydesign.org/ebooks.html\">Inscrivez-vous à "
+"notre liste de diffusion (en anglais) concernant les dangers des livres "
+"électroniques</a>."
+
+#. type: Content of: <div><p>
 msgid ""
 "We still have the same old freedoms in using paper books. But if e-books "
 "replace printed books, that exception will do little good.  With &ldquo;"
@@ -184,7 +174,7 @@ msgstr ""
 "pour le Microsoft Reader, plus d'achat anonyme de livres. Voici le monde que "
 "les éditeurs ont en tête pour nous."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Why is there so little public debate about these momentous changes? Most "
 "citizens have not yet had occasion to come to grips with the political "
@@ -199,7 +189,7 @@ msgstr ""
 "pour « protéger » les titulaires de copyright, avec l'implication que les "
 "intérêts du public ne comptent pas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But when the public at large begins to use e-books, and discovers the regime "
 "that the publishers have prepared for them, they will begin to resist. "
@@ -209,7 +199,7 @@ msgstr ""
 "découvrira le régime que les éditeurs lui réservent, il commencera à "
 "résister. L'humanité n'acceptera pas éternellement ce joug."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The publishers would have us believe that suppressive copyright is the only "
 "way to keep art alive, but we do not need a War on Copying to encourage a "
@@ -226,7 +216,7 @@ msgstr ""
 "commercial de livres électroniques, nous pouvons renvoyer le copyright à son "
 "ancien rôle de régulation industrielle."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For some kinds of writing, we should go even further. For scholarly papers "
 "and monographs, everyone should be encouraged to republish them verbatim "
@@ -243,7 +233,7 @@ msgstr ""
 "doit être permis, en outre, d'en publier des versions modifiées, puisque "
 "cela encourage la société à les améliorer."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Eventually, when computer networks provide an easy way to send someone a "
 "small amount of money, the whole rationale for restricting verbatim copying "
@@ -260,14 +250,21 @@ msgstr ""
 "musique, tel qu'il s'applique à la distribution de copies intégrales non "
 "modifiées, sera totalement obsolète. Et ce ne sera pas trop tôt !"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"<a href=\"http://defectivebydesign.org/ebooks.html\">Join our mailing list "
-"about the dangers of eBooks</a>."
+"Also consider reading <a href=\"/philosophy/ebooks-must-increase-freedom.html"
+"\">E-books must increase our freedom, not decrease it</a>."
 msgstr ""
-"<a href=\"http://defectivebydesign.org/ebooks.html\">Inscrivez-vous à notre "
-"liste de diffusion (en anglais) concernant les dangers des livres "
-"électroniques</a>."
+"À lire également : <a href=\"/philosophy/ebooks-must-increase-freedom.html"
+"\">Les e-books doivent nous rendre plus libres, pas moins</a>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This is a slightly modified version of an article published in "
+"<cite>Technology Review</cite> in 2000."
+msgstr ""
+"Ceci est une version légèrement modifiée d'un article publié dans "
+"<cite>Technology Review</cite> en 2000."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -302,14 +299,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -320,8 +317,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2000, 2016 Richard Stallman"
-msgstr "Copyright &copy; 2000, 2016 Richard Stallman"
+msgid "Copyright &copy; 2000, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2000, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

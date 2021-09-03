@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: amazon.html\n"
-"POT-Creation-Date: 2020-07-01 15:25+0000\n"
-"PO-Revision-Date: 2020-12-06 17:35+0100\n"
+"POT-Creation-Date: 2021-09-02 08:55+0000\n"
+"PO-Revision-Date: 2021-09-03 09:39+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -23,62 +23,64 @@ msgstr ""
 msgid "(Formerly) Boycott Amazon! - GNU Project - Free Software Foundation"
 msgstr "Boycottez Amazon ! (autrefois) - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "(Formerly) Boycott Amazon!"
 msgstr "Boycottez Amazon ! (autrefois)"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"The FSF decided to end its boycott of Amazon in September 2002.  (We forgot "
-"to edit this page at the time.)  We could not tell the precise result of the "
-"lawsuit against Barnes &amp; Noble, but it did not seem to be very harmful "
-"to the defendant.  And Amazon had not attacked anyone else."
+"<i>The FSF decided to end its boycott of Amazon in September 2002.  (We "
+"forgot to edit this page at the time.)  We could not tell the precise result "
+"of the lawsuit against Barnes &amp; Noble, but it did not seem to be very "
+"harmful to the defendant.  And Amazon had not attacked anyone else.</i>"
 msgstr ""
-"La FSF a décidé de mettre fin au boycott d'Amazon en septembre 2002 (à cette "
-"époque nous avions oublié d'éditer cette page). Nous ne saurions dire le "
-"résultat précis du procès contre Barnes &amp; Noble, mais il n'a pas semblé "
-"faire beaucoup de mal au défendeur. Et Amazon n'a attaqué personne d'autre."
+"<i>La FSF a décidé de mettre fin au boycott d'Amazon en septembre 2002 (à "
+"cette époque nous avions oublié d'éditer cette page). Nous ne saurions dire "
+"le résultat précis du procès contre Barnes &amp; Noble, mais il n'a pas "
+"semblé faire beaucoup de mal au défendeur. Et Amazon n'a attaqué personne "
+"d'autre.</i>"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"Amazon has got a number of other menacing patents since then, but has not as "
-"yet used them for aggression.  Perhaps it will not do so.  If it does, we "
-"will take a look at how to denounce it."
+"<i>Amazon has got a number of other menacing patents since then, but has not "
+"as yet used them for aggression.  Perhaps it will not do so.  If it does, we "
+"will take a look at how to denounce it.</i>"
 msgstr ""
-"Amazon a obtenu un certain nombre d'autres brevets menaçants depuis lors, "
+"<i>Amazon a obtenu un certain nombre d'autres brevets menaçants depuis lors, "
 "mais ne les a pas employés jusqu'ici de manière agressive. Peut-être que "
-"cela ne durera pas. Si c'est le cas, nous verrons comment le dénoncer."
+"cela ne durera pas. Si c'est le cas, nous verrons comment le dénoncer.</i>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<i>The rest of this page is as it was in 2001 while the boycott was active.</"
+"i>"
+msgstr ""
+"<i>La suite de cette page est telle qu'elle était en 2001 à l'époque où le "
+"boycott était actif.</i>"
 
 #. type: Content of: <div><p>
-msgid ""
-"The rest of this page is as it was in 2001 while the boycott was active."
-msgstr ""
-"La suite de cette page est telle qu'elle était en 2001 à l'époque où le "
-"boycott était actif."
-
-#. type: Content of: <p>
 msgid "If you support the boycott,"
 msgstr "Si vous soutenez le boycott,"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<em>Please make links to this page</em>"
 msgstr "<em>Faites des liens vers cette page</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>http://www.gnu.org/philosophy/amazon.html</strong> !!!!"
 msgstr "<strong>http://www.gnu.org/philosophy/amazon.html</strong> !!!!"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Why we boycott Amazon"
 msgstr "Pourquoi nous boycottons Amazon"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Amazon has obtained a <a href=\"/philosophy/amazonpatent.html\">US patent "
 "(5,960,411)</a> on an important and obvious idea for E-commerce: an idea "
 "sometimes known as one-click purchasing.  The idea is that your command in a "
 "web browser to buy a certain item can carry along information about your "
-"identity.  (It works by sending the server a &ldquo;cookie&rdquo;, a kind of "
+"identity.  (It works by sending the server a &ldquo;cookie,&rdquo; a kind of "
 "ID code that your browser received previously from the same server.)"
 msgstr ""
 "Amazon a obtenu un <a href=\"/philosophy/amazonpatent.html\">brevet aux USA "
@@ -88,7 +90,7 @@ msgstr ""
 "fonctionne en renvoyant un « cookie », une sorte de code d'identification "
 "que votre navigateur a reçu précédemment du même serveur)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Amazon has sued to block the use of this simple idea, showing that they "
 "truly intend to monopolize it.  This is an attack against the World Wide Web "
@@ -98,7 +100,7 @@ msgstr ""
 "démontrant sa réelle volonté de la monopoliser. Ceci est une attaque contre "
 "le World Wide Web et contre le commerce électronique en général."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The idea patented here is just that a company can give you something which "
 "you can subsequently show them to identify yourself for credit.  This is "
@@ -115,7 +117,7 @@ msgstr ""
 "des brevets sur des idées évidentes et bien connues. Parfois, le résultat "
 "est un désastre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Today Amazon is suing one large company.  If this were just a dispute "
 "between two companies, it would not be an important public issue.  But the "
@@ -132,7 +134,7 @@ msgstr ""
 "de cette technique. Bien qu'une seule entreprise soit poursuivie "
 "aujourd'hui, ce problème affecte Internet globalement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Amazon is not alone at fault in what is happening.  The US Patent Office is "
 "to blame for having very low standards, and US courts are to blame for "
@@ -147,7 +149,7 @@ msgstr ""
 "traitement de l'information et sur des modèles de communication – une "
 "politique néfaste en général."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Foolish government policies gave Amazon the opportunity&mdash;but an "
 "opportunity is not an excuse.  Amazon made the choice to obtain this patent, "
@@ -160,7 +162,7 @@ msgstr ""
 "un tribunal. L'ultime responsabilité morale des actions d'Amazon incombe à "
 "ses dirigeants."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We can hope that the court will find this patent is legally invalid.  "
 "Whether they do so will depend on detailed facts and obscure "
@@ -172,7 +174,7 @@ msgstr ""
 "utilise une foule de détails plus ou moins pertinents pour essayer de faire "
 "de cette « invention » quelque chose de subtil."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But we do not have to wait passively for the court to decide the freedom of "
 "E-commerce.  There is something we can do right now: we can refuse to do "
@@ -186,7 +188,7 @@ msgstr ""
 "ce brevet pour menacer d'autres sites web ou leur mettre des bâtons dans les "
 "roues."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you are the author of a book sold by Amazon, you can provide powerful "
 "help to this campaign by putting this text into the &ldquo;author "
@@ -198,7 +200,7 @@ msgstr ""
 "« préface », sur le site d'Amazon (hélas, on constate qu'ils refusent de "
 "mettre ces commentaires en ligne)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you have suggestions, or if you simply support the boycott, please send "
 "mail to <a href=\"mailto:amazon@gnu.org\">&lt;amazon@gnu.org&gt;</a> to let "
@@ -208,7 +210,7 @@ msgstr ""
 "merci d'envoyer un courriel à <a href=\"mailto:amazon@gnu.org\">&lt;"
 "amazon@gnu.org&gt;</a> pour nous tenir au courant."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Amazon's response to people who write about the patent contains a subtle "
 "misdirection which is worth analyzing:"
@@ -216,7 +218,7 @@ msgstr ""
 "La réponse d'Amazon aux personnes qui s'expriment sur le brevet comporte une "
 "orientation subtilement trompeuse qui mérite d'être analysée :"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "The patent system is designed to encourage innovation, and we spent "
 "thousands of hours developing our 1-ClickR shopping feature."
@@ -227,7 +229,7 @@ msgstr ""
 "l'innovation et nous avons consacré des milliers d'heures à développer notre "
 "fonctionnalité d'achat en un clic."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If they did spend thousands of hours, they surely did not spend it thinking "
 "of the general technique that the patent covers.  So if they are telling the "
@@ -237,7 +239,7 @@ msgstr ""
 "pas fait à réfléchir sur la technique générale couverte par le brevet. Donc, "
 "s'ils disent la vérité, à quoi ont-ils passé ces heures ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Perhaps they spent some of the time writing the patent application.  That "
 "task was surely harder than thinking of the technique.  Or perhaps they are "
@@ -254,7 +256,7 @@ msgstr ""
 "attentivement, il semble que dans les « milliers d'heures de développement » "
 "on puisse inclure chacun de ces deux aspects."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But the issue here is not about the details in their particular scripts "
 "(which they do not release to us) and web pages (which are copyrighted "
@@ -266,7 +268,7 @@ msgstr ""
 "façon). Il s'agit ici de l'idée générale, et la question est de savoir si "
 "Amazon doit en avoir le monopole."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Are you, or I, free to spend the necessary hours writing our own scripts, "
 "our own web pages, to provide one-click shopping? Even if we are selling "
@@ -281,7 +283,7 @@ msgstr ""
 "de cette liberté, avec l'aide empressée d'un gouvernement américain mal "
 "avisé."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When Amazon sends out cleverly misleading statements like the one quoted "
 "above, it demonstrates something important: they do care what the public "
@@ -294,7 +296,7 @@ msgstr ""
 "raison d'y faire attention : ce sont des commerçants ; se mettre à dos le "
 "public peut avoir des conséquences sur leurs profits."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "People have pointed out that the problem of software patents is much bigger "
 "than Amazon, that other companies might have acted just the same, and that "
@@ -307,7 +309,7 @@ msgstr ""
 "brevets. Bien sûr, tout ceci est vrai. Mais ce n'est pas un argument contre "
 "ce boycott !"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If we mount the boycott strongly and lastingly, Amazon may eventually make a "
 "concession to end it.  And even if they do not, the next company which has "
@@ -320,7 +322,7 @@ msgstr ""
 "exorbitant qui envisagerait d'intenter un procès à quelqu'un réalisera qu'il "
 "y a un prix à payer, et pourrait reconsidérer la question."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The boycott can also indirectly help change patent law&mdash;by calling "
 "attention to the issue and spreading demand for change.  And it is so easy "
@@ -333,7 +335,7 @@ msgstr ""
 "vous retenir. Si vous êtes d'accord avec notre point de vue, pourquoi <em>ne "
 "pas</em> boycotter Amazon ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To help spread the word, please put a note about the boycott on your own "
 "personal web page, and on institutional pages as well if you can.  Make a "
@@ -344,11 +346,11 @@ msgstr ""
 "institution si vous le pouvez. Mettez cette page en lien, une information à "
 "jour y figurera."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Why the Boycott Continues Given that the Suit has Settled"
 msgstr "Pourquoi le boycott continue alors que l'affaire a été réglée"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Amazon.com reported in March 2002 that it had settled its long-running "
 "patent-infringement suit against Barnes &amp; Noble over its 1-Click "
@@ -359,7 +361,7 @@ msgstr ""
 "cessé à la suite d'un arrangement. Les détails de l'accord n'ont pas été "
 "divulgués."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Since the terms were not disclosed, we have no way of knowing whether this "
 "represents a defeat for Amazon such as would justify ending the boycott.  "
@@ -369,11 +371,11 @@ msgstr ""
 "chance de savoir si cela représente pour Amazon une défaite justifiant la "
 "fin du boycott. Ainsi, nous encourageons chacun à le poursuivre."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Updates and Links"
 msgstr "Mises à jour et liens"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In this section, we list updates and links about issues related to Amazon."
 "com, their business practices, and stories related to the boycott.  New "
@@ -383,32 +385,34 @@ msgstr ""
 "méthodes commerciales et les histoires liées au boycott. Les nouvelles "
 "informations sont ajoutées à la fin."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"Tim O'Reilly has sent Amazon an <a href=\"http://www.oreilly.com/pub/a/"
-"oreilly/ask_tim/2000/amazon_patent.html\">open letter</a> disapproving of "
-"the use of this patent, stating the position about as forcefully as possible "
-"given an unwillingness to stop doing business with them."
+"Tim O'Reilly has sent Amazon an <a href=\"https://web.archive.org/"
+"web/20131114095827/http://www.oreilly.com/pub/a/oreilly/ask_tim/2000/"
+"amazon_patent.html\">open letter</a> disapproving of the use of this patent, "
+"stating the position about as forcefully as possible given an unwillingness "
+"to stop doing business with them."
 msgstr ""
-"Tim O'Reilly a envoyé à Amazon une <a href=\"http://www.oreilly.com/pub/a/"
-"oreilly/ask_tim/2000/amazon_patent.html\">lettre ouverte</a> désapprouvant "
-"l'utilisation de ce brevet, la force de cette déclaration étant un peu "
-"mitigée par son refus d'arrêter de faire affaire avec eux."
+"Tim O'Reilly a envoyé à Amazon une <a href=\"https://web.archive.org/"
+"web/20131114095827/http://www.oreilly.com/pub/a/oreilly/ask_tim/2000/"
+"amazon_patent.html\">lettre ouverte</a> désapprouvant l'utilisation de ce "
+"brevet, la force de cette déclaration étant un peu mitigée par son refus "
+"d'arrêter de faire affaire avec eux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"<a href=\"http://www.stallman.org/\">Richard M. Stallman</a> has written a "
+"<a href=\"https://www.stallman.org/\">Richard M. Stallman</a> has written a "
 "<a href=\"/philosophy/amazon-rms-tim.html\">letter to Tim O'Reilly</a> in "
 "regard to the statement by Jeff Bezos, <abbr title=\"Chief Executive Officer"
 "\">CEO</abbr> of Amazon, which called for software patents to last just 3 or "
 "5 years."
 msgstr ""
-"<a href=\"http://www.stallman.org/\">Richard M. Stallman</a> a adressé une "
+"<a href=\"https://www.stallman.org/\">Richard M. Stallman</a> a adressé une "
 "<a href=\"/philosophy/amazon-rms-tim.html\">lettre à Tim O'Reilly</a> "
 "concernant les propos tenus par Jeff Bezos, PDG d'Amazon ; cette lettre "
 "appelle à limiter la durée des brevets à 3 ou 5 ans."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Paul Barton-Davis <a href=\"mailto:pbd@op.net\">&lt;pbd@op.net&gt;</a>, one "
 "of the founding programmers at Amazon, <a href=\"http://www.equalarea.com/"
@@ -418,7 +422,7 @@ msgstr ""
 "des programmeurs fondateurs d'Amazon, <a href=\"http://www.equalarea.com/"
 "paul/amazon-1click.html\"> s'est exprimé</a> à propos du boycott."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Nat Friedman wrote in with an <a href=\"/philosophy/amazon-nat.html\">Amazon "
 "Boycott success story</a>."
@@ -426,7 +430,7 @@ msgstr ""
 "Nat Friedman a raconté l'histoire de <a href=\"/philosophy/amazon-nat.html"
 "\"> la réussite du boycott</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "On the side, Amazon is doing <a href=\"https://web.archive.org/"
 "web/20140610154715/http://www.salon.com/1999/10/28/amazon_3/\">other "
@@ -436,26 +440,26 @@ msgstr ""
 "org/web/20140610154715/http://www.salon.com/1999/10/28/amazon_3/\"> litiges "
 "nauséabonds d'un autre ordre</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"See <a href=\"http://endsoftpatents.org\">http://endsoftpatents.org</a> for "
-"more information about the broader issue of <a href=\"https://web.archive."
-"org/web/20150329143651/http://progfree.org/Patents/patents.html\"> software "
+"See <a href=\"https://endsoftpatents.org\">endsoftpatents.org</a> for more "
+"information about the broader issue of <a href=\"https://web.archive.org/"
+"web/20150329143651/http://progfree.org/Patents/patents.html\"> software "
 "patents</a>."
 msgstr ""
-"Voir <a href=\"http://endsoftpatents.org\">http://endsoftpatents.org</a> "
-"pour un supplément d'information sur les problèmes que posent les <a href="
-"\"https://web.archive.org/web/20150329143651/http://progfree.org/Patents/"
-"patents.html\"> brevets logiciels</a>."
+"Voir <a href=\"https://endsoftpatents.org\">endsoftpatents.org</a> pour un "
+"supplément d'information sur les problèmes que posent les <a href=\"https://"
+"web.archive.org/web/20150329143651/http://progfree.org/Patents/patents.html"
+"\"> brevets logiciels</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"<a href=\"http://web.archive.org/web/20010430183216/http://www.cpsr.org/"
+"<a href=\"https://web.archive.org/web/20010430183216/http://www.cpsr.org/"
 "links/bookstore/\"> Computer Professionals for Social Responsibility have "
 "dropped their affiliation with Amazon</a>."
 msgstr ""
 "Les « Professionnels de l'informatique pour la responsabilité sociale » <i>"
-"[Computer Professionals for Social Responsibility]</i> <a href=\"http://web."
+"[Computer Professionals for Social Responsibility]</i> <a href=\"https://web."
 "archive.org/web/20010430183216/http://www.cpsr.org/links/bookstore/\"> ont "
 "annulé leur affiliation avec Amazon</a>."
 
@@ -485,14 +489,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -504,11 +508,9 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1999, 2001, 2007, 2008, 2013, 2014, 2015, 2018, 2019, 2020 "
-"Free Software Foundation, Inc."
+"Copyright &copy; 1999, 2001, 2002, 2004, 2021 Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1999, 2001, 2007, 2008, 2013, 2014, 2015, 2018, 2019, 2020 "
-"Free Software Foundation, Inc."
+"Copyright &copy; 1999, 2001, 2002, 2004, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

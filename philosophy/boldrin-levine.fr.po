@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: boldrin-levine.html\n"
-"POT-Creation-Date: 2018-07-10 16:26+0000\n"
-"PO-Revision-Date: 2018-11-03 22:24+0100\n"
+"POT-Creation-Date: 2021-09-02 08:56+0000\n"
+"PO-Revision-Date: 2021-09-03 09:39+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Critique : Boldrin et Levine, « Le procès contre la propriété "
 "intellectuelle » - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid ""
 "Review: Boldrin and Levine, &ldquo;The case against intellectual "
 "property&rdquo;"
@@ -34,14 +34,11 @@ msgstr ""
 "Critique : Boldrin et Levine, « Le procès contre la propriété "
 "intellectuelle »"
 
-#. type: Content of: <p>
-msgid ""
-"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
-msgstr ""
-"par <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></"
-"a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"https://www.researchgate.net/profile/Michele_Boldrin/"
 "publication/4980956_The_Case_Against_Intellectual_Property/"
@@ -58,14 +55,14 @@ msgstr ""
 "sur des bases économiques que les auteurs peuvent gagner de l'argent en "
 "vendant leur œuvre, même dans un monde où chacun peut la copier."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You've probably heard the superficial argument that &ldquo;If the program is "
-"free, you will only sell one copy&rdquo;.  The obvious response is that "
-"today there are companies that sell thousands of copies a month.  But this "
-"paper provides another response: it shows why people who are fully aware of "
-"the economic consequences of the freedom to copy would pay a high price for "
-"&ldquo;the first copy&rdquo;."
+"free, you will only sell one copy.&rdquo; The obvious response is that today "
+"there are companies that sell thousands of copies a month.  But this paper "
+"provides another response: it shows why people who are fully aware of the "
+"economic consequences of the freedom to copy would pay a high price for "
+"&ldquo;the first copy.&rdquo;"
 msgstr ""
 "Vous avez probablement entendu parler de l'argument fallacieux selon lequel "
 "« si le programme est libre, vous n'en vendrez qu'une seule copie ». La "
@@ -75,13 +72,13 @@ msgstr ""
 "conséquences économiques de la liberté de copie paieraient un prix élevé "
 "pour « le premier exemplaire »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"/philosophy/words-to-avoid.html#IntellectualProperty\">The term "
 "&ldquo;intellectual property&rdquo; is biased and spreads confusion.</a> The "
 "bias is easy to see&mdash;by calling copyright and patents and trademarks "
-"&ldquo;property&rdquo;, it leads people to think that criticizing them is "
-"&ldquo;opposing property rights&rdquo;.  The confusion is less evident: by "
+"&ldquo;property,&rdquo; it leads people to think that criticizing them is "
+"&ldquo;opposing property rights.&rdquo; The confusion is less evident: by "
 "lumping copyright and patents and trademarks together, it leads people to "
 "treat them as one thing, to ignore their large differences and consider them "
 "as a single issue in terms of their meager similarities."
@@ -95,7 +92,7 @@ msgstr ""
 "les traiter comme une seule entité, à ignorer leurs grandes différences et à "
 "les considérer comme un seul problème au vu de leurs maigres similarités."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This usually means ignoring social and ethical aspects of copyrights, and "
 "the different social and ethical aspects of patents, and considering both "
@@ -111,7 +108,7 @@ msgstr ""
 "sévèrement restrictifs présentent alors un argument qui est si simple qu'il "
 "donne l'impression d'être irréfutable."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I normally respond by showing the aspects of the situation that have been "
 "ignored by treating the issue as a purely economic one.  Boldrin and "
@@ -124,13 +121,13 @@ msgstr ""
 "littéralement et montre ses lacunes, lacunes que l'apparente simplicité tend "
 "à cacher."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"I believe we should continue to reject the term &ldquo;intellectual "
-"property&rdquo;.  We need to call attention to the non-economic aspects of "
-"copyrights and the different non-economic aspects of patents.  However, "
-"Boldrin and Levine's arguments will be useful for responding to people who "
-"insist on narrowing their values to economics."
+"I believe we should continue to reject the term &ldquo;intellectual property."
+"&rdquo; We need to call attention to the non-economic aspects of copyrights "
+"and the different non-economic aspects of patents.  However, Boldrin and "
+"Levine's arguments will be useful for responding to people who insist on "
+"narrowing their values to economics."
 msgstr ""
 "Je pense que nous devons continuer à rejeter le terme « propriété "
 "intellectuelle ». Nous avons besoin de porter notre attention sur les "
@@ -139,7 +136,7 @@ msgstr ""
 "Levine seront utiles pour répondre aux personnes qui insistent pour "
 "restreindre leurs valeurs au seul point de vue économique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The paper is addressed to economists and somewhat mathematical.  "
 "Popularization of its ideas would be useful."
@@ -173,14 +170,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -191,8 +188,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2003, 2014, 2015, 2018 Richard M. Stallman"
-msgstr "Copyright &copy; 2003, 2014, 2015, 2018 Richard M. Stallman"
+msgid "Copyright &copy; 2003, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2003, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

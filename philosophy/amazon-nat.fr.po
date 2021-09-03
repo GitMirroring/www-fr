@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: amazon-nat.html\n"
-"POT-Creation-Date: 2014-04-05 00:02+0000\n"
-"PO-Revision-Date: 2014-04-05 09:19+0200\n"
+"POT-Creation-Date: 2021-09-02 08:55+0000\n"
+"PO-Revision-Date: 2021-09-03 09:39+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -21,81 +21,58 @@ msgstr ""
 msgid "Amazon Letter from Nat - GNU Project - Free Software Foundation"
 msgstr "Lettre sur Amazon de Nat - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Amazon Letter from Nat"
 msgstr "Lettre sur Amazon de Nat"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"This is a letter from Nat Friedman regarding the Amazon Boycott.  Please <a "
-"href=\"/philosophy/amazon.html\">read more about this boycott</a> and "
-"support us by making a link from your own home page!"
+"<i>This is a letter from Nat Friedman regarding the Amazon Boycott.  Please "
+"<a href=\"/philosophy/amazon.html\">read more about this boycott</a> and "
+"support us by making a link from your own home page!</i>"
 msgstr ""
-"Voici une lettre de Nat Friedman concernant le boycott d'Amazon. Veuillez en "
-"lire plus au sujet de ce boycott <a href=\"/philosophy/amazon.html\">ici</a> "
-"et nous soutenir en faisant un lien sur votre page d'accueil !"
+"<i>Voici une lettre de Nat Friedman concernant le boycott d'Amazon. Veuillez "
+"en lire plus au sujet de ce boycott <a href=\"/philosophy/amazon.html\">ici</"
+"a> et nous soutenir en faisant un lien sur votre page d'accueil !</i>"
 
-#. type: Content of: <pre>
-#, no-wrap
+#. type: Content of: <div><p>
+msgid "Date: Thu, 23 Dec 1999 17:26:30 -0500 (EST)"
+msgstr "Date : Jeudi 23 décembre 1999 17:26:30 -0500 (EST)"
+
+#. type: Content of: <div><p>
+msgid "From: Nat Friedman &lt;nat@nat.org&gt;"
+msgstr "De : Nat Friedman &lt;nat&#64;nat.org&gt;"
+
+#. type: Content of: <div><p>
+msgid "To: Richard Stallman &lt;rms@gnu.org&gt;"
+msgstr "Pour : Richard Stallman &lt;rms&#64;gnu.org&gt;"
+
+#. type: Content of: <div><p>
+msgid "Subject: Amazon Boycott Success!"
+msgstr "Sujet : Succès du boycott d'Amazon !"
+
+#. type: Content of: <div><p>
+msgid "Content-Type: text/plain; charset=us-ascii"
+msgstr "Content-Type: text/plain; charset=us-ascii"
+
+#. type: Content of: <div><p>
+msgid "Content-Length: 658"
+msgstr "Content-Length: 658"
+
+#. type: Content of: <div><p>
+msgid "Hello Richard,"
+msgstr "Salut Richard,"
+
+#. type: Content of: <div><p>
 msgid ""
-"Date: Thu, 23 Dec 1999 17:26:30 -0500 (EST)\n"
-"From: Nat Friedman &lt;nat@nat.org&gt;\n"
-"To: Richard Stallman &lt;rms@gnu.org&gt;\n"
-"Subject: Amazon Boycott Success!\n"
-"Content-Type: text/plain; charset=us-ascii\n"
-"Content-Length: 658\n"
-"\n"
-"Hello Richard,\n"
-"\n"
-"    It seems that your efforts to build resistance to Amazon's\n"
-"ludicrous one-click patent are really paying off!  My father is a\n"
-"stock broker, and tonight he showed me a news item which came over his\n"
-"company's internal wire service describing (fairly accurately) the\n"
-"boycott and your roll in it.  Apparently it has been widely\n"
-"distributed among the brokerage firms, and AMZN was down 7 points\n"
-"today on the news (at least, there was no other readily-apparent\n"
-"reason for the downturn).\n"
-"\n"
-"    Perhaps now that Amazon is getting hit in the pocketbook, they'll\n"
-"pay more attention.\n"
-"\n"
-"    Congratulations!  Keep it up.\n"
-"\n"
-"As always, best wishes,\n"
-"Nat\n"
+"It seems that your efforts to build resistance to Amazon's ludicrous one-"
+"click patent are really paying off! My father is a stock broker, and tonight "
+"he showed me a news item which came over his company's internal wire service "
+"describing (fairly accurately) the boycott and your roll in it.  Apparently "
+"it has been widely distributed among the brokerage firms, and AMZN was down "
+"7 points today on the news (at least, there was no other readily-apparent "
+"reason for the downturn)."
 msgstr ""
-"Date : Jeudi 23 décembre 1999 17:26:30 -0500 (EST)\n"
-"De : Nat Friedman &lt;nat&#64;nat.org&gt;\n"
-"Pour : Richard Stallman &lt;rms&#64;gnu.org&gt;\n"
-"Sujet : Succès du boycott d'Amazon !\n"
-"Content-Type : text/plain; charset=us-ascii\n"
-"Content-Length : 658\n"
-"\n"
-"Hello Richard,\n"
-"\n"
-"    It seems that your efforts to build resistance to Amazon's\n"
-"ludicrous one-click patent are really paying off!  My father is a\n"
-"stock broker, and tonight he showed me a news item which came over his\n"
-"company's internal wire service describing (fairly accurately) the\n"
-"boycott and your roll in it.  Apparently it has been widely\n"
-"distributed among the brokerage firms, and AMZN was down 7 points\n"
-"today on the news (at least, there was no other readily-apparent\n"
-"reason for the downturn).\n"
-"\n"
-"    Perhaps now that Amazon is getting hit in the pocketbook, they'll\n"
-"pay more attention.\n"
-"\n"
-"    Congratulations!  Keep it up.\n"
-"\n"
-"As always, best wishes,\n"
-"Nat\n"
-
-#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
-msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
-msgstr ""
-"Traduction de la lettre :<br />\n"
-"Salut Richard,<br /><br />\n"
 "Il semble que tes efforts pour organiser une résistance autour de cet "
 "absurde brevet d'Amazon sur « l'achat en un clic » soient vraiment payants ! "
 "Mon père est courtier en bourse, et il m'a montré ce soir une nouvelle "
@@ -103,12 +80,32 @@ msgstr ""
 "précisément) le boycott et le rôle que tu y as joué. Apparemment, cette "
 "nouvelle a été largement diffusée parmi les firmes de courtage et a fait "
 "perdre 7 points à AMZN aujourd'hui (du moins, il n'y avait pas d'autre "
-"raison évidente pour cette chute).<br /><br />\n"
+"raison évidente pour cette chute)."
+
+#. type: Content of: <div><p>
+msgid ""
+"Perhaps now that Amazon is getting hit in the pocketbook, they'll pay more "
+"attention."
+msgstr ""
 "Maintenant qu'Amazon est touchée au porte-monnaie, peut-être qu'ils feront "
-"plus attention.<br /><br />\n"
-"Félicitations ! Continue.<br /><br />\n"
-"Comme toujours, meilleurs vœux,<br />\n"
-"Nat"
+"plus attention."
+
+#. type: Content of: <div><p>
+msgid "Congratulations! Keep it up."
+msgstr "Félicitations ! Continue."
+
+#. type: Content of: <div><p>
+msgid "As always, best wishes,"
+msgstr "Comme toujours, meilleurs vœux,"
+
+#. type: Content of: <div><p>
+msgid "Nat"
+msgstr "Nat"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -131,14 +128,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -149,19 +146,19 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1999, 2007, 2008, 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 1999, 2007, 2008, 2014 Free Software Foundation, Inc."
+msgid "Copyright &copy; 1999, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1999, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
