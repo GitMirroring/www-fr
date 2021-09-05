@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: java-trap.html\n"
-"POT-Creation-Date: 2021-07-18 11:25+0000\n"
+"POT-Creation-Date: 2021-09-05 09:56+0000\n"
 "PO-Revision-Date: 2021-07-18 14:23+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -34,11 +34,11 @@ msgstr "Libre mais entravé - le piège Java"
 msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Headnote"
 msgstr "Note préliminaire"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Since this article was first published, Sun (now part of Oracle)  has <a "
 "href=\"https://www.fsf.org/news/fsf-welcomes-gpl-java.html\">relicensed</a> "
@@ -53,7 +53,7 @@ msgstr ""
 "environnement de développement libre pour Java. Ainsi le langage Java n'est "
 "plus un piège."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "You must be careful, however, because not every Java platform is free.  Sun "
 "continues distributing an executable Java platform which is nonfree, and "
@@ -63,7 +63,7 @@ msgstr ""
 "ne sont pas libres. Sun continue à distribuer une plateforme Java exécutable "
 "qui n'est pas libre et d'autres sociétés font de même."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The free environment for Java is called IcedTea; the source code Sun freed "
 "is included in that.  So that is the one you should use.  Many GNU/Linux "
@@ -78,7 +78,7 @@ msgstr ""
 "octobre 2015 : l'implémentation libre de Java s'appelle OpenJDK dans "
 "beaucoup de distributions GNU/Linux.)"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To reliably ensure your Java programs run fine in a free environment, you "
 "need to develop them using IcedTea.  Theoretically the Java platforms should "
@@ -89,7 +89,7 @@ msgstr ""
 "IcedTea. Théoriquement les plateformes Java devraient être compatibles, mais "
 "elles ne le sont pas à 100%."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In addition, there are nonfree programs with &ldquo;Java&rdquo; in their "
 "name, such as JavaFX, and there are nonfree Java packages you might find "
@@ -106,7 +106,7 @@ msgstr ""
 "ajoutée en octobre 2015 : un programme libre remplaçant JavaFX a été publié "
 "sous le nom d'OpenJFX.)"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Aside from those Java specifics, the general issue described here remains "
 "important, because any nonfree library or programming platform can cause a "
@@ -118,7 +118,7 @@ msgstr ""
 "libre peut causer un problème similaire. Nous devons retenir la leçon de "
 "l'histoire de Java de manière à éviter d'autres pièges à l'avenir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Please also see: <a href=\"/philosophy/javascript-trap.html\"> The "
 "JavaScript Trap</a>."
@@ -126,11 +126,11 @@ msgstr ""
 "Veuillez aussi consulter : <a href=\"/philosophy/javascript-trap.html\">Le "
 "piège JavaScript</a>."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid "<em>April 12, 2004</em>"
 msgstr "<em>Le 12 avril 2004</em>"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If your program is free software, it is basically ethical&mdash;but there is "
 "a trap you must be on guard for. Your program, though in itself free, may be "
@@ -143,7 +143,7 @@ msgstr ""
 "dépend. Comme c'est avec les programmes Java que ce problème est aujourd'hui "
 "le plus évident, nous l'avons nommé le « piège Java »."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "A program is free software if its users have certain crucial freedoms. "
 "Roughly speaking, they are: the freedom to run the program, the freedom to "
@@ -161,7 +161,7 @@ msgstr ""
 "\">définition du logiciel libre</a>). Qu'un programme donné soit un logiciel "
 "libre ne dépend que de la signification de sa licence."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Whether the program can be used in the Free World, used by people who mean "
 "to live in freedom, is a more complex question. This is not determined by "
@@ -189,7 +189,7 @@ msgstr ""
 "de ses fonctionnalités. D'une façon ou d'une autre, tout ou partie du "
 "programme ne peut pas fonctionner sans elles."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If some of a program's dependencies are nonfree, this means that all or part "
 "of the program is unable to run in an entirely free system&mdash;it is "
@@ -205,7 +205,7 @@ msgstr ""
 "ne sert pas à grand-chose s'il ne s'exécute pas. Ce programme est un "
 "logiciel libre, mais il est en fait entravé par des dépendances non libres."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "This problem can occur in any kind of software, in any language. For "
 "instance, a free program that only runs on Microsoft Windows is clearly "
@@ -232,7 +232,7 @@ msgstr ""
 "par l'attrait du langage, ils sous-estiment le problème des dépendances et "
 "tombent dans le piège Java."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Sun's implementation of Java is nonfree. The standard Java libraries are "
 "nonfree also. We do have free implementations of Java, such as the <a href="
@@ -251,7 +251,7 @@ msgstr ""
 "gèrent pas encore toutes les fonctionnalités. Nous sommes encore en train de "
 "rattraper le retard."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If you develop a Java program on Sun's Java platform, you are liable to use "
 "Sun-only features without even noticing. By the time you find this out, you "
@@ -268,7 +268,7 @@ msgstr ""
 "votre programme sera tombé dans le piège Java ; il sera inutilisable dans le "
 "monde du Libre."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The reliable way to avoid the Java Trap is to have only a free "
 "implementation of Java on your system. Then if you use a Java feature or "
@@ -281,7 +281,7 @@ msgstr ""
 "encore, vous vous en rendrez compte immédiatement et vous pourrez réécrire "
 "ce code tout de suite."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Sun continues to develop additional &ldquo;standard&rdquo; Java libraries, "
 "and nearly all of them are nonfree; in many cases, even a library's "
@@ -303,7 +303,7 @@ msgstr ""
 "final/jsr129/j2me_pb-1_0-fr-spec-license.html\"><i>J2ME&trade; Personal "
 "Basis Profile Specification</i></a>)."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Fortunately, that specification license does permit releasing an "
 "implementation as free software; others who receive the library can be "
@@ -321,7 +321,7 @@ msgstr ""
 "L'utilisation d'un tel modèle impliquerait la parution de versions "
 "incomplètes, ce qui est interdit aux personnes ayant lu les spécifications."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "In the early days of the free software movement, it was impossible to avoid "
 "depending on nonfree programs. Before we had the GNU C compiler, every C "
@@ -353,7 +353,7 @@ msgstr ""
 "système GNU/Linux, nous pouvons à présent exécuter ces programmes sur des "
 "plateformes libres."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The situation is different today. We now have powerful free operating "
 "systems and many free programming tools. Whatever job you want to do, you "
@@ -371,7 +371,7 @@ msgstr ""
 "vient pas à l'esprit. La plus simple des solutions concernant le piège Java "
 "est d'apprendre aux gens à ne pas tomber dedans."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "To keep your Java code safe from the Java Trap, install a free Java "
 "development environment and use it. More generally, whatever language you "
@@ -392,7 +392,7 @@ msgstr ""
 "pouvez vérifier si la licence qui l'accompagne est dans la <a href=\"/"
 "licenses/license-list.html\">liste des licences de logiciel libre</a>."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "We are trying to rescue the trapped Java programs, so if you like the Java "
 "language, we invite you to help in developing GNU Classpath. Trying your "

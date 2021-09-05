@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: when-free-depends-on-nonfree.html\n"
 "Report-Msgid-Bugs-To: trad-gnu@april.org\n"
-"POT-Creation-Date: 2021-07-16 13:56+0000\n"
+"POT-Creation-Date: 2021-09-05 10:26+0000\n"
 "PO-Revision-Date: 2021-07-16 16:23+0200\n"
 "Last-Translator: sogal <sogal@member.fsf.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -34,7 +34,7 @@ msgstr "Quand le logiciel libre dépend du logiciel privateur"
 msgid "by Richard Stallman"
 msgstr "par Richard Stallman"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "When a program is free software (free as in freedom), that means it gives "
 "users <a href=\"/philosophy/free-sw.html\">the four freedoms</a>, so that "
@@ -53,7 +53,7 @@ msgstr ""
 "vise à décrire un problème subtil dans lequel la mise à jour d'un programme "
 "libre requiert l'usage d'un programme privateur."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If the free program's use depends unavoidably on another program which is "
 "nonfree, we say that the free program is &ldquo;trapped.&rdquo; Its code is "
@@ -69,7 +69,7 @@ msgstr ""
 "éthiques. Mais vous ne devez pas <em>exécuter</em> le programme piégé, car "
 "cela implique d'abdiquer votre liberté en faveur du programme privateur."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Someone who upholds the principles of free software would not knowingly make "
 "a program that is trapped. However, many free programs are developed by "
@@ -81,7 +81,7 @@ msgstr ""
 "sont développés par des gens ou des entreprises qui ne soutiennent pas "
 "particulièrement ces principes ou qui ne comprennent pas le problème."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Dependence on a nonfree program can take various forms. The most basic form "
 "is when the programming language used has no free implementation. The first "
@@ -102,7 +102,7 @@ msgstr ""
 "ancienne et nous avons désormais des compilateurs et des plateformes libres "
 "pour tous les langages utilisés pour écrire des logiciels libres."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "We can release the program from this kind of trap by translating it to "
 "another language, or by releasing a free implementation of the language it's "
@@ -116,7 +116,7 @@ msgstr ""
 "disponible, cela a sorti tous les programmes libres écrits en Java du <a "
 "href=\"/philosophy/java-trap.html\">piège Java</a>."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "This kind of dependence is conceptually simple because it stems from the "
 "situation at one given instant in time. At time T, free program P won't run "
@@ -128,7 +128,7 @@ msgstr ""
 "pas s'exécuter sans la plateforme privatrice Q. En termes linguistiques, on "
 "dira que cette relation est « synchronique »."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "More recently, we have seen another kind of dependence in database programs, "
 "where you can build and run any given version of the program in the free "
@@ -140,7 +140,7 @@ msgstr ""
 "quelle version librement, mais dont la mise à jour de la version N vers la "
 "version N+1 nécessite un logiciel privateur."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "This happens because the internal format of the database changes from "
 "version N to version N+1. If you have been seriously using version N, you "
@@ -153,7 +153,7 @@ msgstr ""
 "format N. Afin de procéder à la mise à jour vers la version N+1 de ce "
 "logiciel, vous devez reformater votre base de données."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If the way you are supposed to do this is by running a proprietary database "
 "reformat program, or using the developer's service which is SaaSS (<a href="
@@ -179,7 +179,7 @@ msgstr ""
 "nous pouvons donc dire qu'il est piégé de manière « diachronique », pour "
 "emprunter un autre terme linguistique."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "For example, the program OpenERP (since renamed &ldquo;Odoo&rdquo;), though "
 "free, is diachronically trapped. <a href=\"/software/health/\">GNU Health</"
@@ -204,7 +204,7 @@ msgstr ""
 "Falcón a réécrit GNU Health afin qu'il utilise <a href=\"https://www.tryton."
 "org\">Tryton</a> à la place."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Using SaaSS is inherently equivalent to running a proprietary program with "
 "snooping functionality and a universal back door. The service could keep a "
@@ -226,7 +226,7 @@ msgstr ""
 "ou des crackers de sécurité informatique (<a href=\"https://stallman.org/"
 "articles/on-hacking.html\">merci de ne pas les appeler « hackers »</a>)."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "When a program is diachronically trapped, releasing it from the trap "
 "requires more than a one-time job of programming. Rather, the job has to be "
@@ -245,7 +245,7 @@ msgstr ""
 "refusant d'utiliser le logiciel piégé jusqu'à ce qu'elle obtempère. Vu la "
 "difficulté de libérer le programme, mieux vaut ne pas l'utiliser du tout."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "It is possible to try out a diachronically trapped free program without "
 "nonfree software, but if you're going to do more than dabble, you must steer "
