@@ -7,67 +7,67 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ms-doj-tunney.html\n"
-"POT-Creation-Date: 2014-03-18 05:25+0000\n"
-"PO-Revision-Date: 2020-12-06 19:30+0100\n"
+"POT-Creation-Date: 2021-09-09 20:25+0000\n"
+"PO-Revision-Date: 2021-09-10 10:35+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 "X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid ""
-"FSF Statement in Response to Proposed Revised Final Judgment in Microsoft "
-"vs. United States - GNU Project - Free Software Foundation"
+"FSF Statement in Response to Proposed Revised Final Judgment in Microsoft v. "
+"United States - GNU Project - Free Software Foundation"
 msgstr ""
 "Déclaration de la FSF en réponse à la proposition de jugement définitif "
 "révisé dans le procès Microsoft contre les États-Unis - Projet GNU - Free "
 "Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid ""
-"FSF Statement in Response to Proposed Revised Final Judgment in Microsoft "
-"vs. United States"
+"FSF Statement in Response to Proposed Revised Final Judgment in Microsoft v. "
+"United States"
 msgstr ""
 "Déclaration de la FSF en réponse à la proposition de jugement définitif "
 "révisé dans le procès Microsoft contre les États-Unis"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "January 28, 2002"
 msgstr "Le 28 janvier 2002"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "Renata B. Hesse"
 msgstr "Renata B. Hesse"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "Antitrust Division"
 msgstr "Antitrust Division"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "U.S. Department of Justice"
 msgstr "U.S. Department of Justice"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "601 D Street NW"
 msgstr "601 D Street NW"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "Suite 1200"
 msgstr "Suite 1200"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "Washington, DC 20530-0001"
 msgstr "Washington, DC 20530-0001"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Dear Ms Hesse,"
 msgstr "Chère Mme Hesse,"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I am Professor of Law at Columbia University Law School in New York, and "
 "General Counsel (<i>pro bono publico</i>) of the Free Software Foundation, a "
@@ -86,7 +86,7 @@ msgstr ""
 "jugement définitif révisé (nommé ci-après le « règlement judiciaire ») de "
 "<i>United States v. Microsoft Corp</i>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The remedies sought to be effected in the Settlement are, in their broad "
 "outline, appropriate and reasonable measures for the abatement of the "
@@ -111,7 +111,7 @@ msgstr ""
 "rectifier certains détails uniquement favorables à l'objectif du défendeur "
 "de continuer son monopole illégal."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Defendant&mdash;in the interest of continuing unabated its illegal "
 "monopoly&mdash;has artfully drafted certain clauses of the Settlement so as "
@@ -125,7 +125,7 @@ msgstr ""
 "véritablement aider à corriger son erreur, mais de fait en favorisant de "
 "façon voilée sa poursuite."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The District Court found that the Defendant had illegally maintained a "
 "monopoly in the market for Intel-compatible PC operating systems. (Findings "
@@ -149,7 +149,7 @@ msgstr ""
 "les systèmes d'exploitation du défendeur (Constatation des faits, &para; 80 "
 "et suivants)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The Settlement accordingly makes appropriate provision to require Microsoft "
 "to provide access to full and complete technical information about its APIs "
@@ -163,7 +163,7 @@ msgstr ""
 "défendeur d'ériger des barrières artificielles et illégales à l'entrée dans "
 "le marché monopolisé."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But the precise terms of the Settlement create a series of artful technical "
 "loopholes vitiating the primary intention."
@@ -171,11 +171,11 @@ msgstr ""
 "Mais les termes précis du règlement judiciaire créent une série "
 "d'échappatoires astucieuses qui vicient l'intention initiale."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Section III(D) provides that:"
 msgstr "La section III(D) stipule que :"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "Starting at the earlier of the release of Service Pack 1 for Windows XP or "
 "12 months after the submission of this Final Judgment to the Court, "
@@ -200,7 +200,7 @@ msgstr ""
 "i> de Microsoft pour interopérer avec un composant du système d'exploitation "
 "Windows, ainsi que les documentations associées."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The &ldquo;sole purpose&rdquo; requirement means that Defendant does not "
 "have to make any such API information available to developers of software "
@@ -233,7 +233,7 @@ msgstr ""
 "applications avec les produits du défendeur, pour également interopérer avec "
 "son propre système d'exploitation concurrent."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What should be a provision requiring Defendant to share information with "
 "potential competitors in the monopolized market turns out, after Defendant's "
@@ -251,7 +251,7 @@ msgstr ""
 "(E), pervertissant ainsi de manière similaire l'intention du règlement "
 "judiciaire au regard des protocoles de communications."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Defendant has not merely engaged in this undertaking with a goal to the "
 "exclusion of potential future competitors from the monopolized market. In "
@@ -266,7 +266,7 @@ msgstr ""
 "lois antitrust ait été démontré, le défendeur essaie dans le jugement même "
 "qui lui est adressé d'exclure du marché son plus vigoureux concurrent."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Defendant's most significant present challenger in the Intel-compatible PC "
 "operating systems market is the collection of &ldquo;free software,&rdquo; "
@@ -293,7 +293,7 @@ msgstr ""
 "fonctionnent sur presque toutes les architectures d'ordinateurs numériques, "
 "y compris les PC compatibles Intel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Through one such free software component, an operating system &ldquo;"
 "kernel&rdquo; called Linux, written by thousands of individuals and "
@@ -316,7 +316,7 @@ msgstr ""
 "base de serveurs installée aux États-Unis selon des observateurs "
 "indépendants de cette industrie."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The District Court found that &ldquo;by itself, Linux's open-source "
 "development model shows no signs of liberating that operating system from "
@@ -343,7 +343,7 @@ msgstr ""
 "de systèmes d'exploitation libres doivent être capables d'interopérer avec "
 "l'« énorme réservoir » d'applications de Windows."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There is no inherent barrier to such interoperation, only an artificial "
 "barrier illegally erected by Defendant. If Defendant were required to "
@@ -372,7 +372,7 @@ msgstr ""
 "concurrent est et continuerait à être disponible à des prix symboliques "
 "(Constatation des faits, 5 novembre 1999, &para; 50)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "That would be too effective a form of competition, from the Defendant's "
 "point of view. For this reason, Defendant has included in the Settlement the "
@@ -406,7 +406,7 @@ msgstr ""
 "systèmes d'exploitation Windows, soit des applications écrites pour "
 "interopérer avec les systèmes d'exploitation Windows."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For the same reason, Defendant's attempt to continue denying the free "
 "software development community access to its APIs through the imposition of "
@@ -435,7 +435,7 @@ msgstr ""
 "grand nombre de programmes de grande qualité et interopérables, destinés à "
 "une distribution libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "By authorizing Defendant to engage in non-reciprocity by charging royalties "
 "for the same information about its programs, thus purposefully ousting "
@@ -467,7 +467,7 @@ msgstr ""
 "termes réciproques de ceux que ses concurrents utilisent pour leurs propres "
 "API."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In one additional provision Defendant has attempted to subvert the intention "
 "of the Settlement in order to preclude effective competition by the Intel-"
@@ -501,7 +501,7 @@ msgstr ""
 "briques de base de tout système de commerce électronique) peuvent être "
 "gardés secrets."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "At present, all such protocols and APIs are public, which is appropriate "
 "because&mdash;as computer security experts would testify if, as it should, "
@@ -520,7 +520,7 @@ msgstr ""
 "référencés et totalement publics, dont la sécurité a été totalement éprouvée "
 "dans les communautés de scientifiques et d'ingénieurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If this provision were enforced as currently drafted, Defendant could "
 "implement new private protocols, extending or replacing the existing public "
@@ -551,7 +551,7 @@ msgstr ""
 "avec la loi, tout en se préparant à duper ses concurrents lésés en les "
 "privant de leur juste réparation."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The Free Software Foundation not only authors and distributes the GNU "
 "General Public License, and in other ways facilitates the making of free "
@@ -581,11 +581,11 @@ msgstr ""
 "concurrence effective, serait une parodie. Nous vous demandons donc "
 "instamment d'amender le règlement judiciaire ainsi que nous l'avons décrit."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Very truly yours,"
 msgstr "Très sincèrement vôtre,"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Eben Moglen"
 msgstr "Eben Moglen"
 
@@ -615,14 +615,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -633,19 +633,19 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2002 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2002 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2002, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2002, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

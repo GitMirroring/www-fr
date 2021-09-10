@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-world-notes.html\n"
-"POT-Creation-Date: 2019-08-03 14:55+0000\n"
-"PO-Revision-Date: 2020-12-06 17:36+0100\n"
+"POT-Creation-Date: 2021-09-09 20:25+0000\n"
+"PO-Revision-Date: 2021-09-10 10:35+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -21,35 +21,25 @@ msgstr ""
 msgid "Free World Notes - GNU Project - Free Software Foundation"
 msgstr "Notes sur le monde du Libre - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Free World Notes"
 msgstr "Notes sur le monde du Libre"
 
-#. type: Content of: <blockquote><p>
-msgid ""
-"This file contains supplemental notes to the manifesto &ldquo;Only the Free "
-"World Can Stand Up to Microsoft&rdquo;, currently published at <a href=\"/"
-"philosophy/free-world.html\"> http://www.gnu.org/philosophy/free-world.html</"
-"a>."
-msgstr ""
-"Ce fichier contient des notes complétant le manifeste « Seul le monde du "
-"Libre peut tenir tête à Microsoft » publié actuellement sur <a href=\"/"
-"philosophy/free-world.html\">http://www.gnu.org/philosophy/free-world.html</"
-"a>."
+#. type: Content of: <div><address>
+msgid "by Tom Hull <a id=\"hull-rev\" href=\"#hull\"><sup>[*]</sup></a>"
+msgstr "par Tom Hull <a id=\"hull-rev\" href=\"#hull\"><sup>[*]</sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"You may write the author, Tom Hull <a href=\"mailto:ftwalk@contex.com\">&lt;"
-"ftwalk@contex.com&gt;</a>. Hull is also the author of the Ftwalk programming "
-"language, a script programming language which is free software available for "
-"Unix systems."
+"This page contains supplemental notes to the manifesto &ldquo;<a href=\"/"
+"philosophy/free-world.html\">Only the Free World Can Stand Up to Microsoft</"
+"a>.&rdquo;"
 msgstr ""
-"Vous pouvez écrire à l'auteur, Tom Hull <a href=\"mailto:ftwalk@contex.com"
-"\">&lt;ftwalk@contex.com&gt;</a>. Hull est aussi l'auteur du langage de "
-"programmation Ftwalk, un langage de script fait de logiciel libre, "
-"disponible pour les systèmes Unix."
+"Cette page contient des notes complétant le manifeste « <a href=\"/"
+"philosophy/free-world.html\">Seul le monde du Libre peut tenir tête à "
+"Microsoft</a> »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In general, this critique reflects a more general line of thought, which is "
 "based on the recognition that the inefficiencies and ulterior motives in our "
@@ -74,11 +64,11 @@ msgstr ""
 "groupe de gens, et dans une certaine mesure ne fait qu'élaborer sur un "
 "travail déjà effectué par différentes personnes et différents groupes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Some paragraph notes:"
 msgstr "Notes sur chaque paragraphe :"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "Commercial software companies typically divide their costs into several "
 "sectors: development; manufacturing; marketing/sales; service; general and "
@@ -97,7 +87,7 @@ msgstr ""
 "ce même client de payer très cher pour quelque chose qui coûte très peu à "
 "développer et pratiquement rien à reproduire et à livrer.<br/><br/>"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "More expensive software often includes after-the-sale service, which should "
 "be considered a marketing/sales cost, since it props up an extravagant price "
@@ -114,7 +104,7 @@ msgstr ""
 "l'aide de manière indépendante, puisque le fonctionnement interne du "
 "logiciel est porté à la connaissance de tous.<br/><br/>"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "Media companies have comparable cash flows, but necessarily work within the "
 "technical standards of their media. Consuming their products does not in any "
@@ -125,7 +115,7 @@ msgstr ""
 "Consommer leurs produits n'empêche ni ne décourage personne de consommer les "
 "produits concurrents.<br/><br/>"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "Microsoft likes to expand its operating system to eliminate the market for "
 "add-on software, such as for disk compression and networking. Microsoft's "
@@ -136,7 +126,7 @@ msgstr ""
 "gestion du réseau. L'affirmation de Microsoft qu'IE fait partie du système "
 "d'exploitation est infondée, cela saute aux yeux.<br/><br/>"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "Microsoft's dominance is at least partly due to the lack of any significant "
 "challengers. Apple and IBM used their operating systems to lock customers "
@@ -157,7 +147,7 @@ msgstr ""
 "longtemps Microsoft restera sans concurrent sérieux, plus difficile ce sera "
 "de développer une telle concurrence.<br/><br/>"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "The last sentence is a slight exaggeration. Many capitalists do in fact "
 "realize that they will never be in the position to wield the sort of power "
@@ -169,7 +159,7 @@ msgstr ""
 "de pouvoir que possède Microsoft, et par conséquent n'ont pas l'usage de la "
 "mégalomanie qui va avec ce pouvoir.<br/><br/>"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "The main point, however, is that under current circumstances no sane "
 "investor will directly challenge Microsoft. The cases in other industries "
@@ -186,7 +176,7 @@ msgstr ""
 "d'abandonner toute la marge d'exploitation, position qu'aucun investisseur "
 "ne prendra.<br/><br/>"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "Antitrust laws work more for the protection of other businesses than to "
 "protect consumer interests, although consumers generally do benefit from "
@@ -205,7 +195,7 @@ msgstr ""
 "augmenter ses prix à cause de la concurrence de Microsoft, ce qui en quelque "
 "sorte est une aubaine pour les consommateurs.<br/><br/>"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "We talk much about the advantages of &ldquo;letting the market decide,"
 "&rdquo; but most business activity is oriented toward rigging the market.  "
@@ -221,7 +211,7 @@ msgstr ""
 "élimine les profits et que les sociétés prospères sont celles qui évitent la "
 "concurrence, ou du moins sont en mesure de dicter ses conditions.<br/><br/>"
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><ol><li><p>
 msgid ""
 "The key thing here is that the free software must have at least the same "
 "level of quality and utility as the commercial software that it challenges, "
@@ -239,7 +229,7 @@ msgstr ""
 "organisations bien financées et pourra attirer des travailleurs de qualité "
 "et subvenir à leurs besoins.<br/>"
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><ol><li><p>
 msgid ""
 "Of course, Microsoft (and all other commercial software companies so "
 "threatened) will do their best to compete with free software, and can be "
@@ -275,7 +265,7 @@ msgstr ""
 "rendre la migration difficile ; beaucoup de gens continuent à considérer le "
 "logiciel commercial comme une bonne affaire, dans un certain sens."
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><ol><li><p>
 msgid ""
 "One issue that needs to be recognized and understood is the notion that free "
 "software, openly published in source form and freely inspected by anyone who "
@@ -296,7 +286,7 @@ msgstr ""
 "sites de Microsoft, qui installe les préférences et les réglages par défaut "
 "déterminés par les machinations commerciales de Microsoft."
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><ol><li><p>
 msgid ""
 "Sometimes I wonder whether Microsoft's underlying goal isn't simply to make "
 "the world safe for computer viruses. I'm not an especially paranoid person, "
@@ -306,7 +296,7 @@ msgstr ""
 "simplement de faire du monde un havre de paix pour les virus informatiques. "
 "Je ne suis pas spécialement paranoïaque, mais comment le savoir ?"
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><ol><li><p>
 msgid ""
 "Consumers nowadays are so often (and so effectively) fleeced that there is "
 "much resistance to paying for something you can get away with not paying "
@@ -323,7 +313,7 @@ msgstr ""
 "d'attendre que quelqu'un d'autre le finance ? » Mais si chacun attend, "
 "personne n'en bénéficiera.<br/>"
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><ol><li><p>
 msgid ""
 "There are other ways to handle this level of funding, such as imposing taxes "
 "on computer hardware (sort of like the gas tax is used to build roads) or "
@@ -345,7 +335,7 @@ msgstr ""
 "contestés et entravés. J'aurais tendance à démarrer petit, de manière "
 "volontaire, pour voir jusqu'où la raison et la politesse nous mèneront."
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><ol><li><p>
 msgid ""
 "It should also be emphasized that there is at present a substantial amount "
 "of free software already written and available, and that there are many "
@@ -361,7 +351,7 @@ msgstr ""
 "financement de son développement, et un système fort et cohérent pour "
 "recueillir les commentaires et les directives des utilisateurs."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "I would estimate that free software can be developed to quality standards "
 "that meet/exceed commercial software for less than 25% of the price of "
@@ -384,7 +374,7 @@ msgstr ""
 "vente des nouveaux), le coût du logiciel libre va diminuer avec le temps, "
 "fortement sauf dans les cas où de nouveaux besoins se feront jour.<br/><br/>"
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><ol><li><p>
 msgid ""
 "Much of this work is already being done. What's missing is not so much the "
 "people or even the organization as a coherent sense of the economic "
@@ -413,7 +403,7 @@ msgstr ""
 "commercial quand leurs talents et leur travail sont immédiatement "
 "nécessaires aux utilisateurs ?<br/>"
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><ol><li><p>
 msgid ""
 "The argument that large companies (government, any organization that spends "
 "serious money on software) should routinely support free software "
@@ -431,7 +421,7 @@ msgstr ""
 "logiciel commercial. C'est un pari gagnant/gagnant : logiciel libre, "
 "logiciel moins cher, plus d'options, plus de concurrence."
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><ol><li><p>
 msgid ""
 "It is completely obvious that free software organizations must be "
 "international in scope. It seems likely that most of the support for free "
@@ -442,7 +432,7 @@ msgstr ""
 "viendra essentiellement de l'extérieur des États-Unis, peut-être dans une "
 "proportion écrasante."
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><ol><li><p>
 msgid ""
 "This proposal does not dispute the rights of intellectual property owners. "
 "Under this proposal it should be possible to buy or license technology where "
@@ -457,7 +447,7 @@ msgstr ""
 "au monde du Libre. Que les droits de propriété aient, ou non, la moindre "
 "utilité pratique pour encourager l'innovation est un autre débat."
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><ol><li><p>
 msgid ""
 "Another aspect of this proposal is that it does not try to kill off the "
 "profit motive in software development. As I envision it, most of the free "
@@ -481,7 +471,7 @@ msgstr ""
 "partagées, telles que le capital et les services, ce qui éviterait aux "
 "petites sociétés de devoir aller au-delà de leurs moyens)."
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><ol><li><p>
 msgid ""
 "My proposal is that free software will start out aiming to produce the most "
 "basic and most broadly used software: it will in effect harvest the &ldquo;"
@@ -513,7 +503,7 @@ msgstr ""
 "objectif de développer et de populariser de nouveaux produits qui pourront "
 "être cédés au marché libre."
 
-#. type: Content of: <ol><li><p>
+#. type: Content of: <div><ol><li><p>
 msgid ""
 "Finally, I believe that no restrictions should be placed on the use of free "
 "software: that it can be repackaged, sold, incorporated into commercial "
@@ -543,7 +533,7 @@ msgstr ""
 "réappropriation partielle de cette jungle pour l'usage et le mieux-être de "
 "chacun."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This implies, of course, that (following the Reagan demonology)  Microsoft "
 "et al. are &ldquo;The Evil Empire.&rdquo; That's a joke, of course, but if "
@@ -553,6 +543,18 @@ msgstr ""
 "Microsoft et coll. sont « l'Empire du Mal ». C'est une plaisanterie, bien "
 "sûr, mais elle ne serait pas drôle si elle ne comportait pas un soupçon de "
 "vérité."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<a id=\"hull\" href=\"#hull-rev\">[*]</a> You may contact Tom Hull at <a "
+"href=\"mailto:ftwalk@contex.com\">&lt;ftwalk@contex.com&gt;</a>. He is also "
+"the author of the Ftwalk programming language, a script programming "
+"language, which is free software available for Unix systems."
+msgstr ""
+"<a id=\"hull\" href=\"#hull-rev\">[*]</a> Vous pouvez contacter Tom Hull à "
+"<a href=\"mailto:ftwalk@contex.com\">&lt;ftwalk@contex.com&gt;</a>. Il est "
+"aussi l'auteur du langage de programmation Ftwalk, un langage de script fait "
+"de logiciel libre, disponible pour les systèmes Unix."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -589,14 +591,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="

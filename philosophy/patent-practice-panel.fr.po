@@ -9,13 +9,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: patent-practice-panel.html\n"
-"POT-Creation-Date: 2014-03-14 04:34+0000\n"
-"PO-Revision-Date: 2020-12-07 12:06+0100\n"
+"POT-Creation-Date: 2021-09-09 21:25+0000\n"
+"PO-Revision-Date: 2021-09-10 10:35+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  \n"
 "X-Generator: Gtranslator 2.91.5\n"
@@ -28,7 +28,7 @@ msgstr ""
 "Présentation de Daniel Ravicher à la table ronde de la FFII - Projet GNU - "
 "Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid ""
 "New Developments in Patent Practice: Assessing the Risks and Cost of "
 "Portfolio Licensing and Hold-ups"
@@ -37,27 +37,26 @@ msgstr ""
 "et les coûts d'un portefeuille de licences et des hold-ups dont il fait "
 "l'objet"
 
-#. type: Content of: <p>
-msgid "by <strong>Daniel B. Ravicher</strong>"
-msgstr "par <strong>Daniel B. Ravicher</strong>"
+#. type: Content of: <div><address>
+msgid "by Daniel B. Ravicher"
+msgstr "par Daniel B. Ravicher"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"<em>This is a transcript of a panel presentation given by Daniel B.  "
-"Ravicher as the executive director of the Public Patent Foundation on "
-"Wednesday, November 10, 2004, at a conference organized by the Foundation "
-"for a Free Information Infrastructure (FFII) in Brussels, Belgium. The "
-"transcription was done by Aendrew Rininsland.</em>"
+"This is a transcript of a panel presentation given by Daniel B.  Ravicher as "
+"the executive director of the Public Patent Foundation on Wednesday, "
+"November 10, 2004, at a conference organized by the Foundation for a Free "
+"Information Infrastructure (FFII) in Brussels, Belgium. The transcription "
+"was done by Aendrew Rininsland."
 msgstr ""
-"<em>Ceci est la transcription d'une présentation donnée par Daniel B. "
-"Ravicher en tant que directeur exécutif de la </em>Public Patent "
-"Foundation<em> (Fondation publique pour les brevets) le mercredi "
-"10 novembre 2004, à une conférence organisée par la </em>Foundation for a "
-"Free Information Infrastructure<em> (Fondation pour une Infrastructure "
-"d'Information Libre) à Bruxelles (Belgique). La transcription a été faite "
-"par Ændrew Rininsland.</em>"
+"Ceci est la transcription d'une présentation donnée par Daniel B. Ravicher "
+"en tant que directeur exécutif de la <i>Public Patent Foundation</i> "
+"(Fondation publique pour les brevets) le mercredi 10 novembre 2004, à une "
+"conférence organisée par la <i>Foundation for a Free Information "
+"Infrastructure</i> (Fondation pour une Infrastructure d'Information Libre) à "
+"Bruxelles (Belgique). La transcription a été faite par Ændrew Rininsland."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Thanks. I think, for me, the whole two days of conferences boils to really "
 "one question, and the whole debate boils down to one question: &ldquo;How do "
@@ -68,7 +67,7 @@ msgstr ""
 "seule question : « Comment voulons-nous déterminer la réussite dans "
 "l'industrie du logiciel ? »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Or, another way, who do we want to determine those who succeed and those who "
 "fail in the software industry? Because there are various people who can make "
@@ -77,7 +76,7 @@ msgid ""
 "fails. If we want software to succeed because we want it to succeed on its "
 "merits and be the best software that the public can have, it's more likely "
 "we want a system that lets consumers and end-users make the decision about "
-"which software is selected &mdash; not bureaucrats."
+"which software is selected&mdash;not bureaucrats."
 msgstr ""
 "Ou, autrement dit, qui voulons-nous pour déterminer ceux qui réussissent et "
 "ceux qui échouent dans l'industrie du logiciel ? Parce qu'il y a diverses "
@@ -90,7 +89,7 @@ msgstr ""
 "laisse aux consommateurs et aux utilisateurs les décisions quant au choix "
 "des logiciels – pas aux bureaucrates."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now, what does that have to do with patents? The larger you make a patent "
 "system, the more you allow the patent system to impact software, and the "
@@ -111,16 +110,16 @@ msgstr ""
 "consommateurs. Elle diminue la probabilité que les mérites soient "
 "déterminants dans le succès de tel ou tel logiciel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We have to recognize that even without software patents, large developers "
 "have intrinsic advantages over small developers. Large developers have the "
 "resources, large developers have the relationships, large developers have "
 "the distribution channels, large developers have the brand. So even without "
-"software patents, large developers are still at an advantage &mdash; they "
+"software patents, large developers are still at an advantage&mdash;they "
 "start out at an advantage. Well, then, the next question to me is, &ldquo;If "
 "we have software patents, does that increase the advantage of large "
-"developers or decrease it?&rdquo;, because the patent system could benefit "
+"developers or decrease it?&rdquo; because the patent system could benefit "
 "small developers and therefore that could erode some of the naturally "
 "existing benefits that large corporations have."
 msgstr ""
@@ -136,7 +135,7 @@ msgstr ""
 "brevets pourrait bénéficier aux petits développeurs et donc pourrait éroder "
 "certains des avantages qu'ont naturellement les grandes sociétés."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I think that point's been belaboured already. We know that small developers "
 "are not benefited by a patent system, in fact, they are prejudiced by a "
@@ -158,7 +157,7 @@ msgstr ""
 "les sociétés à qui les brevets sont accordés et sur les gagnants dans les "
 "affaires de violation de brevets ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The other thing we need to recognize is whether or not the patent system has "
 "a preference for users of certain types of software. A patent system as we "
@@ -190,7 +189,7 @@ msgstr ""
 "à un consommateur s'il s'est assuré contre des poursuites pour violation de "
 "brevets, il dirait qu'il ne pense pas l'avoir fait."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But in fact they had, because if someone sues a user of Microsoft software, "
 "Microsoft has built in the cost of stepping in to defend them from that into "
@@ -219,7 +218,7 @@ msgstr ""
 "utilisateurs de logiciels privateurs aux utilisateurs de logiciels open "
 "source."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If we come back to the initial question, which I think this is all about, "
 "how do we want success in the software market to be determined? Do we want "
@@ -232,11 +231,11 @@ msgstr ""
 "ou voulons-nous qu'il soit déterminé par l'obtention du meilleur logiciel au "
 "meilleur prix ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now, I think it's important to concede the point that people on the other "
 "side will make, which is, will a less-onerous patent system, or they would "
-"call it a &lsquo;less-beneficial&rsquo; patent system, I call it less-"
+"call it a &ldquo;less-beneficial&rdquo; patent system, I call it less-"
 "onerous, will harm their business, because people could copy them. Well, "
 "large businesses aren't worried about being copied. They really aren't. At "
 "least not by other large businesses, this is why they enter into cross-"
@@ -250,13 +249,13 @@ msgstr ""
 "inquiètent vraiment pas. Du moins pas par d'autres grandes entreprises, "
 "c'est pourquoi elles font des licences croisées tout le temps."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If a large company really didn't want its software to be copied, why is it "
 "licensing its patent portfolio to every other big company in the world? "
 "Because it can't stop them from copying it once they enter into that "
-"agreement, so this argument that , &ldquo;Well, we're worried about people "
-"copying our software&rdquo;, the most likely people to copy your software "
+"agreement, so this argument that, &ldquo;Well, we're worried about people "
+"copying our software,&rdquo; the most likely people to copy your software "
 "are other large businesses because they have the resources and the ability "
 "and the distribution channels and the brand and the relationships. Why are "
 "you letting them copy it? You must not be that worried about it."
@@ -272,7 +271,7 @@ msgstr ""
 "relations. Pourquoi les laissez-vous les copier ? Ça ne doit pas vous "
 "inquiéter tant que ça."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And so the question is, then, does a patent system have a net-beneficial "
 "effect or a net-detrimental effect on software development? I think we've "
@@ -300,7 +299,7 @@ msgstr ""
 "lancer cette idée à quelqu'un, les brevets logiciels ont un effet net "
 "négatif sur la concurrence dans l'industrie du logiciel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "True, they may increase competition in some ways, but the net-effect is anti-"
 "competitive. And that's what putting the ability to decide success in the "
@@ -310,8 +309,8 @@ msgid ""
 "successful software company, I don't think anyone would debate that. They've "
 "never had to sue anyone for patent infringement. So they claim they need "
 "patents, but yet they've never had to use them. They cross-license them and "
-"that's where we wonder, &lsquo;If you're worried about people copying, then "
-"why are you cross-licensing them to people?&rsquo;."
+"that's where we wonder, &ldquo;If you're worried about people copying, then "
+"why are you cross-licensing them to people?&rdquo;"
 msgstr ""
 "C'est vrai, ils peuvent augmenter la concurrence de certaines façons, mais "
 "l'effet net est anticoncurrentiel. Et c'est ce qui se passe quand on met la "
@@ -326,15 +325,15 @@ msgstr ""
 "et c'est là que nous nous demandons : « Si vous vous inquiétez que des "
 "personnes copient, alors pourquoi faire des licences croisées avec elles ? »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You know, the last point is, who else does a patent system benefit? If it "
 "benefits large developers over small developers, is there anyone else? A "
 "patent system benefits non-developers. Do we really want a bureaucratic "
 "system that helps people who aren't adding anything to society? What I mean "
-"by non-developers are trolls &mdash; which everyone here is familiar with "
-"&mdash; people who get a patent either by applying for it or acquiring it in "
-"some asset purchase and then use it to tax other developers, other "
+"by non-developers are trolls&mdash;which everyone here is familiar "
+"with&mdash;people who get a patent either by applying for it or acquiring it "
+"in some asset purchase and then use it to tax other developers, other "
 "distributors of a product."
 msgstr ""
 "Ce qui nous amène au dernier point : à qui d'autre un système de brevets "
@@ -347,7 +346,7 @@ msgstr ""
 "l'acquérant avec un certain achat de valeurs, et puis qui l'utilisent pour "
 "taxer d'autres développeurs, d'autres distributeurs d'un produit."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Do we really want a system which encourages people to not add products or "
 "services to the market place but only detracts from the profits and "
@@ -362,9 +361,9 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
 "<hr /><b>Note de traduction</b><ol>\n"
-"<li id=\"TransNote1\">Autre traduction de <i>proprietary</i> : "
-"propriétaire. <a href=\"#TransNote1-rev\" class=\"nounderline\">&#8593;</a></"
-"li></ol>"
+"<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"Autre traduction de <i>proprietary</i> : propriétaire.</li></ol>"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -387,14 +386,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="

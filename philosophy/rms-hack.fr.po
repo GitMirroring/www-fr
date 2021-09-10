@@ -8,13 +8,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: rms-hack.html\n"
-"POT-Creation-Date: 2014-03-14 04:35+0000\n"
-"PO-Revision-Date: 2020-12-07 12:06+0100\n"
+"POT-Creation-Date: 2021-09-09 20:26+0000\n"
+"PO-Revision-Date: 2021-09-10 10:35+0200\n"
 "Last-Translator: Denis Barbier <bouzim@gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  \n"
 
@@ -25,33 +25,27 @@ msgstr ""
 "Éthique et communauté du hacker : un entretien avec Richard M. Stallman - "
 "Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
+msgid "The Hacker Community and Ethics"
+msgstr "Éthique et communauté du hacker"
+
+#. type: Content of: <div><address>
+msgid "by Tere Vad&eacute;n and Richard Stallman"
+msgstr "par Tere Vadén et Richard Stallman"
+
+#. type: Content of: <div><div><p>
 msgid ""
-"The Hacker Community and Ethics: An Interview with Richard M. Stallman, 2002"
+"Transcript of an interview that took place in 2002.<a href=\"#pub\"><sup>[*]"
+"</sup></a>"
 msgstr ""
-"Éthique et communauté du hacker : un entretien avec Richard M. Stallman, 2002"
+"Transcription d'un entretien ayant eu lieu en 2002.<a href=\"#pub\"><sup>[*]"
+"</sup></a>"
 
-#. type: Content of: <p>
-msgid "by <strong>Richard Stallman</strong>"
-msgstr "par <strong>Richard Stallman</strong>"
-
-#. type: Content of: <p>
-msgid ""
-"<em>Published in Finnish in Tere Vad&eacute;n &amp; Richard M. Stallman: <a "
-"href=\"http://web.archive.org/web/20100807063010/http://www.uta.fi/%7Efiteva/"
-"koodivapaaksi.html\"> Koodi vapaaksi - Hakkerietiikan vaativuus</a>, Tampere "
-"University Press. 2002, sivut 62-80.</em>"
-msgstr ""
-"<em>Publié en finnois dans : Tere Vadén &amp; Richard M. Stallman, <a href="
-"\"http://web.archive.org/web/20100807063010/http://www.uta.fi/%7Efiteva/"
-"koodivapaaksi.html\">Koodi vapaaksi - Hakkerietiikan vaativuus</a>, Tampere "
-"University Press, 2002, pages 62-80.</em>"
-
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Hackerism"
 msgstr "Hackerisme"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Tere Vad&eacute;n (<b>TV</b>): One of the most striking features of your "
 "approach to the issues of technology and software and so on is that you "
@@ -71,7 +65,7 @@ msgstr ""
 "la technologie promeuvent-elles ? Ai-je raison de croire que vous pensez les "
 "problèmes éthiques en termes de communautés ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Richard M. Stallman (<b>RMS</b>): Yes. The way I reached my conclusions "
 "about which freedoms are essential for using software, and which kinds of "
@@ -85,7 +79,7 @@ msgstr ""
 "ou non, avec les modalités d'usage du logiciel qui sont nécessaires à une "
 "communauté viable."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> The idea of free software was born out of your experiences at "
 "<abbr title=\"Massachusetts Institute of Technology\"> MIT</abbr>, and how "
@@ -97,7 +91,7 @@ msgstr ""
 "dont cette communauté fut infiltrée, et dans un certain sens détruite, par "
 "des intérêts commerciaux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> Yes, that is correct. The hackers really enjoyed the freedom to "
 "share and change software; that was the basis for our free-wheeling "
@@ -107,13 +101,13 @@ msgstr ""
 "liberté de partager et modifier les logiciels : c'était la base de notre "
 "communauté insouciante."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> What does the word &lsquo;hacker&rsquo; mean to you, personally?"
 msgstr ""
 "<b>TV</b> : Que veut dire le mot « hacker » pour vous, personnellement ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> It means someone who enjoys playful cleverness, especially in "
 "programming but other media are also possible. In the 14th century, "
@@ -132,7 +126,7 @@ msgstr ""
 "sup></a> J'ai entendu dire quelque part que J. S. Bach a fait quelque chose "
 "de similaire. "
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "One possible arena for playful cleverness is breaking security. Hackers "
 "never had much respect for bureaucratic restrictions. If the computer was "
@@ -153,7 +147,7 @@ msgstr ""
 "tous les hackers ne déjouaient pas la sécurité, beaucoup ne s'y sont jamais "
 "intéressés. "
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "On the Incompatible Timesharing System, the operating system developed by "
 "the AI lab's hackers, we made it unnecessary to break security: we simply "
@@ -170,7 +164,7 @@ msgstr ""
 "un mécanisme de domination de la part des administrateurs. Aussi, nous ne "
 "leur en avons pas donné les moyens."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> How about the concepts of freedom and community? There's this "
 "idea that freedom to distribute ideas, thoughts, recipes and software "
@@ -183,10 +177,10 @@ msgstr ""
 "qui reposent sur des limitations commerciales imposées à la distribution et "
 "au partage."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> I think it is a mistake to label these restrictions as &ldquo;"
-"commercial&rdquo;, because that pertains to the motive for the "
+"commercial,&rdquo; because that pertains to the motive for the "
 "restrictions.  The same restrictions, if imposed for a different motive, "
 "would do the same harm. What matters is the restrictions, not the motive. "
 "Commercial software can be free or nonfree, just as noncommercial software "
@@ -199,7 +193,7 @@ msgstr ""
 "logiciel commercial peut être libre ou non, tout comme un logiciel non "
 "commercial peut être libre ou non. Cela ne dépend que de la licence."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> How would you delineate the distinction between the public "
 "(communal, freedom-based) and the commercial spheres?"
@@ -207,7 +201,7 @@ msgstr ""
 "<b>TV</b> : Comment définiriez-vous la distinction entre les sphères "
 "publique (communautaire, basée sur la liberté) et commerciale ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> Comparing free with commercial is like comparing happiness with "
 "purple. It doesn't make sense, because they are not answers to the same "
@@ -219,7 +213,7 @@ msgstr ""
 "question. Ce ne sont pas des alternatives. La comparaison significative est "
 "entre logiciel libre et non libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> It seems that the distinction between &ldquo;open source&rdquo; "
 "and &ldquo;free software&rdquo; is that the open source movement ultimately "
@@ -235,7 +229,7 @@ msgstr ""
 "libre est le non-intéressement, le non-utilitarisme ; la liberté est "
 "inviolable. Est-ce une interprétation correcte ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> More or less. I would say that freedom has value in itself, just "
 "as powerful reliable software does."
@@ -243,7 +237,7 @@ msgstr ""
 "<b>RMS</b> : Plus ou moins. Je dirais que la liberté a sa propre valeur, "
 "tout comme un logiciel puissant et fiable."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> But isn't there a problem here; one of the utilitarian "
 "calculations of &ldquo;open source&rdquo; is that it is more "
@@ -259,7 +253,7 @@ msgstr ""
 "adaptera l'open source jusqu'à un certain point, précisément le point où le "
 "rendre plus libre conduirait à une perte de rentabilité."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> I agree that it is wrong for these decisions (about your freedom "
 "and mine) to be made by the software developer for the sake of his profit, "
@@ -272,7 +266,7 @@ msgstr ""
 "moi, ne doit pas être conditionnée par une décision prise par un tiers "
 "quelconque dans son seul intérêt. "
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I am not going to condemn someone who does the right thing for the wrong "
 "reason, but it is true that relying on people to respect our freedom because "
@@ -286,7 +280,7 @@ msgstr ""
 "système fiable pour protéger notre liberté. C'est la raison pour laquelle "
 "nous devons réduire le pouvoir politique du commerce."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> The argument that a company would use, of course, is that the "
 "profit it creates ultimately benefits the whole society. How would you "
@@ -296,7 +290,7 @@ msgstr ""
 "le profit créé bénéficiera finalement à toute la société. Que répondez-vous "
 "à cela ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> That is a claim with no basis. A nonfree program can only "
 "benefit those who don't value their freedom, and thus serves as a temptation "
@@ -307,7 +301,7 @@ msgstr ""
 "ainsi de tentation pour que les personnes abandonnent leur liberté. C'est "
 "nocif pour la société."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> There is also this question of individual/private vs public/"
 "communal here. It is often in the interests of the individual to do "
@@ -317,7 +311,7 @@ msgstr ""
 "communautaire. Il est souvent dans l'intérêt de l'individu de faire quelque "
 "chose qui menace la communauté, qui menace la liberté."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> I know. This is why we need to think about right and wrong in "
 "making our decisions, and also the reason why societies have a notion of "
@@ -327,14 +321,14 @@ msgstr ""
 "pour prendre nos décisions, c'est aussi pourquoi les sociétés ont le concept "
 "de punir les actes qui nuisent à la collectivité."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> Now, somebody like Torvalds&mdash;and we don't necessarily have "
 "to use any names here&mdash;would probably share your enthusiasm about "
 "hackerism in the sense of playful cleverness, and would take that playful "
 "cleverness also to the area of being clever in making money and enjoying the "
 "good life. Actually that is what he hints at in a recent book called &ldquo;"
-"The Hacker Ethics&rdquo;."
+"The Hacker Ethics.&rdquo;"
 msgstr ""
 "<b>TV</b> : Quelqu'un comme Torvalds (et nous n'avons pas nécessairement à "
 "utiliser de nom, ici), partagerait probablement votre enthousiasme à propos "
@@ -344,7 +338,7 @@ msgstr ""
 "effectivement ce qu'il laisse entendre dans un livre récent appelé <cite>The "
 "Hacker Ethics</cite> (L'éthique du hacker)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> That is true. Just because someone enjoys hacking does not mean "
 "he has an ethical commitment to treating other people properly. Some hackers "
@@ -359,7 +353,7 @@ msgstr ""
 "Certains collectionneurs de timbres sont très concernés par l'éthique alors "
 "que d'autres non. C'est la même chose pour les hackers. "
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I agree with the person who said that there is no hacker ethic, but rather a "
 "hacker aesthetic."
@@ -367,7 +361,7 @@ msgstr ""
 "Je suis d'accord avec la personne qui a dit qu'il n'y avait pas d'éthique du "
 "hacker, mais plutôt une esthétique du hacker."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> Now, if one wants to avoid the negative consequences of the "
 "profit-oriented business, it feels that one has to give the individual a "
@@ -380,7 +374,7 @@ msgstr ""
 "intérêt. Et que cette chose, cette raison, devrait être dans la sphère "
 "publique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> Of course&mdash;but why are you treating this as if it were a "
 "new idea that can only be hinted at. This idea is thousands of years old. "
@@ -390,7 +384,7 @@ msgstr ""
 "d'une nouvelle idée que l'on pourrait seulement suggérer ? Cette idée a des "
 "milliers d'années. C'est l'idée de base de l'éthique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> The question about hacker aesthetics&mdash;as you explained, "
 "there is no special hacker ethics, because a hacker can act ethically or "
@@ -401,7 +395,7 @@ msgstr ""
 "peut agir de manière éthique, ou non ; rien dans le « hackerisme » n'oblige "
 "à un comportement éthique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> Hacking is not primarily about an ethical issue. It is an idea "
 "of what makes life meaningful. But he may be right that hacking tends to "
@@ -415,13 +409,13 @@ msgstr ""
 "la question éthique d'une certaine manière. Je ne voudrais pas complètement "
 "rejeter les relations entre hacking et visions de l'éthique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Although someone said that there was a hacker aesthetic rather than a hacker "
 "ethic, I think &ldquo;aesthetic&rdquo; is not quite the right word either.  "
 "An aesthetic is an idea of what is beautiful. This is an idea of what is "
 "exciting and meaningful. Is there a word for that? I can think of &ldquo;the "
-"hacker way&rdquo;, but that sounds rather pompous and new-age."
+"hacker way,&rdquo; but that sounds rather pompous and new-age."
 msgstr ""
 "Bien que quelqu'un ait dit qu'il était plus question d'esthétique que "
 "d'éthique, je pense qu'« esthétique » n'est pas, non plus, le bon mot. Une "
@@ -429,11 +423,11 @@ msgstr ""
 "et expressif. Y a-t-il un mot pour cela ? Je peux penser à « la voie du "
 "hacker » <i>[the hacker way]</i>, mais cela sonne plutôt pompeux et new-age."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Community"
 msgstr "Communauté"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> Now that brings to mind several questions. For the first, one "
 "could maybe inquire after an ideal society or do forth, but let's leave that "
@@ -443,7 +437,7 @@ msgstr ""
 "peut-être chercher à définir une société idéale ou pousser plus loin, mais "
 "laissons cela pour le moment."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> I approach these issues incrementally. I don't think I could try "
 "to design an ideal society and have any confidence in the conclusion.  "
@@ -462,7 +456,7 @@ msgstr ""
 "logiciel libre : si je l'avais fait, je ne serais pas aussi sûr que c'était "
 "une bonne idée. Je le savais parce que j'en avais l'expérience."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> Is there something that digitalization offers for community-"
 "building, something that other media (like printed books)  could not offer, "
@@ -474,7 +468,7 @@ msgstr ""
 "les livres imprimés) ne pourraient pas offrir, ou bien la numérisation sert-"
 "elle « seulement » à rendre plus efficaces les moyens existants ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> Computers and the web make it much easier to work "
 "collaboratively and continuing to improve publications. I think that this "
@@ -489,7 +483,7 @@ msgstr ""
 "pourrait tout aussi bien être une intention délibérée de nous priver de cet "
 "avantage d'Internet."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> Now, from a historical and philosophical perspective it seems "
 "that many a good invention or technological advance has resulted in the "
@@ -499,7 +493,7 @@ msgstr ""
 "semble que plus d'une bonne invention ou plus d'une avancée technologique "
 "soient le résultat d'une intensification du colonialisme."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> In general, technology is a good thing, and we shouldn't turn it "
 "down. Technology tends to cause cultural change. This is not necessarily a "
@@ -512,7 +506,7 @@ msgstr ""
 "pas la condamner en bloc. Seuls quelques types spécifiques de changements "
 "culturels nécessitent qu'on s'y oppose."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> I do not necessarily want to get stuck on this public/commercial "
 "issue, but if we say that we need communal agreements, values and systems "
@@ -528,7 +522,7 @@ msgstr ""
 "tendance à promouvoir l'égoïsme, alors nous devons conclure, il me semble, "
 "qu'il y a une distinction cruciale entre le communautaire et le commercial ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> I would agree. One person can belong to a community and work in "
 "a business at the same time. Nevertheless, there is a fundamental conflict "
@@ -550,7 +544,7 @@ msgstr ""
 "altruistes jusqu'à un certain point. Abolir l'égoïsme n'aurait pas de sens, "
 "même si cela était possible."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> I mean, in many ways one could say that the communities in the "
 "post-industrial countries these days are based on commercialism, i.e., "
@@ -562,7 +556,7 @@ msgstr ""
 "postindustriels, c'est-à-dire que les gens se rassemblent, travaillent, "
 "communiquent, etc., essentiellement pour des raisons commerciales."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> This is a rather weak and ineffective kind of community, hardly "
 "worthy of the name."
@@ -570,7 +564,7 @@ msgstr ""
 "<b>RMS</b> : C'est un type de communauté plutôt faible et inefficace, qui "
 "n'en mérite guère le nom."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> And, furthermore, like you know, the research and university "
 "community is also very tightly bound to the economical interests of the "
@@ -580,7 +574,7 @@ msgstr ""
 "et de la recherche est aussi très liée aux intérêts économiques des États-"
 "nations et des entreprises."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> Universities ought to resist being turned to commercial "
 "purposes, for the sake of their integrity. They have failed to resist.  "
@@ -600,7 +594,7 @@ msgstr ""
 "écrasant les autres institutions qui ont été conçues pour lui mettre un "
 "frein."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> But, the counter argument goes, a free market economy that seeks "
 "to maximize profit, is the only way of producing wealth and functioning "
@@ -610,7 +604,7 @@ msgstr ""
 "cherchant le profit maximum est la seule manière de produire de la richesse "
 "et des communautés démocratiques fonctionnelles."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> The free software community shows, as cooperatives in Sweden "
 "showed, that this is not true. There are other ways of producing wealth. But "
@@ -634,7 +628,7 @@ msgstr ""
 "commerce à prendre le dessus, non seulement ne le permet pas, mais est "
 "carrément contre-productif."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> If ethics applies to everyone, and ethics is based on community, "
 "does this mean that there is an ideal community to which everyone should "
@@ -644,15 +638,15 @@ msgstr ""
 "la communauté, cela veut-il dire qu'il y a une communauté idéale à laquelle "
 "chacun devrait appartenir ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<b>RMS:</b> I don't think that follows."
 msgstr "<b>RMS</b> : Je ne pense pas qu'il y ait de rapport."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Copyleft"
 msgstr "Copyleft<a id=\"TransNote6-rev\" href=\"#TransNote6\"><sup>6</sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> The concept of copyleft is a brilliant tool for the communal "
 "purposes. Could you tell a little on how you arrived at the idea?"
@@ -661,17 +655,17 @@ msgstr ""
 "objectifs de la communauté. Pouvez-vous nous en dire un peu plus sur la "
 "démarche qui vous mena à cette idée ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> I had seen simple notices of the form &ldquo;verbatim copying "
-"permitted provided this notice is preserved&rdquo;, and investigated "
+"permitted provided this notice is preserved,&rdquo; and investigated "
 "extending this to handle modification as well."
 msgstr ""
 "<b>RMS</b> : J'avais vu de simples avis de la forme « copie à l'identique "
 "autorisée sous réserve que cet avis soit conservé » et cherché à en élargir "
 "la portée pour gérer aussi les modifications."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> Let's take a case here. I can see that a free software developer "
 "might be able to make a living by doing free software, because people would "
@@ -693,7 +687,7 @@ msgstr ""
 "poésie ou de la musique libre ne sera pas une option viable, car la "
 "communauté est trop petite pour soutenir ce genre d'activité."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> The current system does rather a bad job of supporting these "
 "activities. To replace it with nothing at all would not make things much "
@@ -706,15 +700,15 @@ msgstr ""
 "pourraient faire un aussi bon travail que le système actuel, peut-être "
 "meilleur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> This seems to lead to some kind of &ldquo;americanization&rdquo; "
-"or &ldquo;anglization&rdquo;."
+"or &ldquo;anglization.&rdquo;"
 msgstr ""
 "<b>TV</b> : Cela semble conduire à une sorte d'« américanisation » ou "
 "d'« anglicisation »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> You can't be serious, can you? Don't you realize that the media-"
 "copyright complex is fueling the americanization of culture around the "
@@ -726,7 +720,7 @@ msgstr ""
 "dans le monde ? Déconnecter cet ensemble ferait beaucoup pour améliorer la "
 "situation."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> I was just thinking of the fact that in a small language area "
 "something like copyrights actually do some good for creative work."
@@ -734,7 +728,7 @@ msgstr ""
 "<b>TV</b> : Je pensais seulement au fait que, dans un espace linguistique "
 "réduit, quelque chose comme le copyright favorise la création."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> Not much good, though. How many Finnish writers make a living "
 "from copyright today? Note that I don't advocate the simple and total "
@@ -748,11 +742,11 @@ msgstr ""
 "discours : <a href=\"/philosophy/copyright-and-globalization.html"
 "\">Copyright et mondialisation</a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Globalization"
 msgstr "Mondialisation"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> You have touched on some issues of globalization is some recent "
 "interviews. One of the problems is that copyright laws put many third world "
@@ -764,7 +758,7 @@ msgstr ""
 "copyright met les pays du tiers monde dans une situation défavorable. Pensez-"
 "vous que ces pays ne doivent pas respecter les lois sur le copyright ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> The US when it was a developing country did not recognize "
 "foreign copyrights. So why should anyone else? Of course, we know the reason "
@@ -777,7 +771,7 @@ msgstr ""
 "fait partie du système de domination économique que les propriétaires "
 "d'entreprises les plus riches ont imposé au reste du monde."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> And, furthermore, could one see this issue also in terms of "
 "communities? If I remember correctly, you have said that globalization in "
@@ -789,7 +783,7 @@ msgstr ""
 "sens économique ne semblait pas être un bon moyen de promouvoir ou répartir "
 "le bien-être."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> There is nothing wrong with globalization in the abstract. What "
 "makes today's form of globalization so bad is not really the global aspect "
@@ -809,7 +803,7 @@ msgstr ""
 "du peuple vers les propriétaires des entreprises. Paradoxalement, cela "
 "semble aussi s'accompagner d'une réduction de la croissance."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The best way to understand today's &ldquo;globalization&rdquo; is as a "
 "system to transfer power from democratic governments to business, which only "
@@ -835,11 +829,11 @@ msgstr ""
 "libre est un exemple de mondialisation bénéfique : les gens partagent la "
 "connaissance avec le monde entier."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Ethics"
 msgstr "Éthique"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> How is ethical &ldquo;work&rdquo; best done? It seems that you "
 "often invoke teachers like Buddha or Jesus as examples of a ethical way of "
@@ -849,7 +843,7 @@ msgstr ""
 "On dirait que vous invoquez des professeurs tels Bouddha ou Jésus comme "
 "exemples de vie éthique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> I never invoke Jesus. I am not a Christian and I don't "
 "especially admire Jesus. I admire Buddha somewhat more, but I don't invoke "
@@ -861,7 +855,7 @@ msgstr ""
 "aucun professeur ou héros en tant qu'<b>autorité</b>, seulement peut-être à "
 "titre d'<b>exemple</b>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> It is also clear that one of the fascinating and influential "
 "features of your work is that you live as you teach. Is that a conscious "
@@ -873,7 +867,7 @@ msgstr ""
 "ce délibéré, dans le sens où vous pensez que l'éthique est une chose qui "
 "peut être enseignée par l'exemple ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> Not at all. I do write about my ethical ideas, and I would like "
 "to do it more and better if I could. Of course, it is necessary to live in "
@@ -885,7 +879,7 @@ msgstr ""
 "conformité avec ses principes, ou alors on est hypocrite et les gens le "
 "voient."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> If we say that the reason for ethical behavior must be given in "
 "the public sphere, let's say through a social contract or something similar, "
@@ -900,7 +894,7 @@ msgstr ""
 "principes de type « profit maximum », alors nous devons avoir une sorte de "
 "séparation entre le monde public et le monde commercial."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> I don't follow this reasoning&mdash;I see no separation. Ethics "
 "applies to everyone, and the whole point of ethics is that some things you "
@@ -913,7 +907,7 @@ msgstr ""
 "ne devriez pas les faire. Ceci s'applique à l'égoïsme de groupe aussi bien "
 "qu'à l'égoïsme personnel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> &hellip; and then the commercial world would be something that "
 "almost by necessity corrupts the idea of freedom."
@@ -921,7 +915,7 @@ msgstr ""
 "<b>TV</b> : &hellip; et donc, le monde commercial serait quelque chose qui, "
 "presque nécessairement, corromprait l'idée de liberté."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> Business does have that tendency. Corporations provide a "
 "mechanism to distill the selfishness out of people who, as individuals, are "
@@ -936,21 +930,21 @@ msgstr ""
 "quelle qu'elle soit. Changer cela demandera d'éliminer le pouvoir du "
 "commerce mondial sur les gouvernements."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> Reading Steven Levy's Hackers once again, I was struck by one "
 "issue: the hackers as displayed in the book are mostly concerned with the "
-"hacker ethic in so far as it concerns &ldquo;tools to make tools&rdquo;."
+"hacker ethic in so far as it concerns &ldquo;tools to make tools.&rdquo;"
 msgstr ""
 "<b>TV</b> : En lisant une nouvelle fois « Les hackers » de Steven Levy, j'ai "
 "été frappé par un problème : les hackers tels que le livre les dépeint sont "
 "concernés par l'éthique du hacker essentiellement dans la mesure où elle "
 "concerne « des outils pour faire des outils »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> I don't think so. A number of our programs were tools for making "
-"programs, but very few were specifically &ldquo;tools to make tools&rdquo;. "
+"programs, but very few were specifically &ldquo;tools to make tools.&rdquo; "
 "Why were many of them tools? Because hackers writing programs get ideas for "
 "better ways to do that. What computer hackers do is program. So they get "
 "excited about anything that makes programming easier."
@@ -963,7 +957,7 @@ msgstr ""
 "programmer, aussi sont-ils passionnés par tout ce qui rend la programmation "
 "plus facile. "
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If a hacker does square dancing, he would get excited about anything on the "
 "computer that is helpful for square dancing. He might write a program to "
@@ -980,17 +974,17 @@ msgstr ""
 "s'intéressent à l'écriture de programmes pour le quadrille mais beaucoup "
 "s'intéressent à des programmes pouvant servir à la programmation."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> Levy is not too hard on the point, but the unscrupulousness with "
-"which the early <abbr>MIT</abbr> hackers accepted the Department of Defence "
-"funding is a case in point."
+"which the early MIT hackers accepted the Department of Defence funding is a "
+"case in point."
 msgstr ""
 "<b>TV</b> : Levy n'est pas très dur à ce sujet, mais le manque de scrupules "
 "avec lequel les premiers hackers du MIT ont accepté les fonds du ministère "
 "de la défense <i>[Department of Defense, DoD]</i> est un point à souligner."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> Some of the hackers were uncomfortable with DoD funding at the "
 "time, but they did not go so far as to rebel against it (by quitting, say). "
@@ -1004,13 +998,13 @@ msgstr ""
 "qu'il était mauvais d'accepter ces fonds, je ne le pensais pas à l'époque. "
 "Le financement par les entreprises est bien plus dangereux. "
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "So I would not call them unscrupulous for having accepted this funding."
 msgstr ""
 "Aussi, je ne les qualifierais pas de peu scrupuleux pour avoir accepté ces "
 "fonds."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> This reminds of the &ldquo;instrumental rationality&rdquo; that "
 "the Frankfurt school of critical theorists talked about; rationality that "
@@ -1020,7 +1014,7 @@ msgstr ""
 "l'école de critique théorique de Francfort : la rationalité qui fait partie "
 "des outils, mais non des objectifs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> Engineers of all kinds are famous for this; I am not sure it is "
 "more true of hackers than others."
@@ -1028,7 +1022,7 @@ msgstr ""
 "<b>RMS</b> : Les ingénieurs de toutes spécialités sont connus pour cela. Je "
 "ne suis pas sûr que ce soit plus vrai pour les hackers que pour les autres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> So, this brings me to the question, if ethics is about goals and "
 "about content, what exactly is the society or community that Free Software "
@@ -1038,7 +1032,7 @@ msgstr ""
 "le contenu, quelle est exactement la société ou la communauté défendue par "
 "le logiciel libre ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> My goal is that we help each other to live better together.  "
 "Advancing human knowledge is a part of this; making sure it is available to "
@@ -1053,7 +1047,7 @@ msgstr ""
 "domaines de la vie, mais dans le champ du logiciel, ils nous dirigent vers "
 "le logiciel libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> When and how did you notice that the Tools to Make Tools-attitude "
 "is not enough?"
@@ -1061,7 +1055,7 @@ msgstr ""
 "<b>TV</b> : Quand et comment vous êtes-vous rendu compte que l'attitude "
 "« outils pour faire des outils » n'était pas suffisante ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> That just tools without thinking of what to do with them is one "
 "I picked up this idea in my teens, I think. It was well known in the 60s; "
@@ -1074,21 +1068,21 @@ msgstr ""
 "cela vienne à l'esprit. Je pense à la chanson de Tom Lehrer « Werner von "
 "Braun » :"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid "I send rockets up, but where they come down"
 msgstr "<i>I send rockets up, but where they come down"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid "is not my department, says Werner von Braun."
 msgstr ""
 "is not my department, says Werner von Braun.</i><a id=\"TransNote9-rev\" "
 "href=\"#TransNote9\"><sup>9</sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Lots of people heard this song."
 msgstr "Beaucoup de gens ont entendu cette chanson."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> And, maybe most interestingly, how do you combine the two, the "
 "hacking that is intense and interesting and the ethical real-world work, "
@@ -1098,7 +1092,7 @@ msgstr ""
 "le hacking qui est intense et intéressant, et le travail éthique du monde "
 "réel, qui est souvent délicat et ennuyeux ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> Here you seem to assume that hacking is neither ethical nor real-"
 "world. I disagree with both assumptions. By the way, some parts of "
@@ -1115,7 +1109,7 @@ msgstr ""
 "libre réalisent ces tâches afin de publier des logiciels libres fonctionnels "
 "et fiables."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>TV:</b> I think this is even quite common in fields like computer "
 "science, physics, mathematics, philosophy, where the austerity and purity of "
@@ -1128,7 +1122,7 @@ msgstr ""
 "« non terrestre ». Y a-t-il un lien ? Doit-il y en voir un ? Et comment "
 "reliez-vous les deux ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RMS:</b> Is there a link between the pleasure of pure math and the rest "
 "of life? No, I see very little connection, and why should there be one?"
@@ -1137,7 +1131,7 @@ msgstr ""
 "reste de la vie ? Non, je vois peu de connexions et pourquoi en faudrait-il "
 "une ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I enjoy folk dancing, as well as pure math. There is very little link "
 "between either of those pleasures and the rest of what I do. Why should "
@@ -1145,41 +1139,70 @@ msgid ""
 "to &ldquo;bridge&rdquo;?"
 msgstr ""
 "J'adore la danse folklorique, aussi bien que les mathématiques pures. Il n'y "
-"a que peu de liens entre ces plaisirs et le reste de ce que je fais. "
+"a pas grand rapport entre ces plaisirs et le reste de ce que je fais. "
 "Pourquoi devrait-il y en avoir ? Ils sont tous deux innocents. Y a-t-il un "
 "« trou » que je doive « combler » ?"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"[*] Published in Finnish in Tere Vad&eacute;n &amp; Richard M. Stallman: "
+"<cite><a href=\"https://web.archive.org/web/20100807063010/http://www.uta.fi/"
+"%7Efiteva/koodivapaaksi.html\"> Koodi vapaaksi - Hakkerietiikan vaativuus</"
+"a></cite>, Tampere University Press. 2002, sivut 62-80."
+msgstr ""
+"[*] Publié en finnois dans : Tere Vadén et Richard M. Stallman, <a href="
+"\"http://web.archive.org/web/20100807063010/http://www.uta.fi/%7Efiteva/"
+"koodivapaaksi.html\">Koodi vapaaksi - Hakkerietiikan vaativuus</a>, Tampere "
+"University Press, 2002, pages 62-80."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
 "<hr /><b>Notes de traduction</b><ol>\n"
-"<li id=\"TransNote1\">Palindrome : mot ou groupe de mots pouvant être lus de "
-"gauche à droite et vice versa. <a href=\"#TransNote1-rev\" class="
-"\"nounderline\">&#8593;</a></li>\n"
-"<li id=\"TransNote2\">Hack : bidouille, bricole ingénieuse. <a href="
-"\"#TransNote2-rev\" class=\"nounderline\">&#8593;</a></li>\n"
-"<li id=\"TransNote3\"><i>Incompatible Timesharing System</i> (ITS) : "
-"« système à temps partagé incompatible », nommé en opposition avec CTSS <i>"
-"(Compatible Time Sharing System)</i>, utilisé précédemment au MIT. <a href="
-"\"#TransNote3-rev\" class=\"nounderline\">&#8593;</a></li>\n"
-"<li id=\"TransNote4\"><i>Artificial Intelligence Lab</i>, ou <i>AI Lab</"
-"i>. <a href=\"#TransNote4-rev\" class=\"nounderline\">&#8593;</a></li>\n"
-"<li id=\"TransNote5\">Hackerisme : acte de hacker, faire un hack. <a href="
-"\"#TransNote5-rev\" class=\"nounderline\">&#8593;</a></li>\n"
-"<li id=\"TransNote6\">Copyleft : terme inventé en opposition à copyright "
-"(droit d'auteur), parfois traduit par « gauche d'auteur ». <a href="
-"\"#TransNote6-rev\" class=\"nounderline\">&#8593;</a></li>\n"
-"<li id=\"TransNote7\">Le copyright américain est l'équivalent du droit "
-"d'auteur français, mais comme il y a des différences significatives sur le "
-"plan juridique, nous ne traduisons généralement pas ce terme. <a href="
-"\"#TransNote7-rev\" class=\"nounderline\">&#8593;</a></li>\n"
-"<li id=\"TransNote8\">Quadrille : danse de bal en vogue du début du XIXe "
-"jusqu'à la première guerre mondiale. <a href=\"#TransNote8-rev\" class="
-"\"nounderline\">&#8593;</a></li>\n"
-"<li id=\"TransNote9\">J'envoie des fusées, mais où elles tombent n'est pas "
-"mon rayon, dit Werner von Braun. <a href=\"#TransNote9-rev\" class="
-"\"nounderline\">&#8593;</a></li>\n"
+"<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"Palindrome : mot ou groupe de mots pouvant être lus de gauche à droite et "
+"vice versa.</li>\n"
+"\n"
+"<li><a id=\"TransNote2\" href=\"#TransNote2-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"Hack : bidouille, bricole ingénieuse.</li>\n"
+"\n"
+"<li><a id=\"TransNote3\" href=\"#TransNote3-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"<i>Incompatible Timesharing System</i> (ITS) : « système à temps partagé "
+"incompatible », nommé en opposition avec CTSS <i>(Compatible Time Sharing "
+"System)</i>, utilisé précédemment au MIT.</li>\n"
+"\n"
+"<li><a id=\"TransNote4\" href=\"#TransNote4-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"<i>Artificial Intelligence Lab</i>, ou <i>AI Lab</i>.</li>\n"
+"\n"
+"<li><a id=\"TransNote5\" href=\"#TransNote5-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"Hackerisme : acte de hacker, faire un hack.</li>\n"
+"\n"
+"<li><a id=\"TransNote6\" href=\"#TransNote6-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"Copyleft : terme inventé en opposition à copyright (droit d'auteur), parfois "
+"traduit par « gauche d'auteur ».</li>\n"
+"\n"
+"<li><a id=\"TransNote7\" href=\"#TransNote7-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"Le copyright américain est l'équivalent du droit d'auteur français, mais "
+"comme il y a des différences significatives sur le plan juridique, nous ne "
+"traduisons généralement pas ce terme.</li>\n"
+"\n"
+"<li><a id=\"TransNote8\" href=\"#TransNote8-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"Quadrille : danse de bal en vogue du début du XIXe jusqu'à la première "
+"guerre mondiale.</li>\n"
+"\n"
+"<li><a id=\"TransNote9\" href=\"#TransNote9-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"J'envoie des fusées, mais où elles tombent n'est pas mon rayon, dit Werner "
+"von Braun.</li>\n"
 "</ol>"
 
 #. type: Content of: <div><div><p>
@@ -1203,14 +1226,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -1221,19 +1244,19 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2002 Richard Stallman"
-msgstr "Copyright &copy; 2002 Richard Stallman"
+msgid "Copyright &copy; 2002, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2002, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: fs-and-sustainable-development.html\n"
-"POT-Creation-Date: 2019-07-24 12:25+0000\n"
-"PO-Revision-Date: 2020-12-06 17:36+0100\n"
+"POT-Creation-Date: 2021-09-09 20:25+0000\n"
+"PO-Revision-Date: 2021-09-10 10:35+0200\n"
 "Last-Translator: Felicien Pillot <felicien AT gnu.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -23,25 +23,15 @@ msgstr ""
 "Logiciel Libre et développement durable - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Free Software and Sustainable Development"
 msgstr "Logiciel Libre et développement durable"
 
-#. type: Content of: <p>
-msgid "by <strong>Richard Stallman</strong>"
-msgstr "par <strong>Richard Stallman</strong>"
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "par Richard Stallman"
 
-#. type: Content of: <p>
-msgid ""
-"<em>First published on <a href=\"https://web.archive.org/web/20060721162054/"
-"http://www.insnet.org/ins_headlines.rxml?cust=212&amp;id=967\"> insnet.org</"
-"a> in 2005.</em>"
-msgstr ""
-"<em>Publié initialement en 2005 sur <a href=\"https://web.archive.org/"
-"web/20060721162054/http://www.insnet.org/ins_headlines.rxml?cust=212&amp;"
-"id=967\">insnet.org</a>.</em>"
-
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Many organizations that aim to promote development by spreading the use of "
 "computers make a fundamental mistake: they promote the use of proprietary "
@@ -55,7 +45,7 @@ msgstr ""
 "L'utilisation de logiciel privateur, ce n'est pas du développement ; cela ne "
 "renforce pas la société mais au contraire la rend dépendante."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Proprietary software such as MS Windows and the Macintosh system is "
 "distributed in a scheme to keep the users divided and helpless.  The users "
@@ -73,7 +63,7 @@ msgstr ""
 "ne peuvent pas modifier le programme ni vérifier qu'il fait bien ce que le "
 "développeur a annoncé (et non autre chose dont le développeur n'a pas parlé)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The way to avoid being divided and helpless is to use free software.  Free "
 "software respects users' freedom.  Specifically, free software means users "
@@ -90,7 +80,7 @@ msgstr ""
 "d'en redistribuer des copies et libres de publier ces versions modifiées. Le "
 "logiciel libre fait partie de la connaissance humaine."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Increasing the use of free software makes society more capable.  Free "
 "software can be freely used, understood, maintained and adapted by local "
@@ -100,7 +90,7 @@ msgstr ""
 "logiciel libre peut être utilisé, compris, maintenu à jour et adapté par la "
 "population locale n'importe où dans le monde. On a là du vrai développement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "By contrast, increasing use of proprietary software means deepening "
 "society's dependency on a few corporations in rich countries.  Proprietary "
@@ -118,7 +108,7 @@ msgstr ""
 "grosse société, sous peine d'illégalité. La dépendance au logiciel privateur "
 "n'est pas du développement, c'est de la colonisation électronique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For more information on free software and the popular GNU/Linux operating "
 "system, see www.gnu.org."
@@ -126,14 +116,24 @@ msgstr ""
 "Pour plus ample information sur le logiciel libre ainsi que sur GNU/Linux, "
 "le système d'exploitation libre le plus populaire, allez sur www.gnu.org."
 
+#. type: Content of: <div><div><p>
+msgid ""
+"First published on <a href=\"https://web.archive.org/web/20060623003714/"
+"http://www.insnet.org/ins_headlines.rxml?cust=212&amp;id=967\"> insnet.org</"
+"a> in 2005."
+msgstr ""
+"Publié initialement en 2005 sur <a href=\"https://web.archive.org/"
+"web/20060623003714/http://www.insnet.org/ins_headlines.rxml?cust=212&amp;"
+"id=967\">insnet.org</a>."
+
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
 "<hr /><b>Note de traduction</b>\n"
-"<ol><li id=\"TransNote1\">Autre traduction de <i>proprietary</i> ; "
-"propriétaire. <a href=\"#TransNote1-rev\" class=\"nounderline\">&#8593;</a></"
-"li></ol>"
+"<ol><li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"Autre traduction de <i>proprietary</i> ; propriétaire.</li></ol>"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -156,14 +156,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -174,8 +174,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2005, 2017, 2018, 2019 Richard Stallman"
-msgstr "Copyright &copy; 2005, 2017, 2018, 2019 Richard Stallman"
+msgid "Copyright &copy; 2005, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2005, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
