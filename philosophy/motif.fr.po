@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: motif.html\n"
-"POT-Creation-Date: 2021-07-21 18:25+0000\n"
-"PO-Revision-Date: 2021-07-21 21:45+0200\n"
+"POT-Creation-Date: 2021-09-10 11:26+0000\n"
+"PO-Revision-Date: 2021-09-11 12:42+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -31,7 +31,7 @@ msgstr "La licence Motif"
 msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "A couple of weeks ago, the Open Group changed the license of Motif, inviting "
 "free software developers to use it.  However, the new Motif license does not "
@@ -43,10 +43,10 @@ msgstr ""
 "nouvelle licence Motif ne correspond pas à la définition du logiciel libre, "
 "ni à la définition plus permissive du logiciel open source."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Their announcement says they have released Motif to &ldquo;the open source "
-"community&rdquo;, but this is true only in an unnatural interpretation of "
+"community,&rdquo; but this is true only in an unnatural interpretation of "
 "the words.  They have not made Motif available within the free software "
 "community; instead, they have invited the people in the free software "
 "community to leave the community by using Motif."
@@ -57,7 +57,7 @@ msgstr ""
 "la place, ils ont invité les personnes de la communauté du logiciel libre à "
 "la quitter en utilisant Motif."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "I've written to the Open Group about this, asking them to change the "
 "license.  We can hope they will, but we can't assume it.  In the present "
@@ -75,7 +75,7 @@ msgstr ""
 "par la GPL est toujours une violation de la GPL, excepté dans des "
 "circonstances très spéciales."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Fortunately there is a free software alternative to Motif, called LessTif.  "
 "Most programs that were written for Motif can use LessTif with no changes.  "
@@ -92,11 +92,11 @@ msgstr ""
 "volontaire, contactez <a href=\"mailto:lesstif@hungry.com\">&lt;"
 "lesstif@hungry.com&gt;</a>."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid "Here are some of the problems of the Motif license:"
 msgstr "Voici quelques problèmes de la licence Motif :"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "It claims that you accept the license merely by &ldquo;using&rdquo; Motif.  "
 "Only a shrink-wrap license or something similar can do that, and shrink-wrap "
@@ -107,10 +107,10 @@ msgstr ""
 "license]</i><a id=\"TransNote1-rev\" href=\"#TransNote1\"><sup>1</sup></a> "
 "peut le faire, et de telles licences sont une mauvaise chose ;"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The license is restricted to use on certain operating systems, those which "
-"fit a category they call &ldquo;open source&rdquo;.  Both the free software "
+"fit a category they call &ldquo;open source.&rdquo; Both the free software "
 "movement and the open source camp consider use restrictions unacceptable."
 msgstr ""
 "la licence est limitée à certains systèmes d'exploitation, ceux qui rentrent "
@@ -118,7 +118,7 @@ msgstr ""
 "logiciel libre tout comme le camp de l'open source considèrent comme "
 "inacceptables les restrictions d'utilisation ;"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Their definition of the term &ldquo;open source&rdquo; is very different "
 "from the one used by the open source camp, thus causing confusion."
@@ -126,7 +126,7 @@ msgstr ""
 "Leur définition du terme « open source » est très différente de celle qui "
 "est utilisée par le camp de l'open source, ce qui sème la confusion."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "In the free software movement, we disagree with the philosophy and values of "
 "open source.  (For more explanation, see <a href=\"/philosophy/open-source-"
@@ -144,17 +144,17 @@ msgstr ""
 "Les faits sont suffisamment complexes ; compliquer le problème n'est pas "
 "souhaitable."
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><h3>
 msgid "Later Note"
 msgstr "Note ajoutée par la suite"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
-"<em>In 2012, <a href=\"http://motif.sourceforge.net/\"> Motif</a> was "
-"released under the GNU Lesser General Public License, version 2.1.</em>"
+"<em>In 2012, <a href=\"https://motif.ics.com/\"> Motif</a> was released "
+"under the GNU Lesser General Public License, version 2.1.</em>"
 msgstr ""
-"<em>En 2012, <a href=\"http://motif.sourceforge.net/\">Motif</a> a été "
-"publié sous la licence publique générale GNU amoindrie, version 2.1.</em>"
+"<em>En 2012, <a href=\"https://motif.ics.com/\">Motif</a> a été publié sous "
+"la licence publique générale GNU amoindrie, version 2.1.</em>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
