@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: rms-kernel-trap-interview.html\n"
-"POT-Creation-Date: 2018-01-01 05:58+0000\n"
-"PO-Revision-Date: 2020-12-07 12:06+0100\n"
+"POT-Creation-Date: 2021-09-14 16:26+0000\n"
+"PO-Revision-Date: 2021-09-14 23:11+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -23,25 +23,15 @@ msgstr ""
 "Entretien avec Richard Stallman pour KernelTrap.org (2005) - Projet GNU - "
 "Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Interview with Richard Stallman, KernelTrap.org, 2005"
 msgstr "Entretien avec Richard Stallman pour KernelTrap.org (2005)"
 
-#. type: Content of: <p>
-msgid "<em>An interview by Jeremy Andrews with Richard Stallman in 2005</em>"
-msgstr ""
-"<em>Entretien avec Richard Stallman mené par Jeremy Andrews en 2005</em>"
+#. type: Content of: <div><address>
+msgid "conducted by Jeremy Andrews"
+msgstr "mené par Jeremy Andrews"
 
-#. type: Content of: <p>
-msgid ""
-"<em>Source:</em> <a href=\"https://web.archive.org/web/20120621163233/http://"
-"kerneltrap.org/node/4484\"> http://kerneltrap.org/node/4484</a> [Archived]"
-msgstr ""
-"<em>Source :</em> <a href=\"https://web.archive.org/web/20120621163233/"
-"http://kerneltrap.org/node/4484\">http://kerneltrap.org/node/4484</a> "
-"[archivé]"
-
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Richard Stallman founded the GNU Project in 1984, and the Free Software "
 "Foundation in 1985. He also originally authored a number of well known and "
@@ -55,9 +45,9 @@ msgstr ""
 "Compiler Collection\">GCC</abbr>), le débogueur symbolique GNU (GDB) et GNU "
 "Emacs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"To better understand Richard Stallman and the GNU project, I recommend you "
+"To better understand Richard Stallman and the GNU Project, I recommend you "
 "begin by reviewing their philosophy page. On it you will find a wealth of "
 "information."
 msgstr ""
@@ -65,7 +55,7 @@ msgstr ""
 "de commencer par lire la page « Philosophie ». Vous y trouverez quantité "
 "d'informations."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We began this interview via email, but later had to finish by telephone "
 "after Richard Stallman fell and broke his arm. He was kind enough to speak "
@@ -84,11 +74,11 @@ msgstr ""
 "bien d'autres choses encore. Les propos suivants offrent un aperçu du chemin "
 "parcouru et des défis auxquels nous sommes encore confrontés."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Background"
 msgstr "Contexte"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Jeremy Andrews</strong>: When did you first start working with "
 "computers?"
@@ -96,7 +86,7 @@ msgstr ""
 "<strong>Jeremy Andrews</strong> : Quand as-tu commencé à travailler sur "
 "ordinateur ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: I first read manuals and wrote programs "
 "on paper in 1962 or so. 1969 was when I first saw and used a real computer."
@@ -105,7 +95,7 @@ msgstr ""
 "écrire des programmes sur papier vers 1962. C'est en 1969 que j'ai vu et "
 "utilisé un véritable ordinateur pour la première fois."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: What types of programs were you writing prior to "
 "actually seeing and using a real computer?"
@@ -113,7 +103,7 @@ msgstr ""
 "<strong>JA</strong> : Quels types de programmes écrivais-tu avant de voir et "
 "d'utiliser effectivement un véritable ordinateur ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: They were pretty trivial, like things to "
 "add up a vector of numbers. About the time I first started with a real "
@@ -126,7 +116,7 @@ msgstr ""
 "substitution de chaînes. Un peu comme le SNOBOL, bien que je n'aie jamais "
 "utilisé SNOBOL."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And then, the first thing I started writing when I had a real computer to "
 "use&mdash;I'd seen the language PL/I and I was thrilled by how many features "
@@ -155,7 +145,7 @@ msgstr ""
 "passes j'ai appris l'existence de choses comme les listes et le Lisp, et je "
 "me suis désintéressé des langages de type PL/I."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: When you graduated from Harvard in 1974 with a BA in "
 "physics, how did you intend to use your degree?"
@@ -163,7 +153,7 @@ msgstr ""
 "<strong>JA</strong> : Quand tu es sorti de Harvard en 1974 avec un bachelor "
 "en physique, comment envisageais-tu d'utiliser ton diplôme ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: I thought I would become a theoretical "
 "physicist; however, the pleasure of programming, where I could make real "
@@ -175,11 +165,11 @@ msgstr ""
 "faire de réels progrès et voir les résultats, a finalement surpassé le "
 "plaisir d'étudier la physique."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Life In The AI Lab"
 msgstr "La vie au labo d'IA"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: What tasks occupied your time at the AI Lab through the "
 "1970's?"
@@ -187,7 +177,7 @@ msgstr ""
 "<strong>JA</strong> : De quelles tâches t'occupais-tu au Labo d'IA dans les "
 "années 70 ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: Mostly operating system development, but "
 "I did one AI research project with Professor Sussman; we developed "
@@ -198,13 +188,13 @@ msgstr ""
 "recherche d'IA avec le professeur Sussman ; nous avons développé le retour "
 "sur traces dirigé par les dépendances."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>JA</strong>: What is dependency-directed backtracking?"
 msgstr ""
 "<strong>JA</strong> : Qu'est-ce que le retour sur traces dirigé par les "
 "dépendances ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: You make some assumptions, and with those "
 "together with some given facts you draw a conclusion. You may reach a "
@@ -229,12 +219,12 @@ msgstr ""
 "est aussi connue sous le nom d'analyse de preuves, mais elle n'avait jamais "
 "été utilisée jusqu'alors en raisonnement automatisé."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>JA</strong>: What was the result of this research project?"
 msgstr ""
 "<strong>JA</strong> : Quel a été le résultat de ce projet de recherche ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: We published a paper. The technique got "
 "used by other people later, so apparently it became part of AI."
@@ -243,7 +233,7 @@ msgstr ""
 "technique a été reprise par d'autres personnes plus tard, donc il semble "
 "qu'elle soit devenue une partie de l'IA."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Also, I learned how to understand electrical circuits better. The program "
 "that we wrote, which used this technique, was a program for understanding "
@@ -255,11 +245,11 @@ msgstr ""
 "compréhension des circuits électriques. En imitant ce programme, je pouvais "
 "comprendre les circuits bien mieux qu'auparavant."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "The GNU Project And The Free Software Foundation"
 msgstr "Le projet GNU et la Free Software Foundation"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: The story of your encounter with nonfree printer "
 "software in the early 80's is very well known. This incident ultimately "
@@ -276,7 +266,7 @@ msgstr ""
 "logiciels libres. Parmi tes nombreuses réalisations des deux dernières "
 "décennies, de laquelle es-tu le plus fier ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: What I am proud of is that we have built "
 "a community where people can use computers and work together in freedom."
@@ -285,14 +275,14 @@ msgstr ""
 "ayons créé une communauté dans laquelle les gens peuvent utiliser "
 "l'informatique tout en coopérant librement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: What are the largest challenges you're facing today?"
 msgstr ""
 "<strong>JA</strong> : Quels sont les plus grands défis auxquels vous faites "
 "face aujourd'hui ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: Software patents. The Digital Millennium "
 "Copyright Act. The broadcast flag. Cards with secret specifications. Nonfree "
@@ -304,7 +294,7 @@ msgstr ""
 "circuits intégrés avec des spécifications techniques secrètes. Les "
 "plateformes Java privatrices."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In other words, organized efforts by people with power to put an end to our "
 "freedom."
@@ -312,13 +302,13 @@ msgstr ""
 "Autrement dit, les efforts concertés de gens détenant le pouvoir de mettre "
 "fin à notre liberté."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>JA</strong>: Is there a plan for addressing these issues?"
 msgstr ""
 "<strong>JA</strong> : Y a-t-il un plan pour essayer de résoudre ces "
 "problèmes ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: Regarding the laws, not much of one, in "
 "the US. In other countries that do not yet have these laws, we can try to "
@@ -328,19 +318,19 @@ msgstr ""
 "vraiment. Dans les pays qui n'ont pas encore ces lois, nous pouvons essayer "
 "d'empêcher leur adoption."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>JA</strong>: That's a bit scary."
 msgstr "<strong>JA</strong> : C'est un peu effrayant."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>Richard Stallman</strong>: It is."
 msgstr "<strong>Richard Stallman</strong> : En effet."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "&ldquo;Free Software&rdquo; vs. &ldquo;Open Source&rdquo;"
 msgstr "« Logiciel libre » contre « open source »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: You regularly have to explain the differences between "
 "&ldquo;free software&rdquo; and &ldquo;open source software,&rdquo; and yet "
@@ -354,7 +344,7 @@ msgstr ""
 "donc faire eux-mêmes la confusion, peux-tu expliquer les différences et "
 "pourquoi il est important de mettre les choses au point ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: Free software and open source are the "
 "slogans of two different movements with different philosophies. In the free "
@@ -369,7 +359,7 @@ msgstr ""
 "antisocial, car il piétine la liberté des utilisateurs, et nous développons "
 "le logiciel libre pour y échapper."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The open source movement promotes what they consider a technically superior "
 "development model that usually gives technically superior results. The "
@@ -381,7 +371,7 @@ msgstr ""
 "techniquement supérieurs. Les valeurs qu'ils citent sont les mêmes que "
 "celles auxquelles Microsoft se refère : des valeurs étroitement pratiques."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Free software and open source are also both criteria for software licenses. "
 "These criteria are written in very different ways but the licenses accepted "
@@ -392,7 +382,7 @@ msgstr ""
 "différentes mais les licences acceptées sont essentiellement les mêmes. La "
 "différence principale est d'ordre philosophique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Why does the philosophy matter? Because people who don't value their freedom "
 "will lose it. If you give people freedom but don't teach them to value it, "
@@ -409,14 +399,14 @@ msgstr ""
 "pour la liberté. Alors nous pourrons être capables de surmonter des "
 "problèmes auxquels je ne vois aucune solution aujourd'hui."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "&ldquo;GNU/Linux&rdquo;"
 msgstr "« GNU/Linux »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: Another frequent area of confusion is the name &ldquo;"
-"GNU/Linux.&rdquo; Why is the GNU project's contribution significant enough "
+"GNU/Linux.&rdquo; Why is the GNU Project's contribution significant enough "
 "that it should be in the name of the operating system, especially compared "
 "to other large pieces of any Linux-kernel based operating system, such as "
 "XFree86?"
@@ -427,7 +417,7 @@ msgstr ""
 "particulier si on la compare à d'autres composants majeurs de tout système "
 "d'exploitation basé sur le noyau Linux, comme XFree86 ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: It's no coincidence that the code we "
 "wrote for the GNU system is the largest single contribution to the GNU/Linux "
@@ -446,11 +436,11 @@ msgstr ""
 "d'exploitation libre complet. Le système combiné que nous utilisons "
 "aujourd'hui est fondé sur GNU."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>JA</strong>: In talking about GNU Linux&hellip;"
 msgstr "<strong>JA</strong> : En parlant de GNU Linux&hellip;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: I prefer to pronounce it &ldquo;GNU slash "
 "Linux,&rdquo; or &ldquo;GNU plus Linux.&rdquo; The reason is that when you "
@@ -467,7 +457,7 @@ msgstr ""
 "penseront que ça désigne une version de Linux qui a été développée pour GNU, "
 "ce qui n'est pas la réalité."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: You're trying to point out instead that it's a "
 "combination of the two."
@@ -475,14 +465,14 @@ msgstr ""
 "<strong>JA</strong> : Tu essaies au contraire de souligner que c'est une "
 "combinaison des deux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: Exactly. It's GNU plus Linux together."
 msgstr ""
 "<strong>Richard Stallman</strong> : Exactement. C'est l'ensemble GNU plus "
 "Linux&hellip;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: Which makes up the GNU+Linux operating system that "
 "everyone uses."
@@ -490,17 +480,17 @@ msgstr ""
 "<strong>JA</strong> : Qui constitue le système GNU+Linux que tout le monde "
 "utilise."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>Richard Stallman</strong>: Exactly."
 msgstr "<strong>Richard Stallman</strong> : Exactement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>JA</strong>: What is gained by people using the term GNU/Linux?"
 msgstr ""
 "<strong>JA</strong> : Quel est l'avantage pour les gens d'utiliser le terme "
 "GNU/Linux ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: People know that Linus Torvalds wrote his "
 "program Linux to have fun. And people know that Linus Torvalds did not say "
@@ -517,7 +507,7 @@ msgstr ""
 "ils auront tendance à suivre sa philosophie et notre communauté en sera "
 "affaiblie."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It's an interesting anecdote to think that the whole operating system exists "
 "because an undergraduate thought that it was a fun project. But the real "
@@ -532,7 +522,7 @@ msgstr ""
 "années s'il le fallait. C'est une histoire qui enseigne aux gens une chose "
 "qui vaut la peine d'être apprise."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When people forget that, they start drifting toward the practical but "
 "superficial values shared by the open source movement and Microsoft: the "
@@ -544,7 +534,7 @@ msgstr ""
 "Microsoft, l'idée que l'unique chose qui compte dans un logiciel est s'il "
 "fait le travail demandé et combien il coûte."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: Which begins to answer my next question, what is lost "
 "when people refuse to use the term GNU/Linux?"
@@ -552,7 +542,7 @@ msgstr ""
 "<strong>JA</strong> : Ce qui commence à répondre à ma prochaine question : "
 "qu'est-ce qu'on perd quand les gens refusent d'utiliser le terme GNU/Linux ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: What's lost is an opportunity to teach "
 "people. The software is equally free regardless of whatever name you call "
@@ -577,7 +567,7 @@ msgstr ""
 "gens à considérer comme un bonus le fait de ne plus avoir leur complète "
 "liberté."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you happen to be running a version of GNU/Linux which doesn't have the "
 "nonfree software, then the situation is not materially changed by the name "
@@ -589,7 +579,7 @@ msgstr ""
 "donne. Mais la situation où nous risquons de nous trouver dans cinq ans "
 "dépend de ce que nous nous enseignons les uns aux autres aujourd'hui."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A rose by any other name would smell as sweet, but if you called it an onion "
 "you'd get cooks very confused."
@@ -597,11 +587,11 @@ msgstr ""
 "Une rose sentirait toujours aussi bon si on l'appelait autrement, mais si on "
 "l'appelait oignon on jetterait le trouble dans l'esprit des cuisiniers."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "GNU/Hurd"
 msgstr "GNU/Hurd"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: The GNU Hurd has been under development for over a "
 "decade. There was talk of a 1.0 release over a year ago, but this was "
@@ -613,7 +603,7 @@ msgstr ""
 "an, mais elle a été reportée à cause de quelques fonctionnalités manquantes. "
 "Où en est ce projet ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: The Hurd runs, and missing features are "
 "gradually being added. However, for practical use today, you would use a "
@@ -623,7 +613,7 @@ msgstr ""
 "graduellement ajouté, mais aujourd'hui ce sont les versions de GNU basées "
 "sur Linux qu'on utilise pour les usages courants."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: Do you have any predictions as to when we're going to "
 "see a 1.0 release?"
@@ -631,7 +621,7 @@ msgstr ""
 "<strong>JA</strong> : As-tu la moindre idée de la date à laquelle nous "
 "verrons sortir la version 1.0 ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: No, I'm afraid I don't, I'm sad to say. A "
 "lot of the Hurd developers seem to have decided that they should re-write it "
@@ -644,12 +634,12 @@ msgstr ""
 "d'apprendre cela et maintenant tout porte à croire qu'il faudra encore "
 "quelques années pour que le Hurd soit utilisable."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "At least we do have a free kernel that works with GNU."
 msgstr ""
 "Au moins, nous avons tout de même un noyau libre qui fonctionne avec GNU."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: Will the GNU Project focus solely on a GNU system built "
 "around the GNU Hurd when it is released, or will it continue to support a "
@@ -659,7 +649,7 @@ msgstr ""
 "concentrera uniquement sur un système GNU construit autour de ce noyau, ou "
 "continuera-t-il à étendre sa gamme de noyaux libres ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: We will keep supporting Linux-based "
 "versions of the GNU system for as long as they remain popular."
@@ -668,7 +658,7 @@ msgstr ""
 "du système GNU basées sur Linux, aussi longtemps qu'elles resteront "
 "populaires."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: How will we refer to a Hurd-based operating system? Is "
 "it GNU Hurd, or GNU slash Hurd?"
@@ -676,7 +666,7 @@ msgstr ""
 "<strong>JA</strong> : Comment devra-t-on se référer au système "
 "d'exploitation basé sur le Hurd ? GNU Hurd, ou GNU slash Hurd ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: It's the GNU operating system, and the "
 "Hurd is its kernel. But because it's so common for people to use version of "
@@ -690,7 +680,7 @@ msgstr ""
 "distinguer les deux en disant GNU/Linux et GNU/Hurd, qui sont deux versions "
 "différentes du système GNU avec différents noyaux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: What would the advantages of using a GNU/Hurd system be "
 "over say a GNU/Linux system?"
@@ -698,7 +688,7 @@ msgstr ""
 "<strong>JA</strong> : Quels seraient les avantages pour l'utilisateur d'un "
 "système GNU/Hurd par rapport, disons, à un système GNU/Linux ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: There's probably no gigantic advantage "
 "that jumps out at the user's face if you're not writing interesting "
@@ -720,7 +710,7 @@ msgstr ""
 "s'assurer qu'il n'a pas commencé à écrire dans des fichiers où il n'est pas "
 "censé le faire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "These things may be doable with a kernel that doesn't have the Hurd's "
 "architecture, but with the Hurd it's trivial and the most natural thing in "
@@ -730,16 +720,16 @@ msgstr ""
 "Hurd, mais avec le Hurd c'est élémentaire ; c'est la chose la plus naturelle "
 "du monde."
 
-#. type: Content of: <h3>
-msgid "Writing Code vs. Management"
+#. type: Content of: <div><h3>
+msgid "Writing Code versus Management"
 msgstr "Codage contre gestion"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>JA</strong>: How much source code do you write these days?"
 msgstr ""
 "<strong>JA</strong> : Quelle quantité de code source écris-tu à présent ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: I myself? Only a little, on Emacs. I was "
 "involuntarily self-promoted into management."
@@ -747,14 +737,14 @@ msgstr ""
 "<strong>Richard Stallman</strong> : Moi-même personnellement ? Seulement un "
 "petit peu, sur Emacs. J'ai été involontairement autopromu à la gestion."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: That's an interesting description. How did this happen?"
 msgstr ""
 "<strong>JA</strong> : C'est une description intéressante. Comment est-ce "
 "arrivé ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: The amount of management and activism "
 "that had to be done got more and more, and so I had to find other people to "
@@ -765,15 +755,15 @@ msgstr ""
 "d'autres personnes pour reprendre de plus en plus de mes responsabilités de "
 "programmation."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>JA</strong>: Do you miss the programming?"
 msgstr "<strong>JA</strong> : Est-ce que tu regrettes la programmation ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>Richard Stallman</strong>: Yes. It's fun."
 msgstr "<strong>Richard Stallman</strong> : Oui, c'est amusant."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: Is the management/activist role something you desire to "
 "remain in?"
@@ -781,7 +771,7 @@ msgstr ""
 "<strong>JA</strong> : Est-ce que tu souhaites conserver ce rôle de "
 "gestionnaire et d'activiste ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: I wouldn't say I desire to, but it's "
 "necessary that I do so. At the moment we don't have anyone to replace me. "
@@ -794,11 +784,11 @@ msgstr ""
 "formation de personnes qui en seraient capables, de sorte que je ne sois pas "
 "indispensable."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>JA</strong>: What is your role these days?"
 msgstr "<strong>JA</strong> : Quel est ton rôle ces temps-ci ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: Partly it is being a very firm and "
 "determined leader. Partly it is being an orator. Partly it is advising other "
@@ -813,7 +803,7 @@ msgstr ""
 "comment être extrêmement opiniâtre et, quand une voie est bloquée, en "
 "trouver une autre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I've also learned the spirit of what you do when you're fighting for "
 "freedom. When it's a fight that you can't ever give up as lost."
@@ -821,7 +811,7 @@ msgstr ""
 "J'ai aussi appris dans quel état d'esprit on agit quand on combat pour la "
 "liberté, quand c'est un combat qu'on ne peut en aucun cas accepter de perdre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: Many of the programs you were the original author for "
 "are key components of much software development today (free and nonfree "
@@ -837,7 +827,7 @@ msgstr ""
 "années. Dans quelle mesure as-tu suivi les nombreux projets que tu as lancés "
 "et comment perçois-tu les directions qu'ils ont prises ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: I don't follow GCC and GDB in technical "
 "detail nowadays&mdash;other people now have that responsibility. I still "
@@ -847,18 +837,18 @@ msgstr ""
 "que de loin du point de vue technique ; d'autres ont maintenant cette "
 "responsabilité. Je supervise toujours le développement d'Emacs."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "GNU Emacs"
 msgstr "GNU Emacs"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: Then you are still working on Emacs at a code level?"
 msgstr ""
 "<strong>JA</strong> : Alors, tu travailles toujours sur Emacs au niveau du "
 "code ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: Yes, although now with my broken arm I "
 "really have no time to program anything. I will when my arm is better and I "
@@ -869,12 +859,12 @@ msgstr ""
 "le ferai quand mon bras ira mieux et que je pourrai taper moi-même de "
 "nouveau."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>JA</strong>: May I ask what happened to your arm?"
 msgstr ""
 "<strong>JA</strong> : Puis-je te demander ce qui est arrivé à ton bras ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: I fell and broke my arm, and I needed "
 "surgery. It hurts, and I think it will never be normal again. But I think it "
@@ -886,7 +876,7 @@ msgstr ""
 "plus jamais normal, mais je pense que ça ira pour taper. (Plus tard : ça va "
 "bien pour taper mais ça picote tout le temps.)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: I'm sorry to hear about your arm, and I wish you a "
 "speedy recovery."
@@ -894,7 +884,7 @@ msgstr ""
 "<strong>JA</strong> : Je suis désolé pour ton bras et je te souhaite de "
 "récupérer rapidement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I recently reread Cliff Stoll's &ldquo;The Cuckoo's Egg.&rdquo; Are you "
 "familiar with the book?"
@@ -902,11 +892,11 @@ msgstr ""
 "J'ai récemment relu <cite>The Cuckoo's Egg</cite> (L'œuf du coucou, non "
 "publié en français) de Cliff Stoll. Connais-tu ce livre ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>Richard Stallman</strong>: I have a vague memory of it."
 msgstr "<strong>Richard Stallman</strong> : J'en ai un vague souvenir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: A quick summary, he talks about a spy that breaks into "
 "a university computer system, initially using a security hole in GNU "
@@ -916,7 +906,7 @@ msgstr ""
 "système informatique d'une université, initialement en utilisant une faille "
 "de sécurité dans GNU Emacs&hellip;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: Well, whether it's really a security "
 "hole, or whether he had made a mistake by installing a certain program "
@@ -926,7 +916,7 @@ msgstr ""
 "ou qu'il ait commis une erreur en installant un certain programme en setuid "
 "est sujet à discussion."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: That's exactly what I was curious about, just what your "
 "reaction would have been to the book when it came out."
@@ -934,7 +924,7 @@ msgstr ""
 "<strong>JA</strong> : C'est exactement ce dont j'étais curieux : quelle "
 "aurait été ta réaction à la parution du livre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: His book made it sound like Emacs, or "
 "actually Movemail I think it was&hellip; His book made it sound like it was "
@@ -951,7 +941,7 @@ msgstr ""
 "programme. Donc en fait, des gens installant Emacs de la façon habituelle "
 "n'auraient pas eu ce problème."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "On the other hand, it certainly was useful to make Emacs more bulletproof, "
 "so that that problem couldn't happen even if you installed Movemail as "
@@ -961,15 +951,15 @@ msgstr ""
 "robuste, de façon que le problème ne puisse pas arriver même si on "
 "installait Movemail en setuid."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "That was ages ago."
 msgstr "C'était il y a une éternité."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Nonfree Software"
 msgstr "Logiciel privateur"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: What is your reaction to tools such as GCC, GDB and GNU "
 "Emacs being used for the development of nonfree software?"
@@ -977,7 +967,7 @@ msgstr ""
 "<strong>JA</strong> : Quelle est ta réaction lorsque des outils comme GCC, "
 "GDB et GNU Emacs sont utilisés pour développer des logiciels privateurs ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: Any development of nonfree software is "
 "harmful and unfortunate, whether it uses GNU tools or other tools. Whether "
@@ -991,7 +981,7 @@ msgstr ""
 "terme, qu'on puisse utiliser ces outils pour développer des logiciels "
 "privateurs, c'est une question dont je ne peux que deviner la réponse."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: How do you react to the opinion that nonfree software "
 "is justified as a means for raising dollars that can then be put into the "
@@ -1005,7 +995,7 @@ msgstr ""
 "pourraient pas être financés autrement et donc ne seraient jamais "
 "développés ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: This is no justification at all. A "
 "nonfree program systematically denies the users the freedom to cooperate; it "
@@ -1022,7 +1012,7 @@ msgstr ""
 "un problème sociétal. Il vaut mieux ne pas développer de logiciel que de "
 "développer du logiciel privateur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So if you find yourself in that situation, please don't follow that path. "
 "Please don't write the nonfree program&mdash;please do something else "
@@ -1034,11 +1024,11 @@ msgstr ""
 "faites autre chose. Nous pouvons attendre que quelqu'un ait l'occasion de "
 "développer un programme libre pour faire la même tâche."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>JA</strong>: What about the programmers&hellip;"
 msgstr "<strong>JA</strong> : Et les programmeurs, alors&hellip;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: What about them? The programmers writing "
 "nonfree software? They are doing something antisocial. They should get some "
@@ -1048,11 +1038,11 @@ msgstr ""
 "écrivent du logiciel privateur ? Ils font quelque chose d'antisocial. Ils "
 "devraient se trouver un autre boulot."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>JA</strong>: Such as?"
 msgstr "<strong>JA</strong> : Comme ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: There are thousands of different jobs "
 "people can have in society without developing nonfree software. You can even "
@@ -1067,11 +1057,11 @@ msgstr ""
 "fraction développe du logiciel privateur. La petite fraction des boulots qui "
 "concerne le logiciel privateur n'est pas difficile à éviter."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>JA</strong>: What is the distinction there?"
 msgstr "<strong>JA</strong> : Comment est-ce qu'on les distingue ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: Nonfree software is meant to be "
 "distributed to the public. Custom software is meant to be used by one "
@@ -1083,7 +1073,7 @@ msgstr ""
 "client ; il ne pose pas de problème éthique tant que tu respectes la liberté "
 "de ton client."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The next point is that programmers are a tiny fraction of employment in the "
 "computer field. Suppose somebody developed an AI and no programmers were "
@@ -1098,11 +1088,11 @@ msgstr ""
 "seraient condamnés au chômage pour le reste de leur vie ? Évidemment non, "
 "mais ça n'empêche pas les gens d'exagérer le problème."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "And what if there aren't any programming jobs in the US anymore?"
 msgstr "Et s'il n'y avait plus aucun poste de programmeur aux États-Unis ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: You mean what if all the programming jobs were "
 "outsourced to foreign countries?"
@@ -1110,7 +1100,7 @@ msgstr ""
 "<strong>JA</strong> : Tu veux dire si tous les postes de programmeur étaient "
 "externalisés vers des pays étrangers ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: Yes, what if they all go? This may "
 "actually happen. When you start thinking about things like total levels of "
@@ -1128,7 +1118,7 @@ msgstr ""
 "libre. Le problème vient en grande partie de choix économiques faits au seul "
 "bénéfice des riches. Comme de tirer les salaires vers le bas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You know, it's no coincidence that we're having all this outsourcing. That "
 "was carefully planned. International treaties were designed to make this "
@@ -1139,11 +1129,11 @@ msgstr ""
 "internationaux ont été conçus pour que ça arrive, de manière à réduire les "
 "salaires des gens."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>JA</strong>: Can you cite specific examples?"
 msgstr "<strong>JA</strong> : Peux-tu citer des exemples précis ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: FTAA. The World Trade Organization. "
 "NAFTA. These treaties are designed to reduce wages by making it easy for a "
@@ -1172,7 +1162,7 @@ msgstr ""
 "payés du monde entier, et alors nous reviendrons. Sinon, nous allons tous "
 "fuir votre pays et cela vous punira. »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Businesses very often do it, they move operations out of a country to punish "
 "that country. And I've recently come to the conclusion that frictionless "
@@ -1188,7 +1178,7 @@ msgstr ""
 "rendre celles-ci assez difficiles pour qu'on puisse obliger chaque société à "
 "rester dans un pays où elles sont réglementées."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The book No Logo explains that the Philippines have laws that protect labor "
 "standards, but these laws count for nothing any more. They decided to set up "
@@ -1207,13 +1197,13 @@ msgstr ""
 "l'exemption s'achève, les propriétaires la dissolvent et en créent une "
 "nouvelle."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>JA</strong>: How does free software address this?"
 msgstr ""
 "<strong>JA</strong> : Comment le logiciel libre essaie-t-il de résoudre ce "
 "problème ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: Free software doesn't address this. Free "
 "software addresses the issue of how computer users can have freedom to "
@@ -1230,7 +1220,7 @@ msgstr ""
 "trouveront un travail qui paie décemment, et que la réponse est : dans un "
 "monde de traités favorisant les bas salaires, ils n'en trouveront pas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It's inconsistent and futile to subject millions of people to the loss of "
 "freedom that nonfree software imposes, just so that a tiny segment of "
@@ -1242,7 +1232,7 @@ msgstr ""
 "segment de la société ait des boulots plus rémunérateurs, quand nous "
 "ignorons tout le reste de la société et leurs boulots pourris."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you want to start doing something about that problem, do it at the right "
 "level, which is the level of the power balance between corporations and "
@@ -1260,7 +1250,7 @@ msgstr ""
 "puissante pour être en capacité de dire à tous les pays du monde : « Je "
 "punirai tout pays qui n'obéira pas »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "That is the way it works now. And it was deliberately set up by people such "
 "as Reagan, and Clinton, and Bush and Bush."
@@ -1268,11 +1258,11 @@ msgstr ""
 "C'est comme cela que ça marche à présent. Et ce système a été délibérément "
 "mis en place par des gens comme Reagan, Clinton et les Bush père et fils."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "New Technologies"
 msgstr "Nouvelles technologies"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: I have read that the free software model tends to "
 "imitate existing software, rather than blaze new trails and developing "
@@ -1282,7 +1272,7 @@ msgstr ""
 "le logiciel existant, plutôt qu'à défricher de nouvelles pistes et "
 "développer des technologies complètement nouvelles."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: To speak of a free software &ldquo;"
 "model&rdquo; is somewhat misleading. The open source movement speaks of a "
@@ -1294,7 +1284,7 @@ msgstr ""
 "de développement » mais notre souci est la liberté de l'utilisateur, pas la "
 "manière dont le programme est développé."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Free software doesn't always imitate, but often it does. There's a good "
 "reason for this: freedom is the main goal, and innovation is secondary."
@@ -1303,7 +1293,7 @@ msgstr ""
 "y a une bonne raison à ça : la liberté est le but principal, l'innovation "
 "est secondaire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Our goal is to develop free software so that we can use computers "
 "exclusively with free software. In 1984, we started with nearly zero (we had "
@@ -1318,7 +1308,7 @@ msgstr ""
 "n'apportait pas d'innovation technique par rapport à Unix, il serait bien "
 "supérieur, car il respecte la liberté des gens alors qu'Unix ne le fait pas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: Do you believe that free software has caught up with "
 "nonfree software?"
@@ -1326,12 +1316,12 @@ msgstr ""
 "<strong>JA</strong> : Penses-tu que le logiciel libre ait rattrapé le "
 "logiciel privateur ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>Richard Stallman</strong>: To a large extent, but not totally."
 msgstr ""
 "<strong>Richard Stallman</strong> : En grande partie, mais pas totalement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: Would you say that we're going to start seeing a lot of "
 "technical innovations originating from free software as things are catching "
@@ -1341,7 +1331,7 @@ msgstr ""
 "beaucoup d'innovations techniques provenant du logiciel libre, maintenant "
 "que le retard se comble ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: We already have. We already have seen "
 "technical innovations in free software. A lot of them help make up the world "
@@ -1350,11 +1340,11 @@ msgstr ""
 "C'est déjà le cas. Nous avons déjà vu des innovations techniques dans le "
 "logiciel libre. Une grande partie d'entre elles sont des constituants du web."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "The Internet"
 msgstr "Internet"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: Does the importance of using only free software apply "
 "to the Internet?"
@@ -1362,11 +1352,11 @@ msgstr ""
 "<strong>JA</strong> : Est-ce que l'importance de l'usage exclusif de "
 "logiciel libre s'applique à Internet ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>Richard Stallman</strong>: I don't understand the question."
 msgstr "<strong>Richard Stallman</strong> : Je ne comprends pas la question."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: Software not only runs on personal computers, but also "
 "on the computers that comprise the Internet&hellip;"
@@ -1375,7 +1365,7 @@ msgstr ""
 "ordinateurs individuels, mais aussi sur les ordinateurs qui composent "
 "Internet&hellip;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: That may mean your computer. If your "
 "computer is on the Internet, then that's one of the computers you're talking "
@@ -1385,7 +1375,7 @@ msgstr ""
 "Si ton ordinateur est sur Internet, alors c'est l'un des ordinateurs dont tu "
 "parles."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: You're correct. At this very moment my computer is part "
 "of the Internet. And my computer is comprised entirely of free software. "
@@ -1397,7 +1387,7 @@ msgstr ""
 "libre. Malgré tout il y a une multitude d'ordinateurs sur Internet qui ne "
 "sont pas composés de logiciel libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: I think you meant to say, &ldquo;not "
 "running entirely free software.&rdquo; There are many computers on the net "
@@ -1410,7 +1400,7 @@ msgstr ""
 "ça signifie que les gens qui utilisent et possèdent ces ordinateurs ont "
 "perdu ce pan de leur liberté. C'est un problème."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: Do you consider it proper for people who are trying to "
 "only use free software to utilize&hellip;"
@@ -1418,7 +1408,7 @@ msgstr ""
 "<strong>JA</strong> : Considères-tu qu'il est approprié pour les gens qui "
 "essaient de n'utiliser que du logiciel libre&hellip;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: To connect to a server that's running "
 "nonfree software?"
@@ -1426,7 +1416,7 @@ msgstr ""
 "<strong>Richard Stallman</strong> : De se connecter à un serveur qui fait "
 "tourner du logiciel privateur ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I don't feel I need to refuse to connect to a server that is running nonfree "
 "software. For that matter, I won't refuse to type on a computer that's "
@@ -1443,7 +1433,7 @@ msgstr ""
 "avoir Windows sur mon ordinateur et tu ne devrais pas l'avoir sur le tien, "
 "mais je ne peux pas changer ça en refusant de toucher la machine."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you connect to a server that runs nonfree software, you're not the one "
 "whose freedom is harmed. It's the server operator who has lost freedom to "
@@ -1460,7 +1450,7 @@ msgstr ""
 "boycotter son site jusqu'à ce qu'il le fasse. Il ne t'oblige pas à utiliser "
 "du logiciel privateur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: Back to my earlier question, as a specific example do "
 "you use tools such as Google when attempting to locate online content?"
@@ -1469,7 +1459,7 @@ msgstr ""
 "exemple précis, utilises-tu des outils comme Google quand tu essaies de "
 "trouver du contenu en ligne ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: I have nothing against communicating with "
 "Google's network server, but for Google's sake I hope they have the freedom "
@@ -1488,18 +1478,18 @@ msgstr ""
 "liberté de le faire, de la même manière que toi et moi devons être libre de "
 "le faire avec le logiciel de nos machines."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "The Workplace"
 msgstr "Sur le lieu de travail"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: What if your job requires you to use nonfree software?"
 msgstr ""
 "<strong>JA</strong> : Et si ton boulot exige que tu utilises du logiciel "
 "privateur ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: I would quit that job. Would you "
 "participate in something anti-social just because somebody pays you to? What "
@@ -1520,11 +1510,11 @@ msgstr ""
 "le fait que quelqu'un soit payé pour faire quelque chose de mal n'est pas "
 "une excuse."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Embedded Applications"
 msgstr "Applications embarquées"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: Embedded applications have become more and more "
 "prevalent in society. Is it possible to completely avoid nonfree software "
@@ -1535,7 +1525,7 @@ msgstr ""
 "logiciel privateur tout en restant en contact avec les technologies "
 "actuelles ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: I don't know if it is possible, but if it "
 "is not, that is something we need to change. Once an embedded system can "
@@ -1550,11 +1540,11 @@ msgstr ""
 "exemple, s'il utilise du logiciel privateur pour parler au réseau, tu ne "
 "peux pas être certain qu'il ne t'espionne pas."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "SCO"
 msgstr "SCO"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: How do you react to SCO's recent accusations about the "
 "Linux kernel?"
@@ -1562,7 +1552,7 @@ msgstr ""
 "<strong>JA</strong> : Quelle est ta réaction aux récentes accusations de SCO "
 "en rapport avec le noyau Linux ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: The vague and cagey nature of their "
 "statements, coupled with having seen that the only specific facts they "
@@ -1573,14 +1563,14 @@ msgstr ""
 "produits se soient révélés faux, suggèrent que leur affaire n'est pas "
 "recevable."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: What impact do you expect this to have on free software?"
 msgstr ""
 "<strong>JA</strong> : D'après toi, comment cela risque-t-il d'affecter le "
 "logiciel libre ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: I don't expect it to have a big impact "
 "because I don't think they have a case. They're trying to create FUD and "
@@ -1591,22 +1581,22 @@ msgstr ""
 "Ils essaient de semer la crainte, l'incertitude et le doute, ce qui peut "
 "effrayer certaines personnes timorées."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: Do you expect this to bring the GPL into the courtroom?"
 msgstr ""
 "<strong>JA</strong> : Est-ce que tu t'attends à ce que cela amène la GPL "
 "devant le tribunal ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>Richard Stallman</strong>: I don't know."
 msgstr "<strong>Richard Stallman</strong> : Je ne sais pas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>JA</strong>: Is that a concern for you?"
 msgstr "<strong>JA</strong> : Est-ce un souci pour toi ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: We think the GPL will stand up in court, "
 "but no wise person is eager to get into a battle, even if he thinks he's "
@@ -1617,7 +1607,7 @@ msgstr ""
 "bataille, même si elle pense être assez armée et qu'elle gagnerait "
 "probablement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The arguments that SCO have been making are so laughably absurd that they "
 "lend support to the idea that SCO has no real case, that they're only "
@@ -1626,11 +1616,11 @@ msgstr ""
 "L'argumentation de SCO est risible et absurde, au point de faire penser "
 "qu'ils n'ont aucun argument valable et cherchent seulement à semer le doute."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>JA</strong>: To what end?"
 msgstr "<strong>JA</strong> : À quelle fin ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: They hope some companies will pay them "
 "money, and Microsoft already did."
@@ -1638,7 +1628,7 @@ msgstr ""
 "<strong>Richard Stallman</strong> : Ils espèrent que certaines sociétés vont "
 "leur donner de l'argent ; Microsoft l'a déjà fait."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To people who know almost nothing about copyright law, anything sounds as "
 "plausible as anything else. When they hear what SCO says, they don't know "
@@ -1650,7 +1640,7 @@ msgstr ""
 "SCO, ils ne savent pas à quel point c'est ridicule. Donc ils pensent « SCO "
 "dit ceci, IBM dit cela, comment puis-je savoir qui a raison ? »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: What's in store for the GNU General Public License "
 "(GPL)? Are there plans for a version 3?"
@@ -1658,7 +1648,7 @@ msgstr ""
 "<strong>JA</strong> : Qu'y a-t-il dans les tuyaux pour la licence publique "
 "générale GNU (GPL) ? Y a-t-il des projets pour une version 3 ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: Yes, but we are not really sure what will "
 "change. What we can say is that the changes will be details."
@@ -1667,11 +1657,11 @@ msgstr ""
 "sûrs de ce qui va changer. Ce que nous pouvons dire, c'est que ce seront des "
 "changements de détail."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Getting Involved"
 msgstr "S'impliquer"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>JA</strong>: Is there any other current event that you'd like to "
 "address?"
@@ -1679,7 +1669,7 @@ msgstr ""
 "<strong>JA</strong> : Y a-t-il un autre sujet d'actualité dont tu voudrais "
 "discuter ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: The FCC last year decided to require "
 "digital restrictions management in all receivers of digital TV. And not only "
@@ -1698,11 +1688,11 @@ msgstr ""
 "réglementation de l'État fédéral interdisant explicitement le logiciel libre "
 "pour une tâche que des millions de personnes vont vouloir faire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>JA</strong>: Are you optimistic about this?"
 msgstr "<strong>JA</strong> : Es-tu optimiste à ce sujet ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Richard Stallman</strong>: I don't know. I am a pessimist by nature. "
 "Many people can only keep on fighting when they expect to win. I'm not like "
@@ -1713,7 +1703,7 @@ msgstr ""
 "s'attendent à gagner. Je ne suis pas comme ça, je m'attends toujours à "
 "perdre. Je me bats quand même, et parfois je gagne."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I'm not the main leader in this particular battle. The Electronic Frontier "
 "Foundation is fighting. Public Knowledge is fighting. People need to get "
@@ -1737,13 +1727,21 @@ msgstr ""
 "semaine prochaine, les suivantes&hellip; Consacrez un peu de temps à la "
 "défense de votre liberté et nous pourrons gagner."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>JA</strong>: Thank you."
 msgstr "<strong>JA</strong> : Merci."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>Richard Stallman</strong>: Happy hacking!"
 msgstr "<strong>Richard Stallman</strong> : <i>Happy hacking!</i>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Source:&nbsp; <a href=\"https://web.archive.org/web/20120621163233/http://"
+"kerneltrap.org/node/4484\"> kerneltrap.org/node/4484</a> [Archived]"
+msgstr ""
+"Source : <a href=\"https://web.archive.org/web/20120621163233/http://"
+"kerneltrap.org/node/4484\">http://kerneltrap.org/node/4484</a> [archivé]"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -1771,14 +1769,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -1789,8 +1787,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2005, 2017, 2018 Richard Stallman, Jeremy Andrews"
-msgstr "Copyright &copy; 2005, 2017, 2018 Richard Stallman, Jeremy Andrews"
+msgid "Copyright &copy; 2005, 2021 Richard Stallman, Jeremy Andrews"
+msgstr "Copyright &copy; 2005, 2021 Richard Stallman, Jeremy Andrews"
 
 #. type: Content of: <div><p>
 msgid ""

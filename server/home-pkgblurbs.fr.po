@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home-pkgblurbs.html\n"
-"POT-Creation-Date: 2021-09-01 14:28+0000\n"
-"PO-Revision-Date: 2021-09-01 21:01+0200\n"
+"POT-Creation-Date: 2021-09-14 00:57+0000\n"
+"PO-Revision-Date: 2021-09-14 11:35+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -1213,11 +1213,21 @@ msgstr "<a href=\"/software/dia/\">Dia</a>"
 #.  TRANSLATORS: stale 
 #. type: Content of: <p>
 msgid ""
-"See <a href=\"#gnome\">gnome</a>.  <small>(<a href=\"/manual/manual.html#dia"
-"\">doc</a>)</small>"
+"Dia is a GNU program for drawing diagrams.  It is a versatile diagramming "
+"tool with a modular design that allows development of custom shape packages "
+"for drawing various kinds of diagrams by writing XML files, and has support "
+"for UML diagrams, flowcharts, network diagrams, circuit diagrams, and many "
+"more.  Dia can export diagrams to a number of formats, including EPS, SVG, "
+"PNG, and more.  <small>(<a href=\"/manual/manual.html#dia\">doc</a>)</small>"
 msgstr ""
-"Voir <a href=\"#gnome\">gnome</a>.  <small>(<a href=\"/manual/manual.html#dia"
-"\">doc</a>)</small>"
+"Dia est un programme GNU qui sert à dessiner des diagrammes. C'est un outil "
+"de programmation versatile de conception modulaire qui s'appuie sur des "
+"fichiers XML et permet de créer des ensembles de formes nouvelles destinées "
+"à divers types de diagrammes. Il prend en charge les diagrammes UML, les "
+"organigrammes de programmation <i>[flowcharts]</i>, les diagrammes de "
+"réseau, les schémas de circuits et plus encore. Dia peut exported les "
+"diagrammes dans de nombreux formats, entre autres EPS, SVG et PNG.  <small>"
+"(<a href=\"/manual/manual.html#dia\">doc</a>)</small>"
 
 #. type: Content of: <h4>
 msgid "<a href=\"/software/dico/\">Dico</a>"
@@ -2199,18 +2209,6 @@ msgstr ""
 "interface web expérimentale.  <small>(<a href=\"/manual/manual.html#glean"
 "\">doc</a>)</small>"
 
-#. type: Content of: <h4>
-msgid "<a href=\"/software/glib/\">GLib</a>"
-msgstr "<a href=\"/software/glib/\">GLib</a>"
-
-#. type: Content of: <p>
-msgid ""
-"See <a href=\"#gnome\">gnome</a>.  <small>(<a href=\"/manual/manual.html#glib"
-"\">doc</a>)</small>"
-msgstr ""
-"Voir <a href=\"#gnome\">gnome</a>.  <small>(<a href=\"/manual/manual."
-"html#glib\">doc</a>)</small>"
-
 #. type: Attribute 'alt' of: <h4><img>
 msgid "logo for global"
 msgstr "logo de global"
@@ -2373,27 +2371,6 @@ msgid ""
 msgstr ""
 "See <a href=\"#gnats\">gnats</a>.  <small>(<a href=\"/manual/manual."
 "html#gnatsweb\">doc</a>)</small>"
-
-#. type: Attribute 'alt' of: <h4><img>
-msgid "logo for gnome"
-msgstr "logo de gnome"
-
-#. type: Content of: <h4>
-msgid "<a href=\"/software/gnome/\">GNOME</a>"
-msgstr "<a href=\"/software/gnome/\">GNOME</a>"
-
-#. type: Content of: <p>
-msgid ""
-"GNOME is the graphical desktop for GNU.  It includes a wide variety of "
-"applications for browsing the web, editing text and images, creating "
-"documents and diagrams, playing media, scanning, and much more.  <small>(<a "
-"href=\"/manual/manual.html#gnome\">doc</a>)</small>"
-msgstr ""
-"GNOME est le bureau graphique de GNU. Il inclut une grande variété "
-"d'applications pour naviguer sur le web, éditer du texte et des images, "
-"créer des documents et des diagrammes, lire des fichiers multimédia, "
-"numériser et plus encore.  <small>(<a href=\"/manual/manual.html#gnome"
-"\">doc</a>)</small>"
 
 #.  TRANSLATORS: stale 
 #. type: Content of: <h4>
@@ -3489,18 +3466,6 @@ msgstr ""
 "battements par minute. Elle possède une interface utilisateur basée sur GTK+ "
 "et fonctionne avec les pilotes audio OSS et ALSA.  <small>(<a href=\"/manual/"
 "manual.html#gtick\">doc</a>)</small>"
-
-#. type: Content of: <h4>
-msgid "<a href=\"/software/gtk+/\">GTK+</a>"
-msgstr "<a href=\"/software/gtk+/\">GTK+</a>"
-
-#. type: Content of: <p>
-msgid ""
-"See <a href=\"#gnome\">gnome</a>.  <small>(<a href=\"/manual/manual.html#gtk"
-"\">doc</a>)</small>"
-msgstr ""
-"Voir <a href=\"#gnome\">gnome</a>.  <small>(<a href=\"/manual/manual.html#gtk"
-"\">doc</a>)</small>"
 
 #. type: Content of: <h4>
 msgid "<a href=\"/software/gtypist/\">Gtypist</a>"

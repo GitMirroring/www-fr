@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-software-rocket.html\n"
-"POT-Creation-Date: 2020-11-14 16:25+0000\n"
-"PO-Revision-Date: 2020-11-15 10:55+0100\n"
+"POT-Creation-Date: 2021-09-14 16:26+0000\n"
+"PO-Revision-Date: 2021-09-14 23:11+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -24,17 +24,17 @@ msgstr ""
 "Le logiciel des fusées doit-il être entièrement libre ? Logiciel libre et "
 "matériel - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Should Rockets Have Only Free Software? Free Software and Appliances"
 msgstr ""
 "Le logiciel des fusées doit-il être entièrement libre ? Logiciel libre et "
 "matériel"
 
-#. type: Content of: <address>
+#. type: Content of: <div><address>
 msgid "by Richard Stallman"
 msgstr "par Richard Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Could there be a rocket that is totally free software? Should we demand that "
 "SpaceX liberate the software in its satellite launching rockets? I don't "
@@ -48,7 +48,7 @@ msgstr ""
 "sérieuse, mais en répondant à cette question, on peut éclairer des questions "
 "similaires sur les produits que les gens achètent de nos jours."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "As far as I know, software as such is not capable of generating thrust.  A "
 "rocket is necessarily principally a physical device, so it can't literally "
@@ -61,7 +61,7 @@ msgstr ""
 "peut inclure des systèmes de contrôle et de télémétrie informatisés, donc du "
 "logiciel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If someone offered to sell me a rocket, I would treat it like any other "
 "appliance.  Consider, for instance, a thermostat.  If it contains software "
@@ -89,7 +89,7 @@ msgstr ""
 "du code. S'il contient effectivement du code, on pourrait aussi bien le "
 "remplacer par une puce spécialisée, donc ce que c'est m'importe peu."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I would object if that thermostat sent someone data about my activities, "
 "regardless of how that was implemented.  Once again, special chip or special "
@@ -104,7 +104,7 @@ msgstr ""
 "pas le seul moyen. Un autre est de déconnecter les antennes de communication "
 "numérique, directement ou avec un interrupteur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If the rocket contains software, releasing that as free software can be a "
 "contribution to the community, and we should appreciate that "
@@ -120,7 +120,7 @@ msgstr ""
 "l'amélioration du logiciel qu'elles contiennent, bien que dans ce cas la "
 "nature irréversible de beaucoup de pannes puisse décourager le bidouillage."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Readers have pointed out that SpaceX has received <a href=\"https://www."
 "theverge.com/2019/6/18/18683455/nasa-space-angels-contracts-government-"
@@ -137,7 +137,7 @@ msgstr ""
 "la fusée sous une licence libre, même s'il est utilisé uniquement à "
 "l'intérieur de la fusée."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Given the experience of Tesla cars, which are full of surveillance and "
 "tracking malware that Tesla can change but the owner can't, I suppose SpaceX "
@@ -161,7 +161,7 @@ msgstr ""
 "de liberté (beaucoup moins que de libérer le logiciel du véhicule) et "
 "pourtant affronte un dur combat."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, I don't think SpaceX sells rockets; I think it provides the service "
 "of launching payloads in its own rockets.  That makes the issue totally "
@@ -173,7 +173,7 @@ msgstr ""
 "fusées.  La question est donc totalement différente : si vous êtes le "
 "client, vous ne faites pas fonctionner la fusée ; c'est SpaceX qui le fait."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The rocket that SpaceX uses is not like your own car or van, or even a car "
 "or van leased to you.  Rather, it's comparable to a moving company's van "
@@ -188,7 +188,7 @@ msgstr ""
 "destination que vous avez spécifiée. C'est à l'entreprise de déménagement "
 "que revient le contrôle du logiciel de ce camion, pas au client actuel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It makes sense to treat the job of transporting your things to Outer "
 "Mongolia, or to outer space, as a service because the job is mostly self-"
@@ -204,7 +204,7 @@ msgstr ""
 "qui la définissent sont simples (transporte ces caisses à l'adresse A pour "
 "la date D)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If SpaceX has released the rocket software under a free license, that would "
 "give you the right to make, use and distribute modified versions, but would "
@@ -215,7 +215,7 @@ msgstr ""
 "et de les distribuer, mais ne vous donnerait pas le droit de modifier le "
 "code qui fait fonctionner la fusée."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But there is a kind of activity which a hypothetical future spaceship might "
 "do, which should never be treated as a service: private computational "
@@ -228,7 +228,7 @@ msgstr ""
 "précisément ce que vous pouvez faire sur votre ordinateur personnel en toute "
 "liberté si vous avez le logiciel libre adéquat."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When a program's task is to do computing for you, you are entitled to demand "
 "control over what it does and how, not just that it obey your orders as it "
@@ -241,14 +241,14 @@ msgstr ""
 "sa façon. Autrement dit, vous avez droit à votre propre copie d'un programme "
 "libre, à utiliser sur un ordinateur dont vous avez le contrôle."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "No wonder there are companies that would like you to cede control over your "
 "computing activities to them, by labeling those activities as &ldquo;"
 "services&rdquo; to be done on their servers with programs that they "
 "control.  Even things as minutely directed by the user as text editing! This "
 "is a scheme to get you to substitute their power for your freedom.  We call "
-"that &ldquo;Service as a Software Substitute&rdquo;, SaaSS for short (see "
+"that &ldquo;Service as a Software Substitute,&rdquo; SaaSS for short (see "
 "&ldquo;<a href=\"/philosophy/who-does-that-server-really-serve.html\">Who "
 "does that server really serve?</a>&rdquo;), and we reject it."
 msgstr ""
@@ -262,7 +262,7 @@ msgstr ""
 "that-server-really-serve.html\">Qui ce serveur sert-il réellement ?</a> »), "
 "et nous le refusons."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For instance, imagine a hypothetical SpaceX Smart Spaceship, which as a "
 "&ldquo;service&rdquo; wants to know all about your business so SpaceX "
@@ -279,7 +279,7 @@ msgstr ""
 "faites votre planification avec votre copie d'un logiciel libre sur votre "
 "propre ordinateur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "SpaceX and others could then legitimately offer you the non-computational "
 "service of transporting cargoes, and you could use it sometimes; or you "
@@ -335,8 +335,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2020 Richard Stallman"
-msgstr "Copyright &copy; 2020 Richard Stallman"
+msgid "Copyright &copy; 2020, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2020, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

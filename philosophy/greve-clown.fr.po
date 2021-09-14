@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: greve-clown\n"
-"POT-Creation-Date: 2020-10-06 09:25+0000\n"
-"PO-Revision-Date: 2021-05-25 16:38+0200\n"
+"POT-Creation-Date: 2021-09-14 16:26+0000\n"
+"PO-Revision-Date: 2021-09-14 23:11+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -26,56 +26,53 @@ msgid ""
 msgstr ""
 "Histoire et philosophie du projet GNU - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "History and Philosophy of the GNU Project"
 msgstr "Histoire et philosophie du projet GNU"
 
-#. type: Content of: <address>
+#. type: Content of: <div><address>
 msgid ""
-"<strong>Georg C. F. Greve</strong> <a href=\"mailto:greve@gnu.org\">&lt;"
-"greve@gnu.org&gt;</a>"
+"Georg C. F. Greve <a href=\"mailto:greve@gnu.org\">&lt;greve@gnu.org&gt;</a>"
 msgstr ""
 "Georg C. F. Greve <a href=\"mailto:greve@gnu.org\">&lt;greve@gnu.org&gt;</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"<em>Translation of a speech that was given in German at the CLOWN (Cluster "
-"of Working Nodes&mdash; a 512-node cluster project of Debian GNU/Linux "
-"machines) in the University of Paderborn, Germany, on December 5th, 1998.</"
-"em>"
+"Translation of a speech that was given in German at the CLOWN (Cluster of "
+"Working Nodes&mdash; a 512-node cluster project of Debian GNU/Linux "
+"machines) in the University of Paderborn, Germany, on December 5th, 1998."
 msgstr ""
-"<em>Traduction d'un discours donné en allemand au CLOWN <i>(CLuster Of "
-"Working Nodes)</i>, un projet de grappe de 512 machines sous Debian GNU/"
-"Linux à l'université de Paderborn (Allemagne), le 5 décembre 1998.</em>"
+"Traduction d'un discours donné en allemand au CLOWN <i>(CLuster Of Working "
+"Nodes)</i>, un projet de grappe de 512 machines sous Debian GNU/Linux à "
+"l'université de Paderborn (Allemagne), le 5 décembre 1998."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"<em>The <a href=\"/philosophy/greve-clown.de.html\">German original</a> is "
-"also available.  Reading the original is recommended.</em>"
+"The <a href=\"/philosophy/greve-clown.de.html\">German original</a> is also "
+"available.  Reading the original is recommended."
 msgstr ""
-"<em>La traduction en français a été faite à partir de l'<a href=\"/"
-"philosophy/greve-clown.de.html\">original en allemand</a>, avec quelques "
-"vérifications sur la version anglaise. Reportez-vous si possible à "
-"l'original.</em>"
+"La traduction en français a été faite à partir de l'<a href=\"/philosophy/"
+"greve-clown.de.html\">original en allemand</a>, avec quelques vérifications "
+"sur la version anglaise. Reportez-vous si possible à l'original."
 
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"Author's note: In translating this speech, I have tried to stay as close as "
-"possible to the original speech that I have given in German. Breaking up the "
-"German structures and turning them into reasonable English has been quite "
-"some work, and I would like to thank my roommate Doug Chapin, a good friend "
-"and native American, who helped me with some phrases and words. The "
-"translation will never hold the same emotions and implications, but I think "
-"we got very close&hellip;"
+"<em> Author's note: In translating this speech, I have tried to stay as "
+"close as possible to the original speech that I have given in German. "
+"Breaking up the German structures and turning them into reasonable English "
+"has been quite some work, and I would like to thank my roommate Doug Chapin, "
+"a good friend and native American, who helped me with some phrases and "
+"words. The translation will never hold the same emotions and implications, "
+"but I think we got very close&hellip; </em>"
 msgstr ""
-"Note de l'auteur : En traduisant ce texte [en anglais], j'ai essayé de "
+"<em>Note de l'auteur : En traduisant ce texte [en anglais], j'ai essayé de "
 "rester aussi près que possible du discours que j'avais fait en Allemagne. "
 "Reconstruire les phrases allemandes pour les transformer en un anglais "
 "correct a demandé un certain travail ; je voudrais remercier mon colocataire "
 "et ami Doug Chapin, qui est d'origine américaine, de m'avoir aidé à traduire "
 "quelques mots et expressions. La traduction n'arrivera jamais à transmettre "
 "les mêmes émotions et implications que le discours, mais je pense que nous "
-"en sommes très proches&hellip;"
+"en sommes très proches&hellip;</em>"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -722,13 +719,14 @@ msgstr ""
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
-"<hr /><b>Notes de relecture</b><ol>\n"
-"<li id=\"TransNote1\">Autre traduction de <i>proprietary</i> : "
-"propriétaire. <a href=\"#TransNote1-rev\" class=\"nounderline\">&#8593;</a></"
-"li>\n"
-"<li id=\"TransNote2\">En anglais, le mot <i>free</i> veut dire « libre », "
-"mais aussi « gratuit », d'où la confusion possible. <a href=\"#TransNote2-rev"
-"\" class=\"nounderline\">&#8593;</a></li>\n"
+"<hr /><b>Notes de traduction</b><ol>\n"
+"<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"Autre traduction de <i>proprietary</i> : propriétaire.</li>\n"
+"<li><a id=\"TransNote2\" href=\"#TransNote2-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"En anglais, le mot <i>free</i> veut dire « libre », mais aussi « gratuit », "
+"d'où la confusion possible.</li>\n"
 "</ol>"
 
 #. type: Content of: <div><div><p>
@@ -760,14 +758,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="

@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-hardware-designs.html\n"
-"POT-Creation-Date: 2021-05-31 03:55+0000\n"
-"PO-Revision-Date: 2021-05-31 12:00+0200\n"
+"POT-Creation-Date: 2021-09-14 16:26+0000\n"
+"PO-Revision-Date: 2021-09-14 23:11+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -25,21 +25,15 @@ msgstr ""
 "Matériel libre et plans libres pour le matériel - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Free Hardware and Free Hardware Designs"
 msgstr "Matériel libre et plans libres pour le matériel"
 
-#. type: Content of: <p>
-msgid "by <a href=\"http://www.stallman.org/\">Richard M. Stallman</a>"
-msgstr "par <a href=\"http://www.stallman.org/\">Richard M. Stallman</a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <blockquote><p>
-msgid "Most of this article was published in two parts in Wired in March 2015."
-msgstr ""
-"L'essentiel de cet article a été publié en deux parties dans wired.com en "
-"mars 2015."
-
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To what extent do the ideas of free software extend to hardware? Is it a "
 "moral obligation to make our hardware designs free, just as it is to make "
@@ -52,11 +46,11 @@ msgstr ""
 "que conserver notre liberté nous oblige à refuser le matériel construit sur "
 "des plans non libres ?"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Definitions"
 msgstr "Définitions"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<em>Free software</em> is a matter of freedom, not price; broadly speaking, "
 "it means that users are free to use the software and to copy and "
@@ -75,7 +69,7 @@ msgstr ""
 "<i>free</i> fait référence à la liberté et non au prix, nous accolons "
 "souvent le mot français ou espagnol « libre » à <i>free</i>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Applying the same concept directly to hardware, <em>free hardware</em> means "
 "hardware that users are free to use and to copy and redistribute with or "
@@ -91,7 +85,7 @@ msgstr ""
 "des composants matériels sont fabriqués sur plan. Le plan précède le "
 "matériel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Thus, the concept we really need is that of a <em>free hardware design</"
 "em>.  That's simple: it means a design that permits users to use the design "
@@ -106,7 +100,7 @@ msgstr ""
 "modification. Un tel plan doit offrir les quatre libertés, évoquées plus "
 "haut, qui définissent le logiciel libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Then we can refer to hardware made from a free design as &ldquo;free "
 "hardware,&rdquo; but &ldquo;free-design hardware&rdquo; is a clearer term "
@@ -116,7 +110,7 @@ msgstr ""
 "de « matériel libre », mais l'expression « matériel dont le plan est libre » "
 "est plus claire puisqu'elle évite tout malentendu."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "People first encountering the idea of free software often think it means you "
 "can get a copy gratis.  Many free programs are available for zero price, "
@@ -136,7 +130,7 @@ msgstr ""
 "sont gratuits, bien qu'ils ne soient pas libres). Accoler le mot « libre » à "
 "<i>free</i> aide à clarifier ce point."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For hardware, this confusion tends to go in the other direction; hardware "
 "costs money to produce, so commercially made hardware won't be gratis "
@@ -157,15 +151,15 @@ msgstr ""
 "l'enjeu de la liberté prime absolument sur l'enjeu du prix, car un appareil "
 "qui refuse la liberté à ses utilisateurs vaut moins que rien."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We can use the term &ldquo;libre hardware&rdquo; as a concise equivalent for "
-"&ldquo;hardware made from a free (libre)  design&rdquo;."
+"&ldquo;hardware made from a free (libre)  design.&rdquo;"
 msgstr ""
 "On peut utiliser le terme « matériel libre » <i>[libre hardware]</i> comme "
 "équivalent concis de « matériel fabriqué à partir de plans libres »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The terms &ldquo;open hardware&rdquo; and &ldquo;open source hardware&rdquo; "
 "are used by some with the same concrete meaning as &ldquo;free-design "
@@ -188,11 +182,11 @@ msgstr ""
 "fois que cela est pertinent ; puisqu'« open » ne permet pas cette "
 "distinction, ne le substituons pas à « libre »."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Hardware and Software"
 msgstr "Matériel et logiciel"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Hardware and software are fundamentally different.  A program, even in "
 "compiled executable form, is a collection of data which can be interpreted "
@@ -207,7 +201,7 @@ msgstr ""
 "d'un ordinateur. Un exemplaire de programme n'a pas de forme physique ni "
 "matérielle intrinsèque."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "By contrast, hardware is a physical structure and its physicality is "
 "crucial.  While the hardware's design might be represented as data, in some "
@@ -222,7 +216,7 @@ msgstr ""
 "pas très loin en essayant de taper sur le plan d'un clavier ni en affichant "
 "des pixels sur le plan d'un écran."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Furthermore, while you can use a computer to modify or copy the hardware "
 "design, a computer can't convert the design into the physical structure it "
@@ -233,11 +227,11 @@ msgstr ""
 "ce plan dans la structure physique qu'il décrit. Cela demande un équipement "
 "de fabrication."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "The Boundary between Hardware and Software"
 msgstr "La frontière entre matériel et logiciel"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What is the boundary, in digital devices, between hardware and software? It "
 "follows from the definitions.  Software is the operational part of a device "
@@ -252,7 +246,7 @@ msgstr ""
 "qui ne peut pas l'être. C'est le meilleur moyen de faire la distinction, car "
 "cela renvoie à des conséquences pratiques."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There is a gray area between hardware and software that contains firmware "
 "that <em>can</em> be upgraded or replaced, but is not meant ever to be "
@@ -269,7 +263,7 @@ msgstr ""
 "concernés. Nous pouvons donc presque considérer ces micrologiciels comme du "
 "matériel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some have said that preinstalled firmware programs and Field-Programmable "
 "Gate Array chips (FPGAs) &ldquo;blur the boundary between hardware and "
@@ -291,7 +285,7 @@ msgstr ""
 "FPGA lui-même est du matériel, mais le schéma logique de portes chargé dans "
 "ce circuit FPGA est une sorte de micrologiciel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Running free gate patterns on FPGAs could potentially be a useful method for "
 "making digital devices that are free at the circuit level.  However, to make "
@@ -309,7 +303,7 @@ msgstr ""
 "aucun modèle de FPGA pour lequel ces fichiers pouvaient être générés sans "
 "outil non libre (privateur)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "As of 2015, free software tools are available for <a href=\"http://www."
 "clifford.at/icestorm/\">programming the Lattice iCE40</a>, a common model of "
@@ -330,7 +324,7 @@ msgstr ""
 "les autres modèles de FPGA jusqu'à ce qu'ils soient eux aussi pris en charge "
 "par des outils libres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "As for the HDL code itself, it can act as software (when it is run on an "
 "emulator or loaded into an FPGA) or as a hardware design (when it is "
@@ -341,11 +335,11 @@ msgstr ""
 "schéma de composant matériel (lorsqu'il est mis en œuvre dans des "
 "semiconducteurs inamovibles ou dans un circuit imprimé)."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "The Ethical Question for 3D Printers"
 msgstr "La question éthique posée par les imprimantes 3D"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Ethically, <a href=\"/philosophy/free-software-even-more-important.html"
 "\">software must be free</a>; a nonfree program is an injustice.  Should we "
@@ -356,7 +350,7 @@ msgstr ""
 "source d'injustice. Faut-il avoir la même optique en ce qui concerne la "
 "conception de matériel ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We certainly should, in the fields that 3D printing (or, more generally, any "
 "sort of personal fabrication) can handle.  Printer patterns to make a "
@@ -375,38 +369,38 @@ msgstr ""
 "qu'ils utilisent. Diffuser un modèle non libre pour un objet fonctionnel est "
 "aussi mal que de diffuser un programme non libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Be careful to choose 3D printers that work with exclusively free software; "
-"the Free Software Foundation <a href=\"http://fsf.org/resources/hw/"
-"endorsement\">endorses such printers</a>.  Some 3D printers are made from "
-"free hardware designs, but <a href=\"http://www.cnet.com/news/pulling-back-"
-"from-open-source-hardware-makerbot-angers-some-adherents/\">Makerbot's "
-"hardware designs are nonfree</a>."
+"the Free Software Foundation <a href=\"https://ryf.fsf.org/\">endorses such "
+"printers</a>.  Some 3D printers are made from free hardware designs, but <a "
+"href=\"https://www.cnet.com/news/pulling-back-from-open-source-hardware-"
+"makerbot-angers-some-adherents/\">Makerbot's hardware designs are nonfree</"
+"a>."
 msgstr ""
 "Soyez attentifs à choisir des imprimantes 3D fonctionnant avec du logiciel "
-"exclusivement libre ; la Free Software Foundation <a href=\"http://fsf.org/"
-"resources/hw/endorsement\">homologue de telles imprimantes</a>. Certaines "
-"imprimantes 3D sont conçues à partir de plans libres mais la <a href="
-"\"http://www.cnet.com/news/pulling-back-from-open-source-hardware-makerbot-"
-"angers-some-adherents/\">Makerbot est de conception non libre</a>."
+"exclusivement libre ; la Free Software Foundation <a href=\"https://ryf.fsf."
+"org/\">homologue de telles imprimantes</a>. Certaines imprimantes 3D sont "
+"conçues à partir de plans libres mais la <a href=\"https://www.cnet.com/news/"
+"pulling-back-from-open-source-hardware-makerbot-angers-some-adherents/"
+"\">Makerbot est de conception non libre</a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Must We Reject Nonfree Digital Hardware?"
 msgstr "Devons-nous refuser le matériel numérique non libre ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"Is a nonfree digital <a href=\"#fn1\">(*)</a> hardware design an injustice? "
+"Is a nonfree digital <a href=\"#fn1\">[1]</a> hardware design an injustice? "
 "Must we, for our freedom's sake, reject all digital hardware made from "
 "nonfree designs, as we must reject nonfree software?"
 msgstr ""
-"La conception non libre d'un matériel numérique <a href=\"#fn1\">(*)</a> "
+"La conception non libre d'un matériel numérique <a href=\"#fn1\">[1]</a> "
 "engendre-t-elle une injustice ? Devons-nous, au nom de nos libertés, rejeter "
 "tous les matériels numériques créés à partir de plans non libres, tout comme "
 "nous devons rejeter le logiciel non libre ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Due to the conceptual parallel between hardware designs and software source "
 "code, many hardware hackers are quick to condemn nonfree hardware designs "
@@ -419,7 +413,7 @@ msgstr ""
 "le logiciel non libre. Je ne suis pas d'accord, car la situation est "
 "différente pour le matériel et le logiciel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Present-day chip and board fabrication technology resembles the printing "
 "press: it lends itself to mass production in a factory.  It is more like "
@@ -431,7 +425,7 @@ msgstr ""
 "la façon dont on copiait des livres en 1950 qu'à la façon dont on copie du "
 "logiciel aujourd'hui."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Freedom to copy and change software is an ethical imperative because those "
 "activities are feasible for those who use software: the equipment that "
@@ -446,7 +440,7 @@ msgstr ""
 "d'aujourd'hui sont trop peu puissants pour être adaptés à cet usage, mais "
 "n'importe qui peut se procurer un ordinateur assez puissant."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Moreover, a computer suffices to download and run a version changed by "
 "someone else who knows how, even if you are not a programmer.  Indeed, "
@@ -459,7 +453,7 @@ msgstr ""
 "téléchargent des logiciels et en font tourner tous les jours. C'est pourquoi "
 "le logiciel libre change véritablement les choses pour eux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "How much of this applies to hardware? Not everyone who can use digital "
 "hardware knows how to change a circuit design, or a chip design, but anyone "
@@ -472,7 +466,7 @@ msgstr ""
 "nécessaire pour le faire. Jusque-là, le matériel et le logiciel sont "
 "similaires, mais ensuite vient la grande différence."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You can't build and run a circuit design or a chip design in your computer.  "
 "Constructing a big circuit is a lot of painstaking work, and that's once you "
@@ -499,7 +493,7 @@ msgstr ""
 "libre cesse de s'appliquer aux technologies actuelles de fabrication du "
 "matériel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In 1983 there was no free operating system, but it was clear that if we had "
 "one, we could immediately use it and get software freedom.  All that was "
@@ -510,7 +504,7 @@ msgstr ""
 "accéder à la liberté du logiciel. Tout ce qui manquait était le code d'un "
 "système de ce type."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In 2014, if we had a free design for a CPU chip suitable for a PC, mass-"
 "produced chips made from that design would not give us the same freedom in "
@@ -527,7 +521,7 @@ msgstr ""
 "plans libres nous donnent la liberté du matériel, nous avons besoin de "
 "technologies de fabrication nouvelles."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We can envision a future in which our personal fabricators can make chips, "
 "and our robots can assemble and solder them together with transformers, "
@@ -546,7 +540,7 @@ msgstr ""
 "maîtrisent la conception du matériel. Les arguments pour rejeter le logiciel "
 "non libre s'appliqueront alors aussi aux plans du matériel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "That future is years away, at least.  In the meantime, there is no need to "
 "reject hardware with nonfree designs on principle."
@@ -555,20 +549,11 @@ msgstr ""
 "attendant, il n'est pas nécessaire de rejeter par principe le matériel dont "
 "les plans ne sont pas libres."
 
-#. type: Content of: <p>
-msgid ""
-"* As used here, &ldquo;digital hardware&rdquo; includes hardware with some "
-"analog circuits and components in addition to digital ones."
-msgstr ""
-"* Ici, « matériel numérique » recouvre également le matériel utilisant "
-"quelques circuits et composants analogiques en plus des circuits et "
-"composants numériques."
-
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "We Need Free Digital Hardware Designs"
 msgstr "Nous avons besoin de plans libres pour le matériel numérique"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Although we need not reject digital hardware made from nonfree designs in "
 "today's circumstances, we need to develop free designs and should use them "
@@ -581,7 +566,7 @@ msgstr ""
 "procurent des avantages aujourd'hui, et à l'avenir ils pourraient être la "
 "seule façon d'utiliser du logiciel libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Free hardware designs offer practical advantages.  Multiple companies can "
 "fabricate one, which reduces dependence on a single vendor.  Groups can "
@@ -606,7 +591,7 @@ msgstr ""
 "seraient publiées et dont moins de composants pourraient être utilisés "
 "contre nous."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Free hardware designs may become usable for some parts of our computers and "
 "networks, and for embedded systems, before we are able to make entire "
@@ -617,7 +602,7 @@ msgstr ""
 "embarqués, avant de pouvoir nous en servir pour fabriquer des ordinateurs "
 "complets."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Free hardware designs may become essential even before we can fabricate the "
 "hardware personally, if they become the only way to avoid nonfree software.  "
@@ -646,7 +631,7 @@ msgstr ""
 "modems de téléphones mobiles, tous les modèles actuellement disponibles sont "
 "malveillants."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some day, free-design digital hardware may be the only platform that permits "
 "running a free system at all.  Let us aim to have the necessary free digital "
@@ -659,7 +644,7 @@ msgstr ""
 "espérons que nous aurons les moyens de fabriquer le matériel correspondant à "
 "des coûts suffisamment bas pour tous les utilisateurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you design hardware, please make your designs free.  If you use hardware, "
 "please join in urging and pressuring companies to make hardware designs free."
@@ -669,11 +654,11 @@ msgstr ""
 "entreprises, en faisant pression sur elles, pour qu'elles rendent libres les "
 "plans de leur matériel."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Levels of Design"
 msgstr "Niveaux de conception"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Software has levels of implementation; a package might include libraries, "
 "commands and scripts, for instance.  But these levels don't make a "
@@ -694,7 +679,7 @@ msgstr ""
 "partir de son code source. Rendre l'ensemble libre nécessite simplement de "
 "poursuivre le travail jusqu'à ce qu'il soit terminé."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Therefore, we insist that a program be free at all levels.  For a program to "
 "qualify as free, every line of the source code that composes it must be "
@@ -705,7 +690,7 @@ msgstr ""
 "ligne de code qui le compose doit être libre, de sorte qu'on puisse le "
 "compiler à partir du seul code source libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Physical objects, by contrast, are often built out of components that are "
 "designed and build in a different kind of factory.  For instance, a computer "
@@ -718,7 +703,7 @@ msgstr ""
 "conception (ou la fabrication) des puces est très différente de la "
 "conception (ou de la fabrication) de l'ordinateur à partir de ces puces."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Thus, we need to distinguish <em>levels</em> in the design of a digital "
 "product (and maybe some other kinds of products).  The circuit that connects "
@@ -737,11 +722,11 @@ msgstr ""
 "soit libre à tous les niveaux. Dans les circonstances actuelles, le simple "
 "fait de rendre libre un niveau est une amélioration significative."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"However, if a design at one level combines free and nonfree parts &mdash; "
-"for example, a &ldquo;free&rdquo; HDL circuit that incorporates proprietary "
-"&ldquo;soft cores&rdquo; &mdash; we must conclude that the design as a whole "
+"However, if a design at one level combines free and nonfree parts&mdash;for "
+"example, a &ldquo;free&rdquo; HDL circuit that incorporates proprietary "
+"&ldquo;soft cores&rdquo;&mdash;we must conclude that the design as a whole "
 "is nonfree at that level.  Likewise for nonfree &ldquo;wizards&rdquo; or "
 "&ldquo;macros,&rdquo; if they specify part of the interconnections of chips "
 "or programmably connected parts of chips.  The free parts may be a step "
@@ -759,11 +744,11 @@ msgstr ""
 "il faudra remplacer les parties non libres. Elles ne pourront jamais être "
 "acceptables dans le monde du libre."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Licenses and Copyright for Free Hardware Designs"
 msgstr "Licences et copyright adaptés aux plans libres pour le matériel"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You make a hardware design free by releasing it under a free license.  We "
 "recommend using the GNU General Public License, version 3 or later.  We "
@@ -773,7 +758,7 @@ msgstr ""
 "libre. Nous recommandons la licence publique générale GNU, version 3 ou "
 "ultérieure. Nous avons conçu la version 3 de la GPL en envisageant cet usage."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Copyleft on circuits, and on nondecorative object shapes, doesn't go as far "
 "as one might suppose.  The copyright on these designs only applies to the "
@@ -786,7 +771,7 @@ msgstr ""
 "copyleft étant une façon d'utiliser le droit du copyright, son effet ne se "
 "fait sentir que dans la mesure où le copyright s'applique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For instance, a circuit, as a topology, cannot be copyrighted (and therefore "
 "cannot be copylefted).  Definitions of circuits written in HDL can be "
@@ -809,7 +794,7 @@ msgstr ""
 "d'une façon apparemment différente, ou écrire une définition différente en "
 "code HDL qui produise le même circuit."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Copyright doesn't cover physical circuits, so when people build instances of "
 "the circuit, the design's license will have no legal effect on what they do "
@@ -820,17 +805,17 @@ msgstr ""
 "n'aura aucune incidence juridique sur ce qu'ils feront avec les appareils "
 "qu'ils auront construits."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For drawings of objects, and 3D printer models, copyright doesn't cover "
 "making a different drawing of the same purely functional object shape.  It "
 "also doesn't cover the functional physical objects made from the drawing.  "
 "As far as copyright is concerned, everyone is free to make them and use them "
 "(and that's a freedom we need very much).  In the US, copyright does not "
-"cover the functional aspects that the design describes, but <a href=\"http://"
-"www.copyright.gov/title17/92chap13.html#1301\">does cover decorative "
-"aspects</a>.  When one object has decorative aspects and functional aspects, "
-"you get into tricky ground <a href=\"#fn2\">(*)</a>."
+"cover the functional aspects that the design describes, but <a href="
+"\"https://www.copyright.gov/title17/92chap13.html#1301\">does cover "
+"decorative aspects</a>.  When one object has decorative aspects and "
+"functional aspects, you get into tricky ground <a href=\"#fn2\">[2]</a>."
 msgstr ""
 "En ce qui concerne les dessins d'objets et les modèles pour imprimantes 3D, "
 "le copyright ne s'applique pas à un dessin différent de la forme du même "
@@ -839,12 +824,12 @@ msgstr ""
 "chacun est libre de les fabriquer et de les utiliser (et c'est une liberté "
 "dont nous avons grand besoin). Aux États-Unis, le copyright ne régit pas les "
 "aspects fonctionnels de ce que décrit le plan, mais en revanche <a href="
-"\"http://www.copyright.gov/title17/92chap13.html#1301\">il couvre les "
+"\"https://www.copyright.gov/title17/92chap13.html#1301\">il couvre les "
 "aspects décoratifs</a>. Quand un objet a des aspects décoratifs et des "
-"aspects fonctionnels, on se trouve en situation délicate <a href=\"#fn2\">(*)"
+"aspects fonctionnels, on se trouve en situation délicate <a href=\"#fn2\">[2]"
 "</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "All this may be true in your country as well, or it may not.  Before "
 "producing objects commercially or in quantity, you should consult a local "
@@ -861,7 +846,7 @@ msgstr ""
 "n'avaient rien à voir avec l'élaboration des plans que vous utilisez ; et "
 "d'autres problèmes juridiques peuvent aussi se présenter."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Keep in mind that copyright law and patent law are totally different.  It is "
 "a mistake to suppose that they have anything in common.  This is why the "
@@ -874,29 +859,11 @@ msgstr ""
 "html\">propriété intellectuelle</a> » est source de pure confusion et doit "
 "être totalement rejeté."
 
-#. type: Content of: <p>
-msgid ""
-"* An article by Public Knowledge gives useful information about this <a href="
-"\"https://www.publicknowledge.org/assets/uploads/"
-"documents/3_Steps_for_Licensing_Your_3D_Printed_Stuff.pdf\"> complexity</a>, "
-"for the US, though it falls into the common mistake of using the bogus "
-"concept of &ldquo;intellectual property&rdquo; and the propaganda term "
-"&ldquo;<a href=\"/philosophy/words-to-avoid.html#Protection\">protection</a>."
-"&rdquo;"
-msgstr ""
-"* Un article de Public Knowledge donne des renseignements utiles sur cette "
-"<a href=\"https://www.publicknowledge.org/assets/uploads/"
-"documents/3_Steps_for_Licensing_Your_3D_Printed_Stuff.pdf\">complexité</a> "
-"(pour ce qui est des États-Unis) bien qu'il tombe dans l'erreur commune "
-"consistant à utiliser l'expression fallacieuse « propriété intellectuelle » "
-"et le terme de propagande « <a href=\"/philosophy/words-to-avoid."
-"html#Protection\">protection</a> »."
-
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Promoting Free Hardware Designs Through Repositories"
 msgstr "Promotion des plans libres pour le matériel par le biais des dépôts"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The most effective way to push for published hardware designs to be free is "
 "through rules in the repositories where they are published.  Repository "
@@ -911,7 +878,7 @@ msgstr ""
 "suppose d'exiger la liberté des plans d'objets utiles comme condition "
 "préalable à leur publication."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For decorative objects, that argument does not apply, so we don't have to "
 "insist they must be free.  However, we should insist that they be sharable.  "
@@ -924,7 +891,7 @@ msgstr ""
 "objets décoratifs et des objets fonctionnels doit avoir une politique "
 "appropriée en matière de licence pour chaque catégorie."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For digital designs, I suggest that the repository insist on GNU GPL v3-or-"
 "later, Apache 2.0, or CC0.  For functional 3D designs, the repository should "
@@ -940,11 +907,11 @@ msgstr ""
 "décoratifs, le choix doit être entre la GNU GPL v3 ou ultérieure, la licence "
 "Apache 2.0, la CC0 ou n'importe laquelle des licences Creative Commons."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The repository should require all designs to be published as source code, "
 "and source code in secret formats usable only by proprietary design programs "
-"is not really adequate.  For a 3D model, the <a href=\"http://en.wikipedia."
+"is not really adequate.  For a 3D model, the <a href=\"https://en.wikipedia."
 "org/wiki/STL_%28file_format%29\">STL format</a> is not the preferred format "
 "for changing the design and thus is not source code, so the repository "
 "should not accept it, except perhaps accompanying real source code."
@@ -952,13 +919,13 @@ msgstr ""
 "Le dépôt doit exiger que tous les plans soient publiés en tant que code "
 "source, étant entendu que les codes sources en formats secrets utilisables "
 "uniquement par des logiciels privateurs de conception ne sont pas vraiment "
-"adéquats. Pour les modèles 3D, le <a href=\"http://fr.wikipedia.org/wiki/"
+"adéquats. Pour les modèles 3D, le <a href=\"https://fr.wikipedia.org/wiki/"
 "Fichier_de_st%C3%A9r%C3%A9olithographie\">format STL</a> n'est pas le format "
 "préféré pour les modifications et par conséquent n'est pas du code source, "
 "aussi le dépôt ne doit-il pas l'accepter, sauf peut-être s'il accompagne le "
 "vrai code source."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There is no reason to choose one single format for the source code of "
 "hardware designs, but source formats that cannot yet be handled with free "
@@ -969,11 +936,11 @@ msgstr ""
 "par des logiciels libres doivent être acceptés avec réticence dans le "
 "meilleur des cas."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Free Hardware Designs and Warranties"
 msgstr "Plans libres pour le matériel et garanties"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In general, the authors of free hardware designs have no moral obligation to "
 "offer a warranty to those that fabricate the design.  This is a different "
@@ -985,11 +952,11 @@ msgstr ""
 "plans. Il s'agit d'un problème différent de celui de la vente de matériel "
 "physique, qui doit être accompagné d'une garantie du vendeur ou du fabricant."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Conclusion"
 msgstr "Conclusion"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We already have suitable licenses to make our hardware designs free.  What "
 "we need is to recognize as a community that this is what we should do and to "
@@ -1000,14 +967,54 @@ msgstr ""
 "devoir en tant que communauté, et d'insister pour que nos plans soient "
 "libres lorsque nous fabriquons nous-même des objets."
 
+#. type: Content of: <div><h3>
+msgid "Footnotes"
+msgstr "Notes"
+
+#. type: Content of: <div><ol><li>
+msgid ""
+"As used here, &ldquo;digital hardware&rdquo; includes hardware with some "
+"analog circuits and components in addition to digital ones."
+msgstr ""
+"Ici, « matériel numérique » recouvre également le matériel utilisant "
+"quelques circuits et composants analogiques en plus des circuits et "
+"composants numériques."
+
+#. type: Content of: <div><ol><li>
+msgid ""
+"An article by Public Knowledge gives useful information about this <a href="
+"\"https://www.publicknowledge.org/assets/uploads/"
+"documents/3_Steps_for_Licensing_Your_3D_Printed_Stuff.pdf\"> complexity</a>, "
+"for the US, though it falls into the common mistake of using the bogus "
+"concept of &ldquo;intellectual property&rdquo; and the propaganda term "
+"&ldquo;<a href=\"/philosophy/words-to-avoid.html#Protection\">protection</a>."
+"&rdquo;"
+msgstr ""
+"Un article de Public Knowledge donne des renseignements utiles sur cette <a "
+"href=\"https://www.publicknowledge.org/assets/uploads/"
+"documents/3_Steps_for_Licensing_Your_3D_Printed_Stuff.pdf\">complexité</a> "
+"(pour ce qui est des États-Unis) bien qu'il tombe dans l'erreur commune "
+"consistant à utiliser l'expression fallacieuse « propriété intellectuelle » "
+"et le terme de propagande « <a href=\"/philosophy/words-to-avoid."
+"html#Protection\">protection</a> »."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Most of this article was published in two parts in <cite>Wired</cite> in "
+"March 2015."
+msgstr ""
+"L'essentiel de cet article a été publié en deux parties dans <cite>Wired</"
+"cite> en mars 2015."
+
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
-" <hr /><b>Note de traduction</b><ol>\n"
-"<li id=\"TransNote1\">En anglais, <i>free software</i>. Le mot <i>free</i> a "
-"deux significations : « libre » et « gratuit ». <a href=\"#TransNote1-rev\" "
-"class=\"nounderline\">&#8593;</a></li>\n"
+"<hr /><b>Note de traduction</b><ol>\n"
+"<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"En anglais, <i>free software</i>. Le mot <i>free</i> a deux significations : "
+"« libre » et « gratuit ».</li>\n"
 "</ol>"
 
 #. type: Content of: <div><div><p>
@@ -1031,14 +1038,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -1049,8 +1056,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015, 2016, 2018, 2019, 2021 Richard Stallman"
-msgstr "Copyright &copy; 2015, 2016, 2018, 2019, 2021 Richard Stallman"
+msgid "Copyright &copy; 2015, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2015, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

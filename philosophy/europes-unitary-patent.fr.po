@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: europes-unitary-patent.html\n"
-"POT-Creation-Date: 2019-03-09 16:56+0000\n"
-"PO-Revision-Date: 2020-12-06 17:36+0100\n"
+"POT-Creation-Date: 2021-09-14 16:25+0000\n"
+"PO-Revision-Date: 2021-09-14 23:11+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -27,29 +27,20 @@ msgstr ""
 "Le « brevet unitaire » européen pourrait engendrer des brevets logiciels "
 "sans limites - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid ""
-"Europe's &ldquo;unitary patent&rdquo; could mean unlimited software patents"
+"Europe's &ldquo;unitary patent&rdquo; Could Mean Unlimited Software Patents"
 msgstr ""
 "Le « brevet unitaire » européen pourrait engendrer des brevets logiciels "
 "sans limites"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "by Richard Stallman"
 msgstr "par Richard Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"First published in <a href=\"http://www.guardian.co.uk/technology/2011/"
-"aug/22/european-unitary-patent-software-warning\"> The Guardian</a>"
-msgstr ""
-"Publié initialement dans <a href=\"http://www.guardian.co.uk/technology/2011/"
-"aug/22/european-unitary-patent-software-warning\">The Guardian</a>"
-
-# Lien enlevé le 9-2-13 pour coller à la VO : http://www.guardian.co.uk/law/2011/may/18/hargreaves-report-recommends-overhaul-of-copyright-laws
-#. type: Content of: <p>
-msgid ""
-"Just as the US software industry is experiencing <a href=\"http://www.fsf."
+"Just as the US software industry is experiencing <a href=\"https://www.fsf."
 "org/blogs/community/tal-when-patents-attack\">the long anticipated all-out "
 "software patent wars</a> that we have anticipated, the European Union has a "
 "plan to follow the same course.  When the Hargreaves report urged the UK to "
@@ -57,31 +48,33 @@ msgid ""
 "impose them on UK."
 msgstr ""
 "Alors que l'industrie américaine du logiciel, comme nous l'avions prévu "
-"depuis longtemps, connaît en ce moment des <a href=\"http://www.fsf.org/"
+"depuis longtemps, connaît en ce moment des <a href=\"https://www.fsf.org/"
 "blogs/community/tal-when-patents-attack\">guerres tous azimuts portant sur "
 "des brevets logiciels</a>, l'Union européenne poursuit un projet la "
 "conduisant tout droit sur les mêmes traces. Tandis que le rapport Hargreaves "
 "presse le Royaume-Uni d'éviter les brevets logiciels, le gouvernement "
 "britannique a d'ores et déjà approuvé un projet susceptible de les imposer."
 
-#. type: Content of: <p>
+#.  Guardian, June 23,
+#. 2005 
+#. type: Content of: <div><p>
 msgid ""
 "Software patents are dangerous to software developers because they impose "
 "monopolies on software ideas. It is not feasible or safe to develop "
-"nontrivial software if you must thread a maze of patents. See &ldquo;"
-"Software Patents and Literary Patents&rdquo;, Guardian, June 20, 2005."
+"nontrivial software if you must thread a maze of patents. See &ldquo;<a href="
+"\"/philosophy/software-literary-patents.html\">Software Patents and Literary "
+"Patents</a>.&rdquo;"
 msgstr ""
 "Les brevets logiciels sont dangereux pour les développeurs, car ils imposent "
 "des monopoles sur des idées informatiques. Il n'est ni possible, ni sûr, de "
 "développer des logiciels qui ne soient pas triviaux, si l'on doit cheminer à "
-"travers un labyrinthe de brevets. Consultez l'article du 20 juin 2005 du "
-"<cite>Guardian</cite>, <i>« Software Patents and Literary Patents »</i>.<a "
-"id=\"TransNote1-rev\" href=\"#TransNote1\"><sup>1</sup></a>"
+"travers un labyrinthe de brevets. Consultez « <a href=\"/philosophy/software-"
+"literary-patents.html\">Brevets logiciels et brevets littéraires</a> »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Every program combines many ideas; a large program implements thousands of "
-"them. Google recently estimated there <a href=\"http://www.guardian.co.uk/"
+"them. Google recently estimated there <a href=\"https://www.theguardian.com/"
 "technology/2011/aug/04/apple-patents-android-expensive-google\">might be "
 "250,000 patented ideas</a> in a smartphone. I find that figure plausible "
 "because in 2004 I estimated that the GNU/Linux operating system implemented "
@@ -90,16 +83,16 @@ msgid ""
 "the whole system at the time.)"
 msgstr ""
 "Tout programme informatique combine de nombreuses idées ; un gros programme "
-"en met en œuvre des milliers. Google a récemment estimé <a href=\"http://www."
-"guardian.co.uk/technology/2011/aug/04/apple-patents-android-expensive-google"
-"\">qu'il pourrait y avoir 250 000 idées brevetées dans un smartphone</a>. Je "
-"trouve ce chiffre plausible, car en 2004, j'estimais que le système "
+"en met en œuvre des milliers. Google a récemment estimé <a href=\"https://"
+"www.guardian.co.uk/technology/2011/aug/04/apple-patents-android-expensive-"
+"google\">qu'il pourrait y avoir 250 000 idées brevetées dans un smartphone</"
+"a>. Je trouve ce chiffre plausible, car en 2004, j'estimais que le système "
 "d'exploitation GNU/Linux mettait en œuvre près de 100 000 idées "
 "effectivement brevetées (Dan Ravicher avait trouvé que 283 de ces idées "
 "étaient contenues dans Linux, le noyau qui, selon les estimations, "
 "représentait 0,25% du système entier à cette époque)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The consequences are becoming manifest now in the US, but multinational "
 "companies have long lobbied to spread software patents around the world.  In "
@@ -116,13 +109,13 @@ msgstr ""
 "avait précédemment amendé la directive pour les rejeter mais le Conseil de "
 "l'Europe avait annulé ces amendements."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The Commission's text was written in a sneaky way: when read by laymen, it "
 "appeared to forbid patents on pure software ideas, because it required a "
 "patent application to have a physical aspect.  However, it did not require "
-"the &ldquo;inventive step&rdquo;, the advance that constitutes a patentable "
-"&ldquo;invention&rdquo;, to be physical."
+"the &ldquo;inventive step,&rdquo; the advance that constitutes a patentable "
+"&ldquo;invention,&rdquo; to be physical."
 msgstr ""
 "Le texte de la Commission était rédigé de manière sournoise : pour le commun "
 "des mortels, il semblait interdire les brevets sur les idées logicielles "
@@ -130,7 +123,7 @@ msgstr ""
 "physique. Cependant, il ne demandait pas que l'« activité inventive » – le "
 "progrès justifiant une « invention » brevetable – soit elle-même physique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This meant that a patent application could present the required physical "
 "aspect just by mentioning the usual physical elements of the computer on "
@@ -152,7 +145,7 @@ msgstr ""
 "ordinateur, mais cela n'aurait pas limité grand-chose, puisqu'il n'est pas "
 "viable de faire tourner un gros programme en le simulant à la main."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A massive grass-roots effort&mdash;the first one ever directed at convincing "
 "the European Parliament&mdash;resulted in defeat of the directive. But that "
@@ -167,7 +160,7 @@ msgstr ""
 "forces pro-brevets aient décidé à la dernière minute de jeter leur propre "
 "proposition à la poubelle."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The volunteer activists drifted away, thinking the battle won, but the "
 "corporate lobbyists for software patents were paid to stay on the job.  Now "
@@ -185,7 +178,7 @@ msgstr ""
 "participants, c'est-à-dire, dans ce cas, dans toute l'UE, excepté l'Espagne "
 "et l'Italie."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "How would that affect software patents? Evidently, either the unitary patent "
 "system would allow software patents or it wouldn't. If it allows them, no "
@@ -199,7 +192,7 @@ msgstr ""
 "système rejetait les brevets logiciels ? Cela serait une bonne chose – n'est-"
 "ce pas ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Right&mdash;except the plan was designed to prevent that. A small but "
 "crucial detail in the plan is that appeals against the EPO's decisions would "
@@ -213,13 +206,13 @@ msgstr ""
 "les entreprises européennes et les utilisateurs de l'informatique tant qu'il "
 "lui plairait."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The EPO has a vested interest in extending patents into as many areas of "
 "life as it can get away with. With external limits (such as national courts) "
 "removed, the EPO could impose software patents, or any other controversial "
 "kind of patents. For instance, if it chooses to decide that natural genes "
-"are patentable, as <a href=\"http://www.techdirt.com/"
+"are patentable, as <a href=\"https://www.techdirt.com/"
 "articles/20110729/16573515324/appeals-court-says-genes-are-patentable-"
 "because-theyre-separate-your-dna.shtml\">a US appeals court just did</a>, no "
 "one could reverse that decision except perhaps the European Court of Justice."
@@ -229,19 +222,19 @@ msgstr ""
 "externes (telles que les tribunaux nationaux), l'OEB pourrait imposer les "
 "brevets logiciels, ou tout autre type de brevet controversé. Par exemple, "
 "s'il choisit de décider que les gènes naturels sont brevetables, <a href="
-"\"http://www.techdirt.com/articles/20110729/16573515324/appeals-court-says-"
+"\"https://www.techdirt.com/articles/20110729/16573515324/appeals-court-says-"
 "genes-are-patentable-because-theyre-separate-your-dna.shtml\">comme une cour "
 "d'appel des États-Unis vient de le faire</a>, personne ne pourra renverser "
 "cette décision, sauf peut-être la Cour de justice de l'Union européenne "
 "(CJUE), la plus haute cour en Europe."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In fact, the EPO's decision about software patents has already been made, "
 "and can be seen in action. The EPO has issued tens of thousands of software "
 "patents, in contempt for the treaty that established it. (See &ldquo;<a href="
 "\"https://web.archive.org/web/20190120193501/https://webshop.ffii.org/"
-"\">Your web shop is patented</a>&rdquo;.) At present, though, each state "
+"\">Your web shop is patented</a>.&rdquo;) At present, though, each state "
 "decides whether those patents are valid. If the unitary patent system is "
 "adopted and the EPO gets unchecked power to decide, Europe will get US-style "
 "patent wars."
@@ -256,7 +249,7 @@ msgstr ""
 "décision sans contrôle, il y aura en Europe des guerres de brevets comme aux "
 "États-Unis."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The European Court of Justice ruled in March that a unitary patent system "
 "would have to be subject to its jurisdiction, but it isn't clear whether its "
@@ -270,7 +263,7 @@ msgstr ""
 "« les idées logicielles peuvent-elles être brevetées ? ». Car le lien entre "
 "la Convention sur le brevet européen et la CJUE n'est pas clair."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If the ECJ can decide this, the plan would no longer be certain disaster. "
 "Instead, the ball would be one bounce away from disaster.  Before adopting "
@@ -287,32 +280,32 @@ msgstr ""
 "pas le coût d'un désastre ; l'harmonisation est un objectif trompeur si elle "
 "signifie que les choses empirent partout."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"The UK government seems to wish for the disaster, since <a href=\"http://"
-"webarchive.nationalarchives.gov.uk/20140603093549/http://www.ipo.gov.uk/"
-"commissairebarnier.pdf\">it stated in December 2010 [archived]</a> that it "
-"wanted the ECJ not have a say over the system.  Will the government listen "
-"to Hargreaves and change its mind about this plan? Britons must insist on "
-"this."
+"The UK government seems to wish for the disaster, since <a href=\"https://"
+"webarchive.nationalarchives.gov.uk/ukgwa/20140603093549/http://www.ipo.gov."
+"uk/commissairebarnier.pdf\">it stated in December 2010 [archived]</a> that "
+"it wanted the ECJ not have a say over the system.  Will the government "
+"listen to Hargreaves and change its mind about this plan? Britons must "
+"insist on this."
 msgstr ""
-"Le gouvernement britannique semble vouloir le désastre, car <a href=\"http://"
-"webarchive.nationalarchives.gov.uk/20140603093549/http://www.ipo.gov.uk/"
-"commissairebarnier.pdf\">il a déclaré en décembre 2010 [archivé]</a> qu'il "
-"ne voulait pas que la CJUE ait son mot à dire sur le système. Le "
+"Le gouvernement britannique semble vouloir le désastre, car <a href="
+"\"https://webarchive.nationalarchives.gov.uk/20140603093549/http://www.ipo."
+"gov.uk/commissairebarnier.pdf\">il a déclaré en décembre 2010 [archivé]</a> "
+"qu'il ne voulait pas que la CJUE ait son mot à dire sur le système. Le "
 "gouvernement écoutera-t-il Hargreaves et changera-t-il d'avis sur ce "
 "projet ? Les Britanniques doivent insister là-dessus."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "More information about the drawbacks and legal flaws of this plan can be "
-"found in <a href=\"http://unitary-patent.eu\">unitary-patent.eu</a>."
+"found in <a href=\"https://www.unitary-patent.eu/\">unitary-patent.eu</a>."
 msgstr ""
 "Vous pouvez trouver plus d'informations sur les défauts et les failles "
-"juridiques de ce projet sur <a href=\"http://unitary-patent.eu/fr/content/"
+"juridiques de ce projet sur <a href=\"https://unitary-patent.eu/fr/content/"
 "home\">www.brevet-unitaire.eu</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You will note that the term &ldquo;intellectual property&rdquo; has not been "
 "used in this article. That term spreads confusion because it is applied to a "
@@ -320,7 +313,7 @@ msgid ""
 "they are so different in their requirements and effects that generalizing "
 "about the two is a mistake. Absolutely nothing in this article pertains to "
 "copyright law. To avoid leading people to generalize about disparate laws, I "
-"never use the term &ldquo;intellectual property&rdquo;, and I never miss it "
+"never use the term &ldquo;intellectual property,&rdquo; and I never miss it "
 "either."
 msgstr ""
 "Vous remarquerez que l'expression « propriété intellectuelle » n'est pas "
@@ -333,16 +326,19 @@ msgstr ""
 "faire des généralisations à partir de lois hétérogènes, je n'utilise jamais "
 "l'expression « propriété intellectuelle » et cela ne me manque pas."
 
+#. type: Content of: <div><div><p>
+msgid ""
+"First published in <a href=\"https://www.theguardian.com/technology/2011/"
+"aug/22/european-unitary-patent-software-warning\"> The Guardian</a>"
+msgstr ""
+"Publié initialement dans <a href=\"https://www.guardian.co.uk/"
+"technology/2011/aug/22/european-unitary-patent-software-warning\">The "
+"Guardian</a>"
+
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
-msgstr ""
-"<hr /><b>Note du traducteur</b> :<ol>\n"
-"<li id=\"TransNote1\">Traduction française par Gérald Sédrati-Dinet : <a "
-"href=\"http://www.ffii.fr/Brevets-logiciels-et-brevets.html\">Brevets "
-"logiciels et brevets littéraires</a>. Il existe une <a href=\"/philosophy/"
-"software-literary-patents.html\">version plus récente de cet article</a>. <a "
-"href=\"#TransNote1-rev\" class=\"nounderline\">&#8593;</a></li></ol>"
+msgstr " "
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -365,14 +361,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -383,8 +379,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2019 Richard Stallman"
-msgstr "Copyright &copy; 2011, 2019 Richard Stallman"
+msgid "Copyright &copy; 2011, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2011, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -401,7 +397,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Gérald SÉDRATI-DINET.<br /> Révision : <a href=\"mailto:trad-"
+"Traduction : Gérald Sédrati-Dinet.<br /> Révision : <a href=\"mailto:trad-"
 "gnu&#64;april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 
