@@ -8,30 +8,30 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: no-ip-ethos.html\n"
-"POT-Creation-Date: 2014-03-14 04:34+0000\n"
-"PO-Revision-Date: 2018-09-07 14:24+0200\n"
+"POT-Creation-Date: 2021-09-16 16:58+0000\n"
+"PO-Revision-Date: 2021-09-16 20:18+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 "X-Generator: Gtranslator 2.91.5\n"
 
-#. type: Content of: <h2>
-msgid "Don't Let &lsquo;Intellectual Property&rsquo; Twist Your Ethos"
+#. type: Content of: <div><h2>
+msgid "Don't Let &ldquo;Intellectual Property&rdquo; Twist Your Ethos"
 msgstr "Ne laissez pas la « propriété intellectuelle » déformer votre éthos"
 
-#. type: Content of: <p>
-msgid "by <a href=\"http://www.stallman.org/\">Richard M.  Stallman</a>"
-msgstr "par <a href=\"http://www.stallman.org/\">Richard M. Stallman</a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
-msgid "June 09, 2006"
-msgstr "le 9 juin 2006"
+#. type: Content of: <div><p>
+msgid "<i>June 09, 2006</i>"
+msgstr "<i>le 9 juin 2006</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Most free software licenses are based on copyright law, and for good reason: "
 "Copyright law is much more uniform among countries than contract law, which "
@@ -42,7 +42,7 @@ msgstr ""
 "plus uniforme dans les différents pays que le droit du contrat, qui est "
 "l'autre choix possible."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There's another reason not to use contract law: It would require every "
 "distributor to get a user's formal assent to the contract before providing a "
@@ -54,24 +54,26 @@ msgstr ""
 "obtienne de l'utilisateur son adhésion formelle au contrat. Remettre un CD à "
 "quelqu'un sans obtenir d'abord sa signature serait interdit. Quelle galère !"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It's true that in countries like China, where copyright law is generally not "
 "enforced, we may also have trouble enforcing free software license "
-"agreements, as Heather Meeker suggests in her recent LinuxInsider column, <a "
-"href= \"http://www.linuxinsider.com/story/50421.html\">&ldquo;Only in "
-"America? Copyright Law Key to Global Free Software Model&rdquo;</a>."
+"agreements, as Heather Meeker suggests in her recent <cite>LinuxInsider</"
+"cite> column, &ldquo;<a href= \"https://linuxinsider.com/story/only-in-"
+"america-copyright-law-key-to-global-free-software-model-50421.html\">Only in "
+"America? Copyright Law Key to Global Free Software Model</a>.&rdquo;"
 msgstr ""
 "C'est vrai que dans des pays comme la Chine, où le droit du copyright n'est "
 "généralement pas respecté, nous pourrions avoir des difficultés à faire "
 "respecter les accords d'une licence de logiciel libre, comme l'a récemment "
-"suggéré Heather Meeker dans son article du <cite>LinuxInsider</cite>, <a "
-"href= \"http://www.linuxinsider.com/story/50421.html\">Only in America? "
-"Copyright Law Key to Global Free Software Model</a> (Seulement aux États-"
-"Unis ? Le droit du copyright est essentiel pour un modèle mondial du "
-"logiciel libre)."
+"suggéré Heather Meeker dans son article du <cite>LinuxInsider</cite>, "
+"<i>« <a href= \"https://linuxinsider.com/story/only-in-america-copyright-law-"
+"key-to-global-free-software-model-50421.html\">Only in America? Copyright "
+"Law Key to Global Free Software Model</a> »</i> (Seulement aux États-Unis ? "
+"Le droit du copyright est essentiel pour un modèle mondial du logiciel "
+"libre)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, this is not a reason to press for more copyright enforcement in "
 "China. Although we would use it to protect people's freedom, we have to "
@@ -83,31 +85,30 @@ msgstr ""
 "gens, nous devons reconnaître que des entreprises comme Microsoft, Disney et "
 "Sony l'utiliseraient surtout pour la supprimer."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Ironically, we might have more success enforcing copyright in China than "
-"Microsoft, Disney and Sony &mdash; because what we would want to do is "
-"easier."
+"Microsoft, Disney and Sony&mdash;because what we would want to do is easier."
 msgstr ""
 "Comble de l'ironie, nous arriverions mieux à faire respecter le copyright en "
 "Chine que Microsoft, Disney et Sony – parce que notre objectif serait plus "
 "facile à atteindre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Disney wishes to stamp out semi-underground organizations that sell exact "
 "copies. With free software, regardless of precisely which free license is "
 "used, that kind of copying is legal. What we want to prevent, when the free "
-"software license is the GNU <a href=\"/copyleft/gpl.html\">GPL</a>, is the "
+"software license is the GNU <a href=\"/licenses/gpl.html\">GPL</a>, is the "
 "release of proprietary software products based on our code. That kind of "
-"abuse is at its worst when carried out by large, well-known companies "
-"&mdash; and they are easier targets for enforcement. So GPL enforcement in "
-"China is not a lost cause, though it won't be easy."
+"abuse is at its worst when carried out by large, well-known companies&mdash;"
+"and they are easier targets for enforcement. So GPL enforcement in China is "
+"not a lost cause, though it won't be easy."
 msgstr ""
 "Disney souhaite étouffer les organisations plus ou moins clandestines qui "
 "vendent des copies exactes. Avec le logiciel libre cette copie est légale, "
 "quelle que soit précisément la licence libre utilisée. Ce que nous voulons "
-"empêcher, lorsque la licence en question est la GNU <a href=\"/copyleft/gpl."
+"empêcher, lorsque la licence en question est la GNU <a href=\"/licenses/gpl."
 "html\">GPL</a>, c'est que du logiciel privateur<a id=\"TransNote1-rev\" href="
 "\"#TransNote1\"><sup>1</sup></a> basé sur notre code soit publié. Ce type "
 "d'abus est à son comble quand il est le fait de grandes entreprises ayant "
@@ -115,11 +116,11 @@ msgstr ""
 "valoir nos droits. Aussi le respect de la GPL en Chine n'est pas une cause "
 "perdue, mais ce ne sera pas facile."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "No Chinese Laundry"
 msgstr "Pas de blanchisserie chinoise"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Nonetheless, Meeker's claim that this leads to a global problem is simply "
 "absurd. You can't &ldquo;launder&rdquo; material copyrighted in the U.S. by "
@@ -130,9 +131,9 @@ msgstr ""
 "une œuvre sous copyright américain en la déplaçant vers la Chine, comme elle "
 "devrait le savoir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"If someone violates the GNU GPL by distributing a non-free modified version "
+"If someone violates the GNU GPL by distributing a nonfree modified version "
 "of GCC in the U.S., it won't make any difference if it was obtained or "
 "modified in China. U.S. copyright law will be enforced just the same."
 msgstr ""
@@ -141,12 +142,12 @@ msgstr ""
 "Chine ne changera rien. Le copyright américain sera appliqué de la même "
 "façon."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Although this error might seem to be the central point of Meeker's article, "
 "it is not. The real central point of the article is the perspective embodied "
-"in her use of the term &ldquo;intellectual property&rdquo;. She uses this "
-"term pervasively as though it refers to something coherent &mdash; something "
+"in her use of the term &ldquo;intellectual property.&rdquo; She uses this "
+"term pervasively as though it refers to something coherent&mdash;something "
 "it makes sense to talk about and think about. If you believe that, you have "
 "accepted the article's hidden assumption."
 msgstr ""
@@ -158,11 +159,11 @@ msgstr ""
 "parle et quand on y réfléchit. Si vous croyez ça, vous acceptez le postulat "
 "caché de l'article."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Loose Language"
 msgstr "Langage imprécis"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Sometimes Meeker switches between &ldquo;intellectual property&rdquo; and "
 "&ldquo;copyright&rdquo; as if they were two names for the same thing. "
@@ -178,7 +179,7 @@ msgstr ""
 "sont radicalement différentes ; tout ce qu'elles ont en commun, c'est le "
 "canevas abstrait de leur mise en forme."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Other &ldquo;intellectual property&rdquo; laws don't even share that much "
 "with them. The implication that you can treat them all as the same thing is "
@@ -188,7 +189,7 @@ msgstr ""
 "ressemblance avec elles. L'implication que vous pouvez les traiter toutes "
 "comme un même objet est foncièrement trompeuse."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Along with the term &ldquo;intellectual property&rdquo; goes a false "
 "understanding of what these laws are for. Meeker speaks of an &ldquo;"
@@ -203,19 +204,19 @@ msgstr ""
 "intellectuelle est dans la Constitution ». C'est la plus grossière des "
 "erreurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What is really in the U.S. Constitution? It doesn't mention &ldquo;"
-"intellectual property&rdquo;, and it says nothing at all about most of the "
-"laws that term is applied to. Only two of them &mdash; copyright law and "
-"patent law &mdash; are treated there."
+"intellectual property,&rdquo; and it says nothing at all about most of the "
+"laws that term is applied to. Only two of them&mdash;copyright law and "
+"patent law&mdash;are treated there."
 msgstr ""
 "Qu'est-ce qu'il y a effectivement dans la Constitution des États-Unis ? Elle "
 "ne mentionne pas la « propriété intellectuelle » et ne dit rien du tout sur "
 "la plupart des branches du droit que cette expression recouvre. Seules deux "
 "d'entre elles – le copyright et les brevets – y sont traitées."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What does the Constitution say about them? What is its ethos? It is nothing "
 "like the &ldquo;intellectual property ethos&rdquo; that Meeker imagines."
@@ -223,15 +224,15 @@ msgstr ""
 "Que dit la Constitution sur ces lois ? Quel est son éthos ? Rien qui "
 "ressemble à l'« éthos de la propriété intellectuelle » que Meeker imagine."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Failure to Execute"
 msgstr "Échec à l'exécution"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What the Constitution says is that copyright law and patent law are "
 "optional. They need not exist. It says that if they do exist, their purpose "
-"is to provide a public benefit &mdash; to promote progress by providing "
+"is to provide a public benefit&mdash;to promote progress by providing "
 "artificial incentives."
 msgstr ""
 "Ce que dit la Constitution, c'est que légiférer sur le copyright et les "
@@ -239,7 +240,7 @@ msgstr ""
 "telles législations existent, leur but est de procurer un avantage au "
 "public : promouvoir le progrès en fournissant des encouragements artificiels."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "They are not rights that their holders are entitled to; they are artificial "
 "privileges that we might, or might not, want to hand out to encourage people "
@@ -250,17 +251,17 @@ msgstr ""
 "distribuer, ou non, pour encourager les gens à faire ce que nous trouvons "
 "utile."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"It's a wise policy. Too bad Congress &mdash; which has to carry it out on "
-"our behalf &mdash; takes its orders from Hollywood and Microsoft instead of "
-"from us."
+"It's a wise policy. Too bad Congress&mdash;which has to carry it out on our "
+"behalf&mdash;takes its orders from Hollywood and Microsoft instead of from "
+"us."
 msgstr ""
 "C'est une sage politique. C'est bien dommage que le  Congrès, qui devrait la "
 "mettre en œuvre en notre nom, prenne ses ordres d'Hollywood et Microsoft au "
 "lieu de les prendre de nous."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you appreciate the U.S. Constitution's wisdom, don't let &ldquo;"
 "intellectual property&rdquo; into your ethos; don't let the &ldquo;"
@@ -271,7 +272,7 @@ msgstr ""
 "le mème « propriété intellectuelle » vous infecter.<a id=\"TransNote3-rev\" "
 "href=\"#TransNote3\"><sup>3</sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Practically speaking, copyright and patent and trademark law have only one "
 "thing in common: Each is legitimate only as far as it serves the public "
@@ -317,14 +318,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -335,19 +336,19 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2006, 2007 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2006, 2007 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2006, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2006, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

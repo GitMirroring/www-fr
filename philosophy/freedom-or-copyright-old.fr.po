@@ -8,13 +8,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: freedom-or-copyright-old.fr\n"
-"POT-Creation-Date: 2014-03-14 04:33+0000\n"
-"PO-Revision-Date: 2020-12-06 17:36+0100\n"
+"POT-Creation-Date: 2021-09-16 16:58+0000\n"
+"PO-Revision-Date: 2021-09-16 20:18+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 "X-Generator: Gtranslator 2.91.5\n"
@@ -27,11 +27,15 @@ msgstr ""
 "La liberté&hellip; ou le copyright ? (ancienne version) - Projet GNU - Free "
 "Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Freedom&mdash;or Copyright? (Old Version)"
 msgstr "La liberté&hellip; ou le copyright ? (ancienne version)"
 
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "par Richard Stallman"
+
+#. type: Content of: <div><div><p>
 msgid ""
 "There is an <a href=\"/philosophy/freedom-or-copyright.html\"> updated "
 "version</a> of this article."
@@ -39,11 +43,7 @@ msgstr ""
 "Il existe une <a href=\"/philosophy/freedom-or-copyright.html\">version "
 "actualisée</a> de cet article."
 
-#. type: Content of: <p>
-msgid "by <strong>Richard M. Stallman</strong>"
-msgstr "par <strong>Richard Stallman</strong>"
-
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The brave new world of e-books: no more used book stores, no more lending a "
 "book to your friend, no more borrowing one from the public library, no "
@@ -56,7 +56,7 @@ msgstr ""
 "que vous lisez. Lire un livre électronique sans autorisation, même cela est "
 "un délit."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Once upon a time, in the age of the printing press, an industrial regulation "
 "was established for the business of writing and publishing. It was called "
@@ -71,7 +71,7 @@ msgstr ""
 "d'obliger les éditeurs à obtenir la permission des auteurs pour réimprimer "
 "leurs œuvres récentes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Ordinary readers had little reason to disapprove, since copyright restricted "
 "only publication, not the things a reader could do. If it raised the price "
@@ -86,7 +86,7 @@ msgstr ""
 "ne représentait pas pour lui un grand fardeau. Il remplissait bien son rôle –"
 " à l'époque."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Then a new way of distributing information came about: computers and "
 "networks. The advantage of digital information technology is that it "
@@ -100,7 +100,7 @@ msgstr ""
 "logiciels, de musique ou de livres. Les réseaux offrent une possibilité "
 "d'accès illimité à toutes sortes de données – une utopie de l'information."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But one obstacle stood in the way: copyright. Readers who made use of their "
 "computers to share published information were technically copyright "
@@ -114,7 +114,7 @@ msgstr ""
 "réglementation industrielle de jadis était devenue une restriction pour le "
 "public qu'elle était censée servir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In a democracy, a law that prohibits a popular, natural and useful activity "
 "is usually soon relaxed. But the powerful publishers' lobby was determined "
@@ -131,7 +131,7 @@ msgstr ""
 "circonstances, les gouvernements l'ont rendu plus strict que jamais, "
 "imposant de rudes pénalités aux lecteurs pris en train de partager."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But that wasn't the last of it. Computers can be powerful tools of "
 "domination when a few people control what other people's computers do. The "
@@ -148,7 +148,7 @@ msgstr ""
 "astreindre les gens à payer et à s'identifier, chaque fois qu'ils liraient "
 "un livre !"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "That is the publishers' dream, and they prevailed upon the U.S. government "
 "to enact the Digital Millennium Copyright Act of 1998. This law gives them "
@@ -164,11 +164,11 @@ msgstr ""
 "tant qu'ils publient le livre sous forme chiffrée. Le lire sans "
 "autorisation, même cela est un délit !"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We still have the same old freedoms in using paper books. But if e-books "
 "replace printed books, that exception will do little good. With &ldquo;"
-"electronic ink&rdquo;, which makes it possible to download new text onto an "
+"electronic ink,&rdquo; which makes it possible to download new text onto an "
 "apparently printed piece of paper, even newspapers could become ephemeral. "
 "Imagine: no more used book stores; no more lending a book to your friend; no "
 "more borrowing one from the public library&mdash;no more &ldquo;leaks&rdquo; "
@@ -187,14 +187,14 @@ msgstr ""
 "publicités pour Microsoft Reader, plus d'acquisition anonyme de livres non "
 "plus). C'est là le monde que les éditeurs ont en tête pour nous."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Why is there so little public debate about these momentous changes? Most "
 "citizens have not yet had occasion to come to grips with the political "
 "issues raised by this futuristic technology. Besides, the public has been "
 "taught that copyright exists to &ldquo;protect&rdquo; the copyright holders, "
 "with the implication that the public's interests do not count. (The biased "
-"term &ldquo;<a href=\"/philosophy/not-ipr.html\"> intellectual property</"
+"term &ldquo;<a href=\"/philosophy/not-ipr.html\">intellectual property</"
 "a>&rdquo; also promotes that view; in addition, it encourages the mistake of "
 "trying to treat several laws that are almost totally different&mdash;such as "
 "copyright law and patent law&mdash;as if they were a single issue.)"
@@ -210,7 +210,7 @@ msgstr ""
 "droit du copyright et le droit des brevets, par exemple – comme un seul et "
 "même sujet)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But when the public at large begins to use e-books, and discovers the regime "
 "that the publishers have prepared for them, they will begin to resist. "
@@ -221,7 +221,7 @@ msgstr ""
 "commencera à entrer dans la résistance. L'humanité n'acceptera pas ce joug "
 "ad vitam æternam."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The publishers would have us believe that suppressive copyright is the only "
 "way to keep art alive, but we do not need a War on Copying to encourage a "
@@ -245,7 +245,7 @@ msgstr ""
 "amis, nous pouvons transformer le copyright en ce qu'il fut, une "
 "réglementation industrielle."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For some kinds of writing, we should go even further. For scholarly papers "
 "and monographs, everyone should be encouraged to republish them verbatim "
@@ -261,12 +261,12 @@ msgstr ""
 "publication de versions modifiées doit elle aussi être permise, dans la "
 "mesure où cela encourage les améliorations."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Eventually, when computer networks provide an easy way to send someone a "
 "small amount of money, the whole rationale for restricting verbatim copying "
 "will go away. If you like a book, and a box pops up on your computer saying "
-"&ldquo;Click here to give the author one dollar&rdquo;, wouldn't you click? "
+"&ldquo;Click here to give the author one dollar,&rdquo; wouldn't you click? "
 "Copyright for books and music, as it applies to distributing verbatim "
 "unmodified copies, will be entirely obsolete. And not a moment too soon!"
 msgstr ""
@@ -284,8 +284,9 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
 "<hr /><b>Note de traduction</b><ol>\n"
-"<li id=\"TransNote1\">Loi sur le copyright du millénaire numérique. <a href="
-"\"#TransNote1-rev\" class=\"nounderline\">&#8593;</a></li></ol>"
+"<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"Loi sur le copyright du millénaire numérique.</li></ol>"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -308,14 +309,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -326,19 +327,19 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1999, 2008 Richard M. Stallman"
-msgstr "Copyright &copy; 1999, 2008 Richard M. Stallman"
+msgid "Copyright &copy; 1999, 2021 Richard Stallman"
+msgstr "Copyright &copy; 1999, 2021 Richard M. Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

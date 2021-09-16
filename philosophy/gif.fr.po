@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gif.html\n"
-"POT-Creation-Date: 2018-05-12 11:26+0000\n"
-"PO-Revision-Date: 2020-12-08 17:23+0100\n"
+"POT-Creation-Date: 2021-09-16 16:58+0000\n"
+"PO-Revision-Date: 2021-09-16 20:18+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -27,30 +27,30 @@ msgstr ""
 "Pourquoi il n'y a pas de fichiers GIF sur le site de GNU - Projet GNU - Free "
 "Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Why There Are No GIF Files on GNU Web Pages"
 msgstr "Pourquoi il n'y a pas de fichiers GIF sur le site de GNU"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"There is no special patent threat to GIF format nowadays as far as we know; "
-"<a href=\"#venuenote\">the patents that were used to attack GIF have "
+"<em>There is no special patent threat to GIF format nowadays as far as we "
+"know; <a href=\"#venuenote\">the patents that were used to attack GIF have "
 "expired</a>.  Nonetheless, this article will remain pertinent as long as "
 "programs can be forbidden by patents, since the same sorts of things could "
-"happen in any area of computing.  See <a href=\"/server/fsf-html-style-sheet."
-"html#UseofGraphics\"> our web site policies regarding GIFs</a>, and our <a "
-"href=\"/server/standards/\">web guidelines</a>."
+"happen in any area of computing.  See <a href=\"/server/standards/gnu-"
+"website-guidelines.html#UseofGraphics\">our website policies regarding GIFs</"
+"a>.</em>"
 msgstr ""
-"À notre connaissance, il n'y a pas de brevet menaçant le format GIF de nos "
-"jours ; <a href=\"#venuenote\">les brevets qui ont servi à attaquer GIF ont "
-"expiré</a>. Néanmoins, cet article restera pertinent aussi longtemps que des "
-"programmes seront interdits par des brevets, puisque le même genre de choses "
-"pourrait arriver dans n'importe quel domaine de l'informatique. Consultez <a "
-"href=\"/server/fsf-html-style-sheet.html#UseofGraphics\">les règles suivies "
-"par notre site web concernant GIF</a>, ainsi que nos <a href=\"/server/"
-"standards/\">recommandations aux webmestres</a>."
+"<em>À notre connaissance, il n'y a pas de brevet menaçant le format GIF de "
+"nos jours ; <a href=\"#venuenote\">les brevets qui ont servi à attaquer GIF "
+"ont expiré</a>. Néanmoins, cet article restera pertinent aussi longtemps que "
+"des programmes seront interdits par des brevets, puisque le même genre de "
+"choses pourrait arriver dans n'importe quel domaine de l'informatique. "
+"Consultez <a href=\"/server/standards/gnu-website-guidelines."
+"html#UseofGraphics\">les règles suivies par notre site web concernant GIF</"
+"a>.</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There are no GIFs on the GNU web site because of the patents (Unisys and "
 "IBM) covering the LZW compression algorithm which is used in making GIF "
@@ -65,7 +65,7 @@ msgstr ""
 "s'appliquent également au programme <strong>compress</strong>, raison pour "
 "laquelle GNU ne l'utilise pas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Unisys and IBM both applied for patents in 1983.  Unisys (and perhaps IBM) "
 "applied for these patents in a number of countries.  Of the places whose "
@@ -84,7 +84,7 @@ msgstr ""
 "pour la création de fichiers GIF sera poursuivi. Nous n'avons aucune raison "
 "de penser que les détenteurs des brevets pourraient perdre ces procès."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If we released such a program, Unisys and IBM might think it wiser (for "
 "public relations reasons) not to sue a charity like the FSF.  They could "
@@ -99,7 +99,7 @@ msgstr ""
 "des logiciels GNU. Nous jugeons que ce ne serait pas un comportement "
 "responsable de notre part de provoquer cette situation."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Many people think that Unisys has given permission for distributing free "
 "software to make GIF format.  Unfortunately that is not what Unisys has "
@@ -110,7 +110,7 @@ msgstr ""
 "ce n'est pas ce qu'Unisys a fait en réalité. Voici ce qu'Unisys disait à ce "
 "sujet en 1995 :"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "Unisys does not require licensing, or fees to be paid, for non-commercial, "
 "non-profit GIF-based applications, including those for use on the on-line "
@@ -119,7 +119,7 @@ msgid ""
 "infringement by developers producing versions of software products for the "
 "Internet prior to 1995. The company does not require licensing, or fees to "
 "be paid for non-commercial, non-profit offerings on the Internet, including "
-"&ldquo;Freeware&rdquo;."
+"&ldquo;Freeware.&rdquo;"
 msgstr ""
 "Unisys n'exige ni licence, ni royalties, pour les applications non "
 "commerciales et à but non lucratif basées sur du GIF, y compris celles "
@@ -130,7 +130,7 @@ msgstr ""
 "n'exige ni licence, ni royalties, pour les offres non commerciales sur "
 "Internet, y compris les <i>freeware</i>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Unfortunately, this doesn't permit <a href=\"/philosophy/free-sw.html\">free "
 "software</a> which can be used in a free operating system such as GNU.  It "
@@ -146,7 +146,7 @@ msgstr ""
 "pensons qu'il vaut mieux rejeter LZW et utiliser des alternatives comme <a "
 "href=\"/software/gzip/gzip.html\">GNU Gzip</a> et le format PNG."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"/philosophy/selling.html\">Commercial redistribution of free "
 "software</a> is very important, and we want the GNU system as a whole to be "
@@ -159,19 +159,19 @@ msgstr ""
 "pouvons ajouter un programme de génération de GIF au système GNU, pas selon "
 "les termes d'Unisys."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"The <a href=\"http://www.fsf.org\">Free Software Foundation</a> is a non-"
-"commercial, non-profit organization, so strictly speaking the income from "
-"our sales of <a href=\"http://shop.fsf.org/\">CD-ROMs</a> is not &ldquo;"
-"profit&rdquo;.  Perhaps this means we could include a GIF program on our CD-"
+"The <a href=\"https://www.fsf.org\">Free Software Foundation</a> is a "
+"noncommercial, nonprofit organization, so strictly speaking the income from "
+"our sales of <a href=\"https://shop.fsf.org/\">CD-ROMs</a> is not &ldquo;"
+"profit.&rdquo; Perhaps this means we could include a GIF program on our CD-"
 "ROM and claim to be acting within the scope of the Unisys permission&mdash;"
 "or perhaps not.  But since we know that other redistributors of GNU would be "
 "unable to include it, doing this would not be very useful."
 msgstr ""
-"La <a href=\"http://www.fsf.org\">Fondation pour le logiciel libre</a> est "
+"La <a href=\"https://www.fsf.org\">Fondation pour le logiciel libre</a> est "
 "une organisation non commerciale, à but non lucratif, donc strictement "
-"parlant, les revenus provenant de la vente de nos <a href=\"http://shop.fsf."
+"parlant, les revenus provenant de la vente de nos <a href=\"https://shop.fsf."
 "org/\">CD-ROM</a> ne sont pas considérés comme des « profits ». Cela "
 "signifie peut-être que nous pourrions inclure un programme de génération de "
 "GIF sur nos CD-ROM et prétendre agir dans les limites de la permission "
@@ -179,7 +179,7 @@ msgstr ""
 "redistributeurs de GNU ne pourraient pas l'inclure, faire ceci ne serait pas "
 "très utile."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Shortly after Unisys made its announcement, when the net in general was "
 "reassured thinking that Unisys had given permission for free GIF-generating "
@@ -191,7 +191,7 @@ msgstr ""
 "nous avons écrit au service juridique d'Unisys pour leur demander des "
 "éclaircissements à ce sujet. Nous n'avons pas reçu de réponse."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Even if Unisys really did give permission for free software to generate "
 "GIFs, we would still have to deal with the IBM patent.  Both the IBM and the "
@@ -208,7 +208,7 @@ msgstr ""
 "Patent and Trademark Office</i>, qui est célèbre pour son incompétence et "
 "ses erreurs d'appréciation)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Decoding GIFs is a different issue.  The Unisys and IBM patents are both "
 "written in such a way that they do not apply to a program which can only "
@@ -221,7 +221,7 @@ msgstr ""
 "compresser. Par conséquent, nous pouvons inclure un moyen d'afficher les "
 "fichiers GIF dans les logiciels GNU, et nous le ferons."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Given this situation, we could still include GIF files in our web pages if "
 "we wanted to.  Many other people would be happy to generate them for us, and "
@@ -232,7 +232,7 @@ msgstr ""
 "heureuses de les générer pour nous, et nous ne pourrions pas être poursuivis "
 "pour avoir des fichiers GIF sur notre serveur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But we feel that if we can't distribute the software to enable people to "
 "generate GIF files properly, then we should not have other people run such "
@@ -247,12 +247,12 @@ msgstr ""
 "des fichiers GIF, nous devons recommander une alternative. Nous devons "
 "utiliser nous-mêmes l'alternative que nous recommandons."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In 1999, Unisys had the following to say about the issue of their patent:"
 msgstr "En 1999, Unisys indiquait au sujet de son brevet :"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "Unisys has frequently been asked whether a Unisys license is required in "
 "order to use LZW software obtained by downloading from the Internet or from "
@@ -271,7 +271,7 @@ msgstr ""
 "matériel capable de faire la conversion LZW (par exemple un logiciel "
 "téléchargé)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "With this statement, Unisys is trying to take back what they said in 1995 "
 "when they gave parts of the patent to the public. The legality of such a "
@@ -281,7 +281,7 @@ msgstr ""
 "1995 quand ils ont donné des parties de leur brevet au public. La légalité "
 "d'un tel changement de position est discutable."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A further issue is that the LZW patents&mdash;and computational idea patents "
 "in general&mdash;are an offense against the freedom of programmers "
@@ -293,7 +293,7 @@ msgstr ""
 "programmeurs ; tous les programmeurs ont besoin de s'unir pour <a href=\"/"
 "philosophy/limit-patent-effect.html\">protéger le logiciel des brevets</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So even if we could find a solution to enable the free software community to "
 "generate GIFs, that isn't really a solution, not for the problem as a "
@@ -305,13 +305,13 @@ msgstr ""
 "vraiment une solution, pas pour le problème dans sa globalité. La solution "
 "est de basculer vers un autre format et de ne plus utiliser de fichiers GIF."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Therefore, we don't use GIF, and we hope you won't use it either."
 msgstr ""
 "Donc, nous n'utilisons pas de fichiers GIF, et nous espérons que vous n'en "
 "utiliserez pas non plus."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is possible to make non-compressed images that act like GIFs, in that "
 "they work with programs that decode GIF format.  This can be done without "
@@ -322,7 +322,7 @@ msgstr ""
 "le format GIF. Ceci peut être fait sans violer de brevet. Ces pseudo-GIF "
 "sont utiles pour quelques usages."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is also possible to create GIFs using a patent-free run length encoding "
 "but this doesn't achieve the compression that one normally expects in a GIF."
@@ -331,7 +331,7 @@ msgstr ""
 "length</i>, non breveté, mais celui-ci ne réalise pas la compression "
 "normalement attendue d'un GIF."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We decided not to use these pseudo-GIFs on our web site because they are not "
 "a satisfactory solution to the community's problem.  They work, but they are "
@@ -343,35 +343,35 @@ msgstr ""
 "Ils fonctionnent, mais ils sont très gros. Ce dont le web a besoin, c'est "
 "d'un format compressé non breveté, non de lourds pseudo-GIF."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"The <a href=\"http://en.wikipedia.org/wiki/Portable_Network_Graphics\">PNG "
+"The <a href=\"https://en.wikipedia.org/wiki/Portable_Network_Graphics\">PNG "
 "format</a> is a patent-free compressed format.  We hope it will become "
 "widely supported; then we will use it.  We do provide PNG versions of most "
 "of the <a href=\"/graphics/graphics.html\">images on this server</a>."
 msgstr ""
-"Le <a href=\"http://fr.wikipedia.org/wiki/Portable_Network_Graphics\">format "
-"PNG</a> est un format de compression non breveté. Nous espérons qu'il sera "
-"largement supporté, alors nous l'utiliserons. Nous avons des <a href=\"/"
-"graphics/graphics.html\">versions PNG</a> de la plupart des images sur ce "
-"serveur."
+"Le <a href=\"https://fr.wikipedia.org/wiki/Portable_Network_Graphics"
+"\">format PNG</a> est un format de compression non breveté. Nous espérons "
+"qu'il sera largement supporté, alors nous l'utiliserons. Nous avons des <a "
+"href=\"/graphics/graphics.html\">versions PNG</a> de la plupart des images "
+"sur ce serveur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For more information about the GIF patent problems, see <a href=\"https://"
 "web.archive.org/web/20150329143651/http://progfree.org/Patents/patents.html"
 "\">the League for Programming Freedom GIF page</a>.  Through that page you "
-"can find more information about the <a href=\"http://endsoftpatents.org/"
+"can find more information about the <a href=\"https://endsoftwarepatents.org/"
 "\">problem of software patents in general.</a>"
 msgstr ""
 "Pour plus de renseignements sur les problèmes de brevet affectant GIF, allez "
 "voir la <a href=\"https://web.archive.org/web/20150329143651/http://progfree."
 "org/Patents/patents.html\">page dédiée de la <i>League for Programming "
 "Freedom</i></a>. Elle vous aiguillera vers des sources d'information "
-"complémentaire sur le <a href=\"http://endsoftpatents.org/\">problème des "
-"brevets en général</a>."
+"complémentaire sur le <a href=\"https://endsoftwarepatents.org/\">problème "
+"des brevets en général</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There is a library called libungif that reads gif files and writes "
 "uncompressed gifs to circumvent the Unisys patent."
@@ -379,45 +379,48 @@ msgstr ""
 "La bibliothèque appelée <code>libungif</code> lit les fichiers GIF et écrit "
 "des GIF non compressés pour contourner le brevet d'Unisys."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"https://web.archive.org/web/20171203193534/http://burnallgifs.org/"
-"\">http://burnallgifs.org</a> is a web site devoted to discouraging the use "
-"of GIF files on the web."
+"\"> burnallgifs.org</a> is a web site devoted to discouraging the use of GIF "
+"files on the web."
 msgstr ""
 "<a href=\"https://web.archive.org/web/20171203193534/http://burnallgifs.org/"
 "\">http://burnallgifs.org</a> essaie de décourager l'utilisation de fichiers "
 "GIF sur le web."
 
-#. type: Content of: <h3>
-msgid "Footnote:"
-msgstr "Note :"
+#. type: Content of: <div><h3>
+msgid "Footnote"
+msgstr "Note"
 
-#. type: Content of: <p>
+#. type: Content of: <div><ol><li>
+msgid "<a href=\"#returnnote\">&#8593;</a>&nbsp;"
+msgstr "<a href=\"#returnnote\">&#8593;</a>&nbsp;"
+
+#. type: Content of: <div><ol><li><p>
 msgid ""
-"<a href=\"#returnnote\" id=\"venuenote\">1.</a> We were able to search the "
-"patent databases of the USA, Canada, Japan, and the European Union. The "
-"Unisys patent expired on 20 June 2003 in the USA, in Europe it expired on 18 "
-"June 2004, in Japan the patent expired on 20 June 2004 and in Canada it "
-"expired on 7 July 2004. The U.S. IBM patent expired 11 August 2006. The "
-"Software Freedom Law Center says that after 1 October 2006, there will be no "
-"significant patent claims interfering with the use of static GIFs."
+"We were able to search the patent databases of the USA, Canada, Japan, and "
+"the European Union. The Unisys patent expired on 20 June 2003 in the USA, in "
+"Europe it expired on 18 June 2004, in Japan the patent expired on 20 June "
+"2004 and in Canada it expired on 7 July 2004. The U.S. IBM patent expired 11 "
+"August 2006. The Software Freedom Law Center says that after 1 October 2006, "
+"there will be no significant patent claims interfering with the use of "
+"static GIFs."
 msgstr ""
-"(<a href=\"#returnnote\" id=\"venuenote\">1</a>) Nous avons pu chercher dans "
-"les bases de données de brevets des États-Unis, du Canada, du Japon et de "
-"l'Union européenne. Le brevet Unisys a expiré le 20 juin 2003 aux États-"
-"Unis ; en Europe, le 18 juin 2004 ; au Japon, le 20 juin 2004 et au Canada, "
-"le 7 juillet 2004. Le brevet américain d'IBM a expiré le 11 août 2006. Le "
-"<i>Software Freedom Law Center</i> dit qu'après le 1<sup>er</"
-"sup> octobre 2006, il n'y aura plus de revendication de brevet significative "
-"pour interférer avec l'emploi d'images GIF statiques."
+"Nous avons pu chercher dans les bases de données de brevets des États-Unis, "
+"du Canada, du Japon et de l'Union européenne. Le brevet Unisys a expiré le "
+"20 juin 2003 aux États-Unis ; en Europe, le 18 juin 2004 ; au Japon, le "
+"20 juin 2004 et au Canada, le 7 juillet 2004. Le brevet américain d'IBM a "
+"expiré le 11 août 2006. Le <i>Software Freedom Law Center</i> dit qu'après "
+"le 1<sup>er</sup> octobre 2006, il n'y aura plus de revendication de brevet "
+"significative pour interférer avec l'emploi d'images GIF statiques."
 
-#. type: Content of: <p>
+#. type: Content of: <div><ol><li><p>
 msgid ""
 "Animated GIFs are a different story.  We do not know what patents might "
 "cover them.  However, we have not heard reports of threats against use of "
 "animated GIFs.  Any software can be threatened by patents, but we have no "
-"reason to consider animated GIFs to be in particular danger &mdash; no "
+"reason to consider animated GIFs to be in particular danger&mdash;no "
 "particular reason to shun them."
 msgstr ""
 "Pour les GIF animés, c'est une autre histoire. Nous ne savons pas quels "
@@ -453,14 +456,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -472,11 +475,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1997, 1998, 1999, 2004, 2006, 2007, 2008, 2010, 2015, 2018 "
-"Free Software Foundation, Inc."
+"Copyright &copy; 1997-1999, 2003, 2004, 2006, 2010, 2013, 2021 Free Software "
+"Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1997, 1998, 1999, 2004, 2006, 2007, 2008, 2010, 2015, 2018 "
-"Free Software Foundation, Inc."
+"Copyright &copy; 1997-1999, 2003, 2004, 2006, 2010, 2013, 2021 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

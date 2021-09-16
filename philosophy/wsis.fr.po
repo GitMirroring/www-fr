@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wsis.html\n"
-"POT-Creation-Date: 2014-08-21 15:25+0000\n"
-"PO-Revision-Date: 2020-12-07 14:06+0100\n"
+"POT-Creation-Date: 2021-09-16 16:58+0000\n"
+"PO-Revision-Date: 2021-09-16 20:18+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -26,35 +26,24 @@ msgstr ""
 "Sommet mondial sur la société de l'information - Projet GNU - Free software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "World Summit on the Information Society"
 msgstr "Sommet mondial sur la société de l'information"
 
-#. type: Content of: <p>
-msgid ""
-"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
-msgstr ""
-"par <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></"
-"a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
-msgid "<em>(Originally published on Newsforge.)</em>"
-msgstr "<em>(Publié initialement sur </em>Newsforge<em>).</em>"
-
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "At <abbr title=\"World Summit on the Information Society\">WSIS</abbr>, in a "
-"climate of suppression of dissent, the score is 0-0"
+"climate of suppression of dissent, the score is 0-0."
 msgstr ""
 "Au <abbr title=\"Sommet mondial sur la société de l'information\">SMSI</"
 "abbr>, dans un climat de censure de la contestation, le score est zéro "
 "partout."
 
-#. type: Content of: <blockquote><p>
-msgid "<span style=\"margin-left: 30%\">-- Richard Stallman</span>"
-msgstr "<span style=\"margin-left: 30%\">-- Richard Stallman</span>"
-
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The World Summit on the Information Society is supposed to formulate plans "
 "to end the &ldquo;digital divide&rdquo; and make the internet accessible to "
@@ -68,7 +57,7 @@ msgstr ""
 "novembre. Aussi, la grande réunion officielle à Genève la semaine dernière "
 "relevait plus de la foire commerciale que d'une réelle rencontre au sommet."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The summit procedures were designed so that non-governmental organizations "
 "(mainly those that promote human rights and equality, and work to reduce "
@@ -85,7 +74,7 @@ msgstr ""
 "recommandations que ces organisations ont faits. En réalité, on a offert à "
 "la société civile une occasion de parler dans un micro muet."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The summit's declaration includes little that is bold or new. When it comes "
 "to the question of what people will be free to <em>do</em> with the "
@@ -97,16 +86,16 @@ msgstr ""
 "<em>faire</em> avec Internet, elle répond aux demandes faites par divers "
 "gouvernements pour imposer des restrictions sur les citoyens du cyberespace."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Part of the digital divide comes from artificial obstacles to the sharing of "
-"information.  This includes the licenses of non-free software, and harmfully "
+"information.  This includes the licenses of nonfree software, and harmfully "
 "restrictive copyright laws.  The Brazilian declaration sought measures to "
 "promote free software, but the US delegation was firmly against it (remember "
 "that the Bush campaign got money from Microsoft).  The outcome was a sort of "
 "draw, with the final declaration presenting free software, open source, and "
 "proprietary software as equally legitimate.  The US also insisted on "
-"praising so-called &ldquo;intellectual property rights&rdquo;.  (That biased "
+"praising so-called &ldquo;intellectual property rights.&rdquo; (That biased "
 "term <a href=\"/philosophy/words-to-avoid.html#IntellectualProperty\"> "
 "promotes simplistic over-generalization</a>; for the sake of clear thinking "
 "about the issues of copyright law, and about the very different issues of "
@@ -128,7 +117,7 @@ msgstr ""
 "du droit du copyright et sur les conséquences très différentes du droit des "
 "brevets, on doit toujours l'éviter)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The declaration calls on governments to ensure unhindered access to the "
 "public domain, but says nothing about whether any additional works should "
@@ -138,7 +127,7 @@ msgstr ""
 "entrave au domaine public, mais ne dit pas si le domaine public doit, ou "
 "non, s'enrichir un jour de nouvelles œuvres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Human rights were given lip service, but the proposal for a &ldquo;right to "
 "communicate&rdquo; (not merely to access information)  using the internet "
@@ -157,7 +146,7 @@ msgstr ""
 "africa/2777389.stm\">emprisonnés en Tunisie parce qu'ils avaient utilisé "
 "Internet pour critiquer le gouvernement</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Suppression of criticism has been evident here at the summit too.  A counter-"
 "summit, actually a series of talks and discussions, was planned for last "
@@ -183,7 +172,7 @@ msgstr ""
 "finalement la ville à autoriser le contre-sommet à se poursuivre le mercredi "
 "dans un endroit différent."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In a more minor act of suppression, the moderator of the official round "
 "table in which I spoke told me &ldquo;your time is up&rdquo; well before the "
@@ -203,12 +192,11 @@ msgstr ""
 "révélateur que le sommet ait mis une représentante de la Chambre de commerce "
 "internationale aux manettes quand nous avons parlé !"
 
-# Le lien de la VO redirige vers http://iso.hrichina.org/content/2301
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Suppression was also visible in the exclusion of certain NGOs from the "
 "summit because their focus on human rights might embarrass the governments "
-"that trample them.  For instance, the summit <a href=\"http://www.hrichina."
+"that trample them.  For instance, the summit <a href=\"https://www.hrichina."
 "org/en/content/2301\"> refused to accredit Human Rights In China</a>, a "
 "group that criticizes the Chinese government for (among other things) "
 "censorship of the internet."
@@ -216,13 +204,13 @@ msgstr ""
 "La censure était également visible dans l'exclusion de certaines ONG du "
 "sommet, car leur attention particulière aux droits de l'homme aurait pu "
 "embarrasser les gouvernements qui les piétinent. Par exemple, le sommet <a "
-"href=\"http://www.hrichina.org/en/content/2301\">a refusé d'accréditer "
+"href=\"https://www.hrichina.org/en/content/2301\">a refusé d'accréditer "
 "<i>Human Rights In China</i></a>, un groupe qui critique le gouvernement "
 "chinois pour (entre autres choses) la censure d'Internet."
 
 #. a href="http://ar.rsf.org/article.php3?id_article=8774"
 #. /a
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Reporters Without Borders was also excluded from the summit.  To raise "
 "awareness of their exclusion, and of the censorship of the internet in "
@@ -237,7 +225,7 @@ msgstr ""
 "pour que les participants au sommet puissent entendre ce que l'on avait "
 "empêché l'organisation de dire au sommet lui-même."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The summit may have a few useful side effects.  For instance, several people "
 "came together to plan an organization to help organizations in Africa switch "
@@ -257,6 +245,10 @@ msgstr ""
 "de l'attitude d'ensemble du sommet : il a invité Microsoft à parler aux "
 "côtés de la plupart des gouvernements participants, avant eux – comme pour "
 "accorder à cette société délinquante le rang d'État !"
+
+#. type: Content of: <div><div><p>
+msgid "Originally published on <cite>NewsForge</cite>."
+msgstr "Publié initialement sur <cite>NewsForge</cite>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -288,14 +280,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -306,19 +298,19 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2003 Richard M. Stallman"
-msgstr "Copyright &copy; 2003 Richard M. Stallman"
+msgid "Copyright &copy; 2003, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2003, 2021 Richard M. Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

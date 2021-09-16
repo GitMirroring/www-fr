@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: funding-art-vs-funding-software.html\n"
-"POT-Creation-Date: 2017-08-27 14:56+0000\n"
-"PO-Revision-Date: 2020-12-06 17:36+0100\n"
+"POT-Creation-Date: 2021-09-16 16:58+0000\n"
+"PO-Revision-Date: 2021-09-16 20:18+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -24,18 +24,15 @@ msgstr ""
 "Financer l'art vs financer le logiciel - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Funding Art vs Funding Software"
 msgstr "Financer l'art vs financer le logiciel"
 
-#. type: Content of: <p>
-msgid ""
-"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
-msgstr ""
-"par <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></"
-"a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I've proposed two new systems to fund artists in a world where we have "
 "legalized sharing (noncommercial redistribution of exact copies) of "
@@ -58,7 +55,7 @@ msgstr ""
 "qui viennent d'être joués (ou lus ou visionnés). Ces fonds iraient aux "
 "artistes, pas à leurs éditeurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "People often wonder why I don't propose these methods for free software.  "
 "There's a reason for that: it is hard to adapt them to works that are free."
@@ -67,26 +64,25 @@ msgstr ""
 "le logiciel libre. Il y a une raison à cela : c’est difficile de les adapter "
 "à des œuvres qui sont libres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In my view, works designed to be used to do practical jobs must be free.  "
 "The people who use them deserve to have control over the jobs they do, which "
-"requires control over the works they use to do them, which requires the four "
-"freedoms (see <a href=\"/philosophy/free-sw.html\"> http://www.gnu.org/"
-"philosophy/free-sw.html</a>).  Works to do practical jobs include "
-"educational resources, reference works, recipes, text fonts and, of course, "
-"software; these works must be free."
+"requires control over the works they use to do them, which requires <a href="
+"\"/philosophy/free-sw.html\">the four freedoms</a>.  Works to do practical "
+"jobs include educational resources, reference works, recipes, text fonts "
+"and, of course, software; these works must be free."
 msgstr ""
 "À mon avis, les œuvres destinées à servir d'« outils » pour effectuer des "
 "tâches concrètes doivent être libres. Les gens qui les utilisent méritent de "
 "contrôler les tâches qu’ils effectuent, ce qui nécessite de contrôler les "
-"œuvres-outils qu'ils utilisent, et par conséquent de posséder les quatre "
-"libertés (voir <a href=\"/philosophy/free-sw.html\">http://www.gnu.org/"
-"philosophy/free-sw.fr.html</a>). Ces œuvres comprennent les ressources "
-"pédagogiques, les ouvrages de référence, les recettes, les polices de "
-"caractères et, bien sûr, les logiciels ; toutes doivent être libres."
+"œuvres-outils qu'ils utilisent, et par conséquent de posséder <a href=\"/"
+"philosophy/free-sw.html\">les quatre libertés</a>. Ces œuvres comprennent "
+"les ressources pédagogiques, les ouvrages de référence, les recettes, les "
+"polices de caractères et, bien sûr, les logiciels ; toutes doivent être "
+"libres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "That argument does not apply to works of opinion (such as this one) or art, "
 "because they are not designed for the users to do practical jobs with.  "
@@ -106,7 +102,7 @@ msgstr ""
 "s'ensuit qu'on peut en identifier les auteurs. Toute œuvre publiée peut "
 "renvoyer vers ses créateurs, et changer cette information peut être illégal."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "That crucial point enables my proposed funding systems to work.  It means "
 "that if you play a song and push the &ldquo;donate&rdquo; button, the system "
@@ -122,7 +118,7 @@ msgstr ""
 "consommateurs qui évalue la popularité des artistes, le système sera capable "
 "d'augmenter la cote de l'artiste dont vous aurez écouté ou copié la chanson."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When one song is made by multiple artists (for instance, several musicians "
 "and a songwriter), that doesn't happen by accident.  They know they are "
@@ -140,7 +136,7 @@ msgstr ""
 "financement car l'œuvre, une fois réalisée, ne peut être modifiée par "
 "d'autres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, in a field of free works, one large work can have hundreds, even "
 "thousands of authors.  There can be various versions with different, "
@@ -160,7 +156,7 @@ msgstr ""
 "soulève des questions philosophiques pour lesquelles il n'existe pas de "
 "bonne réponse."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Consider, for example, the free program GNU Emacs.  Our records of "
 "contributions to the code of GNU Emacs are incomplete in the period before "
@@ -178,7 +174,7 @@ msgstr ""
 "quoi, quelle partie du code revient à chacun des contributeurs, parmi des "
 "centaines. Nous serions toujours coincés."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If we wanted to give credit in proportion to lines of code (or should it be "
 "characters?), then it would be straightforward, once we decide how to handle "
@@ -208,7 +204,7 @@ msgstr ""
 "peux proposer de règle logique pour donner à chacun le crédit qui lui "
 "revient pour la popularité d'un programme comme GNU Emacs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "As for asking all the contributors to negotiate an agreement, we can't even "
 "try.  There have been hundreds of contributors, and we could not find them "
@@ -221,7 +217,7 @@ msgstr ""
 "période de 26 ans et jamais, à aucun moment, ces gens n'ont pris la décision "
 "de travailler ensemble."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We might not even know the names of all the authors.  If some code was "
 "donated by companies, we did not need to ask which persons wrote that code."
@@ -230,7 +226,7 @@ msgstr ""
 "Si du code nous a été donné par des entreprises, nous n'avons pas eu besoin "
 "de demander qui avait écrit ce code."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Then what about the forked or modified variants of GNU Emacs? Each one is an "
 "additional case, equally complex but different.  How much of the credit for "
@@ -246,7 +242,7 @@ msgstr ""
 "récupéré sur d'autres variantes de GNU Emacs ou sur d'autres programmes, "
 "etc. ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The conclusion is that there is no way we could come up with a division of "
 "the credit for GNU Emacs and justify it as anything but arbitrary.  But "
@@ -260,7 +256,7 @@ msgstr ""
 "poseraient pour de nombreux programmes libres importants, ainsi que pour "
 "d'autres œuvres libres telles que les pages de Wikipédia."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "These problems are the reasons I don't propose using those two funding "
 "systems in fields such as software, encyclopedias or education, where all "
@@ -270,7 +266,7 @@ msgstr ""
 "de financement pour des secteurs comme le logiciel, les encyclopédies ou "
 "l'éducation, où toutes les œuvres doivent être libres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What makes sense for these areas is to ask people to donate to <em>projects</"
 "em> for the work <em>they propose to do</em>.  That system is simple."
@@ -279,7 +275,7 @@ msgstr ""
 "faire un don à un <em>projet</em> pour le travail <em>qu'il se propose "
 "d'accomplir</em>. C'est un système très simple."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The Free Software Foundation asks for donations in two ways.  We ask for <a "
 "href=\"https://my.fsf.org/donate/\"> general donations to support the "
@@ -320,14 +316,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -338,8 +334,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2013, 2017 Richard Stallman"
-msgstr "Copyright &copy; 2013, 2017 Richard Stallman"
+msgid "Copyright &copy; 2013, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2013, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

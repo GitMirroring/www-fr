@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: freedom-or-copyright.html\n"
-"POT-Creation-Date: 2020-10-06 08:28+0000\n"
-"PO-Revision-Date: 2020-12-06 17:36+0100\n"
+"POT-Creation-Date: 2021-09-16 16:58+0000\n"
+"PO-Revision-Date: 2021-09-16 20:18+0200\n"
 "Last-Translator: Denis Barbier <bouzim@gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -23,15 +23,15 @@ msgstr ""
 msgid "Freedom or Copyright? - GNU Project - Free Software Foundation"
 msgstr "La liberté ou le copyright ? - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Freedom&mdash;or Copyright?"
 msgstr "La liberté&hellip; ou le copyright ?"
 
-#. type: Content of: <address>
+#. type: Content of: <div><address>
 msgid "by Richard Stallman"
 msgstr "par Richard M. Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<em>This essay addresses how the principles of software freedom apply in "
 "some cases to other works of authorship and art. It's included here since it "
@@ -42,7 +42,7 @@ msgstr ""
 "Il est placé ici parce c'est une application des idées du logiciel libre.</"
 "em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Copyright was established in the age of the printing press as an industrial "
 "regulation on the business of writing and publishing.  The aim was to "
@@ -65,11 +65,11 @@ msgstr ""
 "les actes du lecteur ; aussi était-il sans doute à l'avantage du public et "
 "donc légitime."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Well and good&mdash;back then."
 msgstr "Tout allait pour le mieux&hellip; à l'époque."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now we have a new way of distributing information: computers and networks.  "
 "Their benefit is that they facilitate copying and manipulating information, "
@@ -83,7 +83,7 @@ msgstr ""
 "livres et films. Ils offrent la possibilité d'un accès illimité à toutes "
 "sortes de données – une utopie informationnelle."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "One obstacle stood in the way: copyright.  Readers and listeners who made "
 "use of their new ability to copy and share published information were "
@@ -97,7 +97,7 @@ msgstr ""
 "qui, auparavant, appliquait une régulation bénéfique au métier de l'édition, "
 "devint une restriction pour le public qu'elle était censée servir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In a democracy, a law that prohibits a popular and useful activity is "
 "usually soon relaxed. Not so where corporations have political power.  The "
@@ -120,7 +120,7 @@ msgstr ""
 "les citoyens, est connue sous le nom de « réponse graduée ». Elle consiste à "
 "couper la connexion Internet des gens s'ils partagent."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But that wasn't the worst of it.  Computers can be powerful tools of "
 "domination when software suppliers deny users the control of the software "
@@ -140,7 +140,7 @@ msgstr ""
 "ou visionnage de vidéo. C'était le paradis des éditeurs : un univers de "
 "paiement à l'acte."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The publishers gained US government support for their dream with the Digital "
 "Millennium Copyright Act of 1998.  This law gave publishers power to write "
@@ -158,7 +158,7 @@ msgstr ""
 "title=\"Digital Restriction Management\">DRM</abbr>, ou menottes numériques. "
 "Même lire ou écouter est interdit sans autorisation."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We still have the same old freedoms in using paper books and other analog "
 "media.  But if e-books replace printed books, those freedoms will not "
@@ -188,7 +188,7 @@ msgstr ""
 "\"#TransNote6\"><sup>6</sup></a> pour ce qu'il menace de faire aux livres), "
 "vous payez pour réaliser ce monde."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The Swindle even has an Orwellian back door that can be used to erase books "
 "remotely.  Amazon demonstrated this capability by erasing copies, purchased "
@@ -201,7 +201,7 @@ msgstr ""
 "cite>. À l'évidence, le nom qu'Amazon a donné à son produit reflète son "
 "intention de brûler nos livres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Public anger against DRM is slowly growing, held back because propaganda "
 "expressions such as &ldquo;<a href=\"/philosophy/words-to-avoid.html"
@@ -221,13 +221,13 @@ msgstr ""
 "nous devons nous incliner moralement, et que nous faisons du tort à "
 "quelqu'un en lisant ou écoutant quelque chose sans payer."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The organizations that profit most from copyright legally exercise it in the "
 "name of the authors (most of whom gain little).  They would have you believe "
 "that copyright is a natural right of authors, and that we the public must "
-"suffer it no matter how painful it is.  They call sharing &ldquo;"
-"piracy&rdquo;, equating helping your neighbor with attacking a ship."
+"suffer it no matter how painful it is.  They call sharing &ldquo;piracy,"
+"&rdquo; equating helping your neighbor with attacking a ship."
 msgstr ""
 "Les organisations qui tirent le plus grand profit du copyright le font "
 "valoir juridiquement au nom des auteurs (ces derniers y gagnant peu, pour la "
@@ -236,7 +236,7 @@ msgstr ""
 "il. Ils appellent le partage « piraterie » ou « piratage », assimilant "
 "l'aide qu'on apporte à son voisin à une attaque de navire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "They also tell us that a War on Sharing is the only way to keep art alive.  "
 "Even if true, it would not justify the policy; but it isn't true.  Public "
@@ -249,7 +249,7 @@ msgstr ""
 "copies est susceptible d'augmenter les ventes de la plupart des œuvres et ne "
 "les diminue que pour les plus grands succès."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Bestsellers can still do well without forbidding sharing.  Stephen King got "
 "hundreds of thousands of dollars selling an unencrypted e-book serial with "
@@ -257,9 +257,9 @@ msgid ""
 "and called the experiment a failure, but it looks like a success to me.)  "
 "Radiohead made millions in 2007 by inviting fans to copy an album and pay "
 "what they wished, while it was also shared on peer-to-peer networks.  In "
-"2008, <a href=\"http://www.boingboing.net/2008/03/05/nine-inch-nails-made."
-"html\"> Nine Inch Nails released an album with permission to share copies</"
-"a> and made $750,000 in a few days."
+"2008, <a href=\"https://boingboing.net/2008/03/05/nine-inch-nails-made.html"
+"\"> Nine Inch Nails released an album with permission to share copies</a> "
+"and made $750,000 in a few days."
 msgstr ""
 "Les bestsellers peuvent continuer à bien se vendre sans interdire le "
 "partage. Stephen King a gagné des centaines de milliers de dollars en "
@@ -268,38 +268,38 @@ msgstr ""
 "et a appelé cette expérience un échec, mais pour moi cela ressemble à un "
 "succès). En 2007, Radiohead empocha des millions en invitant ses fans à "
 "copier un album et payer ce qu'ils voulaient alors qu'il était aussi partagé "
-"sur les réseaux pair-à-pair. En 2008, <a href=\"http://www.boingboing."
+"sur les réseaux pair-à-pair. En 2008, <a href=\"https://boingboing."
 "net/2008/03/05/nine-inch-nails-made.html\">Nine Inch Nails a publié un album "
 "en autorisant le partage de copies</a> [en] et a gagné 750 000 dollars en "
 "quelques jours."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The possibility of success without oppression is not limited to "
 "bestsellers.  Many artists of various levels of fame now make an adequate "
-"living through <a href=\"http://www.techdirt.com/"
+"living through <a href=\"https://www.techdirt.com/"
 "articles/20091119/1634117011.shtml\">voluntary support</a>: donations and "
 "merchandise purchases of their fans.  Kevin Kelly estimates the artist need "
-"only find around <a href=\"http://www.kk.org/thetechnium/"
-"archives/2008/03/1000_true_fans.php\"> 1,000 true fans</a>."
+"only find around <a href=\"https://kk.org/thetechnium/1000-true-fans/\"> "
+"1,000 true fans</a>."
 msgstr ""
 "La possibilité de succès sans oppression n'est pas limitée aux bestsellers. "
 "De nombreux artistes plus ou moins célèbres gagnent maintenant leur vie "
-"décemment par le moyen du <a href=\"http://www.techdirt.com/"
+"décemment par le moyen du <a href=\"https://www.techdirt.com/"
 "articles/20091119/1634117011.shtml\">soutien volontaire</a> [en] : les dons "
 "et achats d'objets dérivés effectués par leurs fans. Kevin Kelly estime que "
-"l'artiste n'a besoin que de trouver environ <a href=\"http://www.kk.org/"
-"thetechnium/archives/2008/03/1000_true_fans.php\">1000 vrais fans</a> [en] "
-"(cet article est traduit <a href=\"http://versionfrancaise.blogspot."
-"fr/2008/08/1000-vrais-fans.html\">en français</a>)."
+"l'artiste n'a besoin que de trouver environ <a href=\"https://kk.org/"
+"thetechnium/1000-true-fans/\">1000 vrais fans</a> [en] (cet article est "
+"traduit <a href=\"https://versionfrancaise.blogspot.com/2008/08/1000-vrais-"
+"fans.html\">en français</a>)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When computer networks provide an easy anonymous method for sending someone "
 "a small amount of money, without a credit card, it will be easy to set up a "
 "much better system to support the arts.  When you view a work, there will be "
 "a button you can press saying, &ldquo;Click here to send the artist one "
-"dollar&rdquo;.  Wouldn't you press it, at least once a week?"
+"dollar.&rdquo; Wouldn't you press it, at least once a week?"
 msgstr ""
 "Lorsque, grâce aux réseaux informatiques, nous disposerons d'une méthode "
 "facile et anonyme pour envoyer à quelqu'un une petite somme d'argent, sans "
@@ -308,7 +308,7 @@ msgstr ""
 "disant « Cliquez ici pour envoyer un dollar à l'artiste ». Ne cliqueriez-"
 "vous pas, au moins une fois par semaine ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another good way to support music and the arts is with <a href=\"/philosophy/"
 "dat.html\">tax funds</a>&mdash;perhaps a tax on blank media or on Internet "
@@ -340,18 +340,18 @@ msgstr ""
 "ont le plus besoin. Ce système utilisera l'argent de nos impôts de manière "
 "efficace pour aider les arts."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"The <a href=\"http://stallman.org/mecenat/global-patronage.html\">Global "
+"The <a href=\"https://stallman.org/mecenat/global-patronage.html\">Global "
 "Patronage</a> proposal combines aspects of those two systems, incorporating "
 "mandatory payments with voluntary allocation among artists."
 msgstr ""
-"La proposition de <a href=\"http://stallman.org/mecenat/global-patronage.fr."
+"La proposition de <a href=\"https://stallman.org/mecenat/global-patronage.fr."
 "html\">mécénat global</a> combine certains aspects de ces deux systèmes et "
 "incorpore des paiements obligatoires avec la répartition volontaire entre "
 "les artistes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To make copyright fit the network age, we should legalize the noncommercial "
 "copying and sharing of all published works, and prohibit DRM.  But until we "
@@ -423,14 +423,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -441,8 +441,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2008, 2010, 2011, 2019, 2020 Richard M. Stallman"
-msgstr "Copyright &copy; 2008, 2010, 2011, 2019, 2020 Richard M. Stallman"
+msgid "Copyright &copy; 2008, 2010, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2008, 2010, 2021 Richard M. Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
