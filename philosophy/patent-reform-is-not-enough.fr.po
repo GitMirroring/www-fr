@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: patent-reform-is-not-enough.html\n"
-"POT-Creation-Date: 2019-03-23 11:27+0000\n"
-"PO-Revision-Date: 2020-12-08 12:03+0100\n"
+"POT-Creation-Date: 2021-09-19 16:26+0000\n"
+"PO-Revision-Date: 2021-09-19 19:54+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -26,11 +26,11 @@ msgstr ""
 "Une réforme des brevets n'est pas suffisante - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Patent Reform Is Not Enough"
 msgstr "Une réforme des brevets n'est pas suffisante"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When people first learn about the problem of software patents, their "
 "attention is often drawn to the egregious examples: patents that cover "
@@ -47,7 +47,7 @@ msgstr ""
 "naturel » dans les tableurs) et l'utilisation du « OU exclusif » pour "
 "modifier le contenu d'un affichage bitmap."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Focusing on these examples can lead some people to ignore the rest of the "
 "problem.  They are attracted to the position that the patent system is "
@@ -59,7 +59,7 @@ msgstr ""
 "repose sur un principe juste et qu'il a seulement besoin de « réformes » "
 "pour appliquer ses propres règles convenablement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But would correct implementation really solve the problem of software "
 "patents? Let's consider an example."
@@ -67,7 +67,7 @@ msgstr ""
 "Mais une mise en œuvre correcte résoudrait-elle vraiment le problème des "
 "brevets logiciels ? Prenons un exemple."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the early 90s we desperately needed a new free program for compression, "
 "because the old de-facto standard &ldquo;compress&rdquo; program had been "
@@ -84,7 +84,7 @@ msgstr ""
 "conception. Leur vitesse et leur qualité de compression supérieures "
 "attirèrent très vite les utilisateurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "That September, when the FSF was about a week away from releasing one of "
 "them as the new choice for compressing our distribution files, use of these "
@@ -96,7 +96,7 @@ msgstr ""
 "distribution, l'utilisation de ces programmes aux USA fut stoppée par un "
 "brevet nouvellement émis, sorti sous le numéro 5 049 881."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Under the patent system's rules, whether the public is allowed to use these "
 "programs (i.e., whether the patent is invalid) depends on whether there is "
@@ -112,7 +112,7 @@ msgstr ""
 "Williams, en avril 1991, venait après cette date et n'a donc pas été prise "
 "en compte."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A student described a similar algorithm in 1988-1989 in a class paper at the "
 "University of San Francisco, but the paper was not published.  So it does "
@@ -123,7 +123,7 @@ msgstr ""
 "publié. Ainsi, il ne compte pas en tant qu'état antérieur de la technique/"
 "recherche, selon les règles en vigueur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Reforms to make the patent system work &ldquo;properly&rdquo; would not have "
 "prevented this problem.  Under the rules of the patent system, this patent "
@@ -140,7 +140,7 @@ msgstr ""
 "part entre les deux). La faille se situe dans les règles elles-mêmes et non "
 "pas dans leur mise en application."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the US legal system, patents are intended as a bargain between society "
 "and individuals; society is supposed to gain through the disclosure of "
@@ -157,7 +157,7 @@ msgstr ""
 "C'était suffisamment facile à découvrir pour que plusieurs personnes l'aient "
 "fait à peu près en même temps."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Under current rules, our ability to use Williams's programs depends on "
 "whether anyone happened to publish the same idea before June 18, 1990.  That "
@@ -170,7 +170,7 @@ msgstr ""
 "pour promouvoir la pratique du droit, mais pas pour faire progresser le "
 "logiciel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Teaching the Patent Office to look at more of the existing prior art might "
 "prevent some outrageous mistakes.  It will not cure the greater problem, "
@@ -183,7 +183,7 @@ msgstr ""
 "chaque <em>nouvelle</em> petite vague à la surface de l'informatique, comme "
 "celle que Williams et d'autres avaient développée indépendamment."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This will turn software into a quagmire.  Even an innovative program "
 "typically uses dozens of not-quite-new techniques and features, each of "
@@ -203,21 +203,21 @@ msgstr ""
 "dit <cite>The Economist</cite>, les brevets logiciels sont tout simplement "
 "mauvais pour les affaires."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "What you can do to help"
 msgstr "Ce que vous pouvez faire pour aider"
 
 #.  [Dead as of 2019-03-23] support <a href="http://stopsoftwarepatents.eu/">
 #. this
 #. petition</a> for a Europe free of software patents, and 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There is a massive effort in Europe to stop software patents.  Please see <a "
-"href=\"http://www.ffii.org\"> the FFII web site</a> for full details of how "
+"href=\"https://ffii.org/\"> the FFII web site</a> for full details of how "
 "you can help."
 msgstr ""
 "Il y a un effort important en Europe pour stopper les brevets logiciels. "
-"Consultez le <a href=\"http://www.ffii.org\">site web de la FFII</a> pour "
+"Consultez le <a href=\"https://ffii.org/\">site web de la FFII</a> pour "
 "obtenir plus de détails sur ce que vous pouvez faire pour aider."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
@@ -246,14 +246,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -264,12 +264,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 1996, 1997, 1998, 2001, 2008, 2019 Free Software "
-"Foundation, Inc."
-msgstr ""
-"Copyright &copy; 1996, 1997, 1998, 2001, 2008, 2019 Free Software "
-"Foundation, Inc."
+msgid "Copyright &copy; 1996-1998, 2001, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1996-1998, 2001, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

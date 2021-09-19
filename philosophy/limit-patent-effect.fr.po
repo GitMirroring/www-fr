@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: limit-patent-effect.html\n"
-"POT-Creation-Date: 2016-11-18 06:59+0000\n"
-"PO-Revision-Date: 2020-12-06 19:29+0100\n"
+"POT-Creation-Date: 2021-09-19 16:26+0000\n"
+"PO-Revision-Date: 2021-09-19 19:54+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -26,28 +26,15 @@ msgstr ""
 "Protéger le secteur du logiciel des brevets - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Giving the Software Field Protection from Patents"
 msgstr "Protéger le secteur du logiciel des brevets"
 
-#. type: Content of: <p>
-msgid ""
-"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
-msgstr ""
-"par <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></"
-"a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
-msgid ""
-"<em>A version of this article was first published at <a href=\"http://www."
-"wired.com/opinion/2012/11/richard-stallman-software-patents/\">Wired</a> in "
-"November 2012.</em>"
-msgstr ""
-"<em>Une première version de cet article a été publiée sur <a href=\"http://"
-"www.wired.com/opinion/2012/11/richard-stallman-software-patents/\">Wired</a> "
-"en novembre 2012.</em>"
-
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Patents threaten every software developer, and the patent wars we have long "
 "feared have broken out.  Software developers and software users&mdash;which, "
@@ -58,13 +45,13 @@ msgstr ""
 "utilisateurs – soit, dans notre société, la plupart des gens – ont besoin de "
 "logiciels libres de tout brevet."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"The patents that threaten us are often called &ldquo;software "
-"patents&rdquo;, but that term is misleading.  Such patents are not about any "
+"The patents that threaten us are often called &ldquo;software patents,"
+"&rdquo; but that term is misleading.  Such patents are not about any "
 "specific program.  Rather, each patent describes some practical idea, and "
 "says that anyone carrying out the idea can be sued.  So it is clearer to "
-"call them &ldquo;computational idea patents&rdquo;."
+"call them &ldquo;computational idea patents.&rdquo;"
 msgstr ""
 "Les brevets qui nous menacent sont souvent appelés « brevets logiciels », "
 "mais ce terme est trompeur. Ces brevets ne concernent aucun programme en "
@@ -73,7 +60,7 @@ msgstr ""
 "Il est donc plus clair de les appeler « brevets sur des idées "
 "informatiques », ou « brevets sur des algorithmes »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The US patent system doesn't label patents to say this one's a &ldquo;"
 "software patent&rdquo; and that one isn't.  Software developers are the ones "
@@ -93,7 +80,7 @@ msgstr ""
 "par contre l'idée qui est brevetée est un algorithme, alors le canon de ce "
 "brevet est braqué sur les développeurs et les utilisateurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This is not to say that computational idea patents prohibit only software.  "
 "These ideas can also be implemented in hardware&mdash;and many of them have "
@@ -106,11 +93,11 @@ msgstr ""
 "typiquement les implémentations matérielles <em>et</em> logicielles de "
 "l'idée."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "The Special Problem of Software"
 msgstr "Le problème particulier du logiciel"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Still, software is where computational idea patents cause a special "
 "problem.  In software, it's easy to implement thousands of ideas together in "
@@ -122,7 +109,7 @@ msgstr ""
 "des milliers d'idées dans un seul programme. Si dix pour cent de ces idées "
 "sont brevetées, cela signifie que des centaines de brevets le menacent."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When Dan Ravicher of the Public Patent Foundation studied one large program "
 "(Linux, which is the kernel of the <a href=\"/gnu/gnu-linux-faq.html\"> GNU/"
@@ -142,7 +129,7 @@ msgstr ""
 "cent. En multipliant 300 par 400, on peut estimer que le nombre de brevets "
 "qui menacent le système dans son ensemble est de l'ordre de 100 000."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If half of those patents were eliminated as &ldquo;bad quality&rdquo;&mdash;"
 "mistakes of the patent system, that is&mdash;it would not really change "
@@ -150,9 +137,9 @@ msgid ""
 "why it's a mistake to limit our criticism of software patents to just &ldquo;"
 "patent trolls&rdquo; or &ldquo;bad quality&rdquo; patents.  The worst patent "
 "aggressor today is Apple, which isn't a &ldquo;troll&rdquo; by the usual "
-"definition; I don't know whether Apple's patents are &ldquo;good "
-"quality&rdquo;, but the better the patent's &ldquo;quality&rdquo; the more "
-"dangerous its threat."
+"definition; I don't know whether Apple's patents are &ldquo;good quality,"
+"&rdquo; but the better the patent's &ldquo;quality&rdquo; the more dangerous "
+"its threat."
 msgstr ""
 "Si la moitié de ces brevets était supprimée pour cause de « mauvaise "
 "qualité » – c'est-à-dire pour cause de ratés du système de brevets – cela ne "
@@ -165,11 +152,11 @@ msgstr ""
 "Je ne sais pas si les brevets d'Apple sont de « bonne qualité », mais plus "
 "la « qualité » du brevet est élevée, plus la menace est grande."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "We need to fix the whole problem, not just part of it."
 msgstr "Nous devons corriger l'ensemble du problème, pas seulement une partie."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The usual suggestions for correcting this problem legislatively involve "
 "changing the criteria for granting patents&mdash;for instance, to ban "
@@ -181,7 +168,7 @@ msgstr ""
 "délivrance de brevets sur les pratiques algorithmiques et les systèmes "
 "nécessaires à leur mise en œuvre. Mais cette approche a deux inconvénients."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "First, patent lawyers are clever at reformulating patents to fit whatever "
 "rules may apply; they transform any attempt at limiting the substance of "
@@ -204,7 +191,7 @@ msgstr ""
 "élaborée pour que la demande de brevet se conforme aux critères que, pendant "
 "quelque temps, l'on a cru être ceux du système américain de brevets."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Second, the US already has many thousands of computational idea patents, and "
 "changing the criteria to prevent issuing more would not get rid of the "
@@ -225,12 +212,12 @@ msgstr ""
 "détriment des droits du public mais ne puisse pas aller dans l'autre "
 "direction)."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "A Different Approach: Limit Effect, Not Patentability"
 msgstr ""
 "Une approche différente : limiter l'effet des brevets, pas la brevetabilité"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "My suggestion is to change the <em>effect</em> of patents.  We should "
 "legislate that developing, distributing, or running a program on generally "
@@ -242,14 +229,14 @@ msgstr ""
 "matériel informatique de consommation courante ne constitue pas une "
 "violation de brevet. Cette approche a plusieurs avantages :"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "It does not require classifying patents or patent applications as &ldquo;"
-"software&rdquo; or &ldquo;not software&rdquo;."
+"software&rdquo; or &ldquo;not software.&rdquo;"
 msgstr ""
 "elle n'impose pas de classer les brevets selon qu'ils sont logiciels ou non ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "It provides developers and users with protection from both existing and "
 "potential future computational idea patents."
@@ -257,7 +244,7 @@ msgstr ""
 "elle apporte aux développeurs ainsi qu'aux utilisateurs une protection "
 "contre les brevets sur des algorithmes, existants ou futurs ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Patent lawyers cannot defeat the intended effect by writing applications "
 "differently."
@@ -265,7 +252,7 @@ msgstr ""
 "les avocats spécialistes des brevets ne peuvent plus trouver d'échappatoire "
 "en changeant la formulation de leurs demandes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This approach doesn't entirely invalidate existing computational idea "
 "patents, because they would continue to apply to implementations using "
@@ -285,7 +272,7 @@ msgstr ""
 "chirurgiens sont protégés. Cela fournit un précédent pour ce type de "
 "solution."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Software developers and software users need protection from patents.  This "
 "is the only legislative solution that would provide full protection for "
@@ -298,13 +285,23 @@ msgstr ""
 "notre monde de concurrence ou de coopération&hellip; sans craindre qu'un "
 "inconnu ne vienne balayer notre travail."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<em>See also: <a href=\"/philosophy/patent-reform-is-not-enough.html\"> "
 "Patent Reform Is Not Enough</a></em>"
 msgstr ""
 "<em>Voir également : <a href=\"/philosophy/patent-reform-is-not-enough.html"
 "\">Une réforme des brevets n'est pas suffisante</a></em>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"A version of this article was first published at <a href=\"https://www.wired."
+"com/opinion/2012/11/richard-stallman-software-patents/\"> <cite>Wired</"
+"cite></a> in November 2012."
+msgstr ""
+"Une première version de cet article a été publiée sur <a href=\"https://www."
+"wired.com/opinion/2012/11/richard-stallman-software-patents/\">Wired</a> en "
+"novembre 2012."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -332,14 +329,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -350,8 +347,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2012, 2013, 2015, 2016 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2012, 2013, 2015, 2016 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2012, 2013, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2012, 2013, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

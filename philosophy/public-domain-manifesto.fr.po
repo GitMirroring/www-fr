@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: public-domain-manifesto.html\n"
-"POT-Creation-Date: 2020-07-01 15:25+0000\n"
-"PO-Revision-Date: 2021-01-12 14:52+0100\n"
+"POT-Creation-Date: 2021-09-19 16:26+0000\n"
+"PO-Revision-Date: 2021-09-19 19:54+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -23,21 +23,20 @@ msgstr ""
 "Pourquoi je ne signerai pas le manifeste pour le domaine public - Projet GNU "
 "- Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Why I Will Not Sign the Public Domain Manifesto"
 msgstr "Pourquoi je ne signerai pas le manifeste pour le domaine public"
 
-#. type: Content of: <p>
-msgid "by <a href=\"http://www.stallman.org/\">Richard M. Stallman</a>"
-msgstr "par <a href=\"http://www.stallman.org/\">Richard M. Stallman</a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"The Public Domain Manifesto (<a href=\"https://publicdomainmanifesto.org/"
-"manifesto/\">https://publicdomainmanifesto.org/manifesto/</a>)  has its "
-"heart in the right place as it objects to some of the unjust extensions of "
-"copyright power, so I wish I could support it.  However, it falls far short "
-"of what is needed."
+"The <a href=\"https://publicdomainmanifesto.org/manifesto/\">Public Domain "
+"Manifesto</a> has its heart in the right place as it objects to some of the "
+"unjust extensions of copyright power, so I wish I could support it.  "
+"However, it falls far short of what is needed."
 msgstr ""
 "Le <a href=\"https://publicdomainmanifesto.org/manifesto/#fr\">manifeste "
 "pour le domaine public</a> a le cœur à la bonne place puisqu'il s'oppose à "
@@ -45,14 +44,14 @@ msgstr ""
 "souhaité pouvoir le soutenir. Cependant il n'est pas, et de loin, à la "
 "hauteur de ce qui serait nécessaire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some flaws are at the level of implicit assumptions.  The manifesto "
 "frequently uses <a href=\"/philosophy/words-to-avoid.html\">propaganda "
-"terms</a> of the copyright industry, such as <a href=\"/philosophy/words-to-"
-"avoid.html#Protection\">&ldquo;copyright protection&rdquo;</a>.  These terms "
-"were chosen to lead people to sympathize with the copyright industry and its "
-"demands for power."
+"terms</a> of the copyright industry, such as &ldquo;<a href=\"/philosophy/"
+"words-to-avoid.html#Protection\">copyright protection</a>.&rdquo; These "
+"terms were chosen to lead people to sympathize with the copyright industry "
+"and its demands for power."
 msgstr ""
 "Quelques-unes de ses insuffisances concernent les hypothèses implicites. Le "
 "manifeste emploie fréquemment des <a href=\"/philosophy/words-to-avoid.html"
@@ -61,50 +60,52 @@ msgstr ""
 "copyright</a> ». Ces termes ont été choisis pour amener les gens à "
 "sympathiser avec l'industrie du copyright et avec ses exigences de pouvoir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"The manifesto and its signatories use the term &ldquo;intellectual "
-"property&rdquo;, which confuses the issue of copyright by lumping it "
-"together with a dozen other laws that have nothing significant in common.  "
-"(See <a href=\"/philosophy/not-ipr.html\">http://www.gnu.org/philosophy/not-"
-"ipr.html</a> for more explanation about this point.)  Ironically it uses the "
-"term first in a sentence which points out that this manifesto is concerned "
-"only with copyright law, not with those other laws.  That is with good "
-"reason: the other laws are not relevant to copying and using published "
-"works.  If we seek to teach the public to distinguish between these laws, we "
-"should avoid setting an example which spuriously lumps them together."
+"The manifesto and its signatories use the term &ldquo;intellectual property,"
+"&rdquo; which confuses the issue of copyright by lumping it together with a "
+"dozen other laws that have nothing significant in common.  (See &ldquo;<a "
+"href=\"/philosophy/not-ipr.html\">Did You Say &lsquo;Intellectual "
+"Property&rsquo;? It's a Seductive Mirage</a>&rdquo; for more explanation "
+"about this point.)  Ironically it uses the term first in a sentence which "
+"points out that this manifesto is concerned only with copyright law, not "
+"with those other laws.  That is with good reason: the other laws are not "
+"relevant to copying and using published works.  If we seek to teach the "
+"public to distinguish between these laws, we should avoid setting an example "
+"which spuriously lumps them together."
 msgstr ""
 "Le manifeste et ses signataires emploient le terme « propriété "
 "intellectuelle », qui jette la confusion dans le débat sur le copyright en "
 "le mélangeant avec une douzaine d'autres lois qui n'ont à peu près rien de "
-"commun avec lui (voir <a href=\"/philosophy/not-ipr.html\">http://www.gnu."
-"org/philosophy/not-ipr.html</a> pour des explications supplémentaires sur "
-"cette question). Comble de l'ironie, le manifeste emploie cette expression "
-"pour la première fois dans une phrase soulignant qu'il ne s'intéresse qu'à "
-"la loi sur le copyright, pas aux autres. Ceci pour une bonne raison : les "
-"autres lois n'ont rien à voir avec la copie et l'utilisation d'œuvres "
-"publiées. Si nous cherchons à enseigner au public la différence entre ces "
-"lois, nous devons éviter de créer un précédent où elles sont mises en vrac "
-"dans le même panier."
+"commun avec lui (voir « <a href=\"/philosophy/not-ipr.html\">Vous avez dit "
+"“propriété intellectuelle” ? Un séduisant mirage</a> » pour des explications "
+"supplémentaires sur cette question). Comble de l'ironie, le manifeste "
+"emploie cette expression pour la première fois dans une phrase soulignant "
+"qu'il ne s'intéresse qu'à la loi sur le copyright, pas aux autres. Ceci pour "
+"une bonne raison : les autres lois n'ont rien à voir avec la copie et "
+"l'utilisation d'œuvres publiées. Si nous cherchons à enseigner au public la "
+"différence entre ces lois, nous devons éviter de créer un précédent où elles "
+"sont mises en vrac dans le même panier."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "General Principle 2 repeats the common error that copyright should balance "
-"the public interest with &ldquo;protecting and rewarding the author&rdquo;.  "
+"the public interest with &ldquo;protecting and rewarding the author.&rdquo; "
 "This error interferes with proper judgment of any copyright policy question, "
-"since that should be based on the public interest.  <a href=\"/philosophy/"
-"misinterpreting-copyright.html\">http://www.gnu.org/philosophy/"
-"misinterpreting-copyright.html</a> explains this error and how to avoid it."
+"since that should be based on the public interest. &ldquo;<a href=\"/"
+"philosophy/misinterpreting-copyright.html\">Misinterpreting Copyright&mdash;"
+"A Series of Errors</a>&rdquo; explains this error and how to avoid it."
 msgstr ""
 "Le principe général 2 répète l'erreur fréquente selon laquelle le copyright "
 "rétablirait l'équilibre entre l'intérêt public et « la protection et la "
 "rémunération des auteurs ». Cette erreur empêche de se former un jugement "
 "correct sur les différentes questions de la politique du copyright, puisque "
-"cette dernière devrait se baser sur l'intérêt général. <a href=\"/philosophy/"
-"misinterpreting-copyright.html\">http://www.gnu.org/philosophy/"
-"misinterpreting-copyright.html</a> explique cette erreur et comment l'éviter."
+"cette dernière devrait se baser sur l'intérêt général. « <a href=\"/"
+"philosophy/misinterpreting-copyright.html\">Mauvaise interprétation du "
+"copyright : une série d'erreurs</a> » explique cette erreur et comment "
+"l'éviter."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It would be difficult to stand aside from a campaign for the right goals "
 "merely because it was written with unclear words.  However, the manifesto "
@@ -119,7 +120,7 @@ msgstr ""
 "individuellement, ferait avancer les choses, bien que la formulation de "
 "certaines d'entre elles me dissuade d'y apposer ma signature."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Rather the problem is that it fails to ask for the most important points.  I "
 "cannot say, &ldquo;This manifesto is what I stand for.&rdquo; I cannot say, "
@@ -133,7 +134,7 @@ msgstr ""
 "manifeste », à moins que de pouvoir ajouter, de manière aussi visible : "
 "« mais il néglige de mentionner les points les plus cruciaux »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "General Principle 5 opposes contracts that restrict use of copies of public "
 "domain works.  But where we most need to oppose such contracts is where they "
@@ -154,24 +155,24 @@ msgstr ""
 "Concrètement, il légitime la plupart des dispositifs de DRM utilisés en "
 "pratique, en les soustrayant à la critique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I've saved the biggest omission for last.  General Recommendation 9 calls "
 "for allowing &ldquo;personal copying&rdquo; of copyrighted works.  Since it "
 "omits the issue of the freedom to share copies of published works with "
 "others, it fails to address the nastiest aspect of copyright: the vicious <a "
-"href=\"http://www.fsf.org/blogs/community/war-on-sharing-riaa-lawsuits\">War "
-"on Sharing</a> that the entertainment companies are now waging."
+"href=\"https://www.fsf.org/blogs/community/war-on-sharing-riaa-lawsuits"
+"\">War on Sharing</a> that the entertainment companies are now waging."
 msgstr ""
 "J'ai gardé pour la fin l'omission la plus grave. La recommandation "
 "générale 9 revendique la permission de « copie privée » pour les œuvres sous "
 "copyright. Elle omet la question du libre partage des copies d'œuvres "
 "publiées, donc ne s'intéresse pas à la manifestation la plus néfaste du "
-"copyright : la sauvage <a href=\"http://www.fsf.org/blogs/community/war-on-"
+"copyright : la sauvage <a href=\"https://www.fsf.org/blogs/community/war-on-"
 "sharing-riaa-lawsuits\">guerre contre le partage</a> que l'industrie du "
 "divertissement est en train de mener."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The demands and recommendations of the Public Domain Manifesto would be a "
 "step forward.  It may do some good if it inspires people who have accepted "
@@ -186,7 +187,7 @@ msgstr ""
 "objectif, il nous distraira de ce que nous avons vraiment besoin de "
 "combattre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The Public Domain Manifesto tries to defend our freedom within the walled "
 "garden of the public domain, but abandons that freedom outside it.  This is "
@@ -196,21 +197,21 @@ msgstr ""
 "avons à l'intérieur de la prison dorée du domaine public, mais abandonne "
 "l'autre, la liberté hors des murs. Ce n'est pas suffisant."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I ask the authors of the Public Domain Manifesto, and the public, to please "
 "join me in demanding the freedom to noncommercially share copies of all "
-"published works.  Also please join <a href=\"http://defectivebydesign.org"
-"\">DefectiveByDesign.org</a> and help our fight against DRM wherever it may "
+"published works.  Also please join <a href=\"https://www.defectivebydesign."
+"org\">Defective by Design</a> and help our fight against DRM wherever it may "
 "be found."
 msgstr ""
 "Je demande aux auteurs du manifeste pour le domaine public, ainsi qu'au "
 "public, de bien vouloir me rejoindre pour exiger la liberté de partager, de "
 "manière non commerciale, des copies de toutes les œuvres publiées. De plus, "
-"je les invite à rejoindre <a href=\"http://defectivebydesign.org"
-"\">DefectiveByDesign.org</a> (défectueux à dessein) pour nous aider dans "
-"notre combat contre la gestion numérique des restrictions, où qu'elle se "
-"manifeste."
+"je les invite à rejoindre <a href=\"https://www.defectivebydesign.org"
+"\"><i>Defective by Design</i></a> (Défectueux à dessein) pour nous aider "
+"dans notre combat contre la gestion numérique des restrictions, où qu'elle "
+"se manifeste."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -238,14 +239,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -256,8 +257,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2010, 2015, 2019, 2020 Richard Stallman"
-msgstr "Copyright &copy; 2010, 2015, 2019, 2020 Richard Stallman"
+msgid "Copyright &copy; 2010, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2010, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

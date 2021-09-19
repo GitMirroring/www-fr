@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: nonfree-games.html\n"
-"POT-Creation-Date: 2020-06-01 10:25+0000\n"
-"PO-Revision-Date: 2020-12-06 19:30+0100\n"
+"POT-Creation-Date: 2021-09-19 16:26+0000\n"
+"PO-Revision-Date: 2021-09-19 19:54+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -25,15 +25,15 @@ msgstr ""
 "Des jeux non libres avec DRM sur GNU/Linux : bon ou mauvais ? - Projet GNU - "
 "Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Nonfree DRM'd Games on GNU/Linux: Good or Bad?"
 msgstr "Des jeux non libres avec DRM sur GNU/Linux : bon ou mauvais ?"
 
-#. type: Content of: <p>
-msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
-msgstr "par <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A well known company, Valve, that distributes nonfree computer games with "
 "Digital Restrictions Management, recently announced it would distribute "
@@ -45,7 +45,7 @@ msgstr ""
 "distribuerait ces jeux pour GNU/Linux. Quels effets, bons ou mauvais, cela "
 "peut-il avoir ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I suppose that availability of popular nonfree programs on the GNU/Linux "
 "system can boost adoption of the system.  However, the aim of GNU goes "
@@ -60,7 +60,7 @@ msgstr ""
 "aux utilisateurs</a>. La question plus générale qu'il faut donc se poser, "
 "c'est en quoi cet événement affecte la liberté des utilisateurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The problem with these games is not that <a href=\"/philosophy/words-to-"
 "avoid.html#Commercial\"> they are commercial</a>.  (We see nothing wrong "
@@ -78,7 +78,7 @@ msgstr ""
 "« liberté », naturellement).<a id=\"TransNote1-rev\" href="
 "\"#TransNote1\"><sup>1</sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Nonfree game programs (like other nonfree programs) are unethical because "
 "they deny freedom to their users.  (Game art is a different issue, because "
@@ -94,19 +94,19 @@ msgstr ""
 "programme non libre sur votre ordinateur, et de ne pas en exécuter. Jusque-"
 "là, c'est clair."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, if you're going to use these games, you're better off using them on "
 "GNU/Linux rather than on Microsoft Windows.  At least you avoid <a href="
-"\"http://upgradefromwindows8.org/\">the harm to your freedom that Windows "
-"would do</a>."
+"\"https://www.fsf.org/windows\">the harm to your freedom that Windows would "
+"do</a>."
 msgstr ""
 "Cependant, si de toute façon vous utilisez ces jeux, vous feriez mieux de "
 "les utiliser sur GNU/Linux plutôt que sur Microsoft Windows. Au moins, vous "
-"éviterez que <a href=\"http://upgradefromwindows8.org/\">Windows ne porte "
+"éviterez que <a href=\"https://www.fsf.org/windows\">Windows ne porte "
 "atteinte à votre liberté</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Thus, in direct practical terms, this development can do both harm and "
 "good.  It might encourage GNU/Linux users to install these games, and it "
@@ -123,7 +123,7 @@ msgstr ""
 "qu'est-ce que l'utilisation de ces jeux enseigne aux gens de notre "
 "communauté ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Any GNU/Linux distro that comes with software to offer these games will "
 "teach users that the point is not freedom.  <a href=\"/distros/common-"
@@ -137,12 +137,12 @@ msgstr ""
 "des distributions GNU/Linux</a> vont déjà à l'encontre de l'objectif de "
 "liberté. Ajouter ces jeux à une distribution amplifierait cet effet."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Free software is a matter of freedom, not price.  A free game need not be "
 "gratis.  It is feasible to develop free games commercially, while respecting "
 "your freedom to change the software you use.  Since the art in the game is "
-"not software, it is not ethically imperative to make the art free &mdash; "
+"not software, it is not ethically imperative to make the art free&mdash;"
 "though free art is an additional contribution.  There is in fact free game "
 "software developed by companies, as well as free games developed "
 "noncommercially by volunteers.  Crowdfunding development will only get "
@@ -160,14 +160,14 @@ msgstr ""
 "développement par la communauté <i>[crowdfunding]</i> va devenir de plus en "
 "plus facile."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But if we suppose that it is <em>not feasible</em> in the current situation "
-"to develop a certain kind of free game &mdash; what would follow then? "
-"There's no good in writing it as a nonfree game.  To have freedom in your "
-"computing, requires rejecting nonfree software, pure and simple.  You as a "
-"freedom-lover won't use the nonfree game if it exists, so you won't lose "
-"anything if it does not exist."
+"to develop a certain kind of free game&mdash;what would follow then? There's "
+"no good in writing it as a nonfree game.  To have freedom in your computing, "
+"requires rejecting nonfree software, pure and simple.  You as a freedom-"
+"lover won't use the nonfree game if it exists, so you won't lose anything if "
+"it does not exist."
 msgstr ""
 "Mais supposons qu'il soit <em>impossible</em> de développer une certaine "
 "sorte de jeu libre. Qu'est-ce qui en découlerait ? Cela ne présenterait "
@@ -176,49 +176,50 @@ msgstr ""
 "simplement. Vous, amateur de liberté, n'utiliseriez pas le jeu non libre "
 "s'il existait, alors vous ne perdrez rien s'il n'existe pas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you want to promote the cause of freedom in computing, please take care "
 "not to talk about the availability of these games on GNU/Linux as support "
 "for our cause.  Instead you could tell people about the <a href=\"https://"
 "libregamewiki.org/Main_Page\">libre games wiki</a> that attempts to catalog "
-"free games, <a href=\"http://forum.freegamedev.net/index.php\"> the Free "
-"Game Dev Forum</a>, and the LibrePlanet Gaming Collective's <a href=\"http://"
-"libreplanet.org/wiki/Group:LibrePlanet_Gaming_Collective\"> free gaming "
-"night.</a>"
+"free games, <a href=\"https://forum.freegamedev.net/index.php\"> the Free "
+"Game Dev Forum</a>, and the LibrePlanet Gaming Collective's <a href="
+"\"https://libreplanet.org/wiki/Group:LibrePlanet_Gaming_Collective\"> free "
+"gaming night.</a>"
 msgstr ""
 "Si vous voulez promouvoir la cause de la liberté en informatique et soutenir "
 "notre cause, faites attention, s'il vous plaît, à ne pas parler de la "
 "disponibilité de ces jeux sur GNU/Linux. À la place, vous pourriez parler "
 "aux gens du <a href=\"https://libregamewiki.org/Main_Page\">wiki des jeux "
 "libres</a> qui essaie de faire un catalogue de jeux libres, du <a href="
-"\"http://forum.freegamedev.net/index.php\">Free Game Dev Forum</a> (Forum "
+"\"https://forum.freegamedev.net/index.php\">Free Game Dev Forum</a> (Forum "
 "des développeurs de jeux libres) et de la nuit du jeu libre du <a href="
-"\"http://libreplanet.org/wiki/Group:LibrePlanet_Gaming_Collective"
+"\"https://libreplanet.org/wiki/Group:LibrePlanet_Gaming_Collective"
 "\">LibrePlanet Gaming Collective</a> (Collectif du jeu de LibrePlanet)."
 
-#. type: Content of: <h3>
-msgid "Notes"
-msgstr "Notes"
+#. type: Content of: <div><h3>
+msgid "Note"
+msgstr "Note"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"<a href=\"http://web-old.archive.org/web/20191125215630/http://onpon4.github."
-"io/articles/gaming-trap.html\"> Watch out for &ldquo;nonfree game "
-"data&rdquo; that actually contains software.</a>"
+"<a href=\"https://web.archive.org/web/20191125215630/http://onpon4.github.io/"
+"articles/gaming-trap.html\"> Watch out for &ldquo;nonfree game data&rdquo; "
+"that actually contains software.</a>"
 msgstr ""
-"<a href=\"http://web-old.archive.org/web/20191125215630/http://onpon4.github."
-"io/articles/gaming-trap.html\">Attention aux « données de jeu non libres » "
-"qui, de fait, contiennent du logiciel</a>."
+"<a href=\"https://web.archive.org/web/20191125215630/http://onpon4.github.io/"
+"articles/gaming-trap.html\">Attention aux « données de jeu non libres » qui, "
+"de fait, contiennent du logiciel</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
 "<hr /><b>Note de traduction</b><ol>\n"
-"<li id=\"TransNote1\">Le mot anglais <i>free</i> veut dire « libre », mais "
-"aussi « gratuit ». <a href=\"#TransNote1-rev\" class=\"nounderline\">&#8593;"
-"</a></li></ol>"
+"<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"Le mot anglais <i>free</i> veut dire « libre », mais aussi « gratuit ».</"
+"li></ol>"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -241,14 +242,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -260,9 +261,9 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2013, 2015, 2016, 2018, 2020 Free Software Foundation, Inc."
+"Copyright &copy; 2012, 2013, 2015, 2016, 2021 Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2013, 2015, 2016, 2018, 2020 Free Software Foundation, Inc."
+"Copyright &copy; 2012, 2013, 2015, 2016, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

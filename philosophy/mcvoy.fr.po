@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: mcvoy.html\n"
-"POT-Creation-Date: 2014-03-14 04:34+0000\n"
-"PO-Revision-Date: 2020-12-06 19:29+0100\n"
+"POT-Creation-Date: 2021-09-19 16:26+0000\n"
+"PO-Revision-Date: 2021-09-19 19:54+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -21,15 +21,15 @@ msgstr ""
 msgid "Thank You, Larry McVoy - GNU Project - Free Software Foundation"
 msgstr "Merci, Larry McVoy - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Thank You, Larry McVoy"
 msgstr "Merci, Larry McVoy"
 
-#. type: Content of: <p>
-msgid "by <strong>Richard M. Stallman</strong>"
-msgstr "par <strong>Richard M. Stallman</strong>"
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "par Richard Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For the first time in my life, I want to thank Larry McVoy.  He recently "
 "eliminated a major weakness of the free software community, by announcing "
@@ -46,7 +46,7 @@ msgstr ""
 "le message que les logiciels non libres sont une bonne chose s'ils sont "
 "pratiques."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "My gratitude is limited, since it was McVoy that created the problem in the "
 "first place.  But I still appreciate his decision to clear it up."
@@ -55,7 +55,7 @@ msgstr ""
 "en premier lieu. Mais j'apprécie toutefois sa décision de clarifier les "
 "choses."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There are thousands of nonfree programs, and most merit no special "
 "attention, other than developing a free replacement.  What made this "
@@ -69,7 +69,7 @@ msgstr ""
 "son approche marketing invitant de grands projets de logiciel libre à "
 "l'utiliser, de manière à attirer d'autres utilisateurs payants."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "McVoy made the program available gratis to free software developers.  This "
 "did not mean it was free software for them: they were privileged not to part "
@@ -89,7 +89,7 @@ msgstr ""
 "liberté de réaliser et de redistribuer des copies et la liberté de publier "
 "des versions modifiées."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The free software movement has said, &ldquo;Think of &lsquo;free speech,"
 "&rsquo; not &lsquo;free beer&rsquo;&rdquo; since 1990.  McVoy said the "
@@ -107,7 +107,7 @@ msgstr ""
 "technique qu'à la liberté et à la communauté étaient susceptibles de "
 "l'accepter."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "McVoy's great triumph was the adoption of this program for Linux "
 "development.  No free software project is more visible than Linux.  It is "
@@ -123,7 +123,7 @@ msgstr ""
 "son programme pour le développement de Linux fit une énorme publicité à son "
 "logiciel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It was also, whether intentionally or not, a powerful political PR campaign, "
 "telling the free software community that freedom-denying software is "
@@ -140,7 +140,7 @@ msgstr ""
 "nous atteler à le remplacer, rien de tel que le système GNU/Linux "
 "n'existerait."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Of course, the Linux developers had practical reasons for what they did.  I "
 "won't argue with those reasons; they surely know what's convenient for "
@@ -153,7 +153,7 @@ msgstr ""
 "comme quantité négligeable, la façon dont cela affecterait leur "
 "liberté&hellip; ou les efforts du reste de la communauté."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A free kernel, even a whole free operating system, is not sufficient to use "
 "your computer in freedom; we need free software for everything else, too.  "
@@ -178,7 +178,7 @@ msgstr ""
 "aux dépens de l'affaiblissement de l'élan pour libérer le reste du monde du "
 "logiciel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When the use of his program became controversial, McVoy responded with "
 "distraction.  For instance, he promised to release it as free software if "
@@ -196,7 +196,7 @@ msgstr ""
 "meilleur. » C'était une façon indirecte de dire : « Nous avons mis le bazar, "
 "mais nous ne ferons pas le ménage. »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Fortunately, not everyone in Linux development considered a nonfree program "
 "acceptable, and there was continuing pressure for a free alternative.  "
@@ -209,7 +209,7 @@ msgstr ""
 "développa un programme interopérable libre et les développeurs de Linux "
 "n'eurent plus besoin d'utiliser de logiciel non libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "McVoy first blustered and threatened, but ultimately chose to go home and "
 "take his ball with him: he withdrew permission for gratis use by free "
@@ -227,7 +227,7 @@ msgstr ""
 "l'exemple aux autres de mettre la liberté au dernier rang de leurs "
 "priorités. Nous pouvons commencer à oublier ce programme."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We should not forget the lesson we have learned from it: Nonfree programs "
 "are dangerous to you and to your community.  Don't let them get a place in "
@@ -242,13 +242,14 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
 "<hr /><b>Note de traduction</b><ol>\n"
-"<li id=\"TransNote1\">Le mot anglais <i>free</i> a deux significations, "
-"« libre » et « gratuit », ce qui prête à confusion dans l'interprétation du "
-"terme <i>free software</i>. En français il ne devrait pas y avoir cette "
-"ambiguïté car « entrée libre » est à peu près le seul cas où l'on peut "
-"donner à « libre » le sens de « gratuit » ; on constate malgré tout que le "
-"logiciel libre est souvent assimilé (par erreur) à du logiciel gratuit. <a "
-"href=\"#TransNote1-rev\" class=\"nounderline\">&#8593;</a></li></ol>"
+"<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"Le mot anglais <i>free</i> a deux significations, « libre » et « gratuit », "
+"ce qui prête à confusion dans l'interprétation du terme <i>free software</"
+"i>. En français il ne devrait pas y avoir cette ambiguïté car « entrée "
+"libre » est à peu près le seul cas où l'on peut donner à « libre » le sens "
+"de « gratuit » ; on constate malgré tout que le logiciel libre est souvent "
+"assimilé (par erreur) à du logiciel gratuit.</li></ol>"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -271,14 +272,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -289,19 +290,19 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2005 Richard M. Stallman"
-msgstr "Copyright &copy; 2005 Richard M. Stallman"
+msgid "Copyright &copy; 2005, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2005, 2021 Richard M. Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

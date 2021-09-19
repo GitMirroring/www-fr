@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: nonsoftware-copyleft.html\n"
-"POT-Creation-Date: 2020-08-08 18:25+0000\n"
-"PO-Revision-Date: 2020-12-06 19:30+0100\n"
+"POT-Creation-Date: 2021-09-19 16:26+0000\n"
+"PO-Revision-Date: 2021-09-19 19:58+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -17,7 +17,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -27,38 +26,38 @@ msgstr ""
 "Appliquer le copyleft à de l'information qui n'est pas du logiciel - Projet "
 "GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Applying Copyleft To Non-Software Information"
 msgstr "Appliquer le copyleft à de l'information qui n'est pas du logiciel"
 
-#. type: Content of: <p>
-msgid "by <a href=\"http://dsl.org/\"><strong>Michael Stutz</strong></a>"
-msgstr "par <a href=\"http://dsl.org/\"><strong>Michael Stutz</strong></a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"http://dsl.org/\">Michael Stutz</a>"
+msgstr "par <a href=\"http://dsl.org/\">Michael Stutz></a>"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "First, what is Copyleft?"
 msgstr "Primo, qu'est-ce que le copyleft ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"The entry for &ldquo;<a href=\"/copyleft/copyleft.html\">copyleft</a>&rdquo; "
+"The entry for &ldquo;<a href=\"/licenses/copyleft.html\">copyleft</a>&rdquo; "
 "in the definitive hacker lexicon, the <a href=\"http://www.jargon.net/"
 "jargonfile/c/copyleft.html\">Jargon File</a>, reads:"
 msgstr ""
-"On peut lire la définition de « <a href=\"/copyleft/copyleft.html"
+"On peut lire la définition de « <a href=\"/licenses/copyleft.html"
 "\">copyleft</a> » dans le lexique du hacker, <a href=\"http://www.jargon.net/"
-"jargonfile/c/copyleft.html\">Jargon File</a> [en] :"
+"jargonfile/c/copyleft.html\">Jargon File</a> :"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
-"copyleft: /kop'ee-left/ [play on &lsquo;copyright&rsquo;] n. 1. The "
-"copyright notice (&lsquo;General Public License&rsquo;) carried by GNU EMACS "
+"copyleft: /kop'ee-left/ [play on &ldquo;copyright&rdquo;] n. 1. The "
+"copyright notice (&ldquo;General Public License&rdquo;) carried by GNU EMACS "
 "and other Free Software Foundation software, granting reuse and reproduction "
 "rights to all comers (but see also General Public Virus).  2. By extension, "
 "any copyright notice intended to achieve similar aims."
 msgstr ""
-"<i>copyleft: /kop'ee-left/ [play on `copyright'] n. 1. The copyright notice "
-"(`General Public License') carried by GNU EMACS and other Free Software "
+"<i>copyleft: /kop'ee-left/ [play on “copyright”] n. 1. The copyright notice "
+"(“General Public License”) carried by GNU EMACS and other Free Software "
 "Foundation software, granting reuse and reproduction rights to all comers "
 "(but see also General Public Virus).  2. By extension, any copyright notice "
 "intended to achieve similar aims.</i><br/><br />Traduction :<br /"
@@ -69,39 +68,39 @@ msgstr ""
 "<i>General Public Virus</i>). 2. Par extension, tout avis de copyright "
 "destiné à atteindre des buts similaires."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"The idea of <a href=\"/copyleft/copyleft.html\">copyleft</a> originated with "
-"&uuml;ber-hacker <a href=\"http://www.stallman.org/\"> Richard Stallman</a> "
+"The idea of <a href=\"/licenses/copyleft.html\">copyleft</a> originated with "
+"&uuml;ber-hacker <a href=\"https://www.stallman.org/\"> Richard Stallman</a> "
 "in 1983 when he started the <a href=\"/gnu/gnu-history.html\">GNU Project</"
 "a>. In brief, his goal was &ldquo;to develop a complete free Unix-like "
 "operating system.&rdquo; As part of that goal, he invented and wrote the <a "
-"href=\"/copyleft/gpl.html\">GNU General Public License</a>, a legal "
+"href=\"/licenses/gpl.html\">GNU General Public License</a>, a legal "
 "construct that included a copyright notice but added to it (or, technically, "
 "removed certain restrictions), so its terms allowed for the freedoms of "
 "reuse, modification and reproduction of a work or its derivatives to be kept "
 "for all."
 msgstr ""
-"Le über-hacker <a href=\"http://www.stallman.org/\">Richard Stallman</"
-"a> [en] inventa l'idée de <a href=\"/copyleft/copyleft.html\">copyleft</a> "
+"Le über-hacker <a href=\"https://www.stallman.org/\">Richard Stallman</"
+"a> [en] inventa l'idée de <a href=\"/licenses/copyleft.html\">copyleft</a> "
 "en 1983 quand il démarra le <a href=\"/gnu/gnu-history.html\">projet GNU</"
 "a>. Pour résumer, son but était « de développer un système d'exploitation "
 "libre de type Unix ». Comme partie intégrante de son objectif, il conçut et "
-"écrivit la <a href=\"/copyleft/gpl.html\">GNU General Public License</"
+"écrivit la <a href=\"/licenses/gpl.html\">GNU General Public License</"
 "a> [en] (licence publique générale GNU, ou GNU GPL), une construction "
 "juridique qui inclut un avis de copyright, mais qui le complète (ou, "
 "techniquement, lui retire certaines restrictions) de sorte que ses clauses "
 "prévoient la liberté de réutilisation, de modification et de reproduction "
 "d'une œuvre ou de ses dérivés pour qu'ils restent accessibles à tous."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Normal <a href=\"https://web.archive.org/web/20190805143144/http://www."
 "angelfire.com/planet/carroll/index2.html\"> copyright</a> asserts ownership "
 "and identification of the author, as well as prevents the use of the "
 "author's name as author of a distorted version of the work; it also prevents "
 "intentional distortion of the work by others and prevents destruction of the "
-"work. But it also carries other restrictions &mdash; such as restricting the "
+"work. But it also carries other restrictions&mdash;such as restricting the "
 "reproduction or modification of a work."
 msgstr ""
 "Le <a href=\"https://web.archive.org/web/20190805143144/http://www.angelfire."
@@ -113,7 +112,7 @@ msgstr ""
 "restrictions, telle que la restriction de reproduction ou de modification "
 "d'une œuvre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Copyleft contains the normal copyright statement, asserting ownership and "
 "identification of the author. However, it then <em>gives away</em> some of "
@@ -132,15 +131,15 @@ msgstr ""
 "changements aient été faits par quelqu'un d'autre. Enfin, toutes les œuvres "
 "dérivées doivent également bénéficier de ces clauses."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Why is Copyleft important, or even necessary?"
 msgstr "Pourquoi le copyleft est-il important, voire nécessaire ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"Certain restrictions of copyright &mdash; such as distribution and "
-"modification &mdash; are not very useful to &ldquo;cyberia,&rdquo; the "
-"&ldquo;free, apolitical, democratic community&rdquo; that constitutes the "
+"Certain restrictions of copyright&mdash;such as distribution and "
+"modification&mdash;are not very useful to &ldquo;cyberia,&rdquo; the &ldquo;"
+"free, apolitical, democratic community&rdquo; that constitutes the "
 "internetworked digital world."
 msgstr ""
 "Certaines restrictions du copyright (telles que la distribution et la "
@@ -148,14 +147,14 @@ msgstr ""
 "« communauté démocratique, apolitique et libre » que constitue le monde "
 "numérique fonctionnant en réseau."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"With computers, perfect copies of a digital work can easily be made &mdash; "
-"and even modified, or further distributed &mdash; by others, with no loss of "
-"the original work. As individuals interact in cyberia, sharing information "
-"&mdash; then reacting and building upon it &mdash; is not only natural, but "
-"this is the <em>only</em> way for individual beings to thrive in a "
-"community. In essence, the idea of copyleft is basic to the natural "
+"With computers, perfect copies of a digital work can easily be made&mdash;"
+"and even modified, or further distributed&mdash;by others, with no loss of "
+"the original work. As individuals interact in cyberia, sharing "
+"information&mdash;then reacting and building upon it&mdash;is not only "
+"natural, but this is the <em>only</em> way for individual beings to thrive "
+"in a community. In essence, the idea of copyleft is basic to the natural "
 "propagation of digital information among humans in a society. This is why "
 "the regular notion of copyright does not make sense in the context of "
 "cyberia."
@@ -170,7 +169,7 @@ msgstr ""
 "numérique dans une société humaine. C'est pourquoi la notion classique de "
 "copyright n'a pas de sens dans le contexte de la cybérie."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Simple &lsquo;public domain&rsquo; publication will not work, because some "
 "will try to abuse this for profit by depriving others of freedom; as long as "
@@ -187,7 +186,7 @@ msgstr ""
 "abstractions juridiques en bonne et due forme du copyleft pour assurer nos "
 "libertés et les libertés des autres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Much literature has been written on this subject by Stallman, and the "
 "details can be found in the excellent <a href=\"/philosophy/philosophy.html"
@@ -197,15 +196,15 @@ msgstr ""
 "dans les excellents <a href=\"/philosophy/philosophy.html\">textes</a> "
 "publiés par la <i>Free Software Foundation</i>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "So why isn't the FSF's GNU GPL good enough?"
 msgstr "Donc, pourquoi la GNU GPL de la FSF n'est-elle pas bien adaptée ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It <em>is</em> good enough! The GNU GPL is not only a document of "
 "significant historical and literary value, but it is in wide use today for "
-"countless software programs &mdash; those as formal part of the GNU Project "
+"countless software programs&mdash;those as formal part of the GNU Project "
 "and otherwise. The GNU GPL originated for the specific goal of sharing "
 "software among computer programmers. However, looking closely at the GPL, it "
 "appears that the same License can be easily applied to non-software "
@@ -219,7 +218,7 @@ msgstr ""
 "près la GPL, il apparaît que la même licence peut être aisément appliquée à "
 "de l'information non logicielle."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Alternately, a document can be copylefted under different, or much simpler "
 "terms; whether or not the GNU GPL is the specific means to the end is not "
@@ -232,16 +231,16 @@ msgstr ""
 "GNU GPL fournisse certainement la plus explicite (et canonique) définition "
 "du copyleft."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Ok, so how do I copyleft my non-software work?"
 msgstr "OK, alors comment est-ce que je copylefte mon œuvre non logicielle ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It's simple. While a particular situation may require or inspire its own "
 "specific License, possibly similar to the GNU GPL, all that a copyleft "
 "notice must really do is fulfill the points as defined above in &ldquo;<a "
-"href=\"#what\">First, what is Copyleft?</a>&rdquo;. Using the GNU GPL to "
+"href=\"#what\">First, what is Copyleft?</a>.&rdquo; Using the GNU GPL to "
 "copyleft your work is easy."
 msgstr ""
 "C'est simple. Tandis qu'une situation particulière peut requérir ou inspirer "
@@ -250,13 +249,13 @@ msgstr ""
 "définis dans « <a href=\"#what\">Primo, qu'est-ce que le copyleft ?</a> ». "
 "Utiliser la GNU GPL pour copylefter votre œuvre est facile."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The GNU GPL states that it &ldquo;applies to any program or other work which "
 "contains a notice placed by the copyright holder saying it may be "
 "distributed under the terms of this General Public License,&rdquo; so this "
 "&ldquo;Program,&rdquo; then, may not necessarily be a computer software "
-"program &mdash; any work of any nature that can be copyrighted can be "
+"program&mdash;any work of any nature that can be copyrighted can be "
 "copylefted with the GNU GPL."
 msgstr ""
 "La GNU GPL déclare qu'elle « s'applique à tout programme ou toute œuvre "
@@ -266,14 +265,14 @@ msgstr ""
 "quelle œuvre de n'importe quelle nature, pouvant être copyrightée, peut être "
 "copyleftée avec la GNU GPL."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The GNU GPL references the &ldquo;source code&rdquo; of a work; this &ldquo;"
 "source code&rdquo; will mean different things for different kinds of "
-"information, but the definition of &ldquo;source code&rdquo; &mdash; "
-"provided in the GNU GPL &mdash; holds true in any case: &ldquo;The source "
-"code for a work means the preferred form of the work for making "
-"modifications to it.&rdquo;"
+"information, but the definition of &ldquo;source code&rdquo;&mdash;provided "
+"in the GNU GPL&mdash;holds true in any case: &ldquo;The source code for a "
+"work means the preferred form of the work for making modifications to it."
+"&rdquo;"
 msgstr ""
 "La GNU GPL fait référence au « code source » d'une œuvre ; ce « code "
 "source » signifiera différentes choses pour différents types d'information, "
@@ -281,7 +280,7 @@ msgstr ""
 "dans tous les cas : « Le code source d'une œuvre désigne la forme de cette "
 "œuvre sous laquelle les modifications sont les plus aisées. »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The notices attached to the work can not always be attached &ldquo;to the "
 "start of each source file,&rdquo; as recommended by the GNU GPL. In this "
@@ -293,7 +292,7 @@ msgstr ""
 "répertoire où se trouvent les fichiers doit contenir un avis, de même que "
 "tout texte ou documentation qui l'accompagne."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Finally, for non-software works the &ldquo;copyright&rdquo; line included at "
 "the start of the &ldquo;source code&rdquo; of the work is modified in "
@@ -302,71 +301,61 @@ msgstr ""
 "Finalement, pour des œuvres non logicielles la ligne de « copyright » "
 "incluse au début du « code source » de l'œuvre est légèrement modifiée :"
 
-#. type: Content of: <pre>
-#, no-wrap
+#. type: Content of: <div><blockquote><p>
 msgid ""
-"    &lt;one line to give the work's name and a brief idea of what it does.&gt;\n"
-"    Copyright (C) yyyy  &lt;name of author&gt;\n"
-"\n"
-"    This information is free; you can redistribute it and/or modify it\n"
-"    under the terms of the GNU General Public License as published by\n"
-"    the Free Software Foundation; either version 2 of the License, or\n"
-"    (at your option) any later version.\n"
-"\n"
-"    This work is distributed in the hope that it will be useful,\n"
-"    but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
-"    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n"
-"    GNU General Public License for more details.\n"
-"\n"
-"    You should have received a copy of the GNU General Public License\n"
-"    along with this work; if not, write to the Free Software\n"
-"    Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.\n"
+"&lt;one line to give the work's name and a brief idea of what it does.&gt;"
 msgstr ""
-"    &lt;one line to give the work's name and a brief idea of what it does.&gt;\n"
-"    Copyright (C) yyyy  &lt;name of author&gt;\n"
-"\n"
-"    This information is free; you can redistribute it and/or modify it\n"
-"    under the terms of the GNU General Public License as published by\n"
-"    the Free Software Foundation; either version 2 of the License, or\n"
-"    (at your option) any later version.\n"
-"\n"
-"    This work is distributed in the hope that it will be useful,\n"
-"    but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
-"    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n"
-"    GNU General Public License for more details.\n"
-"\n"
-"    You should have received a copy of the GNU General Public License\n"
-"    along with this work; if not, write to the Free Software\n"
-"    Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,\n"
-"    MA 02110-1301, USA.\n"
-"\n"
-"Traduction non officielle :\n"
-"\n"
-"    &lt;une ligne pour indiquer le nom de l'œuvre et donner une idée\n"
-"    de ce qu'elle est censée faire.&gt;\n"
-"    Copyright &copy; aaaa &lt;nom de l'auteur&gt;\n"
-"\n"
-"    Cette information est libre, vous pouvez la redistribuer et/ou la\n"
-"    modifier selon les termes de la <i>GNU General Public License</i>\n"
-"    telle que publiée par la <i>Free Software Foundation</i> ; soit la\n"
-"    version 2 de cette licence, soit (à votre choix) toute autre version\n"
-"    ultérieure.\n"
-"\n"
-"    Ce programme est distribué dans l'espoir qu'il sera utile, mais\n"
-"    SANS AUCUNE GARANTIE ; sans même la garantie tacite de QUALITÉ\n"
-"    MARCHANDE ou D'ADÉQUATION À UN BUT PARTICULIER. Pour plus\n"
-"    de détails, reportez-vous à la <i>GNU General Public License</i>.\n"
-"\n"
-"    Vous devez avoir reçu une copie de la <i>GNU General Public License</i>\n"
-"    avec cette œuvre ; si ce n'est pas le cas, écrivez à :\n"
-"    Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,\n"
-"    Boston, MA 02110-1301, USA.\n"
+"&lt;une ligne pour indiquer le nom de l'œuvre et donner une idée de ce "
+"qu'elle est censée faire.&gt;"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><blockquote><p>
+msgid "Copyright (C) yyyy &lt;name of author&gt;"
+msgstr "Copyright (C) aaaa &lt;nom de l'auteur&gt;"
+
+#. type: Content of: <div><blockquote><p>
+msgid ""
+"This information is free; you can redistribute it and/or modify it under the "
+"terms of the GNU General Public License as published by the Free Software "
+"Foundation; either version 2 of the License, or (at your option) any later "
+"version."
+msgstr ""
+"<i>This information is free; you can redistribute it and/or modify it under "
+"the terms of the GNU General Public License as published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version.</i>"
+
+#. type: Content of: <div><blockquote><p>
+msgid ""
+"This work is distributed in the hope that it will be useful, but WITHOUT ANY "
+"WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS "
+"FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more "
+"details.  You should have received a copy of the GNU General Public License "
+"along with this work; if not, write to the Free Software Foundation, Inc., "
+"51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA."
+msgstr ""
+"<i>This work is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details.  You should have received a copy of the GNU General Public "
+"License along with this work; if not, write to the Free Software Foundation, "
+"Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.</i></p>\n"
+"<p>Traduction non officielle :</p><p>Cette information est libre, vous "
+"pouvez la redistribuer et/ou la modifier selon les termes de la <i>GNU "
+"General Public License</i> telle que publiée par la <i>Free Software "
+"Foundation</i> ; soit la version 2 de cette licence, soit (à votre choix) "
+"toute autre version ultérieure.</p><p>Ce programme est distribué dans "
+"l'espoir qu'il sera utile, mais SANS AUCUNE GARANTIE ; sans même la garantie "
+"tacite de QUALITÉ MARCHANDE ou D'ADÉQUATION À UN BUT PARTICULIER. Pour plus "
+"de détails, reportez-vous à la <i>GNU General Public License</i>. Vous devez "
+"avoir reçu une copie de la <i>GNU General Public License</i> avec cette "
+"œuvre ; si ce n'est pas le cas, écrivez à : Free Software Foundation, Inc., "
+"51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA."
+
+#. type: Content of: <div><h3>
 msgid "Where do I go from here?"
-msgstr "Où dois-je aller maintenant ?"
+msgstr "Qu'est-ce que je fais maintenant ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Here are sources for further information on copyleft, especially as it is "
 "applied to non-software information:"
@@ -374,7 +363,7 @@ msgstr ""
 "Voici des sources d'information supplémentaire sur le copyleft, tel qu'il "
 "est appliqué notamment à de l'information qui n'est pas du logiciel :"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The <a href=\"/home.html\">rest of this web site</a> is the home of the GNU "
 "Project and is the canonical source for copyleft and free software<a href="
@@ -382,20 +371,20 @@ msgid ""
 msgstr ""
 "Le <a href=\"/home.html\">reste de ce site</a> est dédié au projet GNU ; "
 "c'est la source canonique pour le copyleft et le logiciel libre <a href="
-"\"#f1\">(1)</a>."
+"\"#f1\">[1]</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"http://www.ram.org/\">Ram Samudrala</a> wrote the <a href=\"http://"
 "www.ram.org/ramblings/philosophy/fmp.html\">Free Music Philosophy</a> and "
 "creates copylefted music as the band Twisted Helices."
 msgstr ""
-"<a href=\"http://www.ram.org/\">Ram Samudrala</a> a écrit la <a href="
-"\"http://www.ram.org/ramblings/philosophy/fmp.html\">Free Music Philosophy</"
-"a> [en] (philosophie de la musique libre) et crée de la musique copyleftée, "
-"de même que le groupe Twisted Helices."
+"<a href=\"http://www.ram.org/\">Ram Samudrala</a> a écrit <cite><a href="
+"\"http://www.ram.org/ramblings/philosophy/fmp.html\">The Free Music "
+"Philosophy</a></cite> (Philosophie de la musique libre) et crée de la "
+"musique copyleftée avec le groupe <i>Twisted Helices</i>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some of my own non-software copylefted works include texts (literature, "
 "reviews, <a href=\"http://dsl.org/cookbook/cookbook_toc.html\">technical</"
@@ -405,14 +394,14 @@ msgstr ""
 "écrits (textes littéraires, exposés de synthèse, <a href=\"http://dsl.org/"
 "cookbook/cookbook_toc.html\">articles techniques</a> et de la musique."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Footnote"
 msgstr "Note"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "Before 2020, &ldquo;free software&rdquo; was confusingly referred to as "
-"&ldquo;freely-redistributable&rdquo;."
+"&ldquo;freely-redistributable.&rdquo;"
 msgstr ""
 "Avant 2020, l'expression « logiciel librement redistribuable » était "
 "utilisée ici pour désigner le logiciel libre, ce qui prêtait à confusion."
@@ -443,7 +432,7 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 

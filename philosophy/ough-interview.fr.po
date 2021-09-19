@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ough-interview.html\n"
-"POT-Creation-Date: 2019-05-19 18:26+0000\n"
-"PO-Revision-Date: 2020-12-07 12:06+0100\n"
+"POT-Creation-Date: 2021-09-19 16:26+0000\n"
+"PO-Revision-Date: 2021-09-19 19:54+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -21,19 +21,20 @@ msgstr ""
 msgid "An interview for OUGH! - GNU Project - Free Software Foundation"
 msgstr "Un entretien pour OUGH! - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "An interview for OUGH!"
 msgstr "Un entretien pour <cite>OUGH!</cite>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"<em>This is a transcript of an interview with Richard Stallman conducted by "
-"Theodoros Papatheodorou&nbsp;[<a href=\"#f1\">1</a>] in May, 2012.</em>"
+"This is a transcript of an interview with Richard Stallman conducted by "
+"Theodoros Papatheodorou&thinsp;<a href=\"#f1\"><sup>[1]</sup></a> in May, "
+"2012."
 msgstr ""
-"<em>Transcription d'un entretien avec Richard Stallman conduit par Theodoros "
-"Papatheodorou [<a href=\"#f1\">1</a>] en mai 2012.</em>"
+"Transcription d'un entretien avec Richard Stallman conduit par Theodoros "
+"Papatheodorou <a href=\"#f1\"><sup>[1]</sup></a> en mai 2012."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Richard Stallman, the free software activist and software developer, "
 "maintains a legendary status in the computing community.  He addresses all "
@@ -45,11 +46,11 @@ msgstr ""
 "questions dans un entretien de proportions épiques, en deux parties, qu'il a "
 "accordé au magazine <cite>OUGH!</cite>"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "PART ONE"
 msgstr "PREMIÈRE PARTIE"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "While working as a &ldquo;system hacker&rdquo; in MIT's AI Lab (i.e.  a "
 "member of the team developing the Lab's own operating system) he experienced "
@@ -71,7 +72,7 @@ msgstr ""
 "impossible leur étude et leur modification par les informaticiens. De plus, "
 "de nouvelles lois sur le copyright ont rendu cela illégal."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The change struck him as unethical, and it affected him personally as the "
 "hacker community in which he thrived was broken up as two competing "
@@ -96,7 +97,7 @@ msgstr ""
 "Aujourd'hui, l'association de GNU avec un programme développé par un jeune "
 "étudiant finnois du nom de Linus Torvalds constitue GNU/Linux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Today, it is run on the majority of servers on the Internet, academic "
 "institutions, large enterprises, the military, and on desktops of millions "
@@ -119,7 +120,7 @@ msgstr ""
 "quoique bienvenues, sont secondaires. L'essentiel est la liberté. Nous "
 "commençons cette conversation en parlant des droits numériques."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "You've said &ldquo;in the Internet age we have less rights that in the "
 "physical world.&rdquo;"
@@ -127,7 +128,7 @@ msgstr ""
 "Vous avez dit : « À l'âge d'Internet, nous avons moins de droits que dans le "
 "monde physique. »"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Yes.  For instance in The US, Internet service providers can disconnect you "
 "without going to court, they don't have to prove that there is a reason.  "
@@ -150,7 +151,7 @@ msgstr ""
 "s'ils sont sous la menace d'un puissant qui n'aime pas ce que vous faites, "
 "ils peuvent très bien vous couper le service, donc vous censurer."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "People should have a legal right to continued service of any of these kinds "
 "as long as they fulfill their side of the bargain.  I believe it's the case "
@@ -169,22 +170,22 @@ msgstr ""
 "ne devraient pas avoir le choix, ils ne devraient pas avoir le droit de "
 "poser leurs propres conditions à la fourniture d'un service ininterrompu."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "They should provide the service as a public utility?"
 msgstr "Ce devrait être un service public ?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid "Exactly."
 msgstr "Exactement."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "This dependence on a corporation also extends to financial transactions."
 msgstr ""
 "Cette dépendance envers les entreprises s'étend aussi aux transactions "
 "financières."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "That's the other aspect in which the digital world gives us less rights than "
 "the physical world.  Suppose in addition to handing out papers on the "
@@ -205,7 +206,7 @@ msgstr ""
 "vous avez besoin des services d'une société de paiement, et ces sociétés "
 "pourraient aussi vous déconnecter."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "This is what happened with <em>WikiLeaks</em>.  After it released "
 "information that embarrassed the US government (among others), "
@@ -216,7 +217,7 @@ msgstr ""
 "d'autres), <em>MasterCard</em> et <em>Visa</em> ont arrêté d'accepter les "
 "dons à ce site."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Exactly.  <em>WikiLeaks</em> showed all these vulnerabilities because the US "
 "government decided to silence them and did everything they could to do so.  "
@@ -233,7 +234,7 @@ msgstr ""
 "la plupart des dons à <em>WikiLeaks</em>, et maintenant le site a du mal à "
 "fonctionner."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "The organization has received a lot of bad publicity in the US.  What's your "
 "view?"
@@ -241,7 +242,7 @@ msgstr ""
 "Cette organisation a reçu beaucoup de mauvaise publicité aux États-Unis. "
 "Qu'est-ce que vous en pensez ?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "<em>WikiLeaks</em> is doing something heroic.  A lot of the press in the US "
 "is subservient to the government, this is true in a lot of countries.  Or "
@@ -258,7 +259,7 @@ msgstr ""
 "empêchent les sociétés de paiement d'arrêter de servir quelqu'un, sauf si "
 "elles peuvent prouver qu'il y a une raison."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "Technology has spawned new forms of control, but it has also resulted in new "
 "ways of protest, self-organization, and dissent.  <em>Anonymous</em> stands "
@@ -268,7 +269,7 @@ msgstr ""
 "aussi produit de nouveaux moyens de manifester, de s'auto-organiser et de "
 "contester. <em>Anonymous</em> est un bon exemple d'hacktivisme."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "<em>Anonymous</em> does various different things.  Most often <em>Anonymous</"
 "em> has a lot of people go to the door of an organization's website, they're "
@@ -291,7 +292,7 @@ msgstr ""
 "manifestation, et le changement technologique leur en fournit une bonne "
 "occasion."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Another thing that I think maybe <em>Anonymous</em>' members have done, is "
 "changing the text in the websites so as to criticize the organization whose "
@@ -310,7 +311,7 @@ msgstr ""
 "chose qu'une manifestation politique, ce qui permet de mettre les gens en "
 "prison pour avoir manifesté."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "Among hackers the term &ldquo;hacker&rdquo; means something completely "
 "different than what it means to the general public.  Could you explain that "
@@ -320,7 +321,7 @@ msgstr ""
 "différente de celle qu'il a dans le grand public. Pouvez-vous nous expliquer "
 "la différence ?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Starting from 40 years ago, when I joined the hacker community at MIT, I've "
 "been proud to call myself a hacker.  I was hired by MIT to be a system "
@@ -341,11 +342,11 @@ msgstr ""
 "le système. Le verbe « hacker » a un sens plus général, essentiellement "
 "s'amuser à repousser les limites du possible avec astuce."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Hacking doesn't even have to involve computers."
 msgstr "Il n'y a même pas besoin d'ordinateur pour hacker."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Hacking was not limited in improving the operating system.  You could hack "
 "in any media, it didn't have to involve computers.  Hacking, as a general "
@@ -375,11 +376,11 @@ msgstr ""
 "sécurité n'est pas nécessairement du hacking. C'est seulement si vous le "
 "faites comme un jeu, avec astuce, qu'il s'agit de hacking."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Software Patents"
 msgstr "Les brevets logiciels"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "Apart from electronic rights you are also a campaigner against software "
 "patents.  Companies like Amazon, Google, and Apple, to name a few, are "
@@ -390,7 +391,7 @@ msgstr ""
 "quelques-unes, sont actuellement impliquées dans des guerres de brevets "
 "virulentes."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Patents are like land mines for software developers.  It doesn't surprise me "
 "that a product such as an <em>Android</em> phone is accused of violating a "
@@ -411,13 +412,13 @@ msgstr ""
 "centaines de brevets, et un système qui combine plusieurs programmes est "
 "susceptible d'en transgresser des milliers ou plus."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "As the law stands, these patents have an expiration date of 20 years from "
 "the moment they were filed."
 msgstr "D'après la loi, ces brevets expirent 20 ans après leur date de dépôt."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "This is a very long time in the software field.  Keep in mind that any time "
 "the technological context changes, then we need to adapt our way of doing "
@@ -430,7 +431,7 @@ msgstr ""
 "on a besoin de nouvelles idées, et si ces idées sont brevetées on a une "
 "nouvelle catastrophe."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "What's special about software that you think it should not have the patent "
 "system apply to it?"
@@ -438,7 +439,7 @@ msgstr ""
 "Qu'est-ce que le logiciel a de spécial ? Pourquoi pensez-vous qu'il ne doit "
 "pas être soumis au droit des brevets ?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Software is not the usual kind of case for patents.  Let's look at the usual "
 "case: patents for something that's made in a factory.  Those patents only "
@@ -456,7 +457,7 @@ msgstr ""
 "est beaucoup plus compliqué que n'importe quoi d'autre, parce qu'il est "
 "intrinsèquement plus facile à concevoir que les produits physiques."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Software is simply mathematics, whereas physical products have to cope with "
 "the perversity of matter.  And lots of unexpected things will happen, we "
@@ -469,7 +470,7 @@ msgstr ""
 "ce qui doit arriver avec les systèmes physiques, mais leur exactitude n'est "
 "pas garantie."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "With software you're using mathematical constructs, and they do what they're "
 "defined to do, and if they don't then you go to the compiler developer, and "
@@ -482,7 +483,7 @@ msgstr ""
 "bogue dans ton compilateur. Corrige-le, que cette construction fasse ce "
 "qu'elle est censée faire. »"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "You can't do that to the physical world, but you can do that to the compiler "
 "developer.  Because of this it's easier to design software, but people push "
@@ -495,7 +496,7 @@ msgstr ""
 "leur une méthode de conception plus facile et ils feront de plus grands "
 "systèmes."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "So with software, a few people in a few years can design something that has "
 "a million elements in its design.  That would be a mega-project if it had to "
@@ -511,7 +512,7 @@ msgstr ""
 "enfreindre des tas de brevets, ou du moins être accusé d'enfreindre des tas "
 "de brevets."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "In other words, the burden of the patent system on software is much higher "
 "that it is on anything else.  All software developers are in danger, and "
@@ -525,11 +526,11 @@ msgstr ""
 "dernières années, c'est que si vous développez un gros logiciel compliqué, "
 "vous allez être poursuivi."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "How is it different, say, to the patent for a drug?"
 msgstr "Quelle est la différence, disons, avec le brevet sur un médicament ?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Patents on medicine are another special case.  Because when you force poor "
 "countries to have patents on medicines, which is what the World Trade "
@@ -541,7 +542,7 @@ msgstr ""
 "fait l'Organisation mondiale du commerce, cela rend les médicaments si chers "
 "que les gens ne peuvent pas se permettre de les acheter et qu'ils meurent."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "The people who founded the WTO and its executives should be sent to the "
 "Hague to be tried for mass murder.  We should organize to demand that our "
@@ -556,7 +557,7 @@ msgstr ""
 "de raisons. Le but de cette organisation est de donner au monde des affaires "
 "plus de pouvoir pour transformer la démocratie en coquille vide."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "All so-called &ldquo;free trade treaties&rdquo; are actually aimed to weaken "
 "democracy and transfer political power to business.  Therefore in the name "
@@ -577,7 +578,7 @@ msgstr ""
 "« traités de libre-échange » sont conçus pour rendre les pays moins "
 "démocratiques et faire en sorte que la richesse ne se disperse pas."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "That means that they cancel out whatever benefit they might produce <em>even "
 "if the GNP of both countries increases</em>.  What good is that if the "
@@ -589,7 +590,7 @@ msgstr ""
 "tout le profit va aux riches. C'est le résultat qu'ils ont eu aux États-"
 "Unis, <em>au moins</em> depuis 1980."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "These patent wars have seen companies buying up an arsenal of software "
 "patents just to protect themselves from litigation&hellip;"
@@ -597,7 +598,7 @@ msgstr ""
 "Ces guerres de brevets ont vu des sociétés racheter un arsenal de brevets "
 "logiciels, uniquement pour se protéger des procès&hellip;"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "You know they might be, but it could be that <em>Google</em> has fewer "
 "patents because it hasn't existed so long.  This may be one case where "
@@ -616,7 +617,7 @@ msgstr ""
 "point de départ pour essayer de faire fonctionner des téléphones sans "
 "logiciel privateur."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "If <em>Android</em> becomes dangerous and is crushed by patents, then we "
 "might never be able to run smartphones with free software."
@@ -625,7 +626,7 @@ msgstr ""
 "alors il est possible que nous ne puissions jamais faire fonctionner de "
 "smartphone avec du logiciel libre."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "Google is about to buy Motorola, which is not doing great financially, just "
 "in order to get access to its patents."
@@ -633,7 +634,7 @@ msgstr ""
 "Google est sur le point de racheter Motorola, qui n'est pas en grande forme "
 "financièrement, uniquement pour avoir accès à ses brevets."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "This shows how the patent system becomes an obstruction to progress.  When "
 "there are enough patents applying to one product it becomes hard to cope "
@@ -647,11 +648,11 @@ msgstr ""
 "protéger, parce que ce faisant ils protègent en même temps la communauté du "
 "logiciel libre, jusqu'à un certain point."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Do you believe in the complete abolition of software patents?"
 msgstr "Croyez-vous en l'abolition complète des brevets logiciels ?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Right, patents should not apply to software.  Keep in mind that you can't "
 "always classify patents as either software patents or non-software patents.  "
@@ -666,29 +667,29 @@ msgstr ""
 "c'est de changer la loi pour qu'elle dise : « Par définition, si c'est un "
 "programme, il n'enfreint aucun brevet. »"
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "P2P File Sharing and the Music/Film Industry"
 msgstr ""
 "Le partage de fichiers par P2P et l'industrie de la musique et du cinéma"
 
-#. type: Content of: <dl><dt>
-msgid "You've often spoken against the use of the word &ldquo;piracy&rdquo;."
+#. type: Content of: <div><dl><dt>
+msgid "You've often spoken against the use of the word &ldquo;piracy.&rdquo;"
 msgstr ""
 "Vous vous êtes souvent exprimé contre l'utilisation des mots « piratage » et "
 "« piraterie »."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "It's a smear term! They want to say that sharing is the moral equivalent of "
 "attacking ships.  I don't agree with that position, so I don't call sharing "
-"&ldquo;piracy&rdquo;.  I call it &ldquo;sharing&rdquo;."
+"&ldquo;piracy.&rdquo; I call it &ldquo;sharing.&rdquo;"
 msgstr ""
 "Ce sont des termes diffamatoires ! Ils signifient que partager est "
 "l'équivalent moral d'attaquer des navires. Je ne suis pas d'accord avec "
 "cette position, aussi je n'appelle pas le partage « piratage », ni "
 "« piraterie ». Je l'appelle « partage »."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "I am not against profit in general.  I'm against mistreating people.  Any "
 "given way of doing business may or may not involve mistreating people."
@@ -697,7 +698,7 @@ msgstr ""
 "qui nuit aux gens. Une manière donnée de faire du commerce peut, ou non, "
 "comporter des aspects qui leur nuisent."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "The example of the struggling artist is a ridiculous example because the "
 "existing system does very little for struggling artists.  It's lousy.  And "
@@ -709,7 +710,7 @@ msgstr ""
 "nous légalisons simplement le partage cela ne fera aucune différence pour "
 "les artistes qui se battent pour survivre. Cela pourrait même les aider."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "I think artists should release music with licenses that explicitly permit "
 "sharing, and some of them do.  The point is that this argument against "
@@ -719,7 +720,7 @@ msgstr ""
 "permettent explicitement le partage. Quelques-uns le font. Le fait est que "
 "cet argument contre le partage est bidon."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "These giant multinational companies want more money for themselves, and they "
 "use the artist as an excuse.  Little bit trickles down to the artists, and "
@@ -731,7 +732,7 @@ msgstr ""
 "y a quelques stars qui sont très bien traitées. Mais nous n'avons pas besoin "
 "de les rendre plus riches."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "People should have the right to non-commercially share and redistribute "
 "music?"
@@ -739,7 +740,7 @@ msgstr ""
 "Les gens doivent avoir le droit de partager et redistribuer la musique de "
 "manière non commerciale ?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Music and any published work.  Because sharing is good, sharing builds "
 "community, so sharing must be legal, now that sharing is feasible and easy."
@@ -748,7 +749,7 @@ msgstr ""
 "renforce la communauté. Donc partager doit être légal, maintenant que c'est "
 "praticable et facile."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Fifty years ago making copies and redistributing them non-commercially was "
 "so hard that it didn't matter whether it was legal or not.  But now that "
@@ -761,7 +762,7 @@ msgstr ""
 "les gens de le faire nécessite des mesures sévères et draconiennes, et même "
 "celles-là ne fonctionnent pas toujours."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "But, I guess, when they get nasty enough they may work, but why should we "
 "tolerate such nastiness?"
@@ -769,7 +770,7 @@ msgstr ""
 "Mais je suppose que s'il elles deviennent assez vicieuses, elles pourraient "
 "fonctionner, mais pourquoi tolérer tant de méchanceté ?"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "The music and film industry campaigned very hard on PIPA, SOPA, and ACTA."
 msgstr ""
@@ -778,7 +779,7 @@ msgstr ""
 "Act\">SOPA</abbr> et <abbr title=\"Anti-Conterfeiting Trade Agreement"
 "\">ACTA</abbr>."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "They want unjust laws all around the world, and in some countries they've "
 "succeeded getting them.  I read that Ireland adopted a law similar to SOPA, "
@@ -789,7 +790,7 @@ msgstr ""
 "une loi semblable à SOPA, au moins dans sa description, mais je n'en connais "
 "pas encore les détails."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "These laws are an injustice.  They are meant to subject people more to the "
 "media companies, so of course they're wrong, of course people hate them.  "
@@ -802,7 +803,7 @@ msgstr ""
 "celle-ci : dans un pays donné, reste-t-il assez de démocratie pour que les "
 "gens soient en mesure de les arrêter ?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "European citizens should take action and organize with others so as to get "
 "your country not to ratify ACTA and convince the European Parliament to vote "
@@ -812,7 +813,7 @@ msgstr ""
 "obtenir que leur pays ne ratifie pas l'ACTA et convaincre le Parlement "
 "européen de le rejeter. Sauvez le monde de cette injustice."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "Recently government agencies acted to shut down a few sites, such as Mega-"
 "Upload."
@@ -820,7 +821,7 @@ msgstr ""
 "Récemment, des agences gouvernementales ont fait fermer quelques sites, "
 "comme MegaUpload."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "I don't know whether Mega-Upload ultimately would deserve to be shut down.  "
 "Remember Mega-Upload is a business, not an example of sharing.  Sharing "
@@ -832,7 +833,7 @@ msgstr ""
 "le partage. Partager signifie redistribuer des copies exactes de manière non "
 "commerciale. Aussi n'ai-je pas de position sur MegaUpload en particulier."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "I do think there was something outrageous about the way it was shut down, "
 "before a court got to decide whether it's legal or not.  But meanwhile "
@@ -851,7 +852,7 @@ msgstr ""
 "légal ou non, mais ils citent cette fermeture prématurée comme preuve que ce "
 "site est mauvais."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "I don't know, maybe it is bad.  That's not the issue I'm strongly concerned "
 "with.  I'm more concerned with peer-to-peer sharing because that's clearly "
@@ -861,15 +862,15 @@ msgstr ""
 "me préoccupe beaucoup. Je suis plus préoccupé par le partage pair-à-pair "
 "parce qu'à l'évidence c'est une bonne chose."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "On Privacy"
 msgstr "Sur la vie privée"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "What about services like Facebook and Gmail?"
 msgstr "Que pensez-vous de services comme Facebook et Gmail ?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "There are many issues of freedom in life, and having control of your "
 "computing is my contribution&mdash;I hope&mdash;to the idea of what human "
@@ -883,7 +884,7 @@ msgstr ""
 "s'appliquent dans les autres sphères de la vie se reflètent dans le monde "
 "virtuel."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "So for instance, what are the bad things about Facebook? Well, it gives "
 "people a false impression of privacy.  It lets you think that you can "
@@ -900,7 +901,7 @@ msgstr ""
 "publier ce truc, ce qui le rendrait visible par n'importe qui ; on pourrait "
 "aussi bien le publier dans le journal. Facebook ne peut pas éviter ça."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "What it could do is warn the users every time they start a session &ldquo;"
 "Watch out, anything you post here&mdash;even if you say that only certain "
@@ -922,7 +923,7 @@ msgstr ""
 "communiquer de manière privée, ne le faites pas par ce moyen. » C'est une "
 "des choses qu'ils doivent faire."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Facebook is a surveillance engine and collects tremendous amounts of "
 "personal data, and its business model is to abuse that data.  So you "
@@ -933,7 +934,7 @@ msgstr ""
 "utiliser ces données de manière abusive. Aussi faut-il éviter complètement "
 "Facebook."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "And worse than that, Facebook even does surveillance on people that don't "
 "have Facebook accounts.  If you see a &ldquo;Like&rdquo; button in a page "
@@ -949,7 +950,7 @@ msgstr ""
 "pratique s'est répandue. Et elle est mauvaise, quel que soit celui qui s'en "
 "sert."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "The other thing that Facebook does, is that it uses people's pictures in "
 "commercial advertisement and gives them no way to refuse."
@@ -957,7 +958,7 @@ msgstr ""
 "Une autre chose que fait Facebook, c'est d'utiliser les photos des gens pour "
 "des publicités commerciales en ne leur donnant pas la possibilité de refuser."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "Eric Schmidt of Google fame said a couple of years ago that if you have "
 "something you don't want anyone to know, maybe you shouldn't be doing it."
@@ -966,11 +967,11 @@ msgstr ""
 "chose que vous voulez cacher aux gens, vous ne devriez peut-être pas la "
 "faire. »"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid "That's ridiculous.  What kind of things would you not anyone to know?"
 msgstr "C'est ridicule. Quel genre de chose voulez-vous cacher aux gens ?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Maybe you are planning a protest.  It is common nowadays for governments to "
 "label dissidents as terrorists and use electronic surveillance on them to "
@@ -982,7 +983,7 @@ msgstr ""
 "pour saboter leur manifestation, ce qui est une manière efficace de saboter "
 "la démocratie."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "These social media also claim that they have had a very strong, subversive "
 "role in the Middle-East uprisings."
@@ -990,7 +991,7 @@ msgstr ""
 "Ces réseaux sociaux prétendent aussi qu'ils ont eu un rôle subversif très "
 "important dans les révolutions du Moyen-Orient."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Maybe they do, but remember that these are not located in these Middle-"
 "Eastern countries so they have no strong motive to care to those governments."
@@ -999,7 +1000,7 @@ msgstr ""
 "Moyen-Orient, ils n'ont aucun motif sérieux de se faire du souci pour leurs "
 "gouvernements."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "When, say, the US government wants to crush dissent these companies are "
 "likely to volunteer to help.  If they don't, they will be compelled to "
@@ -1010,14 +1011,14 @@ msgstr ""
 "volontairement. Si elles ne le font pas, elles y seront obligées de toute "
 "façon."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "You're also known to not use a mobile phone in order to protect your privacy."
 msgstr ""
 "On sait aussi que vous n'utilisez pas de téléphone portable afin de protéger "
 "votre vie privée."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Of course.  Every mobile phone is a tracking and surveillance device.  You "
 "could stop your phone from transmitting your GPS location if you've got a "
@@ -1032,7 +1033,7 @@ msgstr ""
 "pourrait déterminer assez précisément la position du téléphone sans "
 "coopération active de sa part."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "The US government says it should be able to collect all that information "
 "without even a warrant.  Not even a court order, that is.  So that shows how "
@@ -1043,7 +1044,7 @@ msgstr ""
 "une ordonnance du tribunal. Cela montre à quel point le gouvernement "
 "américain respecte les droits de l'homme."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "Some people have been using <em>TOR</em> and other software to hide their "
 "identities online."
@@ -1051,7 +1052,7 @@ msgstr ""
 "Certaine personnes utilisent <em>TOR</em> ou autres logiciels pour cacher "
 "leur identité en ligne."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "<em>TOR</em> is a very good thing.  It helps protect people from Big "
 "Brother.  And by Big Brother I mean perhaps the government of Iran or Syria "
@@ -1062,18 +1063,18 @@ msgstr ""
 "gouvernement d'Iran, de Syrie, des États-Unis, ou de tout autre pays qui ne "
 "reconnaît pas les droits de l'homme."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "PART TWO"
 msgstr "SECONDE PARTIE"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The second part of the interview is about free software and its functions."
 msgstr ""
 "La seconde partie de cet entretien s'intéresse au logiciel libre et à ses "
 "fonctions."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the second part of the interview we started off by speaking about free "
 "software and asked for a definition."
@@ -1081,7 +1082,7 @@ msgstr ""
 "Dans la seconde partie de l'entretien, nous avons commencé par parler du "
 "logiciel libre et demandé une définition."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Free software means software that respects user's freedom and user's "
 "community.  With software there are just two possibilities; either the user "
@@ -1092,7 +1093,7 @@ msgstr ""
 "a que deux possibilités : ou bien l'utilisateur contrôle le programme, ou "
 "bien le programme contrôle les utilisateurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The first case is free software because, in order for the users to have "
 "effective control of the programs, we need certain freedoms.  Those freedoms "
@@ -1102,7 +1103,7 @@ msgstr ""
 "utilisateurs aient le contrôle effectif des programmes, on a besoin de "
 "certaines libertés. Ces libertés sont les critères du logiciel libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If the users don't control the program, then the program controls the users, "
 "and the developer controls the program.  That means that program is an "
@@ -1112,7 +1113,7 @@ msgstr ""
 "contrôle les utilisateurs et le développeur contrôle le programme. Cela "
 "signifie que le programme est l'instrument d'un pouvoir injustifié."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So free software is software that respects user's freedom, and the idea of "
 "the free software movement is: nonfree software is an injustice, let's put "
@@ -1125,20 +1126,20 @@ msgstr ""
 "fin. D'abord, faisons en sorte d'y échapper, et ensuite aidons tous les "
 "autres à y échapper. Mettons fin à cette injustice. »"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
-"And by free of course, you don't just mean just &ldquo;gratis&rdquo;, you "
+"And by free of course, you don't just mean just &ldquo;gratis,&rdquo; you "
 "mean a lot more than that."
 msgstr ""
 "Et bien sûr, pour vous <i>free</i> ne veut pas dire « gratuit », cela veut "
 "dire beaucoup plus.<a id=\"TransNote3-rev\" href=\"#TransNote3\"><sup>3</"
 "sup></a>"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid "I mean &ldquo;free&rdquo; as in freedom."
 msgstr "Je veux dire « libre », comme dans liberté."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "You mentioned that there are certain freedoms that a piece of software "
 "should respect in order to be called free.  What are these freedoms?"
@@ -1146,19 +1147,19 @@ msgstr ""
 "Vous avez mentionné ici qu'un logiciel doit respecter certaines libertés "
 "pour mériter le nom de « libre ». Quelles sont ces libertés ?"
 
-#. type: Content of: <dl><dd><dl><dt>
+#. type: Content of: <div><dl><dd><dl><dt>
 msgid "Freedom zero"
 msgstr "La liberté zéro"
 
-#. type: Content of: <dl><dd><dl><dd>
+#. type: Content of: <div><dl><dd><dl><dd>
 msgid "The freedom to run the program as you wish."
 msgstr "La liberté d'exécuter le programme comme vous le souhaitez."
 
-#. type: Content of: <dl><dd><dl><dt>
+#. type: Content of: <div><dl><dd><dl><dt>
 msgid "Freedom one"
 msgstr "La liberté un"
 
-#. type: Content of: <dl><dd><dl><dd>
+#. type: Content of: <div><dl><dd><dl><dd>
 msgid ""
 "The Freedom to study the source code and change it to make the program do "
 "your computing the way you wish."
@@ -1166,11 +1167,11 @@ msgstr ""
 "La liberté d'étudier le code source et de le modifier pour que le programme "
 "fasse vos tâches informatiques comme vous le souhaitez."
 
-#. type: Content of: <dl><dd><dl><dt>
+#. type: Content of: <div><dl><dd><dl><dt>
 msgid "Freedom two"
 msgstr "La liberté deux"
 
-#. type: Content of: <dl><dd><dl><dd>
+#. type: Content of: <div><dl><dd><dl><dd>
 msgid ""
 "The freedom to help others, which means, redistribute exact copies when you "
 "wish."
@@ -1178,11 +1179,11 @@ msgstr ""
 "La liberté d'aider les autres, ce qui signifie redistribuer des copies "
 "exactes du programme quand vous le souhaitez."
 
-#. type: Content of: <dl><dd><dl><dt>
+#. type: Content of: <div><dl><dd><dl><dt>
 msgid "Freedom three"
 msgstr "La liberté trois"
 
-#. type: Content of: <dl><dd><dl><dd>
+#. type: Content of: <div><dl><dd><dl><dd>
 msgid ""
 "The freedom to contribute to your community&mdash;the freedom to distribute "
 "copies of your modified versions when you wish.  (That's assuming that "
@@ -1193,7 +1194,7 @@ msgstr ""
 "(cela suppose que vous avez fait une version modifiée, parce que tout le "
 "monde ne le fait pas)."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "And in order to support this you started a foundation, the Free Software "
 "Foundation."
@@ -1201,7 +1202,7 @@ msgstr ""
 "Et pour porter ces idées, vous avez créé une fondation, la Fondation pour le "
 "logiciel libre."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Well, remember the goal is not just theoretical.  I wanted to make it "
 "possible to use a computer in freedom.  That's impossible if you're required "
@@ -1218,7 +1219,7 @@ msgstr ""
 "deviez avoir du logiciel non libre (privateur veut dire non libre ; ces deux "
 "termes sont synonymes)."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "So to make freedom a real option it was necessary to develop a free software "
 "operating system.  I wanted to make it a real possibility to use a computer "
@@ -1237,7 +1238,7 @@ msgstr ""
 "au-delà du simple énoncé de principes philosophiques et les mettre en "
 "pratique pour faire de la liberté une réelle possibilité."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "And why do you feel that it's an inherent right of people to have access to "
 "the source code of a program?"
@@ -1245,7 +1246,7 @@ msgstr ""
 "Et pourquoi pensez-vous que ce soit un droit naturel des gens d'avoir accès "
 "au code source d'un programme ?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Why should people be free? There are people that don't believe in freedom, "
 "and you can't logically argue with them.  There's a fundamental difference "
@@ -1260,7 +1261,7 @@ msgstr ""
 "servant de l'informatique, si vous voulez la liberté vous devez exiger du "
 "logiciel libre."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "But why is software unlike other products? When a vendor sells a chair he "
 "expects&hellip; [Stallman interrupts]"
@@ -1268,7 +1269,7 @@ msgstr ""
 "Mais pourquoi le logiciel est-il différent des autres produits ? Quand un "
 "commerçant vend une chaise, il s'attend&hellip; [Stallman interrompt]"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Software isn't like those things.  Software does complicated things, and "
 "chairs don't.  There's no way to design a chair to do things to you and "
@@ -1287,7 +1288,7 @@ msgstr ""
 "faire d'autres choses surprenantes et inattendues. Il est improbable qu'elle "
 "ait une aiguille cachée qui vous injecte une drogue quelconque."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Software, on the other hand, does things far more complicated than that, and "
 "proprietary software commonly has malicious features comparable to that "
@@ -1301,7 +1302,7 @@ msgstr ""
 "Il y a aussi des portes dérobées <i>[backdoors]</i> qui permettent à ceux "
 "qui en ont le mode d'emploi de les contrôler pour agir sur l'utilisateur."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "In other words, Microsoft can do absolutely anything to the users of "
 "Windows: it has total control over their computers, it can take anything "
@@ -1318,7 +1319,7 @@ msgstr ""
 "substance : « Faites-nous juste confiance parce que, bien sûr, une grosse "
 "société comme celle-ci ne vous ferait jamais de mal. »"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "Apart from software, companies today try to interfere with what users can "
 "actually store in their devices.  One of their tools for controlling the "
@@ -1329,7 +1330,7 @@ msgstr ""
 "Parmi les outils dont elles se servent pour contrôler l'utilisateur il y a "
 "les formats privateurs de livres électroniques."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "These are attacks on the traditional freedoms of readers.  The example I "
 "would use is the Amazon &ldquo;<a href=\"/philosophy/why-call-it-the-swindle."
@@ -1346,13 +1347,13 @@ msgstr ""
 "les données. Je l'appelle le <i>Swindle</i> parce qu'il est conçu pour "
 "escroquer les lecteurs, pour leur enlever leurs libertés traditionnelles."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "For instance, there is the freedom to own a book, which Amazon says the "
 "users can't.  They can only get a license to read the book under Amazon's "
 "choice of conditions.  Then there's the freedom to acquire the book "
 "anonymously, which is basically impossible for most well-known books with "
-"the &ldquo;Swindle&rdquo;."
+"the &ldquo;Swindle.&rdquo;"
 msgstr ""
 "Il y a par exemple la liberté de posséder un livre ; Amazon dit que les "
 "utilisateurs n'en ont pas la possibilité. Ils peuvent seulement obtenir une "
@@ -1360,7 +1361,7 @@ msgstr ""
 "y a la liberté d'acquérir un livre anonymement ; avec le <i>Swindle</i>, "
 "c'est pratiquement impossible pour la plupart des ouvrages célèbres."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "They're only available from Amazon, and Amazon requires users to identify "
 "themselves, as it doesn't allow any way to pay anonymously with cash, the "
@@ -1380,7 +1381,7 @@ msgstr ""
 "de le prêter aux gens comme vous voulez et la liberté de vendre le livre à "
 "un bouquiniste."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Amazon eliminates these freedoms, partially by means of digital handcuffs "
 "(malicious features in the software designed to restrict users so they can't "
@@ -1397,13 +1398,13 @@ msgstr ""
 "le livre. Et puis il y a la liberté de garder le livre aussi longtemps que "
 "vous voulez."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "There was an Orwellian twist to the tale&hellip;"
 msgstr "Le conte a pris un tournant orwellien&hellip;"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
-"Yes, because they deleted thousands of copies of &ldquo;1984&rdquo;.  That "
+"Yes, because they deleted thousands of copies of &ldquo;1984.&rdquo; That "
 "was in 2009.  Those copies were authorized copies until the day Amazon "
 "decided to delete them.  After this, there was a lot of criticism, and so "
 "Amazon promised it would never do this again unless ordered to by the state. "
@@ -1415,7 +1416,7 @@ msgstr ""
 "promis de ne plus jamais le faire à moins d'en recevoir l'ordre de l'État. "
 "Je ne trouve pas cela réconfortant."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Any one of these makes the &ldquo;Swindle&rdquo;&mdash;an outrageous attack "
 "on our freedom and something that we must refuse to use.  I don't know all "
@@ -1430,7 +1431,7 @@ msgstr ""
 "inacceptables – à l'exception de certains dans lesquels on peut installer "
 "des livres codés dans des formats non secrets, documentés."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Some of them maybe you could buy with cash somewhere if the author is "
 "selling copies.  But the problem is, for digital books in general, there is "
@@ -1443,7 +1444,7 @@ msgstr ""
 "espèces, ni de conserver l'anonymat du fait qu'il n'existe pas de système de "
 "paiement anonyme sur Internet."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Bitcoin can be used for that, but Bitcoin is somewhat speculative because "
 "its value fluctuates.  I don't think it has arrived at the point of being a "
@@ -1453,7 +1454,7 @@ msgstr ""
 "fluctue. Je ne pense pas que ce soit encore un système de paiement numérique "
 "pratique et anonyme."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "And it's not inherently anonymous.  You can make a Bitcoin payment "
 "anonymously but you have to go to some extra trouble.  I don't remember the "
@@ -1465,7 +1466,7 @@ msgstr ""
 "pas les détails, mais c'était assez compliqué pour me dissuader de le faire. "
 "Je vais simplement continuer à ne pas acheter en ligne."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "There is another aspect to using nonfree software: you are being a bad "
 "neighbor as well."
@@ -1473,7 +1474,7 @@ msgstr ""
 "Il y a un autre aspect à l'utilisation de logiciel non libre : en plus du "
 "reste, vous êtes un mauvais voisin."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "When you are asked to promise not to share with other people, what does that "
 "mean? You are being asked to betray your community.  Now, what's your "
@@ -1487,7 +1488,7 @@ msgstr ""
 "gens avec qui vous coopérez habituellement. Ces licences de logiciel vous "
 "invitent à trahir les gens avec lesquels vous coopérez normalement."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "People use the terms free &amp; open source indiscriminately, but they are "
 "different things."
@@ -1495,7 +1496,7 @@ msgstr ""
 "Les gens utilisent indifféremment les termes « libre » et « open source », "
 "mais ce sont des choses différentes."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "The term &ldquo;open source&rdquo; was coined in 1998 by people in the free "
 "software community.  Remember that I started the free software movement in "
@@ -1508,7 +1509,7 @@ msgstr ""
 "y avait beaucoup de gens qui écrivaient des logiciels libres et beaucoup de "
 "gens qui les utilisaient."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "But not all of them agreed with the philosophy of the free software "
 "movement.  Many of them, although they liked using and developing free "
@@ -1523,9 +1524,9 @@ msgstr ""
 "à notre philosophie et de présenter la question en termes d'opposition entre "
 "la justice et l'injustice."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
-"So that's the purpose of the term &ldquo;open source&rdquo;.  It's to talk "
+"So that's the purpose of the term &ldquo;open source.&rdquo; It's to talk "
 "about more or less the same category of software but without presenting it "
 "as an ethical issue.  They don't say that if a program is not open source "
 "then it's an injustice and you must try to escape from it."
@@ -1535,7 +1536,7 @@ msgstr ""
 "éthique. Ils ne disent pas que si un programme n'est pas open source c'est "
 "une injustice à laquelle vous devez essayer d'échapper."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "You've said in the past that the &ldquo;the agenda of the free software "
 "movement has been subverted and even nearly lost.&rdquo; Are you referring "
@@ -1545,7 +1546,7 @@ msgstr ""
 "été subverti et même presque perdu ». Est-ce que vous faites allusion à des "
 "cas comme celui d'Android (le système d'exploitation pour téléphone mobile) ?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Android is just one example of the general tendency for most people in a "
 "community not to think of this in terms of freedom and justice.  &ldquo;Open "
@@ -1555,7 +1556,7 @@ msgstr ""
 "gens de la communauté à ne pas penser en termes de liberté et de justice. "
 "L'« open source » y est pour beaucoup, là encore."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "And then look at the more than 1000 different distributions of the GNU/Linux "
 "OS: there around ten of them which are entirely free software, whose "
@@ -1572,7 +1573,7 @@ msgstr ""
 "octroie de la légitimité à ce dernier et rejette totalement la philosophie "
 "du mouvement du logiciel libre."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "And these speak a very loud voice.  Most people coming into the community "
 "formulate their ideas of what it's all about based on those distributions "
@@ -1587,7 +1588,7 @@ msgstr ""
 "logiciel non libre comme une injustice intolérable. Et naturellement, le "
 "point de vue majoritaire se propage."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Strictly speaking Android is free software but it's not complete: in order "
 "to actually run a phone you need other software which isn't free.  Every "
@@ -1598,7 +1599,7 @@ msgstr ""
 "d'autres logiciels qui ne sont pas libres. Chaque téléphone Android a aussi "
 "besoin d'un logiciel non libre particulier."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "In addition, many of those are &ldquo;tyrant products&rdquo; which don't "
 "allow users to replace the system.  So the software in them may have been "
@@ -1611,7 +1612,7 @@ msgstr ""
 "faits à partir de code source libre, mais si l'utilisateur ne peut pas les "
 "remplacer, alors ils ne sont pas libres."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "Despite your technical achievements when it comes to coding, one of your "
 "greatest hacks was the inception of GNU GPL, a seminal license that "
@@ -1621,7 +1622,7 @@ msgstr ""
 "vos hacks les plus remarquables a été la conception de la GNU GPL, une "
 "licence déterminante qui en a influencé beaucoup d'autres."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Well, it's better to say that most other free software licenses were written "
 "as reaction against the ideas of GNU GPL."
@@ -1629,7 +1630,7 @@ msgstr ""
 "Hum, il vaudrait mieux dire que la plupart des autres licences libres ont "
 "été écrites en réaction aux idées de la GNU GPL."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "You see, the GNU GPL is a copyleft license.  Every free software license, in "
 "order to be one, has to give you the four freedoms.  The only way to get "
@@ -1641,7 +1642,7 @@ msgstr ""
 "seule manière d'obtenir ces libertés est que l'œuvre soit publiée sous une "
 "licence qui vous les donne."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Copyright law today has been made too restricted, everything is copyrighted "
 "by default.  Therefore the only way a program can be free is if the "
@@ -1654,7 +1655,7 @@ msgstr ""
 "formelle donnant les quatre libertés. Cette déclaration formelle est ce que "
 "nous appelons une « licence de logiciel libre »."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "There are many ways to do that.  Copyleft says that there is a condition "
 "placed on freedoms two and three (remember those were the freedoms to "
@@ -1669,7 +1670,7 @@ msgstr ""
 "copies, vous devez le faire en accordant les mêmes libertés à la personne "
 "suivante."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "So people who get copies from you, whether they're modified or not, must get "
 "the same four freedoms.  If you put some of this code into another program "
@@ -1689,7 +1690,7 @@ msgstr ""
 "quelconque de ce code dans votre programme, vous devez rendre libre "
 "l'ensemble du programme."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "I did this because I realized that there was a choice: either people would "
 "be able to convert my code into nonfree software and use it to subjugate "
@@ -1701,7 +1702,7 @@ msgstr ""
 "libre et de l'utiliser pour mettre les autres sous leur coupe, peut-être en "
 "y apportant des modifications, ou bien je les empêcherais de faire ça."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "I realized then, if I didn't stop them, then my code would be converted to "
 "nonfree software, users would get my code, but they wouldn't get freedom, "
@@ -1714,11 +1715,11 @@ msgstr ""
 "qui m'avait fait écrire ce code, à savoir créer un système qu'ils pourraient "
 "utiliser en toute liberté."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid "So I invented a way to prevent that, and that way is copyleft."
 msgstr "J'ai donc inventé un moyen d'empêcher ça, et ce moyen est le copyleft."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "And how do these ideas of copyleft translate in today's world of web "
 "services and so called &ldquo;cloud computing&rdquo;?"
@@ -1727,7 +1728,7 @@ msgstr ""
 "d'aujourd'hui, le monde des services web et de ce qu'on appelle "
 "« l'informatique en nuage » ?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "These issues apply to a program, which is a work you can have a copy of; but "
 "a service isn't something you get a copy of, so these issues don't apply to "
@@ -1737,7 +1738,7 @@ msgstr ""
 "avoir une copie ; mais un service n'est pas une chose dont vous pouvez "
 "obtenir une copie, et par conséquent ces questions ne le concernent pas."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "On the other hand, when you're doing your own computing you must not use any "
 "web service to do that, because if you do so you lose control of that "
@@ -1749,7 +1750,7 @@ msgstr ""
 "tâches. Si vous faites votre informatique sur le serveur de quelqu'un "
 "d'autre, c'est lui qui en a le contrôle, pas vous."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "So the general issue that the user should have control on their computing "
 "does apply to web services but in a different way."
@@ -1758,7 +1759,7 @@ msgstr ""
 "informatique s'applique-t-elle bien aux services web, mais de manière "
 "différente."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "Despite it's practical advantages there isn't yet mass migration to free "
 "software in the public sector."
@@ -1766,7 +1767,7 @@ msgstr ""
 "En dépit de ses avantages pratiques, il n'y a pas encore de migration en "
 "masse vers le logiciel libre dans le secteur public."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Proprietary software developers have lots of money.  They use that money to "
 "buy governments.  There are two ways that they can use money to influence "
@@ -1776,7 +1777,7 @@ msgstr ""
 "l'utilisent pour acheter les gouvernements. Ils ont deux moyens d'utiliser "
 "cet argent pour les influencer."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "One way is by bribing specific officials.  That's typically illegal but in "
 "many countries they can do it anyway."
@@ -1784,7 +1785,7 @@ msgstr ""
 "L'un des moyens est de soudoyer certains fonctionnaires. C'est normalement "
 "illégal, mais dans beaucoup de pays ils peuvent le faire tout de même."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "The other way is bribing the state itself or some other jurisdiction, and "
 "that's not illegal, but it is equally corrupt."
@@ -1792,7 +1793,7 @@ msgstr ""
 "L'autre moyen est de soudoyer l'État lui-même, ou quelque autre juridiction. "
 "Ce n'est pas illégal, mais c'est de la corruption d'un niveau équivalent."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "Despite being in dire financial straights, there is no national policy in "
 "Greece regarding the use of free software in the public sector."
@@ -1801,7 +1802,7 @@ msgstr ""
 "nationale en Grèce concernant l'utilisation de logiciel libre dans le "
 "secteur public."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "I don't want to focus narrowly on the agendas of possibly saving money "
 "because that's a secondary reason.  The real reason why the Greek and any "
@@ -1816,7 +1817,7 @@ msgstr ""
 "autrement dit de conserver sa souveraineté en matière de calcul et de "
 "traitement de l'information. Et cela vaut de dépenser un peu d'argent."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "Let's talk a bit about the role that free software should have in "
 "education.  There's been a lot of debate recently."
@@ -1824,7 +1825,7 @@ msgstr ""
 "Parlons un peu du rôle que devrait avoir le logiciel libre dans l'éducation. "
 "Il y a eu pas mal de débats récemment."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Schools must teach exclusively free software because schools have a social "
 "mission: to educate good citizens for a strong, capable, independent, "
@@ -1837,7 +1838,7 @@ msgstr ""
 "l'informatique, cela veut dire apprendre aux gens à utiliser le logiciel "
 "libre avec compétence."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Teaching the proprietary program is implanting dependence.  Why do you think "
 "many software companies hand gratis copies of their nonfree programs to "
@@ -1850,7 +1851,7 @@ msgstr ""
 "que les écoles propagent cette dépendance. C'est contraire à la mission "
 "sociale des écoles, elles ne doivent pas le faire."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "It's like giving students addictive drugs.  The companies that make these "
 "drugs would love the schools to do that, but it's the school's "
@@ -1863,7 +1864,7 @@ msgstr ""
 "drogues sont gratuites. Toutefois il y a aussi une raison plus profonde : "
 "favoriser l'éducation et la citoyenneté."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Schools are supposed to teach not just facts and skills, but also the spirit "
 "of good will.  A habit of helping others.  Every class should have this "
@@ -1885,7 +1886,7 @@ msgstr ""
 "doit fournir à la classe que du logiciel libre et doit en donner des copies "
 "à chacun."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "There is also another reason, for the sake of education, specifically "
 "education of the best programmers.  For natural born programmers to become "
@@ -1902,7 +1903,7 @@ msgstr ""
 "vraiment. Puis on doit écrire beaucoup de code, ce qui veut dire qu'on doit "
 "écrire du code dans de grands programmes."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "You have to start small.  That doesn't mean writing small programs, because "
 "small programs do not even start to present the difficulties of large "
@@ -1916,7 +1917,7 @@ msgstr ""
 "de petites modifications dans de grands programmes existants. Seul le "
 "logiciel libre en donne l'occasion."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "So, for several reasons, doing an ethical and good education means doing "
 "education with free software and only free software.  There are many who "
@@ -1932,7 +1933,7 @@ msgstr ""
 "déjeuner, donnons aux enfants un peu de whisky ou d'ouzo en plus de l'eau, "
 "pour qu'ils se familiarisent avec les deux. »"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "The school is supposed to teach good habits, not addiction, not dependence.  "
 "Microsoft knows that if you deliver computer with Windows and GNU+Linux, "
@@ -1944,7 +1945,7 @@ msgstr ""
 "et GNU+Linux, la plupart des enfants, voyant leur famille utiliser Windows, "
 "vont surtout utiliser Windows."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "We need to change that, that's a bad habit of society, it's dependence.  A "
 "school should actively put an end to that dependence.  They should redirect "
@@ -1954,7 +1955,7 @@ msgstr ""
 "de la dépendance. L'école doit mettre fin activement à cette dépendance. "
 "Elle doit remettre la société sur un chemin où les gens ont la liberté."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "But remember, the problem we want to correct is bigger than Microsoft.  "
 "Apple is actually nastier than Microsoft, and it seems to be having a very "
@@ -1964,7 +1965,7 @@ msgstr ""
 "Apple est pire, en fait, que Microsoft, et semble avoir un succès très "
 "décevant dans le domaine des appareils mobiles avec les iTrucs."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "And remember that the iThings pioneered a tyrannical practice that Microsoft "
 "only tried afterwards.  That is designing products as jails, so that users "
@@ -1977,7 +1978,7 @@ msgstr ""
 "même pas choisir librement quelles applications installer. Ils peuvent "
 "seulement installer les applications approuvées par le dictateur."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "And the horrible thing is that the evil genius Steve Jobs found a way to "
 "make lots of people clamor to be imprisoned by these products.  He made "
@@ -1988,7 +1989,7 @@ msgstr ""
 "produits. Il a fabriqué des prisons et les a rendues si attractives que les "
 "gens veulent être enfermés."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "There's been a tremendous PR industry keen to make him sound good, and Apple "
 "was working very hard to take advantage of his death.  Of course Apple's PR "
@@ -2003,7 +2004,7 @@ msgstr ""
 "journaux et les magazines qui veulent détourner l'attention du public de ces "
 "questions de liberté."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "Speaking of education, when you were part of the MIT AI Lab, you were part "
 "of a community. This was eventually broken up and you were the only one to "
@@ -2017,7 +2018,7 @@ msgstr ""
 "gros éditeur de logiciel privateur. Qu'est-ce qui vous a donné la force de "
 "combattre, seul, comme un partisan dans les montagnes ?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "I was alone already.  The community I've been part of had already split up "
 "in a rather hostile fashion.  So I was most definitely alone no matter what "
@@ -2027,7 +2028,7 @@ msgstr ""
 "de manière assez conflictuelle. Donc j'étais vraiment seul, quoi que je "
 "fasse par la suite."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "But the other thing was that the revulsion of my mind to the idea of using "
 "and developing proprietary software meant that that was even worse.  I had "
@@ -2039,7 +2040,7 @@ msgstr ""
 "pires. Je n'avais aucune alternative qui aurait fait de ma vie quelque chose "
 "dont je n'aurais pas eu honte et dégoût."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "What were your major influences in your upbringing and education would you "
 "credit for influencing your belief system?"
@@ -2047,7 +2048,7 @@ msgstr ""
 "Quels traits de votre éducation et de vos études reconnaissez-vous comme "
 "ayant eu une influence majeure sur vos croyances ?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "I don't know.  I guess the ideas of free software were formulated from the "
 "community around me at MIT, because we practiced free software, and they "
@@ -2057,7 +2058,7 @@ msgstr ""
 "dans la communauté qui m'entourait au MIT, parce que nous les mettions en "
 "pratique et qu'ils le faisaient avant mon arrivée."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "What was different for me was that whereas the others liked doing free "
 "software, but they were willing to do nonfree software when that was somehow "
@@ -2070,7 +2071,7 @@ msgstr ""
 "ou que ça répondait à d'autres objectifs, comme de favoriser le succès du "
 "logiciel."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "For me that was the thing that made it good rather than bad, and it was "
 "useless to throw that away.  But it took years for me to formulate those "
@@ -2084,7 +2085,7 @@ msgstr ""
 "arrivé à la conclusion que le logiciel non libre était tout simplement "
 "injuste."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "You've described yourself as a pessimist so I won't ask you to look into "
 "your crystal ball&hellip;"
@@ -2092,7 +2093,7 @@ msgstr ""
 "Vous vous êtes décrit comme un pessimiste, je ne vais donc pas vous demander "
 "de regarder dans votre boule de cristal&hellip;"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "I wouldn't see anything, anyway.  The future depends on you.  If I could "
 "tell you what's going to happen then it would be futile for you to try to "
@@ -2102,7 +2103,7 @@ msgstr ""
 "vous dire ce qui va arriver, alors ce serait futile de votre part d'essayer "
 "de le changer."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "So, what software projects or social movements are you excited to see "
 "emerging?"
@@ -2110,7 +2111,7 @@ msgstr ""
 "Quels sont les projets ou les mouvements sociaux dont l'émergence vous "
 "passionne ?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "At the moment there isn't an existing software project that's making me "
 "excited, but I'm trying to convince someone to work on a particular, rather "
@@ -2123,7 +2124,7 @@ msgstr ""
 "ayons besoin pour rendre possible l'utilisation des accélérateurs vidéo "
 "d'ATI dans le monde du libre."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "As for social movements, I'm very excited by the Occupy movement, by the "
 "opposition to austerity in Greece and Spain, and the movements against "
@@ -2136,11 +2137,7 @@ msgstr ""
 "entreprises, et d'une manière générale cela me passionne de voir de plus en "
 "plus de monde combattre la domination de la société par quelques riches."
 
-#. type: Content of: <h3>
-msgid "Footnote"
-msgstr "Note"
-
-#. type: Content of: <ol><li>
+#. type: Content of: <div><div><ol><li>
 msgid ""
 "Theodoros Papatheodorou &lt;<a href=\"mailto:marinero@gmail.com"
 "\">marinero@gmail.com</a>&gt; holds a PhD in Computer Science, and is "
@@ -2193,14 +2190,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -2211,8 +2208,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2012, 2019 Richard Stallman, Theodoros Papatheodorou"
-msgstr "Copyright &copy; 2012, 2019 Richard Stallman, Theodoros Papatheodorou"
+msgid "Copyright &copy; 2012, 2021 Richard Stallman, Theodoros Papatheodorou"
+msgstr "Copyright &copy; 2012, 2021 Richard Stallman, Theodoros Papatheodorou"
 
 #. type: Content of: <div><p>
 msgid ""

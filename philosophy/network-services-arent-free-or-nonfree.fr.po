@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: network-services-arent-free-or-nonfree.html\n"
-"POT-Creation-Date: 2020-12-18 06:26+0000\n"
-"PO-Revision-Date: 2020-12-18 19:03+0100\n"
+"POT-Creation-Date: 2021-09-19 16:26+0000\n"
+"PO-Revision-Date: 2021-09-19 19:58+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -16,7 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -26,27 +25,27 @@ msgstr ""
 "Les services en ligne ne sont ni libres ni privateurs ; ils posent d'autres "
 "problèmes - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Network Services Aren't Free or Nonfree; They Raise Other Issues"
 msgstr ""
 "Les services en ligne ne sont ni libres ni privateurs ; ils posent d'autres "
 "problèmes"
 
-#. type: Content of: <p>
-msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
-msgstr "par <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"<strong>Programs and services are different kinds of entities. A program is "
-"a work that you can execute; a service is an activity that you might "
-"interact with.</strong>"
+"<em>Programs and services are different kinds of entities. A program is a "
+"work that you can execute; a service is an activity that you might interact "
+"with.</em>"
 msgstr ""
-"<strong>Les programmes et les services sont deux choses différentes. Un "
+"<em>Les programmes et les services sont deux choses différentes. Un "
 "programme est une œuvre que vous pouvez exécuter, un service est une "
-"activité avec laquelle vous pouvez interagir.</strong>"
+"activité avec laquelle vous pouvez interagir.</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For programs, we make a distinction between free and nonfree (proprietary). "
 "More precisely, this distinction applies to a program that you have a copy "
@@ -61,7 +60,7 @@ msgstr ""
 "disposez pas. Dans le deuxième cas, vous êtes victime d'une injustice "
 "particulière du fait que le programme est non libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The copyright holders of a nonfree program can cure that injustice in a "
 "simple, clear way: release the same source code under a free software "
@@ -73,7 +72,7 @@ msgstr ""
 "une licence de logiciel libre. Il peut être très difficile de les convaincre "
 "de le <em>faire</em>, mais cette action est en soi très facile à effectuer."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "An activity (such as a service) doesn't exist in the form of copies, so it's "
 "not possible for a user to have a copy of it, let alone make more copies.  "
@@ -90,7 +89,7 @@ msgstr ""
 "dire qu'un service est « non libre », ou bien qu'il est « libre ». Cette "
 "distinction n'a aucun sens pour les services."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "That does not mean that the service treats users justly.  Quite the "
 "contrary&mdash;many services do wrong to their users, in various ways, and "
@@ -107,7 +106,7 @@ msgstr ""
 "puissent exécuter leur propre copie et leur propre version du logiciel, et "
 "ainsi en avoir le contrôle."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To use a culinary analogy, my way of cooking can't be a copy of your way of "
 "cooking, not even if I learned to cook by watching you. I might have and use "
@@ -124,7 +123,7 @@ msgstr ""
 "la manière de cuisiner sont deux choses différentes (et les plats obtenus en "
 "sont une troisième)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "With today's technology, services are often implemented by running programs "
 "on computers, but that is not the only way to implement them.  (In fact, "
@@ -139,7 +138,7 @@ msgstr ""
 "questions). Dans tous les cas, l'implémentation n'est pas visible par les "
 "utilisateurs du service, donc cela n'a aucun impact sur eux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A network service can raise issues of free vs nonfree software for its users "
 "through the client software needed to use it. If the service requires using "
@@ -162,7 +161,7 @@ msgstr ""
 "libre. Mais le problème du logiciel client est selon toute logique distinct "
 "de celui du service lui-même."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There is one case where a service is directly comparable to a program: when "
 "using the service is equivalent to having a copy of a hypothetical program "
@@ -188,7 +187,7 @@ msgstr ""
 "propres copies de programmes libres. Les faire avec le serveur de quelqu'un "
 "d'autre implique d'en perdre le contrôle."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "SaaSS is equivalent to using a nonfree program with surveillance features "
 "and a universal back door, so <a href=\"/philosophy/who-does-that-server-"
@@ -201,7 +200,7 @@ msgstr ""
 "html\">vous devez le refuser, et le remplacer par un logiciel libre</a> qui "
 "fait la même chose."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, most services' principal functions are communicating or publishing "
 "information; they are nothing like running any program yourself, so they are "
@@ -216,7 +215,7 @@ msgstr ""
 "programme, car un programme s'exécutant sur vos propres ordinateurs, utilisé "
 "uniquement par vous et isolé des autres, ne communique pas avec quiconque."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A non-SaaSS service can mistreat users by doing something specific and "
 "unjust to the user.  For instance, it could misuse the data users send it, "
@@ -245,7 +244,7 @@ msgstr ""
 "les programmes. Ainsi, par souci de clarté, il est préférable de ne pas "
 "appliquer les termes « libre » et « non libre » à un service."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Let's suppose a service is implemented using software: the server operator "
 "has copies of many programs, and runs them to implement the service. These "
@@ -261,7 +260,7 @@ msgstr ""
 "chose) puisque tout utilisateur (il n'y en a qu'un) détient les quatre "
 "libertés."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If some of them are nonfree, that usually doesn't directly affect users of "
 "the service. They are not running those programs; the service operator is "
@@ -285,7 +284,7 @@ msgstr ""
 "dépend de chaque cas particulier, et notamment de ce que font ces programmes "
 "non libres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, the one party that is <em>certainly</em> mistreated by the nonfree "
 "programs implementing the service is the server operator herself. We don't "
@@ -304,7 +303,7 @@ msgstr ""
 "essayons de lui expliquer qu'il met en péril sa liberté, en espérant qu'il "
 "bascule vers le logiciel libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Conversely, if the service operator runs GNU/Linux or other free software, "
 "that's not a virtue that affects you, but rather a benefit for her.  We "
@@ -316,7 +315,7 @@ msgstr ""
 "qui y trouve avantage. Nous n'allons pas l'encenser ni le remercier, "
 "simplement nous le félicitons d'avoir fait le choix le plus avisé."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If she has developed some software for the service, and released it as free "
 "software, that's the point at which we have a reason to thank her. We "
@@ -330,11 +329,11 @@ msgstr ""
 "recommendations.html\">GNU AGPL</a> (licence publique générale GNU Affero), "
 "puisqu'à l'évidence ils sont utiles sur des serveurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<a href=\"/licenses/why-affero-gpl.html\">Why the Affero GPL?</a>"
 msgstr "<a href=\"/licenses/why-affero-gpl.html\">Pourquoi la GPL Affero ?</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Thus, we don't have a rule that free systems shouldn't use (or shouldn't "
 "depend on) services (or sites) implemented with nonfree software. However, "
@@ -362,10 +361,11 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
 "<hr /><b>Note de traduction</b><ol>\n"
-"<li id=\"TransNote1\"><cite>Franklin Street Statement on Freedom and Network "
-"Services</cite> : déclaration de Franklin Street sur la liberté et les "
-"services en ligne. <a href=\"#TransNote1-rev\" class=\"nounderline\">&#8593;"
-"</a></li></ol>"
+"<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"<cite>Franklin Street Statement on Freedom and Network Services</cite> : "
+"déclaration de Franklin Street sur la liberté et les services en ligne.</"
+"li></ol>"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -388,14 +388,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -406,10 +406,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2012, 2016, 2017, 2018, 2020 Free Software Foundation, Inc."
-msgstr ""
-"Copyright &copy; 2012, 2016, 2017, 2018, 2020 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2012-2014, 2020, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2012-2014, 2020, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

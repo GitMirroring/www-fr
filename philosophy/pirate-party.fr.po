@@ -7,13 +7,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: pirate-party.html\n"
-"POT-Creation-Date: 2014-03-14 04:35+0000\n"
-"PO-Revision-Date: 2020-12-07 12:06+0100\n"
+"POT-Creation-Date: 2021-09-19 16:26+0000\n"
+"PO-Revision-Date: 2021-09-19 19:54+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  \n"
 "X-Generator: Gtranslator 2.91.5\n"
@@ -26,17 +26,17 @@ msgstr ""
 "Pourquoi les propositions du Parti pirate suédois se retournent contre le "
 "logiciel libre - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "How the Swedish Pirate Party Platform Backfires on Free Software"
 msgstr ""
 "Pourquoi les propositions du Parti pirate suédois se retournent contre le "
 "logiciel libre"
 
-#. type: Content of: <p>
-msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
-msgstr "par <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Note: each Pirate Party has its own platform.  They all call for reducing "
 "copyright power, but the specifics vary.  This issue may not apply to the "
@@ -46,7 +46,7 @@ msgstr ""
 "réduire le pouvoir du copyright, mais les détails varient. Les positions des "
 "autres partis pirates ne posent peut-être pas ce problème."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The bullying of the copyright industry in Sweden inspired the launch of the "
 "first political party whose platform is to reduce copyright restrictions: "
@@ -66,7 +66,7 @@ msgstr ""
 "utilisation commerciale. Cinq ans après sa publication, toute œuvre publiée "
 "passerait dans le domaine public."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I support these changes, in general; but the specific combination chosen by "
 "the Swedish Pirate Party backfires ironically in the special case of free "
@@ -79,7 +79,7 @@ msgstr ""
 "nulle intention de nuire au logiciel libre, mais c'est pourtant ce qui se "
 "produirait."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The GNU General Public License and other copyleft licenses use copyright law "
 "to defend freedom for every user.  The GPL permits everyone to publish "
@@ -95,7 +95,7 @@ msgstr ""
 "doit elle aussi conserver la même licence. Et tous ceux qui redistribuent "
 "doivent donner aux utilisateurs l'accès au code source du logiciel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "How would the Swedish Pirate Party's platform affect copylefted free "
 "software? After five years, its source code would go into the public domain, "
@@ -109,7 +109,7 @@ msgstr ""
 "pourraient alors l'inclure dans leurs programmes. Mais qu'en est-il du cas "
 "inverse ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Proprietary software is restricted by EULAs, not just by copyright, and the "
 "users don't have the source code.  Even if copyright permits noncommercial "
@@ -127,7 +127,7 @@ msgstr ""
 "lorsqu'ils l'exécutent. Exécuter un de ces programmes revient à abandonner "
 "votre liberté et à donner au développeur du pouvoir sur vous."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So what would be the effect of terminating this program's copyright after 5 "
 "years? This would not require the developer to release source code, and "
@@ -145,7 +145,7 @@ msgstr ""
 "empêcher son fonctionnement au bout de cinq ans, auquel cas les exemplaires "
 "passés dans le « domaine public » ne fonctionneraient tout simplement pas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Thus, the Pirate Party's proposal would give proprietary software developers "
 "the use of GPL-covered source code after 5 years, but it would not give free "
@@ -153,8 +153,7 @@ msgid ""
 "even 50 years.  The Free World would get the bad, but not the good.  The "
 "difference between source code and object code and the practice of using "
 "EULAs would give proprietary software an effective exception from the "
-"general rule of 5-year copyright &mdash; one that free software does not "
-"share."
+"general rule of 5-year copyright&mdash;one that free software does not share."
 msgstr ""
 "Ainsi, la proposition du Parti pirate donnerait aux développeurs de "
 "logiciels privateurs la jouissance du code source protégé par la GPL, après "
@@ -166,11 +165,11 @@ msgstr ""
 "générale du copyright de cinq ans, ce dont ne pourrait profiter le logiciel "
 "libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We also use copyright to partially deflect the danger of software patents.  "
-"We cannot make our programs safe from them &mdash; no program is ever safe "
-"from software patents in a country which allows them &mdash; but at least we "
+"We cannot make our programs safe from them&mdash;no program is ever safe "
+"from software patents in a country which allows them&mdash;but at least we "
 "prevent them from being used to make the program effectively nonfree.  The "
 "Swedish Pirate Party proposes to abolish software patents, and if that is "
 "done, this issue would go away.  But until that is achieved, we must not "
@@ -185,7 +184,7 @@ msgstr ""
 "Mais en attendant, nous ne devons pas perdre notre seul moyen de protection "
 "contre les brevets."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Once the Swedish Pirate Party had announced its platform, free software "
 "developers noticed this effect and began proposing a special rule for free "
@@ -207,7 +206,7 @@ msgstr ""
 "pirate, qui refusent de faire un cas particulier en allongeant la durée du "
 "copyright."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I could support a law that would make GPL-covered software's source code "
 "available in the public domain after 5 years, provided it has the same "
@@ -222,7 +221,7 @@ msgstr ""
 "(la liberté de l'utilisateur), et pas une fin en soi. En outre, j'aimerais "
 "autant ne pas me faire le chantre d'un copyright plus fort."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So I proposed that the Pirate Party platform require proprietary software's "
 "source code to be put in escrow when the binaries are released.  The "
@@ -239,7 +238,7 @@ msgstr ""
 "officieuse dont bénéficierait le logiciel privateur. D'un côté comme de "
 "l'autre, le résultat serait équitable."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A Pirate Party supporter proposed a more general variant of the first "
 "suggestion: a general scheme to make copyright last longer as the public is "
@@ -254,7 +253,7 @@ msgstr ""
 "dans un mouvement collectif de copyright à durée variable au lieu de n'en "
 "faire qu'une exception isolée."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I'd prefer the escrow solution, but any of these methods would avoid a "
 "prejudicial effect specifically against free software.  There may be other "
@@ -274,9 +273,9 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
 "<hr /><b>Note de traduction</b><ol>\n"
-"<li id=\"TransNote1\">Autre traduction de <i>proprietary</i> : "
-"propriétaire. <a href=\"#TransNote1-rev\" class=\"nounderline\">&#8593;</a></"
-"li>\n"
+"<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"Autre traduction de <i>proprietary</i> : propriétaire.</li>\n"
 "</ol>"
 
 #. type: Content of: <div><div><p>
@@ -300,14 +299,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -318,19 +317,19 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2009 Richard Stallman"
-msgstr "Copyright &copy; 2009 Richard Stallman"
+msgid "Copyright &copy; 2009, 2012, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2009, 2012, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
