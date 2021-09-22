@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: trivial-patent.html\n"
-"POT-Creation-Date: 2016-11-18 07:00+0000\n"
-"PO-Revision-Date: 2016-03-26 21:11+0100\n"
+"POT-Creation-Date: 2021-09-22 09:26+0000\n"
+"PO-Revision-Date: 2021-09-22 12:18+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -17,25 +17,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid ""
 "The Anatomy of a Trivial Patent - GNU project - Free Software Foundation"
 msgstr "L'anatomie d'un brevet trivial - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "The Anatomy of a Trivial Patent"
 msgstr "L'anatomie d'un brevet trivial"
 
-#. type: Content of: <p>
-msgid ""
-"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
-msgstr ""
-"par <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></"
-"a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Programmers are well aware that many of the existing software patents cover "
 "laughably obvious ideas. Yet the patent system's defenders often argue that "
@@ -49,7 +45,7 @@ msgstr ""
 "Et il est étonnamment difficile de démontrer la fausseté de ce propos dans "
 "un débat. Pourquoi cela ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "One reason is that any idea can be made to look complex when analyzed to "
 "death. Another reason is that these trivial ideas often look quite complex "
@@ -64,7 +60,7 @@ msgstr ""
 "description et demander « Mais comment une chose aussi complexe peut-elle "
 "être évidente ? »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I will use an example to show you how. Here's claim number one from US "
 "patent number 5,963,916, applied for in October 1996:"
@@ -73,7 +69,7 @@ msgstr ""
 "de l'objectif numéro un du brevet américain numéro 5 963 916 déposé en "
 "octobre 1996 :"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "1. A method for enabling a remote user to preview a portion of a pre-"
 "recorded music product from a network web site containing pre-selected "
@@ -89,7 +85,7 @@ msgstr ""
 "l'utilisateur distant et le site web du réseau, la méthode comprenant les "
 "étapes suivantes :"
 
-#. type: Content of: <blockquote><ul><li>
+#. type: Content of: <div><blockquote><ul><li>
 msgid ""
 "a) using the remote user's computer to establish a telecommunications link "
 "to the network web site wherein the network web site comprises (i) a central "
@@ -106,7 +102,7 @@ msgstr ""
 "périphérique de stockage central pour stocker les parties présélectionnées "
 "d'un ensemble de différents produits musicaux préenregistrés ;"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "b) transmitting user identification data from the remote user's computer to "
 "the central host server thereby allowing the central host server to identify "
@@ -117,7 +113,7 @@ msgstr ""
 "pour autoriser le serveur hôte central à identifier et à suivre le "
 "cheminement de l'utilisateur à travers le site web du réseau ;"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "c) choosing at least one pre-selected portion of the pre-recorded music "
 "products from the central host server;"
@@ -125,14 +121,14 @@ msgstr ""
 "c) choisir au moins une partie présélectionnée du produit musical "
 "préenregistré depuis le serveur hôte central ;"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "d) receiving the chosen pre-selected portion of the pre-recorded products; "
 "and"
 msgstr ""
 "d) recevoir la partie présélectionnée choisie du produit préenregistré ; et"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "e) interactively previewing the received chosen pre-selected portion of the "
 "pre-recorded music product."
@@ -140,7 +136,7 @@ msgstr ""
 "e) prévisualiser interactivement la partie présélectionnée choisie et reçue "
 "du produit musical préenregistré."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "That sure looks like a complex system, right? Surely it took a real clever "
 "guy to think of this? No, but it took cleverness to make it seem so complex. "
@@ -150,7 +146,7 @@ msgstr ""
 "gars vraiment malin pour penser à cela ? Non, mais il a fallu de l'habileté "
 "pour le faire paraître complexe. Analysons d'où vient cette complexité :"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "1. A method for enabling a remote user to preview a portion of a pre-"
 "recorded music product from a network web site containing pre-selected "
@@ -160,7 +156,7 @@ msgstr ""
 "d'un produit musical préenregistré, depuis un site web faisant partie d'un "
 "réseau, contenant des extraits présélectionnés"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "That states the principal part of their idea.  They put selections from "
 "certain pieces of music on a server so a user can listen to them."
@@ -169,11 +165,11 @@ msgstr ""
 "certains morceaux de musique sur un serveur pour qu'un utilisateur puisse "
 "les écouter."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid "of different pre-recorded music products,"
 msgstr "de différents produits musicaux préenregistrés,"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This emphasizes their server stores selections from more than one piece of "
 "music."
@@ -181,19 +177,19 @@ msgstr ""
 "Cela souligne que leur serveur stocke des sélections de plus d'un morceau de "
 "musique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is a basic principle of computer science that if a computer can do a "
 "thing once, it can do that thing many times, on different data each time. "
 "Many patents pretend that applying this principle to a specific case makes "
-"an &ldquo;invention&rdquo;."
+"an &ldquo;invention.&rdquo;"
 msgstr ""
 "C'est un principe de base de l'informatique ; si un ordinateur peut faire "
 "quelque chose une fois, il peut faire cette chose de nombreuses fois, chaque "
 "fois sur des données différentes. Beaucoup de brevets prétendent "
 "qu'appliquer ce principe à un cas spécifique en fait une « invention »."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "using a computer, a computer display and a telecommunications link between "
 "the remote user's computer and the network web site,"
@@ -202,15 +198,15 @@ msgstr ""
 "télécommunication entre l'ordinateur de l'utilisateur distant et le site web "
 "du réseau,"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "This says they are using a server on a network."
 msgstr "Cela indique qu'ils utilisent un serveur sur un réseau."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid "the method comprising the steps of:"
 msgstr "la méthode comprenant les étapes suivantes :"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "a) using the remote user's computer to establish a telecommunications link "
 "to the network web site"
@@ -218,7 +214,7 @@ msgstr ""
 "a) utiliser l'ordinateur de l'utilisateur distant pour établir un lien de "
 "télécommunication vers le site web du réseau"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This says that the user connects to the server over the network.  (That's "
 "the way one uses a server.)"
@@ -226,7 +222,7 @@ msgstr ""
 "Il est dit ici que l'utilisateur se connecte au serveur à travers le réseau "
 "(c'est comme ça qu'on utilise un serveur)."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "wherein the network web site comprises (i) a central host server coupled to "
 "a communications network"
@@ -234,13 +230,13 @@ msgstr ""
 "le site web du réseau comprenant : (1) un serveur hôte central couplé à un "
 "réseau de communication"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This informs us that the server is on the net.  (That is typical of servers.)"
 msgstr ""
 "Cela nous informe qu'un serveur est sur le net (c'est typique des serveurs)."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "for retrieving and transmitting the pre-selected portion of the pre-recorded "
 "music product upon request by a remote user"
@@ -248,11 +244,11 @@ msgstr ""
 "pour rechercher et transmettre, sur demande d'un utilisateur distant, la "
 "partie présélectionnée du produit musical préenregistré, "
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "This repeats the general idea stated in the first two lines."
 msgstr "Cela reprend l'idée générale indiquée dans les deux premières lignes."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "and (ii) a central storage device for storing pre-selected portions of a "
 "plurality of different pre-recorded music products;"
@@ -261,7 +257,7 @@ msgstr ""
 "présélectionnées d'un ensemble de différents produits musicaux "
 "préenregistrés ;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "They have decided to put a hard disk (or equivalent) in their computer and "
 "store the music samples on that.  Ever since around 1980, this has been the "
@@ -272,7 +268,7 @@ msgstr ""
 "manière courante de stocker des données sur un ordinateur pour y avoir accès "
 "rapidement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Note how they emphasize once again the fact that they can store more than "
 "one selection on this disk.  Of course, every file system will let you store "
@@ -282,7 +278,7 @@ msgstr ""
 "d'une sélection sur ce disque. Naturellement, tout système de fichiers vous "
 "permettra de stocker plus d'un fichier."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This says that they keep track of who you are and what you access&mdash;a "
 "common (though nasty) thing for web servers to do.  I believe it was common "
@@ -292,7 +288,7 @@ msgstr ""
 "quoi vous accédez, une tâche banale (bien que mauvaise) pour les serveurs "
 "web. Je crois que c'était déjà d'usage courant en 1996."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In other words, the user clicks to say which link to follow.  That is "
 "typical for web servers; if they had found another way to do it, that might "
@@ -302,7 +298,7 @@ msgstr ""
 "de l'usage d'un serveur web ; s'ils avaient trouvé un autre moyen de le "
 "faire, ça aurait pu être une invention."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When you follow a link, your browser reads the contents.  This is typical "
 "behavior for a web browser."
@@ -310,7 +306,7 @@ msgstr ""
 "Quand vous suivez un lien, votre navigateur lit le contenu. C'est un "
 "comportement typique pour un navigateur web."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This says that your browser plays the music for you.  (That is what many "
 "browsers do, when you follow a link to an audio file.)"
@@ -318,7 +314,7 @@ msgstr ""
 "Cela dit que votre navigateur joue l'extrait pour vous (c'est ce que font "
 "beaucoup de navigateurs lorsque vous suivez un lien vers un fichier audio)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now you see how they padded this claim to make it into a complex idea: they "
 "combined their own idea (stated in two lines of text) with important aspects "
@@ -331,7 +327,7 @@ msgstr ""
 "réseaux, les serveurs web et les navigateurs web. Voilà ce qui constitue la "
 "prétendue « invention » pour laquelle ils ont reçu un brevet."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This example is typical of software patents. Even the occasional patent "
 "whose idea is nontrivial has the same sort of added complication."
@@ -340,11 +336,11 @@ msgstr ""
 "dont l'idée n'est pas triviale utilisent le même genre de complications "
 "surajoutées."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Now look at a subsequent claim:"
 msgstr "Regardez maintenant la revendication suivante :"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "3. The method of claim 1 wherein the central memory device comprises a "
 "plurality of compact disc-read only memory (CD-ROMs)."
@@ -353,7 +349,7 @@ msgstr ""
 "central comporte un certain nombre de disques compacts en lecture seule (CD-"
 "ROM)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What they are saying here is, &ldquo;Even if you don't think that claim 1 is "
 "really an invention, using CD-ROMs to store the data makes it an invention "
@@ -365,11 +361,11 @@ msgstr ""
 "données en fait une invention de façon incontestable. Un concepteur de "
 "système moyen n'aurait jamais pensé à cela »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Now look at the next claim:"
 msgstr "Maintenant regardez la revendication suivante :"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "4. The method of claim 1 wherein the central memory device comprises a RAID "
 "array drive."
@@ -377,7 +373,7 @@ msgstr ""
 "4. La méthode de la revendication 1 dans laquelle le support de stockage "
 "central comprend une matrice de disques RAID."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A RAID array is a group of disks set up to work like one big disk, with the "
 "special feature that, even if one of the disks in the array has a failure "
@@ -396,12 +392,12 @@ msgstr ""
 "pour une haute disponibilité. Mais ces brillants inventeurs ont breveté "
 "l'utilisation d'une matrice RAID pour cet usage particulier."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Trivial as it is, this patent would not necessarily be found legally invalid "
 "if there is a lawsuit about it.  Not only the US Patent Office but the "
 "courts as well tend to apply a very low standard when judging whether a "
-"patent is &ldquo;unobvious&rdquo;.  This patent might pass muster, according "
+"patent is &ldquo;unobvious.&rdquo; This patent might pass muster, according "
 "to them."
 msgstr ""
 "Trivial comme il l'est, ce brevet ne serait pas nécessairement considéré "
@@ -411,7 +407,7 @@ msgstr ""
 "si un brevet est « non évident ». Ce brevet pourrait passer l'inspection, "
 "selon eux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What's more, the courts are reluctant to overrule the Patent Office, so "
 "there is a better chance of getting a patent overturned if you can show a "
@@ -432,7 +428,7 @@ msgstr ""
 "ayant pour but de « mieux faire fonctionner le système », pourrait au "
 "contraire faire empirer les choses."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is very hard to make a patent system behave reasonably; it is a complex "
 "bureaucracy and tends to follow its structural imperatives regardless of "
@@ -452,7 +448,7 @@ msgstr ""
 "domaine du logiciel n'apportent rien de bon. Ce que font les brevets "
 "logiciels, c'est mettre en danger les développeurs et les utilisateurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The patent system is supposed, intended, to promote progress, and those who "
 "benefit from software patents ask us to believe without question that they "
@@ -499,14 +495,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -517,8 +513,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2006, 2016 Richard Stallman"
-msgstr "Copyright &copy; 2006, 2016 Richard Stallman"
+msgid "Copyright &copy; 2006, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2006, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

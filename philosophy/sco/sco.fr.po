@@ -7,13 +7,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: sco.html\n"
-"POT-Creation-Date: 2014-03-14 04:36+0000\n"
-"PO-Revision-Date: 2018-11-03 22:24+0100\n"
+"POT-Creation-Date: 2021-09-22 09:26+0000\n"
+"PO-Revision-Date: 2021-09-22 12:18+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 
@@ -25,12 +25,12 @@ msgstr ""
 "Position de la FSF concernant les attaques de SCO contre le logiciel libre - "
 "Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "FSF's Position regarding SCO's attacks on Free Software"
 msgstr ""
 "Position de la FSF concernant les attaques de SCO contre le logiciel libre"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Much press coverage has been given in the last months to SCO's press and "
 "legal attacks on Free Software and the GNU/Linux system.  Even though these "
@@ -48,7 +48,7 @@ msgstr ""
 "demeure profondément impliquée dans le calendrier stratégique des réponses "
 "de la communauté à SCO."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Professor Moglen has been coordinating with IBM's lawyers on the matter, "
 "including both their inside and outside counsel.  He has coordinated with "
@@ -67,65 +67,64 @@ msgstr ""
 "ainsi que l'industrie technologique, afin de rassembler une coalition vaste "
 "et organisée pour s'opposer à SCO, juridiquement et médiatiquement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "On this site, we will publish documents related to our work opposing SCO."
 msgstr ""
 "Dans cette section, nous publions des documents relatifs à notre travail "
 "d'opposition à SCO."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/sco/subpoena.html\"><cite>The SCO Subpoena of FSF</"
-"cite></a>, by Bradley M. Kuhn, released on Tuesday 18 May 2004."
+"<a href=\"/philosophy/sco/subpoena.html\">The SCO Subpoena of FSF</a>, by "
+"Bradley M. Kuhn, released on Tuesday 18 May 2004."
 msgstr ""
-"<a href=\"/philosophy/sco/subpoena.html\"><cite>L'assignation de la FSF par "
-"SCO</cite></a>, par Bradley M. Kuhn, publiée le mardi 18 mai 2004."
+"<a href=\"/philosophy/sco/subpoena.html\">L'assignation de la FSF par SCO</"
+"a>, par Bradley M. Kuhn, publiée le mardi 18 mai 2004."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/sco/sco-without-fear.html\"><cite>SCO: Without Fear "
-"and Without Research </cite></a>, by Eben Moglen, released on Monday 24 "
-"November 2003."
+"<a href=\"/philosophy/sco/sco-without-fear.html\">SCO: Without Fear and "
+"Without Research</a>, by Eben Moglen, released on Monday 24 November 2003."
 msgstr ""
-"<a href=\"/philosophy/sco/sco-without-fear.html\"><cite>SCO : Sans peur et "
-"sans recherche</cite></a>, par Eben Moglen, paru le lundi 24 novembre 2003."
+"<a href=\"/philosophy/sco/sco-without-fear.html\">SCO : Sans peur et sans "
+"recherche</a>, par Eben Moglen, paru le lundi 24 novembre 2003."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/sco/sco-preemption.html\"><cite>SCO Scuttles Sense, "
-"Claiming GPL Invalidity</cite></a>, by Eben Moglen, released on Monday 18 "
-"August 2003."
+"<a href=\"/philosophy/sco/sco-preemption.html\">SCO Scuttles Sense, Claiming "
+"GPL Invalidity</a>, by Eben Moglen, released on Monday 18 August 2003."
 msgstr ""
-"<a href=\"/philosophy/sco/sco-preemption.html\"><cite>SCO à contresens, "
-"revendiquant l'invalidité de la GPL</cite></a>, par Eben Moglen, paru le "
-"lundi 18 août 2003."
+"<a href=\"/philosophy/sco/sco-preemption.html\">SCO à contresens, "
+"revendiquant l'invalidité de la GPL</a>, par Eben Moglen, paru le lundi "
+"18 août 2003."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/sco/questioning-sco.html\"><cite>Questioning SCO: A "
-"Hard Look at Nebulous Claims</cite></a>, by Eben Moglen, released on Friday "
-"1 August 2003."
+"<a href=\"/philosophy/sco/questioning-sco.html\">Questioning SCO: A Hard "
+"Look at Nebulous Claims</a>, by Eben Moglen, released on Friday 1 August "
+"2003."
 msgstr ""
-"<a href=\"/philosophy/sco/questioning-sco.html\"><cite>Remise en cause de la "
+"<a href=\"/philosophy/sco/questioning-sco.html\">Remise en cause de la "
 "position de SCO : une analyse critique de leurs revendications nébuleuses</"
-"cite></a>, par Eben Moglen, paru le vendredi 1<sup>er</sup> août 2003."
+"a>, par Eben Moglen, paru le vendredi 1er août 2003."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/sco/sco-gnu-linux.html\"><cite>SCO, GNU, and Linux</"
-"cite></a>, by Richard Stallman, released on Sunday 29 June 2003."
+"<a href=\"/philosophy/sco/sco-gnu-linux.html\">SCO, GNU, and Linux</a>, by "
+"Richard Stallman, released on Sunday 29 June 2003."
 msgstr ""
-"<a href=\"/philosophy/sco/sco-gnu-linux.html\"><cite>SCO, GNU et Linux</"
-"cite></a>, par Richard Stallman, paru le dimanche 29 juin 2003."
+"<a href=\"/philosophy/sco/sco-gnu-linux.html\">SCO, GNU et Linux</a>, par "
+"Richard Stallman, paru le dimanche 29 juin 2003."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/sco/sco-v-ibm.html\"><cite>FSF Statement on <em>SCO v. "
-"IBM</em></cite></a>, by Eben Moglen, released on Friday 27 June 2003."
+"<a href=\"/philosophy/sco/sco-v-ibm.html\">FSF Statement on <cite>SCO v. "
+"IBM</cite></a>, by Eben Moglen, released on Friday 27 June 2003."
 msgstr ""
-"<a href=\"/philosophy/sco/sco-v-ibm.html\"><cite>Déclaration de la FSF sur "
-"SCO contre IBM</cite></a>, par Eben Moglen, paru le vendredi 27 juin 2003."
+"<a href=\"/philosophy/sco/sco-v-ibm.html\">Déclaration de la FSF sur "
+"<cite>SCO contre IBM</cite></a>, par Eben Moglen, paru le vendredi "
+"27 juin 2003."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -153,14 +152,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -171,23 +170,19 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2008 Free Software Foundation, Inc."
-msgstr ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2008 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2003, 2004, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2003, 2004, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

@@ -7,13 +7,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: sco-preemption.html\n"
-"POT-Creation-Date: 2014-03-14 04:36+0000\n"
-"PO-Revision-Date: 2020-12-07 14:58+0100\n"
+"POT-Creation-Date: 2021-09-22 08:26+0000\n"
+"PO-Revision-Date: 2021-09-22 12:18+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 
@@ -25,19 +25,19 @@ msgstr ""
 "SCO à contresens, revendiquant l'invalidité de la GPL - Projet GNU - Free "
 "Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "SCO Scuttles Sense, Claiming GPL Invalidity"
 msgstr "SCO à contresens, revendiquant l'invalidité de la GPL"
 
-#. type: Content of: <p>
-msgid "by <strong>Eben Moglen</strong>"
-msgstr "par <strong>Eben Moglen</strong>"
+#. type: Content of: <div><address>
+msgid "by Eben Moglen <a href=\"#moglen\"><sup>[*]</sup></a>"
+msgstr "par Eben Moglen <a href=\"#moglen\"><sup>[*]</sup></a>"
 
-#. type: Content of: <p>
-msgid "Monday 18 August 2003"
-msgstr "Lundi 18 août 2003"
+#. type: Content of: <div><p>
+msgid "<i>Monday 18 August 2003</i>"
+msgstr "<i>Lundi 18 août 2003</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now that the tide has turned, and SCO is facing the dissolution of its legal "
 "position, claiming to &ldquo;enforce its intellectual property rights&rdquo; "
@@ -79,7 +79,7 @@ msgstr ""
 "de bons arguments, et ce que l'avocat de SCO a dit est totalement dénué de "
 "sens et non professionnel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "According to the Journal, Mr Heise announced that SCO would challenge the "
 "GPL's &ldquo;legality&rdquo; on the ground that the GPL permits licensees to "
@@ -94,7 +94,7 @@ msgstr ""
 "journal en citant M. Heise, « est soumise à la loi fédérale sur le "
 "copyright »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This argument is frivolous, by which I mean that it would be a violation of "
 "professional obligation for Mr Heise or any other lawyer to submit it to a "
@@ -125,7 +125,7 @@ msgstr ""
 "d'exploitation de Microsoft, selon M. Heise, violeraient également la loi. "
 "Cela surprendra Redmond."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Of course, Mr Heise's statement is nothing but moonshine, based on an "
 "intentional misreading of the Copyright Act that would fail on any law "
@@ -140,7 +140,7 @@ msgstr ""
 "loi américaine sur le copyright, qui est intitulée « Limitation sur les "
 "droits exclusifs : programmes informatiques » et qui stipule que :"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "(a) Notwithstanding the provisions of section 106, it is not an infringement "
 "for the owner of a copy of a computer program to make or authorize the "
@@ -151,7 +151,7 @@ msgstr ""
 "faire ou d'autoriser à faire une autre copie ou une adaptation du programme "
 "informatique à condition :"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "(1) that such a new copy or adaptation is created as an essential step in "
 "the utilization of the computer program in conjunction with a machine and "
@@ -161,7 +161,7 @@ msgstr ""
 "importante dans l'utilisation de ce programme informatique conjointement "
 "avec une machine et qu'elle n'est utilisée d'aucune autre manière, ou"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "(2) that such new copy or adaptation is for archival purposes only and that "
 "all archival copies are destroyed in the event that continued possession of "
@@ -172,7 +172,7 @@ msgstr ""
 "dans le cas où la poursuite de la possession du programme informatique "
 "cesserait d'être légitime."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "As the language makes absolutely clear, section 117 says that although the "
 "Act generally prohibits making any copy of a copyrighted work without "
@@ -196,7 +196,7 @@ msgstr ""
 "qui sous-tendent le système du copyright. Si ces arguments  étaient vraiment "
 "présentés à un tribunal, ils seraient certainement rejetés."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The release of this astounding statement is actually good news for "
 "developers and users of free software.  It shows that SCO has no defense "
@@ -215,19 +215,14 @@ msgstr ""
 "bafoué le bon sens a confirmé la force de la GPL et son importance dans la "
 "protection de la liberté."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"<em> Eben Moglen is professor of law at Columbia University Law School.  He "
-"serves without fee as General Counsel of the Free Software Foundation.  </em>"
+"Eben Moglen is professor of law at Columbia University Law School.  He "
+"serves without fee as General Counsel of the Free Software Foundation."
 msgstr ""
-"<em>Eben Moglen est professeur de droit à la </em>Columbia University Law "
-"School<em>. Il travaille bénévolement pour la </em>Free Software "
-"Foundation<em> en tant qu'avocat-conseil général.</em>"
-
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/philosophy/sco/sco.html\">Other Texts to Read related to SCO</a>."
-msgstr "<a href=\"/philosophy/sco/sco.html\">Autres textes relatifs à SCO</a>."
+"Eben Moglen est professeur de droit à la <i>Columbia University Law School</"
+"i>. Il travaille bénévolement pour la <i>Free Software Foundation</i> en "
+"tant qu'avocat-conseil général."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -255,14 +250,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="

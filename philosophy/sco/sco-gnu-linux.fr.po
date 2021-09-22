@@ -8,13 +8,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: sco-gnu-linux.html\n"
-"POT-Creation-Date: 2014-03-14 04:36+0000\n"
-"PO-Revision-Date: 2020-12-07 14:58+0100\n"
+"POT-Creation-Date: 2021-09-22 08:26+0000\n"
+"PO-Revision-Date: 2021-09-22 12:18+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 
@@ -22,22 +22,15 @@ msgstr ""
 msgid "SCO, GNU and Linux - GNU Project - Free Software Foundation"
 msgstr "SCO, GNU et Linux - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "SCO, GNU and Linux"
 msgstr "SCO, GNU et Linux"
 
-#. type: Content of: <p>
-msgid ""
-"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
-msgstr ""
-"par <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></"
-"a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
-msgid "<i>This article was first published on ZDNet.</i>"
-msgstr "<i>Cet article a été publié initialement sur ZDNET</i>."
-
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "SCO's contract dispute with IBM has been accompanied by a smear campaign "
 "against the whole GNU/Linux system.  But SCO made an obvious mistake when it "
@@ -56,7 +49,7 @@ msgstr ""
 "(qui sont hors du champ du copyright) au lieu de code, mais surtout parce "
 "qu'ils savent que je ne comparerais jamais Linux avec Unix."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Unix is a complete operating system, but Linux is just part of one.  SCO is "
 "using the popular confusion between Linux and the GNU/Linux system to "
@@ -72,14 +65,14 @@ msgstr ""
 "du système qui alloue les ressources de la machine pour les autres "
 "programmes que vous utilisez. Cette partie est Linux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We developed GNU starting in 1984 as a campaign for freedom, whose aim was "
-"to eliminate non-free software from our lives.  GNU is free software, "
-"meaning that users are free to run it, study it and change it (or pay "
-"programmers to do this for them), redistribute it (gratis or for a fee), and "
-"publish modified versions.  (See <a href=\"/gnu/thegnuproject.html\">an "
-"overview of the GNU project</a>.)"
+"to eliminate nonfree software from our lives.  GNU is free software, meaning "
+"that users are free to run it, study it and change it (or pay programmers to "
+"do this for them), redistribute it (gratis or for a fee), and publish "
+"modified versions.  (See <a href=\"/gnu/thegnuproject.html\">an overview of "
+"the GNU project</a>.)"
 msgstr ""
 "Le développement de GNU que nous poursuivons depuis 1984 est une campagne "
 "pour la liberté, dont l'objectif est d'éliminer les logiciels non libres de "
@@ -90,7 +83,7 @@ msgstr ""
 "versions modifiées (voir <a href=\"/gnu/thegnuproject.html\">un résumé du "
 "projet GNU</a>)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In 1991, GNU was mostly finished, lacking only a kernel.  In 1992, Linus "
 "Torvalds made his kernel, Linux, free software.  Others combined GNU and "
@@ -111,18 +104,18 @@ msgstr ""
 "et le noyau NetBSD. Il s'agit fondamentalement du même système quel que soit "
 "le noyau qu'on utilise."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Those who combined Linux with GNU didn't recognize that's what they were "
-"doing, and they spoke of the combination as &ldquo;Linux&rdquo;.  The "
+"doing, and they spoke of the combination as &ldquo;Linux.&rdquo; The "
 "confusion spread; many users and journalists call the whole system &ldquo;"
-"Linux&rdquo;.  Since they also properly call the kernel &ldquo;Linux&rdquo;, "
-"the result is even more confusion: when a statement says &ldquo;"
-"Linux&rdquo;, you can only guess what software it refers to.  SCO's "
-"irresponsible statements are shot through with ambiguous references to "
-"&ldquo;Linux&rdquo;.  It is impossible to attribute any coherent meaning to "
-"them overall, but they appear to accuse the entire GNU/Linux system of being "
-"copied from Unix."
+"Linux.&rdquo; Since they also properly call the kernel &ldquo;Linux,&rdquo; "
+"the result is even more confusion: when a statement says &ldquo;Linux,"
+"&rdquo; you can only guess what software it refers to.  SCO's irresponsible "
+"statements are shot through with ambiguous references to &ldquo;Linux."
+"&rdquo; It is impossible to attribute any coherent meaning to them overall, "
+"but they appear to accuse the entire GNU/Linux system of being copied from "
+"Unix."
 msgstr ""
 "Ceux qui ont combiné Linux avec GNU ne se sont pas rendu compte que c'était "
 "ce qu'ils étaient en train de faire et ils ont appelé cette combinaison "
@@ -135,11 +128,11 @@ msgstr ""
 "sens cohérent à leur ensemble, mais il semble qu'elles accusent le système "
 "GNU/Linux entier d'être copié d'Unix."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"The name GNU stands for &ldquo;GNU's Not Unix&rdquo;.  The whole point of "
+"The name GNU stands for &ldquo;GNU's Not Unix.&rdquo; The whole point of "
 "developing the GNU system is that it is not Unix.  Unix is and always was "
-"non-free software, meaning that it denies its users the freedom to cooperate "
+"nonfree software, meaning that it denies its users the freedom to cooperate "
 "and to control their computers.  To use computers in freedom as a community, "
 "we needed a free software operating system.  We did not have the money to "
 "buy and liberate an existing system, but we did have the skill to write a "
@@ -156,7 +149,7 @@ msgstr ""
 "nous avions les compétences pour en écrire un nouveau. Écrire GNU a été un "
 "travail monumental. Nous l'avons fait pour notre liberté. Et pour la vôtre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To copy Unix source code would not be ethically wrong <a href=\"#footnote\">"
 "[1]</a>, but it is illegal; our work would fail to give users lawful freedom "
@@ -180,16 +173,16 @@ msgstr ""
 "jamais, à aucun moment, copier de code d'Unix, malgré notre principe "
 "qu'empêcher de copier les logiciels est moralement condamnable."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"Another SCO tool of obfuscation is the term &ldquo;intellectual "
-"property&rdquo;.  This fashionable but foolish term carries an evident bias: "
-"that the right way to treat works, ideas, and names is as a kind of "
-"property.  Less evident is the harm it does by inciting simplistic thinking: "
-"it lumps together diverse laws&mdash;copyright law, patent law, trademark "
-"law and others&mdash;which really have little in common.  This leads people "
-"to suppose those laws are one single issue, the &ldquo;intellectual property "
-"issue&rdquo;, and think about &ldquo;it&rdquo;&mdash;which means, to think "
+"Another SCO tool of obfuscation is the term &ldquo;intellectual property."
+"&rdquo; This fashionable but foolish term carries an evident bias: that the "
+"right way to treat works, ideas, and names is as a kind of property.  Less "
+"evident is the harm it does by inciting simplistic thinking: it lumps "
+"together diverse laws&mdash;copyright law, patent law, trademark law and "
+"others&mdash;which really have little in common.  This leads people to "
+"suppose those laws are one single issue, the &ldquo;intellectual property "
+"issue,&rdquo; and think about &ldquo;it&rdquo;&mdash;which means, to think "
 "at such a broad abstract level that the specific social issues raised by "
 "these various laws are not even visible.  Any opinion &ldquo;about "
 "intellectual property&rdquo; is thus bound to be foolish.  (See <a href=\"/"
@@ -212,7 +205,7 @@ msgstr ""
 "trouverez des explications supplémentaires sur la confusion provoquée par ce "
 "terme)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the hands of a propagandist for increased copyright or patent powers, the "
 "term is a way to prevent clear thinking.  In the hands of someone making "
@@ -226,7 +219,7 @@ msgstr ""
 "contre vous à cause de quelque chose, mais nous ne vous dirons pas de quoi "
 "il s'agit. »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In an actual lawsuit, such ambiguity would make their case fail, or even "
 "prevent it from getting off the ground.  If, however, SCO's aim is to shake "
@@ -239,7 +232,7 @@ msgstr ""
 "simplement de propager la peur, ils pourraient bien trouver le flou et le "
 "mystère avantageux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I cannot prognosticate about the SCO vs IBM lawsuit itself: I don't know "
 "what was in their contract, I don't know what IBM did, and I am not a "
@@ -255,7 +248,7 @@ msgstr ""
 "la communauté d'utiliser le code qu'ils ont distribué, conformément à la GNU "
 "GPL et aux autres licences de logiciel libre de leur version de GNU/Linux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, I can address the broader issue of such situations.  In a community "
 "of over half a million developers, we can hardly expect that there will "
@@ -280,11 +273,11 @@ msgstr ""
 "avec Linux, mais aujourd'hui il fonctionne aussi avec deux noyaux BSD et "
 "avec le noyau GNU. Cette affaire ne fera pas tomber notre communauté."
 
-#. type: Content of: <h3>
-msgid "Footnotes"
-msgstr "Notes"
+#. type: Content of: <div><h3>
+msgid "Footnote"
+msgstr "Note"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "Since this statement directly contradicts the establishment views of the "
 "proprietary software developers, some readers suppose that the word &ldquo;"
@@ -299,11 +292,9 @@ msgstr ""
 "logiciels. Il est contraire à l'éthique d'empêcher les autres de les copier. "
 "C'est pourquoi il faut que les logiciels soient libres."
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/philosophy/sco/sco.html\">Other Texts to Read related to SCO</a>."
-msgstr ""
-"<a href=\"/philosophy/sco/sco.html\">Autres textes à lire relatifs à SCO</a>."
+#. type: Content of: <div><div><p>
+msgid "This article was first published on <cite>ZDNet</cite>."
+msgstr "Cet article a été publié initialement sur <cite>ZDNet</cite>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -331,14 +322,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -349,19 +340,19 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2003 Richard M. Stallman"
-msgstr "Copyright &copy; 2003 Richard M. Stallman"
+msgid "Copyright &copy; 2003, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2003, 2021 Richard M. Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivs 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

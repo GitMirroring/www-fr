@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: w3c-patent.html\n"
-"POT-Creation-Date: 2014-08-21 15:25+0000\n"
-"PO-Revision-Date: 2020-12-07 14:06+0100\n"
+"POT-Creation-Date: 2021-09-22 09:26+0000\n"
+"PO-Revision-Date: 2021-09-22 12:18+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -16,15 +16,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid ""
 "FSF's Position on W3 Consortium &ldquo;Royalty-Free&rdquo; Patent Policy - "
 "GNU Project - Free Software Foundation"
 msgstr ""
-"Position de la FSF sur la politique de brevets « libres de droits » [royalty-"
-"free] du W3 Consortium - Projet GNU - Free Software Foundation"
+"Position de la FSF sur la politique de brevets « libres de droits » du W3 "
+"Consortium - Projet GNU - Free Software Foundation"
 
 #. type: Attribute 'content' of: <meta>
 msgid ""
@@ -46,22 +45,22 @@ msgstr ""
 "semble à première vue aider le logiciel libre, mais ce n'est pas le cas. La "
 "FSF encourage le public à le dire en réponse au dernier appel."
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid ""
 "FSF's Position on W3 Consortium &ldquo;Royalty-Free&rdquo; Patent Policy"
 msgstr ""
-"Position de la FSF sur la politique de brevets « libres de droits » <i>"
-"[royalty-free]</i> du W3 Consortium"
+"Position de la FSF sur la politique de brevets « libres de droits » du W3 "
+"Consortium"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<i>Rewritten 1 June 2003</i>"
-msgstr "<i>Réécrit le 1<sup>er</sup> juin 2003</i>"
+msgstr "<i>Réécrit le 1er juin 2003</i>"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Our Position"
 msgstr "Notre position"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The Free Software Foundation, represented by Professor Moglen of Columbia "
 "University Law School, has participated in the W3 Consortium Patent Policy "
@@ -83,12 +82,12 @@ msgstr ""
 "conditions qui interdiraient d'implémenter les standards sous forme de "
 "logiciel libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The problem comes from the &ldquo;field of use&rdquo; restrictions that "
 "patent holders are allowed to put in their royalty-free patent licenses.  "
 "Such restrictions say that you are allowed to practice the patented idea, "
-"but only for implementing the standard precisely as specified &mdash; not in "
+"but only for implementing the standard precisely as specified&mdash;not in "
 "any other way.  Thus, if you change the code to depart from the spec even "
 "slightly, the patent license no longer protects you from against being sued "
 "for infringing the patent."
@@ -102,7 +101,7 @@ msgstr ""
 "spécifications, la licence de brevet ne vous protège plus contre des "
 "poursuites pour violation du brevet."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The W3C has policies to reject some kinds of &ldquo;field of use&rdquo; "
 "restrictions.  For instance, it won't allow a patent license to be limited "
@@ -116,7 +115,7 @@ msgstr ""
 "type (nous en avons été informés en 2012). Cela laisse toutefois le champ "
 "libre à d'autres sortes de restrictions qui peuvent poser problème."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "One requirement for Free Software is that users have the freedom to modify "
 "and redistribute it.  But we can hardly consider that users have freedom to "
@@ -133,7 +132,7 @@ msgstr ""
 "empêcheraient la mise en œuvre des standards du W3C sous forme de <a href=\"/"
 "philosophy/free-sw.html\">logiciel libre</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "&ldquo;Field of use&rdquo; restrictions are also legally incompatible with "
 "section 7 of the <a href=\"/licenses/old-licenses/gpl-2.0.html\">GNU General "
@@ -145,7 +144,7 @@ msgstr ""
 "gpl-2.0.html\">GNU General Public License (version 2)</a>, puisqu'elles "
 "annulent pratiquement la liberté de l'utilisateur de modifier le logiciel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Many other Free Software licenses have no provisions equivalent to the GPL's "
 "Section 7, but you can't solve the problem merely by using one of those "
@@ -166,19 +165,19 @@ msgstr ""
 "où cette liberté a été retirée par des restrictions qui ne sont pas définies "
 "dans cette licence."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Freedom to modify software can always be limited by third-party patents in "
 "ways that the software copyright license doesn't disclose.  This is why "
-"software patents are <a href=\"http://www.ffii.org/\">so dangerous to "
-"software freedom</a>."
+"software patents are <a href=\"https://ffii.org/\">so dangerous to software "
+"freedom</a>."
 msgstr ""
 "La liberté de modifier le logiciel peut toujours être limitée par des "
 "brevets de tierces parties d'une manière qui n'apparaît pas dans la licence "
 "de copyright du logiciel. C'est pourquoi les brevets logiciels sont <a href="
-"\"http://www.ffii.org/\">si dangereux pour la liberté du logiciel</a>."
+"\"https://ffii.org/\">si dangereux pour la liberté du logiciel</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The FSF plans to continue to participate in the implementation process.  We "
 "will try to convince patent-holders not to impose &ldquo;field of use&rdquo; "
@@ -217,14 +216,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -235,19 +234,19 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2002, 2008 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2002, 2008 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2002, 2003, 2012, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2002, 2003, 2012, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

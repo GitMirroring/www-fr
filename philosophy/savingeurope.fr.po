@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: savingeurope.html\n"
-"POT-Creation-Date: 2018-01-01 05:58+0000\n"
-"PO-Revision-Date: 2020-12-07 14:06+0100\n"
+"POT-Creation-Date: 2021-09-22 09:26+0000\n"
+"PO-Revision-Date: 2021-09-22 12:18+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -17,7 +17,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -25,11 +24,11 @@ msgid ""
 msgstr ""
 "Sauver l'Europe des brevets logiciels - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Saving Europe from Software Patents"
 msgstr "Sauver l'Europe des brevets logiciels"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Imagine that each time you made a software design decision, and especially "
 "whenever you used an algorithm that you read in a journal or implemented a "
@@ -40,7 +39,7 @@ msgstr ""
 "revue, chaque fois que vous mettez en œuvre une fonctionnalité demandée par "
 "les utilisateurs, vous prenez le risque d'être poursuivi en justice."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "That's how it is today in the US, because of software patents.  Soon it may "
 "be the same in most of Europe (<a href=\"#ft1\">1</a>).  The countries that "
@@ -55,7 +54,7 @@ msgstr ""
 "cabinets d'avocats spécialisés, s'apprêtent à autoriser les brevets couvrant "
 "des calculs mathématiques."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To block this move, European citizens must take action, and do it soon&mdash;"
 "by talking with their national governments to raise opposition to the "
@@ -68,7 +67,7 @@ msgstr ""
 "aux Pays-Bas ou au Danemark est particulièrement important pour amener ces "
 "pays à rallier la campagne déjà initiée en France."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Patents have played havoc with free software already.  During the 1980s, the "
 "patent holders for public key encryption entirely suppressed free software "
@@ -85,7 +84,7 @@ msgstr ""
 "plus un logiciel libre (nous avons commencé à développer GNU Privacy Guard "
 "après expiration du brevet le plus étendu)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Compuserve developed GIF format for images, then was stunned when Unisys "
 "threatened to sue them and everyone else who developed or ran software to "
@@ -104,7 +103,7 @@ msgstr ""
 "logiciel libre permettant de produire de vrais GIF compressés constitue un "
 "risque juridique aux États-Unis."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the US and some other countries, free software for MP3(<a href="
 "\"#ft3\">3</a>) is impossible; in 1998, US developers who had developed free "
@@ -122,7 +121,7 @@ msgstr ""
 "brevets mène à bien son projet ils risquent de devenir indisponibles là-bas "
 "aussi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Later in 1998, Microsoft menaced the World Wide Web, by obtaining a patent "
 "affecting style sheets&mdash;after encouraging the WWW Consortium to "
@@ -139,7 +138,7 @@ msgstr ""
 "application du brevet. Mais on ne peut pas compter sur l'indulgence à chaque "
 "fois."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The list could go on and on, if I had time to look through my old mail for "
 "examples and space to describe them."
@@ -148,7 +147,7 @@ msgstr ""
 "rechercher d'autres exemples dans mon ancien courrier, et la place de les "
 "décrire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "On the issue of patents, free software developers can make common cause with "
 "most proprietary software developers, because in general they too stand to "
@@ -159,7 +158,7 @@ msgstr ""
 "privateurs (propriétaires), car en général ces derniers sont perdants "
 "également. Il en est de même des nombreux développeurs de progiciels."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To be sure, not everyone loses from software patents; if that were so, the "
 "system would soon be abolished.  Large companies often have many patents, "
@@ -178,7 +177,7 @@ msgstr ""
 "principaux supporters des brevets sont les multinationales. Elles ont "
 "beaucoup d'influence sur les gouvernements."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Occasionally a small company benefits from a patent, if its product is so "
 "simple that it escapes infringing the large companies' patents and thus "
@@ -193,7 +192,7 @@ msgstr ""
 "contentent de pomper l'argent de ceux qui le font, peuvent rigoler sur le "
 "chemin de la banque tout en enrayant le progrès."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But most software developers, as well as users, lose from software patents, "
 "which do more to obstruct software progress than to encourage it."
@@ -202,7 +201,7 @@ msgstr ""
 "sont perdants sur les brevets logiciels, qui sont plus un obstacle au "
 "progrès qu'un encouragement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "People used to call free software an absurd idea, saying we lacked the "
 "ability to develop a large amount of software.  We have refuted them with "
@@ -218,24 +217,23 @@ msgstr ""
 "des logiciels à tout faire est en notre pouvoir&hellip; à moins qu'il ne "
 "soit interdit de donner des logiciels au public."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Software patents threaten to do that.  The time to take action is now.  "
-"Please visit <a href=\"http://www.ffii.org/\">www.ffii.org</a> for more "
+"Please visit <a href=\"https://ffii.org/\">ffii.org</a> for more "
 "information, plus detailed suggestions for action.  And please take time to "
 "help."
 msgstr ""
 "C'est précisément ce que les brevets logiciels menacent de faire. Le temps "
-"d'agir est venu. Merci de consulter <a href=\"http://www.ffii.org/\">www."
-"ffii.org</a> pour plus ample information. Vous y trouverez aussi des "
-"suggestions détaillées d'actions à mener. Prenez le temps d'apporter votre "
-"aide."
+"d'agir est venu. Merci de consulter <a href=\"https://ffii.org/\">ffii.org</"
+"a> pour plus ample information. Vous y trouverez aussi des suggestions "
+"détaillées d'actions à mener. Prenez le temps d'apporter votre aide."
 
-#. type: Content of: <h4>
-msgid "Footnotes:"
+#. type: Content of: <div><h3>
+msgid "Footnotes"
 msgstr "Notes "
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "The European Patent Office, used by many European countries, has issued "
 "quite a number of patents that affect software, which were presented as "
@@ -250,7 +248,7 @@ msgstr ""
 "d'algorithmes et de fonctionnalités logicielles, ce qui augmenterait "
 "fortement le nombre de brevets logiciels émis."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "Unisys issued a cleverly worded statement which is often taken to permit "
 "free software for making GIFs, but which I believe does not do so.  I wrote "
@@ -263,23 +261,11 @@ msgstr ""
 "juridique pour leur demander une clarification ou une modification de leur "
 "politique, mais je n'ai reçu aucune réponse."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid "As of 2017 the patents on playing MP3 files have reportedly expired."
 msgstr ""
 "En 2017, les derniers brevets encore valides sur la lecture des fichiers MP3 "
 "ont, semble-t-il, expiré."
-
-#. type: Content of: <h4>
-msgid "<a href=\"/philosophy/philosophy.html\">Other Texts to Read</a>"
-msgstr "<a href=\"/philosophy/philosophy.html\">Autres textes à lire</a>"
-
-#. type: Content of: <ul><li>
-msgid ""
-"Get the latest threats to Europe's internet from <a href=\"http://www.ffii."
-"org\">ffii.org</a>"
-msgstr ""
-"Renseignez-vous sur les dernières menaces pour l'Internet européen sur le "
-"site <a href=\"http://www.ffii.org\">ffii.org</a>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -307,14 +293,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -325,12 +311,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2007, 2017, 2018 Free Software "
-"Foundation, Inc."
-msgstr ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2007, 2017, 2018 Free Software "
-"Foundation, Inc."
+msgid "Copyright &copy; 1996-1999, 2017, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1996-1999, 2017, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
