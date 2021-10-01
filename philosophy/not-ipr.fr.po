@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: not-ipr.html\n"
-"POT-Creation-Date: 2018-09-13 21:56+0000\n"
-"PO-Revision-Date: 2020-12-06 19:30+0100\n"
+"POT-Creation-Date: 2021-10-01 10:56+0000\n"
+"PO-Revision-Date: 2021-10-01 17:42+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -27,21 +27,21 @@ msgstr ""
 "Vous avez dit « propriété intellectuelle » ? Un séduisant mirage - Projet "
 "GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid ""
 "Did You Say &ldquo;Intellectual Property&rdquo;? It's a Seductive Mirage"
 msgstr "Vous avez dit « propriété intellectuelle » ? Un séduisant mirage"
 
-#. type: Content of: <p>
-msgid "by <a href=\"http://www.stallman.org/\">Richard M. Stallman</a>"
-msgstr "par <a href=\"http://www.stallman.org/\">Richard M. Stallman</a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "It has become fashionable to toss copyright, patents, and trademarks&mdash;"
 "three separate and different entities involving three separate and different "
 "sets of laws&mdash;plus a dozen other laws into one pot and call it &ldquo;"
-"intellectual property&rdquo;.  The distorting and confusing term did not "
+"intellectual property.&rdquo; The distorting and confusing term did not "
 "become common by accident.  Companies that gain from the confusion promoted "
 "it.  The clearest way out of the confusion is to reject the term entirely."
 msgstr ""
@@ -53,7 +53,7 @@ msgstr ""
 "l'industrie profite et qu'elle entretient. Le moyen le plus simple de sortir "
 "de cette confusion est de le rejeter complètement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "According to Professor Mark Lemley, now of the Stanford Law School, the "
 "widespread use of the term &ldquo;intellectual property&rdquo; is a fashion "
@@ -80,7 +80,7 @@ msgstr ""
 "%20property%3B%2Cc0\">des années 1990</a> (<a href=\"/graphics/"
 "seductivemirage.png\">copie locale de l'image</a>)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The term carries a bias that is not hard to see: it suggests thinking about "
 "copyright, patents and trademarks by analogy with property rights for "
@@ -103,13 +103,13 @@ msgstr ""
 "se servent des pouvoirs du copyright, des brevets et des marques déposées, "
 "le parti pris introduit par « propriété intellectuelle » leur convient."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The bias is reason enough to reject the term, and people have often asked me "
 "to propose some other name for the overall category&mdash;or have proposed "
 "their own alternatives (often humorous).  Suggestions include IMPs, for "
 "Imposed Monopoly Privileges, and GOLEMs, for Government-Originated Legally "
-"Enforced Monopolies.  Some speak of &ldquo;exclusive rights regimes&rdquo;, "
+"Enforced Monopolies.  Some speak of &ldquo;exclusive rights regimes,&rdquo; "
 "but referring to restrictions as &ldquo;rights&rdquo; is doublethink too."
 msgstr ""
 "Ce parti pris est une raison suffisante pour rejeter l'expression, et "
@@ -121,7 +121,7 @@ msgstr ""
 "par la loi). Certains parlent de « régimes de droits exclusifs », mais "
 "assimiler des restrictions à des « droits » est aussi du double langage."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some of these alternative names would be an improvement, but it is a mistake "
 "to replace &ldquo;intellectual property&rdquo; with any other term.  A "
@@ -140,7 +140,7 @@ msgstr ""
 "est son usage répandu, qui les a induits en erreur à propos des lois en "
 "question."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The term &ldquo;intellectual property&rdquo; is at best a catch-all to lump "
 "together disparate laws.  Nonlawyers who hear one term applied to these "
@@ -152,7 +152,7 @@ msgstr ""
 "unique recouvrir ces diverses lois ont tendance à supposer qu'elles sont "
 "basées sur un principe commun et qu'elles fonctionnent de manière similaire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Nothing could be further from the case.  These laws originated separately, "
 "evolved differently, cover different activities, have different rules, and "
@@ -162,7 +162,7 @@ msgstr ""
 "différemment, couvrent des activités différentes, ont des règles différentes "
 "et soulèvent des problèmes de politique publique différents."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For instance, copyright law was designed to promote authorship and art, and "
 "covers the details of expression of a work.  Patent law was intended to "
@@ -177,14 +177,14 @@ msgstr ""
 "celui qui l'a publiée – un prix peut-être justifié dans certains domaines, "
 "mais pas dans d'autres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Trademark law, by contrast, was not intended to promote any particular way "
 "of acting, but simply to enable buyers to know what they are buying.  "
-"Legislators under the influence of the term &ldquo;intellectual "
-"property&rdquo;, however, have turned it into a scheme that provides "
-"incentives for advertising.  And these are just three out of many laws that "
-"the term refers to."
+"Legislators under the influence of the term &ldquo;intellectual property,"
+"&rdquo; however, have turned it into a scheme that provides incentives for "
+"advertising.  And these are just three out of many laws that the term refers "
+"to."
 msgstr ""
 "La loi sur les marques déposées n'était pas destinée à promouvoir un "
 "quelconque comportement, mais seulement à permettre aux acheteurs de savoir "
@@ -193,7 +193,7 @@ msgstr ""
 "incitations à faire de la publicité. Et ce ne sont que trois des nombreuses "
 "lois que recouvre cette expression."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Since these laws developed independently, they are different in every "
 "detail, as well as in their basic purposes and methods.  Thus, if you learn "
@@ -206,16 +206,16 @@ msgstr ""
 "droit du copyright, vous seriez bien avisés de supposer que le droit des "
 "brevets est différent. Vous auriez peu de chance de vous tromper !"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In practice, nearly all general statements you encounter that are formulated "
 "using &ldquo;intellectual property&rdquo; will be false.  For instance, "
 "you'll see claims that &ldquo;its&rdquo; purpose is to &ldquo;promote "
-"innovation&rdquo;, but that only fits patent law and perhaps plant variety "
+"innovation,&rdquo; but that only fits patent law and perhaps plant variety "
 "monopolies.  Copyright law is not concerned with innovation; a pop song or "
 "novel is copyrighted even if there is nothing innovative about it.  "
 "Trademark law is not concerned with innovation; if I start a tea store and "
-"call it &ldquo;rms tea&rdquo;, that would be a solid trademark even if I "
+"call it &ldquo;rms tea,&rdquo; that would be a solid trademark even if I "
 "sell the same teas in the same way as everyone else.  Trade secret law is "
 "not concerned with innovation, except tangentially; my list of tea customers "
 "would be a trade secret with nothing to do with innovation."
@@ -234,10 +234,10 @@ msgstr ""
 "la liste des clients de ma boutique serait un secret commercial qui n'aurait "
 "rien à voir avec l'innovation."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You will also see assertions that &ldquo;intellectual property&rdquo; is "
-"concerned with &ldquo;creativity&rdquo;, but really that only fits copyright "
+"concerned with &ldquo;creativity,&rdquo; but really that only fits copyright "
 "law.  More than creativity is needed to make a patentable invention.  "
 "Trademark law and trade secret law have nothing to do with creativity; the "
 "name &ldquo;rms tea&rdquo; isn't creative at all, and neither is my secret "
@@ -250,7 +250,7 @@ msgstr ""
 "secret commercial n'ont rien à voir avec la créativité ; le nom « rms tea » "
 "n'est pas créatif du tout et ma liste secrète de clients non plus."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "People often say &ldquo;intellectual property&rdquo; when they really mean "
 "some larger or smaller set of laws.  For instance, rich countries often "
@@ -259,7 +259,7 @@ msgid ""
 "and others are not; nonetheless, critics of the practice often grab for that "
 "label because it has become familiar to them.  By using it, they "
 "misrepresent the nature of the issue.  It would be better to use an accurate "
-"term, such as &ldquo;legislative colonization&rdquo;, that gets to the heart "
+"term, such as &ldquo;legislative colonization,&rdquo; that gets to the heart "
 "of the matter."
 msgstr ""
 "Les gens disent souvent « propriété intellectuelle » quand ils veulent en "
@@ -273,11 +273,11 @@ msgstr ""
 "formulation précise comme « colonisation législative », qui est au cœur du "
 "sujet."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Laymen are not alone in being confused by this term.  Even law professors "
 "who teach these laws are lured and distracted by the seductiveness of the "
-"term &ldquo;intellectual property&rdquo;, and make general statements that "
+"term &ldquo;intellectual property,&rdquo; and make general statements that "
 "conflict with facts they know.  For example, one professor wrote in 2006:"
 msgstr ""
 "Cette expression n'embrouille pas seulement les non-spécialistes. Même les "
@@ -286,7 +286,7 @@ msgstr ""
 "générales en contradiction avec les faits qu'ils connaissent. Par exemple, "
 "un professeur a écrit en 2006 :"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "Unlike their descendants who now work the floor at WIPO, the framers of the "
 "US constitution had a principled, procompetitive attitude to intellectual "
@@ -299,7 +299,7 @@ msgstr ""
 "savaient que des droits seraient peut-être nécessaires mais&hellip; ils ont "
 "lié les mains du Congrès, en restreignant son pouvoir de diverses manières."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "That statement refers to Article 1, Section 8, Clause 8 of the US "
 "Constitution, which authorizes copyright law and patent law.  That clause, "
@@ -314,7 +314,7 @@ msgstr ""
 "L'expression « propriété intellectuelle » a conduit ce professeur à une "
 "généralisation abusive."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The term &ldquo;intellectual property&rdquo; also leads to simplistic "
 "thinking.  It leads people to focus on the meager commonality in form that "
@@ -332,7 +332,7 @@ msgstr ""
 "sur le public et les conséquences qui en résultent. Ceci favorise une "
 "approche purement économique de tous ces sujets."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Economics operates here, as it often does, as a vehicle for unexamined "
 "assumptions.  These include assumptions about values, such as that amount of "
@@ -347,10 +347,10 @@ msgstr ""
 "aide les musiciens, ou que les brevets sur les médicaments financent la "
 "recherche qui sauvera des vies."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another problem is that, at the broad scale implicit in the term &ldquo;"
-"intellectual property&rdquo;, the specific issues raised by the various laws "
+"intellectual property,&rdquo; the specific issues raised by the various laws "
 "become nearly invisible.  These issues arise from the specifics of each "
 "law&mdash;precisely what the term &ldquo;intellectual property&rdquo; "
 "encourages people to ignore.  For instance, one issue relating to copyright "
@@ -371,7 +371,7 @@ msgstr ""
 "marché pour épargner des vies. Le droit du copyright n'a rien à voir avec "
 "cela."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Neither of these issues is solely economic in nature, and their noneconomic "
 "aspects are very different; using the shallow economic overgeneralization as "
@@ -386,7 +386,7 @@ msgstr ""
 "« propriété intellectuelle » empêche d'avoir un raisonnement clair pour "
 "chacune d'elles."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Thus, any opinions about &ldquo;the issue of intellectual property&rdquo; "
 "and any generalizations about this supposed category are almost surely "
@@ -401,7 +401,7 @@ msgstr ""
 "partir d'une sélection de généralisations abusives, dont aucune n'a la "
 "moindre valeur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Rejection of &ldquo;intellectual property&rdquo; is not mere philosophical "
 "recreation.  The term does real harm.  Apple used it to <a href=\"https://"
@@ -420,7 +420,7 @@ msgstr ""
 "conflit avec les droits de ses clients, en un soi-disant principe auquel "
 "doivent se plier les clients et l'État."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you want to think clearly about the issues raised by patents, or "
 "copyrights, or trademarks, or various other different laws, the first step "
@@ -438,17 +438,17 @@ msgstr ""
 "« propriété intellectuelle ». Traitez chacun de ces sujets séparément, dans "
 "son intégralité et vous aurez une chance de les examiner correctement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"And when it comes to reforming WIPO, here is <a href=\"http://fsfe.org/"
-"projects/wipo/wiwo.en.html\">one proposal for changing the name and "
+"And when it comes to reforming WIPO, here is <a href=\"https://fsfe.org/"
+"activities/wipo/wiwo.en.html\">one proposal for changing the name and "
 "substance of WIPO</a>."
 msgstr ""
-"Et quand viendra l'heure de la réforme, voici <a href=\"http://fsfe.org/"
+"Et quand viendra l'heure de la réforme, voici <a href=\"https://fsfe.org/"
 "projects/wipo/wiwo.fr.html\">une proposition pour changer le nom et l'objet "
 "de l'OMPI</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "See also <a href=\"/philosophy/komongistan.html\">The Curious History of "
 "Komongistan (Busting the term &ldquo;intellectual property&rdquo;)</a>."
@@ -457,31 +457,31 @@ msgstr ""
 "du Komongistan – qui fait voler en éclats l'expression « propriété "
 "intellectuelle »</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Countries in Africa are a lot more similar than these laws, and &ldquo;"
 "Africa&rdquo; is a coherent geographical concept; nonetheless, <a href="
-"\"http://www.theguardian.com/world/2014/jan/24/africa-clinton\"> talking "
+"\"https://www.theguardian.com/world/2014/jan/24/africa-clinton\"> talking "
 "about &ldquo;Africa&rdquo; instead of a specific country causes lots of "
 "confusion</a>."
 msgstr ""
 "Les pays d'Afrique sont bien plus semblables entre eux que ne le sont ces "
 "lois, et « l'Afrique » est un concept géographique cohérent ; néanmoins, <a "
-"href=\"http://www.theguardian.com/world/2014/jan/24/africa-clinton\">parler "
+"href=\"https://www.theguardian.com/world/2014/jan/24/africa-clinton\">parler "
 "de « l'Afrique » plutôt que d'un pays en particulier crée beaucoup de "
 "confusion</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"<a href=\"http://torrentfreak.com/language-matters-framing-the-copyright-"
+"<a href=\"https://torrentfreak.com/language-matters-framing-the-copyright-"
 "monopoly-so-we-can-keep-our-liberties-130714/\"> Rickard Falkvinge supports "
 "rejection of this term</a>."
 msgstr ""
-"<a href=\"http://torrentfreak.com/language-matters-framing-the-copyright-"
+"<a href=\"https://torrentfreak.com/language-matters-framing-the-copyright-"
 "monopoly-so-we-can-keep-our-liberties-130714/\">Rickard Falkvinge appelle à "
 "rejeter cette expression</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"http://www.locusmag.com/Perspectives/2016/11/cory-doctorow-sole-"
 "and-despotic-dominion/\"> Cory Doctorow also condemns</a> the term &ldquo;"
@@ -517,14 +517,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -535,12 +535,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2004, 2006, 2010, 2013, 2015, 2016, 2017, 2018 Richard M. "
-"Stallman"
-msgstr ""
-"Copyright &copy; 2004, 2006, 2010, 2013, 2015, 2016, 2017, 2018 Richard M. "
-"Stallman"
+msgid "Copyright &copy; 2004, 2006, 2010, 2013-2017, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2004, 2006, 2010, 2013-2017, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

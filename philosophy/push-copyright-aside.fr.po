@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: push-copyright-aside.html\n"
-"POT-Creation-Date: 2018-01-01 05:58+0000\n"
-"PO-Revision-Date: 2020-12-07 12:06+0100\n"
+"POT-Creation-Date: 2021-10-01 10:56+0000\n"
+"PO-Revision-Date: 2021-10-01 17:42+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -26,15 +26,15 @@ msgstr ""
 "La science doit « mettre le droit d'auteur de côté » - Projet GNU - Free "
 "Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Science must push copyright aside"
 msgstr "La science doit mettre le droit d'auteur de côté"
 
-#. type: Content of: <p>
-msgid "by <strong>Richard M. Stallman</strong>"
-msgstr "par <strong>Richard M. Stallman</strong>"
+#. type: Content of: <div><address>
+msgid "by Richard M. Stallman"
+msgstr "par Richard M. Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<em>Many points that lead to a conclusion that software freedom must be "
 "universal often apply to other forms of expressive works, albeit in "
@@ -54,15 +54,7 @@ msgstr ""
 "comment ces principes peuvent s'appliquer à des domaines autres que le "
 "logiciel.</em>"
 
-#. type: Content of: <p>
-msgid ""
-"(This article appeared in <em>Nature</em> magazine's <b>web</b>debates forum "
-"in 2001.)"
-msgstr ""
-"(Cet article est paru dans le forum <b>web</b>debates de la revue "
-"<em>Nature</em> en 2001)"
-
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It should be a truism that the scientific literature exists to disseminate "
 "scientific knowledge, and that scientific journals exist to facilitate the "
@@ -75,7 +67,7 @@ msgstr ""
 "d'utilisation de la littérature scientifique doivent être de nature à aider "
 "à atteindre cet objectif."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The rules we have now, known as copyright, were established in the age of "
 "the printing press, an inherently centralized method of mass-production "
@@ -97,7 +89,7 @@ msgstr ""
 "étudiants, qu'ils soient lecteurs ou auteurs d'articles. Ces règles "
 "convenaient bien à ce système."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The modern technology for scientific publishing, however, is the World Wide "
 "Web.  What rules would best ensure the maximum dissemination of scientific "
@@ -114,7 +106,7 @@ msgstr ""
 "articles sur un site « miroir », c'est-à-dire de les republier intégralement "
 "en indiquant correctement la source."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "These rules should apply to past as well as future articles, when they are "
 "distributed in electronic form. But there is no crucial need to change the "
@@ -127,13 +119,13 @@ msgstr ""
 "qui concerne la publication des revues sur papier parce qu'il n'y a pas de "
 "problème dans ce domaine."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Unfortunately, it seems that not everyone agrees with the truisms that began "
 "this article. Many journal publishers appear to believe that the purpose of "
 "scientific literature is to enable them to publish journals so as to collect "
 "subscriptions from scientists and students. Such thinking is known as &ldquo;"
-"confusion of the means with the ends&rdquo;."
+"confusion of the means with the ends.&rdquo;"
 msgstr ""
 "Malheureusement, il semble que tout le monde ne soit pas d'accord avec les "
 "évidences exprimées au début de cet article. De nombreux éditeurs de revues "
@@ -142,7 +134,7 @@ msgstr ""
 "scientifiques et d'étudiants. Partager un tel point de vue c'est « confondre "
 "la fin et les moyens »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Their approach has been to restrict access even to read the scientific "
 "literature to those who can and will pay for it. They use copyright law, "
@@ -155,7 +147,7 @@ msgstr ""
 "inadaptation aux réseaux informatiques, comme excuse pour dissuader les "
 "scientifiques de choisir de nouvelles règles."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For the sake of scientific cooperation and humanity's future, we must reject "
 "that approach at its root&mdash;not merely the obstructive systems that have "
@@ -166,7 +158,7 @@ msgstr ""
 "systèmes d'obstruction qui ont été établis, mais aussi les priorités mal "
 "placées qui les ont inspirés."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Journal publishers sometimes claim that online access requires expensive "
 "high-powered server machines, and that they must charge access fees to pay "
@@ -187,7 +179,7 @@ msgstr ""
 "tout en protégeant les publications scientifiques contre une perte "
 "accidentelle."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Publishers also argue that paying the editors requires charging for access.  "
 "Let us accept the assumption that editors must be paid; this tail need not "
@@ -203,7 +195,7 @@ msgstr ""
 "faible pourcentage ne justifie pas que l'on fasse obstruction à "
 "l'utilisation des résultats."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Instead, the cost of editing could be recovered, for example, through page "
 "charges to the authors, who can pass these on to the research sponsors.  The "
@@ -228,7 +220,7 @@ msgstr ""
 "pourrait être dispensé des frais à la page, qui seraient répercutés sur les "
 "auteurs soutenus par des institutions."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another justification for access fees to online publications is to fund "
 "conversion of the print archives of a journal into online form. That work "
@@ -245,62 +237,56 @@ msgstr ""
 "productif de numériser des archives et de gâcher le résultat de ce travail "
 "en en restreignant l'accès."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The US Constitution says that copyright exists &ldquo;to promote the "
-"Progress of Science&rdquo;. When copyright impedes the progress of science, "
+"Progress of Science.&rdquo; When copyright impedes the progress of science, "
 "science must push copyright out of the way."
 msgstr ""
 "La Constitution des États-Unis dit que le copyright (droit d'auteur) existe "
 "« pour promouvoir le progrès de la science ». Quand le droit d'auteur freine "
 "les progrès de la science, la science doit mettre le droit d'auteur de côté."
 
-#. type: Content of: outside any tag (error?)
-msgid "Later developments:"
+#. type: Content of: <div><h3>
+msgid "Later developments"
 msgstr "Suite de l'histoire"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some universities have adopted policies to thwart the journal publishers' "
-"power. For instance, here is MIT's."
+"power. For instance, look at <a href=\"https://libraries.mit.edu/scholarly/"
+"mit-open-access/open-access-policy/\"> MIT Faculty Open Access Policy</a>.  "
+"Stronger policies are needed, however, as this one permits individual "
+"authors to &ldquo;opt out&rdquo; (i.e., cave in)."
 msgstr ""
 "Certaines universités ont adopté des règles tendant à amoindrir le pouvoir "
-"des éditeurs. Par exemple voici les règles d'accès libre du MIT :"
-
-#. type: Content of: <p>
-msgid ""
-"<a href=\"https://libraries.mit.edu/scholarly/mit-open-access/open-access-"
-"policy/\"> https://libraries.mit.edu/scholarly/mit-open-access/open-access-"
-"policy/</a>.  Stronger policies are needed, however, as this one permits "
-"individual authors to \"opt out\" (i.e., cave in)."
-msgstr ""
-"<a href=\"https://libraries.mit.edu/scholarly/mit-open-access/open-access-"
-"policy/\">https://libraries.mit.edu/scholarly/mit-open-access/open-access-"
-"policy/</a>. Nous avons cependant besoin d'une politique plus ferme, puisque "
-"celle-là permet à certains auteurs de se retirer du système (c'est-à-dire de "
+"des éditeurs. Par exemple voici les <a href=\"https://libraries.mit.edu/"
+"scholarly/mit-open-access/open-access-policy/\">règles d'accès libre du MIT</"
+"a>. Nous avons cependant besoin d'une politique plus ferme, puisque celle-là "
+"permet à certains auteurs de se retirer du système (c'est-à-dire de "
 "s'écraser)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"The US government has imposed a requirement known as \"public access\" on "
-"some funded research.  This requires publication within a certain period in "
-"a site that allows anyone to view the article.  This requirement is a "
-"positive step, but inadequate because it does not include freedom to "
-"redistribute the article."
+"The US government has imposed a requirement known as &ldquo;public "
+"access&rdquo; on some funded research.  This requires publication within a "
+"certain period in a site that allows anyone to view the article.  This "
+"requirement is a positive step, but inadequate because it does not include "
+"freedom to redistribute the article."
 msgstr ""
 "Le gouvernement américain a imposé une condition appelée <i>public access</"
-"i> (accès du public) à certaines recherches subventionnées. Elle exige que "
-"ces recherches soient publiées pendant un certain laps de temps sur un site "
-"qui autorise tout un chacun à lire l'article. Cette exigence est un pas dans "
-"la bonne direction, mais elle est inadéquate parce qu'elle n'inclut pas la "
-"liberté de redistribuer l'article."
+"i> (accessibilité au public) à certaines recherches subventionnées. Elle "
+"exige que ces recherches soient publiées pendant un certain laps de temps "
+"sur un site qui autorise tout un chacun à lire l'article. Cette exigence est "
+"un pas dans la bonne direction, mais elle est inadéquate parce qu'elle "
+"n'inclut pas la liberté de redistribuer l'article."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"Curiously, the concept of \"open access\" in the 2002 Budapest Open Access "
-"Initiative did include freedom to redistribute.  I signed that declaration, "
-"despite my distaste for the word \"open\", because the substance of the "
-"position was right."
+"Curiously, the concept of &ldquo;open access&rdquo; in the 2002 Budapest "
+"Open Access Initiative did include freedom to redistribute.  I signed that "
+"declaration, despite my distaste for the word &ldquo;open\", because the "
+"substance of the position was right."
 msgstr ""
 "Curieusement, le concept antérieur d'<i>open access</i> dans l'« Initiative "
 "de Budapest pour l'accès ouvert » <i>[Budapest Open Access Initiative]</i> "
@@ -308,22 +294,33 @@ msgstr ""
 "déclaration, malgré mes réticences envers le mot <i>open</i>, parce qu'en "
 "substance cette position était correcte."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"However, the word \"open\" had the last laugh: influential campaigners for "
-"\"open access\" subsequently dropped freedom to redistribute from their "
-"goals.  I stand by the position of the <a href=\"http://www."
-"budapestopenaccessinitiative.org/\">BOAI</a>, but now that \"open access\" "
-"means something else, I refer to it as \"redistributable publication\" or "
-"\"free-to-mirror publication\"."
+"However, the word &ldquo;open&rdquo; had the last laugh: influential "
+"campaigners for &ldquo;open access&rdquo; subsequently dropped freedom to "
+"redistribute from their goals.  I stand by the position of the <a href="
+"\"https://www.budapestopenaccessinitiative.org/\">BOAI</a>, but now that "
+"&ldquo;open access&rdquo; means something else, I refer to it as &ldquo;"
+"redistributable publication&rdquo; or &ldquo;free-to-mirror publication."
+"&rdquo;"
 msgstr ""
 "Cependant, le mot <i>open</i> a eu le dessus : des militants influents de "
 "l'<i>open access</i> ont ultérieurement laissé tomber la liberté de "
-"redistribuer. Je continue à soutenir la position de la <a href=\"http://www."
+"redistribuer. Je continue à soutenir la position de la <a href=\"https://www."
 "budapestopenaccessinitiative.org/\"><abbr title=\"Budapest Open Access "
 "Initiative\">BOAI</abbr></a>, mais maintenant qu'<i>open access</i> veut "
 "dire quelque chose d'autre, je m'y réfère par l'expression « publication "
 "librement redistribuable »."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This article appeared in <a href=\"https://web.archive.org/"
+"web/20050729110347/http://www.nature.com/nature/debates/e-access/Articles/"
+"stallman.html\"> <cite>Nature WebDebates</cite></a> in 2001."
+msgstr ""
+"Cet article est paru dans <a href=\"https://web.archive.org/"
+"web/20050729110347/http://www.nature.com/nature/debates/e-access/Articles/"
+"stallman.html\"><cite>Nature WebDebates</cite></a> en 2001."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -361,14 +358,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -379,9 +376,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2001, 2012, 2015, 2016, 2017, 2018 Richard M. Stallman"
-msgstr ""
-"Copyright &copy; 2001, 2012, 2015, 2016, 2017, 2018 Richard M. Stallman"
+msgid "Copyright &copy; 2001, 2010-2012, 2021 Richard M. Stallman"
+msgstr "Copyright &copy; 2001, 2010-2012, 2021 Richard M. Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

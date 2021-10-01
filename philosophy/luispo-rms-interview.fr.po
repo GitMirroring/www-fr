@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: luispo-rms-interview.html\n"
-"POT-Creation-Date: 2019-06-24 11:25+0000\n"
-"PO-Revision-Date: 2020-12-06 19:29+0100\n"
+"POT-Creation-Date: 2021-10-01 10:56+0000\n"
+"PO-Revision-Date: 2021-10-01 17:42+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -19,21 +19,22 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. type: Content of: <title>
-msgid "Interview: Richard M. Stallman - GNU Project - Free Software Foundation"
-msgstr ""
-"Entretien : Richard M. Stallman - Projet GNU - Free Software Foundation"
-
-#. type: Content of: <h2>
-msgid "Interview: Richard M. Stallman"
-msgstr "Entretien : Richard M. Stallman"
-
-#. type: Content of: <p>
 msgid ""
-"<i>This is an interview between Louis Suarez-Potts and Richard M. Stallman.</"
-"i>"
-msgstr "<i>Entretien entre Louis Suarez-Potts et Richard M. Stallman.</i>"
+"Interview with Richard Stallman (2001)  - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"Entretien avec Richard Stallman (2001) - Projet GNU - Free Software "
+"Foundation"
 
-#. type: Content of: <p>
+#. type: Content of: <div><h2>
+msgid "Interview with Richard Stallman (2001)"
+msgstr "Entretien avec Richard Stallman (2001)"
+
+#. type: Content of: <div><address>
+msgid "conducted by Louis Suarez-Potts"
+msgstr "conduit par Louis Suarez-Potts"
+
+#. type: Content of: <div><p>
 msgid ""
 "Richard M. Stallman is the most forceful and famous practitioner/theorist of "
 "<a href=\"/philosophy/free-sw.html\">free software</a>, a term he coined. "
@@ -73,7 +74,7 @@ msgstr ""
 "Source Revolution</cite><a id=\"TransNote2-rev\" href="
 "\"#TransNote2\"><sup>2</sup></a>, ed. DiBona et coll.)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Every free-software license since probably owes its existence to Stallman's "
 "vision, including those licenses by which OpenOffice.org code is governed. "
@@ -96,7 +97,7 @@ msgstr ""
 "sur le logiciel libre (voir Moody, <cite>Rebel Code</cite>, pour avoir une "
 "bonne idée de la mission de Stallman)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The opportunity for this interview arose when I saw Stallman lecture at "
 "Sun's Cupertino campus in May. At that time, I requested an email interview "
@@ -121,7 +122,7 @@ msgstr ""
 "que les vues de Stallman lui sont propres et ne reflètent pas nécessairement "
 "les miennes ni celles d'OpenOffice.org."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For more information, readers are encouraged to visit the <a href=\"/home."
 "html\">GNU website</a>, as well as <a href=\"https://www.stallman.org"
@@ -131,7 +132,7 @@ msgstr ""
 "<a href=\"/home.html\">GNU</a>, ainsi que le <a href=\"https://www.stallman."
 "org\">site personnel de Stallman</a>."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "I would like, in this interview, to focus on your current work, and on the "
 "problematic of what kind of society we should like to live in. Your focus "
@@ -144,7 +145,7 @@ msgstr ""
 "vous attachez à rendre plus éthiques les dispositions sociales entourant "
 "l'utilisation de logiciel."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "But, [briefly,] what do you mean by the notion of a what I call here a more "
 "ethical society?"
@@ -152,7 +153,7 @@ msgstr ""
 "Mais (brièvement), qu'entendez-vous par la notion de ce que j'appelle ici "
 "une société plus éthique ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We need to encourage the spirit of cooperation, by respecting other people's "
 "freedom to cooperate and not advancing schemes to divide and dominate them."
@@ -161,7 +162,7 @@ msgstr ""
 "liberté des autres de coopérer et ne pas mettre en avant de projets destinés "
 "à les diviser et à les dominer."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "This takes us to a point that is quite important and that I am hoping you "
 "can clarify for our readers. The term you prefer for your ethic is &ldquo;"
@@ -183,7 +184,7 @@ msgstr ""
 "éthique de vie et qui porte la promesse d'une société plus juste ; l'autre, "
 "« open source », n'est pas porteur de ce message."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "Is that a fair statement? Would you address that issue, and clarify the "
 "distinctions for our readers?"
@@ -191,7 +192,7 @@ msgstr ""
 "Est-ce une présentation correcte ? Pourriez-vous traiter cette question et "
 "clarifier les distinctions pour nos lecteurs ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "That is exactly right. Someone once said it this way: open source is a "
 "development methodology; free software is a political philosophy (or a "
@@ -201,7 +202,7 @@ msgstr ""
 "source est une méthodologie de développement ; le logiciel libre est une "
 "philosophie politique (ou un mouvement sociétal). »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The <a href=\"https://opensource.org\">open source movement</a> focuses on "
 "convincing business that it can profit by respecting the users' freedom to "
@@ -220,7 +221,7 @@ msgstr ""
 "autres. Le profit n'est pas une mauvaise chose en soi, mais il ne peut "
 "justifier de faire du tort aux autres."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "Along these lines, there has been considerable confusion over how to name "
 "your idea of an ethical society. Mistakenly, many would assert that you are "
@@ -232,7 +233,7 @@ msgstr ""
 "affirmeraient que vous suggérez une forme de <a href=\"https://www.marxists."
 "org/archive/marx/works/1847/11/prin-com.htm\">communisme</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Anyone who criticizes certain business practices can expect to be called "
 "&ldquo;communist&rdquo; from time to time. This is a way of changing the "
@@ -247,7 +248,7 @@ msgstr ""
 "bien plus facile d'attaquer le communisme que d'attaquer les idées du "
 "mouvement du logiciel libre)."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "Pekka Himanen, in his recent work, the <cite>Hacker Ethic</cite>, has "
 "rightly countered these claims. I would go further: that what you suggest is "
@@ -271,7 +272,7 @@ msgstr ""
 "capitalisme. C'est même tout l'opposé. Est-ce que vous voudriez dire un mot "
 "de votre système éthique à ce que nous pourrions appeler les politiques ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There is a place in life for business, but business should not be allowed "
 "dominate everyone's life. The original idea of democracy was to give the "
@@ -282,7 +283,7 @@ msgstr ""
 "démocratie consistait à donner au plus grand nombre un moyen de contrôler le "
 "pouvoir de la minorité nantie."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Today business (and its owners) has far too much political power, and this "
 "undermines democracy in the US and abroad. Candidates face an effective veto "
@@ -293,7 +294,7 @@ msgstr ""
 "l'étranger. Les candidats aux élections risquent de voir les entreprises "
 "leur opposer un veto de fait, aussi n'osent-ils pas leur désobéir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The power to make laws is being transferred from elected legislatures to "
 "nondemocratic bodies such as the <a href=\"https://www.fpif.org/reports/"
@@ -328,7 +329,7 @@ msgstr ""
 "que cette condamnation lui a fait subir. Elle prétend que l'ALÉNA retire aux "
 "États le droit de légiférer sur les pratiques anticoncurrentielles."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But business is not satisfied yet. The proposed <a href=\"https://web."
 "archive.org/web/20190515002131/http://www.ftaa-alca.org/\"> FTAA [Free Trade "
@@ -347,7 +348,7 @@ msgstr ""
 "wikipedia.org/wiki/Fast_track_%28trade%29\"><i>fast track</i></a> fasse "
 "passer."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"https://web.archive.org/web/20130607095126/http://www.canadians."
 "org/trade/issues/FTAA/Quebec/index.html\"> Peaceful protestors against the "
@@ -366,7 +367,7 @@ msgstr ""
 "cherche à porter plainte pour tentative de meurtre&hellip; si les flics "
 "révèlent qui lui a tiré dessus."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "One protest organizer was attacked on the street by a gang that got out of a "
 "van, knocked him down, and beat him up. When his friends came to the rescue, "
@@ -377,7 +378,7 @@ msgstr ""
 "Quand ses amis sont venus à son secours, les malfrats se sont révélés être "
 "des policiers sous couverture qui l'ont emmené avec eux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Whatever democracy survives the globalization treaties is likely to be "
 "crushed by the efforts to suppress <a href=\"https://web.archive.org/"
@@ -388,7 +389,7 @@ msgstr ""
 "\"https://web.archive.org/web/20010515200253/http://stopftaa.org/"
 "\">opposition</a> à ces derniers."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "The most immediate criticism of your insistence on ethics would be that the "
 "ethic of free software is fine, but not relevant to the real world of "
@@ -398,7 +399,7 @@ msgstr ""
 "l'éthique du logiciel libre est bonne, mais inadaptée au monde réel des "
 "affaires."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "With over half the world's Web sites running on GNU/Linux and <a href="
 "\"https://www.apache.org\">Apache</a>, that is evidently just FUD.  You "
@@ -411,7 +412,7 @@ msgstr ""
 "pas donner de crédibilité à de tels mensonges en paraissant les prendre vous-"
 "même au sérieux."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "I think it is worse to leave implicit lies unanswered than to address them "
 "directly. The thrust of my argument was that Microsoft, for instance, would "
@@ -431,7 +432,7 @@ msgstr ""
 "avait pour but de suggérer une réfutation à ce qui est évidemment du FUD, "
 "pas de donner crédit aux erreurs des autres."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "So, I'll rephrase my question: Microsoft has attacked the GPL as business "
 "foolishness that is also bad for &ldquo;America&rdquo; (whatever that "
@@ -444,25 +445,26 @@ msgstr ""
 "Comment dans ce cas contrez-vous leur FUD ou, d'ailleurs, le FUD de ceux qui "
 "partagent leurs vues ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Stallman did not respond to this query for clarification, but as it "
-"happened, a <a href=\"/events/rms-nyu-2001-transcript.txt\">speech</a> he "
-"recently presented at New York University responded to Microsoft's "
+"happened, a <a href=\"/philosophy/rms-nyu-2001-transcript.html\">speech</a> "
+"he recently presented at New York University responded to Microsoft's "
 "propaganda. The Free Software Foundation has presented a <a href=\"/"
 "press/2001-05-04-GPL.html\">defense</a>, of free software, as well."
 msgstr ""
 "Stallman n'a pas répondu à cette requête de clarification, mais il se trouve "
-"que dans une <a href=\"/events/rms-nyu-2001-transcript.html\">conférence</a> "
-"donnée récemment à l'Université de New York, il répond à la propagande de "
-"Microsoft. La <i>Free Software Foundation</i> a également présenté une <a "
-"href=\"/press/2001-05-04-GPL.html\">défense</a> du logiciel libre."
+"que dans une <a href=\"/philosophy/rms-nyu-2001-transcript.html"
+"\">conférence</a> donnée récemment à l'Université de New York, il répond à "
+"la propagande de Microsoft. La <i>Free Software Foundation</i> a également "
+"présenté une <a href=\"/press/2001-05-04-GPL.html\">défense</a> du logiciel "
+"libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "[To return to the interview&hellip;]"
 msgstr "[Revenons à l'entretien&hellip;]"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "On a more individual level, how would you address the criticism of person "
 "who would like to follow your ethical standards but feels she cannot because "
@@ -472,7 +474,7 @@ msgstr ""
 "personne qui voudrait suivre vos standards éthiques mais qui sent qu'elle ne "
 "pourra pas, car elle veut gagner de l'argent avec son travail intellectuel ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This hypothetical person appears to believe that developing free software is "
 "incompatible with being paid. If so, she is misinformed&mdash;hundreds of "
@@ -485,7 +487,7 @@ msgstr ""
 "développer des logiciels libres. Certaines d'entre elles travaillent pour "
 "Sun. Elle nous défie de résoudre un problème qui n'existe pas réellement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But what if she can't get one of these free software jobs? That could "
 "happen&mdash;not everybody can get them today. But it doesn't excuse "
@@ -503,7 +505,7 @@ msgstr ""
 "logiciels privateurs divisent les utilisateurs et les laissent impuissants, "
 "et ce n'est pas bien. Personne ne doit faire ça."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So what should she do instead? Anything else. She could get a job in another "
 "field. But she doesn't have to go that far&mdash;most software development "
@@ -519,27 +521,27 @@ msgstr ""
 "plupart des cas, elle peut le faire sans que cela soulève de problème "
 "éthique. Ce n'est pas de l'héroïsme, mais ce n'est pas une infamie non plus."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid "But copyright can be thought of as an author's friend."
 msgstr "Mais le copyright peut être vu comme un ami de l'auteur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the age of the printing press, that was true: <a href=\"https://"
-"webarchive.nationalarchives.gov.uk/20140603093549/http://www.ipo.gov.uk/"
-"types/copy/c-about/c-history.htm\">copyright</a> was an industrial "
+"webarchive.nationalarchives.gov.uk/ukgwa/20140603100055/http://www.ipo.gov."
+"uk/types/copy/c-about/c-history.htm\">copyright</a> was an industrial "
 "restriction on publishers, requiring them to pay the author of a book. It "
 "did not restrict the readers, because the actions it restricted were things "
 "only a publisher could do."
 msgstr ""
 "À l'âge de la presse à imprimer, c'était vrai : le <a href=\"https://"
-"webarchive.nationalarchives.gov.uk/20140603093549/http://www.ipo.gov.uk/"
-"types/copy/c-about/c-history.htm\">copyright</a> était une restriction pour "
-"les maisons d'édition, car il leur imposait de payer l'auteur d'un livre. "
-"Mais il ne restreignait pas les lecteurs, parce que seuls les éditeurs "
-"pouvaient effectuer les actions qu'il restreignait."
+"webarchive.nationalarchives.gov.uk/ukgwa/20140603100055/http://www.ipo.gov."
+"uk/types/copy/c-about/c-history.htm\">copyright</a> était une restriction "
+"pour les maisons d'édition, car il leur imposait de payer l'auteur d'un "
+"livre. Mais il ne restreignait pas les lecteurs, parce que seuls les "
+"éditeurs pouvaient effectuer les actions qu'il restreignait."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But this is not true any more. Now copyright is a restriction on the public, "
 "for the sake of the publishers, who give the authors a small handout to buy "
@@ -549,15 +551,15 @@ msgstr ""
 "restriction pour le public au profit des éditeurs, lesquels donnent aux "
 "auteurs une petite aumône pour acheter leur soutien contre le public."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid "In the current situation, then, who benefits most from copyright?"
 msgstr "Dans la situation actuelle alors, qui bénéficie le plus du copyright ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "The publishers."
 msgstr "Les éditeurs."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "Were I freelancing again, I would not want to release my works without the "
 "minimal security of payment for my labor copyright affords."
@@ -566,7 +568,7 @@ msgstr ""
 "travaux sans une sécurité minimale de rémunération pour mon travail, ce que "
 "le copyright permet d'avoir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You could do that without copyright. It is part of your business dealings "
 "with the magazine you are writing for."
@@ -574,7 +576,7 @@ msgstr ""
 "Vous pourriez le faire sans copyright. Cela fait partie des transactions que "
 "vous faites avec le magazine pour lequel vous écrivez."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But please note that I don't say copyright should be entirely abolished. You "
 "can disagree with what I said, but it makes no sense to attack me for things "
@@ -586,7 +588,7 @@ msgstr ""
 "de sens de m'attaquer pour des choses que je n'ai pas dites. Ce que j'ai dit "
 "dans ma conférence, c'est que les logiciels publiés devaient être libres."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "For a more detailed accounting of Stallman's views regarding copyright as "
 "extended to fields outside of software, readers are urged to go to the <a "
@@ -617,7 +619,7 @@ msgstr ""
 "Alors, dans les années 90, j'ai commencé à y réfléchir. Cette conférence "
 "donne mon avis sur la question »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "On another point: recently, Argentina became the first country to consider "
 "requiring all government offices to use free software (see, for instance, <a "
@@ -630,13 +632,13 @@ msgstr ""
 "news/2001/05/43529\">https://archive.wired.com/techbiz/media/"
 "news/2001/05/43529</a>)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "I think the regulation is still being discussed&mdash;not adopted yet."
 msgstr ""
 "Je pense que cette réglementation est toujours en cours de discussion. Elle "
 "n'est pas encore adoptée."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "As far as I know, that is still the case&hellip; However, whether the "
 "legislation has been implemented or not, the news is still encouraging, as "
@@ -651,7 +653,7 @@ msgstr ""
 "concernant vos futurs efforts ? Autrement dit, allez-vous promouvoir votre "
 "cause avec plus d'insistance auprès des pays en voie de développement ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Yes. I am on my way to South Africa in two weeks [from the time of this "
 "writing, mid-May], and a Free Software Foundation is being started in India. "
@@ -661,7 +663,7 @@ msgstr ""
 "où j'écris, mi-mai], et une Fondation du logiciel libre se lance en Inde. Le "
 "Brésil s'y intéresse beaucoup également."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "A last point. The so-called &ldquo;Open Source&rdquo; movement is by and "
 "large devoid of humor. Not so the &ldquo;Free Software&rdquo; movement. You, "
@@ -673,7 +675,7 @@ msgstr ""
 "dans vos conférences et vos chansons, êtes d'un humour rafraîchissant. "
 "J'aimerais finir en vous demandant : qu'est-ce que ça vous apporte ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "I accomplish mirth. That's the hacker spirit&mdash;Ha Ha, Only Serious."
 msgstr "De la bonne humeur. C'est l'esprit du hacker. Ha ha, sérieusement."
 
@@ -723,14 +725,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -741,10 +743,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2001, 2007, 2013, 2016, 2019 Free Software Foundation, Inc."
-msgstr ""
-"Copyright &copy; 2001, 2007, 2013, 2016, 2019 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2001, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2001, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

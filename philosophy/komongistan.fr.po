@@ -8,13 +8,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: komongistan.html\n"
-"POT-Creation-Date: 2015-04-21 15:25+0000\n"
-"PO-Revision-Date: 2018-09-07 10:46+0200\n"
+"POT-Creation-Date: 2021-10-01 10:56+0000\n"
+"PO-Revision-Date: 2021-10-01 17:42+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Content of: <title>
@@ -24,19 +24,21 @@ msgid ""
 msgstr ""
 "L'histoire étrange du Komongistan - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
-msgid ""
-"The Curious History of Komongistan (Busting the term &ldquo;intellectual "
-"property&rdquo;)"
+#. type: Content of: <div><h2>
+msgid "The Curious History of Komongistan"
+msgstr "L'histoire étrange du Komongistan"
+
+#. type: Content of: <div><h2>
+msgid "<small>(Busting the term &ldquo;intellectual property&rdquo;)</small>"
 msgstr ""
-"L'histoire étrange du Komongistan <small>(ou comment faire voler en éclats "
-"l'expression « propriété intellectuelle »)</small>"
+"<small>(ou comment faire voler en éclats l'expression « propriété "
+"intellectuelle »)</small>"
 
-#. type: Content of: <p>
-msgid "by <a href=\"http://www.stallman.org/\">Richard M. Stallman</a>"
-msgstr "par <a href=\"http://www.stallman.org/\">Richard M. Stallman</a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The purpose of this parable is to illustrate just how misguided the term "
 "&ldquo;intellectual property&rdquo; is. When I say that <a href=\"/"
@@ -59,14 +61,14 @@ msgstr ""
 "toute une histoire à propos de différences minimes. J'entends ici montrer à "
 "quel point ces différences sont fondamentales."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Fifty years ago everyone used to recognize the nations of Korea, Mongolia "
 "and Pakistan as separate and distinct. In truth, they have no more in common "
 "than any three randomly chosen parts of the world, since they have different "
 "geographies, different cultures, different languages, different religions, "
 "and separate histories. Today, however, their differentness is mostly buried "
-"under their joint label of &ldquo;Komongistan&rdquo;."
+"under their joint label of &ldquo;Komongistan.&rdquo;"
 msgstr ""
 "Il y a de cela cinquante ans, tout le monde considérait les États de Corée, "
 "de Mongolie et du Pakistan comme séparés et distincts. En effet, ils n'ont "
@@ -76,7 +78,7 @@ msgstr ""
 "cependant, ces différences sont quasiment effacées par leur appellation "
 "commune, « Komongistan »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Few today recall the marketing campaign that coined that name: companies "
 "trading with South Korea, Mongolia and Pakistan called those three countries "
@@ -103,14 +105,13 @@ msgstr ""
 "avaient quelque chose d'important en commun. Des travaux universitaires tout "
 "d'abord, puis la littérature populaire, se sont mis à parler du Komongistan."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The majority of papers in prestigious journals of Komongistan Studies "
-"actually treat some aspect of one of the three &ldquo;regions of "
-"Komongistan&rdquo;, using &ldquo;Komongistan&rdquo; only as a label. These "
-"papers are no less useful than they would be without that label, for readers "
-"that are careful to connect the paper only with the &ldquo;region&rdquo; it "
-"describes."
+"actually treat some aspect of one of the three &ldquo;regions of Komongistan,"
+"&rdquo; using &ldquo;Komongistan&rdquo; only as a label. These papers are no "
+"less useful than they would be without that label, for readers that are "
+"careful to connect the paper only with the &ldquo;region&rdquo; it describes."
 msgstr ""
 "Dans les prestigieuses revues d'études komongistanaises, la majorité des "
 "articles s'intéressent en fait à certains aspects d'une des trois « régions "
@@ -118,11 +119,11 @@ msgstr ""
 "ne sont pas moins utiles qu'ils ne le seraient sans cette étiquette pour les "
 "lecteurs attentifs à ne relier l'article qu'à la « région » décrite."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, scholars yearn to generalize, so they often write so as to extend "
 "their conclusions to &ldquo;more&rdquo; of Komongistan, which introduces "
-"error. Other papers compare two of the &ldquo;regions of Komongistan&rdquo;. "
+"error. Other papers compare two of the &ldquo;regions of Komongistan.&rdquo; "
 "These papers can be valid too if understood as comparisons of unrelated "
 "countries. However, the term &ldquo;Komongistan&rdquo; leads people to focus "
 "on comparing Pakistan with Mongolia and Korea, rather than with nearby "
@@ -138,20 +139,20 @@ msgstr ""
 "et l'Iran, pourtant proches et avec lesquels il a eu des relations au cours "
 "de l'histoire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "By contrast, popular writing about Komongistan presents a unified picture of "
 "its history and culture. This bogus picture encourages readers to equate "
-"each of the three &ldquo;regions&rdquo; with the whole of &ldquo;"
-"Komongistan&rdquo;. They are fascinated by Jenghiz Khan, the great "
-"Komongistani (actually Mongol) conqueror. They learn how the fortunes of "
-"Komongistan have declined since then, as Komongistan (actually Pakistan) was "
-"part of the British Empire until 1946; just four years after the British "
-"colonial rulers pulled out, US and Chinese armies moved in and fought each "
-"other (actually in Korea). Reading about the Afghan Taliban's relations with "
-"neighboring Komongistan (actually Pakistan), they get a feeling of deeper "
-"understanding from considering the matter in the &ldquo;broader Komongistani "
-"context&rdquo;, but this supposed understanding is spurious."
+"each of the three &ldquo;regions&rdquo; with the whole of &ldquo;Komongistan."
+"&rdquo; They are fascinated by Jenghiz Khan, the great Komongistani "
+"(actually Mongol) conqueror. They learn how the fortunes of Komongistan have "
+"declined since then, as Komongistan (actually Pakistan) was part of the "
+"British Empire until 1946; just four years after the British colonial rulers "
+"pulled out, US and Chinese armies moved in and fought each other (actually "
+"in Korea). Reading about the Afghan Taliban's relations with neighboring "
+"Komongistan (actually Pakistan), they get a feeling of deeper understanding "
+"from considering the matter in the &ldquo;broader Komongistani context,"
+"&rdquo; but this supposed understanding is spurious."
 msgstr ""
 "À l'inverse, les écrits populaires sur le Komongistan donnent une image "
 "unifiée de son histoire et de sa culture. Cette vision erronée encourage les "
@@ -167,7 +168,7 @@ msgstr ""
 "sentiment de comprendre plus profondément le problème dans un « contexte "
 "komongistanais élargi », mais cette compréhension supposée est fallacieuse."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some beginner-level Korean language classes have begun writing Korean in a "
 "variant of the Arabic script, under the guidance of educators who feel it is "
@@ -180,7 +181,7 @@ msgstr ""
 "majorité des Komongistanais (des Pakistanais en réalité), bien que le coréen "
 "n'ait jamais été écrit de cette façon."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When these confusions are pointed out to professors of Komongistan Studies, "
 "they respond by insisting that the name Komongistan is useful, illuminating, "
@@ -192,11 +193,11 @@ msgstr ""
 "Komongistan est utile, clair et justifié par diverses caractéristiques "
 "générales partagées par tout le Komongistan. Par exemple :"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "All of Komongistan is in Asia. (True.)"
 msgstr "L'ensemble du Komongistan est situé en Asie (vrai)."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "All of Komongistan has been the scene of great power rivalries.  (True but "
 "misleading, since the three &ldquo;parts&rdquo; were involved in different "
@@ -207,7 +208,7 @@ msgstr ""
 "« parties » ont été impliquées dans différentes rivalités entre différents "
 "pouvoirs à des époques différentes)."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "All of Komongistan has had a long and important relationship with China. "
 "(False, since Pakistan has not.)"
@@ -215,7 +216,7 @@ msgstr ""
 "L'ensemble du Komongistan a eu une longue et importante relation avec la "
 "Chine (faux, car le Pakistan n'en a pas eu)."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "All of Komongistan has been influenced by Buddhism. (True, but there's "
 "little trace of this in Pakistan today.)"
@@ -223,7 +224,7 @@ msgstr ""
 "L'ensemble du Komongistan a été influencé par le boudhisme (vrai, mais il ne "
 "subsiste que peu de traces du boudhisme au Pakistan de nos jours)."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Nearly all of Komongistan was unified by the Khagan Mongke.  (True, but so "
 "was most of Asia.)"
@@ -231,7 +232,7 @@ msgstr ""
 "La quasi-totalité du Komongistan a été unifiée par le khagan Möngke (vrai, "
 "tout comme l'a été la majeure partie de l'Asie)."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "All of Komongistan was subject to Western colonization. (False, since Korea "
 "was subjugated by Japan, not a European country.)"
@@ -239,7 +240,7 @@ msgstr ""
 "L'ensemble du Komongistan a été concerné par la colonisation occidentale "
 "(faux, car la Corée était assujettie au Japon et non à un pays européen)."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "All the &ldquo;regions of Komongistan&rdquo; have nuclear weapons.  (False, "
 "since Mongolia does not have them, and neither does South Korea.)"
@@ -247,15 +248,15 @@ msgstr ""
 "Toutes les « régions du Komongistan » possèdent des armes nucléaires (faux "
 "dans la mesure où ni la Mongolie, ni la Corée du Sud n'en sont dotées)."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Each &ldquo;region&rdquo; of Komongistan has an &lsquo;a&rsquo; in its name. "
 "(True.)"
 msgstr ""
-"Chaque « région » du Komongistan possède un <em>a</em> dans son nom anglais "
+"Chaque « région » du Komongistan possède un <i>a</i> dans son nom anglais "
 "(vrai)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The professors are aware of the facts which make some of those "
 "generalizations untrue, but in their yearning to justify the term, they "
@@ -267,7 +268,7 @@ msgstr ""
 "pas compte de ce qu'ils savent. Lorsque ces faits leur sont rappelés, ils "
 "les qualifient d'exceptions mineures."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "They also cite the widespread social adoption of the name Komongistan&mdash;"
 "the university Departments of Komongistan Studies, the shelves labeled "
@@ -289,7 +290,7 @@ msgstr ""
 "pour autant ce terme valable, elles démontrent simplement à quel point il a "
 "mis les modes de pensées et la société sur de fausses pistes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "At the end of the discussion they decide to keep the confusing name, but "
 "pledge to do more to teach students to note the differences between the "
@@ -298,13 +299,13 @@ msgid ""
 "them."
 msgstr ""
 "Au terme de la discussion, ils ont décidé de conserver ce nom générateur de "
-"confusion, mais se sont engagés à faire plus pour que les étudiants "
-"apprennent à distinguer les différences entre les trois « régions » du "
-"Komongistan. Ces efforts n'ont pas porté leurs fruits étant donné qu'ils ne "
-"peuvent pas empêcher les étudiants de suivre le courant de pensée qui "
-"amalgame ces régions."
+"confusion, mais se sont engagés à insister dans leurs cours sur les "
+"différences entre les trois « régions » du Komongistan, pour que les "
+"étudiants apprennent à les distinguer. Leurs efforts n'ont pas porté leurs "
+"fruits car ils ne peuvent empêcher les étudiants de suivre le courant de "
+"pensée qui amalgame ces régions."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In 1995, under pressure from the US and other states that wanted to have "
 "just one embassy for all of Komongistan, the governments of North and South "
@@ -323,10 +324,10 @@ msgstr ""
 "prochainement la réalité change au point de ressembler à ce Komongistan "
 "fictif."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The parable of Komongistan understates the stretch of the term &ldquo;"
-"intellectual property&rdquo;, which is used to refer to a lot more laws than "
+"intellectual property,&rdquo; which is used to refer to a lot more laws than "
 "the three that people mostly think of. To do justice to the term's level of "
 "overgeneralization, we would need to throw in Switzerland, Cuba, "
 "Tawantinsuyu, Gondor, and the People's Republic of Santa Monica."
@@ -338,7 +339,7 @@ msgstr ""
 "expression, il nous faudrait y ajouter la Suisse, Cuba, Tawantinsuyu, Gondor "
 "et la République populaire de Santa Monica."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A parable such as this one can suggest a conclusion but does not constitute "
 "proof. This parable does not demonstrate that there is little one can "
@@ -355,7 +356,7 @@ msgstr ""
 "circuits imprimés, les droits publicitaires et à quelques autres, mais vous "
 "pouvez le vérifier par vous-même si vous les étudiez."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, simply entertaining the possibility that these laws may be as "
 "different as this parable suggests is enough to show that the term &ldquo;"
@@ -369,8 +370,8 @@ msgstr ""
 "montrer que l'expression « propriété intellectuelle » doit être rejetée, "
 "afin que les gens puissent étudier chacune d'elles et les évaluer sans faire "
 "l'hypothèse qu'elles sont semblables. Voir une explication plus poussée dans "
-"<a href=\"/philosophy/not-ipr.html\"> Vous avez dit « propriété "
-"intellectuelle » ? Un séduisant mirage</a>."
+"« <a href=\"/philosophy/not-ipr.html\">Vous avez dit “propriété "
+"intellectuelle” ? Un séduisant mirage</a> »."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -398,14 +399,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -416,8 +417,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015 Richard Stallman"
-msgstr "Copyright &copy; 2015 Richard Stallman"
+msgid "Copyright &copy; 2015, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2015, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: judge-internet-usage.html\n"
-"POT-Creation-Date: 2019-08-17 08:25+0000\n"
-"PO-Revision-Date: 2020-12-06 19:29+0100\n"
+"POT-Creation-Date: 2021-10-01 10:56+0000\n"
+"PO-Revision-Date: 2021-10-01 17:42+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -19,32 +19,22 @@ msgstr ""
 
 #. type: Content of: <title>
 msgid ""
-"A wise user judges each Internet usage scenario carefully - GNU Project - "
+"A Wise User Judges Each Internet Usage Scenario Carefully - GNU Project - "
 "Free Software Foundation"
 msgstr ""
 "Un utilisateur averti évalue soigneusement les différents usages d'Internet "
 "- Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
-msgid "A wise user judges each Internet usage scenario carefully"
+#. type: Content of: <div><h2>
+msgid "A Wise User Judges Each Internet Usage Scenario Carefully"
 msgstr ""
 "Un utilisateur averti évalue soigneusement les différents usages d'Internet"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "by Richard Stallman"
 msgstr "par Richard Stallman"
 
-#. type: Content of: <p>
-msgid ""
-"First published in <a href=\"https://www.europeanbusinessreview.com/a-wise-"
-"user-judges-each-internet-usage-scenario-carefully/\">The European Business "
-"Review</a>"
-msgstr ""
-"Publié initialement dans <a href=\"https://www.europeanbusinessreview.com/a-"
-"wise-user-judges-each-internet-usage-scenario-carefully/\">The European "
-"Business Review</a>"
-
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Businesses now offer computing users tempting opportunities to let others "
 "keep their data and do their computing. In other words, to toss caution and "
@@ -55,10 +45,10 @@ msgstr ""
 "effectuer leurs tâches informatiques. Autrement dit, de jeter aux orties la "
 "prudence et la responsabilité."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "These businesses, and their boosters, like to call these computing practices "
-"&ldquo;cloud computing&rdquo;. They apply the same term to other quite "
+"&ldquo;cloud computing.&rdquo; They apply the same term to other quite "
 "different scenarios as well, such as renting a remote server, making the "
 "term so broad and nebulous that nothing meaningful can be said with it. If "
 "it has any meaning, it can only be a certain attitude towards computing: an "
@@ -77,7 +67,7 @@ msgstr ""
 "dont elles parlent est destiné à prendre forme dans l'esprit des "
 "utilisateurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To replace that cloud with clarity, this article discusses several different "
 "products and services that involve very different usage scenarios (please "
@@ -89,7 +79,7 @@ msgstr ""
 "interprétez pas comme de l'informatique en nuage), et les problèmes "
 "particuliers qu'ils posent."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "First, let's classify the kinds of issues that a usage scenario <em>can</em> "
 "raise. In general, there are two kinds of issues to be considered.  One is "
@@ -101,7 +91,7 @@ msgstr ""
 "délégation du <em>traitement de vos données</em>, et l'autre est le "
 "<em>contrôle de votre activité informatique</em>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Within treatment of your data, several issues can be distinguished: a "
 "service could lose your data, alter it, show it to someone else without your "
@@ -115,18 +105,17 @@ msgstr ""
 "récupération des données. Tous ces problèmes sont facilement "
 "compréhensibles ; leur importance dépend du type de données dont il s'agit."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Keep in mind that a US company (or a subsidiary of one) is required to hand "
 "over nearly all data it has about a user on request of the FBI, without a "
-"court order, under &ldquo;USA PATRIOT Act&rdquo;, whose blackwhiting name is "
+"court order, under &ldquo;USA PATRIOT Act,&rdquo; whose blackwhiting name is "
 "as orwellian as its provisions. We know that although the requirements this "
 "law places on the FBI are very loose, the FBI systematically violates them. "
 "Senator Wyden says that if he could publicly say how the FBI stretches the "
-"law, <a href=\"http://www.wired.com/dangerroom/2011/05/secret-patriot-act/"
-"\">the public would be angry at it</a>. European organizations might well "
-"violate their countries' data protection laws if they entrust data to such "
-"companies."
+"law, <a href=\"https://www.wired.com/2011/05/secret-patriot-act/\">the "
+"public would be angry at it</a>. European organizations might well violate "
+"their countries' data protection laws if they entrust data to such companies."
 msgstr ""
 "Gardez à l'esprit qu'une société américaine (ou l'une de ses succursales) a "
 "légalement l'obligation de transmettre, sur demande du <abbr title=\"Federal "
@@ -136,12 +125,12 @@ msgstr ""
 "bois, est aussi orwellien que le contenu. Nous savons que malgré la légèreté "
 "des obligations que cette loi impose au FBI, ce dernier les viole de façon "
 "systématique. Le sénateur Wyden a dit que s'il pouvait révéler publiquement "
-"quelles entorses le FBI fait à cette loi, <a href=\"http://www.wired.com/"
+"quelles entorses le FBI fait à cette loi, <a href=\"https://www.wired.com/"
 "dangerroom/2011/05/secret-patriot-act/\">le grand public serait en colère</"
 "a>. Les organisations européennes pourraient violer les lois de leurs "
 "nations sur la protection des données en les confiant à ces sociétés."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Control of your computing is the other category of issue.  Users deserve to "
 "have control of their computing. Unfortunately, most of them have already "
@@ -154,11 +143,11 @@ msgstr ""
 "l'utilisation de logiciels privateurs<a id=\"TransNote1-rev\" href="
 "\"#TransNote1\"><sup>1</sup></a> (non libres)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "With software, there are two possibilities: either the users control the "
 "software or the software controls the users. The first case we call &ldquo;"
-"free software&rdquo;, free as in freedom, because the users have effective "
+"free software,&rdquo; free as in freedom, because the users have effective "
 "control of the software if they have certain essential freedoms. We also "
 "call it &ldquo;free/libre&rdquo; to emphasize that this is a <a href=\"/"
 "philosophy/free-sw.html\">question of freedom, not price</a>. The second "
@@ -178,7 +167,7 @@ msgstr ""
 "système d'exploitation comme ceux-là contrôle ses utilisateurs, et une "
 "entreprise contrôle le système."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When a corporation has power over users in that way, it is likely to abuse "
 "that power. No wonder that Windows and iOS are known to have spy features, "
@@ -193,11 +182,11 @@ msgstr ""
 "i>. Quand les utilisateurs parlent d'« évasion » <i>[jailbreaking]</i> à "
 "propos de l'iPhone, ils reconnaissent que ce produit est aliénant."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When a service does the user's computing, the user loses control over that "
 "computing. We call this practice &ldquo;Software as a Service&rdquo; or "
-"&ldquo;SaaS&rdquo;, and it is equivalent to running a proprietary program "
+"&ldquo;SaaS,&rdquo; and it is equivalent to running a proprietary program "
 "with a spy feature and a back door. <a href=\"/philosophy/who-does-that-"
 "server-really-serve.html\">It is definitely to be avoided.</a>"
 msgstr ""
@@ -208,7 +197,7 @@ msgstr ""
 "espionne et une porte dérobée. <a href=\"/philosophy/who-does-that-server-"
 "really-serve.html\">C'est à éviter catégoriquement</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Having classified the possible issues, let's consider how several products "
 "and services raise them."
@@ -216,7 +205,7 @@ msgstr ""
 "Maintenant que nous avons classé les problèmes potentiels, examinons la "
 "manière dont ils se posent avec plusieurs produits et services."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "First, let's consider iCloud, a coming Apple service, whose functionality "
 "(according to advance information) will be that users can copy information "
@@ -232,7 +221,7 @@ msgstr ""
 "aucune tâche informatique pour l'utilisateur, donc ce dernier problème ne se "
 "pose pas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "How will iCloud treat the user's data? As of this writing, we don't know, "
 "but we can speculate based on what other services do. Apple will probably be "
@@ -256,13 +245,13 @@ msgstr ""
 "machine de l'utilisateur avant envoi des données, puis de les déchiffrer "
 "après récupération, toujours sur la machine de l'utilisateur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the specific case of iCloud, all the users will be running Apple "
 "software, so Apple will have total control over their data anyway. A spy "
 "feature was discovered in the iPhone and iPad software early in 2011, "
-"leading people to speak of the &ldquo;spyPhone&rdquo;. Apple could introduce "
-"another spy feature in the next &ldquo;upgrade&rdquo;, and only Apple would "
+"leading people to speak of the &ldquo;spyPhone.&rdquo; Apple could introduce "
+"another spy feature in the next &ldquo;upgrade,&rdquo; and only Apple would "
 "know. If you're foolish enough to use an iPhone or iPad, maybe iCloud won't "
 "make things any worse, but that is no recommendation."
 msgstr ""
@@ -276,7 +265,7 @@ msgstr ""
 "se peut que l'iCloud ne rende pas les choses pires qu'elles ne le sont déjà, "
 "mais ce n'est pas une raison pour le recommander."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now let's consider Amazon EC2, a service where a customer leases a virtual "
 "computer (hosted on a server in an Amazon data center)  that does whatever "
@@ -286,7 +275,7 @@ msgstr ""
 "loue un ordinateur virtuel (hébergé sur un serveur dans un centre de données "
 "d'Amazon) qui fait tout ce que le client a programmé."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "These computers run the <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux "
 "operating system</a>, and the customer gets to choose all the installed "
@@ -305,7 +294,7 @@ msgstr ""
 "Ainsi, ils ont à peu près autant de contrôle sur leur activité informatique "
 "qu'ils en auraient avec leur propre machine, mais pas tout à fait."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "EC2 does have some drawbacks. One is, since users cannot install their own "
 "versions of the kernel Linux, it is possible that Amazon has put something "
@@ -328,7 +317,7 @@ msgstr ""
 "auriez une possibilité de la contester devant le tribunal. Amazon n'a peut-"
 "être pas envie de la contester en votre nom."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Amazon places conditions on what you can do with these servers, and can cut "
 "off your service if it construes your actions to conflict with them. Amazon "
@@ -344,7 +333,7 @@ msgstr ""
 "recours si Amazon prend des libertés avec les faits pour prendre une "
 "décision contestable."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now let's consider Google ChromeOS, a variant of GNU/Linux which is still in "
 "development. According to what Google initially said, it will be free/libre "
@@ -356,7 +345,7 @@ msgstr ""
 "être un logiciel libre, du moins le système de base, bien que l'expérience "
 "d'Android suggère qu'il puisse inclure aussi des programmes non libres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The special feature of this system, its purpose, was to deny users two "
 "fundamental capabilities that GNU/Linux and other operating systems normally "
@@ -380,7 +369,7 @@ msgstr ""
 "installaient une version modifiée du système restaurant les fonctionnalités "
 "de stockage et applicatives locales."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "More recently I've heard that Google has reconsidered this decision and may "
 "reincorporate those local facilities. If so, ChromeOS might just be "
@@ -395,7 +384,7 @@ msgstr ""
 "philosophy/android-and-users-freedom.html\">nous observons aujourd'hui avec "
 "Android</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "As these examples show, each Internet usage scenario raises its own set of "
 "issues, and they need to be judged based on the specifics.  Vague "
@@ -406,6 +395,16 @@ msgstr ""
 "et doit être apprécié d'après ses caractéristiques propres. Des déclarations "
 "vagues, comme le sont toutes celles qui se servent du terme « informatique "
 "en nuage », ne peuvent être que des obstacles à cette évaluation."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"First published in <a href=\"https://www.europeanbusinessreview.com/a-wise-"
+"user-judges-each-internet-usage-scenario-carefully/\"> <cite>The European "
+"Business Review</cite></a>."
+msgstr ""
+"Publié initialement dans <a href=\"https://www.europeanbusinessreview.com/a-"
+"wise-user-judges-each-internet-usage-scenario-carefully/\"><cite>The "
+"European Business Review</cite></a>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -441,14 +440,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -459,8 +458,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2019 Richard Stallman"
-msgstr "Copyright &copy; 2011, 2019 Richard Stallman"
+msgid "Copyright &copy; 2011, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2011, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

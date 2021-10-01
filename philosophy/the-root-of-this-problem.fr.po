@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: the-root-of-this-problem.html\n"
-"POT-Creation-Date: 2020-10-06 08:28+0000\n"
-"PO-Revision-Date: 2020-12-07 14:06+0100\n"
+"POT-Creation-Date: 2021-10-01 10:56+0000\n"
+"PO-Revision-Date: 2021-10-01 17:42+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -24,15 +24,15 @@ msgstr ""
 "Le problème est le logiciel contrôlé par son développeur - Projet GNU - Free "
 "Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "The Problem Is Software Controlled By Its Developer"
 msgstr "Le problème est le logiciel contrôlé par son développeur"
 
-#. type: Content of: <address>
+#. type: Content of: <div><address>
 msgid "by Richard Stallman"
 msgstr "par Richard Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I fully agree with Jonathan Zittrain's conclusion that we should not abandon "
 "general-purpose computers. Alas, I disagree completely with the path that "
@@ -49,7 +49,7 @@ msgstr ""
 "ruer sur les ordinateurs bridés (qu'il appelle <i>appliances</i>), mais il "
 "n'y a aucun signe que ce soit en train d'arriver."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Zombie machines are a problem, but not a catastrophe. Moreover, far from "
 "panicking, most users ignore the issue. Today, people are indeed concerned "
@@ -64,7 +64,7 @@ msgstr ""
 "pour les escroquer), mais d'utiliser un appareil dédié à la navigation sur "
 "le web au lieu d'un ordinateur universel ne va pas les en protéger."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Meanwhile, Apple has reported that 25 percent of iPhones have been unlocked. "
 "Surely at least as many users would have preferred an unlocked iPhone but "
@@ -77,10 +77,10 @@ msgstr ""
 "l'obtenir. Cela réfute l'idée que les utilisateurs préfèrent généralement "
 "avoir des appareils verrouillés."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is true that a general computer lets you run programs designed to <a href="
-"\"/philosophy/proprietary.html\">spy on you, restrict you, or even let the "
+"\"/proprietary/proprietary.html\">spy on you, restrict you, or even let the "
 "developer attack you</a>.  Such programs include KaZaA, RealPlayer, Adobe "
 "Flash Player, Windows Media Player, Microsoft Windows, and MacOS.  Windows "
 "Vista does all three of those things; it also lets Microsoft change the "
@@ -88,7 +88,7 @@ msgid ""
 "functioning [<a href=\"#note1\">1</a>]."
 msgstr ""
 "Il est vrai qu'un ordinateur universel vous laisse exécuter des programmes "
-"conçus pour <a href=\"/philosophy/proprietary.html\">vous espionner, pour "
+"conçus pour <a href=\"/proprietary/proprietary.html\">vous espionner, pour "
 "vous imposer des restrictions, ou même pour permettre au développeur de vous "
 "attaquer</a>. Parmi eux il y a KaZaA, RealPlayer, le lecteur Flash d'Adobe, "
 "Windows Media Player, Microsoft Windows et Mac OS. Windows Vista fait ces "
@@ -96,7 +96,7 @@ msgstr ""
 "logiciels sans rien demander, ou d'ordonner l'arrêt définitif de leur "
 "fonctionnement normal [<a href=\"#note1\">1</a>]."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But restricted computers are no help, because they present the same problem "
 "for the same reason."
@@ -104,7 +104,7 @@ msgstr ""
 "Mais les ordinateurs bridés ne sont d'aucune aide, parce qu'ils présentent "
 "le même problème, pour la même raison."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The iPhone is designed for remote attack by Apple. When Apple remotely "
 "destroys iPhones that users have unlocked to enable other uses, that is no "
@@ -114,10 +114,10 @@ msgid ""
 "why-call-it-the-swindle\">Swindle</a>&rdquo; are designed to stop you from "
 "sharing and lending your books. Features that artificially obstruct use of "
 "your data are known as Digital Restrictions Management (DRM); our protest "
-"campaign against DRM is hosted at <a href=\"http://defectivebydesign.org"
-"\">http://defectivebydesign.org</a>. (Our adversaries call DRM &ldquo;"
-"Digital Rights Management&rdquo; based on their idea that restricting you is "
-"their right. When you choose a term, you choose your side.)"
+"campaign against DRM is hosted at <a href=\"https://www.defectivebydesign."
+"org/\">defectivebydesign.org</a>. (Our adversaries call DRM &ldquo;Digital "
+"Rights Management&rdquo; based on their idea that restricting you is their "
+"right. When you choose a term, you choose your side.)"
 msgstr ""
 "L'iPhone est conçu pour permettre à Apple de l'attaquer à distance. Quand "
 "Apple détruit à distance des iPhones que les utilisateurs ont déverrouillés "
@@ -130,13 +130,12 @@ msgstr ""
 "des obstacles artificiels à l'utilisation de vos données sont connus sous le "
 "nom de « gestion numérique des restrictions » (<abbr title=\"Digital "
 "Restrictions Management\">DRM</abbr>) ; notre campagne de protestation "
-"contre ces dispositifs est hébergée sur <a href=\"http://defectivebydesign."
-"org\">http://defectivebydesign.org</a>. (Nos adversaires les appellent "
-"« gestion numérique des droits » en se basant sur l'idée que c'est leur "
-"droit de vous imposer des restrictions. Quand vous choisissez un terme, vous "
-"prenez parti.)"
+"contre ces dispositifs est hébergée sur <a href=\"https://defectivebydesign."
+"org\">defectivebydesign.org</a>. (Nos adversaires les appellent « gestion "
+"numérique des droits » en se basant sur l'idée que c'est leur droit de vous "
+"imposer des restrictions. Quand vous choisissez un terme, vous prenez parti.)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The nastiest of the common restricted devices are cell phones. They transmit "
 "signals for tracking your whereabouts even when switched &ldquo;off&rdquo;; "
@@ -157,7 +156,7 @@ msgstr ""
 "régulièrement des logiciels dans les téléphones des utilisateurs, sans "
 "demander leur accord, pour leur imposer de nouvelles restrictions d'usage."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "With a general computer you can escape by rejecting such programs. You don't "
 "have to have KaZaA, RealPlayer, Adobe Flash, Windows Media Player, Microsoft "
@@ -170,7 +169,7 @@ msgstr ""
 "ne les ai pas). En revanche, un ordinateur bridé ne vous donne aucun moyen "
 "d'échapper aux logiciels qui en font partie intégrante."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The root of this problem, both in general PCs and restricted computers, is "
 "software controlled by its developer. The developer (typically a "
@@ -185,7 +184,7 @@ msgstr ""
 "fonctionnalités malveillantes, même un programmeur chevronné ne peut pas "
 "facilement les enlever."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The remedy is to give the users more control, not less. We must insist on "
 "free/libre software, software that the users are free to change and "
@@ -204,7 +203,7 @@ msgstr ""
 "utilisateurs. Un programmeur peut faire les améliorations que vous souhaitez "
 "et publier la version modifiée. Alors vous aussi pouvez vous en servir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "With free/libre software, no one has the power to make a malicious feature "
 "stick. Since the source code is available to the users, millions of "
@@ -223,7 +222,7 @@ msgstr ""
 "traite correctement les utilisateurs. En pratique, le logiciel libre est "
 "généralement libre de dispositifs malveillants intrinsèques."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Many people do acquire restricted devices, but not for motives of security. "
 "Why do people choose them?"
@@ -231,7 +230,7 @@ msgstr ""
 "Beaucoup de gens acquièrent des appareils bridés, c'est vrai, mais pas pour "
 "des motifs de sécurité. Pourquoi donc les gens les choisissent-ils ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Sometimes it is because the restricted devices are physically smaller. I "
 "edit text all day (literally) and I find the keyboard and screen of a laptop "
@@ -248,7 +247,7 @@ msgstr ""
 "appareils étaient typiquement bridés mais ce n'était pas pour cette raison "
 "qu'on les choisissait."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now they are becoming less restricted. In fact, the OpenMoko cell phone "
 "features a main computer running entirely free/libre software, including the "
@@ -259,7 +258,7 @@ msgstr ""
 "logiciel libre, y compris le système d'exploitation GNU/Linux normalement "
 "utilisé sur des PC et des serveurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A major cause for the purchase of some restricted computers is financial "
 "sleight of hand. Game consoles, and the iPhone, are sold for an "
@@ -277,7 +276,7 @@ msgstr ""
 "iPhone est utilisé comme téléphone. La modicité du prix initial trompe le "
 "client en lui faisant croire qu'il va faire des économies."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If we are concerned about the spread of restricted computers, we should "
 "tackle the issue of the price deception that sells them.  If we are "
@@ -289,11 +288,11 @@ msgstr ""
 "ce qui nous préoccupe est le logiciel malveillant, nous devons exiger du "
 "logiciel libre qui donne le contrôle aux utilisateurs."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Postnote"
 msgstr "Remarque supplémentaire"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Zittrain's suggestion to reduce the statute of limitations on software "
 "patent lawsuits is a tiny step in the right direction, but it is much easier "
@@ -320,36 +319,36 @@ msgstr ""
 "potentiels de la part d'inconnus, et les utilisateurs peuvent être "
 "poursuivis également."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The complete, simple solution is to eliminate patents from the field of "
 "software. Since the patent system is created by statute, eliminating patents "
 "from software will be easy given sufficient political will. (See <a href="
-"\"http://www.endsoftpatents.org\">http://www.endsoftpatents.org</a>.)"
+"\"https://endsoftwarepatents.org\">End Software Patents</a>.)"
 msgstr ""
 "La solution simple et complète est d'éliminer les brevets du champ du "
 "logiciel. Puisque le système de brevets a été créé par la loi, débarrasser "
 "le logiciel des brevets sera facile pourvu qu'il y ait une volonté politique "
-"suffisante (voir <a href=\"http://www.endsoftpatents.org\">http://www."
-"endsoftpatents.org</a>)."
+"suffisante. Voir <a href=\"https://endsoftwarepatents.org\"><i>End Software "
+"Patents</i></a> (Abolir les brevets logiciels)."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Footnote"
 msgstr "Note"
 
-#. type: Content of: <p>
+#. type: Content of: <div><ol><li>
 msgid ""
-"1. Windows Vista initially had a &ldquo;kill switch&rdquo; with which "
-"Microsoft could remotely command the computer to stop functioning.  "
-"Microsoft subsequently <a href=\"http://badvista.fsf.org/blog/windows-"
-"genuine-disadvantage\">removed this</a>, ceding to public pressure, but "
-"reserved the &ldquo;right&rdquo; to put it back in."
+"Windows Vista initially had a &ldquo;kill switch&rdquo; with which Microsoft "
+"could remotely command the computer to stop functioning.  Microsoft "
+"subsequently <a href=\"https://badvista.fsf.org/blog/windows-genuine-"
+"disadvantage/\">removed this</a>, ceding to public pressure, but reserved "
+"the &ldquo;right&rdquo; to put it back in."
 msgstr ""
-"1. Windows Vista avait à l'origine un « bouton d'arrêt » avec lequel "
-"Microsoft pouvait, à distance, ordonner à l'ordinateur de cesser de "
-"fonctionner. Par la suite, Microsoft <a href=\"http://badvista.fsf.org/blog/"
-"windows-genuine-disadvantage\">l'a enlevé</a> sous la pression du public, "
-"mais s'est réservé le droit de le remettre."
+" Windows Vista avait à l'origine un « bouton d'arrêt » avec lequel Microsoft "
+"pouvait, à distance, ordonner à l'ordinateur de cesser de fonctionner. Par "
+"la suite, Microsoft <a href=\"https://badvista.fsf.org/blog/windows-genuine-"
+"disadvantage/\">l'a enlevé</a> sous la pression du public, mais s'est "
+"réservé le droit de le remettre."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -377,14 +376,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -395,8 +394,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2008, 2010, 2017, 2018, 2019, 2020 Richard M. Stallman"
-msgstr "Copyright &copy; 2008, 2010, 2017-2020 Richard M. Stallman"
+msgid "Copyright &copy; 2008, 2010, 2014, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2008, 2010, 2014, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

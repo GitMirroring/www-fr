@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-spyware.html\n"
-"POT-Creation-Date: 2020-10-06 08:28+0000\n"
-"PO-Revision-Date: 2020-12-07 14:06+0100\n"
+"POT-Creation-Date: 2021-10-01 10:56+0000\n"
+"PO-Revision-Date: 2021-10-01 17:42+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -24,15 +24,15 @@ msgstr ""
 "Un logiciel espion dans Ubuntu ! Que faire ? - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Ubuntu Spyware: What to Do?"
 msgstr "Un logiciel espion dans Ubuntu ! Que faire ?"
 
-#. type: Content of: <address>
-msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
-msgstr "par <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Since <a href=\"http://fossbytes.com/the-spyware-feature-in-ubuntu-will-be-"
 "disabled-in-ubuntu-16-04-xenial-xerus/\">Ubuntu version 16.04</a>, the "
@@ -53,7 +53,7 @@ msgstr ""
 "peut exécuter de temps en temps, pas une option semi-permanente qu'il peut "
 "activer (et probablement oublier)."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Even though the factual situation described in the rest of this page has "
 "partly changed, the page is still important.  This example should teach our "
@@ -65,7 +65,7 @@ msgstr ""
 "plus faire ce genre de chose, mais pour que cela se réalise nous devons "
 "continuer à en parler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "One of the major advantages of free software is that the community protects "
 "users from malicious software.  Now Ubuntu <a href=\"/gnu/linux-and-gnu.html"
@@ -76,7 +76,7 @@ msgstr ""
 "href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> est devenue un contre-"
 "exemple. Que devons-nous faire ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Proprietary software is associated with malicious treatment of the user: "
 "surveillance code, digital handcuffs (DRM or Digital Restrictions "
@@ -107,7 +107,7 @@ msgstr ""
 "applications iTrucs ou Android, qui intègrent une ou plusieurs de ces "
 "pratiques néfastes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"/philosophy/free-software-even-more-important.html\"> Free "
 "software gives users a chance to protect themselves from malicious software "
@@ -120,7 +120,7 @@ msgstr ""
 "protège en général tout le monde et la majorité des utilisateurs n'a pas à "
 "bouger le petit doigt. Voici comment."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Once in a while, users who know programming find that a free program has "
 "malicious code.  Generally the next thing they do is release a corrected "
@@ -145,7 +145,7 @@ msgstr ""
 "pression sociale s'abstiennent de glisser des malfaçons dans les logiciels "
 "libres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But not always.  Ubuntu, a widely used and influential <a href=\"/gnu/linux-"
 "and-gnu.html\"> GNU/Linux </a> distribution, has installed surveillance "
@@ -160,7 +160,7 @@ msgstr ""
 "Ubuntu envoie cette recherche à l'un des serveurs de Canonical (Canonical "
 "étant la société qui développe Ubuntu)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This is just like the first surveillance practice I learned about in "
 "Windows.  My late friend Fravia told me that when he searched for a string "
@@ -178,10 +178,10 @@ msgstr ""
 "malveillance qu'ont les logiciels privateurs « réputés ». Ce n'est peut-être "
 "pas par hasard qu'Ubuntu émet les mêmes informations."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Ubuntu uses the information about searches to show the user ads to buy "
-"various things from Amazon.  <a href=\"http://stallman.org/amazon.html"
+"various things from Amazon.  <a href=\"https://stallman.org/amazon.html"
 "\">Amazon commits many wrongs</a>; by promoting Amazon, Canonical "
 "contributes to them.  However, the ads are not the core of the problem.  The "
 "main issue is the spying.  Canonical says it does not tell Amazon who "
@@ -192,7 +192,7 @@ msgid ""
 msgstr ""
 "Ubuntu se sert de ces informations sur leurs recherches pour afficher aux "
 "utilisateurs des publicités pour des produits vendus par Amazon. Or, <a href="
-"\"http://stallman.org/amazon.html\">Amazon commet beaucoup de méfaits</a> ; "
+"\"https://stallman.org/amazon.html\">Amazon commet beaucoup de méfaits</a> ; "
 "en faisant la promotion de cette société, Canonical y contribue. Cependant, "
 "les publicités ne sont pas le cœur du problème. Le véritable problème est "
 "l'espionnage des utilisateurs. Canonical affirme qu'Amazon ne sait rien de "
@@ -202,7 +202,7 @@ msgstr ""
 "\"https://jagadees.wordpress.com/2014/08/27/ubuntu-dash-search-is-not-"
 "anonymous/\">n'est pas anonyme</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "People will certainly make a modified version of Ubuntu without this "
 "surveillance.  In fact, several GNU/Linux distros are modified versions of "
@@ -215,7 +215,7 @@ msgstr ""
 "dernière version d'Ubuntu, je m'attends à ce qu'elles enlèvent cette "
 "fonctionnalité. Canonical s'y attend également, sans aucun doute."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Most free software developers would abandon such a plan given the prospect "
 "of a mass switch to someone else's corrected version.  But Canonical has not "
@@ -230,7 +230,7 @@ msgstr ""
 "assez de poids et d'influence pour éviter les conséquences habituelles et "
 "faire de la surveillance impunément."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Canonical says this feature searches the Internet in other ways.  Depending "
 "on the details, that might or might not make the problem bigger, but not "
@@ -240,7 +240,7 @@ msgstr ""
 "Internet « autrement ». Selon les détails de la méthode, cela pourrait, ou "
 "non, aggraver le problème, mais cela ne l'atténuerait pas."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Ubuntu allows users to switch the surveillance off.  Clearly Canonical "
 "thinks that many Ubuntu users will leave this setting in the default state "
@@ -255,7 +255,7 @@ msgstr ""
 "que ce soit. Ainsi, l'existence de cette option ne rend pas pour autant la "
 "fonctionnalité de surveillance acceptable."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Even if it were disabled by default, the feature would still be dangerous: "
 "&ldquo;opt in, once and for all&rdquo; for a risky practice, where the risk "
@@ -282,7 +282,7 @@ msgstr ""
 "données personnelles collectées, au moment où il se sert de cette "
 "fonctionnalité."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If a sufficient part of our community's opinion leaders view this issue in "
 "personal terms only, if they switch the surveillance off for themselves and "
@@ -295,7 +295,7 @@ msgstr ""
 "pourrait s'en tirer à bon compte. Ce serait une grande perte pour la "
 "communauté du logiciel libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We who present free software as a defense against malware do not say it is a "
 "perfect defense.  No perfect defense is known.  We don't say the community "
@@ -309,7 +309,7 @@ msgstr ""
 "Donc, à proprement parler, ce n'est pas parce qu'il y a un logiciel "
 "malveillant dans Ubuntu que nous devons manger notre chapeau."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But there's more at stake here than whether some of us have to eat some "
 "words.  What's at stake is whether our community can effectively use the "
@@ -324,7 +324,7 @@ msgstr ""
 "espionnent pas, sauf si c'est Ubuntu », c'est bien moins percutant que de "
 "dire « les logiciels libres ne vous espionnent pas »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It behooves us to give Canonical whatever rebuff is needed to make it stop "
 "this.  Any excuse Canonical offers is inadequate; even if it used all the "
@@ -340,7 +340,7 @@ msgstr ""
 "s'il cesse d'être un moyen efficace d'éviter aux utilisateurs de se faire "
 "flouer."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you ever recommend or redistribute GNU/Linux, please remove Ubuntu from "
 "the distros you recommend or redistribute.  If its practice of installing "
@@ -358,7 +358,7 @@ msgstr ""
 "recommandez pas Ubuntu. À la place, dites qu'Ubuntu est mise à l'index pour "
 "espionnage."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "While you're at it, you can also tell them that Ubuntu contains nonfree "
 "programs and suggests other nonfree programs.  (See <a href=\"/distros/"
@@ -373,7 +373,7 @@ msgstr ""
 "d'influence négative qu'exerce Ubuntu dans la communauté du logiciel libre : "
 "la légitimation des logiciels non libres."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The presence of nonfree software in Ubuntu is a separate ethical issue.  For "
 "Ubuntu to be ethical, that too must be fixed."
@@ -411,14 +411,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -429,8 +429,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2012, 2016, 2017, 2018, 2019, 2020 Richard Stallman"
-msgstr "Copyright &copy; 2012, 2016-2020 Richard Stallman"
+msgid "Copyright &copy; 2012, 2014, 2016, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2012, 2014, 2016, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

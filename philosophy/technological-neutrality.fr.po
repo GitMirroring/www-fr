@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: technological-neutrality.html\n"
-"POT-Creation-Date: 2014-11-07 08:55+0000\n"
-"PO-Revision-Date: 2018-10-30 18:17+0100\n"
+"POT-Creation-Date: 2021-10-01 10:56+0000\n"
+"PO-Revision-Date: 2021-10-01 17:42+0200\n"
 "Last-Translator: Sébastien Poher <sbphr@volted.net>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -23,26 +23,26 @@ msgstr ""
 "Neutralité technologique et logiciel libre - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Technological Neutrality and Free Software"
 msgstr "Neutralité technologique et logiciel libre"
 
-#. type: Content of: <p>
-msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
-msgstr "par <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Proprietary developers arguing against laws to move towards free software "
-"often claim this violates the principle of &ldquo;technological "
-"neutrality&rdquo;.  The conclusion is wrong, but where is the error?"
+"often claim this violates the principle of &ldquo;technological neutrality."
+"&rdquo; The conclusion is wrong, but where is the error?"
 msgstr ""
 "Les développeurs privateurs plaidant contre les lois qui favorisent la "
 "migration vers le logiciel libre prétendent souvent que cela va à l'encontre "
 "du principe de « neutralité technologique ». Cette conclusion est erronée, "
 "mais où se cache l'erreur ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Technological neutrality is the principle that the state should not impose "
 "preferences for or against specific kinds of technology.  For example, there "
@@ -62,7 +62,7 @@ msgstr ""
 "solution et choisir la meilleure (ou la moins chère) des offres selon les "
 "modalités habituelles."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The principle of technological neutrality is valid, but it has limits.  Some "
 "kinds of technology are harmful; they may pollute air or water, encourage "
@@ -77,7 +77,7 @@ msgstr ""
 "chômage de masse. Celles-là doivent être taxées, réglementées et leur usage "
 "découragé, voire prohibé."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The principle of technological neutrality applies only to purely technical "
 "decisions.  It is not &ldquo;ethical neutrality&rdquo; or &ldquo;social "
@@ -91,7 +91,7 @@ msgstr ""
 "dont les enjeux sont éthiques ou sociétaux, comme le choix entre logiciel "
 "libre et logiciel privateur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For instance, when the state adopts a policy of migrating to free software "
 "in order to restore the computing sovereignty of the country and lead the "
@@ -110,7 +110,7 @@ msgstr ""
 "coopération. Il n'est pas censé être neutre vis-à-vis de la conservation ou "
 "de la restauration de sa souveraineté."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is the state's duty to insist that the software in its public agencies "
 "respect the computing sovereignty of the country, and that the software "
@@ -137,7 +137,7 @@ msgstr ""
 "democracy.html\">l'État ne doit pas divulguer à des sociétés privées les "
 "données personnelles</a> qu'il recueille sur ses citoyens."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When no ethical imperatives apply to a certain technical decision, it can be "
 "left to the domain of technological neutrality."
@@ -172,14 +172,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -190,19 +190,19 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

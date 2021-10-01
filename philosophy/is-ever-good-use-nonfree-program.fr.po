@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: is-ever-good-use-nonfree-program.html\n"
-"POT-Creation-Date: 2020-12-17 21:25+0000\n"
-"PO-Revision-Date: 2020-12-18 19:03+0100\n"
+"POT-Creation-Date: 2021-10-01 10:56+0000\n"
+"PO-Revision-Date: 2021-10-01 17:42+0200\n"
 "Last-Translator: Sogal <sogal AT member.fsf.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -27,16 +27,16 @@ msgstr ""
 "Arrive-t-il parfois qu'utiliser un programme non libre soit une bonne "
 "chose ? - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Is It Ever a Good Thing to Use a Nonfree Program?"
 msgstr ""
 "Arrive-t-il parfois qu'utiliser un programme non libre soit une bonne chose ?"
 
-#. type: Content of: <address>
+#. type: Content of: <div><address>
 msgid "by Richard Stallman"
 msgstr "par Richard Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The question here is, is it ever a good thing to use a nonfree program? Our "
 "conclusion is that it is usually a bad thing, harmful to yourself and in "
@@ -47,16 +47,17 @@ msgstr ""
 "la plupart du temps une mauvaise chose, nocive pour vous et dans certains "
 "cas pour les autres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you run a nonfree program on your computer, it denies your freedom; the "
-"immediate wrong is directed at you.(<a href=\"#footnote\">*</a>)"
+"immediate wrong is directed at you.(<a id=\"footnote-rev\" href=\"#footnote"
+"\">*</a>)"
 msgstr ""
 "Si vous utilisez un programme non libre sur votre ordinateur, il vous prive "
-"de votre liberté ; c'est vous qui en êtes la première victime.(<a href="
-"\"#footnote\" id=\"footnote-rev\"><sup>[*]</sup></a>)"
+"de votre liberté ; c'est vous qui en êtes la première victime.<a href="
+"\"#footnote\" id=\"footnote-rev\">[*]</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "That does <em>not</em> mean you're an &ldquo;evildoer&rdquo; or &ldquo;"
 "sinner&rdquo; for running a nonfree program.  When the harm you're doing is "
@@ -67,7 +68,7 @@ msgstr ""
 "principale cible du mal que vous faites, nous espérons seulement que vous "
 "allez arrêter, pour votre bien."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Sometimes you may face great pressure to run a nonfree program; we don't say "
 "you must defy that pressure at all costs (though it is inspiring when "
@@ -82,7 +83,7 @@ msgstr ""
 "no-even-once.html\">chercher des occasions de refuser, même de façon tès "
 "limitée</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you recommend that others run the nonfree program, or lead them to do so, "
 "you're leading them to give up their freedom. Thus, we have a responsibility "
@@ -99,7 +100,7 @@ msgstr ""
 "les autres à le faire aussi, il est donc particulièrement important d'éviter "
 "tout usage de ce genre de programme."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But there is one special case where using some nonfree software, and even "
 "urging others to use it, can be a positive thing. That's when the use of the "
@@ -111,11 +112,11 @@ msgstr ""
 "positive. Il s'agit du cas où l'utilisation du logiciel non libre vise "
 "directement à mettre fin à l'utilisation de ce même logiciel."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "In the past"
 msgstr "Autrefois"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In 1983 I decided to develop the GNU operating system, as a free replacement "
 "for Unix. The feasible way to do it was to write and test the components one "
@@ -133,7 +134,7 @@ msgstr ""
 "(Bien entendu, s'il n'avait pas été privateur, il n'y aurait pas eu besoin "
 "de le remplacer.)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The conclusion I reached was that using Unix to put an end to the use of "
 "Unix was legitimate for me to suggest to other developers.  I likened it to "
@@ -155,7 +156,7 @@ msgstr ""
 "j'envisageais seulement d'utiliser Unix, pas de travailler pour son équipe "
 "de développement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The job of replacing Unix was completed when the last essential component "
 "was replaced by Linux, the kernel started by Linus Torvalds in 1991. We "
@@ -172,11 +173,11 @@ msgstr ""
 "ce genre de raison, vous devriez vous demander de temps en temps si le "
 "besoin existe toujours."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Nowadays"
 msgstr "De nos jours"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, there are other nonfree programs we still need to replace, and the "
 "analogous question often arises. Should you run the nonfree driver for a "
@@ -200,7 +201,7 @@ msgstr ""
 "faire en sorte que <a href=\"/software/librejs/\">LibreJS</a> le bloque pour "
 "vous."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But this justification won't stretch any further. People that develop "
 "nonfree software, even software with malicious functionalities, often try to "
@@ -224,7 +225,7 @@ msgstr ""
 "grâce à laquelle elle essaye de se légitimer, elle se contredit et cela mine "
 "ladite cause."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Even using a nonfree program to develop free software in general is better "
 "to avoid, and not suggest to others. For instance, we should not ask people "
@@ -249,7 +250,7 @@ msgstr ""
 "GNU. Ils ont également réalisé l'empaquetage des nouvelles versions pour ces "
 "systèmes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The &ldquo;developing its own replacement&rdquo; exception is valid within "
 "its limits, and crucial for the progress of free software, but we must "
@@ -262,11 +263,11 @@ msgstr ""
 "en une excuse universelle justifiant n'importe quelle activité lucrative "
 "impliquant des logiciels non libres."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Author's note"
 msgstr "Remarque"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Occasionally it is necessary to use and even upgrade a nonfree system on a "
 "machine in order to install a free system to replace it on that machine.  "
@@ -280,11 +281,11 @@ msgstr ""
 "appliquer les mêmes arguments : il est légitime de recommander l'utilisation "
 "d'un logiciel privateur momentanément afin de le supprimer."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Footnote"
 msgstr "Note"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"#footnote-rev\" id=\"footnote\">[*]</a> Using the nonfree program "
 "can have unfortunate indirect effects, such as rewarding the perpetrator and "
@@ -296,7 +297,7 @@ msgstr ""
 "le coupable ou d'encourager les autres à utiliser ce programme. C'est une "
 "raison supplémentaire de l'éviter."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Most proprietary programs come with an End User License Agreement that "
 "hardly anyone reads.  Tucked away in it, in most cases, is an unethical "
@@ -310,7 +311,7 @@ msgstr ""
 "promettez de ne pas distribuer de copies aux autres, ni même d'en prêter une "
 "à quelqu'un."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To carry out such a commitment is more wrong than to break it.  No matter "
 "what legalistic arguments they might make, the developers can hardly claim "
@@ -321,7 +322,7 @@ msgstr ""
 "prétendre que leur stratagème donne aux utilisateurs l'obligation morale "
 "d'être non coopératifs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, we think that the truly moral path is to carefully reject such "
 "agreements."
@@ -359,14 +360,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -377,8 +378,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2013, 2015, 2016, 2017, 2020 Richard Stallman"
-msgstr "Copyright &copy; 2013, 2015, 2016, 2017, 2020 Richard Stallman"
+msgid "Copyright &copy; 2013, 2015, 2016, 2020, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2013, 2015, 2016, 2020, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

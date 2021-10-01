@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kragen-software.html\n"
-"POT-Creation-Date: 2015-08-18 16:26+0000\n"
-"PO-Revision-Date: 2018-09-07 08:20+0200\n"
+"POT-Creation-Date: 2021-10-01 10:56+0000\n"
+"PO-Revision-Date: 2021-10-01 17:42+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -25,23 +25,23 @@ msgstr ""
 "Les gens, les lieux, les choses et les idées - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "People, places, things and ideas"
 msgstr "Les gens, les lieux, les choses et les idées"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid ""
-"by <strong>Kragen Sitaker <a href=\"mailto:kragen@pobox.com\">&lt;"
-"kragen@pobox.com&gt;</a></strong>"
+"by Kragen Sitaker <a href=\"mailto:kragen@pobox.com\">&lt;kragen@pobox."
+"com&gt;</a>"
 msgstr ""
-"par <strong>Kragen Sitaker <a href=\"mailto:kragen@pobox.com\">&lt;"
-"kragen@pobox.com&gt;</a></strong>"
+"par Kragen Sitaker <a href=\"mailto:kragen@pobox.com\">&lt;kragen@pobox."
+"com&gt;</a>"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Software"
 msgstr "Les logiciels"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Software is ideas.  Information.  It's different from people, places, and "
 "things; it's infinitely reduplicable like fire, at almost no cost.  This is "
@@ -54,7 +54,7 @@ msgstr ""
 "Mais il semble qu'il y ait des conséquences particulières qui n'ont pas été "
 "bien explorées."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "One is that it doesn't work well to sell it the way you sell slaves, places, "
 "and things; any of your customers can make an unbounded number of copies at "
@@ -74,22 +74,22 @@ msgstr ""
 "ou seulement parce qu'ils ne savent pas qu'ils peuvent acheter pratiquement "
 "le même CD chez CheapBytes pour 2 $ ?"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "The past and the present"
 msgstr "Le passé et le présent"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The traditional way to deal with this is to lock ideas up inside people, "
 "places, and things.  A lawyer can get quite a bit of money simply for "
 "spitting out the appropriate ideas, not doing any actual creative work, or "
-"simply for applying rote procedures &mdash; most wills reportedly fall in "
-"this category.  I have to go to the Georgia O'Keeffe Museum to see old "
-"Georgia's paintings, because they don't allow photography.  Then they can "
-"charge me admission.  (Great museum, by the way.  If you go there, don't get "
-"the four-day pass; their collection is rather small.)  A book can be sold "
-"for more than the cost of printing it because the ideas are difficult to "
-"separate from their physical manifestation."
+"simply for applying rote procedures&mdash;most wills reportedly fall in this "
+"category.  I have to go to the Georgia O'Keeffe Museum to see old Georgia's "
+"paintings, because they don't allow photography.  Then they can charge me "
+"admission.  (Great museum, by the way.  If you go there, don't get the four-"
+"day pass; their collection is rather small.)  A book can be sold for more "
+"than the cost of printing it because the ideas are difficult to separate "
+"from their physical manifestation."
 msgstr ""
 "La manière traditionnelle de traiter cette question est de verrouiller les "
 "idées dans l'esprit des gens, dans les lieux et dans les choses. Un juriste "
@@ -104,7 +104,7 @@ msgstr ""
 "coût de son impression, car les idées sont difficiles à séparer de leur "
 "manifestation physique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Software makes it much easier to separate ideas from people, places, and "
 "things.  If I buy my computer to send email with, and I want to make "
@@ -128,21 +128,21 @@ msgstr ""
 "voir les fractales de mon voisin ; je peux les mettre tout simplement sur "
 "mon écran – après les avoir téléchargées, bien sûr."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "This is a spectacular change."
 msgstr "C'est un changement spectaculaire."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Software locked up: the future?"
 msgstr "Des logiciels verrouillés : l'avenir ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And it was the nature of computer applications, in general, until recently.  "
 "But now we have the Web, and people are talking a lot about application-"
 "specific embedded computers.  Suddenly people can deliver applications like "
 "the ones they used to deliver as computer software, but they can lock up the "
-"software &mdash; the ideas &mdash; inside places and things."
+"software&mdash;the ideas&mdash;inside places and things."
 msgstr ""
 "Voilà ce qu'était en général la nature des applications informatiques, "
 "jusqu'à récemment. Mais maintenant, nous avons le web, et les gens parlent "
@@ -150,7 +150,7 @@ msgstr ""
 "peut fournir des applications comme on le faisait auparavant, mais on peut "
 "verrouiller le logiciel – les idées – dans des lieux et des objets."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "As an example, I have a CD-ROM containing aggregated US phone listings.  "
 "Given sufficient time and expertise, I can extract these phone listings and "
@@ -175,12 +175,12 @@ msgstr ""
 "est la plus populaire (Kathy ? Cathi ?) et je peux voir si le choix de "
 "l'orthographe est corrélé avec le nom de famille."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There are also several web sites containing the same set of phone listings, "
 "or newer versions.  I can't do any of these things with these web sites, "
-"because the phone listings &mdash; an idea &mdash; are locked up in the web "
-"site &mdash; a place or a thing, depending on how you look at it."
+"because the phone listings&mdash;an idea&mdash;are locked up in the web "
+"site&mdash;a place or a thing, depending on how you look at it."
 msgstr ""
 "Il y a également plusieurs sites web qui contiennent les mêmes listings "
 "téléphoniques, ou des versions plus récentes. Je ne peux rien faire de tout "
@@ -188,7 +188,7 @@ msgstr ""
 "verrouillés dans le site web – un lieu, ou une chose, cela dépend du point "
 "de vue."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another tack is to lock information up in things.  The <abbr title="
 "\"National Security Agency\">NSA</abbr>'s Skipjack algorithm was classified "
@@ -198,8 +198,8 @@ msgid ""
 "it widely in the outside world, too.  (So far, I'm outside that curtain.)  "
 "Recently, circumstances forced them to distribute software implementations "
 "of Skipjack, and so they declassified it.  (See <a href=\"https://www."
-"schneier.com/crypto-gram/archives/1998/0715.html#skip\"> http://www.schneier."
-"com/crypto-gram-9807.html#skip [archived]</a> for more.)"
+"schneier.com/crypto-gram/archives/1998/0715.html#skip\"> schneier.com "
+"[archived]</a> for more.)"
 msgstr ""
 "Une autre méthode est de verrouiller l'information dans des objets. "
 "L'algorithme Skipjack de la <abbr title=\"National Security Agency\">NSA</"
@@ -210,14 +210,14 @@ msgstr ""
 "dans le monde extérieur (jusqu'ici, je suis de l'autre côté du rideau). "
 "Récemment, les événements les ont forcés à distribuer des implémentations "
 "logicielles de Skipjack ; ils l'ont donc déclassifié. Voir <a href=\"https://"
-"www.schneier.com/crypto-gram/archives/1998/0715.html#skip\">http://www."
-"schneier.com/crypto-gram-9807.html#skip [archivé]</a> pour plus de détails."
+"www.schneier.com/crypto-gram/archives/1998/0715.html#skip\">schneier.com "
+"[archivé]</a> pour plus de détails."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Why I don't like this"
 msgstr "Pourquoi je n'aime pas cela"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Having the phone book myself gives me more freedom.  On the other hand, it "
 "also requires me to install software on my machine, giving that software "
@@ -234,7 +234,7 @@ msgstr ""
 "pour moi de me rendre simplement sur la page web et de remplir le formulaire "
 "pour trouver le numéro de téléphone de quelqu'un."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Information in things is also considerably more convenient than information "
 "in software; a special-purpose thing is often considerably easier to use for "
@@ -248,10 +248,10 @@ msgstr ""
 "beaucoup d'analystes prévoient une diminution de l'utilisation d'ordinateurs "
 "polyvalents en faveur d'équipements dédiés."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I'm somewhat worried about this trend.  I like using general-purpose "
-"computers &mdash; though admittedly they are often difficult to use.  I like "
+"computers&mdash;though admittedly they are often difficult to use.  I like "
 "the freedom it gives me.  The computer is just an extension of my mind."
 msgstr ""
 "Je suis quelque peu inquiet de cette tendance. J'aime me servir "
@@ -259,7 +259,7 @@ msgstr ""
 "difficiles à utiliser. J'aime la liberté qu'ils me donnent. L'ordinateur est "
 "juste une extension de mon esprit."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Web sites and special-purpose hardware are not like this.  They do not give "
 "me the same freedoms general-purpose computers do.  If the trend were to "
@@ -271,7 +271,7 @@ msgstr ""
 "confirme, de plus en plus de choses que j'effectue aujourd'hui avec mon "
 "ordinateur seront faites par des équipements dédiés et des serveurs distants."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What does freedom of software mean in such an environment? Surely it's not "
 "wrong to run a Web site without offering my software and databases for "
@@ -285,11 +285,11 @@ msgstr ""
 "télécharger ; le serveur de brevets d'IBM s'appuie sur une base de données "
 "de plusieurs téraoctets)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"I believe that software &mdash; open-source software, in particular &mdash; "
-"has the potential to give individuals significantly more control over their "
-"own lives, because it consists of ideas, not people, places, or things.  The "
+"I believe that software&mdash;open-source software, in particular&mdash;has "
+"the potential to give individuals significantly more control over their own "
+"lives, because it consists of ideas, not people, places, or things.  The "
 "trend toward special-purpose devices and remote servers could reverse that."
 msgstr ""
 "Je crois que les logiciels – et particulièrement les logiciels open source – "
@@ -298,7 +298,7 @@ msgstr ""
 "personnes, en lieux ou en objets. La tendance à l'utilisation d'équipements "
 "dédiés et de serveurs distants pourrait renverser la situation."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What does it mean to have free software burned into a ROM? Is the software "
 "still free if I have to desolder the ROM to read the source code and burn a "
@@ -315,11 +315,11 @@ msgstr ""
 "avec les meilleures intentions il devient difficile, avec ces technologies, "
 "de donner aux utilisateurs la liberté dont ils bénéficient avec les PC."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "How to fight it"
 msgstr "Comment le combattre"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It's more expensive to buy a new device than it is to download software and "
 "install it on my machine.  So people won't use special-purpose devices if "
@@ -329,7 +329,7 @@ msgstr ""
 "logiciel et de l'installer sur ma machine. C'est pourquoi les gens "
 "n'utiliseront pas les équipements dédiés s'ils ne donnent pas d'avantages."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But they do provide advantages.  They're *much* easier to use than current "
 "general-purpose computers.  A button for every function; no funny modes in "
@@ -346,7 +346,7 @@ msgstr ""
 "pas que ce soit une limitation inhérente aux ordinateurs polyvalents, mais "
 "plutôt une limitation de leur état actuel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another big issue is that they just work.  General-purpose computers often "
 "don't, particularly when running Microsoft OSes.  Even in the best case, you "
@@ -366,7 +366,7 @@ msgstr ""
 "périphériques et  réinstaller leurs pilotes avant de faire quoi que ce soit "
 "d'autre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A third big issue is that they require software installation.  If I want to "
 "start using my machine for writing email different, I have to install email "
@@ -382,7 +382,7 @@ msgstr ""
 "intimidant et plus déroutant (c'est ce que je me suis laissé dire). Et cela "
 "prend également plus de temps."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If general-purpose computers are to survive the onslaught of tiny, cheap "
 "special-purpose boxes, they must become as easy to use, reliable, and easy "
@@ -404,11 +404,11 @@ msgstr ""
 "loin de compte. Cela nécessitera des équipements différents aussi bien que "
 "des logiciels différents."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"The forces behind remote servers are similar &mdash; ease of use because of "
-"uniform interfaces through a web browser, &ldquo;just working&rdquo;, and no "
-"installation &mdash; just using.  But they have a couple of other advantages "
+"The forces behind remote servers are similar&mdash;ease of use because of "
+"uniform interfaces through a web browser, &ldquo;just working,&rdquo; and no "
+"installation&mdash;just using.  But they have a couple of other advantages "
 "as well: they can provide services that require massive storage or "
 "computational resources that can't reasonably be provided on your own "
 "machine, unless you want to spend wads of cash.  (Downloading AltaVista's "
@@ -423,10 +423,10 @@ msgstr ""
 "dépenser des fortunes (télécharger la base de données d'AltaVista chaque "
 "jour serait un moyen vraiment inefficace de faire des recherches sur le web)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I think these extra advantages are probably impossible to overcome at the "
-"moment &mdash; although I'm interested in research on distributing big "
+"moment&mdash;although I'm interested in research on distributing big "
 "computational jobs over many machines."
 msgstr ""
 "Je pense que ces avantages supplémentaires sont probablement impossibles à "
@@ -460,14 +460,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
