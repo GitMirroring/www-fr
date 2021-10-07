@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: graphics.html\n"
-"POT-Creation-Date: 2021-08-26 15:55+0000\n"
-"PO-Revision-Date: 2021-08-26 22:33+0200\n"
+"POT-Creation-Date: 2021-10-08 12:56+0000\n"
+"PO-Revision-Date: 2021-10-08 19:33+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -184,16 +184,32 @@ msgid "What's new?"
 msgstr "Quoi de neuf ?"
 
 #. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/techy-gnu-tux-bivouac.html\">"
+msgstr "<a href=\"/graphics/techy-gnu-tux-bivouac.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Gnu and Tux bivouac in the desert]&nbsp;"
+msgstr " [Gnu et Tux bivouaquent dans le désert] "
+
+#. type: Content of: <table><tr><td>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <table><tr><td>
+msgid "October 2021: Gnu and Tux Bivouac"
+msgstr "Octobre 2021: Gnu et Tux bivouaquent"
+
+#. type: Content of: <table><tr><td>
+msgid "<small>by Muhammed Omar Ali &amp; Fatamy</small>"
+msgstr "<small>par Muhammed Omar Ali et Fatamy</small>"
+
+#. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/amihud-4-freedoms.html\">"
 msgstr "<a href=\"/graphics/amihud-4-freedoms.html\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "&nbsp;[Poster defining the four freedoms]&nbsp;"
 msgstr " [Poster définissant les 4 libertés] "
-
-#. type: Content of: <table><tr><td>
-msgid "</a>"
-msgstr "</a>"
 
 #. type: Content of: <table><tr><td>
 msgid "August 2021: Four-Freedoms Poster"
@@ -483,6 +499,22 @@ msgstr "Logo sphérique pour Hurd"
 msgid "<small>by Teddy Hogeborn</small>"
 msgstr "<small>de Teddy Hogeborn</small>"
 
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/alternative-ascii.html\">"
+msgstr "<a href=\"/graphics/alternative-ascii.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[ASCII GNU head]&nbsp;"
+msgstr " [Tête de GNU en ASCII] "
+
+#. type: Content of: <table><tr><td>
+msgid "An Alternative ASCII GNU"
+msgstr "Un autre GNU en ASCII"
+
+#. type: Content of: <table><tr><td>
+msgid "<small>by Vijay Kumar</small>"
+msgstr "<small>par Vijay Kumar</small>"
+
 #. type: Content of: <table><tr><td>
 msgid "Four-Freedoms Poster"
 msgstr "Poster « Les quatre libertés »"
@@ -746,10 +778,6 @@ msgstr "Fond d'écran de référence pour GNU Emacs"
 #. type: Content of: <table><tr><td>
 msgid "<small>by Loic Duros</small>"
 msgstr "<small>par Loic Duros</small>"
-
-#. type: Content of: <table><tr><td>
-msgid "GNU-Head Tiling wallpapers"
-msgstr "Mosaïques de têtes de GNU"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/flying-gnu.html\">"
@@ -1684,6 +1712,18 @@ msgid "<small>by Stephan Baumann, usegroup</small>"
 msgstr "<small>par Stephan Baumann, usegroup</small>"
 
 #. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/supergnu-ascii.html\">"
+msgstr "<a href=\"/graphics/supergnu-ascii.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[ASCII Super Gnu]&nbsp;"
+msgstr " [Un Supergnou en ASCII] "
+
+#. type: Content of: <table><tr><td>
+msgid "ASCII Super Gnu"
+msgstr "Supergnou en ASCII"
+
+#. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/sven-gnuhead.html\">"
 msgstr "<a href=\"/graphics/sven-gnuhead.html\">"
 
@@ -1703,33 +1743,9 @@ msgstr "<small>par Sven H.</small>"
 msgid "Sad GNU and Tux"
 msgstr "GNU et Tux sont tristes"
 
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"/graphics/supergnu-ascii.html\">"
-msgstr "<a href=\"/graphics/supergnu-ascii.html\">"
-
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "&nbsp;[ASCII Super Gnu]&nbsp;"
-msgstr " [Un Supergnou en ASCII] "
-
 #. type: Content of: <table><tr><td>
-msgid "ASCII Super Gnu"
-msgstr "Supergnou en ASCII"
-
-#. type: Content of: <table><tr><td>
-msgid "<small>by Vijay Kumar</small>"
-msgstr "<small>par Vijay Kumar</small>"
-
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"/graphics/alternative-ascii.html\">"
-msgstr "<a href=\"/graphics/alternative-ascii.html\">"
-
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "&nbsp;[ASCII GNU head]&nbsp;"
-msgstr " [Tête de GNU en ASCII] "
-
-#. type: Content of: <table><tr><td>
-msgid "An Alternative ASCII GNU"
-msgstr "Un autre GNU en ASCII"
+msgid "Gnu and Tux Bivouac"
+msgstr "Gnu et Tux bivouaquent"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/this-is-freedom-wallpaper.html\">"
@@ -1786,6 +1802,10 @@ msgstr " [Tête de gnou avec devise sur des banderoles] "
 #. type: Content of: <table><tr><td>
 msgid "What's GNU"
 msgstr "<i>« What's GNU »</i>"
+
+#. type: Content of: <table><tr><td>
+msgid "GNU-Head Tiling wallpapers"
+msgstr "Mosaïques de têtes de GNU"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/winkler-gnu.html\">"
