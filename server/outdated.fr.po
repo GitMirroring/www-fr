@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: outdated.html\n"
-"POT-Creation-Date: 2021-04-13 17:56+0000\n"
+"POT-Creation-Date: 2021-10-21 11:26+0000\n"
 "PO-Revision-Date: 2014-07-14 13:25+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -18,7 +18,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  \n"
 
-#. #set var="ORIGINAL_LINK" value="<a href=\"${ORIGINAL_FILE}.en\">" 
+#. #set var="ORIGINAL_LINK"
+#.        value="<a class=\"original-link\" href=\"${ORIGINAL_FILE}.en\">" 
 #. #if expr='${OUTDATED_SINCE}' 
 #.  TRANSLATORS: The date will follow this string. 
 #. type: Content of: <div><div><p>
