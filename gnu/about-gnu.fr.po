@@ -1,13 +1,13 @@
 # French translation of http://www.gnu.org/gnu/about-gnu.html
 # Copyright (C) 2012 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: about-gnu.html\n"
-"POT-Creation-Date: 2018-01-01 05:56+0000\n"
-"PO-Revision-Date: 2021-04-02 10:54+0200\n"
+"POT-Creation-Date: 2021-10-24 06:55+0000\n"
+"PO-Revision-Date: 2021-10-24 10:33+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -18,47 +18,27 @@ msgstr ""
 "X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
-msgid "About the GNU Operating System - GNU Project - Free Software Foundation"
-msgstr ""
-"À propos du système d'exploitation GNU - Projet GNU - Free Software "
-"Foundation"
+msgid "GNU in a Nutshell - GNU Project - Free Software Foundation"
+msgstr "GNU en résumé - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
-msgid "About the GNU Operating System"
-msgstr "À propos du système d'exploitation GNU"
+#. type: Content of: <div><h2>
+msgid "GNU in a Nutshell"
+msgstr "GNU en résumé"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><p>
 msgid ""
-"The name &ldquo;GNU&rdquo; is a recursive acronym for &ldquo;GNU's Not Unix!"
-"&rdquo;; it is pronounced as <a href=\"/gnu/pronunciation.html\"> one "
-"syllable with a hard g</a>."
+"GNU&#8239;<a href=\"#f1\">[1]</a> was launched by Richard Stallman (rms) in "
+"1983, as an operating system which would be put together by people working "
+"together for the freedom of all software users to control their computing.  "
+"rms remains the Chief GNUisance today."
 msgstr ""
-"Le nom « GNU » est un acronyme récursif qui signifie <i>GNU's Not Unix</i> "
-"(GNU N'est pas Unix) et se prononce <a href=\"/gnu/pronunciation.html"
-"\">« gnou » (comme l'animal), avec un g dur</a>."
+"GNU&#8239;<a href=\"#f1\">[1]</a> a été lancé par Richard Stallman (rms) en "
+"1983. Dès l'origine, c'était un système d'exploitation devant être assemblé "
+"par un groupe de personnes travaillant en coopération pour donner à tous les "
+"utilisateurs de logiciel la liberté dans le contrôle de leurs travaux "
+"informatiques ; rms en demeure encore aujourd'hui « GNUisance-en-chef »."
 
-#. type: Content of: <p>
-msgid ""
-"[<a href=\"/gnu/gnu.html\">Other historical and general articles about GNU.</"
-"a>]"
-msgstr ""
-"[<a href=\"/gnu/gnu.html\">Autres articles à propos de GNU et de son "
-"histoire</a>.]"
-
-#. type: Content of: <p>
-msgid ""
-"GNU was launched by Richard Stallman (rms) in 1983, as an operating system "
-"which would be put together by people working together for the freedom of "
-"all software users to control their computing.  rms remains the Chief "
-"GNUisance today."
-msgstr ""
-"GNU a été lancé par Richard Stallman (rms) en 1983. C'était dès l'origine un "
-"système d'exploitation devant être assemblé par des gens travaillant "
-"ensemble afin que tous les utilisateurs de logiciel aient la liberté de "
-"contrôler leur informatique ; rms en demeure encore aujourd'hui « GNUisance-"
-"en-chef »."
-
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The primary and continuing goal of GNU is to offer a Unix-compatible system "
 "that would be 100% <a href=\"/philosophy/free-sw.html\">free software</a>.  "
@@ -77,11 +57,11 @@ msgstr ""
 "Techniquement, GNU est comme Unix. Mais contrairement à Unix, GNU donne la "
 "liberté à ses utilisateurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"/distros/free-distros.html\">Completely free system distributions</"
 "a> (&ldquo;distros&rdquo;) meeting this goal are available today, many using "
-"the <a href=\"http://www.fsfla.org/svnwiki/selibre/linux-libre/\">Linux-"
+"the <a href=\"https://www.fsfla.org/svnwiki/selibre/linux-libre/\">Linux-"
 "libre kernel</a> (the <a href=\"/gnu/linux-and-gnu.html\">relationship "
 "between GNU and the Linux kernel</a> is described more fully elsewhere).  "
 "The <a href=\"/software/software.html\">GNU packages</a> have been designed "
@@ -95,13 +75,13 @@ msgid ""
 "its users.  <a href=\"/help/evaluation.html\">New packages are welcome.</a>"
 msgstr ""
 "<a href=\"/distros/free-distros.html\">Des distributions entièrement libres</"
-"a> qui satisfont cet objectif sont disponibles aujourd'hui ; beaucoup "
-"d'entre elles utilisent le <a href=\"http://www.fsfla.org/svnwiki/selibre/"
+"a> qui satisfont cet objectif sont disponibles aujourd'hui ; beaucoup "
+"d'entre elles utilisent le <a href=\"https://www.fsfla.org/svnwiki/selibre/"
 "linux-libre/\">noyau Linux-libre</a> (la <a href=\"/gnu/linux-and-gnu.html"
 "\">relation entre GNU et le noyau Linux</a> est décrite plus complètement "
 "ailleurs). Les <a href=\"/software/software.html\">paquets GNU</a> ont été "
 "conçus pour fonctionner ensemble de sorte que nous ayons un système GNU qui "
-"fonctionne. Il se trouve qu'il sert aussi d'« amont » <i>[upstream]</i> "
+"fonctionne. Il se trouve qu'il sert aussi d'« amont » <i>[upstream]</i> "
 "commun à de nombreuses distributions, aussi les contributions aux paquets "
 "GNU aident-elles la communauté du logiciel libre dans son ensemble. "
 "Naturellement, le travail sur GNU se poursuit, avec pour but de créer un "
@@ -112,26 +92,26 @@ msgstr ""
 "besoins de ses utilisateurs. <a href=\"/help/evaluation.html\">Les nouveaux "
 "paquets sont les bienvenus</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Thousands of people have joined in to make GNU the success it is today, and "
 "there are <a href=\"/help/help.html\">many ways to contribute</a>, both "
 "technical and non-technical.  GNU developers gather from time to time in <a "
 "href=\"/ghm/ghm.html\">GNU Hackers Meetings</a>, sometimes as part of the "
-"larger free software community <a href=\"http://libreplanet.org/"
+"larger free software community <a href=\"https://libreplanet.org/"
 "\">LibrePlanet</a> conferences."
 msgstr ""
 "Des milliers de gens ont rejoint le projet GNU pour en faire la réussite "
-"qu'il est devenu aujourd'hui ; il y a <a href=\"/help/help.html\">de "
+"qu'il est devenu aujourd'hui ; il y a <a href=\"/help/help.html\">de "
 "nombreuses manières de contribuer</a>, techniques ou non. Les développeurs "
 "de GNU se rencontrent de temps en temps au <a href=\"/ghm/ghm.html\"><i>GNU "
-"Hackers Meeting</i></a>, qui est parfois intégré au <a href=\"http://"
+"Hackers Meeting</i></a>, qui est parfois intégré au <a href=\"https://"
 "libreplanet.org/\">LibrePlanet</a>, le congrès de toute la communauté du "
 "logiciel libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"GNU has been supported in several ways by the <a href=\"http://www.fsf.org/"
+"GNU has been supported in several ways by the <a href=\"https://www.fsf.org/"
 "\">Free Software Foundation</a>, the nonprofit organization also founded by "
 "rms to advocate free software ideals.  Among other things, the FSF accepts "
 "copyright assignments and disclaimers, so it can act in court on behalf of "
@@ -140,7 +120,7 @@ msgid ""
 "FSF will enforce the GPL for the program if someone violates it; if you keep "
 "the copyright, enforcement will be up to you.)"
 msgstr ""
-"GNU a toujours été soutenu de différentes manières par la <a href=\"http://"
+"GNU a toujours été soutenu de différentes manières par la <a href=\"https://"
 "www.fsf.org/\">Free Software Foundation</a> (Fondation pour le logiciel "
 "libre), organisation à but non lucratif également fondée par rms pour "
 "défendre les idéaux du logiciel libre. Entre autres choses, la FSF est "
@@ -148,10 +128,10 @@ msgstr ""
 "auprès des tribunaux au nom des programmes GNU. (Pour mettre les choses au "
 "point, contribuer à GNU par un programme <em>n'exige pas</em> d'en "
 "transférer le copyright à la FSF. Si toutefois vous le faites, la FSF fera "
-"respecter la GPL pour ce programme si quelqu'un l'enfreint ; si vous gardez "
+"respecter la GPL pour ce programme si quelqu'un l'enfreint ; si vous gardez "
 "le copyright, ce sera à vous de la faire respecter.)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The ultimate goal is to provide free software to do all of the jobs computer "
 "users want to do&mdash;and thus make proprietary software a thing of the "
@@ -160,6 +140,18 @@ msgstr ""
 "L'objectif ultime est de proposer des logiciels libres pour faire toutes les "
 "tâches que les utilisateurs de l'informatique veulent effectuer – et faire "
 "ainsi du logiciel privateur (propriétaire) une chose du passé."
+
+#. type: Content of: <div><h3>
+msgid "Footnote"
+msgstr "Note"
+
+#. type: Content of: <div><ol><li>
+msgid ""
+"&ldquo;GNU&rdquo; is pronounced as <a href=\"/gnu/pronunciation.html\">one "
+"syllable with a hard <i>g</i></a>."
+msgstr ""
+"« GNU » se prononce <a href=\"/gnu/pronunciation.html\">« gnou » (comme "
+"l'animal), avec un g dur</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -187,14 +179,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -205,8 +197,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2017, 2018 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2017, 2018 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2011, 2017, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2017, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -223,7 +215,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Thérèse Godefroy<br />Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Thérèse Godefroy<br />Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">&lt;trad-gnu&#64;april.org&gt;</a>"
 
 #.  timestamp start 
