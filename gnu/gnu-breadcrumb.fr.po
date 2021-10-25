@@ -1,0 +1,59 @@
+# French translation of https://www.gnu.org/gnu/gnu-breadcrumb.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# FThérèse Godefroy <godef.th@gnu.fr>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnu-breadcrumb.html\n"
+"POT-Creation-Date: 2021-10-24 10:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Thérèse Godefroy <godef.th@gnu.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Attribute 'title' of: <div><img>
+msgid "GNU Home"
+msgstr "Accueil GNU"
+
+#. type: Content of: outside any tag (error?)
+msgid "&nbsp;/"
+msgstr "&nbsp;/"
+
+#. #set var='LINK'
+#.  value='<a href="/gnu/gnu.html#content">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "About&nbsp;GNU"
+msgstr "À propos de GNU"
+
+#. #if expr="$TAGS = /gnu-history/" 
+#. #set var='LINK'
+#.  value='<a href="/gnu/gnu.html#gnu-history">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "GNU&nbsp;history"
+msgstr "Histoire"
+
+#. #elif expr="$TAGS = /gnulinux/" 
+#. #set var='LINK'
+#.  value='<a href="/gnu/gnu.html#gnulinux">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "GNU&nbsp;&amp;&nbsp;Linux"
+msgstr "GNU et Linux"
+
+#. #elif expr="$TAGS = /gnu-structure/" 
+#. #set var='LINK'
+#.  value='<a href="/gnu/gnu.html#gnu-structure">' 
+#. #echo
+#.  encoding='none' var='LINK' 
+#. type: Content of: outside any tag (error?)
+msgid "GNU&nbsp;structure"
+msgstr "Structure administrative"
