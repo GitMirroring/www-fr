@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pronunciation.html\n"
 "Report-Msgid-Bugs-To: trad-gnu@april.org\n"
-"POT-Creation-Date: 2014-05-16 17:25+0000\n"
-"PO-Revision-Date: 2020-12-06 11:59+0100\n"
+"POT-Creation-Date: 2021-11-02 14:27+0000\n"
+"PO-Revision-Date: 2021-11-02 17:21+0100\n"
 "Last-Translator: Sogal <sogal@member.fsf.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -22,74 +22,73 @@ msgstr ""
 msgid "How To Pronounce GNU - GNU Project - Free Software Foundation"
 msgstr "Comment prononcer GNU - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "How To Pronounce GNU"
-msgstr "Prononciation de « GNU »"
+msgstr "Prononciation de « GNU »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The name &ldquo;GNU&rdquo; is a recursive acronym for &ldquo;GNU's Not Unix!"
-"&rdquo;; it is pronounced as one syllable with a hard g, like &ldquo;"
-"grew&rdquo; but with the letter &ldquo;n&rdquo; instead of &ldquo;r&rdquo;."
+"&rdquo;; it is pronounced as one syllable with a hard <i>g</i>, like &ldquo;"
+"grew&rdquo; but with the letter <i>n</i> instead of <i>r</i>."
 msgstr ""
 "Le nom « GNU » est l'acronyme récursif de <i>GNU's Not Unix!</i> (« GNU "
 "n'est pas Unix ! ») ; en français, il se prononce « gnou » (comme l'animal), "
-"avec un « g » dur."
+"avec un <i>g</i> dur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"This is a recording of <a href=\"http://www.stallman.org/\">Richard "
+"This is a recording of <a href=\"https://www.stallman.org/\">Richard "
 "Stallman</a> saying &ldquo;GNU&rdquo; and another with a short explanation "
 "about how GNU was named:"
 msgstr ""
-"Voici un enregistrement de <a href=\"http://www.stallman.org/\">Richard "
+"Voici un enregistrement de <a href=\"https://www.stallman.org/\">Richard "
 "Stallman</a> prononçant « GNU » ainsi qu'un autre avec une courte "
 "explication sur l'origine du nom GNU :"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>How to say &ldquo;GNU&rdquo;:</strong>"
 msgstr "<strong>Comment prononcer « GNU » :</strong>"
 
-#. type: Content of: <audio>
+#. type: Content of: <div><audio>
 msgid "<a href=\"/audio/gnu-pronunciation.ogg\">How To Say GNU</a>"
 msgstr "<a href=\"/audio/gnu-pronunciation.ogg\">Comment prononcer GNU</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>How GNU Was Named:</strong>"
 msgstr "<strong>Origine du nom GNU :</strong>"
 
-#. type: Content of: <audio>
+#. type: Content of: <div><audio>
 msgid "<a href=\"/audio/how-gnu-was-named.ogg\">How GNU Was Named</a>"
 msgstr "<a href=\"/audio/how-gnu-was-named.ogg\">Origine du nom GNU</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The combination of <a href=\"/gnu/linux-and-gnu.html\">GNU and Linux</a> is "
 "the <strong>GNU/Linux operating system</strong>, now used by millions and "
-"sometimes incorrectly called simply &ldquo;Linux&rdquo;."
+"sometimes incorrectly called simply &ldquo;Linux.&rdquo;"
 msgstr ""
-"La combinaison du système <a href=\"/gnu/linux-and-gnu.html\">GNU et de "
-"Linux</a> est le <strong>système d'exploitation GNU/Linux</strong>, "
-"désormais utilisé par des millions de personnes et parfois abusivement "
-"appelé simplement « Linux »."
+"La combinaison de <a href=\"/gnu/linux-and-gnu.html\">GNU et Linux</a> est "
+"le <strong>système d'exploitation GNU/Linux</strong>, désormais utilisé par "
+"des millions de personnes et parfois abusivement appelé simplement « Linux »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For more detailed information and history of the GNU Operating System visit "
-"<a href=\"/gnu/\">http://www.gnu.org/gnu/</a>"
+"<a href=\"/gnu/\">gnu.org/gnu/</a>"
 msgstr ""
 "Pour en savoir plus sur le système d'exploitation GNU et son histoire, "
-"rendez vous sur <a href=\"/gnu/\">www.gnu.org/gnu/</a>."
+"rendez vous sur <a href=\"/gnu/\">gnu.org/gnu/</a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "License Of The Recordings"
 msgstr "Licence des enregistrements"
 
-#. type: Content of: <p>
-msgid "Copyright (C) 2001 Richard M. Stallman"
-msgstr "Copyright (C) 2001 Richard M. Stallman"
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 2001 Richard Stallman"
+msgstr "Copyright &copy; 2001 Richard Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "These recordings are licensed under a <a rel=\"license\" href=\"http://"
 "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
@@ -125,14 +124,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -143,25 +142,25 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2010, 2013, 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2010, 2013, 2014 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2010, 2011, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2010, 2011, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Sébastien Poher.<br />Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Sébastien Poher.<br />Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 

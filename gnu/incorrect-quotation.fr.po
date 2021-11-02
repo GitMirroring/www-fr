@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: incorrect-quotation.html\n"
-"POT-Creation-Date: 2018-01-10 15:56+0000\n"
-"PO-Revision-Date: 2018-11-12 17:59+0100\n"
+"POT-Creation-Date: 2021-11-02 14:27+0000\n"
+"PO-Revision-Date: 2021-11-02 17:21+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -19,11 +19,15 @@ msgstr ""
 msgid "Incorrect Quotation - GNU Project - Free Software Foundation"
 msgstr "Citation erronée - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Incorrect Quotation"
 msgstr "Citation erronée"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "par Richard Stallman"
+
+#. type: Content of: <div><p>
 msgid ""
 "A quotation circulates on the Internet, attributed to me, but it wasn't "
 "written by me."
@@ -31,7 +35,7 @@ msgstr ""
 "Une citation qui m'est attribuée circule sur Internet, mais elle n'a pas été "
 "écrite par moi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Here's the text that is circulating.  Most of it was copied from statements "
 "I have made, but the part italicized here is not from me.  It makes points "
@@ -41,7 +45,7 @@ msgstr ""
 "déclarations que j'ai faites, mais les parties que j'ai mises en italique ne "
 "sont pas de moi. Ce texte énonce des arguments inexacts ou confus."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "I'd just like to interject for a moment.  What you're referring to as Linux, "
 "is in fact, GNU/Linux, or as I've recently taken to calling it, GNU plus "
@@ -66,12 +70,12 @@ msgstr ""
 "Beaucoup d'utilisateurs de l'informatique utilisent une version modifiée du "
 "système GNU tous les jours sans même s'en rendre compte. Par suite d'une "
 "tournure particulière des événements, la version de GNU qui est largement "
-"utilisée aujourd'hui est souvent appelée « Linux » et beaucoup de ses "
+"utilisée aujourd'hui est souvent appelée « Linux » et beaucoup de ses "
 "utilisateurs ne savent pas qu'il s'agit essentiellement du système GNU, "
 "développé par le projet GNU. Il existe bien un Linux que ces personnes "
 "utilisent, mais c'est juste une partie du système qu'elles utilisent."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "Linux is the kernel: the program in the system that allocates the machine's "
 "resources to the other programs that you run.  The kernel is an essential "
@@ -84,13 +88,13 @@ msgstr ""
 "Linux est le noyau, c'est-à-dire le programme du système qui alloue les "
 "ressources de la machine aux autres programmes en cours d'exécution. Le "
 "noyau est une partie essentielle du système d'exploitation, mais seul il est "
-"inutile ; il ne peut fonctionner que dans le contexte d'un système "
+"inutile ; il ne peut fonctionner que dans le contexte d'un système "
 "d'exploitation complet. Linux est normalement utilisé en combinaison avec le "
-"système d'exploitation GNU : le système complet est essentiellement GNU "
+"système d'exploitation GNU : le système complet est essentiellement GNU "
 "auquel on a ajouté Linux, c'est-à-dire GNU/Linux. Toutes les distributions "
-"appelées « Linux » sont en réalité des distributions de GNU/Linux."
+"appelées « Linux » sont en réalité des distributions de GNU/Linux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The main error is that Linux is <em>not</em> strictly speaking part of the "
 "GNU system&mdash;whose kernel is GNU Hurd.  The version with Linux, we call "
@@ -100,11 +104,11 @@ msgid ""
 msgstr ""
 "L'erreur fondamentale est que Linux n'est <em>pas</em> à proprement parler "
 "une partie du système GNU – dont le noyau est GNU Hurd. La version où il est "
-"associé à Linux, nous l'appelons « GNU/Linux » ; Il est correct de l'appeler "
-"« GNU » quand vous voulez faire très court, mais c'est mieux de l'appeler "
-"« GNU/Linux » pour reconnaître la contribution de Torvalds."
+"associé à Linux, nous l'appelons « GNU/Linux » ; Il est correct de l'appeler "
+"« GNU » quand vous voulez faire très court, mais c'est mieux de l'appeler "
+"« GNU/Linux » pour reconnaître la contribution de Torvalds."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We don't use the term &ldquo;corelibs,&rdquo; and I am not sure what that "
 "would mean, but GNU is much more than the specific packages we developed for "
@@ -112,14 +116,14 @@ msgid ""
 "that job required developing whichever important packages we could not find "
 "elsewhere."
 msgstr ""
-"Nous n'utilisons pas le terme « corelibs » et je ne suis pas certain de ce "
+"Nous n'utilisons pas le terme « corelibs » et je ne suis pas certain de ce "
 "qu'il pourrait signifier, mais GNU va bien au-delà des logiciels "
 "particuliers que nous avons développés pour lui. J'ai entrepris en 1983 de "
 "développer un système d'exploitation que j'ai appelé GNU, et cette tâche "
 "nécessitait de développer les logiciels importants que nous ne pouvions "
 "trouver ailleurs, quels qu'ils soient."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "See <a href=\"/gnu/linux-and-gnu.html\">Linux and GNU</a> and <a href=\"/gnu/"
 "gnu-linux-faq.html\">GNU/Linux FAQ</a>, plus the history in <a href=\"/gnu/"
@@ -155,14 +159,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -173,8 +177,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2018 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2018 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2018, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2018, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -191,8 +195,8 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Thérèse Godefroy<br />\n"
-"Révision : <a href=\"mailto:trad-gnu&#64;april.org\">trad-gnu&#64;april.org</"
+"Traduction : Thérèse Godefroy<br />\n"
+"Révision : <a href=\"mailto:trad-gnu&#64;april.org\">trad-gnu&#64;april.org</"
 "a>"
 
 #.  timestamp start 

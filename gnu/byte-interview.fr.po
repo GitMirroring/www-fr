@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: byte-interview.html\n"
-"POT-Creation-Date: 2020-07-01 15:25+0000\n"
-"PO-Revision-Date: 2021-09-12 19:21+0200\n"
+"POT-Creation-Date: 2021-11-02 11:26+0000\n"
+"PO-Revision-Date: 2021-11-02 15:08+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -26,23 +26,23 @@ msgstr ""
 "Entretien de BYTE avec Richard Stallman - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "BYTE Interview with Richard Stallman"
 msgstr "Entretien de BYTE avec Richard Stallman"
 
-#. type: Content of: <p>
-msgid "Conducted by David Betz and Jon Edwards"
-msgstr "Entretien dirigé par David Betz et Jon Edwards"
+#. type: Content of: <div><address>
+msgid "conducted by David Betz and Jon Edwards"
+msgstr "mené par David Betz et Jon Edwards"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><p>
 msgid ""
 "Richard Stallman discusses his public-domain Unix-compatible software system "
-"with BYTE editors (July 1986)"
+"with BYTE editors (July 1986)."
 msgstr ""
 "Richard Stallman s'entretient avec la rédaction de BYTE de son système "
-"compatible Unix qui est dans le domaine public (juillet 1986)"
+"compatible Unix qui est dans le domaine public (juillet 1986)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Richard Stallman has undertaken probably the most ambitious free software "
 "development project to date, the GNU system.  In his GNU Manifesto, "
@@ -50,20 +50,20 @@ msgid ""
 "GNU as a &ldquo;complete Unix-compatible software system which I am writing "
 "so that I can give it away free to everyone who can use it&hellip; Once GNU "
 "is written, everyone will be able to obtain good system software free, just "
-"like air.&rdquo; (GNU is an acronym for GNU's Not Unix; the &ldquo;G&rdquo; "
-"is pronounced.)"
+"like air.&rdquo; (GNU is an acronym for GNU's Not Unix; the <i>g</i> is "
+"pronounced.)"
 msgstr ""
 "Richard Stallman a entrepris ce qui est probablement le projet de "
 "développement de logiciel libre le plus ambitieux à ce jour, le système GNU. "
-"Dans son « manifeste GNU », publié en mars 1985 dans le <cite>Dr. Dobb's "
-"Journal</cite>, Stallman décrivait GNU comme « un système d'exploitation "
+"Dans son « manifeste GNU », publié en mars 1985 dans le <cite>Dr. Dobb's "
+"Journal</cite>, Stallman décrivait GNU comme « un système d'exploitation "
 "complet, compatible avec Unix, que je suis en train d'écrire dans le but de "
 "le distribuer librement à qui veut l'utiliser&hellip; Une fois GNU écrit, "
 "tout un chacun pourra se procurer un bon système libre, tout comme l'air "
-"qu'on respire. » GNU est un acronyme de <i>GNU's Not Unix</i>, ou « GNU "
-"N'est pas Unix » ; le <i>g</i> (dur) se prononce."
+"qu'on respire. » GNU est un acronyme de <i>GNU's Not Unix</i>, ou « GNU "
+"N'est pas Unix » ; le <i>g</i> (dur) se prononce."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Stallman is widely known as the author of EMACS, a powerful text editor that "
 "he developed at the <abbr title=\"Massachusetts Institute of Technology"
@@ -79,17 +79,17 @@ msgstr ""
 "nouvelle implémentation d'EMACS. GNU EMACS s'est déjà fait la réputation "
 "d'une des meilleures actuellement disponibles, quel qu'en soit le prix."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: We read your GNU Manifesto in the March 1985 issue of "
 "Dr. Dobb's.  What has happened since? Was that really the beginning, and how "
 "have you progressed since then?"
 msgstr ""
-"<strong>BYTE</strong> : Nous avons lu le manifeste GNU en mars 1985, dans "
-"une édition du <cite>Dr. Dobb's</cite>. Que s'est-il passé depuis ? Est-ce "
-"que c'était vraiment le tout début et comment avez-vous progressé depuis ?"
+"<strong>BYTE</strong> : Nous avons lu le manifeste GNU en mars 1985, dans "
+"une édition du <cite>Dr. Dobb's</cite>. Que s'est-il passé depuis ? Est-ce "
+"que c'était vraiment le tout début et comment avez-vous progressé depuis ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: The publication in Dr. Dobb's wasn't the "
 "beginning of the project.  I wrote the GNU Manifesto when I was getting "
@@ -107,7 +107,7 @@ msgid ""
 "that you have printed out, making it tremendously easier to chase around "
 "list structures."
 msgstr ""
-"<strong>Stallman</strong> : La publication dans <cite>Dr. Dobb's</cite> "
+"<strong>Stallman</strong> : La publication dans <cite>Dr. Dobb's</cite> "
 "n'était pas le début du projet. J'ai écrit le manifeste GNU quand je "
 "m'apprêtais à le lancer. C'était une demande de fonds adressée aux "
 "fabricants d'ordinateurs. Ils n'ont pas voulu s'impliquer, alors j'ai décidé "
@@ -124,24 +124,24 @@ msgstr ""
 "de toutes les variables que vous avez listées, ce qui rend terriblement plus "
 "facile le dépistage des structures de listes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: You have finished an editor that is now widely "
 "distributed and you are about to finish the compiler."
 msgstr ""
-"<strong>BYTE</strong> : Vous avez fini un éditeur qui est maintenant "
+"<strong>BYTE</strong> : Vous avez fini un éditeur qui est maintenant "
 "largement distribué et vous êtes sur le point de terminer le compilateur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: I expect that it will be finished this October."
-msgstr "<strong>Stallman</strong> : J'espère le finir pour octobre."
+msgstr "<strong>Stallman</strong> : J'espère le finir pour octobre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>BYTE</strong>: What about the kernel?"
-msgstr "<strong>BYTE</strong> : Qu'en est-il du noyau ?"
+msgstr "<strong>BYTE</strong> : Qu'en est-il du noyau ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: I'm currently planning to start with the kernel "
 "that was written at MIT and was released to the public recently with the "
@@ -160,9 +160,9 @@ msgid ""
 "think I have a scheme for doing this, and only trying it will show me "
 "whether it really does the job."
 msgstr ""
-"<strong>Stallman</strong> : Actuellement, je projette de commencer avec le "
+"<strong>Stallman</strong> : Actuellement, je projette de commencer avec le "
 "noyau écrit au MIT et qui a été récemment rendu public avec l'idée que je "
-"l'utiliserais. Ce noyau s'appelle TRIX ; il est basé sur l'appel de "
+"l'utiliserais. Ce noyau s'appelle TRIX ; il est basé sur l'appel de "
 "procédure distant. Il faut que je lui ajoute des compatibilités, qu'il n'a "
 "pas actuellement, avec pas mal de fonctionnalités d'Unix. Je n'ai pas encore "
 "commencé à travailler dessus. Je termine le compilateur avant de travailler "
@@ -175,10 +175,10 @@ msgstr ""
 "sans numéro de version, et celle de les spécifier avec un numéro de version "
 "explicite, sachant que tout cela doit fonctionner dans un programme Unix "
 "ordinaire qui n'a été aucunement modifié pour tourner avec cette "
-"fonctionnalité. J'ai une idée directrice pour le faire ; ce n'est qu'en "
+"fonctionnalité. J'ai une idée directrice pour le faire ; ce n'est qu'en "
 "l'essayant que je verrai si ça marche."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: Do you have a brief description you can give us as to "
 "how GNU as a system will be superior to other systems? We know that one of "
@@ -186,13 +186,13 @@ msgid ""
 "least in the area of file systems you have already said that you are going "
 "to go beyond Unix and produce something that is better."
 msgstr ""
-"<strong>BYTE</strong> : Pourriez-vous, en quelques mots, nous dire en quoi "
-"GNU, comme système, sera supérieur aux autres systèmes ? Nous savons que "
+"<strong>BYTE</strong> : Pourriez-vous, en quelques mots, nous dire en quoi "
+"GNU, comme système, sera supérieur aux autres systèmes ? Nous savons que "
 "votre but est de produire quelque chose qui soit compatible avec Unix. Mais "
 "au moins en ce qui concerne les systèmes de fichiers, vous avez déjà dit que "
 "vous dépasseriez Unix et que vous produiriez quelque chose de mieux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: The C compiler will produce better code and run "
 "faster.  The debugger is better.  With each piece I may or may not find a "
@@ -210,7 +210,7 @@ msgid ""
 "system is when your program runs out of memory because it tried to work on "
 "too much data and there is no place to keep it all."
 msgstr ""
-"<strong>Stallman</strong> : Le compilateur C produira un meilleur code et "
+"<strong>Stallman</strong> : Le compilateur C produira un meilleur code et "
 "tournera plus vite. Le débogueur est meilleur. Je peux, ou non, trouver un "
 "moyen d'améliorer chaque élément. Mais cette question n'a pas de réponse "
 "unique. Dans une certaine mesure, je tire bénéfice de la remise à plat, qui "
@@ -228,35 +228,35 @@ msgstr ""
 "système GNU, est que votre programme soit à court de mémoire parce qu'il "
 "essaye de travailler avec trop de données et qu'il ne peut les garder toutes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: And that isn't likely to be hit if you've got virtual "
 "memory.  You may just take forever to come up with the solution."
 msgstr ""
-"<strong>BYTE</strong> : Et il y a peu de chance que cela arrive si vous avez "
+"<strong>BYTE</strong> : Et il y a peu de chance que cela arrive si vous avez "
 "de la mémoire virtuelle. Seulement ça prendra un temps infini pour obtenir "
 "la solution."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: Actually these limits tend to hit in a time long "
 "before you take forever to come up with the solution."
 msgstr ""
-"<strong>Stallman</strong> : En fait, ces limites tendent à être atteintes "
+"<strong>Stallman</strong> : En fait, ces limites tendent à être atteintes "
 "bien avant que vous n'ayez trouvé la solution."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: Can you say something about what types of machines "
 "and environments GNU EMACS in particular has been made to run under? It's "
 "now running on VAXes; has it migrated in any form to personal computers?"
 msgstr ""
-"<strong>BYTE</strong> : Avez-vous des précisions sur les types de machines "
-"et d'environnements pour lesquels GNU EMACS en particulier a été conçu ? Il "
-"fonctionne maintenant sur des VAX ; est-ce qu'il a jamais été adapté aux "
-"ordinateurs personnels ?"
+"<strong>BYTE</strong> : Avez-vous des précisions sur les types de machines "
+"et d'environnements pour lesquels GNU EMACS en particulier a été conçu ? Il "
+"fonctionne maintenant sur des VAX ; est-ce qu'il a jamais été adapté aux "
+"ordinateurs personnels ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: I'm not sure what you mean by personal "
 "computers.  For example, is a Sun a personal computer? GNU EMACS requires at "
@@ -266,24 +266,24 @@ msgid ""
 "running a fairly recent version of Unix will run GNU EMACS, and most of them "
 "currently do."
 msgstr ""
-"<strong>Stallman</strong> : Je ne suis pas certain de savoir ce que vous "
+"<strong>Stallman</strong> : Je ne suis pas certain de savoir ce que vous "
 "entendez par ordinateurs personnels. Par exemple, est-ce qu'un Sun est un "
-"ordinateur personnel ? GNU EMACS demande au moins un mégaoctet de mémoire "
+"ordinateur personnel ? GNU EMACS demande au moins un mégaoctet de mémoire "
 "disponible, plus ce serait mieux. On l'utilise normalement sur des machines "
 "qui ont de la mémoire virtuelle. Mis à part divers problèmes techniques pour "
 "quelques compilateurs C, pratiquement n'importe quelle machine avec de la "
 "mémoire virtuelle et tournant sous une version relativement récente d'Unix "
-"pourra faire fonctionner GNU EMACS ; c'est maintenant le cas de la plupart "
+"pourra faire fonctionner GNU EMACS ; c'est maintenant le cas de la plupart "
 "d'entre elles."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: Has anyone tried to port it to Ataris or Macintoshes?"
 msgstr ""
-"<strong>BYTE</strong> : Personne n'a jamais tenté de le porter sur Atari ou "
-"Macintosh ?"
+"<strong>BYTE</strong> : Personne n'a jamais tenté de le porter sur Atari ou "
+"Macintosh ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: The Atari 1040ST still doesn't have quite enough "
 "memory.  The next Atari machine, I expect, will run it.  I also think that "
@@ -298,7 +298,7 @@ msgid ""
 "in memory size are happening so fast it surprises me how slow most of the "
 "people are to put in virtual memory; I think it is totally essential."
 msgstr ""
-"<strong>Stallman</strong> : L'Atari 1040ST n'a pas encore tout à fait assez "
+"<strong>Stallman</strong> : L'Atari 1040ST n'a pas encore tout à fait assez "
 "de mémoire. Je présume que le prochain Atari pourra le faire tourner. Je "
 "pense aussi que les prochaines machines Atari auront un moyen quelconque de "
 "mapper la mémoire. Bien entendu, je ne crée pas ces logiciels pour qu'ils "
@@ -311,17 +311,17 @@ msgstr ""
 "ou trois ans, j'en suis convaincu, des machines suffisamment puissantes "
 "prédomineront. En fait, l'accroissement de la taille mémoire va à une telle "
 "vitesse que la réticence de la plupart des gens à ajouter de la mémoire "
-"virtuelle me surprend ; je pense que c'est absolument essentiel."
+"virtuelle me surprend ; je pense que c'est absolument essentiel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: I think people don't really view it as being "
 "necessary for single-user machines."
 msgstr ""
-"<strong>BYTE</strong> : Je pense que les gens ne considèrent pas vraiment "
+"<strong>BYTE</strong> : Je pense que les gens ne considèrent pas vraiment "
 "cela comme nécessaire pour une machine mono-utilisateur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: They don't understand that single user doesn't "
 "mean single program.  Certainly for any Unix-like system it's important to "
@@ -330,7 +330,7 @@ msgid ""
 "with enough memory, but you couldn't run the rest of the GNU system very "
 "well or a Unix system very well."
 msgstr ""
-"<strong>Stallman</strong> : Ce qu'ils ne comprennent pas, c'est que mono-"
+"<strong>Stallman</strong> : Ce qu'ils ne comprennent pas, c'est que mono-"
 "utilisateur ne veut pas dire un seul programme. Il est certain que pour tout "
 "système de type Unix, il est important de pouvoir faire fonctionner beaucoup "
 "de processus différents en même temps, même s'il n'y en a qu'un qui vous "
@@ -338,15 +338,15 @@ msgstr ""
 "mémoire virtuelle mais suffisamment de mémoire vive, mais vous ne pourriez "
 "pas lancer correctement le reste du système GNU ni un système Unix."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: How much of LISP is present in GNU EMACS? It occurred "
 "to me that it may be useful to use that as a tool for learning LISP."
 msgstr ""
-"<strong>BYTE</strong> : Quelle part de LISP y a-t-il dans GNU EMACS ? Il me "
+"<strong>BYTE</strong> : Quelle part de LISP y a-t-il dans GNU EMACS ? Il me "
 "semble que ce serait utile de l'utiliser comme outil d'apprentissage du LISP."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: You can certainly do that.  GNU EMACS contains a "
 "complete, although not very powerful, LISP system.  It's powerful enough for "
@@ -354,27 +354,27 @@ msgid ""
 "System, something you could really use for system programming, but it has "
 "all the things that LISP needs to have."
 msgstr ""
-"<strong>Stallman</strong> : Vous pouvez parfaitement le faire. GNU EMACS "
+"<strong>Stallman</strong> : Vous pouvez parfaitement le faire. GNU EMACS "
 "possède un système LISP complet, bien que pas très puissant. Assez puissant "
 "tout de même pour écrire des commandes d'éditeur. Il faut bien avouer qu'il "
 "n'est pas comparable, disons, à quelque chose comme un <i>Common LISP "
 "System</i>, qu'on pourrait utiliser pour programmer un système, mais il a "
 "tout ce dont LISP a besoin."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: Do you have any predictions about when you would be "
 "likely to distribute a workable environment in which, if we put it on our "
 "machines or workstations, we could actually get reasonable work done without "
 "using anything other than code that you distribute?"
 msgstr ""
-"<strong>BYTE</strong> : Pourriez-vous prédire quand, vraisemblablement, vous "
+"<strong>BYTE</strong> : Pourriez-vous prédire quand, vraisemblablement, vous "
 "serez à même de distribuer un environnement fonctionnel qui, si nous "
 "l'installions dans nos ordinateurs ou stations de travail, effectuerait "
 "vraiment un travail correct, et cela sans utiliser autre chose que le code "
-"que vous distribuez ?"
+"que vous distribuez ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: It's really hard to say.  That could happen in a "
 "year, but of course it could take longer.  It could also conceivably take "
@@ -387,8 +387,8 @@ msgid ""
 "it completely.  Another reason is that I spent so much time on GNU EMACS.  I "
 "originally thought I wouldn't have to do that at all."
 msgstr ""
-"<strong>Stallman</strong> : C'est vraiment difficile à dire. Cela pourrait "
-"arriver dans un an, mais bien entendu cela pourrait prendre plus de temps ; "
+"<strong>Stallman</strong> : C'est vraiment difficile à dire. Cela pourrait "
+"arriver dans un an, mais bien entendu cela pourrait prendre plus de temps ; "
 "ou moins, mais ce n'est pas probable non plus. Je pense finir le compilateur "
 "dans un mois ou deux. La seule autre tâche importante à laquelle il faut que "
 "je m'attelle est le noyau. J'avais prédit dans un premier temps que GNU "
@@ -399,11 +399,11 @@ msgstr ""
 "Une autre raison est que j'ai passé beaucoup, beaucoup de temps sur GNU "
 "EMACS. Au début, je ne pensais pas du tout avoir à le faire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>BYTE</strong>: Tell us about your distribution scheme."
-msgstr "<strong>BYTE</strong> : Parlez-nous de votre schéma de distribution."
+msgstr "<strong>BYTE</strong> : Parlez-nous de votre schéma de distribution."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: I don't put software or manuals in the public "
 "domain, and the reason is that I want to make sure that all the users get "
@@ -415,7 +415,7 @@ msgid ""
 "making improvements, but a lot of others will make the same improvements and "
 "they'll make them free."
 msgstr ""
-"<strong>Stallman</strong> : Je ne mets pas les logiciels ni les manuels dans "
+"<strong>Stallman</strong> : Je ne mets pas les logiciels ni les manuels dans "
 "le domaine public, car je veux m'assurer que tous les utilisateurs auront la "
 "liberté de les partager. Je ne veux pas voir quiconque améliorer un "
 "programme que j'aurai écrit et le distribuer comme logiciel propriétaire.<a "
@@ -426,11 +426,11 @@ msgstr ""
 "personnes s'abstiendront de perfectionner le système, mais beaucoup d'autres "
 "ajouteront ces perfectionnements et elles les rendront libres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>BYTE</strong>: And how do you go about guaranteeing that?"
-msgstr "<strong>BYTE</strong> : Et comment allez-vous faire pour le garantir ?"
+msgstr "<strong>BYTE</strong> : Et comment allez-vous faire pour le garantir ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: I do this by copyrighting the programs and "
 "putting on a notice giving people explicit permission to copy the programs "
@@ -440,25 +440,25 @@ msgid ""
 "you don't have to give it to anyone or tell anyone.  But if you do give it "
 "to someone else, you have to do it under the same terms that I use."
 msgstr ""
-"<strong>Stallman</strong> : Je le fais en mettant un copyright sur ces "
+"<strong>Stallman</strong> : Je le fais en mettant un copyright sur ces "
 "programmes et en ajoutant un avis donnant aux gens la permission explicite "
 "de copier le programme et de le modifier, mais seulement à la condition "
 "qu'il soit distribué sous les mêmes termes que ceux que j'utilise. Vous "
 "n'êtes pas obligé de distribuer les changements effectués sur un de mes "
-"programmes ; vous pouvez très bien les faire pour vous seul, sans avoir à "
+"programmes ; vous pouvez très bien les faire pour vous seul, sans avoir à "
 "les donner ou à en parler à qui que ce soit. Mais si effectivement vous les "
 "donnez à quelqu'un d'autre, vous devez le faire sous des termes identiques à "
 "ceux que j'utilise."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: Do you obtain any rights over the executable code "
 "derived from the C compiler?"
 msgstr ""
-"<strong>BYTE</strong> : Avez-vous des droits sur le code exécutable obtenu à "
-"l'aide du compilateur C ?"
+"<strong>BYTE</strong> : Avez-vous des droits sur le code exécutable obtenu à "
+"l'aide du compilateur C ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: The copyright law doesn't give me copyright on "
 "output from the compiler, so it doesn't give me a way to say anything about "
@@ -467,23 +467,23 @@ msgid ""
 "useful to try to stop them from developing them with this compiler, so I am "
 "not going to."
 msgstr ""
-"<strong>Stallman</strong> : La loi sur le copyright ne me donne pas de "
+"<strong>Stallman</strong> : La loi sur le copyright ne me donne pas de "
 "copyright sur ce qui sort du compilateur, donc cela ne me permet pas de "
 "donner mon avis. Et de toute façon, je n'essaye pas. Je ne sympathise pas "
 "avec ceux qui développent des produits propriétaires quel que soit le "
 "compilateur, mais il me semble futile de les empêcher de le faire avec ce "
 "compilateur-ci, alors je ne vais pas essayer."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: Do your restrictions apply if people take pieces of "
 "your code to produce other things as well?"
 msgstr ""
-"<strong>BYTE</strong> : Est-ce que vos restrictions s'appliquent si "
+"<strong>BYTE</strong> : Est-ce que vos restrictions s'appliquent si "
 "quelqu'un prend une partie de votre code pour en faire quelque chose "
-"d'autre ?"
+"d'autre ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: Yes, if they incorporate with changes any sizable "
 "piece.  If it were two lines of code, that's nothing; copyright doesn't "
@@ -496,8 +496,8 @@ msgid ""
 "upright person when he distributes software encourages other people to share "
 "it further."
 msgstr ""
-"<strong>Stallman</strong> : Oui, s'il inclut dans la modification un élément "
-"d'importance. S'il s'agit de deux lignes de code, ce n'est pas grave ; le "
+"<strong>Stallman</strong> : Oui, s'il inclut dans la modification un élément "
+"d'importance. S'il s'agit de deux lignes de code, ce n'est pas grave ; le "
 "copyright ne s'applique pas dans ce cas. En gros, j'ai choisi ces clauses de "
 "telle sorte qu'il y ait tout d'abord un copyright – qui est ce que tous les "
 "thésauriseurs de logiciels utilisent pour empêcher tout le monde de faire "
@@ -508,36 +508,36 @@ msgstr ""
 "personne honnête distribue un logiciel, cela encourage les autres à "
 "continuer de le partager."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: In a sense you are enticing people into this mode of "
 "thinking by providing all of these interesting tools that they can use but "
 "only if they buy into your philosophy."
 msgstr ""
-"<strong>BYTE</strong> : Dans un sens, vous attirez les gens vers cette façon "
+"<strong>BYTE</strong> : Dans un sens, vous attirez les gens vers cette façon "
 "de penser en distribuant tous ces outils très intéressants qu'ils peuvent "
 "utiliser, mais seulement s'ils adhèrent à votre philosophie."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: Yes.  You could also see it as using the legal "
 "system that software hoarders have set up against them.  I'm using it to "
 "protect the public from them."
 msgstr ""
-"<strong>Stallman</strong> : Oui. Vous pouvez aussi le voir comme "
+"<strong>Stallman</strong> : Oui. Vous pouvez aussi le voir comme "
 "l'utilisation du système juridique que les thésauriseurs de logiciels ont "
 "mis en place, contre eux. Je l'utilise pour protéger le public contre eux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: Given that manufacturers haven't wanted to fund the "
 "project, who do you think will use the GNU system when it is done?"
 msgstr ""
-"<strong>BYTE</strong> : Étant donné que les constructeurs n'ont pas voulu "
+"<strong>BYTE</strong> : Étant donné que les constructeurs n'ont pas voulu "
 "financer le projet, à votre avis qui utilisera le système GNU quand il sera "
-"terminé ?"
+"terminé ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: I have no idea, but it is not an important "
 "question.  My purpose is to make it possible for people to reject the chains "
@@ -549,7 +549,7 @@ msgid ""
 "not to use a computer.  Well, I am going to give him a comfortable "
 "alternative."
 msgstr ""
-"<strong>Stallman</strong> : Je n'en ai aucune idée, mais ce n'est pas une "
+"<strong>Stallman</strong> : Je n'en ai aucune idée, mais ce n'est pas une "
 "question importante. Mon but est de permettre aux gens de rejeter les "
 "chaînes associées au logiciel propriétaire. Je sais qu'il y a des gens dont "
 "c'est la volonté. Maintenant, il peut y en avoir qui ne s'en soucient guère, "
@@ -560,7 +560,7 @@ msgstr ""
 "d'ordinateur. Eh bien, à cette personne, je vais donner une alternative "
 "confortable."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Other people may use the GNU system simply because it is technically "
 "superior.  For example, my C compiler is producing about as good a code as I "
@@ -586,19 +586,19 @@ msgstr ""
 "GNU est vraiment un projet social. Il utilise des moyens techniques pour "
 "opérer des changements dans la société."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: Then it is fairly important to you that people adopt "
 "GNU.  It is not just an academic exercise to produce this software to give "
 "it away to people.  You hope it will change the way the software industry "
 "operates."
 msgstr ""
-"<strong>BYTE</strong> : Alors, c'est relativement important pour vous que "
+"<strong>BYTE</strong> : Alors, c'est relativement important pour vous que "
 "les gens adoptent GNU. Il ne s'agit pas uniquement d'un exercice de style, "
 "produire des logiciels qu'on cède ensuite aux gens. Vous espérez que cela "
 "changera la façon de faire dans l'industrie du logiciel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: Yes.  Some people say no one will ever use it "
 "because it doesn't have some attractive corporate logo on it, and other "
@@ -607,23 +607,23 @@ msgid ""
 "happen.  I don't know any other way to try to change the ugliness of the "
 "field that I find myself in, so this is what I have to do."
 msgstr ""
-"<strong>Stallman</strong> : Oui. Certains disent que personne ne l'utilisera "
+"<strong>Stallman</strong> : Oui. Certains disent que personne ne l'utilisera "
 "jamais sous prétexte qu'il n'y a pas dessus le logo séduisant d'une société, "
 "et d'autres pensent que c'est terriblement important et que tout le monde "
 "voudra l'utiliser. Je n'ai pas les moyens de savoir ce qui va vraiment "
 "arriver. Je ne connais pas d'autre moyen pour essayer de changer la laideur "
 "du milieu dans lequel je me trouve, alors c'est mon devoir de le faire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: Can you address the implications? You obviously feel "
 "that this is an important political and social statement."
 msgstr ""
-"<strong>BYTE</strong> : Pouvez-vous en donner les implications ? "
+"<strong>BYTE</strong> : Pouvez-vous en donner les implications ? "
 "Manifestement, vous pensez qu'il s'agit là d'une prise de position "
 "importante, politiquement et socialement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: It is a change.  I'm trying to change the way "
 "people approach knowledge and information in general.  I think that to try "
@@ -652,7 +652,7 @@ msgid ""
 "first one.  It therefore is irrelevant whether people are permitted to copy "
 "it&mdash;it's impossible."
 msgstr ""
-"<strong>Stallman</strong> : C'est un changement. J'essaye de modifier "
+"<strong>Stallman</strong> : C'est un changement. J'essaye de modifier "
 "l'approche qu'ont les gens de la connaissance et de l'information en "
 "général. Je pense qu'essayer de s'approprier le savoir, d'en contrôler son "
 "utilisation ou d'essayer d'en empêcher le partage est du sabotage. C'est une "
@@ -660,7 +660,7 @@ msgstr ""
 "l'appauvrissement de toute la société. Elle gagne un dollar en détruisant "
 "deux dollars de valeur. Je pense qu'une personne dotée de conscience ne "
 "ferait pas ce genre de chose, à moins peut-être d'être en danger de mort. Et "
-"bien entendu, les gens qui le font sont passablement riches ; ma seule "
+"bien entendu, les gens qui le font sont passablement riches ; ma seule "
 "conclusion est qu'ils sont sans scrupules. J'aimerais voir des gens "
 "récompensés pour avoir écrit des logiciels libres et en avoir encouragé "
 "d'autres à les utiliser. Je ne veux pas voir des gens être récompensés pour "
@@ -681,7 +681,7 @@ msgstr ""
 "étapes qu'il a fallu pour produire la première. Qu'on ait le droit de la "
 "copier ne veut rien dire – c'est impossible."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Books were printed only on printing presses until recently.  It was possible "
 "to make a copy yourself by hand, but it wasn't practical because it took so "
@@ -701,7 +701,7 @@ msgstr ""
 "copyright n'ôtait pas vraiment de liberté aux lecteurs. Il n'y avait rien "
 "qu'un acquéreur de livre puisse faire et qui soit interdit par le copyright."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But this isn't true for computer programs.  It's also not true for tape "
 "cassettes.  It's partly false now for books, but it is still true that for "
@@ -731,7 +731,7 @@ msgstr ""
 "actuellement dans une période où la situation qui a rendu le copyright "
 "inoffensif et acceptable est en train de muter vers une situation où le "
 "copyright deviendra destructeur et intolérable. Ainsi, ceux que l'on "
-"calomnie en les traitant de « pirates » sont en fait des gens qui essayent "
+"calomnie en les traitant de « pirates » sont en fait des gens qui essayent "
 "de faire quelque chose d'utile, quelque chose qu'on leur a interdit. Le "
 "droit du copyright est entièrement destiné à aider certaines personnes à "
 "prendre un contrôle total sur l'utilisation d'une information particulière "
@@ -746,38 +746,38 @@ msgstr ""
 "dépossédée d'un travail dérivé de quelque chose qui est la propriété du "
 "public doit pouvoir en demander restitution à la justice."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: But aren't pirates interested in getting copies of "
 "programs because they want to use those programs, not because they want to "
 "use that knowledge to produce something better?"
 msgstr ""
-"<strong>BYTE</strong> : Mais ce qui intéresse les pirates quand ils se "
+"<strong>BYTE</strong> : Mais ce qui intéresse les pirates quand ils se "
 "procurent des copies de programmes, n'est-ce pas de les utiliser, plutôt que "
-"de se servir de cette connaissance pour générer quelque chose de meilleur ?"
+"de se servir de cette connaissance pour générer quelque chose de meilleur ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: I don't see that that's the important "
 "distinction.  More people using a program means that the program contributes "
 "more to society.  You have a loaf of bread that could be eaten either once "
 "or a million times."
 msgstr ""
-"<strong>Stallman</strong> : Je ne pense pas que ce soit la distinction "
+"<strong>Stallman</strong> : Je ne pense pas que ce soit la distinction "
 "importante. Que plus de gens utilisent un programme sous-entend que ce "
 "programme apporte une plus grande contribution à la société. Vous avez une "
 "baguette de pain qui peut se manger une fois ou un million."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: Some users buy commercial software to obtain "
 "support.  How does your distribution scheme provide support?"
 msgstr ""
-"<strong>BYTE</strong> : Certains utilisateurs achètent un logiciel "
+"<strong>BYTE</strong> : Certains utilisateurs achètent un logiciel "
 "commercial à cause du support technique. Comment l'organisation de votre "
-"distribution prévoit-elle un tel support ?"
+"distribution prévoit-elle un tel support ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: I suspect that those users are misled and are not "
 "thinking clearly.  It is certainly useful to have support, but when they "
@@ -798,7 +798,7 @@ msgid ""
 "hire anybody.  I distribute a service list with EMACS, a list of people's "
 "names and phone numbers and what they charge to provide support."
 msgstr ""
-"<strong>Stallman</strong> : Je soupçonne ces utilisateurs d'avoir été "
+"<strong>Stallman</strong> : Je soupçonne ces utilisateurs d'avoir été "
 "trompés et d'avoir les idées confuses. Le support technique est certainement "
 "utile, mais lorsqu'ils le font dépendre de la vente du logiciel, ou du fait "
 "que le logiciel soit propriétaire, à ce niveau-là ils s'embrouillent. Il n'y "
@@ -819,34 +819,34 @@ msgstr ""
 "EMACS, je distribue une liste de services qui donne les noms et numéros de "
 "téléphone des personnes qui fournissent du support, ainsi que leur tarif."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>BYTE</strong>: Do you collect their bug fixes?"
-msgstr "<strong>BYTE</strong> : Rassemblez-vous leurs corrections de bogues ?"
+msgstr "<strong>BYTE</strong> : Rassemblez-vous leurs corrections de bogues ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: Well, they send them to me.  I asked all the "
 "people who wanted to be listed to promise that they would never ask any of "
 "their customers to keep secret whatever they were told or any changes they "
 "were given to the GNU software as part of that support."
 msgstr ""
-"<strong>Stallman</strong> : Eh bien, ils me les envoient. J'ai demandé à "
+"<strong>Stallman</strong> : Eh bien, ils me les envoient. J'ai demandé à "
 "toutes les personnes qui voulaient être sur la liste la promesse qu'elles ne "
 "demandent jamais à aucun de leurs clients de garder le secret, quoi qu'ils "
 "aient entendu ou quelles que soient les modifications faites à un logiciel "
 "GNU dans le cadre de ce support."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: So you can't have people competing to provide support "
 "based on their knowing the solution to some problem that somebody else "
 "doesn't know."
 msgstr ""
-"<strong>BYTE</strong> : Donc, vous ne pouvez pas avoir de gens qui soient en "
+"<strong>BYTE</strong> : Donc, vous ne pouvez pas avoir de gens qui soient en "
 "concurrence pour fournir de l'assistance, sur la base qu'ils savent résoudre "
 "un problème alors que les autres, non."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: No.  They can compete based on their being clever "
 "and more likely to find the solution to your problem, or their already "
@@ -854,23 +854,23 @@ msgid ""
 "to you what you should do.  These are all ways they can compete.  They can "
 "try to do better, but they cannot actively impede their competitors."
 msgstr ""
-"<strong>Stallman</strong> : Non. Ils peuvent rivaliser sur la base de leur "
+"<strong>Stallman</strong> : Non. Ils peuvent rivaliser sur la base de leur "
 "ingéniosité, qui augmente leurs chances de trouver une solution à votre "
 "problème, ou de leur expérience d'un plus grand nombre de problèmes "
 "courants, ou encore en sachant mieux comment vous expliquer quoi faire. Ils "
 "peuvent tenter de faire mieux, mais ils ne peuvent pas activement entraver "
 "leurs concurrents."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: I suppose it's like buying a car.  You're not forced "
 "to go back to the original manufacturer for support or continued maintenance."
 msgstr ""
-"<strong>BYTE</strong> : Je suppose que c'est comme acheter une voiture. Vous "
+"<strong>BYTE</strong> : Je suppose que c'est comme acheter une voiture. Vous "
 "n'êtes pas obligé de vous adresser au constructeur d'origine pour assurer le "
 "support technique ou s'occuper de la maintenance."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: Or buying a house&mdash;what would it be like if "
 "the only person who could ever fix problems with your house was the "
@@ -880,24 +880,24 @@ msgid ""
 "tend to collect fixes and not give them out except in binaries.  The result "
 "is that the bugs don't really get fixed."
 msgstr ""
-"<strong>Stallman</strong> : Oui, ou comme acheter une maison. Comment les "
+"<strong>Stallman</strong> : Oui, ou comme acheter une maison. Comment les "
 "choses se passeraient-elles si la seule personne qui pouvait résoudre les "
-"problèmes de votre maison était l'entrepreneur qui l'a bâtie au tout début ? "
+"problèmes de votre maison était l'entrepreneur qui l'a bâtie au tout début ? "
 "C'est le genre d'abus qu'impliquent les logiciels propriétaires. Quelqu'un "
 "m'a parlé d'un problème d'Unix. Parce que les constructeurs vendent des "
 "versions améliorées d'Unix, ils ont tendance à accumuler les corrections "
 "sans les publier, sauf dans les binaires. Le résultat, c'est que les bogues "
 "ne sont jamais vraiment corrigés."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: They're all duplicating effort trying to solve bugs "
 "independently."
 msgstr ""
-"<strong>BYTE</strong> : Tous, ils dupliquent leurs efforts pour résoudre les "
+"<strong>BYTE</strong> : Tous, ils dupliquent leurs efforts pour résoudre les "
 "bogues indépendamment."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: Yes.  Here is another point that helps put the "
 "problem of proprietary information in a social perspective.  Think about the "
@@ -918,7 +918,7 @@ msgid ""
 "ours where everyone spends much time replicating what the next fellow is "
 "doing."
 msgstr ""
-"<strong>Stallman</strong> : Oui. C'est un autre aspect qui aide à mettre le "
+"<strong>Stallman</strong> : Oui. C'est un autre aspect qui aide à mettre le "
 "problème de l'information propriétaire dans une perspective sociétale. "
 "Prenez la crise de l'assurance de responsabilité civile. Pour obtenir une "
 "quelconque compensation de la part de la société, une personne accidentée "
@@ -928,7 +928,7 @@ msgstr ""
 "concurrents. Pensez à ces stylos vendus dans un grand emballage en carton "
 "qui coûte plus que le stylo lui-même – juste pour qu'on ne vole pas le "
 "stylo. Ce ne serait pas mieux de mettre des stylos gratuits à chaque "
-"carrefour ? Et puis, regardez toutes ces cabines de péage qui ralentissent "
+"carrefour ? Et puis, regardez toutes ces cabines de péage qui ralentissent "
 "le trafic. C'est un gigantesque phénomène de société. Il y en a qui ont "
 "trouvé le moyen de gagner de l'argent en gênant la société. Dès qu'ils sont "
 "en mesure de faire obstruction, ils peuvent se faire payer pour laisser les "
@@ -939,29 +939,29 @@ msgstr ""
 "monde qui est le nôtre, où chacun passe un temps fou à recopier ce que fait "
 "le voisin."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: Like typing in copyright notices on the software."
 msgstr ""
-"<strong>BYTE</strong> : Comme retranscrire des copyrights sur les logiciels."
+"<strong>BYTE</strong> : Comme retranscrire des copyrights sur les logiciels."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: More like policing everyone to make sure that "
 "they don't have forbidden copies of anything and duplicating all the work "
 "people have already done because it is proprietary."
 msgstr ""
-"<strong>Stallman</strong> : Ou plutôt contrôler tout le monde pour s'assurer "
+"<strong>Stallman</strong> : Ou plutôt contrôler tout le monde pour s'assurer "
 "qu'il n'a pas de copie interdite de quoi que ce soit et reproduire tout le "
 "travail que d'autres ont déjà fait, puisqu'il est propriétaire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>BYTE</strong>: A cynic might wonder how you earn your living."
 msgstr ""
-"<strong>BYTE</strong> : Si j'étais cynique, je vous demanderais de quoi vous "
+"<strong>BYTE</strong> : Si j'étais cynique, je vous demanderais de quoi vous "
 "vivez."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: From consulting.  When I do consulting, I always "
 "reserve the right to give away what I wrote for the consulting job.  Also, I "
@@ -973,7 +973,7 @@ msgid ""
 "long as I can go on making a living by consulting I think that's the best "
 "way."
 msgstr ""
-"<strong>Stallman</strong> : Je suis consultant, et je me réserve le droit de "
+"<strong>Stallman</strong> : Je suis consultant, et je me réserve le droit de "
 "distribuer ce que j'ai écrit en tant que consultant. Il m'arrive aussi de "
 "gagner de l'argent en envoyant par la poste des copies des logiciels libres "
 "que j'ai écrits ou que d'autres ont écrits. Beaucoup de personnes m'ont "
@@ -983,15 +983,15 @@ msgstr ""
 "gens pour travailler sur GNU. Tant que je peux gagner ma vie en tant que "
 "consultant, je le ferai, car je pense que c'est le meilleur moyen."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: What is currently included in the official GNU "
 "distribution tape?"
 msgstr ""
-"<strong>BYTE</strong> : Que contient la bande de la distribution officielle "
-"de GNU actuellement ?"
+"<strong>BYTE</strong> : Que contient la bande de la distribution officielle "
+"de GNU actuellement ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: Right now the tape contains GNU EMACS (one "
 "version fits all computers); Bison, a program that replaces <abbr title="
@@ -999,82 +999,92 @@ msgid ""
 "Professor Sussman's super-simplified dialect of LISP; and Hack, a dungeon-"
 "exploring game similar to Rogue."
 msgstr ""
-"<strong>Stallman</strong> : Pour le moment, la bande contient GNU EMACS "
-"(dans une version qui tourne sur tous les ordinateurs) ; Bison, un programme "
-"qui remplace <abbr title=\"Yet Another Compiler Compiler\">YACC</abbr> ; le "
+"<strong>Stallman</strong> : Pour le moment, la bande contient GNU EMACS "
+"(dans une version qui tourne sur tous les ordinateurs) ; Bison, un programme "
+"qui remplace <abbr title=\"Yet Another Compiler Compiler\">YACC</abbr> ; le "
 "langage Scheme du MIT, qui est un dialecte super simplifié de LISP que l'on "
-"doit au professeur Sussman ; et Hack, un jeu d'exploration de donjon, "
+"doit au professeur Sussman ; et Hack, un jeu d'exploration de donjon, "
 "semblable à Rogue."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: Does the printed manual come with the tape as well?"
 msgstr ""
-"<strong>BYTE</strong> : Cette bande est accompagnée d'un manuel imprimé ?"
+"<strong>BYTE</strong> : Cette bande est accompagnée d'un manuel imprimé ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: No.  Printed manuals cost $15 each or copy them "
 "yourself.  Copy this interview and share it, too."
 msgstr ""
-"<strong>Stallman</strong> : Non. La version imprimée des manuels coûte 15 $ "
+"<strong>Stallman</strong> : Non. La version imprimée des manuels coûte 15 $ "
 "l'exemplaire ou alors copiez-les vous-même. Vous pouvez également copier cet "
 "entretien et le partager."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>BYTE</strong>: How can you get a copy of that?"
-msgstr "<strong>BYTE</strong> : Où s'en procurer une copie ?"
+msgstr "<strong>BYTE</strong> : Où s'en procurer une copie ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: Write to the Free Software Foundation, 675 "
 "Massachusetts Ave., Cambridge, MA 02139."
 msgstr ""
-"<strong>Stallman</strong> : Écrivez à : Free Software Foundation, 675 "
+"<strong>Stallman</strong> : Écrivez à : Free Software Foundation, 675 "
 "Massachusetts Ave., Cambridge, MA 02139."
 
-#. type: Content of: <p>
-msgid ""
-"[The current address (since 2005) is: Free Software Foundation 51 Franklin "
-"St, Fifth Floor Boston, MA 02110-1301, USA Voice: +1-617-542-5942 Fax: "
-"+1-617-542-2652]"
-msgstr ""
-"[L'adresse actuelle (depuis 2005) est : Free Software Foundation 51 Franklin "
-"St, Fifth Floor Boston, MA 02110-1301, USA. Téléphone : +1-617-542-5942 ; "
-"Fax : +1-617-542-2652]"
+#. type: Content of: <div><address>
+msgid "[The current address (since 2005) is:"
+msgstr "[L'adresse actuelle (depuis 2005) est "
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
+msgid ""
+"Free Software Foundation, 51 Franklin St, Fifth Floor, Boston, MA "
+"02110-1301, USA."
+msgstr ""
+"Free Software Foundation, 51 Franklin St, Fifth Floor, Boston, MA "
+"02110-1301, USA."
+
+#. type: Content of: <div><address>
+msgid "Voice: +1-617-542-5942"
+msgstr "Téléphone : +1-617-542-5942"
+
+#. type: Content of: <div><address>
+msgid "Fax: +1-617-542-2652]"
+msgstr "Fax : +1-617-542-2652]"
+
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: What are you going to do when you are done with the "
 "GNU system?"
 msgstr ""
-"<strong>BYTE</strong> : Quels sont vos projets, une fois que vous en aurez "
-"terminé avec le système GNU ?"
+"<strong>BYTE</strong> : Quels sont vos projets, une fois que vous en aurez "
+"terminé avec le système GNU ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: I'm not sure.  Sometimes I think that what I'll "
 "go on to do is the same thing in other areas of software."
 msgstr ""
-"<strong>Stallman</strong> : Je ne suis pas sûr ; parfois je pense que ce que "
+"<strong>Stallman</strong> : Je ne suis pas sûr ; parfois je pense que ce que "
 "je ferai sera ce que je fais déjà, mais dans d'autres domaines du logiciel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>BYTE</strong>: So this is just the first of a whole series of "
 "assaults on the software industry?"
 msgstr ""
-"<strong>BYTE</strong> : Il ne s'agirait donc que du début d'une série "
-"d'attaques contre l'industrie du logiciel ?"
+"<strong>BYTE</strong> : Il ne s'agirait donc que du début d'une série "
+"d'attaques contre l'industrie du logiciel ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: I hope so.  But perhaps what I'll do is just live "
 "a life of ease working a little bit of the time just to live.  I don't have "
 "to live expensively.  The rest of the time I can find interesting people to "
 "hang around with or learn to do things that I don't know how to do."
 msgstr ""
-"<strong>Stallman</strong> : Je l'espère. Mais peut-être que je ne vivrai "
+"<strong>Stallman</strong> : Je l'espère. Mais peut-être que je ne vivrai "
 "qu'une vie tranquille, travaillant juste pour avoir de quoi vivre. Je ne "
 "suis pas dépensier. Le reste du temps, je peux très bien rencontrer des gens "
 "intéressants avec qui flâner ou apprendre à faire des choses que je ne sais "
@@ -1087,7 +1097,7 @@ msgstr ""
 "<hr /><b>Note de traduction</b><ol>\n"
 "<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
 "\">&#8593;</a> \n"
-"Nous traduisons maintenant <i>proprietary</i> par « privateur ».</li>\n"
+"Nous traduisons maintenant <i>proprietary</i> par « privateur ».</li>\n"
 "</ol>"
 
 #. type: Content of: <div><div><p>
@@ -1111,14 +1121,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -1129,12 +1139,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 1999, 2000, 2001, 2002, 2007, 2013, 2014, 2020 Free "
-"Software Foundation, Inc."
-msgstr ""
-"Copyright &copy; 1999, 2000, 2001, 2002, 2007, 2013, 2014, 2020 Free "
-"Software Foundation, Inc."
+msgid "Copyright &copy; 1999, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1999, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1151,7 +1157,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Pierre-Yves Enderlin.<br /> Révision : <a href=\"mailto:trad-"
+"Traduction : Pierre-Yves Enderlin.<br /> Révision : <a href=\"mailto:trad-"
 "gnu&#64;april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 

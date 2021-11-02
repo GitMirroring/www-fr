@@ -9,13 +9,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: initial-announcement.html\n"
-"POT-Creation-Date: 2014-04-04 23:59+0000\n"
-"PO-Revision-Date: 2021-09-12 19:21+0200\n"
+"POT-Creation-Date: 2021-11-02 14:27+0000\n"
+"PO-Revision-Date: 2021-11-02 17:21+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
 "X-Generator: Gtranslator 2.91.5\n"
@@ -24,19 +24,19 @@ msgstr ""
 msgid "Initial Announcement - GNU Project - Free Software Foundation"
 msgstr "Annonce initiale - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Initial Announcement"
 msgstr "Annonce initiale"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This is the original announcement of the GNU Project, posted by <a href="
-"\"http://www.stallman.org/\">Richard Stallman</a> on September 27, 1983."
+"\"https://www.stallman.org/\">Richard Stallman</a> on September 27, 1983."
 msgstr ""
-"Voici l'annonce originale du projet GNU, publiée par <a href=\"http://www."
+"Voici l'annonce originale du projet GNU, publiée par <a href=\"https://www."
 "stallman.org/\">Richard Stallman</a> le 27 septembre 1983."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The actual history of the GNU Project differs in many ways from this initial "
 "plan. For example, the beginning was delayed until January 1984. Several of "
@@ -48,25 +48,26 @@ msgstr ""
 "concepts philosophiques du <a href=\"/philosophy/free-sw.html\">logiciel "
 "libre</a> n'ont été clarifiés qu'après plusieurs années."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Free Unix!"
-msgstr "Libérez Unix !"
+msgstr "Libérez Unix !"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Starting this Thanksgiving I am going to write a complete Unix-compatible "
-"software system called GNU (for Gnu's Not Unix), and give it away free<a "
-"href=\"#f1\">(1)</a> to everyone who can use it.  Contributions of time, "
-"money, programs and equipment are greatly needed."
+"software system called GNU (for Gnu's Not Unix), and give it away free&#8239;"
+"<a class=\"ftn\" href=\"#f1\">[1]</a> to everyone who can use it.  "
+"Contributions of time, money, programs and equipment are greatly needed."
 msgstr ""
 "À partir de Thanksgiving je vais écrire un système logiciel complet "
 "compatible avec Unix appelé GNU (pour <i>Gnu's Not Unix</i> – Gnu N'est pas "
-"Unix), et le distribuer librement (ou gratuitement ?) <i>[free]</i><a href="
-"\"#f1\"><sup>1</sup></a> à quiconque voudra l'utiliser.<a id=\"TransNote1-rev"
-"\" href=\"#TransNote1\"><sup>a</sup></a> Il y a grand besoin de "
-"contributions sous forme de temps, d'argent, de programmes et d'équipement."
+"Unix), et le distribuer librement (ou gratuitement ?) <i>[free]</i> <a class="
+"\"ftn\" href=\"#f1\">[1]</a> à quiconque voudra l'utiliser.<a id="
+"\"TransNote1-rev\" href=\"#TransNote1\"><sup>a</sup></a> Il y a grand besoin "
+"de contributions sous forme de temps, d'argent, de programmes et "
+"d'équipement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To begin with, GNU will be a kernel plus all the utilities needed to write "
 "and run C programs: editor, shell, C compiler, linker, assembler, and a few "
@@ -76,7 +77,7 @@ msgid ""
 "anything else useful, including on-line and hardcopy documentation."
 msgstr ""
 "Pour commencer, GNU comprendra un noyau ainsi que tous les utilitaires "
-"requis pour écrire et faire tourner des programmes C : éditeur, interpréteur "
+"requis pour écrire et faire tourner des programmes C : éditeur, interpréteur "
 "de commandes, compilateur C, éditeur de liens, assembleur et quelques autres "
 "encore. Par la suite, nous ajouterons un formateur de texte, un YACC, un jeu "
 "Empire, un tableur et des centaines d'autres choses. À terme, nous espérons "
@@ -84,7 +85,7 @@ msgstr ""
 "ainsi que tout autre composant utile, y compris de la documentation en ligne "
 "et imprimée."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "GNU will be able to run Unix programs, but will not be identical to Unix.  "
 "We will make all improvements that are convenient, based on our experience "
@@ -111,11 +112,11 @@ msgstr ""
 "protocole Chaosnet du MIT, bien supérieur à UUCP. Nous pourrions aussi avoir "
 "quelque chose de compatible avec UUCP."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Who Am I?"
-msgstr "Qui suis-je ?"
+msgstr "Qui suis-je ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I am Richard Stallman, inventor of the original much-imitated EMACS editor, "
 "now at the Artificial Intelligence Lab at MIT.  I have worked extensively on "
@@ -135,11 +136,11 @@ msgstr ""
 "œuvre un système de fichiers robuste et deux systèmes de fenêtrage pour "
 "machines Lisp."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Why I Must Write GNU"
 msgstr "Pourquoi je dois écrire GNU"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I consider that the golden rule requires that if I like a program I must "
 "share it with other people who like it.  I cannot in good conscience sign a "
@@ -150,7 +151,7 @@ msgstr ""
 "conscience signer un accord de confidentialité ni un accord de licence de "
 "logiciel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So that I can continue to use computers without violating my principles, I "
 "have decided to put together a sufficient body of free software so that I "
@@ -161,11 +162,11 @@ msgstr ""
 "libres, de manière à pouvoir m'en tirer sans aucun logiciel qui ne soit pas "
 "libre."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "How You Can Contribute"
 msgstr "Comment vous pouvez participer"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I am asking computer manufacturers for donations of machines and money.  I'm "
 "asking individuals for donations of programs and work."
@@ -174,7 +175,7 @@ msgstr ""
 "et d'argent. Je demande aux gens une participation sous forme de programmes "
 "et de travail."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "One computer manufacturer has already offered to provide a machine.  But we "
 "could use more.  One consequence you can expect if you donate machines is "
@@ -189,7 +190,7 @@ msgstr ""
 "requérir d'installation électrique ni de système de refroidissement "
 "sophistiqués."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Individual programmers can contribute by writing a compatible duplicate of "
 "some Unix utility and giving it to me.  For most projects, such part-time "
@@ -202,14 +203,14 @@ msgstr ""
 "Les programmeurs individuels peuvent apporter leur contribution en écrivant "
 "des clones de certains utilitaires d'Unix et en me les donnant. Pour la "
 "plupart des projets, un tel travail distribué à temps partiel serait très "
-"difficile à coordonner ; les parties écrites indépendamment ne pourraient "
+"difficile à coordonner ; les parties écrites indépendamment ne pourraient "
 "pas fonctionner ensemble. Mais pour la tâche particulière de remplacer Unix, "
 "ce problème n'existe pas. La plupart des spécifications d'interface sont "
 "déterminées par la compatibilité avec Unix. Si chacune des contributions "
 "peut fonctionner avec le reste d'Unix, elle a de fortes chances de "
 "fonctionner avec le reste de GNU."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If I get donations of money, I may be able to hire a few people full or part "
 "time.  The salary won't be high, but I'm looking for people for whom knowing "
@@ -224,69 +225,51 @@ msgstr ""
 "mettre toute leur énergie à travailler sur GNU en leur épargnant le besoin "
 "de gagner leur vie d'une autre manière."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "For more information, contact me."
 msgstr "Pour plus ample information, contactez-moi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "Arpanet mail:"
 msgstr "Arpanet mail:"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "RMS@MIT-MC.ARPA"
 msgstr "RMS@MIT-MC.ARPA"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "Usenet:"
 msgstr "Usenet:"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "...!mit-eddie!RMS@OZ"
 msgstr "...!mit-eddie!RMS@OZ"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "...!mit-vax!RMS@OZ"
 msgstr "...!mit-vax!RMS@OZ"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "US Snail:"
 msgstr "US Snail:"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "Richard Stallman"
 msgstr "Richard Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "166 Prospect St"
 msgstr "166 Prospect St"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "Cambridge, MA 02139"
 msgstr "Cambridge, MA 02139"
 
-#. type: Content of: <h4>
-msgid "Poor choice of wording around &ldquo;free&rdquo;"
-msgstr "Piètre formulation autour du mot <i>free</i>"
-
-#. type: Content of: <p>
-msgid ""
-"The wording here was careless.  The intention was that nobody would have to "
-"pay for <b>permission</b> to use the GNU system.  But the words don't make "
-"this clear, and people often interpret them as saying that copies of GNU "
-"should always be distributed at little or no charge.  That was never the "
-"intent."
-msgstr ""
-"Ici, les mots n'ont pas été choisis soigneusement. Le sens voulu était que "
-"personne n'aurait à payer pour la <b>permission</b> d'utiliser le système "
-"GNU. Mais la phrase ne rend pas cela clairement, et les gens l'interprètent "
-"souvent comme indiquant que les copies de GNU devraient toujours être "
-"distribuées à bas coût ou gratuitement ; cela n'a jamais été mon intention."
-
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Original message"
 msgstr "Message original"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "For completeness, the original email is reproduced here, in its original "
 "form."
@@ -295,10 +278,9 @@ msgstr ""
 "forme originale."
 
 #. TRANSLATORS: Don't translate anything except the headers.
-#. type: Content of: <div><pre>
+#. type: Content of: <div><div><pre>
 #, no-wrap
 msgid ""
-"\n"
 "From CSvax:pur-ee:inuxc!ixn5c!ihnp4!houxm!mhuxi!eagle!mit-vax!mit-eddie!RMS@MIT-OZ\n"
 "From: RMS%MIT-OZ@mit-eddie\n"
 "Newsgroups: net.unix-wizards,net.usoft\n"
@@ -310,7 +292,7 @@ msgid ""
 "\n"
 "Starting this Thanksgiving I am going to write a complete\n"
 "Unix-compatible software system called GNU (for Gnu's Not Unix), and\n"
-"give it away free<a href=\"#f1\">(1)</a> to everyone who can use it.\n"
+"give it away free&#8239;<a href=\"#f1\">[1]</a> to everyone who can use it.\n"
 "Contributions of time, money, programs and equipment are greatly\n"
 "needed.\n"
 "\n"
@@ -398,7 +380,6 @@ msgid ""
 "  166 Prospect St\n"
 "  Cambridge, MA 02139\n"
 msgstr ""
-"\n"
 "From CSvax:pur-ee:inuxc!ixn5c!ihnp4!houxm!mhuxi!eagle!mit-vax!mit-eddie!RMS@MIT-OZ\n"
 "From: RMS%MIT-OZ@mit-eddie\n"
 "Newsgroups: net.unix-wizards,net.usoft\n"
@@ -497,6 +478,25 @@ msgstr ""
 "  Richard Stallman\n"
 "  166 Prospect St\n"
 "  Cambridge, MA 02139\n"
+
+#. type: Content of: <div><h3>
+msgid "Footnote"
+msgstr "Note"
+
+#. type: Content of: <div><ol><li>
+msgid ""
+"<em>The wording here was careless.</em> The intention was that nobody would "
+"have to pay for <b>permission</b> to use the GNU system.  But the words "
+"don't make this clear, and people often interpret them as saying that copies "
+"of GNU should always be distributed at little or no charge.  That was never "
+"the intent."
+msgstr ""
+"<em>Ici, les mots n'ont pas été choisis soigneusement.</em> Le sens voulu "
+"était que personne n'aurait à payer pour la <b>permission</b> d'utiliser le "
+"système GNU. Mais la phrase ne rend pas cela clairement, et les gens "
+"l'interprètent souvent comme indiquant que les copies de GNU devraient "
+"toujours être distribuées à bas coût ou gratuitement ; cela n'a jamais été "
+"mon intention."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -506,7 +506,7 @@ msgstr ""
 "<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
 "\">&#8593;</a> \n"
 "Cette phrase met en évidence toute l'ambiguïté du mot anglais <i>free</i>, "
-"qui peut signifier « libre » ou « gratuit ». Nous avons laissé à dessein les "
+"qui peut signifier « libre » ou « gratuit ». Nous avons laissé à dessein les "
 "deux traductions, car à l'époque le lecteur n'aurait pas pu choisir. Par la "
 "suite, cette ambiguïté causera pas mal de soucis au mouvement du logiciel "
 "libre <i>[free software]</i>.</li></ol>"
@@ -532,14 +532,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -551,31 +551,32 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1983, 1999, 2007, 2008, 2009, 2013, 2014 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 1983, 1999, 2007, 2009, 2021 Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1983, 1999, 2007, 2008, 2009, 2013, 2014 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 1983, 1999, 2007, 2009, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Wolfgang Sourdeau.<br />Révision : <a href=\"mailto:trad-"
+"Traduction : Wolfgang Sourdeau.<br />Révision : <a href=\"mailto:trad-"
 "gnu&#64;april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+#~ msgid "Poor choice of wording around &ldquo;free&rdquo;"
+#~ msgstr "Piètre formulation autour du mot <i>free</i>"
