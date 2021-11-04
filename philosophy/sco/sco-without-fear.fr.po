@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sco-without-fear.html\n"
 "POT-Creation-Date: 2021-10-03 08:55+0000\n"
-"PO-Revision-Date: 2021-10-03 12:02+0200\n"
+"PO-Revision-Date: 2021-11-04 22:05+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -31,7 +31,8 @@ msgstr "SCO : sans peur et sans recherche"
 
 #. type: Content of: <div><address>
 msgid "by Eben Moglen&#8239;<a href=\"#moglen\"><sup>[*]</sup></a>"
-msgstr "par Eben Moglen <a href=\"#moglen\"><sup>[*]</sup></a>"
+msgstr ""
+"par Eben Moglen <a id=\"moglen-rev\" href=\"#moglen\"><sup>[*]</sup></a>"
 
 #. type: Content of: <div><p>
 msgid "<i>Monday 24 November 2003</i>"
@@ -92,9 +93,9 @@ msgstr ""
 "à Las Vegas où il présenta des diapositives censées contenir des exemples de "
 "plagiat de Sys V par Linux. Quelques heures plus tard, les communautés du "
 "logiciel libre et de l'open source avaient analysé la soi-disant meilleure "
-"preuve de SCO et les résultats n'étaient pas encourageants pour les "
+"preuve de SCO, et les résultats n'étaient pas encourageants pour les "
 "investisseurs ni, plus généralement, pour ceux qui espéraient que SCO savait "
-"de quoi elle parlait.<a href=\"#foot17\">[1]</a>"
+"de quoi elle parlait <a class=\"ftn\" id=\"f1-rev\" href=\"#foot17\">[1]</a>."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -381,26 +382,24 @@ msgid ""
 "Bruce Perens, and is <a href=\"https://web.archive.org/web/20030828144050/"
 "perens.com/Articles/SCO/SCOSlideShow.html\">archived</a>."
 msgstr ""
-"Un résumé très complet de la présentation de SCO à Las Vegas a été écrit par "
-"Bruce Perens. Il est <a href=\"https://web.archive.org/web/20030828144050/"
-"perens.com/Articles/SCO/SCOSlideShow.html\">archivé ici</a>."
+"<a href=\"#f1-rev\" class=\"nounderline\">&#8593;</a> \n"
+"Un résumé très complet de la présentation de SCO à Las Vegas a été rédigé "
+"par Bruce Perens. Il est <a href=\"https://web.archive.org/"
+"web/20030828144050/perens.com/Articles/SCO/SCOSlideShow.html\">archivé ici</"
+"a>."
 
 #. type: Content of: <div><div><p>
 msgid ""
 "[*] Eben Moglen is General Counsel to FSF, and serves on its board of "
 "directors."
 msgstr ""
-"[*] Eben Moglen est l'avocat-conseil général <i>[General Counsel]</i> de la "
-"FSF et siège à son conseil d'administration."
+"<a href=\"#moglen-rev\">[*]</a>  Eben Moglen est l'avocat-conseil général <i>"
+"[General Counsel]</i> de la FSF et siège à son conseil d'administration."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
-msgstr ""
-"<hr /><b>Note de traduction</b><ol>\n"
-"<li><a id=\"TransNote1\">href=\"#TransNote1-rev\" class=\"nounderline"
-"\">&#8593;</a> \n"
-"Cette page ne semble plus disponible.</li></ol>"
+msgstr " "
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -456,7 +455,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Laurent Bertaud et Jérôme Dominguez.<br />Révision : <a href="
+"Traduction : Laurent Bertaud et Jérôme Dominguez<br />Révision : <a href="
 "\"mailto:trad-gnu&#64;april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 

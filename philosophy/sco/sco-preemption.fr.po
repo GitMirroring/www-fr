@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sco-preemption.html\n"
 "POT-Creation-Date: 2021-10-03 08:55+0000\n"
-"PO-Revision-Date: 2021-10-03 12:02+0200\n"
+"PO-Revision-Date: 2021-11-04 22:05+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -31,7 +31,8 @@ msgstr "SCO à contresens, revendiquant l'invalidité de la GPL"
 
 #. type: Content of: <div><address>
 msgid "by Eben Moglen&#8239;<a href=\"#moglen\"><sup>[*]</sup></a>"
-msgstr "par Eben Moglen <a href=\"#moglen\"><sup>[*]</sup></a>"
+msgstr ""
+"par Eben Moglen <a id=\"moglen-rev\" href=\"#moglen\"><sup>[*]</sup></a>"
 
 #. type: Content of: <div><p>
 msgid "<i>Monday 18 August 2003</i>"
@@ -220,9 +221,9 @@ msgid ""
 "[*] Eben Moglen is professor of law at Columbia University Law School.  He "
 "serves without fee as General Counsel of the Free Software Foundation."
 msgstr ""
-"[*] Eben Moglen est professeur de droit à la <i>Columbia University Law "
-"School</i>. Il travaille bénévolement pour la <i>Free Software Foundation</"
-"i> en tant qu'avocat-conseil général."
+"<a href=\"#moglen-rev\">[*]</a>  Eben Moglen est professeur de droit à la "
+"<i>Columbia University Law School</i>. Il travaille bénévolement pour la "
+"<i>Free Software Foundation</i> en tant qu'avocat-conseil général."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -283,7 +284,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Cédric Corazza.<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Cédric Corazza<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 
