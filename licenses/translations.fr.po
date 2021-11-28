@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: translations.html\n"
 "POT-Creation-Date: 2021-11-20 10:26+0000\n"
-"PO-Revision-Date: 2021-11-22 21:29+0100\n"
+"PO-Revision-Date: 2021-11-27 18:40+0100\n"
 "Last-Translator: Sogal <sogal AT member.fsf.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -27,7 +27,10 @@ msgstr "GNU, FSF, Free Software Foundation, Linux, Copyleft, Licences"
 
 #. type: Content of: <h2>
 msgid "Unofficial Translations"
-msgstr "</h2><div class=\"reduced-width\"><h2>Traductions non officielles"
+msgstr ""
+"</h2><div class=\"reduced-width\" style=\"margin-top:-1em\"><h2 style="
+"\"padding-bottom:.8em; border-bottom:2px solid #bbb\">Traductions non "
+"officielles"
 
 #. type: Content of: <h3>
 msgid "Information about unofficial translations"
@@ -59,7 +62,7 @@ msgstr ""
 "Pour souligner le fait que ces traductions ne sont pas valables "
 "officiellement, nous ne publions pas de traduction. Pour que ce soit bien "
 "clair, nous ne les mettons pas en ligne sur gnu.org ni sur aucun autre site "
-"de GNU ou de la FSF ; nous les mettons seulement en lien."
+"de GNU ou de la FSF ; nous les mettons seulement en lien."
 
 #. type: Content of: <p>
 msgid ""
@@ -89,7 +92,7 @@ msgid ""
 "languages, provided that:"
 msgstr ""
 "Nous permettons la publication de traductions des licences GNU en d'autres "
-"langues, aux conditions suivantes :"
+"langues, aux conditions suivantes :"
 
 #. type: Content of: <ol><li>
 msgid ""
@@ -138,10 +141,10 @@ msgid ""
 msgstr ""
 "Vous permettez aux autres de copier, modifier et republier vos traductions "
 "(ainsi que des versions modifiées de vos traductions) selon ces clauses en y "
-"ajoutant l'avis suivant : « Vous ne pouvez publier cette traduction, avec ou "
+"ajoutant l'avis suivant : « Vous ne pouvez publier cette traduction, avec ou "
 "sans modification, que selon les termes explicités dans &lt;<a href=\"/"
 "licenses/translations.html\">http://www.gnu.org/licenses/translations.html</"
-"a>&gt;. »"
+"a>&gt;. »"
 
 #. type: Content of: <ol><li>
 msgid ""
@@ -177,9 +180,9 @@ msgid ""
 msgstr ""
 "Pour préciser que votre traduction n'est pas officielle, veuillez ajouter le "
 "texte suivant au début, aussi bien en anglais qu'en français. Remplacez "
-"<i>GNU General Public License</i>, « licence publique générale GNU » et "
+"<i>GNU General Public License</i>, « licence publique générale GNU » et "
 "<i>GPL</i> par le nom et l'abréviation de la licence que vous traduisez, "
-"s'il ne s'agit pas de la GPL :"
+"s'il ne s'agit pas de la GPL :"
 
 #. TRANSLATORS: If you translate this paragraph, retain the English
 #. text and put your translation below.  The entire <blockquote>
@@ -220,15 +223,15 @@ msgid ""
 "page."
 msgstr ""
 "Si vous traduisez une licence, quelle qu'elle soit, merci d'en informer les "
-"responsables des traductions de gnu.org <a href=\"mailto:web-translators@gnu."
-"org\">&lt;web-translators@gnu.org&gt;</a>. Ils s'assureront qu'elle respecte "
-"les règles ci-dessus et la mettront en lien sur cette page."
+"responsables des traductions de gnu.org &lt;<a href=\"mailto:web-"
+"translators@gnu.org\">web-translators@gnu.org</a>&gt;. Ils s'assureront "
+"qu'elle respecte les règles ci-dessus et la mettront en lien sur cette page."
 
 #. type: Content of: <h3>
 msgid "The GNU General Public License, version 3"
 msgstr ""
 "Licence publique générale GNU (GNU <abbr title=\"General Public License"
-"\">GPL</abbr>), version 3 .<a href=\"#TransNote1\" id=\"TransNote1-rev"
+"\">GPL</abbr>), version 3 <a href=\"#TransNote1\" id=\"TransNote1-rev"
 "\"><sup>1</sup></a>"
 
 #.  RT #816348 
@@ -552,7 +555,7 @@ msgid ""
 "FAQ</a>."
 msgstr ""
 "La FDL 1.3 a été publiée le 3 novembre 2008. Elle a relativement peu de "
-"différences avec la FDL 1.2 ; les seuls changements majeurs introduits dans "
+"différences avec la FDL 1.2 ; les seuls changements majeurs introduits dans "
 "cette version sont la révision de la section 9 et l'ajout de la section 11. "
 "Par conséquent, les <a href=\"/licenses/old-licenses/fdl-1.2-translations."
 "html\">traductions de la FDL 1.2</a> peuvent aussi aider à comprendre la "
@@ -642,8 +645,8 @@ msgid ""
 "<code>[id]</code> Indonesian, <a href=\"mailto:web-translators@gnu.org\"> "
 "&lt;web-translators@gnu.org&gt;</a>"
 msgstr ""
-"<code>[id]</code> Indonésien, <a href=\"mailto:web-translators@gnu.org\"> "
-"&lt;web-translators@gnu.org&gt;</a>"
+"<code>[id]</code> Indonésien, &lt;<a href=\"mailto:web-translators@gnu.org"
+"\"> web-translators@gnu.org</a>&gt;"
 
 #. type: Content of: <h3>
 msgid "Unofficial translations of exceptions to GNU licenses"
@@ -780,7 +783,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Cédric Corazza.<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Cédric Corazza<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 

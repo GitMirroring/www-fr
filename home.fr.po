@@ -10,16 +10,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2021-07-21 14:56+0000\n"
-"PO-Revision-Date: 2021-07-21 19:15+0200\n"
+"POT-Creation-Date: 2021-11-25 08:57+0000\n"
+"PO-Revision-Date: 2021-11-27 18:40+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid "The GNU Operating System and the Free Software Movement"
@@ -54,7 +52,7 @@ msgid ""
 msgstr ""
 "GNU est le seul système d'exploitation qui ait été développé spécialement "
 "pour donner à ses utilisateurs la liberté. Qu'est-ce que GNU et de quelle "
-"liberté parle-t-on ?"
+"liberté parle-t-on ?"
 
 #. type: Attribute 'label' of: <div><div><div><video><track>
 msgid "English"
@@ -90,12 +88,12 @@ msgid ""
 "the-right-to-repair\"> Fight to Repair: A video from the FSF</a>"
 msgstr ""
 "<a href=\"https://www.fsf.org/blogs/community/watch-fight-to-repair-demand-"
-"the-right-to-repair\"><i>Fight to Repair</i></a> (se battre pour réparer) : "
+"the-right-to-repair\"><i>Fight to Repair</i></a> (se battre pour réparer) : "
 "une vidéo de la FSF"
 
 #. type: Content of: <div><div><h2>
 msgid "What is GNU?"
-msgstr "Qu'est-ce que GNU ?"
+msgstr "Qu'est-ce que GNU ?"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -107,7 +105,7 @@ msgid ""
 "would trample your freedom."
 msgstr ""
 "GNU est un système d'exploitation constitué de <a href=\"/philosophy/free-sw."
-"html\">logiciel libre</a> – c'est-à-dire qu'il respecte la liberté des "
+"html\">logiciel libre</a>, c'est-à-dire qu'il respecte la liberté des "
 "utilisateurs. Le système d'exploitation GNU comprend des logiciels GNU "
 "(programmes publiés par le projet GNU) ainsi que des logiciels libres "
 "publiés par des tiers. Le développement de GNU a rendu possible "
@@ -326,7 +324,7 @@ msgstr ""
 
 #. type: Content of: <div><div><h2>
 msgid "What is the Free Software Movement?"
-msgstr "Qu'est-ce que le mouvement du logiciel libre ?"
+msgstr "Qu'est-ce que le mouvement du logiciel libre ?"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -346,7 +344,7 @@ msgstr ""
 
 #. type: Content of: <div><div><h2>
 msgid "What is Free Software?"
-msgstr "Qu'est-ce que le logiciel libre ?"
+msgstr "Qu'est-ce que le logiciel libre ?"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -364,8 +362,8 @@ msgid ""
 "as in &ldquo;free beer&rdquo;."
 msgstr ""
 "Le logiciel libre est affaire de liberté, pas de prix. Pour comprendre ce "
-"concept, vous devez penser à « liberté d'expression », pas à « entrée "
-"libre » (NdT : en anglais, le mot <i>free</i> veut dire libre, mais aussi "
+"concept, vous devez penser à « liberté d'expression », pas à « entrée "
+"libre » (NdT : en anglais, le mot <i>free</i> veut dire libre, mais aussi "
 "gratuit, d'où la confusion possible)."
 
 #. type: Content of: <div><div><p>
@@ -374,14 +372,14 @@ msgid ""
 "philosophy/free-sw.html\">four essential freedoms</a>:"
 msgstr ""
 "Plus exactement, cela signifie que l'utilisateur d'un programme libre jouit "
-"des <a href=\"/philosophy/free-sw.html\">quatre libertés essentielles</a> :"
+"des <a href=\"/philosophy/free-sw.html\">quatre libertés essentielles</a> :"
 
 #. type: Content of: <div><div><ul><li>
 msgid ""
 "The freedom to run the program as you wish, for any purpose (freedom 0)."
 msgstr ""
 "la liberté de faire fonctionner le programme comme il le souhaite, pour "
-"n'importe quel usage (liberté 0) ;"
+"n'importe quel usage (liberté 0) ;"
 
 #. type: Content of: <div><div><ul><li>
 msgid ""
@@ -390,13 +388,13 @@ msgid ""
 "precondition for this."
 msgstr ""
 "la liberté d'étudier le fonctionnement du programme et de le modifier pour "
-"qu'il fasse les opérations informatiques que vous souhaitez (liberté 1) ; "
-"une condition préalable est d'accéder au code source ;"
+"qu'il fasse les opérations informatiques que vous souhaitez (liberté 1) ; "
+"une condition préalable est d'accéder au code source ;"
 
 #. type: Content of: <div><div><ul><li>
 msgid "The freedom to redistribute copies so you can help others (freedom 2)."
 msgstr ""
-"la liberté d'en redistribuer des copies pour aider les autres (liberté 2) ;"
+"la liberté d'en redistribuer des copies pour aider les autres (liberté 2) ;"
 
 #. type: Content of: <div><div><ul><li>
 msgid ""
@@ -406,8 +404,8 @@ msgid ""
 "this."
 msgstr ""
 "la liberté de distribuer des copies de vos versions modifiées aux autres "
-"(liberté 3) ; ce faisant, vous donnez à l'ensemble de la communauté une "
-"chance de bénéficier de vos modifications ; une condition préalable est "
+"(liberté 3) ; ce faisant, vous donnez à l'ensemble de la communauté une "
+"chance de bénéficier de vos modifications ; une condition préalable est "
 "d'accéder au code source."
 
 #. type: Content of: <div><div><p>
@@ -447,11 +445,11 @@ msgid ""
 "packages</a>."
 msgstr ""
 "<a id=\"More-GNU\">GNU</a> est un système d'exploitation de type Unix. Cela "
-"signifie qu'il s'agit d'un ensemble de nombreux programmes : applications, "
+"signifie qu'il s'agit d'un ensemble de nombreux programmes : applications, "
 "bibliothèques, outils de développement, même des jeux. Le développement de "
 "GNU, entamé en janvier 1984, est connu sous le nom de projet GNU. Un grand "
 "nombre des programmes qui font partie du système GNU sont publiés sous les "
-"auspices du projet GNU ; nous les appelons <a href=\"/software/\">paquets "
+"auspices du projet GNU ; nous les appelons <a href=\"/software/\">paquets "
 "GNU</a>."
 
 #. type: Content of: <div><div><p>
@@ -461,8 +459,8 @@ msgid ""
 "pronounced <em>g'noo</em></a>, as one syllable, like saying &ldquo;"
 "grew&rdquo; but replacing the <em>r</em> with <em>n</em>."
 msgstr ""
-"Le nom « GNU » est un acronyme récursif pour « GNU's Not Unix ». <a href=\"/"
-"pronunciation/pronunciation.html\">« GNU » se prononce <em>gnou</em></a>, "
+"Le nom « GNU » est un acronyme récursif pour « GNU's Not Unix ». <a href=\"/"
+"pronunciation/pronunciation.html\">« GNU » se prononce <em>gnou</em></a>, "
 "avec un <em>g</em> dur."
 
 #. type: Content of: <div><div><p>
@@ -475,11 +473,11 @@ msgid ""
 "&ldquo;Linux&rdquo; by mistake</a>."
 msgstr ""
 "Dans un système de type Unix, le programme qui alloue les ressources d'une "
-"machine et communique avec le matériel s'appelle le « noyau ». GNU est "
+"machine et communique avec le matériel s'appelle le « noyau ». GNU est "
 "généralement utilisé avec un noyau appelé Linux.  Cette association forme le "
 "<a href=\"/gnu/linux-and-gnu.html\"><strong>système d'exploitation GNU/"
 "Linux</strong></a>. GNU/Linux est utilisé par des millions de gens même si "
-"beaucoup <a href=\"/gnu/gnu-linux-faq.html\">l'appellent « Linux » par "
+"beaucoup <a href=\"/gnu/gnu-linux-faq.html\">l'appellent « Linux » par "
 "erreur</a>."
 
 #. type: Content of: <div><div><p>
@@ -495,6 +493,16 @@ msgstr ""
 #. type: Content of: <div><div><p>
 msgid "<a href=\"/gnu/gnu.html\">More information</a>"
 msgstr "<a href=\"/gnu/gnu.html\">En savoir plus</a>"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"This year, choose Freedom as a gift.  Here's an <strong><a href=\"https://"
+"www.fsf.org/blogs/community/fsf-giving-guide-freedom-is-the-greatest-gift-of-"
+"all\"> Ethical Tech Giving Guide</a></strong>"
+msgstr ""
+"Cette année, faites cadeau de la Liberté. Voici un <strong><a href=\"https://"
+"www.fsf.org/blogs/community/fsf-giving-guide-freedom-is-the-greatest-gift-of-"
+"all\">Guide des cadeaux technologiques éthiques</a></strong>."
 
 #. type: Content of: <div><div><div><p>
 msgid ""
@@ -573,7 +581,7 @@ msgstr "RSS Feed"
 
 #. type: Content of: <div><div><div><h3>
 msgid "Take Action"
-msgstr "Agissez !"
+msgstr "Agissez !"
 
 #. type: Content of: <div><div><div><ul><li>
 msgid ""
@@ -626,7 +634,7 @@ msgid ""
 "priority-projects/\">High Priority Areas</a>?</strong>"
 msgstr ""
 "<strong>Pouvez-vous contribuer à certains de ces <a href=\"//www.fsf.org/"
-"campaigns/priority-projects/\">projets prioritaires</a> ?</strong>"
+"campaigns/priority-projects/\">projets prioritaires</a> ?</strong>"
 
 #. type: Content of: <div><div><div><ul><li>
 msgid "Free phone operating system,"
@@ -660,7 +668,7 @@ msgid ""
 "GNU package</a>?</strong>"
 msgstr ""
 "<strong>Pouvez-vous contribuer à la <a href=\"/server/takeaction.html#unmaint"
-"\">maintenance d'un paquet GNU</a> ?</strong>"
+"\">maintenance d'un paquet GNU</a> ?</strong>"
 
 #. type: Content of: <div><div><div><ul><li>
 msgid ""
@@ -680,7 +688,7 @@ msgstr " sont tous à la recherche d'un repreneur."
 
 #. type: Content of: <div><div><div><ul><li>
 msgid "Also, these packages are looking for co-maintainers:"
-msgstr "Et ceux-ci sont à la recherche d'un comainteneur :"
+msgstr "Et ceux-ci sont à la recherche d'un comainteneur :"
 
 #. type: Content of: <div><div><div><ul><li>
 msgid ""
@@ -741,7 +749,7 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid "Feel free to join them!"
-msgstr "N'hésitez pas à les rejoindre !"
+msgstr "N'hésitez pas à les rejoindre !"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -802,7 +810,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Cédric Corazza.<br />Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Cédric Corazza<br />Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 

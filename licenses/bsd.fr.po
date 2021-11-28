@@ -9,15 +9,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: bsd.html\n"
-"POT-Creation-Date: 2021-04-07 17:55+0000\n"
-"PO-Revision-Date: 2021-04-07 21:45+0200\n"
+"POT-Creation-Date: 2021-11-18 15:25+0000\n"
+"PO-Revision-Date: 2021-11-27 18:40+0100\n"
 "Last-Translator: Sébastien Poher <sbphr @T volted.net>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms:  \n"
 
 #. type: Content of: <title>
 msgid "BSD License Problem - GNU Project - Free Software Foundation"
@@ -25,23 +24,25 @@ msgstr "Le problème de la licence BSD - Projet GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
 msgid "The BSD License Problem"
-msgstr "Le problème de la licence BSD"
+msgstr ""
+"</h2><div class=\"reduced-width\" style=\"margin-top:-1em\"><h2>Le problème "
+"de la licence BSD"
 
 #. type: Content of: <address>
 msgid "by Richard Stallman"
 msgstr "par Richard Stallman"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "See <a href=\"/licenses/license-recommendations.html\">&ldquo;How to choose "
 "a license for your own work&rdquo;</a> for general recommendations about "
 "choosing a license for your work."
 msgstr ""
 "Vous trouverez des recommandations générales sur le choix d'une licence dans "
-"« <a href=\"/licenses/license-recommendations.html\">Comment choisir une "
-"licence pour votre propre travail</a> »."
+"« <a href=\"/licenses/license-recommendations.html\">Comment choisir une "
+"licence pour votre propre travail</a> »."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <p>
 msgid ""
 "The two major categories of free software license are <a href=\"/licenses/"
 "copyleft.html\">copyleft</a> and <a href=\"/philosophy/categories.html#Non-"
@@ -64,15 +65,15 @@ msgstr ""
 "les utilisateurs, mais le logiciel non soumis au copyleft est néanmoins "
 "utile pour la communauté du logiciel libre."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <p>
 msgid ""
 "There are many variants of simple <a href=\"/licenses/license-list."
 "html#GPLCompatibleLicenses\">non-copyleft free software licenses</a>, such "
 "as the Expat license, FreeBSD license, X10 license, the X11 license, and the "
 "two BSD (Berkeley Software Distribution) licenses.  Most of them are "
 "equivalent except for details of wording, but the license used for BSD until "
-"1999 had a special problem: the &ldquo;obnoxious BSD advertising "
-"clause&rdquo;. It said that every advertisement mentioning the software must "
+"1999 had a special problem: the &ldquo;obnoxious BSD advertising clause."
+"&rdquo; It said that every advertisement mentioning the software must "
 "include a particular sentence:"
 msgstr ""
 "Il y a différentes <a href=\"/licenses/license-list."
@@ -81,11 +82,11 @@ msgstr ""
 "\"Berkeley Software Distribution\">BSD</abbr> (distribution de logiciels de "
 "Berkeley). La plupart sont équivalentes à part sur des détails de "
 "formulation, mais la licence utilisée par BSD jusqu'en 1999 avait un "
-"problème spécial : « l'odieuse clause de publicité de BSD », qui stipulait "
+"problème spécial : « l'odieuse clause de publicité de BSD », qui stipulait "
 "que chaque publicité mentionnant le logiciel devait inclure une citation "
-"particulière :"
+"particulière :"
 
-#. type: Content of: <div><div><pre>
+#. type: Content of: <pre>
 #, no-wrap
 msgid ""
 "3. All advertising materials mentioning features or use of this software\n"
@@ -98,7 +99,7 @@ msgstr ""
 "     This product includes software developed by the University of\n"
 "     California, Berkeley and its contributors.<a id=\"TransNote1-rev\" href=\"#TransNote1\"><sup>1</sup></a>\n"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <p>
 msgid ""
 "Initially the obnoxious BSD advertising clause was used only in the Berkeley "
 "Software Distribution.  That did not cause any particular problem, because "
@@ -109,7 +110,7 @@ msgstr ""
 "problème particulier, car inclure une citation dans une publicité n'est pas "
 "très difficile en pratique."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <p>
 msgid ""
 "If other developers who used BSD-like licenses had copied the BSD "
 "advertising clause verbatim&mdash;including the sentence that refers to the "
@@ -121,7 +122,7 @@ msgstr ""
 "réfère à l'université de Californie, alors ils n'auraient pas aggravé le "
 "problème."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <p>
 msgid ""
 "But, as you might expect, other developers did not copy the clause "
 "verbatim.  They changed it, replacing &ldquo;University of California&rdquo; "
@@ -134,7 +135,7 @@ msgstr ""
 "résultat est une pléthore de licences exigeant une pléthore de citations "
 "différentes."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <p>
 msgid ""
 "When people put many such programs together in an operating system, the "
 "result is a serious problem.  Imagine if a software system required 75 "
@@ -147,7 +148,7 @@ msgstr ""
 "groupe d'auteurs différent. Pour en faire la promotion, il vous faudrait une "
 "pleine page de publicité."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <p>
 msgid ""
 "This might seem like extrapolation ad absurdum, but it is actual fact.  In a "
 "1997 version of NetBSD, I counted 75 of these sentences.  (Fortunately "
@@ -158,7 +159,7 @@ msgstr ""
 "(heureusement, NetBSD a décidé de ne plus en ajouter et d'en enlever le plus "
 "possible)."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <p>
 msgid ""
 "To address this problem, in my &ldquo;spare time&rdquo; I talk with "
 "developers who have used BSD-style licenses, asking them if they would "
@@ -167,13 +168,13 @@ msgid ""
 "clause from all of their own code.  In May 1998 the developers of Flick, at "
 "the University of Utah, removed this clause."
 msgstr ""
-"Pour m'attaquer à ce problème, je parle à mes « moments perdus » à des "
+"Pour m'attaquer à ce problème, je parle à mes « moments perdus » à des "
 "développeurs qui ont utilisé des licences de style BSD, en leur demandant de "
 "supprimer la clause de publicité. En 1996, j'en ai parlé aux développeurs de "
 "FreeBSD et ils ont décidé de la supprimer de leur propre code. En mai 1998 "
 "les développeurs de Flick à l'université d'Utah ont supprimé cette clause."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <p>
 msgid ""
 "Dean Hal Varian at the University of California took up the cause, and "
 "championed it with the administration.  In June 1999, after two years of "
@@ -185,7 +186,7 @@ msgstr ""
 "après deux ans de discussions, l'université de Californie a supprimé cette "
 "clause de la licence de BSD."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <p>
 msgid ""
 "Thus, there is now a new BSD license which does not contain the advertising "
 "clause.  Unfortunately, this does not eliminate the legacy of the "
@@ -195,13 +196,13 @@ msgid ""
 "developers who made them can change them."
 msgstr ""
 "Ainsi, il y a désormais une nouvelle licence BSD qui ne contient pas la "
-"clause de publicité. Malheureusement, elle n'en supprime pas l'héritage : "
+"clause de publicité. Malheureusement, elle n'en supprime pas l'héritage : "
 "des clauses similaires sont toujours présentes dans les licences de beaucoup "
 "de paquets qui ne font pas partie de BSD. La modification de la licence de "
 "BSD n'a pas d'effet sur les autres paquets qui ont imité l'ancienne licence "
-"BSD ; seuls les développeurs de ces paquets peuvent les modifier."
+"BSD ; seuls les développeurs de ces paquets peuvent les modifier."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <p>
 msgid ""
 "But if they followed Berkeley's lead before, maybe Berkeley's change in "
 "policy will convince some of them to change.  It's worth asking."
@@ -210,7 +211,7 @@ msgstr ""
 "modification de la politique de Berkeley convaincra certain d'entre eux de "
 "changer. Ça vaut le coup de demander."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <p>
 msgid ""
 "So if you have a favorite package which still uses the BSD license with the "
 "advertising clause, please ask the maintainer to look at this web page, and "
@@ -220,7 +221,7 @@ msgstr ""
 "clause de publicité, demandez à son responsable de lire cet article et "
 "d'envisager cette modification."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <p>
 msgid ""
 "And if you want to release a program as non-copylefted free software, please "
 "don't use the advertising clause.  Thus, instead of copying the BSD license "
@@ -234,43 +235,43 @@ msgstr ""
 "version de la licence – veuillez utiliser d'autres licences permissives "
 "comme Expat ou FreeBSD."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <p>
 msgid ""
 "You can also help spread awareness of the issue by not using the term &ldquo;"
-"BSD-style&rdquo;, and not saying &ldquo;the BSD license&rdquo; which implies "
+"BSD-style,&rdquo; and not saying &ldquo;the BSD license&rdquo; which implies "
 "there is only one.  You see, when people refer to all non-copyleft free "
-"software licenses as &ldquo;BSD-style licenses&rdquo;, some new free "
+"software licenses as &ldquo;BSD-style licenses,&rdquo; some new free "
 "software developer who wants to use a non-copyleft free software license "
 "might take for granted that the place to get it is from BSD.  He or she "
 "might copy the license with the advertising clause, not by specific "
 "intention, just by chance."
 msgstr ""
 "Vous pouvez aussi favoriser la prise de conscience de ce problème en "
-"n'utilisant pas le terme « style BSD » et en ne disant pas « la licence "
-"BSD », ce qui implique qu'il n'y en a qu'une. Voyez-vous, quand on utilise "
-"le terme « licences de style BSD » pour se référer à toutes les licences "
+"n'utilisant pas le terme « style BSD » et en ne disant pas « la licence "
+"BSD », ce qui implique qu'il n'y en a qu'une. Voyez-vous, quand on utilise "
+"le terme « licences de style BSD » pour se référer à toutes les licences "
 "libres sans copyleft, cela peut amener de nouveaux développeurs de logiciel "
 "libre voulant utiliser une licence sans copyleft à chercher du côté de BSD, "
 "sans se poser de question. Il ou elle risque de copier la licence ayant la "
 "clause de publicité, non de manière intentionnelle, mais juste par hasard."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <p>
 msgid ""
 "If you would like to cite one specific example of a non-copyleft license, "
 "and you have no particular preference, please pick an example which has no "
 "particular problem.  For instance, if you talk about &ldquo;X11-style "
-"licenses&rdquo;, you will encourage people to copy the license from X11, "
+"licenses,&rdquo; you will encourage people to copy the license from X11, "
 "which avoids the advertising clause for certain, rather than take a risk by "
 "randomly choosing one of the BSD licenses."
 msgstr ""
 "Si vous voulez citer un exemple précis de licence sans copyleft et que vous "
 "n'avez pas de préférence marquée, je vous prie d'utiliser un exemple sans "
-"problème particulier. Par exemple, si vous parlez des « licences de style "
-"X11 », vous inciterez les développeurs à copier la licence X11, ce qui à "
+"problème particulier. Par exemple, si vous parlez des « licences de style "
+"X11 », vous inciterez les développeurs à copier la licence X11, ce qui à "
 "coup sûr évitera la clause de publicité, au lieu de faire au hasard un choix "
 "risqué entre les licences BSD."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <p>
 msgid ""
 "Or you could mention the non-copyleft license which <a href=\"/licenses/"
 "license-recommendations.html\"> we recommend over the other non-copyleft "
@@ -279,20 +280,20 @@ msgid ""
 msgstr ""
 "Ou bien vous pouvez mentionner la licence sans copyleft que <a href=\"/"
 "licenses/license-recommendations.html\">nous recommandons par rapport aux "
-"autres licences sans copyleft</a> : la licence Apache 2.0, qui a une clause "
+"autres licences sans copyleft</a> : la licence Apache 2.0, qui a une clause "
 "évitant les entourloupes relatives aux brevets."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <p>
 msgid ""
 "When you want to refer specifically to one of the BSD licenses, please "
 "always state which one: the &ldquo;original BSD license&rdquo; or the &ldquo;"
-"Modified BSD license&rdquo;."
+"Modified BSD license.&rdquo;"
 msgstr ""
 "Quand vous souhaitez faire référence spécifiquement à l'une des licences "
-"BSD, précisez toujours de laquelle il s'agit : « la licence BSD originale » "
-"ou « la licence BSD modifiée »."
+"BSD, précisez toujours de laquelle il s'agit : « la licence BSD originale » "
+"ou « la licence BSD modifiée »."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <p>
 msgid ""
 "Later a third BSD license variant was introduced, with only the first two of "
 "the original BSD license's four clauses.  We call it the &ldquo;FreeBSD "
@@ -301,7 +302,7 @@ msgid ""
 msgstr ""
 "Par la suite, une troisième variante de la licence BSD est apparue, incluant "
 "seulement deux des quatre clauses de la licence BSD originale. Nous "
-"l'appelons « Licence FreeBSD ». C'est une licence libre, laxiste et sans "
+"l'appelons « Licence FreeBSD ». C'est une licence libre, laxiste et sans "
 "copyleft, compatible avec la GNU GPL, tout comme la licence BSD modifiée."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
@@ -312,8 +313,8 @@ msgstr ""
 "<li id=\"TransNote1\"><a href=\"#TransNote1-rev\" class=\"nounderline"
 "\">&#8593;</a> Tous les documents de promotion mentionnant les "
 "fonctionnalités ou l'utilisation de ce logiciel doivent comporter les "
-"remerciements suivants : Ce produit comporte du logiciel développé par "
-"l'université de Californie à Berkeley et ses collaborateurs.</li></ol>"
+"remerciements suivants : Ce produit comporte du logiciel développé par "
+"l'université de Californie à Berkeley et ses collaborateurs.</li></ol></div>"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -376,7 +377,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Benjamin Drieu.<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Benjamin Drieu<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 

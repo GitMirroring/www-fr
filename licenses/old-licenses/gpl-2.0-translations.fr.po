@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gpl-2.0-translations.html\n"
 "POT-Creation-Date: 2020-07-09 11:55+0000\n"
-"PO-Revision-Date: 2021-11-22 21:29+0100\n"
+"PO-Revision-Date: 2021-11-27 18:40+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -29,7 +29,10 @@ msgstr "GNU, FSF, Free Software Foundation, Linux, Copyleft, Licences"
 
 #. type: Content of: <h2>
 msgid "Unofficial GNU GPL v2.0 Translations"
-msgstr "Traductions non officielles de la GNU GPL v2.0"
+msgstr ""
+"</h2><div class=\"reduced-width\" style=\"margin-top:-1em\"><h2 style="
+"\"padding-bottom:.8em; border-bottom:2px solid #bbb\">Traductions non "
+"officielles de la GNU GPL v2.0"
 
 #. type: Content of: <h3>
 msgid "Information about unofficial translations"
@@ -81,7 +84,7 @@ msgid ""
 "languages, provided that:"
 msgstr ""
 "Nous permettons la publication de traductions de la GNU GPL en d'autres "
-"langues, aux conditions suivantes :"
+"langues, aux conditions suivantes :"
 
 #. type: Content of: <ol><li>
 msgid ""
@@ -130,10 +133,10 @@ msgid ""
 msgstr ""
 "Vous permettez aux autres de copier, modifier et republier vos traductions "
 "(ainsi que des versions modifiées de vos traductions) selon ces clauses en y "
-"ajoutant l'avis suivant : « Vous ne pouvez publier cette traduction, avec ou "
+"ajoutant l'avis suivant : « Vous ne pouvez publier cette traduction, avec ou "
 "sans modification, que selon les termes explicités dans &lt;<a href=\"/"
 "licenses/translations.html\">http://www.gnu.org/licenses/translations.html</"
-"a>&gt;. »"
+"a>&gt;. »"
 
 #. type: Content of: <ol><li>
 msgid ""
@@ -167,7 +170,7 @@ msgid ""
 "of that language:"
 msgstr ""
 "Pour préciser que votre traduction n'est pas officielle, veuillez ajouter le "
-"texte suivant au début, aussi bien en anglais qu'en français :"
+"texte suivant au début, aussi bien en anglais qu'en français :"
 
 #. TRANSLATORS: If you translate this paragraph, retain the English
 #. text and put your translation below.  The entire <blockquote>
@@ -299,11 +302,11 @@ msgstr ""
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
-"<hr /><b>Note de traduction</b><ol>\n"
+" <hr /><b>Note de traduction</b><ol>\n"
 "<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
 "\">&#8593;</a> \n"
 "Deux traductions de la GPLv2 en français sont hébergées sur le <a href="
-"\"https://www.april.org/gnu\">site de l'April</a>.</li></ol>"
+"\"https://www.april.org/gnu\">site de l'April</a>.</li></ol></div>"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -366,7 +369,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Cédric Corazza.<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Cédric Corazza<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 
