@@ -285,9 +285,7 @@ msgstr ""
 
 #. type: Content of: <div><h3>
 msgid "Software Licenses"
-msgstr ""
-"</h3><div class=\"short-lines\" style=\"margin-top:-1.6em\"><h3>Licences de "
-"logiciel"
+msgstr "Licences de logiciel"
 
 #. type: Content of: <div><h4>
 msgid "<span id=\"FreeLicenses\"></span> GPL-Compatible Free Software Licenses"
@@ -310,10 +308,10 @@ msgid ""
 "html#WhatDoesCompatMean\">compatible</a> with the <a href=\"#GNUGPL\">GNU "
 "GPL</a>.</strong>"
 msgstr ""
-"<strong>Voici une liste de licences qui remplissent les critères du <a href="
-"\"/philosophy/free-sw.html\">logiciel libre</a> et qui sont <a href=\"/"
-"licenses/gpl-faq.html#WhatDoesCompatMean\">compatibles</a> avec la <a href="
-"\"#GNUGPL\">GNU GPL</a> :</strong>"
+"</p><div class=\"short-lines\"><p><strong>Voici une liste de licences qui "
+"remplissent les critères du <a href=\"/philosophy/free-sw.html\">logiciel "
+"libre</a> et qui sont <a href=\"/licenses/gpl-faq.html#WhatDoesCompatMean"
+"\">compatibles</a> avec la <a href=\"#GNUGPL\">GNU GPL</a> :</strong>"
 
 #.  both generic and version-specific anchors 
 #. type: Content of: <dl><dt>
@@ -5620,7 +5618,7 @@ msgstr ""
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
-"<b>Notes de traduction</b><ol>\n"
+"<hr /><b>Notes de traduction</b><ol>\n"
 "<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
 "\">&#8593;</a> \n"
 "Les liens extérieurs sont pour la plupart en anglais, ainsi que les textes "
