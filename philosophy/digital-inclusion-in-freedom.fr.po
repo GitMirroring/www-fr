@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: digital-inclusion-in-freedom.html\n"
-"POT-Creation-Date: 2021-11-08 12:56+0000\n"
-"PO-Revision-Date: 2021-11-27 18:40+0100\n"
+"POT-Creation-Date: 2021-12-25 21:25+0000\n"
+"PO-Revision-Date: 2021-12-25 22:11+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -23,22 +23,21 @@ msgstr ""
 "L'inclusion dans le monde numérique est-elle une bonne chose ? Comment faire "
 "en sorte qu'elle le soit ? - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Is Digital Inclusion a Good Thing? How Can We Make Sure It Is?"
 msgstr ""
-"</h2><div class=\"reduced-width\" style=\"margin-top:-1em\"><h2>L'inclusion "
-"dans le monde numérique est-elle une bonne chose ? Comment faire en sorte "
-"qu'elle le soit ?"
+"L'inclusion dans le monde numérique est-elle une bonne chose ? Comment faire "
+"en sorte qu'elle le soit ?"
 
-#. type: Content of: <address>
+#. type: Content of: <div><address>
 msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "INTRODUCTION"
 msgstr "INTRODUCTION"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Digital information and communication technology offers the possibility of a "
 "new world of freedom.  It also offers possibilities of surveillance and "
@@ -51,7 +50,7 @@ msgstr ""
 "pouvaient instaurer que par la lutte. C'est maintenant que se joue la "
 "bataille qui tranchera entre ces possibilités."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Activities directed at &ldquo;including&rdquo; more people in the use of "
 "digital technology are predicated on the assumption that such inclusion is "
@@ -71,7 +70,7 @@ msgstr ""
 "promouvoir l'inclusion numérique, il nous appartient de faire en sorte que "
 "cette nature soit la bonne."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The digital world today faces six major threats to users' freedom: "
 "surveillance, censorship, proprietary software, restricted formats, software "
@@ -91,11 +90,11 @@ msgstr ""
 "examinons la nature de ces menaces. Ensuite nous proposons des mesures pour "
 "leur résister, collectivement et individuellement."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "SURVEILLANCE"
 msgstr "LA SURVEILLANCE"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Digital surveillance systems are spreading.  The UK uses computers with "
 "cameras to track all car travel.  China plans to identify and photograph "
@@ -107,7 +106,7 @@ msgstr ""
 "routiers. La Chine projette d'identifier et de photographier tout usager "
 "d'un cybercafé.<a id=\"tex2html1\" href=\"#foot100\"><sup>1</sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Cell phones are Big Brother's tools.  Some can be activated by remote "
 "command to listen to the user's conversations without giving any sign of "
@@ -124,7 +123,7 @@ msgstr ""
 "ne peuvent rien y changer, car le logiciel du téléphone n'étant pas libre, "
 "il n'est pas sous leur contrôle."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Cell phones also localize the user, even when set to &ldquo;idle.&rdquo; The "
 "phone network needs to know roughly where the phone is located in order to "
@@ -141,7 +140,7 @@ msgstr ""
 "triangulation. Ils peuvent même le faire encore mieux, avec ou sans le "
 "consentement de l'usager, si le téléphone est muni d'un GPS."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In many countries, universal digital surveillance does not record what you "
 "say, only who you talk with.  But that is enough to be quite dangerous, "
@@ -161,7 +160,7 @@ msgstr ""
 "parce que sa police secrète aura accès aux archives de vos communications "
 "passées."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The European Union mandates keeping records of all phone calls and email for "
 "periods up to two years.  The stated purpose of this surveillance is to "
@@ -192,7 +191,7 @@ msgstr ""
 "\"><sup>d</sup></a> a infiltré un large éventail de groupes d'opposition.<a "
 "id=\"tex2html7\" href=\"#foot103\"><sup>4</sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "False accusations of &ldquo;terrorism&rdquo; are standard practice for "
 "suppressing political opposition.  In the US, protesters who smashed windows "
@@ -215,7 +214,7 @@ msgstr ""
 "systématique des dissidents de manière identique.<a id=\"tex2html13\" href="
 "\"#foot20\"><sup>7</sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A free society does not guarantee anonymity in what you do outside your "
 "home: it is always possible that someone will notice where you went on the "
@@ -233,7 +232,7 @@ msgstr ""
 "poser des questions ; chaque personne peut dire, ou non, ce qu'elle sait sur "
 "vous. Les efforts que nécessitent ces recherches limitent leur fréquence."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "By contrast, systematic digital surveillance collects all the information "
 "about everyone for convenient use for whatever purpose, whether it be "
@@ -259,7 +258,7 @@ msgstr ""
 "mais nous devons combattre la surveillance même si elle a lieu lorsque nous "
 "n'avons aucun secret particulier à protéger."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The UK car travel surveillance system has already been used against "
 "political dissidents.<a id=\"tex2html14\" href=\"#foot106\"><sup>8</sup></a>"
@@ -268,11 +267,11 @@ msgstr ""
 "contre des dissidents politiques.<a id=\"tex2html14\" href="
 "\"#foot106\"><sup>8</sup></a>"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "CENSORSHIP"
 msgstr "LA CENSURE"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When the topic of Internet censorship is mentioned, people are likely to "
 "think of China, but many supposedly freedom-respecting countries have "
@@ -302,7 +301,7 @@ msgstr ""
 "a> L'Allemagne est sur le point de lancer un système de censure d'Internet."
 "<a id=\"tex2html20\" href=\"#foot109\"><sup>11</sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Censorship of the contents of web sites is also a threat.  India just "
 "announced a broad plan of censorship that would effectively abolish freedom "
@@ -313,7 +312,7 @@ msgstr ""
 "d'annoncer un projet ambitieux de censure qui abolirait la liberté de la "
 "presse sur Internet.<a id=\"tex2html22\" href=\"#foot110\"><sup>12</sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some European countries censor particular political views on the Internet.  "
 "In the United States, people have been imprisoned as &ldquo;"
@@ -327,7 +326,7 @@ msgstr ""
 "expérimentations animales.<a id=\"tex2html24\" href=\"#foot28\"><sup>13</"
 "sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another common excuse for censorship is the claim that &ldquo;obscene&rdquo; "
 "works are dangerous.  I agree that some works are obscene; for instance, the "
@@ -348,7 +347,7 @@ msgstr ""
 "et le plus souvent injustifiées des parents.<a id=\"tex2html25\" href="
 "\"#foot111\"><sup>14</sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Censorship is nothing new.  What is new is the ease and effectiveness of "
 "censorship on electronic communication and publication (even where a few "
@@ -369,11 +368,11 @@ msgstr ""
 "obtenir une censure politique efficace sans se couper du monde dans les "
 "autres domaines.<a id=\"tex2html27\" href=\"#foot112\"><sup>15</sup></a>"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "SOFTWARE YOU CAN'T CONTROL"
 msgstr "LES LOGICIELS QU'ON NE PEUT PAS CONTRÔLER"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In order for computer users to have freedom in their own computing "
 "activities, they must have control over the software they use.  This means "
@@ -387,7 +386,7 @@ msgstr ""
 "de liberté, pas de prix.<sup><a href=\"#TransNote5\" id=\"TransNote5-rev"
 "\">e</a></sup>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A program is free/libre if it gives the user these four essential freedoms:"
 "<a id=\"tex2html29\" href=\"#foot113\"><sup>16</sup></a>"
@@ -396,11 +395,11 @@ msgstr ""
 "libertés essentielles<a id=\"tex2html29\" href=\"#foot113\"><sup>16</sup></"
 "a> :"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<i>0.</i> Freedom to run the program as you wish."
 msgstr "0. la liberté de faire fonctionner le programme comme vous voulez ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<i>1.</i> Freedom to study the source code, and change it to make the "
 "program do what you wish."
@@ -408,7 +407,7 @@ msgstr ""
 "1. la liberté d'étudier le code source et de le modifier pour faire faire au "
 "programme ce que vous voulez ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<i>2.</i> Freedom to redistribute and/or republish exact copies.  (This is "
 "the freedom to help your neighbor.)"
@@ -416,7 +415,7 @@ msgstr ""
 "2. la liberté d'en redistribuer ou republier des copies exactes (c'est la "
 "liberté d'aider votre voisin) ;"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<i>3.</i> Freedom to distribute and/or publish copies of your modified "
 "versions.  (This is the freedom to contribute to your community.)"
@@ -424,7 +423,7 @@ msgstr ""
 "3. la liberté de distribuer ou publier des copies de ses versions modifiées "
 "(c'est la liberté de participer à votre communauté)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When software is free/libre, the users control what it does.  A nonfree or "
 "<em>proprietary</em> program is under the control of its developer, and "
@@ -450,7 +449,7 @@ msgstr ""
 "signifie que les utilisateurs ne restent plus divisés.<a id=\"tex2html31\" "
 "href=\"#foot114\"><sup>17</sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Many argue that free/libre software is impossible on theoretical economic "
 "grounds.  Some of them misinterpret free/libre software as &ldquo;gratis "
@@ -478,7 +477,7 @@ msgstr ""
 "connus ; peut-être que ces questions elliptiques ont pour but de cacher les "
 "présupposés pour que les gens ne les comparent pas à la réalité."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We know that free software can be developed because so much of it exists.  "
 "There are thousands of useful free programs,<a id=\"tex2html34\" href="
@@ -511,7 +510,7 @@ msgstr ""
 "qu'en France, les entreprises du logiciel libre donnaient du travail à plus "
 "de 10 000 personnes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Most computer users use proprietary software, and are accustomed to letting "
 "a few companies control their computing.  If you are one of them, you may "
@@ -528,7 +527,7 @@ msgstr ""
 "développeurs « honorables » n'utiliseront pas leur pouvoir pour vous nuire. "
 "C'est pourtant ce qu'ils font."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Microsoft Windows has features to spy on the user,<a id=\"tex2html43\" href="
 "\"#foot119\"><sup>22</sup></a> Digital Restrictions Management (DRM) "
@@ -555,7 +554,7 @@ msgstr ""
 "similaire. MacOS a également des dispositifs de DRM conçus pour limiter les "
 "actions de l'utilisateur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The only known defense against malicious features is to insist on software "
 "that is controlled by the users: free/libre software.  It is not a perfect "
@@ -568,11 +567,11 @@ msgstr ""
 "pas de défense du tout. Si le code est la loi, ceux qu'il gouverne doivent "
 "être en capacité de décider de ce qu'il dit."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "RESTRICTED FORMATS"
 msgstr "LES FORMATS NON LIBRES"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Restricted file formats impose private control over communication and "
 "publication.  Those who control the formats control, in a general sense, "
@@ -585,7 +584,7 @@ msgstr ""
 "cette dernière ne peut être ni distribuée, ni lue, ni regardée sans leur "
 "permission."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For instance, text files are often distributed in the secret Microsoft Word "
 "format, which other developers have only imperfectly been able to decode and "
@@ -614,7 +613,7 @@ msgstr ""
 "rev\">g</a> <a id=\"tex2html51\" href=\"#foot123\">26</a></sup> Le standard "
 "VC-1 a été partiellement décodé par rétroingénierie."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Most music distribution on the Internet uses the patented MP3 format<a id="
 "\"tex2html82\" href=\"#foot137\"><sup>42</sup></a>, and most video uses "
@@ -642,7 +641,7 @@ msgstr ""
 "GNU/Linux, par exemple Red Hat, n'osent pas inclure de support pour ces "
 "programmes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A restricted format is a trap; any and all use of the format has the effect "
 "of pushing computer users into the trap.  Inclusion in dependence on these "
@@ -653,11 +652,11 @@ msgstr ""
 "piège. L'inclusion dans la dépendance à ces formats ne représente pas un pas "
 "en avant."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "SOFTWARE AS A SERVICE"
 msgstr "LE LOGICIEL EN TANT QUE SERVICE"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Typical proprietary software gives you only a binary, whose actions are "
 "controlled by the developer, and not by you.  A new practice called &ldquo;"
@@ -679,7 +678,7 @@ msgstr ""
 "rétroingénierie s'ils y sont vraiment résolus. Avec le SaaS, ce n'est même "
 "plus possible."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Reverse engineering being so difficult, perhaps software as a service is "
 "little worse than proprietary software.  The point, however, is that it is "
@@ -692,7 +691,7 @@ msgstr ""
 "de leurs activités numériques, les utilisateurs doivent éviter le SaaS, "
 "aussi bien que le logiciel privateur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For the preparation of this paper I was invited to use an IEEE site called "
 "pdf-express.org to convert my PDF file into one with the embedded fonts "
@@ -710,7 +709,7 @@ msgstr ""
 "grief contre ce site : il requiert l'identification des utilisateurs, ce qui "
 "constitue une surveillance gratuite. "
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It's not that I'm specifically worried that this site is malicious.  I "
 "cannot trust the IEEE implicitly, since I disapprove of its restrictions on "
@@ -734,7 +733,7 @@ msgstr ""
 "de l'informatique. La manière de résister à cette pratique est de refuser "
 "les invitations à la suivre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The only way to maintain your control over your computing is to do it using "
 "your own copy of a free/libre program."
@@ -742,11 +741,11 @@ msgstr ""
 "Le seul moyen de rester en charge de votre activité informatique, c'est de "
 "l'effectuer avec votre propre copie d'un programme libre."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "COPYRIGHT AND SHARING"
 msgstr "LE COPYRIGHT ET LE PARTAGE"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The biggest conflict over freedom in the Internet is the War on Sharing: the "
 "attempt by the publishing industry to prevent Internet users from enjoying "
@@ -757,7 +756,7 @@ msgstr ""
 "empêcher les utilisateurs d'Internet d'exercer leur faculté de copier et "
 "partager l'information."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Copyright was established in the age of the printing press as an industrial "
 "regulation on the business of writing and publishing.  The aim was to "
@@ -783,15 +782,15 @@ msgstr ""
 "permettait de présenter le système du copyright comme bénéfique pour le "
 "public, et donc légitime."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Well and good&mdash;back then."
 msgstr "Tout allait pour le mieux... à l'époque."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "The War on Sharing"
 msgstr "La guerre contre le partage"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Nowadays, computers and networks provide superior means for distributing and "
 "manipulating information, including published software, musical recordings, "
@@ -804,7 +803,7 @@ msgstr ""
 "vidéos. Les réseaux permettent l'accès illimité à toutes sortes de données –"
 " un paradis de l'information."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The works that people use to do practical jobs, such as software, recipes, "
 "text fonts, educational works and reference works, must be free/libre so "
@@ -835,7 +834,7 @@ msgstr ""
 "objet. Aujourd'hui, Internet rend le partage facile, et donc rend la liberté "
 "de partager essentielle."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "One obstacle stands in the way of this utopia: copyright.  Readers and "
 "listeners who make use of their new ability to copy and share published "
@@ -850,7 +849,7 @@ msgstr ""
 "l'industrie de l'édition, est devenue un carcan pour le public qui était "
 "censé en bénéficier."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In a democracy, a law that prohibits a popular and useful activity is "
 "usually soon relaxed. Not so where corporations have more political power "
@@ -869,7 +868,7 @@ msgstr ""
 "pour permettre un usage productif et libre d'Internet, les gouvernements "
 "l'ont rendu plus strict que jamais, au point d'interdire le partage."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The publishers and their friendly governments would like to go to any length "
 "they can get away with to wage the War on Sharing.  In the US, the record "
@@ -896,7 +895,7 @@ msgstr ""
 "habilitées à porter ces accusations : ainsi, cette loi aboutissait à abolir "
 "Liberté, Égalité et Fraternité d'un seul coup."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The law was rejected as unconstitutional by the Constitutional Council.<a id="
 "\"tex2html58\" href=\"#foot126\"><sup>29</sup></a> (It was subsequently "
@@ -919,7 +918,7 @@ msgstr ""
 "Royaume-Uni a proposé une peine de 10 ans de prison pour partage à but non "
 "lucratif."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The US, Canada, the European Union, and various other countries are engaged "
 "in negotiating the &ldquo;Anti-Counterfeiting Trade Agreement.&rdquo; The "
@@ -945,7 +944,7 @@ msgstr ""
 "pourraient chercher à utiliser ce traité pour court-circuiter le parlement "
 "européen, pratique connue sous le nom de « blanchiment politique »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The corporations that profit most from copyright legally exercise it in the "
 "name of the authors (most of whom actually gain little).  They would have us "
@@ -961,7 +960,7 @@ msgstr ""
 "« piratage », ou « piraterie », ce qui revient à assimiler l'aide que vous "
 "apportez à votre voisin à l'attaque d'un navire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Public anger over these measures is growing, but it is held back by "
 "propaganda.  Terms such as &ldquo;piracy,&rdquo;<a id=\"tex2html62\" href="
@@ -986,11 +985,11 @@ msgstr ""
 "supporter les mesures nécessaires au maintien de leur pouvoir, quelles "
 "qu'elles soient."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Digital restrictions management"
 msgstr "La gestion numérique des restrictions"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The publishers aim to do more than punish sharing.  They have realized that "
 "by publishing works in encrypted formats, which can be viewed only with "
@@ -1014,7 +1013,7 @@ msgstr ""
 "comme celle qu'on trouve dans Windows, ou bien de dispositifs spéciaux "
 "adaptés.<a id=\"tex2html66\" href=\"#foot130\"><sup>33</sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Designing products and media to restrict the user is called Digital "
 "Restrictions Management, or DRM.<a id=\"tex2html68\" href="
@@ -1032,7 +1031,7 @@ msgstr ""
 "comporte une deuxième injustice, puisqu'elle impose l'utilisation de "
 "logiciel privateur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The publishers gained US government support for their dream of total power "
 "with the Digital Millennium Copyright Act of 1998 (DMCA).  This law gave "
@@ -1048,7 +1047,7 @@ msgstr ""
 "autorisent. Le simple fait de lire ou d'écouter est illégal quand le "
 "logiciel est conçu pour l'empêcher."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The DMCA has an exception: it does not forbid uses that qualify as &ldquo;"
 "fair use.&rdquo; But it strips this exception of practical effect by "
@@ -1073,7 +1072,7 @@ msgstr ""
 "Concrètement, votre droit limité de désobéir à votre geôlier logiciel ne "
 "veut rien dire puisque vous n'avez aucun moyen d'exercer ce droit."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Similar software censorship laws have since been adopted in the European "
 "Union, Australia, and New Zealand, and other countries.  Canada has tried to "
@@ -1100,7 +1099,7 @@ msgstr ""
 "peuvent se retrancher derrière le « respect des obligations du traité » pour "
 "justifier la censure du logiciel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We still have the same old freedoms in using paper books and other analog "
 "media.  But if e-books replace printed books, those freedoms will not "
@@ -1131,11 +1130,11 @@ msgstr ""
 "\"#TransNote10\" id=\"TransNote10-rev\"><sup>j</sup></a> à cause de ce qu'il "
 "menace de faire aux livres), vous payez pour que ce monde se concrétise."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "SUPPORTING THE ARTS"
 msgstr "SOUTENIR LES ARTS"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The publishers tell us that a War on Sharing is the only way to keep art "
 "alive.  Supporting the arts is a desirable goal, but it could not justify "
@@ -1154,11 +1153,11 @@ msgstr ""
 "de 200.<a id=\"tex2html69\" href=\"#foot131\"><sup>35</sup></a> De plus, la "
 "technologie numérique offre de nouveaux moyens de soutenir les arts."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Donations"
 msgstr "Les dons"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The singer Jane Siberry offers her music for download through her own web "
 "site, called <a id=\"tex2html71\" href=\"https://janesiberry.com"
@@ -1174,7 +1173,7 @@ msgstr ""
 "supérieur au 0,99 $ demandé par les majors du disque.<a id=\"tex2html72\" "
 "href=\"#foot132\"><sup>36</sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Bestsellers also can still do well without stopping people from sharing.  "
 "Stephen King got hundreds of thousands of dollars selling a serialized "
@@ -1195,7 +1194,7 @@ msgstr ""
 "copies et a gagné 750 000 $ en quelques jours.<a id=\"tex2html74\" href="
 "\"#foot133\"><sup>37</sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Even hampered by today's inconvenient methods of sending money to artists, "
 "voluntary contributions from fans can support them.  Kevin Kelly, former "
@@ -1210,7 +1209,7 @@ msgstr ""
 "trouver 1000 vrais fans pour vivre de leur soutien.<a id=\"tex2html76\" href="
 "\"#foot134\"><sup>38</sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But when computer networks provide an easy anonymous method for sending "
 "someone a small amount of money, without requiring a credit card, voluntary "
@@ -1228,7 +1227,7 @@ msgstr ""
 "un meilleur choix.) Ne l'utiliseriez-vous pas, au moins une fois par "
 "semaine ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Why, today, would you hesitate to send one dollar to an artist, once a week "
 "or even once a day? Not because you would miss the dollar, but because of "
@@ -1240,11 +1239,11 @@ msgstr ""
 "manquerait, mais parce que cet envoi est malcommode. Ajoutez la commodité, "
 "et le soutien volontaire aux artistes prendra son essor."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Tax-based support"
 msgstr "Une taxe pour soutenir les arts"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another way to support the arts is with tax funds: perhaps with a special "
 "tax on blank media or Internet connectivity, or with general revenue.<a id="
@@ -1267,7 +1266,7 @@ msgstr ""
 "valable de « soutenir les arts » nécessite d'avoir auparavant rejeté "
 "l'objectif peu judicieux de « donner des compensations aux ayants droit »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The state should not distribute this tax money in linear proportion to "
 "popularity, because that would give most of it to superstars, leaving little "
@@ -1295,7 +1294,7 @@ msgstr ""
 "d'artistes moyennement populaires. Avec un tel système, les fonds seraient "
 "utilisés de manière efficace pour le soutien de l'art."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I propose this system for art because art is where the controversy is.  "
 "There is no fundamental reason why a tax-based system should not also be "
@@ -1318,7 +1317,7 @@ msgstr ""
 "problème, puisque de grands efforts sont déjà consacrés à l'élaboration "
 "d'œuvres fonctionnelles libres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Francis Muguet<a id=\"tex2html80\" href=\"#foot79\"><sup>40</sup></a> and I "
 "have developed a new proposal called the M&#233;c&#233;nat Global (or Global "
@@ -1347,11 +1346,11 @@ msgstr ""
 "reste de l'argent sur la base de la popularité, en utilisant la racine "
 "cubique ou une fonction similaire qui tende à s'aplatir."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "MAKING DIGITAL INCLUSION GOOD"
 msgstr "FAIRE QUE L'INCLUSION NUMÉRIQUE SOIT UNE BONNE CHOSE"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The paper so far describes the factors that can make digital inclusion good "
 "or bad.  These factors are part of human society and subject to our "
@@ -1365,11 +1364,11 @@ msgstr ""
 "à quelles conditions, en réfléchissant à ce qu'il faut faire pour s'assurer "
 "qu'elle soit bonne."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Defending freedom legally"
 msgstr "Défendre la liberté au moyen de la législation"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Full victory over the threats to digital freedom can only be achieved "
 "through changes in laws.  Systematic collection or retention of information "
@@ -1392,7 +1391,7 @@ msgstr ""
 "l'informatique libre pour remplir leur mission, qui est d'éduquer de bons "
 "citoyens dans une société forte, libre et solidaire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To respect computer users' freedom to operate their computers, states should "
 "not allow patents to apply to software or (more generally) using computers "
@@ -1415,7 +1414,7 @@ msgstr ""
 "L'utilisation commerciale de DRM doit être prohibée, et les logiciels libres "
 "développés indépendamment pour lire les formats sous DRM doivent être légaux."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To make these changes in laws happen, we need to organize.  The Electronic "
 "Frontier Foundation (<a href=\"https://www.eff.org/\">eff.org</a>)  "
@@ -1435,11 +1434,11 @@ msgstr ""
 "\"https://www.defectivebydesign.org/\">DefectiveByDesign.org</a>).<a href="
 "\"#TransNote13\" id=\"TransNote13-rev\"><sup>m</sup></a>"
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Defending freedom personally"
 msgstr "Défendre notre liberté personnelle"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "While we fight these legislative battles, we should also personally reject "
 "products and services designed to take away our freedom.  To resist "
@@ -1457,7 +1456,7 @@ msgstr ""
 "nous ne devons pas utiliser de logiciel privateur, ni de logiciel en tant "
 "que service."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Above all, we should never buy or use products that implement DRM handcuffs "
 "unless we personally have the means to break them.  Products with DRM are a "
@@ -1467,11 +1466,11 @@ msgstr ""
 "les menottes numériques, sauf si on a soi-même le moyen de les briser. Les "
 "produits avec DRM sont un piège ; ne mordez pas à l'hameçon !"
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Defending others' freedom"
 msgstr "Défendre la liberté des autres"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We can take direct action to protect others' freedom in the digital world.  "
 "For instance, we can remove the passwords from our wireless networks&mdash;"
@@ -1494,7 +1493,7 @@ msgstr ""
 "voisins, ou remettre un mot de passe de temps en temps pour un jour ou deux) "
 "et ne choisir l'option du mot de passe permanent qu'en dernier ressort."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When we publish, we should grant the users of our work the freedoms they "
 "deserve, by applying an explicit license appropriate to the type of work.  "
@@ -1516,11 +1515,11 @@ msgstr ""
 "ouvrages éducatifs, doivent être sous une licence libre qui octroie à "
 "l'utilisateur les quatre libertés. "
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Inclusion in freedom"
 msgstr "L'inclusion dans la liberté"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In our efforts to help others in practical ways, we must avoid doing them "
 "harm at a deeper level.  Until freedom is generally assured in Internet use, "
@@ -1542,15 +1541,15 @@ msgstr ""
 "surveillance et à la censure, par l'intermédiaire des pratiques "
 "informatiques auxquelles on les initie."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Footnotes"
 msgstr "Notes"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; cafe.<a href=\"#tex2html1\"><sup>1</sup></a>"
 msgstr "&hellip; cybercafé.<a href=\"#tex2html1\"><sup>1</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://www.cecc.gov/publications/commission-analysis/beijing-"
 "requires-photo-registration-at-all-internet-cafes-by\">cecc.gov/publications/"
@@ -1562,11 +1561,11 @@ msgstr ""
 "commission-analysis/beijing-requires-photo-registration-at-all-internet-"
 "cafes-by</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; police<a href=\"#tex2html3\"><sup>2</sup></a>"
 msgstr "&hellip; police<a href=\"#tex2html3\"><sup>2</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://www.schneier.com/blog/archives/2006/12/"
 "remotely_eavesd_1.html\">schneier.com/blog/archives/2006/12/"
@@ -1576,22 +1575,22 @@ msgstr ""
 "remotely_eavesd_1.html\">schneier.com/blog/archives/2006/12/"
 "remotely_eavesd_1.html</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; individuals.<a href=\"#tex2html5\"><sup>3</sup></a>"
 msgstr "&hellip; autorisées<a href=\"#tex2html5\"><sup>3</sup></a>"
 
 #. <a Dead link as of 2021-01-30
 #. href="http://www.newarkspeaks.com/forum/showthread.php?t=5379">
 #. </a>
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid "See newarkspeaks.com/forum/showthread.php?t=5379."
 msgstr "Voir newarkspeaks.com/forum/showthread.php?t=5379."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; groups<a href=\"#tex2html7\"><sup>4</sup></a>"
 msgstr "&hellip; opposition<a href=\"#tex2html7\"><sup>4</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://www.aclu.org/fbi-jttf-spying\">aclu.org/fbi-jttf-"
 "spying</a>."
@@ -1599,12 +1598,12 @@ msgstr ""
 "Voir <a href=\"https://www.aclu.org/fbi-jttf-spying\">aclu.org/fbi-jttf-"
 "spying</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "&hellip; &ldquo;terrorism.&rdquo;<a href=\"#tex2html9\"><sup>5</sup></a>"
 msgstr "&hellip; « terrorisme ».<a href=\"#tex2html9\"><sup>5</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://www.democracynow.org/2008/9/4/"
 "eight_members_of_rnc_activist_group\">democracynow.org/2008/9/4/"
@@ -1614,12 +1613,12 @@ msgstr ""
 "eight_members_of_rnc_activist_group\">democracynow.org/2008/9/4/"
 "eight_members_of_rnc_activist_group</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "&hellip; &ldquo;terrorists.&rdquo;<a href=\"#tex2html11\"><sup>6</sup></a>"
 msgstr "&hellip; « terroristes »<a href=\"#tex2html11\"><sup>6</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"http://web-old.archive.org/web/20160722044945/http://abcnews."
 "go.com/International/story?id=7891929\"> abcnews.go.com/international/story?"
@@ -1629,11 +1628,11 @@ msgstr ""
 "go.com/International/story?id=7891929\"> abcnews.go.com/international/story?"
 "id=7891929</a> (archivé)."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; dissidents.<a href=\"#tex2html13\"><sup>7</sup></a>"
 msgstr "&hellip; identique.<a href=\"#tex2html13\"><sup>7</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See the documentary, Condor: the First War on Terror, by Rodrigo V&aacute;"
 "squez (2003)."
@@ -1641,11 +1640,11 @@ msgstr ""
 "Voir le documentaire <cite>Condor: the First War on Terror</cite> (Condor : "
 "la première Guerre contre le terrorisme) par Rodrigo V&aacute;squez (2003)."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; dissidents.<a href=\"#tex2html14\"><sup>8</sup></a>"
 msgstr "&hellip; politiques.<a href=\"#tex2html14\"><sup>8</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://www.bbc.com/news/2/hi/programmes/"
 "whos_watching_you/8064333.stm\">bbc.com/news/2/hi/programmes/"
@@ -1655,11 +1654,11 @@ msgstr ""
 "whos_watching_you/8064333.stm\">bbc.com/news/2/hi/programmes/"
 "whos_watching_you/8064333.stm</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; site.<a href=\"#tex2html16\"><sup>9</sup></a>"
 msgstr "&hellip; anti-avortement.<a href=\"#tex2html16\"><sup>9</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://web.archive.org/web/20190918142631/https://www."
 "computerworld.com.au/article/302161/"
@@ -1672,11 +1671,11 @@ msgstr ""
 "watchdog_threatens_online_rights_group_11k_fine\">computerworld.com.au/"
 "article/302161/watchdog_threatens_online_rights_group_11k_fine</a> (archivé)."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; list.<a href=\"#tex2html18\"><sup>10</sup></a>"
 msgstr "&hellip; australienne.<a href=\"#tex2html18\"><sup>10</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://www.smh.com.au/technology/banned-hyperlinks-could-cost-"
 "you-11-000-a-day-20090317-gdtf8j.html\">smh.com.au/technology/banned-"
@@ -1686,11 +1685,11 @@ msgstr ""
 "cost-you-11-000-a-day-20090317-gdtf8j.html\">smh.com.au/technology/banned-"
 "hyperlinks-could-cost-you-11-000-a-day-20090317-gdtf8j.html</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; censorship.<a href=\"#tex2html20\"><sup>11</sup></a>"
 msgstr "&hellip; d'Internet.<a href=\"#tex2html20\"><sup>11</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://netzpolitik.org/2009/the-dawning-of-internet-"
 "censorship-in-germany/\">netzpolitik.org/2009/the-dawning-of-internet-"
@@ -1700,11 +1699,11 @@ msgstr ""
 "censorship-in-germany/\">netzpolitik.org/2009/the-dawning-of-internet-"
 "censorship-in-germany/</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; Internet.<a href=\"#tex2html22\"><sup>12</sup></a>"
 msgstr "&hellip; Internet.<a href=\"#tex2html22\"><sup>12</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://timesofindia.indiatimes.com/India/Govt-gearing-up-to-"
 "gag-news-websites/articleshow/4562292.cms\">timesofindia.indiatimes.com/"
@@ -1714,11 +1713,11 @@ msgstr ""
 "gag-news-websites/articleshow/4562292.cms\">timesofindia.indiatimes.com/"
 "India/Govt-gearing-up-to-gag-news-websites/articleshow/4562292.cms</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; animals.<a href=\"#tex2html24\"><sup>13</sup></a>"
 msgstr "&hellip; animales.<a href=\"#tex2html24\"><sup>13</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "I support medical research using animals, as well as abortion rights.  Our "
 "defense of political freedom should not be limited to causes we agree with."
@@ -1727,11 +1726,11 @@ msgstr ""
 "droit à l'avortement. Notre défense de la liberté politique ne doit pas se "
 "limiter aux causes avec lesquelles nous sommes d'accord."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; parents.<a href=\"#tex2html25\"><sup>14</sup></a>"
 msgstr "&hellip; parents.<a href=\"#tex2html25\"><sup>14</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://www.mcclatchydc.com/news/politics-government/"
 "article24476581.html\"> mcclatchydc.com/news/politics-government/"
@@ -1741,11 +1740,11 @@ msgstr ""
 "article24476581.html\"> mcclatchydc.com/news/politics-government/"
 "article24476581.html</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; ways.<a href=\"#tex2html27\"><sup>15</sup></a>"
 msgstr "&hellip; monde.<a href=\"#tex2html27\"><sup>15</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://www.networkworld.com/article/2255678/20-years-after-"
 "tiananmen--china-containing-dissent-online.html\"> networkworld.com/"
@@ -1757,22 +1756,22 @@ msgstr ""
 "article/2255678/20-years-after-tiananmen--china-containing-dissent-online."
 "html</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; freedoms:<a href=\"#tex2html29\"><sup>16</sup></a>"
 msgstr "&hellip; essentielles<a href=\"#tex2html29\"><sup>16</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"/philosophy/free-sw.html\">gnu.org/philosophy/free-sw.html</a>."
 msgstr ""
 "Voir <a href=\"/philosophy/free-sw.html\">gnu.org/philosophy/free-sw.html</"
 "a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; divided.<a href=\"#tex2html31\"><sup>17</sup></a>"
 msgstr "&hellip; divisés.<a href=\"#tex2html31\"><sup>17</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"/philosophy/why-free.html\">gnu.org/philosophy/why-free.html</"
 "a> and <a href=\"/philosophy/shouldbefree.html\">gnu.org/philosophy/"
@@ -1782,11 +1781,11 @@ msgstr ""
 "philosophy/why-free.html</a> et <a href=\"/philosophy/shouldbefree.html"
 "\">gnu.org/philosophy/shouldbefree.html</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; programs,<a href=\"#tex2html34\"><sup>18</sup></a>"
 msgstr "&hellip; utiles,<a href=\"#tex2html34\"><sup>18</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://directory.fsf.org/wiki/Main_Page\">directory.fsf.org/"
 "wiki/Main_Page</a>."
@@ -1794,11 +1793,11 @@ msgstr ""
 "Voir <a href=\"https://directory.fsf.org/wiki/Main_Page\">directory.fsf.org/"
 "wiki/Main_Page</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; users<a href=\"#tex2html36\"><sup>19</sup></a>"
 msgstr "&hellip; d'utilisateurs<a href=\"#tex2html36\"><sup>19</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://en.wikipedia.org/wiki/Linux_adoption\">wikipedia.org/"
 "wiki/Linux_adoption</a>."
@@ -1806,21 +1805,21 @@ msgstr ""
 "Voir <a href=\"https://en.wikipedia.org/wiki/Linux_adoption\">wikipedia.org/"
 "wiki/Linux_adoption</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; GNU/Linux<a href=\"#tex2html38\"><sup>20</sup></a>"
 msgstr "&hellip; GNU/Linux.<a href=\"#tex2html38\"><sup>20</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"/gnu/gnu-linux-faq.html\">gnu.org/gnu/gnu-linux-faq.html</a>."
 msgstr ""
 "Voir <a href=\"/gnu/gnu-linux-faq.html\">gnu.org/gnu/gnu-linux-faq.html</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; volunteers.<a href=\"#tex2html40\"><sup>21</sup></a>"
 msgstr "&hellip; bénévole.<a href=\"#tex2html40\"><sup>21</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"/philosophy/fs-motives.html\">gnu.org/philosophy/fs-motives."
 "html</a> for some of their motives."
@@ -1828,11 +1827,11 @@ msgstr ""
 "Voir dans <a href=\"/philosophy/fs-motives.html\">gnu.org/philosophy/fs-"
 "motives.html</a> quelques-unes de leurs motivations."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; user,<a href=\"#tex2html43\"><sup>22</sup></a>"
 msgstr "&hellip; l'utilisateur,<a href=\"#tex2html43\"><sup>22</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://www.theregister.com/2015/08/21/"
 "spotify_worse_than_the_nsa\"> theregister.com/2015/08/21/"
@@ -1842,22 +1841,22 @@ msgstr ""
 "spotify_worse_than_the_nsa\"> theregister.com/2015/08/21/"
 "spotify_worse_than_the_nsa</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; files,<a href=\"#tex2html45\"><sup>23</sup></a>"
 msgstr "&hellip; fichiers,<a href=\"#tex2html45\"><sup>23</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid "See <a href=\"https://badvista.fsf.org/\">badvista.fsf.org/</a>."
 msgstr ""
 "Voir la <a href=\"https://framablog.org/2009/01/13/windows-vista-echec-"
 "microsoft/\">traduction</a> de <a href=\"https://badvista.fsf.org/"
 "\">badvista.fsf.org</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; time.<a href=\"#tex2html47\"><sup>24</sup></a>"
 msgstr "&hellip; quand.<a href=\"#tex2html47\"><sup>24</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://www.informationweek.com/government/microsoft-updates-"
 "windows-without-user-permission-apologizes\">informationweek.com/government/"
@@ -1867,11 +1866,11 @@ msgstr ""
 "windows-without-user-permission-apologizes\">informationweek.com/government/"
 "microsoft-updates-windows-without-user-permission-apologizes</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; own.<a href=\"#tex2html49\"><sup>25</sup></a>"
 msgstr "&hellip; siens.<a href=\"#tex2html49\"><sup>25</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"http://voices.washingtonpost.com/securityfix/2009/05/"
 "microsoft_update_quietly_insta.html\">voices.washingtonpost.com/"
@@ -1881,11 +1880,11 @@ msgstr ""
 "microsoft_update_quietly_insta.html\">voices.washingtonpost.com/"
 "securityfix/2009/05/microsoft_update_quietly_insta.html</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; reference.<a href=\"#tex2html51\"><sup>26</sup></a>"
 msgstr "&hellip; conforme.<a href=\"#tex2html51\"><sup>26</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "The standard in machine-readable form is only available to be &ldquo;"
 "leased&rdquo;; <a href=\"https://web.archive.org/web/20160423155515/http://"
@@ -1901,11 +1900,11 @@ msgstr ""
 "sites/default/files/IndividualLicenseAgreementforSMPTE_EngineeringDocuments."
 "pdf</a>"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; patented.<a href=\"#tex2html53\"><sup>27</sup></a>"
 msgstr "&hellip; breveté.<a href=\"#tex2html53\"><sup>27</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://web.archive.org/web/20120307122114/http://www.mpegla."
 "com/Lists/MPEG%20LA%20News%20List/Attachments/176/n_06-08-17_pr.pdf\"> "
@@ -1917,11 +1916,11 @@ msgstr ""
 "mpegla.com/Lists/MPEG%20LA%20News%20List/Attachments/176/n_06-08-17_pr.pdf</"
 "a> (archivé)."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; million.<a href=\"#tex2html56\"><sup>28</sup></a>"
 msgstr "&hellip; millions.<a href=\"#tex2html56\"><sup>28</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://arstechnica.com/tech-policy/2009/06/jammie-thomas-"
 "retrial-verdict/\">arstechnica.com/tech-policy/2009/06/jammie-thomas-retrial-"
@@ -1931,11 +1930,11 @@ msgstr ""
 "retrial-verdict/\">arstechnica.com/tech-policy/2009/06/jammie-thomas-retrial-"
 "verdict/</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; Council.<a href=\"#tex2html58\"><sup>29</sup></a>"
 msgstr "&hellip; constitutionnel.<a href=\"#tex2html58\"><sup>29</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://www.laquadrature.net/en/2009/06/10/hadopi-is-dead-"
 "three-strikes-killed-by-highest-court/\">laquadrature.net/en/2009/06/10/"
@@ -1946,11 +1945,11 @@ msgstr ""
 "net/2009/01/26/le-parlement-europeen-frappe-par-un-ridicule-dogmatisme-du-"
 "copyright/</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; them.<a href=\"#tex2html60\"><sup>30</sup></a>"
 msgstr "&hellip; figurait.<a href=\"#tex2html60\"><sup>30</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://arstechnica.com/tech-policy/2008/11/canadian-wish-list-"
 "for-secret-acta-treaty-long-varied/\">arstechnica.com/tech-policy/2008/11/"
@@ -1960,11 +1959,11 @@ msgstr ""
 "list-for-secret-acta-treaty-long-varied/\">arstechnica.com/tech-"
 "policy/2008/11/canadian-wish-list-for-secret-acta-treaty-long-varied/</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; &ldquo;piracy,&rdquo;<a href=\"#tex2html62\"><sup>31</sup></a>"
 msgstr "&hellip; « piraterie »,<a href=\"#tex2html62\"><sup>31</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"/philosophy/words-to-avoid.html\">gnu.org/philosophy/words-to-"
 "avoid.html</a>."
@@ -1972,11 +1971,11 @@ msgstr ""
 "Voir <a href=\"/philosophy/words-to-avoid.html\">gnu.org/philosophy/words-to-"
 "avoid.html</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; property,&rdquo;<a href=\"#tex2html64\"><sup>32</sup></a>"
 msgstr "&hellip; intellectuelle »,<a href=\"#tex2html64\"><sup>32</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"/philosophy/not-ipr.html\">gnu.org/philosophy/not-ipr.html</a> "
 "for why this propaganda term is harmful."
@@ -1984,11 +1983,11 @@ msgstr ""
 "Voir <a href=\"/philosophy/not-ipr.html\">gnu.org/philosophy/not-ipr.html</"
 "a> pour comprendre pourquoi cette propagande est nocive."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; purpose.<a href=\"#tex2html66\"><sup>33</sup></a>"
 msgstr "&hellip; adaptés.<a href=\"#tex2html66\"><sup>33</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://www.cl.cam.ac.uk/~rja14/tcpa-faq.html\">www.cl.cam.ac."
 "uk/~rja14/tcpa-faq.html</a>."
@@ -1996,11 +1995,11 @@ msgstr ""
 "Voir <a href=\"https://www.cl.cam.ac.uk/~rja14/tcpa-faq.html\">www.cl.cam.ac."
 "uk/~rja14/tcpa-faq.html</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; DRM.<a href=\"#tex2html68\"><sup>34</sup></a>"
 msgstr "&hellip; DRM.<a href=\"#tex2html68\"><sup>34</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "Those publishers, in an act of doublespeak, call it &ldquo;Digital Rights "
 "Management.&rdquo;"
@@ -2008,11 +2007,11 @@ msgstr ""
 "Ces éditeurs, par un exercice de double langage, l'appellent <i>Digital "
 "Rights Management</i> (gestion numérique des droits)."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; 200.<a href=\"#tex2html69\"><sup>35</sup></a>"
 msgstr "&hellip; 200.<a href=\"#tex2html69\"><sup>35</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://boingboing.net/2009/01/23/monty-pythons-free-w.html"
 "\">boingboing.net/2009/01/23/monty-pythons-free-w.html</a>."
@@ -2020,11 +2019,11 @@ msgstr ""
 "Voir <a href=\"https://boingboing.net/2009/01/23/monty-pythons-free-w.html"
 "\">boingboing.net/2009/01/23/monty-pythons-free-w.html</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; charge.<a href=\"#tex2html72\"><sup>36</sup></a>"
 msgstr "&hellip; disque.<a href=\"#tex2html72\"><sup>36</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://signalvnoise.com/posts/419-jane-siberrys-you-decide-"
 "what-feels-right-pricing\">signalvnoise.com/posts/419-jane-siberrys-you-"
@@ -2034,11 +2033,11 @@ msgstr ""
 "what-feels-right-pricing\">signalvnoise.com/posts/419-jane-siberrys-you-"
 "decide-what-feels-right-pricing</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; days.<a href=\"#tex2html74\"><sup>37</sup></a>"
 msgstr "&hellip; jours.<a href=\"#tex2html74\"><sup>37</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://boingboing.net/2008/03/05/nine-inch-nails-made.html"
 "\">boingboing.net/2008/03/05/nine-inch-nails-made.html</a>."
@@ -2046,11 +2045,11 @@ msgstr ""
 "Voir <a href=\"https://boingboing.net/2008/03/05/nine-inch-nails-made.html"
 "\">boingboing.net/2008/03/05/nine-inch-nails-made.html</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; support.<a href=\"#tex2html76\"><sup>38</sup></a>"
 msgstr "&hellip; soutien.<a href=\"#tex2html76\"><sup>38</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://kk.org/thetechnium/1000-true-fans/\">kk.org/"
 "thetechnium/1000-true-fans/</a>."
@@ -2059,11 +2058,11 @@ msgstr ""
 "fans.html\">traduction</a> de <a href=\"https://kk.org/thetechnium/1000-true-"
 "fans/\">kk.org/thetechnium/1000-true-fans/</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; revenue.<a href=\"#tex2html78\"><sup>39</sup></a>"
 msgstr "&hellip; revenu.<a href=\"#tex2html78\"><sup>39</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"/philosophy/dat.html\">gnu.org/philosophy/dat.html</a> for my "
 "1992 proposal."
@@ -2071,11 +2070,11 @@ msgstr ""
 "Voir dans <a href=\"/philosophy/dat.html\">gnu.org/philosophy/dat.html</a> "
 "ma proposition de 1992."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; Muguet<a href=\"#tex2html80\"><sup>40</sup></a>"
 msgstr "&hellip; Muguet<a href=\"#tex2html80\"><sup>40</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "Head of the Knowledge Networks and Information Society lab at the University "
 "of Geneva."
@@ -2084,11 +2083,11 @@ msgstr ""
 "(Réseaux de la connaissance et société de l'information) à l'Université de "
 "Genève."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; payments.<a href=\"#tex2html81\"><sup>41</sup></a>"
 msgstr "&hellip; volontaires.<a href=\"#tex2html81\"><sup>41</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "See <a href=\"https://stallman.org/mecenat/global-patronage.html\">stallman."
 "org/mecenat/global-patronage.html</a>."
@@ -2096,17 +2095,17 @@ msgstr ""
 "Voir <a href=\"https://stallman.org/mecenat/global-patronage.html\">stallman."
 "org/mecenat/global-patronage.html</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "&hellip; MP3<a href=\"#tex2html82\"><sup>42</sup></a>"
 msgstr "&hellip; MP3<a href=\"#tex2html82\"><sup>42</sup></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid "As of 2017 the patents on playing MP3 files have reportedly expired."
 msgstr ""
 "En 2017, les derniers brevets encore valides sur la lecture des fichiers MP3 "
 "ont, semble-t-il, expiré."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This essay was first published in the proceedings of the ITU's 2009 "
 "Kaleidoscope conference in Mar del Plata, Argentina."
@@ -2165,7 +2164,7 @@ msgstr ""
 "<li><a id=\"TransNote13\" href=\"#TransNote13-rev\" class=\"nounderline"
 "\">&#8593;</a> \n"
 "Défectueux à dessein.</li>\n"
-"</ol></div>"
+"</ol>"
 
 #. type: Content of: <div><div><p>
 msgid ""

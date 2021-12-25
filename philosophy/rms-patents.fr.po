@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: rms-patents.html\n"
-"POT-Creation-Date: 2021-11-08 12:56+0000\n"
-"PO-Revision-Date: 2021-11-27 18:41+0100\n"
+"POT-Creation-Date: 2021-12-25 21:25+0000\n"
+"PO-Revision-Date: 2021-12-25 22:11+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -23,17 +23,15 @@ msgstr ""
 "Solutions du problème des brevets logiciels - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Solutions to the Software Patent Problem"
-msgstr ""
-"</h2><div class=\"reduced-width\" style=\"margin-top:-1em\"><h2>Solutions du "
-"problème des brevets logiciels"
+msgstr "Solutions du problème des brevets logiciels"
 
-#. type: Content of: <address>
+#. type: Content of: <div><address>
 msgid "by Richard Stallman"
 msgstr "par Richard Stallman"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Speech given at the Locatelli Center, Santa Clara University, in November "
 "2012&nbsp; (<a href=\"//audio-video.gnu.org/video/keynote-what-is-the-"
@@ -45,11 +43,11 @@ msgstr ""
 "the-problem.webm\">vidéo</a>, &nbsp;<a href=\"//audio-video.gnu.org/video/"
 "#2012\">métadonnées</a>)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<b>Andrew Chen:</b> Thank you, Eric."
 msgstr "<b>Andrew Chen :</b> Merci, Eric."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "My name is Andrew Chen.  I teach patent law at the University of North "
 "Carolina, and I had a previous life as a Computer Science professor."
@@ -58,7 +56,7 @@ msgstr ""
 "Caroline du Nord et dans une vie antérieure j'étais professeur "
 "d'informatique théorique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I have the easiest job today, which is introducing two men who need no "
 "introduction.  Richard Stallman, we know, is the founder of the free "
@@ -75,7 +73,7 @@ msgstr ""
 "texte mais aussi comme un mode de vie. Ce dont je conviens volontiers "
 "puisque j'ai écrit ma thèse en utilisant son programme."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Dr Stallman has decided not to participate in the live streaming facility "
 "for today.  He explains that use of the streaming online would require use "
@@ -93,15 +91,15 @@ msgstr ""
 "de rendre disponible un enregistrement de sa présentation au format Ogg "
 "Theora ou WebM."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Dr Stallman."
 msgstr "Dr Stallman."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<i>[applause]</i>"
 msgstr "<i class=\"aside\">[applaudissements]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>Richard Stallman:</b> Can the tech people please confirm that the "
 "streaming is off?"
@@ -109,11 +107,11 @@ msgstr ""
 "<b>Richard Stallman :</b> S'il vous plaît, est-ce que les techniciens "
 "peuvent confirmer que la diffusion est coupée ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "OK, I think that's confirmation."
 msgstr "OK, je pense que c'est une confirmation."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, why are software patents bad? Or, &ldquo;computational idea "
 "patents&rdquo; as I think we should really call them, because each one is a "
@@ -131,7 +129,7 @@ msgstr ""
 "plupart des gens ne le savent pas. Donc, pour essayer d'éviter les "
 "malentendus, je les appelle « brevets sur des idées informatiques »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, anyway, the reason these are bad is that they deny people the freedom to "
 "use their computers as they wish and do their computing as they wish, "
@@ -149,7 +147,7 @@ msgstr ""
 "contre les brevets. Le logiciel a certes besoin d'être protégé, mais c'est "
 "contre les brevets."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But most people don't know enough about what patents do to appreciate why "
 "patents that can restrict software are so harmful.  Most people think that "
@@ -165,7 +163,7 @@ msgstr ""
 "tient dans une phrase de la Constitution et cette similarité est si ténue et "
 "si abstraite qu'elle n'a rien à voir avec leurs conséquences pratiques."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, the last thing we should ever do is use the term &ldquo;intellectual "
 "property&rdquo; that confuses not just these two laws, but a bunch of other "
@@ -190,7 +188,7 @@ msgstr ""
 "particulier, vous l'appelez par son nom et vous faites une phrase cohérente "
 "et claire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, I have to explain to people what patents do, and show them that it's not "
 "at all like what copyrights do.  An analogy is a good way to do this.  What "
@@ -205,7 +203,7 @@ msgstr ""
 "qui doivent tous interagir pour donner le résultat désiré. De quoi peut-on "
 "aussi dire ça ? D'un roman, d'une symphonie."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, imagine if the governments of Europe in the 1700s had had the cockeyed "
 "idea of promoting the progress of symphonic music with a system of &ldquo;"
@@ -226,7 +224,7 @@ msgstr ""
 "qui ne me viennent pas à l'esprit, mais qui viendraient peut-être à celui "
 "d'un compositeur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, now imagine it's 1800 and you're Beethoven and you want to write a "
 "symphony.  You're going to find that it's harder to write a symphony that "
@@ -243,7 +241,7 @@ msgstr ""
 "nous avons eu ces idées avant toi. Tu n'as qu'à chercher quelques idées bien "
 "à toi. »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Of course, Beethoven is considered a great composer because he had lots of "
 "new ideas, and not only that, he knew how to use them effectively.  And that "
@@ -264,7 +262,7 @@ msgstr ""
 "de choquant parce que nous sommes habitués à ces idées. Cela prouve qu'il "
 "les a bien utilisées."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, the idea that anyone could, or should have to, reinvent music from zero, "
 "is absurd.  Not even a Beethoven could do that, and it would be silly to ask "
@@ -286,7 +284,7 @@ msgstr ""
 "fois. Mais ce qui est difficile, ce n'est pas de choisir quelques idées, "
 "c'est de toutes les combiner et que ça fonctionne correctement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So &ldquo;computational idea patents&rdquo; obstruct the hard and big job by "
 "promoting resources that we get plenty of anyways.  So it's a misconceived "
@@ -298,7 +296,7 @@ msgstr ""
 "toute manière. C'est donc un système mal conçu, qui prétend nous fournir une "
 "aide dont nous ne voulons pas, au prix d'énormes problèmes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So what we need is to get rid of the problem.  What is the problem? The "
 "problem is: software developers and their users are threatened by patents.  "
@@ -319,7 +317,7 @@ msgstr ""
 "applicable si le pays a déjà délivré des centaines de milliers de brevets "
 "logiciels."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now, I've proposed that constitutions should explicitly say that patent "
 "privileges can be reduced just as they can be increased.  That they are not "
@@ -336,7 +334,7 @@ msgstr ""
 "absurde d'en faire un cliquet à sens unique. Mais cela ne figure pas dans la "
 "Constitution des États-Unis."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, what can we do? Well, we can ask courts to rule that all those patents "
 "that restrict software were invalid from the beginning and always have been "
@@ -350,7 +348,7 @@ msgstr ""
 "pas faire du lobbying pour ça. On ne peut pas dire aux fonctionnaires "
 "« Faites ceci parce que nous voulons que vous le fassiez. »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, if we're going to look for a solution that we can get implemented, what "
 "is there? Well, the only way I can see is to legislate that software is a "
@@ -374,7 +372,7 @@ msgstr ""
 "d'être universelle, alors toute idée spécifique, brevetée, est implémentée "
 "par le programme."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, that's the case I want to get at, and I'm trying to separate it from a "
 "case like that in <cite>Diamond v. Diehr</cite> where there was a patent for "
@@ -390,7 +388,7 @@ msgstr ""
 "polyvalente, universelle, et ce matériel à usage spécifique était essentiel "
 "à la mise en œuvre de la technique brevetée."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It wasn't actually a software technique.  And, actually, I read an article "
 "by Pamela Samuelson arguing that the CAFC twisted that decision and "
@@ -409,7 +407,7 @@ msgstr ""
 "brevetable », et la CAFC avait déformé la phrase en « l'ordinateur le rend "
 "brevetable »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Anyway, we might have some hope with the courts, but I'm proposing a method "
 "that will separate the cases that we must protect from non-computational "
@@ -430,7 +428,7 @@ msgstr ""
 "certainement que cela couvre des choses comme les smartphones ; nous ne "
 "voulons rien exclure qui contienne un quelconque matériel à usage spécifique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The portable phone obviously has specialised hardware to talk to the phone "
 "network, but that shouldn't automatically mean that if it's running on a "
@@ -452,7 +450,7 @@ msgstr ""
 "formulation possible et voir quels cas seraient protégés contre les brevets "
 "et lesquels seraient exposés, pour arriver à la bonne méthode."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now, every time I suggest a method to solve this problem, the first thing "
 "people try to look for is how to half solve it instead.  The idea of really "
@@ -469,7 +467,7 @@ msgstr ""
 "complète de ce problème. Il faut que je cherche une solution partielle qui "
 "protégera seulement certains développeurs de logiciel. »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Well, that's a mistake.  It's a mistake a) because it wouldn't do the whole "
 "job, but b) because it would be harder to get it passed.  There are lots of "
@@ -486,7 +484,7 @@ msgstr ""
 "quelques-uns, les autres diront « Cela ne me sert à rien, pourquoi m'y "
 "intéresser ? »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, let's propose a real solution.  And, besides, partial solutions tend to "
 "be vulnerable to the problem that Boldrin and Levine have written about very "
@@ -505,7 +503,7 @@ msgstr ""
 "plutôt que dans ce qui est brevetable. Parce que là, le critère est "
 "seulement « Quel genre de situation a-t-on ici ? »"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It's harder to stretch those, and if they tried, it would always be in a "
 "case against somebody who's going to be fighting not to stretch it.  So it's "
@@ -522,11 +520,11 @@ msgstr ""
 "se produire quel que soit le type d'exigence concernant ce qui doit figurer "
 "dans ces demandes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "So, there I go."
 msgstr "Bon, voilà."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<b>Andrew Chen:</b> Thank you, Dr Stallman."
 msgstr "<b>Andrew Chen :</b> Merci, Dr Stallman."
 
@@ -542,7 +540,7 @@ msgstr ""
 "\">&#8593;</a> \n"
 "Voir le <a href=\"https://fr.wikipedia.org/wiki/Calcul_des_pr%C3%A9dicats"
 "\">calcul des prédicats</a>.</li>\n"
-"</ol></div>"
+"</ol>"
 
 #. type: Content of: <div><div><p>
 msgid ""
