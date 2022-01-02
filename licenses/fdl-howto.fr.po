@@ -8,27 +8,25 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: fdl-howto.html\n"
-"POT-Creation-Date: 2014-04-05 00:01+0000\n"
-"PO-Revision-Date: 2014-04-18 17:15+0200\n"
+"POT-Creation-Date: 2022-01-02 17:25+0000\n"
+"PO-Revision-Date: 2022-01-02 21:59+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms:  \n"
 
 #. type: Content of: <title>
 msgid "Tips on Using the GNU FDL - GNU Project - Free Software Foundation"
 msgstr ""
-"Conseils sur l'utilisation de la GNU FDL - Projet GNU - Free Software "
-"Foundation"
+"Conseils d'utilisation de la GNU FDL - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Tips on Using the GNU Free Documentation License"
-msgstr "Conseils sur l'utilisation de la licence GNU de documentation libre"
+msgstr "Conseils d'utilisation de la licence GNU de documentation libre"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This is a brief explanation of how to place a document under the <a href=\"/"
 "licenses/fdl.html\">GNU Free Documentation License</a>.  For the GNU "
@@ -41,15 +39,15 @@ msgstr ""
 "logiciel, la GNU <abbr title=\"General Public License\">GPL</abbr> par "
 "exemple, il y a une <a href=\"/licenses/gpl-howto.html\">page séparée</a>."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "<a href=\"/licenses/fdl-howto-opt.html\">How does one use the optional "
 "features of the FDL?</a>"
 msgstr ""
 "<a href=\"/licenses/fdl-howto-opt.html\">Comment utiliser les dispositifs "
-"optionnels de la FDL ?</a>"
+"optionnels de la FDL ?</a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "We have a <a href=\"/licenses/fdl-howto-opt.html\">separate page</a> that "
 "discusses how to use the optional features of the FDL."
@@ -57,11 +55,11 @@ msgstr ""
 "Nous avons une <a href=\"/licenses/fdl-howto-opt.html\">page séparée</a> qui "
 "explique comment utiliser les dispositifs optionnels de la FDL."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Where must one put the license notification?"
-msgstr "Où placer l'avis de licence ?"
+msgstr "Où placer l'avis de licence ?"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "It is sufficient to put the full license notice in the &ldquo;main&rdquo; "
 "file of your document.  For example, with the <cite>Emacs Lisp Reference "
@@ -70,12 +68,12 @@ msgid ""
 "files we simply write:"
 msgstr ""
 "Il est suffisant de placer l'avis de licence complet dans le fichier "
-"« principal » de votre document. Par exemple, dans le cas du <cite>Emacs "
+"« principal » de votre document. Par exemple, dans le cas du <cite>Emacs "
 "Lisp Reference Manual</cite>, beaucoup de fichiers sont rassemblés dans "
 "<code>elisp.texi</code>. Nous mettons l'avis complet dans <code>elisp.texi</"
-"code> et nous écrivons simplement dans les autres fichiers :"
+"code> et nous écrivons simplement dans les autres fichiers :"
 
-#. type: Content of: <dl><dd><pre>
+#. type: Content of: <div><dl><dd><pre>
 #, no-wrap
 msgid ""
 "@c -*-texinfo-*-\n"
@@ -90,14 +88,14 @@ msgstr ""
 "@c   Free Software Foundation, Inc.\n"
 "@c See the file elisp.texi for copying conditions.<a id=\"TransNote1-rev\" href=\"#TransNote1\"><sup>1</sup></a>\n"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "What do I do with scripts that are needed to render my document properly?"
 msgstr ""
 "Que faire avec les scripts dont j'ai besoin pour afficher mon document "
-"correctement ?"
+"correctement ?"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "We recommend you release these scripts under the GNU FDL as well.  Of "
 "course, if these scripts are generally useful for other tasks, it is a good "
@@ -107,23 +105,23 @@ msgstr ""
 "GNU FDL. Bien sûr, s'ils peuvent être utiles à d'autres tâches, c'est une "
 "bonne idée de les publier séparément sous la GNU GPL."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Is it required for the document to have invariant sections?"
 msgstr ""
-"Est-il obligatoire que le document contienne des sections invariantes ?"
+"Est-il obligatoire que le document contienne des sections invariantes ?"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "No.  It is perfectly acceptable for a document to have no invariant sections."
 msgstr "Non. Un document peut parfaitement n'avoir aucune section invariante."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Should I try to make sure the document has some invariant sections?"
 msgstr ""
 "Faut-il que j'essaie de faire en sorte que le document ait des sections "
-"invariantes ?"
+"invariantes ?"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "Not particularly.  If a section's contents ought to be invariant, make it "
 "invariant."
@@ -131,15 +129,15 @@ msgstr ""
 "Pas particulièrement. S'il est nécessaire que le contenu d'une section soit "
 "invariant, rendez cette section invariante."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Should I try to avoid invariant sections?"
-msgstr "Doit-on essayer d'éviter les sections invariantes ?"
+msgstr "Doit-on essayer d'éviter les sections invariantes ?"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "When should a section be invariant?"
-msgstr "Quand une section doit-elle être invariante ?"
+msgstr "Quand une section doit-elle être invariante ?"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "First of all, keep in mind that a section that treats technical material "
 "<em>cannot</em> be invariant.  Only a secondary section can be invariant, "
@@ -150,7 +148,7 @@ msgstr ""
 "secondaire peut être invariante, et une section technique n'est pas une "
 "section secondaire."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "If the section is text that you're not allowed to modify, such as a copy of "
 "the GNU GPL, then it <em>must</em> be invariant.  You can't give permission "
@@ -161,7 +159,7 @@ msgstr ""
 "pas donner la permission de le modifier si vous n'avez pas vous-même cette "
 "permission."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "(One consequence is that you <em>cannot use</em> preexisting text which "
 "covers technical material if you don't have permission to allow modification "
@@ -171,7 +169,7 @@ msgstr ""
 "qui couvre des aspects techniques si vous n'avez pas la permission "
 "d'autoriser la modification de ce texte.)"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "When a section discusses the philosophy of free software, it is a good idea "
 "to make that section invariant.  For instance, when we put the GNU Manifesto "
@@ -188,14 +186,14 @@ msgstr ""
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
-"<b>Traduction :</b><ol>\n"
-"<li id=\"TransNote1\"><pre>\n"
+"<b>Traduction :</b><ol>\n"
+"<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
 "@c -*-texinfo-*-\n"
-"@c Ceci est une partie du « Manuel de référence du Lisp de GNU Emacs »\n"
+"@c Ceci est une partie du « Manuel de référence du Lisp de GNU Emacs »\n"
 "@c Copyright (C) 1990, 1991, 1992, 1993, 1994, 1999\n"
 "@c   Free Software Foundation, Inc.\n"
-"@c Voir les conditions de reproduction dans le fichier elisp.texi. <a href="
-"\"#TransNote1-rev\" class=\"nounderline\">&#8593;</a></pre></li></ol>"
+"@c Voir les conditions de reproduction dans le fichier elisp.texi.</li></ol>"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -218,14 +216,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -235,28 +233,30 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
+# Pas de changement significatif en 2022.
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2000, 2001, 2008, 2009, 2014 Free Software Foundation, Inc."
+"Copyright &copy; 2000, 2001, 2008, 2009, 2014, 2022 Free Software "
+"Foundation, Inc."
 msgstr ""
 "Copyright &copy; 2000, 2001, 2008, 2009, 2014 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Benjamin Drieu.<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Benjamin Drieu<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 

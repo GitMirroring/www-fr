@@ -8,16 +8,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: fdl-howto-opt.html\n"
-"POT-Creation-Date: 2016-11-18 06:58+0000\n"
-"PO-Revision-Date: 2020-12-06 14:03+0100\n"
+"POT-Creation-Date: 2022-01-02 19:55+0000\n"
+"PO-Revision-Date: 2022-01-02 21:59+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms:  \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -27,15 +25,15 @@ msgstr ""
 "Comment utiliser les dispositifs optionnels de la GNU FDL - Projet GNU - "
 "Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "How to Use the Optional Features of the GFDL"
 msgstr "Comment utiliser les dispositifs optionnels de la GNU FDL"
 
-#. type: Content of: <p>
-msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
-msgstr "par <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "par <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The <a href=\"/licenses/fdl.html\">GNU FDL</a> (GNU Free Documentation "
 "License)  includes two optional features, <a href="
@@ -51,32 +49,31 @@ msgstr ""
 "utiliser si vous le souhaitez. L'avis de licence du manuel doit indiquer si "
 "vous utilisez ces dispositifs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The simplest case is that you do not use these features.  Then the license "
 "notice should say so, like this:"
 msgstr ""
 "Le cas le plus simple est celui où vous ne souhaitez pas utiliser ces "
-"dispositifs. Dans ce cas, l'avis de licence doit l'indiquer, comme suit :"
+"dispositifs. Dans ce cas, l'avis de licence doit l'indiquer, comme suit :"
 
-#. type: Content of: <pre>
-#, no-wrap
+#. type: Content of: <div><blockquote><p>
 msgid ""
-"      Permission is granted to copy, distribute and/or modify this\n"
-"      document under the terms of the GNU Free Documentation License,\n"
-"      Version 1.3 or any later version published by the Free Software\n"
-"      Foundation; with no Invariant Sections, no Front-Cover Texts, and\n"
-"      no Back-Cover Texts.  A copy of the license is included in the\n"
-"      section entitled \"GNU Free Documentation License\".\n"
+"Permission is granted to copy, distribute and/or modify this document under "
+"the terms of the GNU Free Documentation License, Version 1.3 or any later "
+"version published by the Free Software Foundation; with no Invariant "
+"Sections, no Front-Cover Texts, and no Back-Cover Texts.  A copy of the "
+"license is included in the section entitled \"GNU Free Documentation License"
+"\"."
 msgstr ""
-"      Permission is granted to copy, distribute and/or modify this\n"
-"      document under the terms of the GNU Free Documentation License,\n"
-"      Version 1.3 or any later version published by the Free Software\n"
-"      Foundation; with no Invariant Sections, no Front-Cover Texts, and\n"
-"      no Back-Cover Texts.  A copy of the license is included in the\n"
-"      section entitled \"GNU Free Documentation License\".<a id=\"TransNote1-rev\" href=\"#TransNote1\"><sup>1</sup></a>\n"
+"<i>Permission is granted to copy, distribute and/or modify this document "
+"under the terms of the GNU Free Documentation License, Version 1.3 or any "
+"later version published by the Free Software Foundation; with no Invariant "
+"Sections, no Front-Cover Texts, and no Back-Cover Texts.  A copy of the "
+"license is included in the section entitled “GNU Free Documentation License”."
+"</i> <a id=\"TransNote1-rev\" href=\"#TransNote1\"><sup>1</sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But if you want to use these features, here is an explanation of what they "
 "are intended for and how to use them."
@@ -84,11 +81,11 @@ msgstr ""
 "Mais si vous souhaitez utiliser ces dispositifs, voici des explications "
 "concernant leur objectif et leur mode d'emploi."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Invariant sections"
 msgstr "Sections inaltérables"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The idea of invariant sections is that they give you a way to express "
 "nontechnical personal opinions about the topic."
@@ -96,7 +93,7 @@ msgstr ""
 "Le but des sections inaltérables est de vous fournir un moyen d'exprimer un "
 "point de vue non technique sur le sujet."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The classical example of an invariant nontechnical section in a free manual "
 "is the <a href=\"/gnu/manifesto.html\">GNU Manifesto</a>, which is included "
@@ -124,36 +121,34 @@ msgstr ""
 "et nous avons inclus cette exigence dans la licence. De fait, nous en avons "
 "fait une section inaltérable, sans pour autant utiliser ce terme. Si nous "
 "avions à le faire aujourd'hui en utilisant la licence GNU FDL, nous "
-"écririons l'avis de licence comme suit :"
+"écririons l'avis de licence comme suit :"
 
-#. type: Content of: <pre>
-#, no-wrap
+#. type: Content of: <div><blockquote><p>
 msgid ""
-"      Permission is granted to copy, distribute and/or modify this\n"
-"      document under the terms of the GNU Free Documentation License,\n"
-"      Version 1.3 or any later version published by the Free Software\n"
-"      Foundation; with the Invariant Sections being just \"GNU\n"
-"      Manifesto\", with no Front-Cover Texts, and with no Back-Cover\n"
-"      Texts.  A copy of the license is included in the section\n"
-"      entitled \"GNU Free Documentation License\".\n"
+"Permission is granted to copy, distribute and/or modify this document under "
+"the terms of the GNU Free Documentation License, Version 1.3 or any later "
+"version published by the Free Software Foundation; with the Invariant "
+"Sections being just &ldquo;GNU Manifesto,&rdquo; with no Front-Cover Texts, "
+"and with no Back-Cover Texts.  A copy of the license is included in the "
+"section entitled &ldquo;GNU Free Documentation License.&rdquo;"
 msgstr ""
-"      Permission is granted to copy, distribute and/or modify this\n"
-"      document under the terms of the GNU Free Documentation License,\n"
-"      Version 1.3 or any later version published by the Free Software\n"
-"      Foundation; with the Invariant Sections being just \"GNU\n"
-"      Manifesto\", with no Front-Cover Texts, and with no Back-Cover\n"
-"      Texts.  A copy of the license is included in the section\n"
-"      entitled \"GNU Free Documentation License\".<a id=\"TransNote2-rev\" href=\"#TransNote2\"><sup>2</sup></a>\n"
+"<i>Permission is granted to copy, distribute and/or modify this document "
+"under the terms of the GNU Free Documentation License, Version 1.3 or any "
+"later version published by the Free Software Foundation; with the Invariant "
+"Sections being just “GNU Manifesto”, with no Front-Cover Texts, and with no "
+"Back-Cover Texts.  A copy of the license is included in the section entitled "
+"“GNU Free Documentation License”.</i> <a id=\"TransNote2-rev\" href="
+"\"#TransNote2\"><sup>2</sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This says that the section &ldquo;GNU Manifesto&rdquo; is the only invariant "
 "section."
 msgstr ""
-"Cet avis indique que la section « Manifeste GNU » est la seule section "
+"Cet avis indique que la section « Manifeste GNU » est la seule section "
 "inaltérable."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The old Emacs Manual license did not allow others who modify and "
 "redistribute the manual to add new invariant sections.  But while "
@@ -170,7 +165,7 @@ msgstr ""
 "inaltérables par ceux qui font des modifications à un document, comme par "
 "les créateurs de ce document. La licence FDL le permet."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But that feature requires a safeguard to prevent it from being abused to "
 "endanger the free status of the manual.  Person B who modifies a manual that "
@@ -182,17 +177,17 @@ msgid ""
 "invariant sections provide this safeguard."
 msgstr ""
 "Mais cette possibilité requiert un garde-fou afin de prévenir tout abus "
-"éventuel qui porterait atteinte au statut « libre » du document. Une "
+"éventuel qui porterait atteinte au statut « libre » du document. Une "
 "personne B, modifiant un manuel qui a été écrit par une personne A, ne doit "
 "pas être en mesure de rendre inaltérable la documentation rédigée par A, "
 "dans la mesure où cela retirerait à une personne C le droit de modifier plus "
 "encore la documentation de A. De même, si cette personne B ajoute des "
 "éléments à des sous-parties additionnelles, ces ajouts ne doivent pas être "
-"inaltérables : la documentation doit pouvoir être modifiable par d'autres. "
+"inaltérables : la documentation doit pouvoir être modifiable par d'autres. "
 "Les conditions d'ajout de sections inaltérables dans la licence FDL tiennent "
 "compte de ces garde-fous."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There is no need for a manual to have any invariant sections.  The simplest "
 "case is to have none at all.  You do not have to list the GNU FDL itself as "
@@ -206,16 +201,16 @@ msgstr ""
 "simple est de ne pas en avoir du tout. Vous n'avez pas besoin de lister la "
 "GNU FDL elle-même comme étant une section inaltérable, dans la mesure où la "
 "FDL stipule explicitement qu'elle-même ne peut être altérée. La FDL "
-"distingue aussi certaine sections, comme celles intitulées « Historique », "
-"« Implications », etc. Vous n'avez pas à les indiquer comme étant des "
+"distingue aussi certaine sections, comme celles intitulées « Historique », "
+"« Implications », etc. Vous n'avez pas à les indiquer comme étant des "
 "sections inaltérables, car la FDL fournit déjà des règles concernant ces "
 "sections."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Cover texts"
 msgstr "Textes de couverture"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A cover text is a short piece of text that you insist must be printed on the "
 "cover of the manual when the manual is published, even if someone else is "
@@ -227,12 +222,12 @@ msgstr ""
 "Un texte de couverture est une courte portion de texte dont vous exigez "
 "l'impression sur la couverture du manuel lors de sa publication, même "
 "lorsque quelqu'un d'autre est à l'origine de cette publication. Vous pouvez "
-"définir un « texte de première page de couverture », qui doit être imprimé "
-"sur la première de couverture, ainsi qu'un « texte de dernière page de "
-"couverture », qui doit être imprimé sur la quatrième de couverture. Vous "
+"définir un « texte de première page de couverture », qui doit être imprimé "
+"sur la première de couverture, ainsi qu'un « texte de dernière page de "
+"couverture », qui doit être imprimé sur la quatrième de couverture. Vous "
 "pouvez en définir un de chaque."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Cover texts are a new feature, so I cannot cite past examples of their use, "
 "but the intended purpose is simple.  They are meant to give the original "
@@ -242,22 +237,21 @@ msgid ""
 msgstr ""
 "Les textes de couverture sont une nouvelle possibilité, il m'est donc "
 "impossible de citer un exemple de son utilisation par le passé. Mais le but "
-"recherché est simple : ces textes sont là pour permettre au premier éditeur "
+"recherché est simple : ces textes sont là pour permettre au premier éditeur "
 "d'encourager les gens à acheter les copies qu'il publie, plutôt qu'une "
-"réédition. Par exemple, nous pourrions envisager un texte de dernière page "
-"de couverture comme suit :"
+"réédition. Par exemple, nous pourrions envisager un texte de quatrième de "
+"couverture comme suit :"
 
-#. type: Content of: <pre>
-#, no-wrap
+#. type: Content of: <div><blockquote><p>
 msgid ""
-"    Free Manuals Inc. paid Alyssa P. Hacker to write this manual\n"
-"    and asks for your support through buying the Free Manuals edition.\n"
+"Free Manuals Inc. paid Alyssa P. Hacker to write this manual and asks for "
+"your support through buying the Free Manuals edition."
 msgstr ""
-"      Les Manuels libres SA ont rémunéré Alyssa P. Hacker pour \n"
-"      rédiger le présent ouvrage et vous invitent à les soutenir \n"
-"      en achetant l'édition issue des Manuels libres SA.\n"
+"Les Manuels libres SA ont rémunéré Alyssa P. Hacker pour rédiger le présent "
+"ouvrage et vous invitent à les soutenir en achetant l'édition issue des "
+"Manuels libres SA."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This might help Free Manuals Inc. succeed in the business of publishing free "
 "manuals&mdash;at least, that is the plan.  To specify this back-cover text, "
@@ -266,67 +260,62 @@ msgstr ""
 "Ceci pourrait aider la SA des Manuels libres à faire prospérer son "
 "entreprise de publication d'ouvrages libres. En tout cas, tel est le but "
 "recherché. Pour définir ce texte de quatrième page de couverture, la SA des "
-"Manuels libres devrait rédiger l'avis de licence comme suit :"
+"Manuels libres devrait rédiger l'avis de licence comme suit :"
 
-#. type: Content of: <pre>
-#, no-wrap
+#. type: Content of: <div><blockquote><p>
 msgid ""
-"      Permission is granted to copy, distribute and/or modify this\n"
-"      document under the terms of the GNU Free Documentation License,\n"
-"      Version 1.3 or any later version published by the Free Software\n"
-"      Foundation; with no Invariant Sections, no Front-Cover Texts, and\n"
-"      one Back-Cover Text: \"Free Manuals Inc. paid Alyssa P. Hacker to\n"
-"      write this manual and asks for your support through buying the\n"
-"      Free Manuals edition.\"  A copy of the license is included in the\n"
-"      section entitled \"GNU Free Documentation License\".\n"
+"Permission is granted to copy, distribute and/or modify this document under "
+"the terms of the GNU Free Documentation License, Version 1.3 or any later "
+"version published by the Free Software Foundation; with no Invariant "
+"Sections, no Front-Cover Texts, and one Back-Cover Text: &ldquo;Free Manuals "
+"Inc. paid Alyssa P. Hacker to write this manual and asks for your support "
+"through buying the Free Manuals edition.&rdquo; A copy of the license is "
+"included in the section entitled &ldquo;GNU Free Documentation License."
+"&rdquo;"
 msgstr ""
-"      Permission is granted to copy, distribute and/or modify this\n"
-"      document under the terms of the GNU Free Documentation License,\n"
-"      Version 1.3 or any later version published by the Free Software\n"
-"      Foundation; with no Invariant Sections, no Front-Cover Texts, and\n"
-"      one Back-Cover Text: \"Free Manuals Inc. paid Alyssa P. Hacker to\n"
-"      write this manual and asks for your support through buying the\n"
-"      Free Manuals edition.\"  A copy of the license is included in the\n"
-"      section entitled \"GNU Free Documentation License\".<a id=\"TransNote3-rev\" href=\"#TransNote3\"><sup>3</sup></a>\n"
+"<i>Permission is granted to copy, distribute and/or modify this document "
+"under the terms of the GNU Free Documentation License, Version 1.3 or any "
+"later version published by the Free Software Foundation; with no Invariant "
+"Sections, no Front-Cover Texts, and one Back-Cover Text: “Free Manuals Inc. "
+"paid Alyssa P. Hacker to write this manual and asks for your support through "
+"buying the Free Manuals edition.” A copy of the license is included in the "
+"section entitled “GNU Free Documentation License”.</i> <a id=\"TransNote3-rev"
+"\" href=\"#TransNote3\"><sup>3</sup></a>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
-"<b>Traduction non officielle des avis :</b><ol>\n"
-"<li id=\"TransNote1\"><pre>\n"
-"      Permission vous est donnée de copier, distribuer et/ou modifier \n"
-"      ce document selon les termes de la Licence <i>GNU Free \n"
-"      Documentation License</i>, version 1.3 ou ultérieure publiée par \n"
-"      la <i>Free Software Foundation</i> ; sans section inaltérable, \n"
-"      sans texte de première page de couverture et sans texte de dernière \n"
-"      page de couverture. Une copie de cette licence est incluse dans la\n"
-"      section appelée <i>GNU Free Documentation License</i> de ce \n"
-"      document. <a href=\"#TransNote1-rev\" class=\"nounderline\">&#8593;</"
-"a></pre></li>\n"
-"<li id=\"TransNote2\"><pre>\n"
-"      Permission vous est donnée de copier, distribuer et/ou modifier \n"
-"      ce document selon les termes de la Licence <i>GNU Free \n"
-"      Documentation License</i>, version 1.3 ou ultérieure publiée par \n"
-"      la <i>Free Software Foundation</i> ; avec comme seule section \n"
-"      inaltérable le « Manifeste GNU », sans texte de première page de \n"
-"      couverture et sans texte de dernière page de couverture. \n"
-"      Une copie de cette licence est incluse dans la section appelée \n"
-"      <i>GNU Free Documentation License</i> de ce document. <a href="
-"\"#TransNote2-rev\" class=\"nounderline\">&#8593;</a></pre></li>\n"
-"<li id=\"TransNote3\"><pre>\n"
-"      Permission vous est donnée de copier, distribuer et/ou modifier \n"
-"      ce document selon les termes de la Licence <i>GNU Free \n"
-"      Documentation License</i>, version 1.3 ou ultérieure publiée par \n"
-"      la <i>Free Software Foundation</i> ; sans section inaltérable, \n"
-"      sans texte de première page de couverture et avec le texte de \n"
-"      dernière page de couverture suivant : \n"
-"      « Les Manuels libres SA ont rémunéré Alyssa P. Hacker pour rédiger \n"
-"      le présent ouvrage et vous invitent à les soutenir en achetant \n"
-"      l'édition issue des Manuels libres SA. ». Une copie de cette \n"
-"      licence est incluse dans la section appelée <i>GNU Free \n"
-"      Documentation License</i> de ce document. <a href=\"#TransNote3-rev\" "
-"class=\"nounderline\">&#8593;</a></pre></li></ol>"
+"<b>Traduction non officielle des avis :</b><ol>\n"
+"<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"Permission vous est donnée de copier, distribuer et/ou modifier ce document "
+"selon les termes de la Licence <i>GNU Free Documentation License</i>, "
+"version 1.3 ou ultérieure publiée par la <i>Free Software Foundation</i> ; "
+"sans section inaltérable, sans texte de première page de couverture et sans "
+"texte de dernière page de couverture. Une copie de cette licence est incluse "
+"dans la section appelée <i>GNU Free Documentation License</i> de ce document."
+"</li>\n"
+"<li><a id=\"TransNote2\" href=\"#TransNote2-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"Permission vous est donnée de copier, distribuer et/ou modifier ce document "
+"selon les termes de la Licence <i>GNU Free Documentation License</i>, "
+"version 1.3 ou ultérieure publiée par la <i>Free Software Foundation</i> ; "
+"avec comme seule section inaltérable le « Manifeste GNU », sans texte de "
+"première page de couverture et sans texte de dernière page de couverture. "
+"Une copie de cette licence est incluse dans la section appelée <i>GNU Free "
+"Documentation License</i> de ce document.</li>\n"
+"<li><a id=\"TransNote3\" href=\"#TransNote3-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"Permission vous est donnée de copier, distribuer et/ou modifier ce document "
+"selon les termes de la Licence <i>GNU Free Documentation License</i>, "
+"version 1.3 ou ultérieure publiée par la <i>Free Software Foundation</i> ; "
+"sans section inaltérable, sans texte de première page de couverture et avec "
+"le texte de dernière page de couverture suivant : « Les Manuels libres SA "
+"ont rémunéré Alyssa P. Hacker pour rédiger  le présent ouvrage et vous "
+"invitent à les soutenir en achetant l'édition issue des Manuels libres "
+"SA. ». Une copie de cette licence est incluse dans la section appelée <i>GNU "
+"Free Documentation License</i> de ce document.</li></ol>"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -349,14 +338,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -366,9 +355,10 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
+# Pas de changement significatif en 2022.
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2000, 2008, 2014, 2016 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2000, 2008, 2014, 2016 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2000, 2008, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2000, 2008 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -385,7 +375,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Marc Chauvet.<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Marc Chauvet<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 

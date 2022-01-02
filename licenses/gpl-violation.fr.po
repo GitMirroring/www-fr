@@ -7,26 +7,24 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gpl-violation.html\n"
-"POT-Creation-Date: 2018-09-14 16:26+0000\n"
-"PO-Revision-Date: 2020-12-06 14:03+0100\n"
+"POT-Creation-Date: 2022-01-02 17:25+0000\n"
+"PO-Revision-Date: 2022-01-02 21:59+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid "Violations of the GNU Licenses - GNU Project - Free Software Foundation"
 msgstr "Violation des licences GNU - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Violations of the GNU Licenses"
 msgstr "Violation des licences GNU"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you think you see a violation of the GNU <a href=\"/licenses/gpl.html"
 "\">GPL</a>, <a href=\"/licenses/lgpl.html\">LGPL</a>, <a href=\"/licenses/"
@@ -36,59 +34,59 @@ msgstr ""
 "Si vous pensez avoir découvert une violation des licences GNU <a href=\"/"
 "licenses/gpl.html\">GPL</a>, <a href=\"/licenses/lgpl.html\">LGPL</a>, <a "
 "href=\"/licenses/agpl.html\">AGPL</a> ou <a href=\"/licenses/fdl.html\">FDL</"
-"a>, ce que vous devez faire en premier est de revérifier les faits :"
+"a>, ce que vous devez faire en premier est de revérifier les faits :"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Does the distribution contain a copy of the License?"
-msgstr "La distribution contient-elle une copie de la licence ?"
+msgstr "La distribution contient-elle une copie de la licence ?"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Does it clearly state which software is covered by the License? Does it say "
 "anything misleading, perhaps giving the impression that something is covered "
 "by the License when in fact it is not?"
 msgstr ""
-"Établit-elle clairement quel logiciel est couvert par la licence ? Dit-elle "
+"Établit-elle clairement quel logiciel est couvert par la licence ? Dit-elle "
 "quoi que ce soit d'ambigu, donnant peut-être l'impression que quelque chose "
-"est couvert par la licence alors que ce n'est en fait pas le cas ?"
+"est couvert par la licence alors que ce n'est en fait pas le cas ?"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Is source code included in the distribution?"
-msgstr "Le code source est-il inclus dans la distribution ?"
+msgstr "Le code source est-il inclus dans la distribution ?"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Is a written offer for source code included with a distribution of just "
 "binaries?"
 msgstr ""
 "Si la distribution contient seulement des binaires, est-ce qu'elle inclut "
-"une offre écrite de code source ?"
+"une offre écrite de code source ?"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Is the available source code complete, or is it designed for linking in "
 "other non-free modules?"
 msgstr ""
 "Le code source disponible est-il complet ou est-il conçu pour être lié à "
-"d'autres modules non libres ?"
+"d'autres modules non libres ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If there seems to be a real violation, the next thing you need to do is "
 "record the details carefully:"
 msgstr ""
 "S'il semble y avoir vraiment une violation, ce que vous devez faire ensuite "
-"est d'enregistrer les détails soigneusement :"
+"est d'enregistrer les détails soigneusement :"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "the precise name of the product"
 msgstr "le nom précis du produit"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "the name of the person or organization distributing it"
 msgstr "le nom de la personne ou de l'organisation qui le distribue"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "email addresses, postal addresses and phone numbers for how to contact the "
 "distributor(s)"
@@ -96,44 +94,44 @@ msgstr ""
 "les adresses électroniques et postales, ainsi que les numéros de téléphone "
 "pour contacter le(s) distributeur(s)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "the exact name of the package whose license is violated"
 msgstr "le nom exact du paquet dont la licence est violée"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "how the license was violated:"
-msgstr "la façon dont la licence a été violée :"
+msgstr "la façon dont la licence a été violée :"
 
-#. type: Content of: <ul><li><ul><li>
+#. type: Content of: <div><ul><li><ul><li>
 msgid "Is the copyright notice of the copyright holder included?"
-msgstr "L'avis de copyright du détenteur de copyright est-elle inclus ?"
+msgstr "L'avis de copyright du détenteur de copyright est-elle inclus ?"
 
-#. type: Content of: <ul><li><ul><li>
+#. type: Content of: <div><ul><li><ul><li>
 msgid "Is the source code completely missing?"
-msgstr "Le code source est-il totalement absent ?"
+msgstr "Le code source est-il totalement absent ?"
 
-#. type: Content of: <ul><li><ul><li>
+#. type: Content of: <div><ul><li><ul><li>
 msgid ""
 "Is there a written offer for source that's incomplete in some way? This "
 "could happen if it provides a contact address or network URL that's somehow "
 "incorrect."
 msgstr ""
-"Y a-t-il une offre écrite pour le code source qui est incomplète ? Ceci "
+"Y a-t-il une offre écrite pour le code source qui est incomplète ? Ceci "
 "pourrait arriver si elle fournit une adresse de contact ou une URL réseau "
 "qui est incorrecte."
 
-#. type: Content of: <ul><li><ul><li>
+#. type: Content of: <div><ul><li><ul><li>
 msgid "Is there a copy of the license included in the distribution?"
-msgstr "La distribution inclut-elle une copie de la licence ?"
+msgstr "La distribution inclut-elle une copie de la licence ?"
 
-#. type: Content of: <ul><li><ul><li>
+#. type: Content of: <div><ul><li><ul><li>
 msgid ""
 "Is some of the source available, but not all? If so, what parts are missing?"
 msgstr ""
-"Le code source n'est-il disponible que partiellement ? Dans ce cas, quelles "
-"sont les parties manquantes ?"
+"Le code source n'est-il disponible que partiellement ? Dans ce cas, quelles "
+"sont les parties manquantes ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The more of these details that you have, the easier it is for the copyright "
 "holder to pursue the matter."
@@ -141,7 +139,7 @@ msgstr ""
 "Plus vous avez de détails, plus il est facile pour le détenteur du copyright "
 "de faire le nécessaire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Once you have collected the details, you should send a precise report to the "
 "copyright holders of the packages that are being wrongly distributed.  The "
@@ -156,7 +154,7 @@ msgstr ""
 "détenteurs du copyright sont légalement autorisés à faire des recours contre "
 "les infractions."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The Free Software Foundation acts on GPL violations reported on FSF-"
 "copyrighted code.  Thus, <strong>if</strong> the program includes code that "
@@ -170,7 +168,7 @@ msgstr ""
 "rapport à <a href=\"mailto:license-violation@gnu.org\">&lt;license-"
 "violation@gnu.org&gt;</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It's important that we be able to write back to you to get more information "
 "about the violation and the product.  Thus, if you use an anonymous "
@@ -187,12 +185,12 @@ msgstr ""
 "anonymiseur de courriel, veuillez indiquer un moyen de vous répondre. Si "
 "vous souhaitez chiffrer votre correspondance, envoyez un bref courriel "
 "d'explication et nous prendrons les dispositions appropriées. Puisque la FSF "
-"a approuvé les « <a href=\"https://www.fsf.org/licensing/enforcement-"
+"a approuvé les « <a href=\"https://www.fsf.org/licensing/enforcement-"
 "principles\">principes d'une mise en application de la GPL axée sur la "
-"communauté</a> », vous pouvez être sûr que votre rapport ne contribuera pas "
+"communauté</a> », vous pouvez être sûr que votre rapport ne contribuera pas "
 "à punir quelqu'un pour une erreur de bonne foi qu'il est disposé à corriger."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The FSF offers assistance and advice to any other copyright holder who "
 "wishes to enforce GNU licenses.  But we cannot act on our own where we do "
@@ -205,7 +203,7 @@ msgstr ""
 "sont les détenteurs de copyrights sur le logiciel en cause et leur signaler "
 "la violation."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Our colleagues at the Software Freedom Conservancy do GPL enforcement for "
 "many free programs, through their own copyrights and with coalitions of "
@@ -252,14 +250,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -269,12 +267,13 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
+# Pas de changement significatif en 2022.
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1999, 2001, 2007, 2008, 2013, 2014, 2017, 2018 Free "
+"Copyright &copy; 1999, 2001, 2006, 2007, 2009, 2014, 2017, 2018, 2022 Free "
 "Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1999, 2001, 2007, 2008, 2013, 2014, 2017, 2018 Free "
+"Copyright &copy; 1999, 2001, 2006, 2007, 2009, 2014, 2017, 2018 Free "
 "Software Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -292,7 +291,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Cédric Corazza.<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Cédric Corazza<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 

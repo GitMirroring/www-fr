@@ -6,26 +6,24 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: why-affero-gpl.html\n"
-"POT-Creation-Date: 2015-05-10 22:25+0000\n"
-"PO-Revision-Date: 2018-11-03 22:24+0100\n"
+"POT-Creation-Date: 2022-01-02 17:25+0000\n"
+"PO-Revision-Date: 2022-01-02 21:59+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid "Why the GNU Affero GPL - GNU Project - Free Software Foundation"
-msgstr "Pourquoi la GPL Affero ? - GNU Project - Free Software Foundation"
+msgstr "Pourquoi la GPL Affero ? - GNU Project - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Why the Affero GPL"
-msgstr "Pourquoi la GPL Affero ?"
+msgstr "Pourquoi la GPL Affero ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The GNU Affero General Public License is a modified version of the ordinary "
 "GNU GPL version 3.  It has one added requirement: if you run a modified "
@@ -35,13 +33,13 @@ msgid ""
 msgstr ""
 "La licence publique générale GNU Affero (GNU <abbr title=\"Affero General "
 "Public License\">AGPL</abbr>) est une version modifiée de la version 3 de la "
-"GNU GPL ordinaire. Elle a une seule exigence supplémentaire : si vous "
+"GNU GPL ordinaire. Elle a une seule exigence supplémentaire : si vous "
 "exécutez un programme modifié sur un serveur et laissez d'autres "
 "utilisateurs communiquer avec lui, votre serveur doit aussi leur permettre "
 "de télécharger le code source correspondant à la version modifiée en "
 "fonctionnement."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The purpose of the GNU Affero GPL is to prevent a problem that affects "
 "developers of free programs that are often used on servers."
@@ -49,7 +47,7 @@ msgstr ""
 "L'objectif de l'AGPL est d'éviter un problème affectant les développeurs de "
 "programmes libres qui sont souvent utilisés sur des serveurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Suppose you develop and release a free program under the ordinary GNU GPL.  "
 "If developer D modifies the program and releases it, the GPL requires him to "
@@ -63,7 +61,7 @@ msgstr ""
 "obtenez une copie de cette version, vous êtes libre d'incorporer tout ou "
 "partie de ses modifications dans votre propre version."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But suppose the program is mainly useful on servers.  When D modifies the "
 "program, he might very likely run it on his own server and never release "
@@ -78,7 +76,7 @@ msgstr ""
 "jamais la possibilité d'incorporer ses changements dans votre version. Cela "
 "ne vous fera peut-être pas plaisir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Using the GNU Affero GPL avoids that outcome.  If D runs his version on a "
 "server that everyone can use, you too can use it.  Assuming he has followed "
@@ -95,7 +93,7 @@ msgstr ""
 "votre version (s'il n'a pas respecté cette exigence, envoyez-lui votre "
 "avocat)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Both the ordinary GNU GPL, version 3, and the GNU Affero GPL have text "
 "allowing you to link together modules under these two licenses in one "
@@ -105,7 +103,7 @@ msgstr ""
 "permettant de lier des modules régis par l'une ou l'autre de ces licences en "
 "un seul programme."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The GNU Affero GPL does not address the problem of <a href=\"/philosophy/who-"
 "does-that-server-really-serve.html\"> Service as a Software Substitute "
@@ -115,7 +113,7 @@ msgstr ""
 "that-server-really-serve.html\"><abbr title=\"Service as a Software "
 "Substitute\">SaaSS</abbr></a> (service se substituant au logiciel)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "SaaSS means that users use someone else's web server to do their own "
 "computing.  This requires them to send their data to the server, which does "
@@ -125,11 +123,11 @@ msgid ""
 msgstr ""
 "On parle de SaaSS lorsque les utilisateurs font leurs propres tâches "
 "informatiques sur l'ordinateur de quelqu'un d'autre. Ceci les oblige à "
-"envoyer leurs données au serveur ; ce dernier les traite et leur renvoie les "
+"envoyer leurs données au serveur ; ce dernier les traite et leur renvoie les "
 "résultats. Le SaaS est une injustice parce que les utilisateurs n'ont aucun "
 "contrôle sur leur informatique quand ils procèdent de cette façon."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If some program on this server is released under the GNU Affero GPL, the "
 "server is required to offer the users the corresponding source of that "
@@ -146,7 +144,7 @@ msgstr ""
 "ce serveur pour examiner leurs données ou les modifier d'une tout autre "
 "façon."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We don't see any sensible way to address the SaaSS problem with license "
 "conditions on particular programs.  Even to write a legal condition to "
@@ -162,9 +160,9 @@ msgstr ""
 "SaaSS des autres. Et en admettant que nous puissions le faire, nous ne "
 "voyons rien que la licence du programme pourrait exiger et qui, le cas "
 "échéant, corrigerait le mal inhérent au SaaSS. Ainsi, notre solution au "
-"problème des SaaSS est très simple : refusez de les utiliser."
+"problème des SaaSS est très simple : refusez de les utiliser."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If a program is meant specifically and only for SaaSS, you shouldn't write "
 "it.  But many programs are useful for a variety of kinds of services, "
@@ -205,14 +203,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -222,27 +220,28 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
+# Pas de changement significatif en 2022.
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2010, 2013, 2014, 2015 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2010, 2013, 2014, 2015 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2010, 2013, 2015, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2010, 2013, 2015 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Thérèse Godefroy.<br /> Révision : <a href=\"mailto:trad-"
-"gnu&#64;april.org\"><em>trad-gnu&#64;april.org</em></a>"
+"Traduction : Thérèse Godefroy<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
+"april.org\"><em>trad-gnu&#64;april.org</em></a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>

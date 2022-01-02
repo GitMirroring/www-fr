@@ -8,29 +8,28 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: copyleft.html\n"
-"POT-Creation-Date: 2018-01-01 05:57+0000\n"
-"PO-Revision-Date: 2020-12-06 14:03+0100\n"
+"POT-Creation-Date: 2022-01-02 16:26+0000\n"
+"PO-Revision-Date: 2022-01-02 21:59+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms:  \n"
 
 #. type: Content of: <title>
 msgid "What is Copyleft? - GNU Project - Free Software Foundation"
-msgstr "Qu'est-ce que le copyleft ? - Projet GNU - Free Software Foundation"
+msgstr "Qu'est-ce que le copyleft ? - Projet GNU - Free Software Foundation"
 
 #. type: Attribute 'content' of: <meta>
 msgid "GNU, FSF, Free Software Foundation, Linux, Copyleft"
 msgstr "GNU, FSF, Free Software Foundation, Linux, Copyleft"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "What is Copyleft?"
-msgstr "Qu'est-ce que le copyleft ?"
+msgstr "Qu'est-ce que le copyleft ?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Copyleft is a general method for making a program (or other work) free (<a "
 "href=\"/philosophy/free-sw.html\">in the sense of freedom, not &ldquo;zero "
@@ -41,7 +40,7 @@ msgstr ""
 "sw.html\">libre</a> un programme (ou toute autre œuvre) et obliger toutes "
 "les versions modifiées ou étendues de ce programme à être libres également."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The simplest way to make a program free software is to put it in the <a href="
 "\"/philosophy/categories.html#PublicDomainSoftware\">public domain</a>, "
@@ -64,9 +63,9 @@ msgstr ""
 "bien y effectuer des changements, nombreux ou non, et distribuer le résultat "
 "en tant que logiciel privateur. Ceux qui recevront le programme dans sa "
 "forme modifiée n'auront pas la liberté que l'auteur original leur avait "
-"donnée ; l'intermédiaire l'aura fait disparaître."
+"donnée ; l'intermédiaire l'aura fait disparaître."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the <a href=\"/gnu/thegnuproject.html\">GNU project</a>, our aim is to "
 "give <em>all</em> users the freedom to redistribute and change GNU "
@@ -80,15 +79,15 @@ msgstr ""
 "Notre but, au <a href=\"/gnu/thegnuproject.html\">projet GNU</a>, est de "
 "donner à <em>tous</em> les utilisateurs la liberté de redistribuer et de "
 "modifier les logiciels GNU. Si des intermédiaires pouvaient dépouiller ces "
-"derniers de la liberté, peut-être que notre code « aurait beaucoup "
-"d'utilisateurs », mais il ne leur donnerait pas la liberté. Alors, au lieu "
+"derniers de la liberté, peut-être que notre code « aurait beaucoup "
+"d'utilisateurs », mais il ne leur donnerait pas la liberté. Alors, au lieu "
 "de mettre les logiciels GNU dans le domaine public, nous les mettons sous "
-"« copyleft » (appelé aussi « gauche d'auteur »). Le copyleft stipule que "
+"« copyleft » (appelé aussi « gauche d'auteur »). Le copyleft stipule que "
 "celui qui redistribue un logiciel, avec ou sans modification, doit aussi "
 "transmettre la liberté de le copier et de le modifier. Le copyleft garantit "
 "cette liberté à tous les utilisateurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Copyleft also provides an <a href=\"/philosophy/pragmatic.html\">incentive</"
 "a> for other programmers to add to free software.  Important free programs "
@@ -99,9 +98,9 @@ msgstr ""
 "logiciels libres. Des programmes importants comme le compilateur C++ de GNU "
 "n'existent que grâce à lui."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"Copyleft also helps programmers who want to contribute <a href=\"/prep/tasks."
+"Copyleft also helps programmers who want to contribute <a href=\"/help/help."
 "html\">improvements</a> to <a href=\"/philosophy/free-sw.html\">free "
 "software</a> get permission to do so.  These programmers often work for "
 "companies or universities that would do almost anything to get more money.  "
@@ -109,14 +108,14 @@ msgid ""
 "employer may want to turn the changes into a proprietary software product."
 msgstr ""
 "De plus, le copyleft aide les programmeurs qui veulent contribuer au <a href="
-"\"/philosophy/free-sw.html\">logiciel libre</a> par des <a href=\"/prep/"
-"tasks.html\">améliorations</a> à obtenir la permission de le faire. Ces "
+"\"/philosophy/free-sw.html\">logiciel libre</a> par des <a href=\"/help/help."
+"html\">améliorations</a> à obtenir la permission de le faire. Ces "
 "programmeurs travaillent souvent pour des entreprises ou des universités qui "
 "feraient n'importe quoi pour gagner plus d'argent. Un programmeur pourrait "
 "vouloir faire profiter la communauté de ses modifications, mais son "
 "employeur pourrait vouloir les transformer en un produit privateur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When we explain to the employer that it is illegal to distribute the "
 "improved version except as free software, the employer usually decides to "
@@ -126,7 +125,7 @@ msgstr ""
 "version améliorée autrement que comme logiciel libre, celui-ci décide "
 "souvent de la distribuer librement plutôt que de la laisser tomber."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To copyleft a program, we first state that it is copyrighted; then we add "
 "distribution terms, which are a legal instrument that gives everyone the "
@@ -141,34 +140,34 @@ msgstr ""
 "dérivés</em>, mais seulement si les conditions de distribution demeurent "
 "inchangées. Ainsi, le code et ses libertés sont légalement indissociables."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Proprietary software developers use copyright to take away the users' "
 "freedom; we use copyright to guarantee their freedom.  That's why we reverse "
 "the name, changing &ldquo;copyright&rdquo; into &ldquo;copyleft.&rdquo;"
 msgstr ""
 "Les développeurs de logiciels privateurs utilisent le copyright pour "
-"restreindre la liberté des utilisateurs ; nous utilisons le copyleft pour la "
+"restreindre la liberté des utilisateurs ; nous utilisons le copyleft pour la "
 "garantir. C'est pourquoi nous avons inversé le nom en remplaçant "
-"« copyright » par « copyleft »."
+"« copyright » par « copyleft »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Copyleft is a way of using the copyright on the program.  It doesn't mean "
 "abandoning the copyright; in fact, doing so would make copyleft impossible.  "
 "The &ldquo;left&rdquo; in &ldquo;copyleft&rdquo; is not a reference to the "
 "verb &ldquo;to leave&rdquo;&mdash;only to the direction which is the mirror "
-"image of &ldquo;right&rdquo;."
+"image of &ldquo;right.&rdquo;"
 msgstr ""
 "Le copyleft est un moyen de se servir du copyright du programme. Cela ne "
-"signifie pas d'abandonner le copyright ; en réalité, faire cela rendrait le "
-"copyleft impossible. Le mot <i>left</i> dans « copyleft » n'est pas une "
+"signifie pas d'abandonner le copyright ; en réalité, faire cela rendrait le "
+"copyleft impossible. Le mot <i>left</i> dans « copyleft » n'est pas une "
 "référence au verbe <i>to leave</i>.<a id=\"TransNote3-rev\" href="
 "\"#TransNote3\"><sup>3</sup></a> C'est seulement une référence à la l'image "
 "en miroir de <i>right</i>.<a id=\"TransNote4-rev\" href="
 "\"#TransNote4\"><sup>4</sup></a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Copyleft is a general concept, and you can't use a general concept directly; "
 "you can only use a specific implementation of the concept.  In the GNU "
@@ -181,7 +180,7 @@ msgid ""
 "contributors</a>."
 msgstr ""
 "Le copyleft est un concept général, et vous ne pouvez pas utiliser un "
-"concept général directement ; vous pouvez seulement utiliser une mise en "
+"concept général directement ; vous pouvez seulement utiliser une mise en "
 "œuvre spécifique du concept. Les conditions de distribution spécifiques que "
 "nous utilisons au projet GNU sont contenues dans la <a href=\"/licenses/gpl."
 "html\">licence publique générale GNU</a>, appelée GNU <abbr title=\"General "
@@ -190,7 +189,7 @@ msgstr ""
 "découvrir <a href=\"/licenses/why-assign.html\">pourquoi la FSF reçoit des "
 "cessions de copyright de la part de contributeurs</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "An alternate form of copyleft, the <a href=\"/licenses/agpl.html\">GNU "
 "Affero General Public License (AGPL)</a> is designed for programs that are "
@@ -205,22 +204,22 @@ msgstr ""
 "à implémenter des services mis à disposition du public seront publiées en "
 "tant que code source."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A compromise form of copyleft, the <a href=\"/licenses/lgpl.html\">GNU "
 "Lesser General Public License (LGPL)</a> applies to a few (but not all) GNU "
 "libraries. To learn more about properly using the LGPL, please read the "
-"article <a href=\"/philosophy/why-not-lgpl.html\"><cite>Why you shouldn't "
-"use the Lesser GPL for your next library</cite></a>."
+"article &ldquo;<a href=\"/philosophy/why-not-lgpl.html\">Why you shouldn't "
+"use the Lesser GPL for your next library</a>.&rdquo;"
 msgstr ""
-"Un « copyleft de compromis », la <a href=\"/licenses/lgpl.html\">licence "
+"Un « copyleft de compromis », la <a href=\"/licenses/lgpl.html\">licence "
 "publique générale GNU amoindrie</a> (<abbr title=\"Lesser General Public "
 "License\">LGPL</abbr> s'applique à quelques bibliothèques GNU, mais pas à "
 "toutes. Vous trouverez des explications sur la bonne manière d'utiliser la "
-"LGPL dans l'article <a href=\"/philosophy/why-not-lgpl.html\">Pourquoi vous "
-"ne devriez pas utiliser la LGPL pour votre prochaine bibliothèque</a>."
+"LGPL dans l'article « <a href=\"/philosophy/why-not-lgpl.html\">Pourquoi "
+"vous ne devriez pas utiliser la LGPL pour votre prochaine bibliothèque</a> »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The <a href=\"/licenses/fdl.html\">GNU Free Documentation License (FDL)</a> "
 "is a form of copyleft intended for use on a manual, textbook or other "
@@ -233,7 +232,7 @@ msgstr ""
 "chacun la liberté effective de les copier et de les redistribuer, avec ou "
 "sans modification, de façon commerciale ou non."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The appropriate license is included in many manuals and in each GNU source "
 "code distribution."
@@ -241,7 +240,7 @@ msgstr ""
 "La licence appropriée est incluse dans beaucoup de manuels et dans chaque "
 "distribution de code source GNU."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "All these licenses are designed so that you can easily apply them to your "
 "own works, assuming you are the copyright holder.  You don't have to modify "
@@ -254,7 +253,7 @@ msgstr ""
 "copie de la licence et ajouter aux fichiers source des avis qui se réfèrent "
 "correctement à la licence."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Using the same distribution terms for many different programs makes it easy "
 "to copy code between various different programs.  When they all have the "
@@ -273,7 +272,7 @@ msgstr ""
 "est construite comme une exception ajoutée à la GPL version 3, rendant la "
 "compatibilité automatique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you would like to copyleft your program with the GNU GPL or the GNU LGPL, "
 "please see the <a href=\"/licenses/gpl-howto.html\">license instructions "
@@ -287,7 +286,7 @@ msgstr ""
 "vous devez reproduire le texte intégral de la licence que vous avez choisie. "
 "C'est un tout, et les copies partielles ne sont pas autorisées."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you would like to copyleft your manual with the GNU FDL, please see the "
 "instructions at the <a href=\"/licenses/fdl.html#addendum\">end</a> of the "
@@ -300,20 +299,20 @@ msgstr ""
 "\">conseils sur l'utilisation de la GNU FDL</a>. Encore une fois, les copies "
 "partielles ne sont pas autorisées."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is a legal mistake to use a backwards C in a circle instead of a "
 "copyright symbol.  Copyleft is based legally on copyright, so the work "
 "should have a copyright notice.  A copyright notice requires either the "
-"copyright symbol (a C in a circle) or the word &ldquo;Copyright&rdquo;."
+"copyright symbol (a C in a circle) or the word &ldquo;Copyright.&rdquo;"
 msgstr ""
 "C'est une erreur juridique d'utiliser un C à l'envers dans un cercle à la "
 "place du symbole du copyright. Le copyleft est basé sur le droit du "
 "copyright, l'œuvre doit donc comporter un avis de copyright. Ce dernier "
 "nécessite, ou bien le symbole du copyright (un C dans un cercle), ou bien le "
-"mot « Copyright »."
+"mot « Copyright »."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A backwards C in a circle has no special legal significance, so it doesn't "
 "make a copyright notice.  It may be amusing in book covers, posters, and "
@@ -324,29 +323,30 @@ msgstr ""
 "particulière et ne constitue donc pas un avis de copyright. Cela peut être "
 "amusant sur une couverture de livre, un poster ou autre chose de ce genre, "
 "mais <a href=\"https://en.wikipedia.org/wiki/Copyleft#Symbol\">faites "
-"attention à la manière dont vous le représentez sur une page web !</a>"
+"attention à la manière dont vous le représentez sur une page web !</a>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
 "<hr /><b>Notes de traduction</b><ol>\n"
-"<li id=\"TransNote1\">L'équivalent français du copyright est le droit "
-"d'auteur, mais il en diffère de manière significative. En particulier, le "
-"droit d'auteur ne permet pas de mettre volontairement une œuvre dans le "
-"domaine public ; l'auteur gardera entre autres ses droits moraux, qui sont "
-"inaliénables. <a href=\"#TransNote1-rev\" class=\"nounderline\">&#8593;</a></"
-"li>\n"
-"<li id=\"TransNote2\">Autre traduction de <em>proprietary</em> : "
-"propriétaire. <a href=\"#TransNote2-rev\" class=\"nounderline\">&#8593;</a></"
-"li>\n"
-"<li id=\"TransNote3\"><i>Left</i> signifie « laissé », "
-"« abandonné » (participe passé de <i>to leave</i>), ou bien « (la) "
-"gauche ». <a href=\"#TransNote3-rev\" class=\"nounderline\">&#8593;</a></"
-"li>\n"
-"<li id=\"TransNote4\"><i>Right</i> signifie « (la) droite » (par opposition "
-"à la gauche), ou bien « (le) droit » (de faire quelque chose). <a href="
-"\"#TransNote4-rev\" class=\"nounderline\">&#8593;</a></li>\n"
+"<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"L'équivalent français du copyright est le droit d'auteur, mais il en diffère "
+"de manière significative. En particulier, le droit d'auteur ne permet pas de "
+"mettre volontairement une œuvre dans le domaine public ; l'auteur gardera "
+"entre autres ses droits moraux, qui sont inaliénables.</li>\n"
+"<li><a id=\"TransNote2\" href=\"#TransNote2-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"Autre traduction de <i>proprietary</i> : propriétaire.</li>\n"
+"<li><a id=\"TransNote3\" href=\"#TransNote3-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"<i>Left</i> signifie « laissé », « abandonné » (participe passé de <i>to "
+"leave</i>), ou bien « (la) gauche ».</li>\n"
+"<li><a id=\"TransNote4\" href=\"#TransNote4-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"<i>Right</i> signifie « (la) droite » (par opposition à la gauche), ou bien "
+"« (le) droit » (de faire quelque chose).</li>\n"
 "</ol>"
 
 #. type: Content of: <div><div><p>
@@ -370,14 +370,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -387,14 +387,13 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
+# Pas de changement significatif en 2022.
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2008, 2009, 2014, 2015, 2016, 2017, 2018 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 1996-2001, 2004, 2005, 2007-2009, 2013, 2016, 2022 Free "
+"Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2008, 2009, 2014, 2015, 2016, 2017, 2018 Free Software "
+"Copyright &copy; 1996-2001, 2004, 2005, 2007-2009, 2013, 2016 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -412,7 +411,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Benjamin Drieu.<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Benjamin Drieu<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a> "
 
 #.  timestamp start 

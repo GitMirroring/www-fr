@@ -7,40 +7,35 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: why-assign.html\n"
-"POT-Creation-Date: 2018-01-01 05:57+0000\n"
-"PO-Revision-Date: 2020-12-06 14:03+0100\n"
+"POT-Creation-Date: 2022-01-02 17:25+0000\n"
+"PO-Revision-Date: 2022-01-02 21:59+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid ""
-"Why the FSF gets copyright assignments from contributors - GNU Project - "
+"Why the FSF Gets Copyright Assignments from Contributors - GNU Project - "
 "Free Software Foundation"
 msgstr ""
 "Pourquoi la FSF reçoit des cessions de copyright de la part de contributeurs "
 "- Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
-msgid "Why the FSF gets copyright assignments from contributors"
+#. type: Content of: <div><h2>
+msgid "Why the FSF Gets Copyright Assignments from Contributors"
 msgstr ""
 "Pourquoi la FSF reçoit des cessions de copyright de la part de contributeurs"
 
-#. type: Content of: <p>
-msgid ""
-"by <strong>Professor Eben Moglen</strong>, Columbia University Law School"
-msgstr ""
-"par le <strong>Professeur Eben Moglen</strong>, de la <i>Columbia University "
-"Law School</i>"
+#. type: Content of: <div><address>
+msgid "by Professor Eben Moglen, Columbia University Law School"
+msgstr "par le Professeur Eben Moglen, Columbia University Law School"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"[Explanatory note added in Jan 2013: this point applies to the packages that "
+"Explanatory note added in Jan 2013: this point applies to the packages that "
 "are FSF-copyrighted.  When the developers of a program make it a GNU "
 "package, they can decide either to give the copyright to the FSF so it can "
 "enforce the GPL for the package, or else to keep the copyright as well as "
@@ -48,20 +43,20 @@ msgid ""
 "copyrighted package, then the FSF asks for copyright assignments for further "
 "contributions, and this page explains why.  <a href=\"https://www.fsf.org/"
 "bulletin/2014/spring/copyright-assignment-at-the-fsf\"> Additional pertinent "
-"explanation</a>.]"
+"explanation</a>."
 msgstr ""
-"[Note explicative ajoutée en janvier 2013 : cet argument s'applique aux "
+"Note explicative ajoutée en janvier 2013 : cet argument s'applique aux "
 "paquets qui sont sous copyright de la FSF. Quand les développeurs d'un "
 "programme en font un paquet GNU, ils peuvent décider, ou bien d'en donner le "
 "copyright à la FSF pour qu'elle fasse respecter la GPL en ce qui le "
 "concerne, ou bien de garder le copyright ainsi que la responsabilité de "
 "faire respecter la GPL. S'ils en font un paquet sous copyright de la FSF, "
 "alors la FSF demande la cession des copyrights sur les contributions "
-"ultérieures ; cette page explique pourquoi. <a href=\"https://www.fsf.org/"
+"ultérieures ; cette page explique pourquoi. <a href=\"https://www.fsf.org/"
 "bulletin/2014/spring/copyright-assignment-at-the-fsf\">Complément "
-"d'explications</a>.]"
+"d'explications</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Under US copyright law, which is the law under which most free software "
 "programs have historically been first published, there are very substantial "
@@ -77,12 +72,12 @@ msgstr ""
 "a des avantages procéduraux très substantiels à l'enregistrement du "
 "copyright. Et en dépit du large droit de distribution véhiculé par la GPL, "
 "faire respecter le copyright n'est généralement pas possible pour les "
-"distributeurs ; seul le détenteur du copyright, ou quelqu'un à qui le "
+"distributeurs ; seul le détenteur du copyright, ou quelqu'un à qui le "
 "copyright a été cédé, peut donc faire respecter la licence. Si l'œuvre sous "
 "copyright a plusieurs auteurs, la coopération de tous les auteurs est "
 "nécessaire pour réussir à la faire respecter."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In order to make sure that all of our copyrights can meet the recordkeeping "
 "and other requirements of registration, and in order to be able to enforce "
@@ -131,14 +126,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -148,13 +143,11 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
+# Pas de changement significatif en 2022.
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2001, 2008, 2009, 2014, 2017, 2018 Free Software "
-"Foundation, Inc."
-msgstr ""
-"Copyright &copy; 2001, 2008, 2009, 2014, 2017, 2018 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 2001, 2013, 2014, 2017, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2001, 2013, 2014, 2017 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -171,7 +164,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Cédric Corazza.<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Cédric Corazza<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 

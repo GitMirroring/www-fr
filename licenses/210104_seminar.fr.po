@@ -6,46 +6,48 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 210104_seminar.html\n"
-"POT-Creation-Date: 2019-08-17 07:55+0000\n"
-"PO-Revision-Date: 2020-12-06 14:03+0100\n"
+"POT-Creation-Date: 2022-01-02 16:26+0000\n"
+"PO-Revision-Date: 2022-01-02 21:59+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid ""
 "FSF Seminar: Case Study and Legal Ethics - GNU Project - Free Software "
 "Foundation"
 msgstr ""
-"Séminaire de la FSF : études de cas et questions déontologiques - Projet GNU "
+"Séminaire de la FSF : études de cas et questions déontologiques - Projet GNU "
 "- Free Software Foundation"
 
 #. type: Attribute 'content' of: <meta>
 msgid "20031124;15183300"
 msgstr "20031124;15183300"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid ""
 "FSF Seminar: GPL Compliance Case Studies and Legal Ethics in Free Software "
 "Licensing"
 msgstr ""
-"Séminaire de la FSF : études de cas de non-respect de la GPL et questions "
+"Séminaire de la FSF : études de cas de non-respect de la GPL et questions "
 "déontologiques dans l'application des licences de logiciel libre"
 
-#. type: Content of: <blockquote><p>
-msgid ""
-"Columbia Law School, Columbia University New York, NY January 21, 2004 (9:00 "
-"am - 6:00 pm)"
-msgstr ""
-"<i>Columbia Law School, Columbia University</i> à New York, NY, 21 janvier "
-"2004 (9h – 18h)"
+#. type: Content of: <div><div><p><i>
+msgid "<i>Columbia Law School, Columbia University"
+msgstr "<i>Columbia Law School, Columbia University"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p><i>
+msgid "New York, NY"
+msgstr "New York, NY"
+
+#. type: Content of: <div><div><p>
+msgid "January 21, 2004 (9:00 am - 6:00 pm)</i>"
+msgstr "21 janvier 2004 (9h – 18h)</i>"
+
+#. type: Content of: <div><p>
 msgid ""
 "This one-day course presents the details of five different GPL compliance "
 "cases handled by FSF's GPL Compliance Laboratory.  Each case offers unique "
@@ -61,7 +63,7 @@ msgstr ""
 "diplomatiques entre les détenteurs du copyright et ceux qui violent ces "
 "droits. "
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This course also includes a unit on the ethical considerations for attorneys "
 "who want to represent clients that make use of or sell Free Software "
@@ -71,28 +73,28 @@ msgstr ""
 "destiné aux avocats souhaitant représenter des clients qui utilisent ou "
 "vendent des logiciels libres."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Prerequisites"
 msgstr "Pré-requis"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Attendees should have successfully completed the course, a <i>Detailed Study "
 "and Analysis of GPL and LGPL</i>, as the material from that course forms the "
 "building blocks for this material, or have attended a previous <i>Free "
 "Software Licensing and the GNU GPL Seminar</i>."
 msgstr ""
-"Les participants doivent avoir suivi le cours « Étude et analyse détaillées "
-"de la GPL et de la LGPL », dans la mesure où les éléments de ce cours seront "
+"Les participants doivent avoir suivi le cours « Étude et analyse détaillées "
+"de la GPL et de la LGPL », dans la mesure où les éléments de ce cours seront "
 "supposés acquis, ou alors les participants doivent avoir participé à un "
-"précédent séminaire sur l'« application des licences de logiciel libre et la "
-"GNU GPL »."
+"précédent séminaire sur l'« application des licences de logiciel libre et la "
+"GNU GPL »."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Audience"
 msgstr "Public ciblé"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The course is of most interest to lawyers who have clients or employers that "
 "deal with Free Software on a regular basis.  However, technical managers and "
@@ -105,7 +107,7 @@ msgstr ""
 "distribuent des logiciels libres trouveront aussi un grand intérêt à ce "
 "cours."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The course will include the topics listed below, along with ample time for "
 "questions and discussions."
@@ -113,39 +115,38 @@ msgstr ""
 "Ce cours abordera les sujets énumérés ci-dessous (tout en laissant beaucoup "
 "de temps aux questions et aux discussions)."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Lunchtime Speaker"
 msgstr "Intervenant de midi"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"http://emoglen.law.columbia.edu/\">Eben Moglen</a> will be the "
 "lunchtime speaker.  Professor Moglen is Professor of Law and Legal History "
 "at Columbia Law School and one of the nation's foremost scholars on "
-"copyright, patents and the proposed &ldquo;Broadcast Flag&rdquo;.  He is "
-"also a member of FSF's Board of Directors and the foundation's General "
-"Counsel.  Professor Moglen has also written extensively on the SCO vs IBM "
-"lawsuit."
+"copyright, patents and the proposed &ldquo;Broadcast Flag.&rdquo; He is also "
+"a member of FSF's Board of Directors and the foundation's General Counsel.  "
+"Professor Moglen has also written extensively on the SCO vs IBM lawsuit."
 msgstr ""
 "<a href=\"http://emoglen.law.columbia.edu/\">Eben Moglen</a> interviendra à "
 "l'heure du déjeuner. Le professeur Moglen enseigne le droit et l'histoire du "
 "droit à la <i>Columbia Law School</i> et est l'une des sommités des États-"
-"Unis sur le copyright, les brevets et la proposition de « drapeau "
-"d'émission » <i>[broadcast flag]</i>.<a id=\"TransNote1-rev\" href="
+"Unis sur le copyright, les brevets et la proposition de « drapeau "
+"d'émission » <i>[broadcast flag]</i>.<a id=\"TransNote1-rev\" href="
 "\"#TransNote1\"><sup>1</sup></a> Il est aussi membre du conseil "
 "d'administration de la FSF et avocat-conseil général <i>[General Consultant]"
 "</i> de la fondation. Le professeur Moglen a publié de nombreux écrits sur "
 "le procès SCO contre IBM."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "GPL Compliance Case Studies"
 msgstr "Études de cas de non-respect de la GPL"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "Overview of FSF's GPL Compliance Lab"
 msgstr "Présentation succincte du <i>GPL Compliance Lab</i> de la FSF"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "We present a brief introduction to the work that FSF does to enforce the GPL "
 "and defend the freedoms granted by Free Software."
@@ -153,11 +154,11 @@ msgstr ""
 "Nous introduisons brièvement le travail qu'effectue la FSF pour faire "
 "appliquer la GPL et défendre les libertés octroyées par le logiciel libre."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "GPL Violation Case Study A"
 msgstr "Violation de la GPL, cas A"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "In this case study, we consider one of the most complex and longest-running "
 "violations that FSF has handled.  Company A distributed a derivative work of "
@@ -175,11 +176,11 @@ msgstr ""
 "respect de la licence et expliquons la démarche de la FSF vis-à-vis de "
 "contrevenants quelquefois agressifs."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "GPL Violation Case Study B"
 msgstr "Violation de la GPL, cas B"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "In this case study, we consider a contrasting violation to Case A.  Company "
 "B, who sold a complete GNU/Linux distribution, had worked hard to be in "
@@ -194,11 +195,11 @@ msgstr ""
 "facilité les violations de ce type peuvent être résolues et le traitement "
 "que peuvent espérer des contrevenants par ailleurs amicaux."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "GPL Violation Case Study C"
 msgstr "Violation de la GPL, cas C"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "In this case study, we present a violation where an entire embedded GNU/"
 "Linux distribution was included in a consumer electronic device.  We "
@@ -213,11 +214,11 @@ msgstr ""
 "par les situations où un fournisseur (en amont) et un distributeur (en aval) "
 "sont tous deux en infraction sur des points différents."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "GPL Violation Case Study D"
 msgstr "Violation de la GPL, cas D"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "In this case study, we consider how to handle the inevitable violations that "
 "can occur from a company that is generally committed to doing Free Software "
@@ -228,14 +229,14 @@ msgstr ""
 "Dans cette étude de cas, nous examinons la manière de traiter les violations "
 "inévitables qui se produisent dans une société dont le fonds de commerce est "
 "le logiciel libre mais qui – par suite d'expériences avec de nouveaux "
-"modèles économiques « de pointe » ou de simple négligences – se met "
+"modèles économiques « de pointe » ou de simple négligences – se met "
 "quelquefois en infraction ou en semi-infraction avec la GPL."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "Good Practices for GPL Compliance"
 msgstr "Bonnes pratiques pour respecter la licence GPL"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "After discussing the details of the various archetypes of GPL compliance "
 "efforts undertaken by FSF, we generalize what we have learned to advise on "
@@ -250,12 +251,12 @@ msgstr ""
 "règles internes qui garantiront à votre client ou à votre société de ne "
 "jamais être confronté à un rapport d'infraction. "
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Ethical Considerations for the Attorney Practicing Free Software"
 msgstr ""
 "Considérations déontologiques pour l'avocat défendant le logiciel libre"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This portion of the course will focus on ethical issues that may arise for "
 "attorneys counseling clients with respect to free software issues.  Many of "
@@ -269,11 +270,11 @@ msgstr ""
 "générale, mais notre présentation décrira spécifiquement la manière dont ces "
 "questions peuvent se poser dans le contexte du logiciel libre."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "Part I: Representing Free Software Clients"
-msgstr "Partie I : représenter des clients issus du logiciel libre"
+msgstr "Partie I : représenter des clients issus du logiciel libre"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "An attorney's ethical duties run to not just their clients, but to potential "
 "clients and the general public as well.  Pro bono representation of free "
@@ -291,11 +292,11 @@ msgstr ""
 "doivent être identifiés et gérés, qu'ils soient directs, indirects ou "
 "politiques."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "Part II: Practicing Free Software"
-msgstr "Partie II : exercer dans le cadre du logiciel libre"
+msgstr "Partie II : exercer dans le cadre du logiciel libre"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Differing ethical issues arise in the context of counseling a client who is "
 "a free software licensor as opposed to one who is a free software licensee.  "
@@ -318,13 +319,13 @@ msgstr ""
 "de la relation avocat-client. Les considérations éthiques relatives à "
 "chacune de ces situations seront présentées et discutées."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "Part III: More General Ethical Considerations Relevant to Free Software"
 msgstr ""
-"Partie III : considérations déontologiques plus générales à propos du "
+"Partie III : considérations déontologiques plus générales à propos du "
 "logiciel libre"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Free software counseling is but one specialty within the realm of "
 "intellectual property counseling in general.  A review of various topics of "
@@ -341,19 +342,19 @@ msgstr ""
 "libre. Parmi ces sujets, il y aura des considérations sur les poursuites en "
 "contrefaçon de brevet et sur les règles afférentes."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Pricing (Book by December 24, 2003 for early registration discount)"
 msgstr ""
 "Prix (inscrivez-vous avant le 24 décembre 2003 pour bénéficier d'une remise "
 "de préinscription)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "$495 for registrations on or before December 24, 2003 and $595 after "
 "December 24"
 msgstr "495 $ jusqu'au 24 décembre 2003 compris, et 595 $ ensuite."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>Financial Aid Policy:</b> Applicants with annual incomes of up to $15,000 "
 "are entitled to a 75% discount.  People with incomes between $15,000 and "
@@ -363,7 +364,7 @@ msgid ""
 "johns@fsf.org\">&lt;johns@fsf.org&gt;</a> or Ravi at <a href=\"mailto:"
 "ravi@fsf.org\">&lt;ravi@fsf.org&gt;</a> or by phone at 617.620.9640."
 msgstr ""
-"<b>Politique d'aide financière</b> : remise de 75% quand le revenu annuel "
+"<b>Politique d'aide financière</b> : remise de 75% quand le revenu annuel "
 "est inférieur à 15 000 $ et de 50% quand il est compris entre 15 000 et "
 "30 000 $. Tout membre des instances judiciaires ou universitaires ainsi que "
 "les avocats d'organisations à but non lucratif ont droit à une réduction de "
@@ -372,7 +373,7 @@ msgstr ""
 "\"mailto:ravi@fsf.org\">&lt;ravi@fsf.org&gt;</a>, ou téléphonez au "
 "+1 617 620 9640."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>CLE Credits:</b> Attorneys who successfully complete the day long course "
 "will be entitled to a total of 7.5 New York Transitional CLE credits, 3 in "
@@ -380,19 +381,19 @@ msgid ""
 "Professionalism requirements."
 msgstr ""
 "<b>Crédits de formation permanente (<abbr title=\"Continuing Legal Education"
-"\">CLE</abbr>) :</b> les avocats qui termineront avec succès ce cours d'une "
+"\">CLE</abbr>) :</b> les avocats qui termineront avec succès ce cours d'une "
 "journée auront 7,5 <i>New York Transitional CLE credits</i> 3 dans le "
 "domaine de la pratique professionnelle et 4,5 dans le domaine de la "
 "déontologie et du professionnalisme."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Companies that have signed up as Corporate Patrons of FSF receive two "
 "complimentary seats per year at FSF seminars and reduced rates for "
 "additional participants.  Please contact <a href=\"mailto:patron@fsf.org"
 "\">&lt;patron@fsf.org&gt;</a> for more details.  You can find out more about "
-"the Corporate Patron Program at <a href=\"http://patron.fsf.org/\"> http://"
-"patron.fsf.org</a>"
+"the Corporate Patron Program at <a href=\"https://www.fsf.org/patrons/\">www."
+"fsf.org/patrons/</a>."
 msgstr ""
 "Les entreprises qui se seront inscrites en tant que mécènes de la FSF "
 "recevront deux places gratuites par an ainsi que des réductions sur les "
@@ -401,7 +402,7 @@ msgstr ""
 "plus de détails. Pour tout renseignement sur ce programme de mécénat, merci "
 "de consulter <a href=\"http://patron.fsf.org/\"> http://patron.fsf.org</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The seminar will be held at Columbia Law School in New York.  Directions "
 "will be sent following registration.  For more information, please contact "
@@ -419,10 +420,11 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
 "<hr /><b>Note de traduction</b><ol>\n"
-"<li id=\"TransNote1\">Drapeau d'émission : signal envoyé avec le flux d'un "
-"programme de télévision numérique, qui indique si ce flux peut être "
-"enregistré ou non et s'il y a des restrictions sur le contenu enregistré. <a "
-"href=\"#TransNote1-rev\" class=\"nounderline\">&#8593;</a></li></ol>"
+"<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"Drapeau d'émission : signal envoyé avec le flux d'un programme de télévision "
+"numérique, qui indique si ce flux peut être enregistré ou non et s'il y a "
+"des restrictions sur le contenu enregistré.</li></ol>"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -445,14 +447,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -462,13 +464,10 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
+# Pas de changement significatif en 2022.
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2003, 2004, 2007, 2008, 2009, 2014, 2015, 2019 Free "
-"Software Foundation, Inc."
-msgstr ""
-"Copyright &copy; 2003, 2004, 2007, 2008, 2009, 2014, 2015, 2019 Free "
-"Software Foundation, Inc."
+msgid "Copyright &copy; 2003, 2004, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2003, 2004 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -485,7 +484,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Thérèse Godefroy<br />Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Thérèse Godefroy<br />Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 

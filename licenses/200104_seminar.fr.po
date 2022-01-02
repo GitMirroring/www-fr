@@ -6,43 +6,45 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 200104_seminar.html\n"
-"POT-Creation-Date: 2015-10-23 08:18+0000\n"
-"PO-Revision-Date: 2020-12-06 14:03+0100\n"
+"POT-Creation-Date: 2022-01-02 16:26+0000\n"
+"PO-Revision-Date: 2022-01-02 21:59+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid ""
 "FSF Seminar: Detailed Study and Analysis of GPL and LGPL - GNU Project - "
 "Free Software Foundation"
 msgstr ""
-"Séminaire de la FSF : étude et analyse détaillées de la GPL et de la LGPL - "
+"Séminaire de la FSF : étude et analyse détaillées de la GPL et de la LGPL - "
 "Projet GNU - Free Software Foundation"
 
 #. type: Attribute 'content' of: <meta>
 msgid "20031124;15182100"
 msgstr "20031124;15182100"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "FSF Seminar: Detailed Study and Analysis of GPL and LGPL"
 msgstr ""
-"Séminaire de la FSF : étude et analyse détaillées de la GPL et de la LGPL"
+"Séminaire de la FSF : étude et analyse détaillées de la GPL et de la LGPL"
 
-#. type: Content of: <blockquote><p>
-msgid ""
-"Columbia Law School, Columbia University New York, NY January 20, 2004 (9:00 "
-"am - 6:00 pm)"
-msgstr ""
-"<i>Columbia Law School, Columbia University</i> à New York, NY, 20 janvier "
-"2004 (9h – 18h)"
+#. type: Content of: <div><div><p><i>
+msgid "<i>Columbia Law School, Columbia University"
+msgstr "<i>Columbia Law School, Columbia University"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p><i>
+msgid "New York, NY"
+msgstr "New York, NY"
+
+#. type: Content of: <div><div><p>
+msgid "January 20, 2004 (9:00 am - 6:00 pm)</i>"
+msgstr "20 janvier 2004 (9h – 18h)</i>"
+
+#. type: Content of: <div><p>
 msgid ""
 "This one-day course gives a section-by-section explanation of the most "
 "popular Free Software copyright license, the GNU General Public License (GNU "
@@ -58,11 +60,11 @@ msgstr ""
 "de nouveaux modèles d'activité fondés sur le logiciel libre, aussi bien que "
 "d'entreprises déjà florissantes."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Prerequisites"
 msgstr "Connaissances requises"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Attendees should have a general familiarity with software development "
 "processes.  A basic understanding of how copyright law typically applies to "
@@ -72,11 +74,11 @@ msgstr ""
 "processus de développement logiciel. Des notions de base sur l'application "
 "typique du copyright au logiciel sont également utiles."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Audience"
 msgstr "Public ciblé"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The course is of most interest to lawyers, software developers and managers "
 "who run (or have clients who run) software businesses that modify and/or "
@@ -89,7 +91,7 @@ msgstr ""
 "licence GNU GPL ou LGPL, ou qui souhaitent utiliser des logiciels sous GPL "
 "ou LGPL au sein de leur entreprise."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The course will include the topics listed below, along with ample time for "
 "questions and discussions."
@@ -97,35 +99,34 @@ msgstr ""
 "Le cours abordera les sujets énumérés ci-dessous (tout en laissant beaucoup "
 "de temps aux questions et aux discussions)."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Lunchtime Speaker"
 msgstr "Intervenant de midi"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"http://emoglen.law.columbia.edu/\">Eben Moglen</a> will be the "
 "lunchtime speaker.  Professor Moglen is Professor of Law and Legal History "
 "at Columbia Law School and one of the nation's foremost scholars on "
-"copyright, patents and the proposed &ldquo;Broadcast Flag&rdquo;.  He is "
-"also a member of FSF's Board of Directors and the foundation's General "
-"Counsel.  Professor Moglen has also written extensively on the SCO vs IBM "
-"lawsuit."
+"copyright, patents and the proposed &ldquo;Broadcast Flag.&rdquo; He is also "
+"a member of FSF's Board of Directors and the foundation's General Counsel.  "
+"Professor Moglen has also written extensively on the SCO vs IBM lawsuit."
 msgstr ""
 "<a href=\"http://emoglen.law.columbia.edu/\">Eben Moglen</a> interviendra à "
 "l'heure du déjeuner. Le professeur Moglen enseigne le droit et l'histoire du "
 "droit à la <i>Columbia Law School</i> et est l'une des sommités des États-"
-"Unis sur le copyright, les brevets et la proposition de « drapeau "
-"d'émission » <i>[broadcast flag]</i>.<a id=\"TransNote1-rev\" href="
+"Unis sur le copyright, les brevets et la proposition de « drapeau "
+"d'émission » <i>[broadcast flag]</i>.<a id=\"TransNote1-rev\" href="
 "\"#TransNote1\"><sup>1</sup></a> Il est aussi membre du conseil "
 "d'administration de la FSF et avocat-conseil général <i>[General Consultant]"
 "</i> de la fondation. Le professeur Moglen a publié de nombreux écrits sur "
 "le procès SCO contre IBM."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "Free Software Principles and the Free Software Definition"
 msgstr "Principes et définition du logiciel libre"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The ethical principles that motivated the creation of these licenses are "
 "presented.  Unlike licenses that seek to lock up software in a proprietary "
@@ -141,16 +142,16 @@ msgstr ""
 "les logiciels de manière privatrice, la GPL et la LGPL sont conçues pour "
 "accorder la liberté d'innover, d'apprendre et d'améliorer. Ces principes "
 "influencent le choix des conditions de licence. Nous présentons la "
-"définition spécifique du concept de « logiciel libre » (logiciel dont la "
+"définition spécifique du concept de « logiciel libre » (logiciel dont la "
 "licence octroie la liberté de copier, partager, modifier et redistribuer le "
 "logiciel, à titre gratuit ou onéreux) qui s'applique aux entreprises à but "
 "lucratif."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "Preamble of the GNU General Public License (GPL)"
 msgstr "Préambule de la licence publique générale (GPL) GNU"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The preamble presents the intent of the license.  The preamble puts forth "
 "the motivations for the detailed terms and conditions that follow in the "
@@ -162,11 +163,11 @@ msgstr ""
 "suite. Nous expliquons en détail la formulation du préambule pour montrer "
 "comment il encadre les détails juridiques qui suivent."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "GPL, Section 0: Definitions, etc."
-msgstr " GPL, article 0 : définitions, etc."
+msgstr " GPL, article 0 : définitions, etc."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "GPL's Section 0 defines and presents the terms that make the basis of this "
 "copyright license.  We discuss those definitions and the copyright scope of "
@@ -174,13 +175,13 @@ msgid ""
 msgstr ""
 "L'article 0 de la GPL définit et présente les termes qui font la base de "
 "cette licence de copyright. Nous expliquons ces définitions et la dimension "
-"« copyright » de la licence."
+"« copyright » de la licence."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "GPL, Section 1: Grant for Verbatim Source Copying"
-msgstr "GPL, article 1 : droits concédés pour la copie conforme de la source"
+msgstr "GPL, article 1 : droits concédés pour la copie conforme de la source"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Section 1 defines the terms for making source-only copies of software "
 "programs.  We discuss how those rules work and the requirements and "
@@ -192,11 +193,11 @@ msgstr ""
 "et obligations placées sur les distributeurs de sources sous GPL, qu'ils "
 "choisissent de les distribuer à titre gratuit ou onéreux."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "Derivative Works: Statute and Case Law"
-msgstr "Travaux dérivés : droit positif et jurisprudence"
+msgstr "Travaux dérivés : droit positif et jurisprudence"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Free Software licensing in general, and the GPL and LGPL in particular, "
 "relies critically on the concept of derivative work since software that is "
@@ -218,20 +219,20 @@ msgstr ""
 "Si un travail est dérivé d'un logiciel libre, alors les termes de la licence "
 "sont activés, et l'on a l'obligation de se conformer aux termes de la "
 "licence de logiciel libre sous laquelle le travail original est distribué. "
-"Par conséquent, on peut se demander ce qu'est un « travail dérivé ». Nous "
+"Par conséquent, on peut se demander ce qu'est un « travail dérivé ». Nous "
 "allons montrer à quel point la réponse à cette question dépend de la "
 "juridiction concernée. Nous présentons aussi les informations générales les "
 "plus fiables possibles permettant d'appréhender en pratique ce qui est "
 "généralement considéré comme un travail dérivé, dans le milieu en rapide "
 "évolution du droit du copyright appliqué au logiciel."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "GPL, Section 2: Grants for Source Derivative Works"
 msgstr ""
-"GPL, article 2 : droits concédés pour les travaux dérivés sous forme de "
+"GPL, article 2 : droits concédés pour les travaux dérivés sous forme de "
 "source"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Section 2 sets forth the rules for creation of derivative works of GPL'd "
 "software.  We discuss the intent of this section of GPL and how it relates "
@@ -245,12 +246,12 @@ msgstr ""
 "dérivé se positionne par rapport au copyright. Nous expliquons aussi en "
 "détail comment préparer les sources dérivées de manière à respecter la GPL."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "GPL, Section 3: Grants for Creating Binary Derivative Works"
 msgstr ""
-"GPL, article 3 : droits concédés pour les travaux dérivés sous forme binaire"
+"GPL, article 3 : droits concédés pour les travaux dérivés sous forme binaire"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Source-only distribution works well for technically savvy clients and users, "
 "but most want runnable binary programs as well.  Section 3 gives permission "
@@ -268,11 +269,11 @@ msgstr ""
 "logiciels binaires sous GPL. Nous explorons les bienfaits et les défauts de "
 "chacune de ces options."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "The Implied Patent Grant in GPL"
 msgstr "Licence tacite de brevet incluse dans la GPL"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Patent rights are most often granted expressly, through detailed language in "
 "a license.  However, express patent grants are not the exclusive way rights "
@@ -292,21 +293,21 @@ msgstr ""
 "être octroyés par les actions ou le comportement de son détenteur. La GPL ne "
 "contient pas de clause donnant explicitement des droits sur les brevets. "
 "Cela veut-il dire qu'elle concède moins de droits sur les brevets du donneur "
-"de licence que d'autres licences qui contiennent ce genre de clause ? Ou "
+"de licence que d'autres licences qui contiennent ce genre de clause ? Ou "
 "bien la GPL, dans son silence, a-t-elle pour effet concret d'accorder au "
 "destinataire plus de droits sur les brevets que ne le font beaucoup d'autres "
-"licences libres ou « open source » ?"
+"licences libres ou « open source » ?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid "We will consider these questions and provide detailed answers to them."
 msgstr ""
 "Nous allons examiner ces questions et y apporter des réponses détaillées."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "GPL, Section 4: Termination of License"
-msgstr "GPL, article 4 : résiliation de la licence"
+msgstr "GPL, article 4 : résiliation de la licence"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Section 4 terminates rights under the GPL for those who violate it.  We "
 "discuss how such termination works, what it means for violators, what risks "
@@ -320,11 +321,11 @@ msgstr ""
 "mentionnons brièvement la manière d'utiliser l'article 4 en tant qu'outil "
 "principal pour faire respecter la GPL."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "GPL, Section 5: Acceptance of License"
-msgstr "GPL, article 5 : acceptation de la licence"
+msgstr "GPL, article 5 : acceptation de la licence"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "GPL is not a contract, so acceptance of the license works differently than "
 "it does for contracts.  We discuss how this acceptance works under the "
@@ -334,11 +335,11 @@ msgstr ""
 "comme dans les contrats. Nous examinons comment cette acceptation "
 "fonctionne, d'après les règles du copyright qui régissent la GPL."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "GPL, Section 6: Prohibition on Further Restrictions"
-msgstr "GPL, article 6 : interdiction de restrictions supplémentaires"
+msgstr "GPL, article 6 : interdiction de restrictions supplémentaires"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Other licensing terms cannot be placed on GPL'd software that would trump "
 "the rights granted under GPL.  We discuss how Section 6 is used to ensure "
@@ -352,12 +353,12 @@ msgstr ""
 "brièvement comment cela mène au concept de licence de logiciel libre "
 "incompatible avec la GPL."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "GPL, Section 7: Conflicts with Other Agreements or Orders"
 msgstr ""
-"GPL, article 7 : conflits avec d'autres accords ou décisions de justice"
+"GPL, article 7 : conflits avec d'autres accords ou décisions de justice"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Just as additional licensing restrictions cannot trump the GPL, outside "
 "agreements, patent licenses or court orders cannot do so either.  We discuss "
@@ -372,11 +373,11 @@ msgstr ""
 "logiciel proprement dite, ne puissent soustraire de droits aux utilisateurs, "
 "distributeurs ou modificateurs du logiciel sous GPL."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "GPL, Section 8: International Licensing Issues"
-msgstr "GPL, article 8 : application des licences à l'international"
+msgstr "GPL, article 8 : application des licences à l'international"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Section 8 is a rarely used part of the GPL that helps copyright holders when "
 "certain technologies are prohibited from full international distribution due "
@@ -389,23 +390,23 @@ msgstr ""
 "ailleurs dans le monde. Nous expliquons comment l'article 8 aide ces "
 "titulaires de copyright."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "GPL, Section 9: FSF as GPL's Stewards"
-msgstr "GPL, article 9 : la FSF en tant que gestionnaire de la GPL"
+msgstr "GPL, article 9 : la FSF en tant que gestionnaire de la GPL"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "We discuss how the update process and release of new GPL versions happens."
 msgstr ""
 "Nous discutons du processus de mise à jour et de ce qui se passe lors de la "
 "publication d'une nouvelle version de la GPL."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "GPL, Section 10: Copyright Holder's Exceptions to GPL"
 msgstr ""
-"GPL, article 10 : exceptions à la GPL données par le détenteur du copyright"
+"GPL, article 10 : exceptions à la GPL données par le détenteur du copyright"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Section 10 reminds licensees that under copyright law, other relicensing "
 "arrangements can be made.  We discuss how this can often be used as a "
@@ -416,15 +417,15 @@ msgstr ""
 "dispositions. Nous expliquons comment cela peut souvent donner lieu à un "
 "modèle économique et nous expliquons les bienfaits et défauts de ce modèle."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "GPL, Section 11: Disclaimer of Warranties"
-msgstr "GPL, article 11 : déclaration d'absence de garantie"
+msgstr "GPL, article 11 : déclaration d'absence de garantie"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "GPL, Section 12: Limitation of Liability"
-msgstr "GPL, article 12 : limitation de responsabilité"
+msgstr "GPL, article 12 : limitation de responsabilité"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "Almost all software licenses, including Free Software licenses such as the "
 "GPL, contain sections, typically in all caps, regarding warranties and "
@@ -445,51 +446,51 @@ msgstr ""
 "représente une interprétation et une mise en œuvre plausible de l'exclusion "
 "de garantie et des dispositions de limitation de responsabilité de la GPL."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "Lesser General Public License (LGPL)"
 msgstr "Licence publique générale amoindrie (LGPL)"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The LGPL is a &ldquo;scaled back&rdquo; version of GPL, designed "
 "specifically to allow creation of a very well-defined class of proprietary "
 "derivative works.  However, it does prohibit turning the LGPL'd software "
 "itself directly into proprietary software."
 msgstr ""
-"La LGPL est une version « amoindrie » de la GPL, conçue spécifiquement pour "
+"La LGPL est une version « amoindrie » de la GPL, conçue spécifiquement pour "
 "autoriser la création de classes bien définies de travaux dérivés "
 "privateurs. Cependant, elle interdit formellement de faire d'un logiciel "
 "sous LGPL un logiciel privateur."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "We discuss the basic design of LGPL and how it compares and contrasts with "
 "GPL.  We introduce the two classes of derivative works covered by LGPL, "
 "&ldquo;works that use the library&rdquo; and &ldquo;works based on the "
-"library&rdquo;, and give some concrete examples of what proprietary "
+"library,&rdquo; and give some concrete examples of what proprietary "
 "derivative works are prohibited and permitted when basing the software on an "
 "LGPL'd work."
 msgstr ""
 "Nous examinons sur quelles bases est construite la LGPL, en quoi elle est "
 "comparable à la GPL et en quoi elle en diffère. Nous introduisons deux "
-"catégories de travaux dérivés couverts par la LGPL, les « travaux qui "
-"utilisent la bibliothèque » et les « travaux basés sur la bibliothèque », et "
+"catégories de travaux dérivés couverts par la LGPL, les « travaux qui "
+"utilisent la bibliothèque » et les « travaux basés sur la bibliothèque », et "
 "voyons sur des exemples concrets quels travaux dérivés privateurs on a le "
 "droit de faire, ou non, quand on base le logiciel sur un travail sous GPL."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Pricing (Book by December 24, 2003 for early registration discount)"
 msgstr ""
 "Prix (inscrivez-vous avant le 24 décembre 2003 pour bénéficier d'une remise "
 "de préinscription)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "$495 for registrations on or before December 24, 2003 and $595 after "
 "December 24"
 msgstr "495 $ jusqu'au 24 décembre 2003 compris, et 595 $ ensuite."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>Financial Aid Policy:</b> Applicants with annual incomes of up to $15,000 "
 "are entitled to a 75% discount.  People with incomes between $15,000 and "
@@ -499,7 +500,7 @@ msgid ""
 "johns@fsf.org\">&lt;johns@fsf.org&gt;</a> or Ravi at <a href=\"mailto:"
 "ravi@fsf.org\">&lt;ravi@fsf.org&gt;</a> or by phone at 617.620.9640."
 msgstr ""
-"<b>Politique d'aide financière</b> : remise de 75% quand le revenu annuel "
+"<b>Politique d'aide financière</b> : remise de 75% quand le revenu annuel "
 "est inférieur à 15 000 $ et de 50% quand il est compris entre 15 000 et "
 "30 000 $. Tout membre des instances judiciaires ou universitaires ainsi que "
 "les avocats d'organisations à but non lucratif ont droit à une réduction de "
@@ -508,7 +509,7 @@ msgstr ""
 "\"mailto:ravi@fsf.org\">&lt;ravi@fsf.org&gt;</a>, ou téléphonez au "
 "+1 617 620 9640."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To register for the seminar, please download the registration form, fill it "
 "in and fax it to FSF."
@@ -516,34 +517,35 @@ msgstr ""
 "Pour vous inscrire au séminaire, veuillez télécharger le formulaire "
 "d'inscription, le remplir, puis le faxer à la FSF."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>CLE Credits: </b>Attorneys who successfully complete the day long course "
 "will be entitled to 7 New York Transitional CLE credits toward the area of "
 "Professional Practice."
 msgstr ""
 "<b>Crédits de formation permanente (<abbr title=\"Continuing Legal Education"
-"\">CLE</abbr>) :</b> les avocats qui termineront avec succès ce cours d'une "
+"\">CLE</abbr>) :</b> les avocats qui termineront avec succès ce cours d'une "
 "journée auront 7 <i>New York Transitional CLE credits</i> dans le domaine de "
 "la pratique professionnelle."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Companies that have signed up as Corporate Patrons of FSF receive two "
 "complimentary seats per year at FSF seminars and reduced rates for "
 "additional participants.  Please contact <a href=\"mailto:patron@fsf.org"
 "\">&lt;patron@fsf.org&gt;</a> for more details.  You can find out more about "
-"the Corporate Patron Program at <a href=\"http://patron.fsf.org/\"> http://"
-"patron.fsf.org</a>"
+"the Corporate Patron Program at <a href=\"https://www.fsf.org/patrons/\">www."
+"fsf.org/patrons/</a>."
 msgstr ""
 "Les entreprises qui se seront inscrites en tant que mécènes de la FSF "
 "recevront deux places gratuites par an ainsi que des réductions sur les "
 "frais d'inscription pour les participants supplémentaires. Veuillez "
 "contacter <a href=\"mailto:patron@fsf.org\">&lt;patron@fsf.org&gt;</a> pour "
 "plus de détails. Pour tout renseignement sur ce programme de mécénat, merci "
-"de consulter <a href=\"http://patron.fsf.org/\"> http://patron.fsf.org</a>."
+"de consulter <a href=\"https://www.fsf.org/patrons/\">www.fsf.org/patrons/</"
+"a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The seminar will be held at Columbia Law School in New York.  Directions "
 "will be sent following registration.  For more information, please contact "
@@ -561,7 +563,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
 "<hr /><b>Note de traduction</b><ol>\n"
-"<li id=\"TransNote1\">Drapeau d'émission : signal envoyé avec le flux d'un "
+"<li id=\"TransNote1\">Drapeau d'émission : signal envoyé avec le flux d'un "
 "programme de télévision numérique, qui indique si ce flux peut être "
 "enregistré ou non et s'il y a des restrictions sur le contenu enregistré. <a "
 "href=\"#TransNote1-rev\" class=\"nounderline\">&#8593;</a></li></ol>"
@@ -587,14 +589,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -604,13 +606,10 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
+# Pas de changement significatif en 2022.
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2003, 2004, 2007, 2008, 2009, 2014, 2015 Free Software "
-"Foundation, Inc."
-msgstr ""
-"Copyright &copy; 2003, 2004, 2007, 2008, 2009, 2014, 2015 Free Software "
-"Foundation, Inc."
+msgid "Copyright &copy; 2003, 2004, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2003, 2004 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -627,7 +626,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Aurélien Rivière<br />Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Aurélien Rivière<br />Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 

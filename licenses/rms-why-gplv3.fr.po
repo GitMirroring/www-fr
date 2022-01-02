@@ -8,31 +8,29 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: rms-why-gplv3.html\n"
-"POT-Creation-Date: 2014-04-05 00:01+0000\n"
-"PO-Revision-Date: 2021-07-04 20:19+0200\n"
+"POT-Creation-Date: 2022-01-02 17:25+0000\n"
+"PO-Revision-Date: 2022-01-02 21:59+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid "Why Upgrade to GPLv3 - GNU Project - Free Software Foundation"
 msgstr ""
 "Pourquoi mettre à jour vers la GPLv3 - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Why Upgrade to GPLv3"
 msgstr "Pourquoi mettre à jour vers la GPLv3"
 
-#. type: Content of: <p>
-msgid "by <strong>Richard Stallman</strong>"
-msgstr "par <strong>Richard Stallman</strong>"
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "par Richard Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"/licenses/gpl.html\">Version 3 of the GNU General Public License</"
 "a> (GNU GPL) has been released, enabling free software packages to upgrade "
@@ -44,7 +42,7 @@ msgstr ""
 "libres à partir de la version 2. Cet article explique pourquoi une mise à "
 "jour de la licence est importante."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "First of all, it is important to note that upgrading is a choice.  GPL "
 "version 2 will remain a valid license, and no disaster will happen if some "
@@ -57,7 +55,7 @@ msgstr ""
 "GPLv3. Ces deux licences sont incompatibles mais cela n'est pas un sérieux "
 "problème."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When we say that GPLv2 and GPLv3 are incompatible, it means there is no "
 "legal way to combine code under GPLv2 with code under GPLv3 in a single "
@@ -71,13 +69,13 @@ msgstr ""
 "Quand nous disons que la GPLv2 et la GPLv3 sont incompatibles, cela signifie "
 "qu'il n'y a pas de possibilité légale de combiner du code sous GPLv2 avec du "
 "code sous GPLv3 dans un même programme. Puisque toutes deux sont des "
-"licences libres, chacune dit : « si vous incorporez du code sous cette "
+"licences libres, chacune dit : « si vous incorporez du code sous cette "
 "licence dans un programme plus grand, ce dernier doit aussi être sous la "
-"même licence ». Il est impossible de les rendre compatibles. Nous aurions pu "
+"même licence ». Il est impossible de les rendre compatibles. Nous aurions pu "
 "ajouter une clause de compatibilité avec la GPLv2 dans la GPLv3, mais cela "
 "n'aurait pas convenu, car la GPLv2 aurait eu besoin d'une clause similaire."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Fortunately, license incompatibility matters only when you want to link, "
 "merge or combine code from two different programs into a single program.  "
@@ -98,7 +96,7 @@ msgstr ""
 "Bash et GCC évoluent vers la GPLv3 tandis que Linux reste sous la GPLv2, il "
 "n'y pas de conflit."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Keeping a program under GPLv2 won't create problems.  The reason to migrate "
 "is because of the existing problems that GPLv3 will address."
@@ -106,7 +104,7 @@ msgstr ""
 "Garder un logiciel sous GPLv2 ne créera pas de problème. La raison pour "
 "migrer est l'existence de problèmes que la GPLv3 va traiter."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "One major danger that GPLv3 will block is tivoization.  Tivoization means "
 "certain &ldquo;appliances&rdquo; (which have computers inside)  contain GPL-"
@@ -118,37 +116,37 @@ msgid ""
 "software provides, but they don't let you do likewise."
 msgstr ""
 "L'un des principaux dangers écartés par la GPLv3 est la tivoïsation.<a id="
-"\"TransNote1-rev\" href=\"#TransNote1\"><sup>1</sup></a> « Tivoïsation » "
+"\"TransNote1-rev\" href=\"#TransNote1\"><sup>1</sup></a> « Tivoïsation » "
 "veut dire que certains appareils (appelés <i>appliances</i><a id="
 "\"TransNote2-rev\" href=\"#TransNote2\"><sup>2</sup></a>), qui ont des "
 "ordinateurs internes, contiennent des applications sous GPL que vous ne "
 "pouvez changer, l'appareil s'éteignant à la détection d'un programme "
 "modifié. La raison habituelle d'une tivoïsation est la présence dans un "
-"programme de fonctionnalités que beaucoup d'utilisateurs voudront changer ; "
+"programme de fonctionnalités que beaucoup d'utilisateurs voudront changer ; "
 "le fabricant, qui le sait, essaie d'empêcher ces changements. Les fabricants "
 "de ces ordinateurs profitent de la liberté accordée par les logiciels "
 "libres, mais ne vous laissent pas en faire autant."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some argue that competition between appliances in a free market should "
 "suffice to keep nasty features to a low level.  Perhaps competition alone "
 "would avoid arbitrary, pointless misfeatures like &ldquo;Must shut down "
-"between 1pm and 5pm every Tuesday&rdquo;, but even so, a choice of masters "
+"between 1pm and 5pm every Tuesday,&rdquo; but even so, a choice of masters "
 "isn't freedom.  Freedom means <em>you</em> control what your software does, "
 "not merely that you can beg or threaten someone else who decides for you."
 msgstr ""
 "Certains pensent que la concurrence entre appareils dans un marché libre "
 "devrait suffire à maintenir les fonctionnalités malveillantes à un faible "
 "niveau. Peut-être que la seule concurrence empêcherait les fonctionnalités "
-"inutiles, arbitraires et malveillantes telles que « doit s'éteindre entre "
-"1 heure et 5 heures de l'après-midi, chaque mardi », mais, même ainsi, le "
+"inutiles, arbitraires et malveillantes telles que « doit s'éteindre entre "
+"1 heure et 5 heures de l'après-midi, chaque mardi », mais, même ainsi, le "
 "choix des maîtres n'est pas la liberté. La liberté signifie que c'est "
 "<em>vous</em> qui contrôlez ce que font les programmes, et non pas "
 "simplement que vous avez la possibilité de supplier ou menacer quelqu'un qui "
 "décide à votre place."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the crucial area of Digital Restrictions Management (DRM)&mdash;nasty "
 "features designed to restrict your use of the data in your computer&mdash;"
@@ -156,12 +154,12 @@ msgid ""
 "the Digital Millennium Copyright Act and similar laws, it is illegal, in the "
 "US and many other countries, to distribute DVD players unless they restrict "
 "the user according to the official rules of the DVD conspiracy (its web site "
-"is <a href=\"http://www.dvdcca.org/\">http://www.dvdcca.org/</a>, but the "
-"rules do not seem to be published there).  The public can't reject DRM by "
-"buying non-DRM players because none are available.  No matter how many "
-"products you can choose from, they all have equivalent digital handcuffs."
+"is <a href=\"https://www.dvdcca.org/\">www.dvdcca.org/</a>, but the rules do "
+"not seem to be published there).  The public can't reject DRM by buying non-"
+"DRM players because none are available.  No matter how many products you can "
+"choose from, they all have equivalent digital handcuffs."
 msgstr ""
-"Dans le domaine crucial de la « gestion numérique des restrictions » (<abbr "
+"Dans le domaine crucial de la « gestion numérique des restrictions » (<abbr "
 "title=\"Digital Restrictions Management\">DRM</abbr>) – fonctionnalités "
 "malveillantes conçues pour restreindre l'usage que vous faites des données "
 "de votre ordinateur – la concurrence n'est d'aucune aide, car la concurrence "
@@ -169,14 +167,14 @@ msgstr ""
 "numérique (<abbr title=\"Digital Millennium Copyright Act\">DMCA</abbr>) aux "
 "États-Unis, et autres lois similaires dans de nombreux autres pays, il est "
 "illégal de distribuer des lecteurs de DVD à moins de restreindre leur usage "
-"selon les règles de la « conspiration du DVD » (son site web est <a href="
-"\"http://www.dvdcca.org/\">http://www.dvdcca.org/</a>, mais il ne semble pas "
-"que ces règles y soient publiées). Le public ne peut rejeter les dispositifs "
-"de DRM en achetant des lecteurs qui en soient dépourvus, car ils n'existent "
+"selon les règles de la « conspiration du DVD » (son site web est <a href="
+"\"https://www.dvdcca.org/\">www.dvdcca.org</a>, mais il ne semble pas que "
+"ces règles y soient publiées). Le public ne peut rejeter les dispositifs de "
+"DRM en achetant des lecteurs qui en soient dépourvus, car ils n'existent "
 "pas. Peu importe le nombre de produits parmi lesquels vous pouvez choisir, "
 "ils ont tous des menottes numériques équivalentes."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "GPLv3 ensures you are free to remove the handcuffs.  It doesn't forbid DRM, "
 "or any kind of feature.  It places no limits on the substantive "
@@ -193,7 +191,7 @@ msgstr ""
 "ajouter. La tivoïsation est la façon dont ils vous refusent cette liberté. "
 "Afin de protéger votre liberté, la GPLv3 l'interdit."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The ban on tivoization applies to any product whose use by consumers is to "
 "be expected, even occasionally.  GPLv3 tolerates tivoization only for "
@@ -204,7 +202,7 @@ msgstr ""
 "uniquement pour des produits presque exclusivement réservés aux entreprises "
 "et aux organisations."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another threat that GPLv3 resists is that of patent deals like the Novell-"
 "Microsoft pact.  Microsoft wants to use its thousands of patents to make "
@@ -214,11 +212,11 @@ msgid ""
 msgstr ""
 "La GPLv3 résiste à une autre menace, celle des accords de brevets comme le "
 "pacte Novell-Microsoft. Microsoft veut utiliser ses milliers de brevets pour "
-"faire payer aux utilisateurs le privilège de faire tourner GNU/Linux ; il a "
+"faire payer aux utilisateurs le privilège de faire tourner GNU/Linux ; il a "
 "conclu cet accord pour essayer d'obtenir cela. L'accord offre aux clients de "
 "Novell une protection assez limitée face aux brevets de Microsoft."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Microsoft made a few mistakes in the Novell-Microsoft deal, and GPLv3 is "
 "designed to turn them against Microsoft, extending that limited patent "
@@ -230,21 +228,21 @@ msgstr ""
 "protection limitée à toute la communauté. Afin d'en profiter, les programmes "
 "doivent utiliser la GPLv3."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Microsoft's lawyers are not stupid, and next time they may manage to avoid "
-"those mistakes.  GPLv3 therefore says they don't get a &ldquo;next "
-"time&rdquo;.  Releasing a program under GPL version 3 protects it from "
-"Microsoft's future attempts to make redistributors collect Microsoft "
-"royalties from the program's users."
+"those mistakes.  GPLv3 therefore says they don't get a &ldquo;next time."
+"&rdquo; Releasing a program under GPL version 3 protects it from Microsoft's "
+"future attempts to make redistributors collect Microsoft royalties from the "
+"program's users."
 msgstr ""
 "Les avocats de Microsoft ne sont pas stupides et pourraient s'arranger pour "
 "éviter ces erreurs la prochaine fois. C'est pourquoi la GPLv3 dit qu'il n'y "
-"aura pas de « prochaine fois ». Publier un programme sous GPLv3 le protège "
+"aura pas de « prochaine fois ». Publier un programme sous GPLv3 le protège "
 "des futures tentatives de Microsoft de faire collecter des royalties à son "
 "profit par les redistributeurs, auprès des utilisateurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "GPLv3 also provides users with explicit patent protection from the program's "
 "contributors and redistributors.  With GPLv2, users rely on an implicit "
@@ -259,7 +257,7 @@ msgstr ""
 "attaquerait pas pour violation de brevet, ni eux ni les personnes à qui ils "
 "avaient redistribué des copies."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The explicit patent license in GPLv3 does not go as far as we might have "
 "liked.  Ideally, we would make everyone who redistributes GPL-covered code "
@@ -281,13 +279,13 @@ msgstr ""
 "absurde et vicieux qui met les développeurs en danger d'être poursuivis par "
 "des sociétés dont ils n'ont jamais entendu parler, aussi bien que par tous "
 "les géants du secteur. Typiquement, les grands programmes combinent des "
-"milliers d'idées ; il n'est donc pas étonnant qu'ils mettent en œuvre des "
+"milliers d'idées ; il n'est donc pas étonnant qu'ils mettent en œuvre des "
 "idées couvertes par des centaines de brevets. Les sociétés géantes "
 "collectionnent des milliers de brevets et s'en servent pour intimider les "
 "petits développeurs. On voit déjà que les brevets freinent le développement "
 "de logiciels libres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The only way to make software development safe is to abolish software "
 "patents, and we aim to achieve this some day.  But we cannot do this through "
@@ -307,7 +305,7 @@ msgstr ""
 "contre les brevets. Si nous avions essayé de faire cela avec la GPLv3, nous "
 "aurions échoué."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Therefore, GPLv3 seeks to limit and channel the danger.  In particular, we "
 "have tried to save free software from a fate worse than death: to be made "
@@ -319,26 +317,26 @@ msgid ""
 msgstr ""
 "En conséquence, la GPLv3 cherche à limiter et canaliser le danger. En "
 "particulier, nous avons essayé de sauver le logiciel libre d'un destin pire "
-"que la mort : être rendu privateur,<a id=\"TransNote3-rev\" href="
+"que la mort : être rendu privateur,<a id=\"TransNote3-rev\" href="
 "\"#TransNote3\"><sup>3</sup></a> de fait, par des brevets. La licence "
 "explicite de la GPLv3 s'assure que les sociétés utilisant la GPL, donnant "
 "les quatre libertés, ne se servent pas de leurs brevets pour dire à quelques "
-"utilisateurs : « ceci ne vous concerne pas », « ceci ne vous inclut pas ». "
+"utilisateurs : « ceci ne vous concerne pas », « ceci ne vous inclut pas ». "
 "Cela empêche aussi les collusions dans ce but avec d'autres détenteurs de "
 "brevets."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Further advantages of GPLv3 include better internationalization, gentler "
 "termination, support for BitTorrent, and compatibility with the Apache "
 "license.  All in all, plenty of reason to upgrade."
 msgstr ""
-"D'autres avantages sont inclus dans la GPLv3 : une meilleure "
+"D'autres avantages sont inclus dans la GPLv3 : une meilleure "
 "internationalisation, une résiliation en douceur, un support pour BitTorrent "
 "et la compatibilité avec la licence Apache. L'un dans l'autre, beaucoup de "
 "raisons de faire cette mise à jour."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Change is unlikely to cease once GPLv3 is released.  If new threats to "
 "users' freedom develop, we will have to develop GPL version 4.  It is "
@@ -351,18 +349,18 @@ msgstr ""
 "programmes n'aient pas de problème d'adaptation à cette future version, si "
 "jamais nous l'écrivons."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "One way to do this is to release a program under &ldquo;GPL version 3 or any "
-"later version&rdquo;.  Another way is for all the contributors to a program "
+"later version.&rdquo; Another way is for all the contributors to a program "
 "to state a proxy who can decide on upgrading to future GPL versions.  The "
 "third way is for all the contributors to assign copyright to one designated "
 "copyright holder, who will be in a position to upgrade the license version.  "
 "One way or another, programs should provide this flexibility for future GPL "
 "versions."
 msgstr ""
-"Une manière de le faire est de publier un programme sous « GPL version 3 ou "
-"toute version supérieure ». Une autre est que l'ensemble des contributeurs à "
+"Une manière de le faire est de publier un programme sous « GPL version 3 ou "
+"toute version supérieure ». Une autre est que l'ensemble des contributeurs à "
 "un programme établissent une procuration à un représentant qui puisse "
 "décider d'une évolution vers les futures versions de la GPL. La troisième "
 "voie est que tous les contributeurs assignent un copyright à un représentant "
@@ -374,29 +372,31 @@ msgstr ""
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
-"<hr /><b>Notes du traducteur</b><br /><ol>\n"
-"<li id=\"TransNote1\">Tivoïsation : cf <a href=\"http://jargonf.org/wiki/tivo"
-"%C3%AFsation\">Le jargon français</a>. Nom féminin [société]. "
-"<i>Tivoization</i> en anglais, selon le terme inventé par <abbr title="
-"\"Richard M. Stallman\">RMS</abbr>. Contournement de l'esprit des "
-"obligations légales d'une licence libre, en particulier la GPL, par des "
-"moyens techniques. Le terme a été forgé d'après le nom de la société TiVo "
-"qui, ayant utilisé du logiciel sous GPL dans ses magnétoscopes numériques "
-"(le noyau Linux en particulier), en a bien publié le code source, mais en "
-"faisant en sorte que les éventuelles versions modifiées ne puissent pas "
-"fonctionner avec son matériel, celui-ci ne voulant bien exécuter que des "
-"programmes présentant les bonnes signatures numériques. <a href="
-"\"#TransNote1-rev\" class=\"nounderline\">&#8593;</a></li>\n"
-"<li id=\"TransNote2\">Appliance : cf <a href=\"http://jargonf.org/wiki/"
-"appliance\">Le jargon français</a>. Nom féminin et adjectif [machine]. Se "
-"dit de toutes sortes de machines dont la principale caractéristique est de "
-"pouvoir être (théoriquement) simplement branchées pour fonctionner "
-"immédiatement de manière parfaitement opérationnelle. Le plus fou, c'est que "
-"cette promesse est souvent tenue ! <a href=\"#TransNote2-rev\" class="
-"\"nounderline\">&#8593;</a></li>\n"
-"<li id=\"TransNote3\">Autre traduction de <em>proprietary</em> : "
-"propriétaire. <a href=\"#TransNote3-rev\" class=\"nounderline\">&#8593;</a></"
-"li>\n"
+"<hr /><b>Notes de traduction</b><br /><ol>\n"
+"<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"Tivoïsation : cf <a href=\"http://jargonf.org/wiki/tivo%C3%AFsation\">Le "
+"jargon français</a>. Nom féminin [société]. <i>Tivoization</i> en anglais, "
+"selon le terme inventé par <abbr title=\"Richard M. Stallman\">RMS</abbr>. "
+"Contournement de l'esprit des obligations légales d'une licence libre, en "
+"particulier la GPL, par des moyens techniques. Le terme a été forgé d'après "
+"le nom de la société TiVo qui, ayant utilisé du logiciel sous GPL dans ses "
+"magnétoscopes numériques (le noyau Linux en particulier), en a bien publié "
+"le code source, mais en faisant en sorte que les éventuelles versions "
+"modifiées ne puissent pas fonctionner avec son matériel, celui-ci ne voulant "
+"bien exécuter que des programmes présentant les bonnes signatures numériques."
+"</li>\n"
+"<li><a id=\"TransNote2\" href=\"#TransNote2-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"Appliance : cf <a href=\"http://jargonf.org/wiki/appliance\">Le jargon "
+"français</a>. Nom féminin et adjectif [machine]. Se dit de toutes sortes de "
+"machines dont la principale caractéristique est de pouvoir être "
+"(théoriquement) simplement branchées pour fonctionner immédiatement de "
+"manière parfaitement opérationnelle. Le plus fou, c'est que cette promesse "
+"est souvent tenue !</li>\n"
+"<li><a id=\"TransNote3\" href=\"#TransNote3-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"Autre traduction de <i>proprietary</i> : propriétaire.</li>\n"
 "</ol>"
 
 #. type: Content of: <div><div><p>
@@ -420,14 +420,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -437,26 +437,27 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
+# Pas de changement significatif en 2022.
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2007, 2009, 2014 Richard Stallman"
-msgstr "Copyright &copy; 2007, 2009, 2014 Richard Stallman"
+msgid "Copyright &copy; 2007, 2009, 2022 Richard Stallman"
+msgstr "Copyright &copy; 2007, 2009 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Claude le Paih.<br />Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Claude le Paih<br />Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 

@@ -6,28 +6,26 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: recommended-copylefts.html\n"
-"POT-Creation-Date: 2014-04-05 00:01+0000\n"
-"PO-Revision-Date: 2014-04-05 09:19+0200\n"
+"POT-Creation-Date: 2022-01-02 17:25+0000\n"
+"PO-Revision-Date: 2022-01-02 21:59+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
-msgid "Recommended copyleft licenses - GNU Project - Free Software Foundation"
+msgid "Recommended Copyleft Licenses - GNU Project - Free Software Foundation"
 msgstr ""
 "Licences à copyleft que nous recommandons - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
-msgid "Recommended copyleft licenses"
+#. type: Content of: <div><h2>
+msgid "Recommended Copyleft Licenses"
 msgstr "Licences à copyleft que nous recommandons"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This page lists the copyleft licenses that we recommend free software "
 "projects and associated documentation use."
@@ -35,11 +33,11 @@ msgstr ""
 "Cette page énumère les licences à copyleft que nous recommandons pour les "
 "projets de logiciel libre et la documentation associée."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Software licenses"
 msgstr "Licences de logiciel"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The <a href=\"/licenses/gpl.html\">GNU General Public License, version 3</a> "
 "or any later version"
@@ -48,7 +46,7 @@ msgstr ""
 "title=\"General Public License\">GPL</abbr>), version 3</a> ou toute version "
 "ultérieure"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The <a href=\"/licenses/agpl.html\">GNU Affero General Public License, "
 "version 3</a> or any later version"
@@ -57,11 +55,11 @@ msgstr ""
 "<abbr title=\"Affero General Public License\">AGPL</abbr>), version 3</a> ou "
 "toute version ultérieure"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Documentation licenses"
 msgstr "Licences de documentation"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The <a href=\"/licenses/fdl.html\">GNU Free Documentation License, version "
 "1.3</a> or any later version"
@@ -70,7 +68,7 @@ msgstr ""
 "<abbr title=\"Free Documentation License\">FDL</abbr>), version 1.3</a> ou "
 "toute version ultérieure"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To learn more about when and why we recommend these licenses, please see <a "
 "href=\"/licenses/license-recommendations.html\">How to choose a license for "
@@ -80,16 +78,12 @@ msgid ""
 "circumstances."
 msgstr ""
 "Pour en savoir plus sur les circonstances dans lesquelles nous recommandons "
-"ces licences, et pourquoi, veuillez consulter « <a href=\"/licenses/license-"
+"ces licences, et pourquoi, veuillez consulter « <a href=\"/licenses/license-"
 "recommendations.html\">Comment choisir une licence pour votre propre "
-"travail</a> ». Notez que <strong>seules les licences énumérées ici sont des "
-"licences à copyleft recommandées</strong> ; les autres licences étudiées "
+"travail</a> ». Notez que <strong>seules les licences énumérées ici sont des "
+"licences à copyleft recommandées</strong> ; les autres licences étudiées "
 "dans ce guide ne sont pas des licences à copyleft, ou bien leur usage est "
 "suggéré pour des circonstances plus restreintes."
-
-#. type: Content of: <p>
-msgid "<a href=\"/licenses/\">Back to the GNU licenses page</a>"
-msgstr "<a href=\"/licenses/\">Retour à la page des licences GNU</a>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -117,14 +111,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -134,26 +128,27 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
+# Pas de changement significatif en 2022.
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2013, 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2013, 2014 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2011, 2014, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2014 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Thérèse Godefroy<br />Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Thérèse Godefroy<br />Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 
