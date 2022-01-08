@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home-pkgblurbs.html\n"
-"POT-Creation-Date: 2022-01-01 17:28+0000\n"
-"PO-Revision-Date: 2022-01-01 20:45+0100\n"
+"POT-Creation-Date: 2022-01-08 11:31+0000\n"
+"PO-Revision-Date: 2022-01-08 19:03+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -341,8 +341,8 @@ msgid "logo for autogen"
 msgstr "logo d'autogen"
 
 #. type: Content of: <h4>
-msgid "<a href=\"/software/autogen/\">Autogen</a>"
-msgstr "<a href=\"/software/autogen/\">Autogen</a>"
+msgid "<a href=\"/software/autogen/\">AutoGen</a>"
+msgstr "<a href=\"/software/autogen/\">AutoGen</a>"
 
 #. type: Content of: <p>
 msgid ""
@@ -2542,6 +2542,28 @@ msgstr ""
 "ainsi que les correspondances entre transactions. Il automatise également "
 "différentes tâches telles que les calculs financiers et les transactions "
 "planifiées.  <small>(<a href=\"/manual/manual.html#gnucash\">doc</a>)</small>"
+
+#. type: Attribute 'alt' of: <h4><img>
+msgid "logo for gnucobol"
+msgstr "logo de gnucobol"
+
+#. type: Content of: <h4>
+msgid "<a href=\"/software/gnucobol/\">GnuCOBOL</a>"
+msgstr "<a href=\"/software/gnucobol/\">GnuCOBOL</a>"
+
+#. type: Content of: <p>
+msgid ""
+"GnuCOBOL is a free, modern COBOL compiler. It implements a substantial part "
+"of COBOL 85, X/Open COBOL and newer ISO COBOL standards as well as many "
+"extensions from other COBOL compilers (IBM COBOL, MicroFocus COBOL, ACUCOBOL-"
+"GT and others).  <small>(<a href=\"/manual/manual.html#gnucobol\">doc</a>)</"
+"small>"
+msgstr ""
+"GnuCOBOL est un compilateur COBOL libre et moderne. Il gère une grande "
+"partie de COBOL 85, X/Open COBOL et des normes récentes ISO COBOL, ainsi que "
+"de nombreuses extensions d'autres compilateurs COBOL (IBM COBOL, MicroFocus "
+"COBOL, ACUCOBOL-GT, etc.)  <small>(<a href=\"/manual/manual.html#gnucobol"
+"\">doc</a>)</small> "
 
 #. type: Content of: <h4>
 msgid "<a href=\"/software/gnucomm/\">GnuComm</a>"
