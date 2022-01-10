@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: lgpl-2.0-translations.html\n"
-"POT-Creation-Date: 2020-07-09 11:55+0000\n"
-"PO-Revision-Date: 2021-11-22 21:29+0100\n"
+"POT-Creation-Date: 2022-01-10 19:26+0000\n"
+"PO-Revision-Date: 2022-01-10 21:58+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -22,15 +22,15 @@ msgstr ""
 "Traductions non officielles de la LGPL v2.0 - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Unofficial LGPL v2.0 Translations"
 msgstr "Traductions non officielles de la LGPL v2.0"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Information about unofficial translations"
 msgstr "À propos des traductions non officielles"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The reason the FSF does not approve these translations as officially valid "
 "is that checking them would be difficult and expensive (needing the help of "
@@ -46,7 +46,7 @@ msgstr ""
 "la communauté du logiciel libre. Tant que ces traductions ne sont pas "
 "officielles, elles ne peuvent pas faire de dégâts."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The purpose of linking to translations is to help more people understand the "
 "LGPL.  In order for them to do that, translations need to be basically "
@@ -68,16 +68,16 @@ msgstr ""
 "s'assurer qu'elles sont familières avec ces concepts ainsi qu'avec les "
 "autres principes philosophiques qui pourraient apparaître dans le document."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We give permission to publish translations of the GNU LGPL into other "
 "languages, provided that:"
 msgstr ""
 "Nous permettons la publication de traductions de la licence publique "
 "générale GNU amoindrie (GNU <abbr title=\"Lesser General Public License"
-"\">LGPL</abbr>) en d'autres langues aux conditions suivantes :"
+"\">LGPL</abbr>) en d'autres langues aux conditions suivantes :"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><div><ol><li>
 msgid ""
 "You label your translation as unofficial to inform people that they do not "
 "count legally as substitutes for the authentic version (see below for how to "
@@ -87,7 +87,7 @@ msgstr ""
 "gens que d'un point de vue juridique elle ne remplace pas la version "
 "authentique (voir plus loin comment le faire)."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><div><ol><li>
 msgid ""
 "You agree to install changes at our request, if we learn from other friends "
 "of GNU that changes are necessary to make the translation clearer."
@@ -96,7 +96,7 @@ msgstr ""
 "par d'autres amis de GNU que des modifications sont nécessaires pour rendre "
 "la traduction plus claire."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><div><ol><li>
 msgid ""
 "The translation is not hosted on a commercial site and does not refer to any "
 "company."
@@ -104,7 +104,7 @@ msgstr ""
 "La traduction n'est pas hébergée par un site commercial et ne se réfère à "
 "aucune société."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><div><ol><li>
 msgid ""
 "The page containing the translation should have no links except to fsf.org "
 "and gnu.org.  We might accept links about other free software packages, but "
@@ -114,7 +114,7 @@ msgstr ""
 "Nous pourrions accepter des liens se rapportant à d'autres logiciels libres, "
 "mais préférons les éviter."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><div><ol><li>
 msgid ""
 "You permit others to copy, modify, and republish your translation (and "
 "modified versions of your translation) subject to these terms by placing the "
@@ -124,12 +124,12 @@ msgid ""
 msgstr ""
 "Vous permettez aux autres de copier, modifier et republier vos traductions "
 "(ainsi que des versions modifiées de vos traductions) selon ces clauses en y "
-"ajoutant l'avis suivant : « Vous ne pouvez publier cette traduction, avec ou "
+"ajoutant l'avis suivant : « Vous ne pouvez publier cette traduction, avec ou "
 "sans modification, que selon les termes explicités dans &lt;<a href=\"/"
 "licenses/translations.html\">http://www.gnu.org/licenses/translations.html</"
-"a>&gt;. »"
+"a>&gt;. »"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><p>
 msgid ""
 "We may accept small exceptions to these rules in legacy cases that are hard "
 "to fix."
@@ -137,7 +137,7 @@ msgstr ""
 "Nous pouvons accepter des exceptions mineures aux règles précédentes en cas "
 "de pages anciennes qui sont difficiles à corriger."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We do not necessarily link to all the unofficial translations that we know "
 "of in any given language.  For instance, if one unofficial translation was "
@@ -153,7 +153,7 @@ msgstr ""
 "officielle, mais nous nous attendons à ce qu'elle soit essentiellement "
 "correcte."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To label your translations as unofficial we want you to add the following "
 "text at the beginning, both in English and in the language of the "
@@ -161,7 +161,7 @@ msgid ""
 "of that language:"
 msgstr ""
 "Pour préciser que votre traduction n'est pas officielle, veuillez ajouter le "
-"texte suivant au début, aussi bien en anglais qu'en français :"
+"texte suivant au début, aussi bien en anglais qu'en français :"
 
 #. TRANSLATORS: If you translate this paragraph, retain the English
 #. text and put your translation below.  The entire <blockquote>
@@ -170,7 +170,7 @@ msgstr ""
 #. languages when the notice is not translated, so if your language is RTL,
 #. you *must* put your translation within
 #. </p><p dir="rtl" style="text-align:right">......</p><p> 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "This is an unofficial translation of the GNU Library General Public License "
 "into <var>language</var>.  It was not published by the Free Software "
@@ -189,11 +189,11 @@ msgstr ""
 "<p>Ceci est une traduction non officielle de la licence publique générale "
 "GNU amoindrie (GNU LGPL) en français. Elle n'a pas été publiée par la "
 "<i>Free Software Foundation</i> et n'établit pas juridiquement les termes de "
-"distribution des logiciels qui utilisent la GNU LGPL : seul le texte anglais "
+"distribution des logiciels qui utilisent la GNU LGPL : seul le texte anglais "
 "original de la GNU LGPL le fait. Cependant, nous espérons que cette "
 "traduction aidera les francophones à mieux comprendre la GNU LGPL."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you make a translation, please inform the GNU Translation Managers <a "
 "href=\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</"
@@ -205,7 +205,7 @@ msgstr ""
 "translators@gnu.org&gt;</a>. Ils s'assureront qu'elle respecte les règles ci-"
 "dessus et la mettront en lien sur cette page."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "These are translations of an older version of the GNU LGPL. Translations of "
 "current licenses can be found <a href=\"/licenses/translations.html\">here</"
@@ -216,7 +216,7 @@ msgstr ""
 "translations.html\">ici</a>."
 
 #.  RT #1272794 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<code>[pt-br]</code> Brazilian Portuguese translation of the LGPL (<a href="
 "\"http://licencas.softwarelivre.org/lgpl-2.0.pt-br.html\">HTML</a>, <a href="
@@ -256,14 +256,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -273,9 +273,13 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
+# Pas de changement significatif en 2022.
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2018, 2019, 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2018-2020 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 1996-1999, 2011, 2012, 2015, 2022 Free Software Foundation, "
+"Inc."
+msgstr ""
+"Copyright &copy; 1996-1999, 2011, 2012, 2015 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -292,7 +296,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction et révision : <a href=\"mailto:trad-gnu&#64;april.org\">trad-"
+"Traduction et révision : <a href=\"mailto:trad-gnu&#64;april.org\">trad-"
 "gnu&#64;april.org</a>"
 
 #.  timestamp start 
