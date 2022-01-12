@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: javascript-labels.html\n"
-"POT-Creation-Date: 2021-11-26 10:27+0000\n"
-"PO-Revision-Date: 2022-01-12 16:00+0100\n"
+"POT-Creation-Date: 2022-01-12 14:55+0000\n"
+"PO-Revision-Date: 2022-01-12 16:19+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -21,11 +21,11 @@ msgstr ""
 "Étiquettes web de licence pour JavaScript - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "JavaScript License Web Labels"
 msgstr "Étiquettes web de licence pour JavaScript"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you are a webmaster deploying minified JavaScript on a site, here's a "
 "method for stating their licenses and source code locations without altering "
@@ -44,7 +44,7 @@ msgstr ""
 "librejs/free-your-javascript.html\">Libérez votre JavaScript</a></em>, par "
 "Loïc Duros."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The JavaScript license web labels method is meant for files of minified "
 "JavaScript code.  This method complies with the relevant conditions in the "
@@ -56,7 +56,7 @@ msgstr ""
 "licences de logiciel GNU et permet à LibreJS de confirmer l'exactitude de "
 "l'information relative au site."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Using web labels presumes that the corresponding JavaScript source files "
 "carry license notices that properly release them under a free license.  The "
@@ -71,7 +71,7 @@ msgstr ""
 "licence pour que le code source libre soit dûment publié. C'est ce que vous "
 "devez faire en premier si ce n'est déjà fait."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You can use web labels on non-minified JavaScript files too, to indicate "
 "their licenses in a way a program can recognize; but these are source files, "
@@ -84,19 +84,19 @@ msgstr ""
 "de licence lisibles par l'homme. Les omettre serait introduire une "
 "incertitude sur leur statut juridique."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The web labels method is not applicable to inline JavaScript included "
-"directly in HTML pages &mdash; their license information should be <a href="
-"\"/software/librejs/free-your-javascript.html\">stated directly in those "
-"pages</a>."
+"directly in HTML pages&mdash;their license information should be <a href=\"/"
+"software/librejs/free-your-javascript.html\">stated directly in those pages</"
+"a>."
 msgstr ""
 "La méthode des étiquettes web n'est pas applicable au JavaScript accessible "
 "directement en ligne sur des pages HTML ; les renseignements concernant la "
 "licence doivent être donnés <a href=\"/software/librejs/free-your-javascript."
 "html\">directement sur ces pages</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For more explanation of why we designed this format, see the <a href=\"/"
 "licenses/javascript-labels-rationale.html\">rationale</a>."
@@ -105,11 +105,11 @@ msgstr ""
 "le <a href=\"/licenses/javascript-labels-rationale.html\">document "
 "d'explication</a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Writing the labels page"
 msgstr "Rédaction de la page d'étiquettes"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Add a page for JavaScript license web labels to your site.  You can use "
 "whatever path or filename is most convenient for you; others will find it "
@@ -130,7 +130,7 @@ msgstr ""
 "concernant un fichier JavaScript autonome utilisé sur le site, sa licence, "
 "et le moyen par lequel les visiteurs peuvent obtenir son code source."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The first cell of each row names a JavaScript file used by the site.  The "
 "cell must contain an anchor tag that links to that file, just as "
@@ -140,7 +140,7 @@ msgstr ""
 "utilisé par le site. Cette cellule doit contenir une balise d'ancrage qui la "
 "lie à ce fichier, comme le font les balises <code>script</code> du site."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The second cell provides information about the license of this JavaScript "
 "file.  The cell must contain an anchor tag whose link refers to the full "
@@ -156,33 +156,33 @@ msgstr ""
 "de version ainsi que l'applicabilité éventuelle des versions ultérieures de "
 "la licence. Voici de bons identifiants de licence et les liens associés :"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"/licenses/gpl-2.0.html\">GNU-GPL-2.0-or-later</a>"
 msgstr "<a href=\"/licenses/gpl-2.0.html\">GNU-GPL-2.0-or-later</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"/licenses/gpl-3.0.html\">GNU-GPL-3.0-or-later</a>"
 msgstr "<a href=\"/licenses/gpl-3.0.html\">GNU-GPL-3.0-or-later</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"/licenses/lgpl-2.1.html\">GNU-LGPL-2.1-or-later</a>"
 msgstr "<a href=\"/licenses/lgpl-2.1.html\">GNU-LGPL-2.1-or-later</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"/licenses/lgpl-3.0.html\">GNU-LGPL-3.0-or-later</a>"
 msgstr "<a href=\"/licenses/lgpl-3.0.html\">GNU-LGPL-3.0-or-later</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"/licenses/agpl-3.0.html\">GNU-AGPL-3.0-or-later</a>"
 msgstr "<a href=\"/licenses/agpl-3.0.html\">GNU-AGPL-3.0-or-later</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"http://www.apache.org/licenses/LICENSE-2.0\">Apache-2.0-only</a>"
 msgstr ""
 "<a href=\"http://www.apache.org/licenses/LICENSE-2.0\">Apache-2.0-only</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"http://directory.fsf.org/wiki/License:BSD_3Clause\">Modified-BSD</"
 "a>"
@@ -190,7 +190,7 @@ msgstr ""
 "<a href=\"http://directory.fsf.org/wiki/License:BSD_3Clause\">Modified-BSD</"
 "a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"http://creativecommons.org/publicdomain/zero/1.0/legalcode"
 "\">CC0-1.0-only</a>"
@@ -198,16 +198,16 @@ msgstr ""
 "<a href=\"http://creativecommons.org/publicdomain/zero/1.0/legalcode"
 "\">CC0-1.0-only</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"http://www.jclark.com/xml/copying.txt\">Expat</a>"
 msgstr "<a href=\"http://www.jclark.com/xml/copying.txt\">Expat</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"https://www.mozilla.org/en-US/MPL/2.0/\">MPL-2.0-or-later</a>"
 msgstr ""
 "<a href=\"https://www.mozilla.org/en-US/MPL/2.0/\">MPL-2.0-or-later</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The third cell provides a link to the JavaScript's source code.  The source "
 "code file can be a single, unminified JavaScript file, a <code>.tar.gz</"
@@ -230,7 +230,7 @@ msgstr ""
 "en lien dans la première cellule, est déjà sous forme de code source, mettez "
 "la même URL dans cette cellule."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Below is an example table for illustration.  This site just uses one "
 "JavaScript file: a minified version of jQuery 1.7, distributed under the "
@@ -242,7 +242,7 @@ msgstr ""
 "Expat. Le tableau liste le fichier avec les renseignements correspondants et "
 "un lien vers le code source :"
 
-#. type: Content of: <pre>
+#. type: Content of: <div><pre>
 #, no-wrap
 msgid ""
 "<code>&lt;table id=&quot;jslicense-labels1&quot;&gt;\n"
@@ -271,7 +271,7 @@ msgstr ""
 "&lt;/table&gt;\n"
 "</code>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This page may include other text and markup, including your site's normal "
 "layout and navigation tools, but the table must be displayed prominently on "
@@ -281,11 +281,11 @@ msgstr ""
 "compris la mise en page normale de votre site et les outils de navigation, "
 "mais le tableau doit y être présenté de manière très visible."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Links to the labels page"
 msgstr "Liens vers la page d'étiquettes"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "On each page that uses JavaScript, include a link that points to the labels "
 "page described above.  Mark this link with the attribute <code>rel=&quot;"
@@ -297,7 +297,7 @@ msgstr ""
 "<code>rel=&quot;jslicense&quot;</code> pour que les outils automatiques "
 "puissent le trouver. Par exemple, votre lien final pourrait ressembler à ça :"
 
-#. type: Content of: <pre>
+#. type: Content of: <div><pre>
 #, no-wrap
 msgid ""
 "<code>&lt;a href=&quot;/about/javascript&quot; rel=&quot;jslicense&quot;&gt;JavaScript license information&lt;/a&gt;\n"
@@ -306,7 +306,7 @@ msgstr ""
 "<code>&lt;a href=&quot;/about/javascript&quot; rel=&quot;jslicense&quot;&gt;JavaScript license information&lt;/a&gt;\n"
 "</code>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This link can be small, but it should be clearly visible to people who visit "
 "your site."
@@ -314,11 +314,11 @@ msgstr ""
 "Ce lien peut être de taille réduite, mais il doit être clairement visible "
 "pour les visiteurs."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Notes"
 msgstr "Note"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you do these things, you will comply with the relevant conditions in the "
 "GNU software licenses, such as the GNU General Public License.  They should "
@@ -377,9 +377,10 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
+# Pas de changement significatif en 2022.
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2012, 2015, 2021 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2012, 2015, 2021 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2012, 2015, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2012, 2015 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
