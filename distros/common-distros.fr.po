@@ -8,16 +8,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: common-distros.html\n"
-"POT-Creation-Date: 2021-09-02 03:56+0000\n"
-"PO-Revision-Date: 2021-09-02 10:00+0200\n"
+"POT-Creation-Date: 2022-01-19 13:59+0000\n"
+"PO-Revision-Date: 2022-01-19 19:21+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -31,11 +29,11 @@ msgstr ""
 msgid "Free GNU/Linux distributions"
 msgstr "Distributions GNU/Linux libres"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Explaining Why We Don't Endorse Other Systems"
 msgstr "Pourquoi nous n'homologuons pas d'autres systèmes"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We're often asked why we don't endorse a particular system&mdash;usually a "
 "popular GNU/Linux distribution.  The short answer to that question is that "
@@ -54,7 +52,7 @@ msgstr ""
 "distro particulière, cette liste donne des informations supplémentaires sur "
 "les problèmes posés par certaines distributions non libres bien connues."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To learn more about the GNU/Linux systems that we do endorse, check out our "
 "list of <a href=\"/distros/free-distros.html\">free GNU/Linux distributions</"
@@ -64,15 +62,15 @@ msgstr ""
 "veuillez consulter notre liste de <a href=\"/distros/free-distros.html"
 "\">distributions GNU/Linux libres</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Except where noted, all of the distributions listed on this page fail to "
 "follow the guidelines in at least two important ways:"
 msgstr ""
 "Sauf indication contraire, aucune des distributions répertoriées ici ne suit "
-"ces recommandations en ce qui concerne deux points importants, au moins :"
+"ces recommandations en ce qui concerne deux points importants, au moins :"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "They do not have a policy of <em>only</em> including free software, and "
 "removing nonfree software if it is discovered.  Most of them have no clear "
@@ -85,18 +83,18 @@ msgstr ""
 "acceptent ou non. Les distributions qui en ont une ne sont malheureusement "
 "pas assez strictes, comme c'est expliqué ci-dessous."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "The kernel that they distribute (in most cases, Linux) includes &ldquo;"
 "blobs&rdquo;: pieces of object code distributed without source, usually "
 "firmware to run some device."
 msgstr ""
 "Le noyau qu'elles distribuent (Linux dans la plupart des cas) contient des "
-"<i>blobs</i> : des morceaux de code objet, distribués sans les sources, "
+"<i>blobs</i> : des morceaux de code objet, distribués sans les sources, "
 "utilisés habituellement comme micrologiciels <i>[firmware]</i> pour faire "
 "fonctionner des périphériques."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Here is a list of some popular nonfree GNU/Linux distributions in "
 "alphabetical order, with brief notes about how they fall short.  We do not "
@@ -105,11 +103,11 @@ msgid ""
 msgstr ""
 "Vous trouverez ci-dessous une liste de quelques distributions populaires GNU/"
 "Linux en ordre alphabétique, avec des notes sur leurs lacunes. Nous n'avons "
-"pas la prétention d'être exhaustifs ; une fois que nous avons trouvé une "
+"pas la prétention d'être exhaustifs ; une fois que nous avons trouvé une "
 "raison de ne pas cautionner telle ou telle distribution, nous ne cherchons "
 "pas plus loin."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A distro may have changed since we last updated information about it; if you "
 "think one of the problems mentioned here has been corrected, please <a href="
@@ -117,16 +115,16 @@ msgid ""
 "endorse a distro only if its developers ask for our endorsement."
 msgstr ""
 "Il est possible qu'une distribution ait changé depuis la dernière mise à "
-"jour de cette page ; si vous pensez que l'un des problèmes a été corrigé, "
+"jour de cette page ; si vous pensez que l'un des problèmes a été corrigé, "
 "merci de <a href=\"mailto:webmasters@gnu.org\">nous le faire savoir</a>. "
 "Cependant, nous n'étudierons et n'homologuerons la distribution que si les "
 "développeurs demandent cette homologation."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Arch GNU/Linux"
 msgstr "Arch GNU/Linux"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Arch has no policy against distributing nonfree software through their "
 "normal channels, and nonfree blobs are shipped with their kernel, Linux."
@@ -135,11 +133,11 @@ msgstr ""
 "ses canaux de distribution normaux, et des blobs non libres sont fournis "
 "avec son noyau Linux."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Canaima"
 msgstr "Canaima"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Canaima GNU/Linux is a distribution made by Venezuela's government to "
 "distribute computers with GNU/Linux.  While the overall plan is admirable, "
@@ -150,23 +148,23 @@ msgstr ""
 "projet d'ensemble soit admirable, Canaima pèche par l'inclusion de logiciels "
 "non libres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"Its main menu has an option, &ldquo;Install nonfree software&rdquo;, which "
+"Its main menu has an option, &ldquo;Install nonfree software,&rdquo; which "
 "installs all the nonfree drivers (even the ones that are not necessary). The "
 "distro also ships blobs for the kernel, Linux, and invites installing "
 "nonfree applications including Flash Player."
 msgstr ""
-"Son menu principal a une option, « Installez des logiciels non libres », qui "
+"Son menu principal a une option, « Installez des logiciels non libres », qui "
 "installe tous les pilotes non libres (même ceux qui ne sont pas "
 "nécessaires). La distribution inclut aussi des blobs pour le noyau Linux et "
 "propose l'installation d'applications non libres, y compris Flash Player."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "CentOS"
 msgstr "CentOS"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We're not aware of problems in CentOS aside from the two usual ones: there's "
 "no clear policy about what software can be included, and nonfree blobs are "
@@ -174,16 +172,16 @@ msgid ""
 "there might be other nonfree software included that we missed."
 msgstr ""
 "Nous ne connaissons pas de problème dans CentOS hormis les deux problèmes "
-"habituels : il n'y a pas de politique claire sur les logiciels qui peuvent "
+"habituels : il n'y a pas de politique claire sur les logiciels qui peuvent "
 "être inclus, et des blobs non libres sont fournis avec le noyau Linux. Bien "
 "sûr, étant donné l'absence de règle précise, il pourrait y avoir d'autres "
 "logiciels non libres que nous aurions manqués."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Debian GNU/Linux"
 msgstr "Debian GNU/Linux"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Debian's Social Contract states the goal of making Debian entirely free "
 "software, and Debian conscientiously keeps nonfree software out of the "
@@ -196,24 +194,25 @@ msgstr ""
 "Le projet Debian affirme dans son contrat social que son but est de rendre "
 "Debian entièrement libre et il met consciencieusement les logiciels non "
 "libres en dehors du système officiel. Cependant, il possède également un "
-"dépôt de logiciels non libres. Selon lui, ces logiciels ne « font pas partie "
-"du système Debian », mais ce dépôt est hébergé sur plusieurs des serveurs "
-"principaux du projet et l'on peut facilement trouver ces paquets non libres "
-"en explorant la base de données en ligne des paquets Debian ou son wiki."
+"dépôt de logiciels non libres. Bien que, selon lui, ces logiciels ne "
+"« fassent pas partie du système Debian », leur dépôt est hébergé sur "
+"plusieurs des serveurs principaux du projet et on peut facilement les "
+"trouver en explorant la base de données en ligne des paquets Debian ou son "
+"wiki."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There is also a &ldquo;contrib&rdquo; repository; its packages are free, but "
 "some of them exist to load separately distributed proprietary programs.  "
 "This too is not thoroughly separated from the main Debian distribution."
 msgstr ""
-"Il y a aussi un dépôt <i>contrib</i> ; ses paquets sont libres, mais "
+"Il y a aussi un dépôt <i>contrib</i> ; ses paquets sont libres, mais "
 "quelques-uns sont destinés à charger des programmes privateurs<a id="
 "\"TransNote1-rev\" href=\"#TransNote1\"><sup>1</sup></a> distribués "
 "séparément. Lui non plus n'est pas complètement séparé de la distribution "
 "principale Debian <i>(main)</i>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Debian is the only common non-endorsed distribution to keep nonfree blobs "
 "out of its main distribution. However, the problem partly remains.  The "
@@ -228,7 +227,7 @@ msgstr ""
 "publiée sur debian.org, et l'installateur les recommande dans certains cas "
 "pour les périphériques de la machine."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In addition, some of the free programs that are officially part of Debian "
 "invite the user to install some nonfree programs.  Specifically, the Debian "
@@ -240,17 +239,17 @@ msgstr ""
 "particulier, les versions de Firefox et Chrome fournies par Debian suggèrent "
 "des plugins non libres compatibles avec elles."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Debian's wiki also includes pages about installing nonfree firmware."
 msgstr ""
 "Il y a également dans le wiki de Debian des pages expliquant comment "
 "installer des micrologiciels privateurs."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Fedora"
 msgstr "Fedora"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Fedora does have a clear policy about what can be included in the "
 "distribution, and it seems to be followed carefully.  The policy requires "
@@ -266,11 +265,11 @@ msgstr ""
 "malheureux de cette dernière décision est que Fedora ne respecte pas les "
 "recommandations pour une distribution système libre."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Gentoo GNU/Linux"
 msgstr "Gentoo GNU/Linux"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Gentoo includes installation recipes for a number of nonfree programs in its "
 "primary package system."
@@ -278,11 +277,11 @@ msgstr ""
 "Gentoo inclut dans son système de paquets principal des recettes pour "
 "l'installation d'un certain nombre de logiciels non libres."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Mandriva GNU/Linux"
 msgstr "Mandriva GNU/Linux"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Mandriva does have a stated policy about what can be included in the main "
 "system.  It's based on Fedora's, which means that it also allows certain "
@@ -297,16 +296,16 @@ msgstr ""
 "licence <i>Artistic</i> d'origine, alors qu'il s'agit d'une licence non "
 "libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Mandriva also ships nonfree software through dedicated repositories."
 msgstr ""
 "Mandriva inclut aussi des logiciels non libres au moyen de dépôts dédiés."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Manjaro GNU/Linux"
 msgstr "Manjaro GNU/Linux"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Manjaro includes nonfree software through its normal channels, and ships "
 "nonfree blobs with its kernel, Linux. It includes a proprietary office suite "
@@ -318,25 +317,25 @@ msgstr ""
 "bureautique privatrice et des jeux privateurs avec DRM. La distro recommande "
 "également l'installation de pilotes non libres."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Mint GNU/Linux"
 msgstr "Mint GNU/Linux"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Mint does not have a policy against including nonfree software, it includes "
 "nonfree binary blobs in drivers packaged with the kernel, and it includes "
 "nonfree programs in its repositories.  It even includes proprietary codecs."
 msgstr ""
-"Mint n'a pas de règle contre l'inclusion de logiciel non libre ; on trouve "
+"Mint n'a pas de règle contre l'inclusion de logiciel non libre ; on trouve "
 "des blobs binaires non libres dans les pilotes empaquetés avec le noyau et "
 "des programmes non libres dans ses dépôts. Il y a même des codecs privateurs."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "openSUSE"
 msgstr "openSUSE"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "openSUSE offers a repository of nonfree software.  This is an instance of "
 "how <a href=\"/philosophy/open-source-misses-the-point.html\"> &ldquo;"
@@ -344,13 +343,13 @@ msgid ""
 msgstr ""
 "openSUSE offre un dépôt de logiciels non libres. C'est un exemple de la "
 "faiblesse de l'<a href=\"/philosophy/open-source-misses-the-point.html"
-"\">« open » comparé au « libre »</a>."
+"\">« open » comparé au « libre »</a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Red Hat GNU/Linux"
 msgstr "Red Hat GNU/Linux"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Red Hat's enterprise distribution primarily follows the same licensing "
 "policies as Fedora, with one exception.  Thus, we don't endorse it for <a "
@@ -365,11 +364,11 @@ msgstr ""
 "logiciels non libres par l'intermédiaire de canaux de distribution "
 "supplémentaires."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Slackware"
 msgstr "Slackware"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Slackware has the two usual problems: there's no clear policy about what "
 "software can be included, and nonfree blobs are included in Linux, the "
@@ -378,20 +377,20 @@ msgid ""
 "at any time.  There is an <a href=\"http://freeslack.net/\">unofficial list</"
 "a> of nonfree software in Slackware."
 msgstr ""
-"Slackware a les deux problèmes habituels : il n'y a pas de politique claire "
+"Slackware a les deux problèmes habituels : il n'y a pas de politique claire "
 "sur les logiciels qui peuvent y être inclus et des blobs non libres sont "
 "fournis avec le noyau Linux. La distribution standard contient aussi un "
-"programme non libre de visualisation d'images, « xv ». Bien sûr, étant donné "
+"programme non libre de visualisation d'images, « xv ». Bien sûr, étant donné "
 "l'absence de règle précise contre l'inclusion de programmes non libres, "
 "d'autres pourraient apparaître n'importe quand. Il existe une <a href="
 "\"http://freeslack.net/\">liste non officielle</a> des logiciels non libres "
 "de Slackware."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "SteamOS"
 msgstr "SteamOS"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "SteamOS, a version of GNU/Linux to be distributed by Valve. It contains "
 "proprietary software, including the Steam client and proprietary drivers. "
@@ -408,11 +407,11 @@ msgstr ""
 "a> pour brider les logiciels qu'il distribue ainsi que les logiciels "
 "privateurs qu'il promeut au moyen du <i>Steam Store</i>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "SUSE GNU/Linux Enterprise"
 msgstr "SUSE GNU/Linux Enterprise"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In addition to the usual two problems, several nonfree software programs are "
 "available for download from SUSE's official FTP site."
@@ -420,11 +419,11 @@ msgstr ""
 "En plus des deux problèmes habituels, plusieurs logiciels non libres sont "
 "disponibles au téléchargement sur le site FTP officiel de SUSE."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Tails"
 msgstr "Tails"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Tails uses the vanilla version of Linux, which contains nonfree firmware "
 "blobs."
@@ -432,11 +431,11 @@ msgstr ""
 "Tails utilise la version classique de Linux, qui contient des blobs de "
 "microcode non libre"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Ubuntu GNU/Linux"
 msgstr "Ubuntu GNU/Linux"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Ubuntu maintains specific repositories of nonfree software, and Canonical "
 "expressly promotes and recommends nonfree software under the Ubuntu name in "
@@ -452,7 +451,7 @@ msgstr ""
 "également l'option d'installer des paquets non libres. De plus, la version "
 "du noyau Linux présente dans Ubuntu contient des blobs de micrologiciel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Ubuntu <a href=\"https://www.ubuntu.com/legal/intellectual-property-"
 "policy#your-use-of-ubuntu\">appears to permit commercial redistribution of "
@@ -464,36 +463,36 @@ msgid ""
 msgstr ""
 "Ubuntu <a href=\"https://www.ubuntu.com/legal/intellectual-property-"
 "policy#your-use-of-ubuntu\">semble autoriser la redistribution commerciale "
-"de copies exactes avec les marques</a> ; la suppression des marques n'est "
+"de copies exactes avec les marques</a> ; la suppression des marques n'est "
 "exigée que pour les versions modifiées. C'est une règle acceptable. "
 "Cependant, la même page fait plus loin une déclaration vague et de mauvais "
-"augure à propos des « brevets Ubuntu » sans donner assez de détails pour "
+"augure à propos des « brevets Ubuntu » sans donner assez de détails pour "
 "qu'on sache si cela constitue ou non une agression."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"That page spreads confusion by using the misleading term <a href=\"/"
-"philosophy/not-ipr.html\">&ldquo;intellectual property rights&rdquo;</a>, "
-"which falsely presumes that trademark law and patent law and several other "
-"laws belong in one single conceptual framework.  Use of that term is "
-"harmful, without exception, so after making a reference to someone else's "
-"use of the term, we should always reject it.  However, that is not a "
-"substantive issue about Ubuntu as a GNU/Linux distribution."
+"That page spreads confusion by using the misleading term &ldquo;<a href=\"/"
+"philosophy/not-ipr.html\">intellectual property rights</a>,&rdquo; which "
+"falsely presumes that trademark law and patent law and several other laws "
+"belong in one single conceptual framework.  Use of that term is harmful, "
+"without exception, so after making a reference to someone else's use of the "
+"term, we should always reject it.  However, that is not a substantive issue "
+"about Ubuntu as a GNU/Linux distribution."
 msgstr ""
-"Cette page répand la confusion en utilisant l'expression trompeuse « <a href="
-"\"/philosophy/not-ipr.html\">droits de propriété intellectuelle</a> », qui "
+"Cette page répand la confusion en utilisant l'expression trompeuse « <a href="
+"\"/philosophy/not-ipr.html\">droits de propriété intellectuelle</a> », qui "
 "suppose à tort que le droit des marques, le droit des brevets et plusieurs "
 "autres appartiennent au même cadre conceptuel. Tout usage de cette "
-"expression est nocif, sans exception ; aussi, après avoir mentionné cet "
+"expression est nocif, sans exception ; aussi, après avoir mentionné cet "
 "usage de la part de quelqu'un d'autre, faut-il toujours le rejeter. "
 "Cependant, c'est sans grande conséquence sur la qualification d'Ubuntu comme "
 "distribution GNU/Linux."
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Some Other Distros"
 msgstr "Quelques autres distributions"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Here we discuss some well-known or significant non-GNU/Linux system distros "
 "that do not qualify as free."
@@ -501,11 +500,11 @@ msgstr ""
 "Ici, nous passons en revue quelques distributions non GNU/Linux bien connues "
 "ou significatives qui ne satisfont pas aux critères de liberté."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Android"
 msgstr "Android"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"/philosophy/android-and-users-freedom.html\">Android</a> as "
 "released by Google contains many nonfree parts as well as many free parts.  "
@@ -520,11 +519,11 @@ msgstr ""
 "\">copyleft</a>), de sorte que les fabricants qui distribuent Android dans "
 "un de leurs produits rendent quelquefois ces portions non libres également."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "BSD systems"
 msgstr "Systèmes BSD"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "FreeBSD, NetBSD, and OpenBSD all include instructions for obtaining nonfree "
 "programs in their ports system.  In addition, their kernels include nonfree "
@@ -534,27 +533,27 @@ msgstr ""
 "obtenir des programmes non libres dans leur système de ports. De plus, leur "
 "noyau contient des blobs de micrologiciel non libre."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Nonfree firmware programs used with Linux, the kernel, are called &ldquo;"
-"blobs&rdquo;, and that's how we use the term.  In BSD parlance, the term "
+"blobs,&rdquo; and that's how we use the term.  In BSD parlance, the term "
 "&ldquo;blob&rdquo; means something else: a nonfree driver.  OpenBSD and "
 "perhaps other BSD distributions (called &ldquo;projects&rdquo; by BSD "
 "developers) have the policy of not including those.  That is the right "
 "policy, as regards drivers; but when the developers say these distributions "
-"&ldquo;contain no blobs&rdquo;, it causes a misunderstanding.  They are not "
+"&ldquo;contain no blobs,&rdquo; it causes a misunderstanding.  They are not "
 "talking about firmware blobs."
 msgstr ""
 "Les micrologiciels non libres utilisés avec le noyau Linux sont appelés "
-"« blobs », et c'est la signification que nous donnons à ce terme. En langage "
-"BSD, le terme « blob » signifie autre chose : un pilote non libre. OpenBSD, "
-"ainsi peut-être que d'autres distributions BSD (appelées « projets » par les "
+"« blobs », et c'est la signification que nous donnons à ce terme. En langage "
+"BSD, le terme « blob » signifie autre chose : un pilote non libre. OpenBSD, "
+"ainsi peut-être que d'autres distributions BSD (appelées « projets » par les "
 "développeurs de BSD), ont pour règle de ne pas les inclure. C'est très bien, "
 "pour ce qui est des pilotes, mais quand les développeurs disent que ces "
-"distributions « ne contiennent pas de blob », cela prête à confusion. Ils ne "
+"distributions « ne contiennent pas de blob », cela prête à confusion. Ils ne "
 "parlent pas des blobs de micrologiciel."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "None of those BSD distributions has policies against proprietary binary-only "
 "firmware that might be loaded even by free drivers."
@@ -563,11 +562,11 @@ msgstr ""
 "privateurs fournis sans le code source, que même des pilotes libres peuvent "
 "charger."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Chrome OS"
 msgstr "Chrome OS"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The central part of Chrome OS is the nonfree Chrome browser.  It may contain "
 "other nonfree software as well."
@@ -575,7 +574,7 @@ msgstr ""
 "La partie centrale de Chrome OS est le navigateur non libre Chrome. Il peut "
 "contenir également d'autres éléments non libres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The rest of it is based on <a href=\"#ChromiumOS\">ChromiumOS</a>, so it "
 "also has the problems of Chromium OS, plus the nonfree parts of Android."
@@ -583,11 +582,11 @@ msgstr ""
 "Le reste est basé sur <a href=\"#ChromiumOS\">Chromium OS</a>. Il a donc les "
 "problèmes de Chromium OS, plus les parties non libres d'Android."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Chromium OS"
 msgstr "Chromium OS"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Chromium OS contains proprietary software, including firmware blobs and "
 "nonfree user-space binaries to support specific hardware on some computers."
@@ -596,7 +595,7 @@ msgstr ""
 "microcode et des binaires non libre dans l'espace utilisateur pour gérer du "
 "matériel particulier sur certains ordinateurs."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In addition, the login system surveils users, as it requires a Google "
 "account (Chromium OS does not support local accounts).  The &ldquo;"
@@ -606,14 +605,14 @@ msgid ""
 msgstr ""
 "De plus, le système de connexion surveille les utilisateurs, car il exige un "
 "compte Google (Chromium OS ne gère pas les comptes locaux). La session "
-"« invité » n'est pas une véritable alternative à la connexion, car elle ne "
+"« invité » n'est pas une véritable alternative à la connexion, car elle ne "
 "permet pas le stockage persistant et limite les fonctionnalités du système."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "/e/"
 msgstr "/e/"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "/e/ (formerly eelo) is a modified version of Android, which contains nonfree "
 "libraries."
@@ -621,11 +620,11 @@ msgstr ""
 "/e/ (anciennement eelo) est une version modifiée d'Android qui contient des "
 "bibliothèques non libres."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Haiku"
 msgstr "Haiku"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Haiku includes some software that you're not allowed to modify.  It also "
 "includes nonfree firmware blobs."
@@ -633,11 +632,11 @@ msgstr ""
 "Haiku contient certains logiciels dont la modification n'est pas autorisée. "
 "Elle contient également des blobs de micrologiciel non libre."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "LineageOS"
 msgstr "LineageOS"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "LineageOS (formerly CyanogenMod) is a modified version of Android, which "
 "contains nonfree libraries. It also explains how to install the nonfree "
@@ -647,11 +646,11 @@ msgstr ""
 "contient des bibliothèques non libres. De plus, elle explique comment "
 "installer les applications non libres que Google distribue avec Android."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "ReactOS"
 msgstr "ReactOS"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "ReactOS is meant as a free binary compatible replacement for Windows.  Use "
 "with proprietary software and drivers meant for Windows is one of the stated "
@@ -669,11 +668,11 @@ msgstr ""
 "<hr /><b>Notes de traduction</b><ol>\n"
 "<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
 "\">&#8593;</a> \n"
-"Autre traduction de <i>proprietary</i> : propriétaire.</li>\n"
+"Autre traduction de <i>proprietary</i> : propriétaire.</li>\n"
 "\n"
 "<li><a id=\"TransNote2\" href=\"#TransNote2-rev\" class=\"nounderline"
 "\">&#8593;</a> \n"
-"<i>Free</i> veut dire « libre », mais aussi « gratuit ».</li>\n"
+"<i>Free</i> veut dire « libre », mais aussi « gratuit ».</li>\n"
 "</ol>"
 
 #. type: Content of: <div><div><p>
@@ -697,14 +696,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -714,9 +713,10 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
+# No significant change in 2022.
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2009-2019, 2021, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2009-2019, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -733,7 +733,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Cédric Corazza.<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Cédric Corazza<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 

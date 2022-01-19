@@ -8,34 +8,32 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: doc.html\n"
-"POT-Creation-Date: 2015-02-18 19:25+0000\n"
-"PO-Revision-Date: 2018-11-02 15:24+0100\n"
+"POT-Creation-Date: 2022-01-19 13:59+0000\n"
+"PO-Revision-Date: 2022-01-19 19:10+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid ""
 "Documentation of the GNU Project - GNU Project - Free Software Foundation"
 msgstr "Documentation du projet GNU - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Documentation of the GNU Project"
 msgstr "Documentation du projet GNU"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "GNU and other free documentation can be obtained by the following methods:"
 msgstr ""
 "La documentation GNU et les autres documentations libres peuvent être "
-"obtenues de diverses manières :"
+"obtenues de diverses manières :"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Most <a href=\"/manual/manual.html\">GNU manuals</a> are online in various "
 "formats."
@@ -43,7 +41,7 @@ msgstr ""
 "La plupart des <a href=\"/manual/manual.html\">manuels GNU</a> sont "
 "disponibles en ligne sous divers formats."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The <a href=\"http://directory.fsf.org/\">Free Software Directory</a> "
 "includes links to documentation."
@@ -51,7 +49,7 @@ msgstr ""
 "Le <a href=\"http://directory.fsf.org/\">répertoire du logiciel libre</a> "
 "contient des liens vers la documentation."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"http://planet.gnu.org\">planet.gnu.org</a> is an aggregation of "
 "blogs and news announcements from GNU packages."
@@ -59,28 +57,28 @@ msgstr ""
 "<a href=\"http://planet.gnu.org\">planet.gnu.org</a> est un agrégateur de "
 "blogs et de nouvelles sur les paquets GNU."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"http://shop.fsf.org\">FSF online store: Printed books, T-shirts, "
 "posters, and more.</a>"
 msgstr ""
-"<a href=\"http://shop.fsf.org\">La boutique en ligne de la FSF : livres "
+"<a href=\"http://shop.fsf.org\">La boutique en ligne de la FSF : livres "
 "imprimés, T-shirts, posters et autres</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/doc/other-free-books.html\">Free books from other publishers</a>: "
 "Printed books from other publishers using free documentation licenses."
 msgstr ""
-"<a href=\"/doc/other-free-books.html\">Livres libres d'autres éditeurs</a> : "
+"<a href=\"/doc/other-free-books.html\">Livres libres d'autres éditeurs</a> : "
 "livres imprimés d'autres éditeurs utilisant des licences de documentation "
 "libres."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "GNU documentation principles"
 msgstr "Principes de la documentation GNU"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We believe the reader should be free to copy, update, and redistribute GNU "
 "documentation, just like GNU software."
@@ -88,7 +86,7 @@ msgstr ""
 "Nous pensons que le lecteur doit être libre de copier, mettre à jour et "
 "redistribuer la documentation GNU, tout comme les logiciels GNU."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Originally, all our documentation was released under a short <a href=\"/"
 "licenses/licenses.html#WhatIsCopyleft\">copyleft</a> license, or under the "
@@ -96,10 +94,10 @@ msgid ""
 "a>.  In 2001, the <a href=\"/licenses/licenses.html#FDL\">GNU Free "
 "Documentation License (FDL)</a> was created to address needs that were not "
 "met by licenses originally designed for software.  For more information on "
-"free documentation, please see <a href=\"http://www.stallman.org/\">Richard "
+"free documentation, please see <a href=\"https://www.stallman.org/\">Richard "
 "Stallman's</a> essay, &ldquo;<a href=\"/philosophy/free-doc.html\">Free "
-"Software and Free Manuals</a>&rdquo;.  A <a href=\"freemanuals.texi"
-"\">Texinfo version of that essay</a> is available for inclusion in manuals."
+"Software and Free Manuals.</a>&rdquo; A <a href=\"freemanuals.texi\">Texinfo "
+"version of that essay</a> is available for inclusion in manuals."
 msgstr ""
 "À l'origine, toute notre documentation était publiée sous une courte licence "
 "de <a href=\"/licenses/licenses.html#WhatIsCopyleft\">copyleft</a> ou sous "
@@ -109,39 +107,41 @@ msgstr ""
 "title=\"Free Documentation License\">FDL</abbr>)</a> a été créée pour "
 "répondre aux besoins qui n'étaient pas couverts par des licences conçues "
 "pour les logiciels. Pour plus d'informations sur la documentation libre, "
-"veuillez consulter l'essai de <a href=\"http://www.stallman.org/\">Richard "
-"Stallman</a>, « <a href=\"/philosophy/free-doc.html\">Pourquoi le logiciel "
-"libre a besoin d'une documentation libre</a> ». Il existe une <a href="
+"veuillez consulter l'essai de <a href=\"https://www.stallman.org/\">Richard "
+"Stallman</a>, « <a href=\"/philosophy/free-doc.html\">Pourquoi le logiciel "
+"libre a besoin d'une documentation libre</a> ». Il existe une <a href="
 "\"freemanuals.texi\">version Texinfo de cet essai</a> destinée à être "
 "incluse dans les manuels."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Contribute"
 msgstr "Contribuez"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Please help us write more documentation! This is one of the most important "
 "ways to contribute to the free software movement.  For more details on this "
 "and other ways to help, <a href=\"/help/help.html#helpgnu\">click here</a>."
 msgstr ""
-"Veuillez nous aider en écrivant de la documentation ! C'est l'un des moyens "
+"Veuillez nous aider en écrivant de la documentation ! C'est l'un des moyens "
 "les plus importants de contribuer au mouvement du logiciel libre. <a href=\"/"
 "help/help.html#helpgnu\">Cliquez ici</a> pour en savoir plus sur ce moyen de "
 "nous aider, ainsi que sur les autres."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"<b>GNU Press:</b> another way to contribute is to help us <a href=\"/doc/"
-"expanding.html\">expand bookstore availability</a> of <a href=\"/doc/"
-"gnupresspub.html\">GNU Press</a> books.  For this or any reason, you can <a "
-"href=\"mailto:sales@fsf.org\">contact GNU Press</a>."
+"<b>GNU Press:</b> another way to contribute is to help us <a href=\"https://"
+"www.fsf.org/campaigns/gnu-press/book-stores/expanding\">expand bookstore "
+"availability</a> of <a href=\"https://www.fsf.org/campaigns/gnu-press\">GNU "
+"Press</a> books.  For this or any reason, you can <a href=\"mailto:sales@fsf."
+"org\">contact GNU Press</a>."
 msgstr ""
-"<b>GNU Press :</b> un autre moyen de contribuer est de nous aider à <a href="
-"\"/doc/expanding.html\">augmenter la disponibilité en librairie</a> des "
-"livres publiés par <a href=\"/doc/gnupresspub.html\">GNU Press</a>. Vous "
-"pouvez <a href=\"mailto:sales@fsf.org\">contacter GNU Press</a> à ce sujet "
-"ou pour toute autre raison."
+"<b>GNU Press :</b> un autre moyen de contribuer est de nous aider à <a href="
+"\"https://www.fsf.org/campaigns/gnu-press/book-stores/expanding\">augmenter "
+"la disponibilité en librairie</a> des livres publiés par <a href=\"https://"
+"www.fsf.org/campaigns/gnu-press\">GNU Press</a>. Vous pouvez <a href="
+"\"mailto:sales@fsf.org\">contacter GNU Press</a> à ce sujet ou pour toute "
+"autre raison."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -169,14 +169,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -186,26 +186,27 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
+# No significant change in 2022.
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2008, 2010, 2013, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2008, 2010, 2013 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Cédric Corazza.<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Cédric Corazza<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 
