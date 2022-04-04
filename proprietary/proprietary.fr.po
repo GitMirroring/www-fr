@@ -1,13 +1,13 @@
 # French translation of http://www.gnu.org/philosophy/proprietary.html
 # Copyright (C) 2013 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Thérèse Godefroy <godef.th AT free.fr>, 2013-2020.
+# Thérèse Godefroy <godef.th AT free.fr>, 2013-2022.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary.html\n"
-"POT-Creation-Date: 2022-02-27 15:55+0000\n"
-"PO-Revision-Date: 2022-02-28 18:11+0100\n"
+"POT-Creation-Date: 2022-04-04 08:59+0000\n"
+"PO-Revision-Date: 2022-04-04 13:16+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -344,6 +344,59 @@ msgstr "Ajouts récents"
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
+"Hewlett-Packard printer producing company <a href=\"https://www.theguardian."
+"com/money/2022/feb/19/how-cheap-ink-cartridges-can-cost-you-dear\">is "
+"implementing DRM in its machines so they won't work</a> if someone uses ink "
+"from another supplier than them!"
+msgstr ""
+"Le fabricant d'imprimantes Hewlett-Packard implémente la gestion numérique "
+"des restrictions sur ses machines pour qu'elles <a href=\"https://www."
+"theguardian.com/money/2022/feb/19/how-cheap-ink-cartridges-can-cost-you-dear"
+"\">cessent de fonctionner si on utilise l'encre d'un autre fournisseur</a>."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"https://www.eff.org/deeplinks/2022/02/worst-timeline-printer-"
+"company-putting-drm-paper-now\">Dymo printer company is now putting DRM on "
+"its label so users are forced to use paper supplied by Dymo</a>, not any "
+"other company. It's the same practice printer companies are using to enforce "
+"their own ink on people."
+msgstr ""
+"<a href=\"https://www.eff.org/deeplinks/2022/02/worst-timeline-printer-"
+"company-putting-drm-paper-now\">Dymo, le fabricant d'étiqueteuses, met "
+"maintenant un DRM sur ses étiquettes pour que ses clients soient forcés "
+"d'utiliser le papier qu'il fournit</a>, à l'exclusion de tout autre. C'est "
+"la même méthode qu'emploient les fabricants d'imprimantes pour forcer les "
+"gens à utiliser leur encre."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"A security failure in Microsoft's Windows is <a href=\"https://www."
+"bleepingcomputer.com/news/security/fake-windows-11-upgrade-installers-infect-"
+"you-with-redline-malware/\">infecting people's computers with RedLine "
+"stealer malware</a> using a fake Windows 11 upgrade installer."
+msgstr ""
+"Une faille de sécurité de Microsoft Windows a causé <a href=\"https://www."
+"bleepingcomputer.com/news/security/fake-windows-11-upgrade-installers-infect-"
+"you-with-redline-malware/\">l'infection d'ordinateurs par Redline, le "
+"logiciel voleur de données</a>, qui a utilisé pour cela un faux installateur "
+"de mises à jour pour Windows 11."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"The data broker X-Mode <a href=\"https://themarkup.org/privacy/2022/01/27/"
+"gay-bi-dating-app-muslim-prayer-apps-sold-data-on-peoples-location-to-a-"
+"controversial-data-broker\">bought location data about 20,000 people "
+"collected by around 100 different malicious apps</a>."
+msgstr ""
+"Le courtier en données X-Mode a <a href=\"https://themarkup.org/"
+"privacy/2022/01/27/gay-bi-dating-app-muslim-prayer-apps-sold-data-on-peoples-"
+"location-to-a-controversial-data-broker\">acheté des données de localisation "
+"concernant 20 000 personnes</a>, collectées par une centaine d'applis "
+"malveillantes."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
 "The MoviePass dis-service <a href=\"https://www.cnet.com/news/moviepass-"
 "founder-wants-to-use-facial-recognition-to-score-you-free-movies/\"> is "
 "planning to use face recognition to track people's eyes</a> to make sure "
@@ -354,66 +407,6 @@ msgstr ""
 "d'utiliser la reconnaissance faciale pour traquer les yeux des gens</a> de "
 "manière à s'assurer qu'ils ne vont pas poser leur téléphone ou regarder "
 "ailleurs pour éviter les pubs – et les traqueurs."
-
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"A critical bug in Apple's iOS makes it possible for attackers to alter a "
-"shutdown event, <a href=\"https://blog.zecops.com/research/persistence-"
-"without-persistence-meet-the-ultimate-persistence-bug-noreboot/\">tricking "
-"the user into thinking that the phone has been powered off</a>. But in fact, "
-"it’s still running, and the user can't feel any difference between a real "
-"shutdown and the fake shutdown."
-msgstr ""
-"Une faille critique dans iOS permet à un attaquant de modifier une étape de "
-"l'arrêt du système en <a href=\"https://blog.zecops.com/research/persistence-"
-"without-persistence-meet-the-ultimate-persistence-bug-noreboot/\">faisant "
-"croire à l'utilisateur que le téléphone est éteint</a> alors qu'en fait il "
-"fonctionne toujours. L'utilisateur ne peut pas faire la différence entre "
-"l'extinction réelle et l'extinction simulée."
-
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"<a href=\"https://old.reddit.com/r/Instagram/comments/6xkhi8/"
-"ig_suddenly_asking_for_phone_number_not_visible/\">Instagram is forcing "
-"users to give away their phone numbers</a> and won't let people continue "
-"using the app if they refuse."
-msgstr ""
-"<a href=\"https://old.reddit.com/r/Instagram/comments/6xkhi8/"
-"ig_suddenly_asking_for_phone_number_not_visible/\">Instagram force les "
-"utilisateurs à divulguer leur numéro de téléphone</a> sous peine de ne plus "
-"pouvoir utiliser l'appli."
-
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"The Norton 360 antivirus <a href=\"https://www.howtogeek.com/777952/"
-"norton-360-antivirus-now-mines-cryptocurrency/\">updated its program to "
-"install a cryptocurrency miner on users' computers</a> without people's "
-"permission. The miner is not turned on by default but there is no way to "
-"completely uninstall the crypto mining software, which has upset some users."
-msgstr ""
-"Une mise à jour de l'antivirus Norton 360 lui a <a href=\"https://www."
-"howtogeek.com/777952/norton-360-antivirus-now-mines-cryptocurrency/\">ajouté "
-"un mineur de cryptomonnaie sans la permission des utilisateurs</a>. Le "
-"mineur n'est pas activé par défaut, mais il n'y a aucun moyen de le "
-"désinstaller complètement, ce qui en énerve certains."
-
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"The legacy company that made Blackberry phones is about to kill them off <a "
-"href=\"https://edition.cnn.com/2022/01/01/tech/blackberry-end-of-life/index."
-"html\">by shutting down the server they are tethered to</a>."
-msgstr ""
-"La société qui faisait les téléphones Blackberry est sur le point de les "
-"tuer <a href=\"https://edition.cnn.com/2022/01/01/tech/blackberry-end-of-"
-"life/index.html\">en arrêtant le serveur auquel ils sont associés</a>."
-
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"If the software on those phones were free (as in freedom), people could "
-"modify their software so they could talk to some other server."
-msgstr ""
-"Si le logiciel de ces téléphones était libre, les utilisateurs pourraient le "
-"modifier pour que le téléphone puisse communiquer avec un autre serveur."
 
 #. type: Content of: <div><p>
 msgid "<a href=\"/proprietary/all.html\">More items&hellip;</a>"
