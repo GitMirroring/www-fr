@@ -7,16 +7,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-software-song.html\n"
-"POT-Creation-Date: 2021-07-29 17:25+0000\n"
-"PO-Revision-Date: 2021-07-30 18:41+0200\n"
+"POT-Creation-Date: 2022-04-05 12:26+0000\n"
+"PO-Revision-Date: 2022-04-05 15:06+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid "The Free Software Song - GNU Project - Free Software Foundation"
@@ -68,7 +66,7 @@ msgstr ""
 # [Traduit en français par Emily Kanzari et Richard Stallman]
 #. type: Content of: <div><div><p>
 msgid "Join us now and share the software;"
-msgstr "Rejoins-nous, partage le logiciel ;"
+msgstr "Rejoins-nous, partage le logiciel ;"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -84,7 +82,7 @@ msgstr "Libère-toi, hacker, libère-toi."
 
 #. type: Content of: <div><div><p>
 msgid "Hoarders can get piles of money,"
-msgstr "Les avares amassent beaucoup d'argent ;"
+msgstr "Les avares amassent beaucoup d'argent ;"
 
 #. type: Content of: <div><div><p>
 msgid "That is true, hackers, that is true."
@@ -92,7 +90,7 @@ msgstr "C'est exact, hacker, c'est exact."
 
 #. type: Content of: <div><div><p>
 msgid "But they cannot help their neighbors;"
-msgstr "Mais ils n'aident pas leur prochain ;"
+msgstr "Mais ils n'aident pas leur prochain ;"
 
 #. type: Content of: <div><div><p>
 msgid "That's not good, hackers, that's not good."
@@ -107,8 +105,12 @@ msgid "At our call, hackers, at our call,"
 msgstr "Libres pour nous, hacker, libres pour nous,"
 
 #. type: Content of: <div><div><p>
-msgid "We'll kick out those dirty licenses"
-msgstr "Ces licences néfastes, nous les jetterons"
+msgid ""
+"We'll kick out those <a href=\"/music/writing-fs-song.html#dirtylicenses"
+"\">dirty licenses</a>"
+msgstr ""
+"Ces <a href=\"/music/writing-fs-song.html#dirtylicenses\">licences néfastes</"
+"a>, nous les jetterons"
 
 #. type: Content of: <div><div><p>
 msgid "Ever more, hackers, ever more."
@@ -123,11 +125,11 @@ msgid ""
 "however, Yves Moreau, who collected and taught the dance, endorses the "
 "rhythm of 7."
 msgstr ""
-"Cette chanson a un rythme de 7/8 ; ceux qui n'ont pas l'habitude des rythmes "
+"Cette chanson a un rythme de 7/8 ; ceux qui n'ont pas l'habitude des rythmes "
 "impairs prennent souvent ce manque de parité pour une erreur. La métrique "
 "peut s'analyser en sous-groupes comme lent-rapide-rapide, ou 3-2-2. Dans la "
 "musique bulgare, ce type de métrique peut être allongée et certains "
-"musiciens  analysent plutôt cette chanson en 3-2-3 ; cependant, Yves Moreau, "
+"musiciens  analysent plutôt cette chanson en 3-2-3 ; cependant, Yves Moreau, "
 "qui a découvert et enseigné cette danse, cautionne le rythme de 7."
 
 #. type: Content of: <div><h3>
@@ -248,7 +250,7 @@ msgid ""
 "A version by the band Zweitgolf: <a href=\"/music/free_software_song_sunnata."
 "ogg\">free_software_song_sunnata.ogg</a>, released under the GPL."
 msgstr ""
-"Une version par le groupe Zweitgolf : <a href=\"/music/"
+"Une version par le groupe Zweitgolf : <a href=\"/music/"
 "free_software_song_sunnata.ogg\">free_software_song_sunnata.ogg</a>, publiée "
 "sous la GPL."
 
@@ -373,7 +375,7 @@ msgid ""
 msgstr ""
 "Voici une description de <cite>Sadi Moma bela loza</cite>, à l'origine un "
 "air de danse bulgare, sous une forme ad-hoc de notation utilisant des "
-"lettres comme notes. Un tiret signifie que la note précédente continue ; il "
+"lettres comme notes. Un tiret signifie que la note précédente continue ; il "
 "y a sept temps par mesure."
 
 #. type: Content of: <div><pre>
@@ -449,10 +451,10 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1993, 2001-2006, 2010, 2011, 2014-2018, 2021 Richard "
+"Copyright &copy; 1993, 2001-2006, 2010, 2011, 2016, 2018, 2022 Richard "
 "Stallman"
 msgstr ""
-"Copyright &copy; 1993, 2001-2006, 2010, 2011, 2014-2018, 2021 Richard "
+"Copyright &copy; 1993, 2001-2006, 2010, 2011, 2016, 2018, 2022 Richard "
 "Stallman"
 
 #. type: Content of: <div><p>
@@ -470,10 +472,13 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Emily Kanzari and Richard Stallman<br />Révision : <a href="
+"Traduction : Emily Kanzari and Richard Stallman<br />Révision : <a href="
 "\"mailto:trad-gnu&#64;april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+#~ msgid "We'll kick out those dirty licenses"
+#~ msgstr "Ces licences néfastes, nous les jetterons"
