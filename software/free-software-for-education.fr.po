@@ -2,13 +2,13 @@
 # Copyright (C) 2016 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Bruno Menan <brume AT ouvaton.org>, 2016.
-#
+# Thérèse Godefroy <godef.th AT free.fr>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: free-software-for-education.html\n"
-"POT-Creation-Date: 2021-05-07 12:55+0000\n"
-"PO-Revision-Date: 2021-01-06 20:35+0100\n"
-"Last-Translator: Bruno Menan <brume AT ouvaton.org>\n"
+"POT-Creation-Date: 2022-04-10 16:56+0000\n"
+"PO-Revision-Date: 2022-04-10 22:17+0200\n"
+"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -52,7 +52,7 @@ msgid ""
 msgstr ""
 "Quand nous disons que ces programmes sont libres, cela signifie qu'ils sont "
 "publiés sous une licence qui donne à tous les utilisateurs les <a href=\"/"
-"philosophy/free-sw.html\">quatre libertés essentielles</a> : utiliser le "
+"philosophy/free-sw.html\">quatre libertés essentielles</a> : utiliser le "
 "programme, le copier, l'étudier et le modifier, et enfin le redistribuer "
 "pour en faire profiter la communauté. Cela ne veut pas dire nécessairement "
 "que le programme est gratuit, bien que presque tous ces programmes le "
@@ -87,7 +87,7 @@ msgid ""
 "software is really doing."
 msgstr ""
 "En plus du mal que constituent les logiciels non libres, l'utilisation de "
-"services réseau tiers dans les écoles pose encore un autre problème : <a "
+"services réseau tiers dans les écoles pose encore un autre problème : <a "
 "href=\"https://www.eff.org/press/releases/google-deceptively-tracks-students-"
 "internet-browsing-eff-says-complaint-federal-trade\"> la collecte des "
 "données personnelles des élèves (et des enseignants) par des entreprises</"
@@ -451,7 +451,7 @@ msgstr "Minecraft (Microsoft)"
 msgid "Here's some additional free software useful for educational purposes:"
 msgstr ""
 "Voici quelques logiciels libres supplémentaires utilisables à des fins "
-"éducatives :"
+"éducatives :"
 
 #. type: Content of: <table><thead><tr><th>
 msgid "Description"
@@ -640,8 +640,8 @@ msgid ""
 "Well-known programming language described by its users as &ldquo;beautiful, "
 "artful, handy, and practical.&rdquo;"
 msgstr ""
-"Langage de programmation connu que ses utilisateurs décrivent comme « beau, "
-"futé, pratique et ergonomique »."
+"Langage de programmation connu que ses utilisateurs décrivent comme « beau, "
+"futé, pratique et ergonomique »."
 
 #. type: Content of: <p>
 msgid ""
@@ -704,10 +704,12 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
+# Pas de changement significatif en 2017, 2018 et 2022.
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2016, 2017, 2018, 2020, 2021 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2016-2018, 2020, 2021 Free Software Foundation, Inc."
+"Copyright &copy; 2016, 2017, 2018, 2020, 2021, 2022 Free Software "
+"Foundation, Inc."
+msgstr "Copyright &copy; 2016, 2020, 2021, 2022 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -719,60 +721,17 @@ msgstr ""
 "Il est permis de copier, distribuer ou modifier ce document suivant les "
 "termes de la licence GNU de documentation libre (<a href=\"/licenses/fdl.html"
 "\">GNU FDL</a>), en version 1.2 ou toute version ultérieure publiée par la "
-"Free Software Foundation ; sans section invariante et sans texte de "
+"Free Software Foundation ; sans section invariante et sans texte de "
 "couverture ni de quatrième de couverture."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Bruno Menan<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Bruno Menan<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
-
-#~ msgid ""
-#~ "Audio/Video Calls. Conferences. Messaging. Screen sharing.  Recording. "
-#~ "Real time chat. Call hold. Contacts management.  Searchable call history. "
-#~ "Multi-language."
-#~ msgstr ""
-#~ "Appel audio/vidéo. Téléconférence. Messagerie. Partage d'écran. "
-#~ "Enregistrement. Clavardage. Mise en attente des appels. Gestion des "
-#~ "contacts. Recherche dans l'historique des appels. Multilangue."
-
-#~ msgid ""
-#~ "Video conferencing. Share video. Share screen. Streaming.  Recording. "
-#~ "Embed conferences on web pages. Raise/Lower your hand."
-#~ msgstr ""
-#~ "Visioconférence. Partage de vidéos. Diffusion en temps réel <i>(streaming)"
-#~ "</i>. Enregistrement. Incrustation de conférences dans les pages webs. "
-#~ "Lever ou baisser la main."
-
-#~ msgid ""
-#~ "Conference room sharing and locking. Real time chat.  Document sharing. "
-#~ "Telephone dial-in to a conference.  Multi-language."
-#~ msgstr ""
-#~ "Partage et verrouillage de sessions. Clavardage. Partage de documents. "
-#~ "Participation à la conférence par téléphone. Multilangue."
-
-#~ msgid ""
-#~ "Multi-user whiteboard. Mouse pointer. Conference room sharing and room "
-#~ "breakout. Screen sharing. Video recording and storing."
-#~ msgstr ""
-#~ "Tableau blanc multi-utilisateur. Pointage avec la souris. Partage de "
-#~ "session et sessions en petits groupes. Partage d'écran. Enregistrement et "
-#~ "sauvegarde de vidéo."
-
-#~ msgid ""
-#~ "Share PDF as slides. Polling and voting systems. Live closed captioning. "
-#~ "Multi-language."
-#~ msgstr ""
-#~ "Partager des PDF comme diapos. Systèmes de sondage et scrutin. Sous-"
-#~ "titrage en direct pour sourds et malentendants. Multilangue."
-
-#~ msgid "Self-hosting (can be installed on private servers.)"
-#~ msgstr ""
-#~ "Autohébergement possible (peut être installé sur des serveurs domestiques)"

@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: resisting-proprietary-software.html\n"
-"POT-Creation-Date: 2021-01-02 19:55+0000\n"
-"PO-Revision-Date: 2021-01-02 21:36+0100\n"
+"POT-Creation-Date: 2022-04-10 17:25+0000\n"
+"PO-Revision-Date: 2022-04-10 22:17+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -84,7 +84,7 @@ msgstr ""
 "La situation d'urgence sanitaire provoquée récemment par la COVID-19 "
 "présentait un nouveau défi. Les classes traditionnelles en présentiel furent "
 "soudainement interdites, et du jour au lendemain des écoles partout dans le "
-"monde furent confrontées à une décision à prendre : soit suspendre "
+"monde furent confrontées à une décision à prendre : soit suspendre "
 "entièrement leurs activités d'enseignement, soit s'adapter en passant aux "
 "cours en ligne."
 
@@ -136,15 +136,17 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 msgid ""
-"The free software community responded by offering communication and "
-"videoconferencing programs that respect freedom and privacy, because staying "
-"away from health hazards is a duty, as it is to stay safe from nonfree "
-"software."
+"The free software community responded by offering <a href=\"/software/free-"
+"software-for-education.html#conferencing\"> communication and "
+"videoconferencing programs</a> that respect freedom and privacy, because "
+"staying away from health hazards is a duty, as it is to stay safe from "
+"nonfree software."
 msgstr ""
-"La communauté du logiciel libre a réagi en proposant des logiciels de "
-"communication et de vidéoconférence qui respectent la liberté et la vie "
-"privée, car éviter les risques sanitaires est un devoir, tout comme se "
-"protéger des logiciels non libres."
+"La communauté du logiciel libre a réagi en proposant des <a href=\"/software/"
+"free-software-for-education.html#conferencing\">logiciels de communication "
+"et de vidéoconférence</a> qui respectent la liberté et la vie privée, car "
+"éviter les risques sanitaires est un devoir, tout comme se protéger des "
+"logiciels non libres."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -173,12 +175,12 @@ msgid ""
 "avoid.html#CloudComputing\"> the GNU Project strongly recommends not to use "
 "the term &ldquo;cloud&rdquo;</a>."
 msgstr ""
-"Cet article utilise le mot « nuage » lorsqu'il parle d'opérations faites sur "
+"Cet article utilise le mot « nuage » lorsqu'il parle d'opérations faites sur "
 "des serveurs appartenant à des tiers. Ce terme est trop général. Il peut "
 "s'appliquer à divers usages de ces serveurs qui diffèrent profondément du "
 "point de vue éthique. Apprenez-en plus sur les raisons pour lesquelles le "
 "projet GNU <a href=\"/philosophy/words-to-avoid.html#CloudComputing"
-"\">recommande vivement de ne pas utiliser le terme « nuage » (ou <i>cloud</"
+"\">recommande vivement de ne pas utiliser le terme « nuage » (ou <i>cloud</"
 "i>)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
@@ -224,9 +226,10 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
+# Pas de changement significatif en 2021 et 2022.
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2020, 2021 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2020, 2021 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2020, 2021, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2020, 2022 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -243,7 +246,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Jean-Pierre Dion et Francois Ochsenbein<br /> Révision : <a "
+"Traduction : Jean-Pierre Dion et Francois Ochsenbein<br /> Révision : <a "
 "href=\"mailto:trad-gnu&#64;april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 
