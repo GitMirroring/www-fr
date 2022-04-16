@@ -10,8 +10,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: allgnupkgs.html\n"
-"POT-Creation-Date: 2022-01-10 19:27+0000\n"
-"PO-Revision-Date: 2022-01-10 21:58+0100\n"
+"POT-Creation-Date: 2022-04-16 14:56+0000\n"
+"PO-Revision-Date: 2022-04-16 22:34+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -210,8 +210,8 @@ msgstr ""
 "\">gmediaserver – accueil</a>]"
 
 #. type: Content of: <div><dl><dt>
-msgid "<a href=\"/software/gnufm/\">GNUfm</a>"
-msgstr "<a href=\"/software/gnufm/\">GNUfm</a>"
+msgid "<a href=\"https://gnu.io/fm/\">GNUfm</a>"
+msgstr "<a href=\"https://gnu.io/fm/\">GNUfm</a>"
 
 #. type: Content of: <div><dl><dd>
 msgid ""
@@ -768,8 +768,8 @@ msgstr ""
 " accueil</a>]"
 
 #. type: Content of: <div><dl><dt>
-msgid "<a href=\"http://www.nano-editor.org/docs.php\">Nano</a>"
-msgstr "<a href=\"http://www.nano-editor.org/docs.php\">Nano</a>"
+msgid "<a href=\"https://www.nano-editor.org/docs.php\">Nano</a>"
+msgstr "<a href=\"https://www.nano-editor.org/docs.php\">Nano</a>"
 
 #. type: Content of: <div><dl><dd>
 msgid ""
@@ -1437,10 +1437,8 @@ msgstr ""
 "plotutils/\">plotutils – accueil</a>]"
 
 #. type: Content of: <div><dl><dt>
-msgid ""
-"<a href=\"http://matek.hu/xaos/doku.php?id=documentation:main\">XaoS</a>"
-msgstr ""
-"<a href=\"http://matek.hu/xaos/doku.php?id=documentation:main\">XaoS</a>"
+msgid "<a href=\"https://github.com/xaos-project/XaoS/wiki\">XaoS</a>"
+msgstr "<a href=\"https://github.com/xaos-project/XaoS/wiki\">XaoS</a>"
 
 #. type: Content of: <div><dl><dd>
 msgid ""
@@ -1450,8 +1448,12 @@ msgstr ""
 " accueil</a>]"
 
 #. type: Content of: <div><h3>
-msgid "<a href=\"//directory.fsf.org/category/health/\">Health</a>"
-msgstr "<a href=\"//directory.fsf.org/category/health/\">Santé</a>"
+msgid ""
+"<a href=\"//directory.fsf.org/category/Biology/health-and-medicine/"
+"\">Health</a>"
+msgstr ""
+"<a href=\"//directory.fsf.org/category/Biology/health-and-medicine/\">Santé</"
+"a>"
 
 #. type: Content of: <div><dl><dt>
 msgid ""
@@ -1876,10 +1878,8 @@ msgstr ""
 "\">macchanger – accueil</a>]"
 
 #. type: Content of: <div><dl><dt>
-msgid ""
-"<a href=\"https://mediagoblin.readthedocs.io/en/master/\">Mediagoblin</a>"
-msgstr ""
-"<a href=\"https://mediagoblin.readthedocs.io/en/master/\">Mediagoblin</a>"
+msgid "<a href=\"https://docs.mediagoblin.org/en/master/\">Mediagoblin</a>"
+msgstr "<a href=\"https://docs.mediagoblin.org/en/master/\">Mediagoblin</a>"
 
 #. type: Content of: <div><dl><dd>
 msgid ""
@@ -1937,8 +1937,8 @@ msgstr ""
 "software/shishi/\">shishi – accueil</a>]"
 
 #. type: Content of: <div><dl><dt>
-msgid "<a href=\"/software/social/\">Social</a>"
-msgstr "<a href=\"/software/social/\">Social</a>"
+msgid "<a href=\"https://gnu.io/social/\">Social</a>"
+msgstr "<a href=\"https://gnu.io/social/\">Social</a>"
 
 #. type: Content of: <div><dl><dd>
 msgid ""
@@ -2252,8 +2252,8 @@ msgid "Statistical analysis.  [<a href=\"/software/pspp/\">pspp&nbsp;home</a>]"
 msgstr "Analyse statistique. [<a href=\"/software/pspp/\">pspp – accueil</a>]"
 
 #. type: Content of: <div><dl><dt>
-msgid "<a href=\"http://cran.r-project.org/#doc\">R</a>"
-msgstr "<a href=\"http://cran.r-project.org/#doc\">R</a>"
+msgid "<a href=\"//cran.r-project.org/#doc\">R</a>"
+msgstr "<a href=\"//cran.r-project.org/#doc\">R</a>"
 
 #. type: Content of: <div><dl><dd>
 msgid ""
@@ -5186,3 +5186,11 @@ msgid ""
 msgstr ""
 "XML simple pour la définition et l'implémentation de langages de balises. "
 "[<a href=\"/software/xmlat/\">xmlat – accueil</a>]"
+
+#~ msgid "<a href=\"/software/gnufm/\">GNUfm</a>"
+#~ msgstr "<a href=\"/software/gnufm/\">GNUfm</a>"
+
+#~ msgid ""
+#~ "<a href=\"http://matek.hu/xaos/doku.php?id=documentation:main\">XaoS</a>"
+#~ msgstr ""
+#~ "<a href=\"http://matek.hu/xaos/doku.php?id=documentation:main\">XaoS</a>"

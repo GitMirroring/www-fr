@@ -1,13 +1,13 @@
 # French translation of http://www.gnu.org/software/repo-criteria.html
 # Copyright (C) 2016 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# April (collaborative translation) <trad-gnu@april.org>, YEAR.
+# April (collaborative translation) <trad-gnu@april.org>, 2016.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: repo-criteria.html\n"
-"POT-Creation-Date: 2016-06-24 21:55+0000\n"
-"PO-Revision-Date: 2020-12-07 14:58+0100\n"
+"POT-Creation-Date: 2022-04-16 15:56+0000\n"
+"PO-Revision-Date: 2022-04-16 22:34+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -95,7 +95,7 @@ msgid ""
 "JavaScript is disabled in the browser."
 msgstr ""
 "En ce qui concerne l'envoi de code s'exécutant sur la plateforme "
-"JavaScript : tout code de ce type, lorsqu'il est utilisé par une fonction "
+"JavaScript : tout code de ce type, lorsqu'il est utilisé par une fonction "
 "importante du site est (1) soit libre et correctement étiqueté pour que <a "
 "href=\"/software/librejs/\">LibreJS</a> le reconnaisse comme tel, (2) soit "
 "non indispensable, de sorte que la fonction est opérationnelle même si "
@@ -130,7 +130,7 @@ msgid ""
 "principal GNU browser IceCat, and the site must work adequately with them."
 msgstr ""
 "En ce qui concerne l'envoi de code s'exécutant sur une plateforme autre que "
-"JavaScript : ces conditions s'appliquent <i>mutatis mutandis</i> (une fois "
+"JavaScript : ces conditions s'appliquent <i>mutatis mutandis</i> (une fois "
 "effectués les changements nécessaires). De plus, une implémentation libre de "
 "cette plateforme et un programme libre destiné à vérifier que la licence est "
 "libre (comparable à LibreJS pour JavaScript) doivent être disponibles pour "
@@ -156,7 +156,7 @@ msgstr ""
 "libre que si l'interpréteur et les programmes qu'il interprète sont libres. "
 "Dans le second cas, la plateforme JavaScript n'est libre que si le code "
 "édité manuellement (et fourni en entrée au logiciel de traduction) est "
-"libre ; nous exigeons également qu'il existe un logiciel libre capable de "
+"libre ; nous exigeons également qu'il existe un logiciel libre capable de "
 "faire ce travail de traduction. <strong>(C0.1)</strong>"
 
 #. type: Content of: <ul><li><p>
@@ -188,7 +188,7 @@ msgid ""
 "The site's terms of service contain no odious conditions.  <strong>(C4)</"
 "strong>"
 msgstr ""
-"Les conditions de service ne contiennent pas de clause « odieuse ». <strong>"
+"Les conditions de service ne contiennent pas de clause « odieuse ». <strong>"
 "(C4)</strong>"
 
 #. type: Content of: <ul><li><p>
@@ -213,7 +213,7 @@ msgstr "B – Recommandable"
 
 #. type: Content of: <p>
 msgid "The above criteria, plus:"
-msgstr "Outre les critères ci-dessus :"
+msgstr "Outre les critères ci-dessus :"
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -223,7 +223,7 @@ msgid ""
 "strong>"
 msgstr ""
 "Tout code envoyé au navigateur de l'utilisateur doit être du logiciel "
-"libre ; il doit être de plus étiqueté pour LibreJS ou autre programme libre "
+"libre ; il doit être de plus étiqueté pour LibreJS ou autre programme libre "
 "d'analyse automatique de licence adapté à la situation, et ceci que le site "
 "soit ou non fonctionnel quand l'utilisateur désactive ce code. <strong>(B0)</"
 "strong>"
@@ -234,7 +234,7 @@ msgid ""
 "tags in the pages. This means the site must avoid most advertising "
 "networks.  <strong>(B1)</strong>"
 msgstr ""
-"Ne signale pas les visiteurs à d'autres organisations ; en particulier, pas "
+"Ne signale pas les visiteurs à d'autres organisations ; en particulier, pas "
 "de traceurs dans les pages. Ce qui veut dire que le site doit éviter la "
 "plupart des réseaux de publicité. <strong>(B1)</strong>"
 
@@ -300,7 +300,7 @@ msgid ""
 "Does not recommend services that are <a href=\"/philosophy/who-does-that-"
 "server-really-serve.html\">SaaSS</a>.  <strong>(A5)</strong>"
 msgstr ""
-"Ne recommande pas de « service se substituant au logiciel » (<a href=\"/"
+"Ne recommande pas de « service se substituant au logiciel » (<a href=\"/"
 "philosophy/who-does-that-server-really-serve.html\">SaaSS</a>). <strong>(A5)"
 "</strong>"
 
@@ -309,7 +309,7 @@ msgid ""
 "Says &ldquo;free software,&rdquo; not &ldquo;open source.&rdquo; <strong>(A6)"
 "</strong>"
 msgstr ""
-"Parle de « logiciel libre » et non d'« open source ». <strong>(A6)</strong>"
+"Parle de « logiciel libre » et non d'« open source ». <strong>(A6)</strong>"
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -324,7 +324,7 @@ msgid ""
 "Avoids saying &ldquo;Linux&rdquo; without &ldquo;GNU&rdquo; when referring "
 "to GNU/Linux.  <strong>(A8)</strong>"
 msgstr ""
-"Évite de dire « Linux » sans « GNU » lorsque référence est faite à GNU/"
+"Évite de dire « Linux » sans « GNU » lorsque référence est faite à GNU/"
 "Linux. <strong>(A8)</strong>"
 
 #. type: Content of: <ul><li><p>
@@ -371,7 +371,7 @@ msgid ""
 msgstr ""
 "Applique les normes WCAG 2.0 (<a href=\"https://www.w3.org/WAI/WCAG20/"
 "quickref/\">Web &ldquo;Content&rdquo; Accessibility Guidelines 2.0</a> – "
-"Guide d'accessibilité du « contenu » web 2.0). <strong>(A+3)</strong>"
+"Guide d'accessibilité du « contenu » web 2.0). <strong>(A+3)</strong>"
 
 #. type: Content of: <ul><li><p>
 msgid ""
@@ -411,11 +411,11 @@ msgstr "Aaron Wolf"
 
 #. type: Content of: <ul><li>
 msgid ""
-"<a href=\"http://oitofelix.freeshell.org/\">Bruno Félix Rezende Ribeiro</a> "
-"<a href=\"mailto:oitofelix@gnu.org\">&lt;oitofelix@gnu.org&gt;</a>"
+"Bruno Félix Rezende Ribeiro <a href=\"mailto:oitofelix@gnu.org\">&lt;"
+"oitofelix@gnu.org&gt;</a>"
 msgstr ""
-"<a href=\"http://oitofelix.freeshell.org/\">Bruno Félix Rezende Ribeiro</a> "
-"<a href=\"mailto:oitofelix@gnu.org\">&lt;oitofelix@gnu.org&gt;</a>"
+"Bruno Félix Rezende Ribeiro <a href=\"mailto:oitofelix@gnu.org\">&lt;"
+"oitofelix@gnu.org&gt;</a>"
 
 #. type: Content of: <ul><li>
 msgid "Josh Triplett"
@@ -496,9 +496,10 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
+# Pas de changement significatif en 2022.
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015, 2016 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2015, 2016 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2015, 2016, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2015, 2016, 2022 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -515,7 +516,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Mangeur de nuages, Laplongéecestchouette, Thérèse et 2 "
+"Traduction : Mangeur de nuages, Laplongéecestchouette, Thérèse et 2 "
 "inconnus<br /> <a href=\"mailto:trad-gnu&#64;april.org\">trad-gnu&#64;april."
 "org</a>"
 
