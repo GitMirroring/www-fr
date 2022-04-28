@@ -8,16 +8,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: help.html\n"
-"POT-Creation-Date: 2021-08-18 03:25+0000\n"
-"PO-Revision-Date: 2021-08-18 18:08+0200\n"
+"POT-Creation-Date: 2022-04-26 15:25+0000\n"
+"PO-Revision-Date: 2022-04-28 12:52+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -260,6 +258,18 @@ msgstr ""
 "faites-leur savoir qu'elle vous intéresse."
 
 #. type: Content of: <div><h3>
+msgid "Important new small-to-medium programs needed"
+msgstr "Logiciels importants mais pas très longs dont nous avons besoin"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/help/music-subtraction.html\">Free program that can subtract "
+"background music</a>"
+msgstr ""
+"<a href=\"/help/music-subtraction.html\">Programme libre pouvant soustraire "
+"un fond musical</a>"
+
+#. type: Content of: <div><h3>
 msgid "Help support GNU development and use"
 msgstr "Contribuez à soutenir le développement et l'utilisation de GNU"
 
@@ -361,8 +371,8 @@ msgstr ""
 "la communauté, vous pouvez leur montrer tous les avantages pratiques du "
 "logiciel libre – vous trouverez des arguments utiles dans <a href=\"//www."
 "dwheeler.com/oss_fs_why.html\"><cite>Why Open Source / Free Software? Look "
-"at the Numbers!</cite></a> (Pourquoi open source ou logiciel libre ? "
-"Regardez les chiffres !). Mais mentionnez aussi la dimension éthique ! Ne "
+"at the Numbers!</cite></a> (Pourquoi open source ou logiciel libre ? "
+"Regardez les chiffres !). Mais mentionnez aussi la dimension éthique ! Ne "
 "les laissez pas vous conduire à transformer votre discours en un discours "
 "open source."
 
@@ -422,8 +432,8 @@ msgid ""
 "contact <a href=\"mailto:job-page@fsf.org\">&lt;job-page@fsf.org&gt;</a>."
 msgstr ""
 "Portez-vous volontaire pour contacter des entreprises et leur suggérer "
-"d'annoncer leurs offres d'emploi sur notre page « <a href=\"https://www.fsf."
-"org/resources/jobs/\">offres d'emploi dans le logiciel libre</a> ». Si cela "
+"d'annoncer leurs offres d'emploi sur notre page « <a href=\"https://www.fsf."
+"org/resources/jobs/\">offres d'emploi dans le logiciel libre</a> ». Si cela "
 "vous intéresse, veuillez contacter &lt;<a href=\"mailto:job-page@fsf.org"
 "\">job-page@fsf.org</a>&gt;."
 
@@ -453,7 +463,7 @@ msgid ""
 msgstr ""
 "Lorsque vous vous faites allusion au système d'exploitation qui a démarré en "
 "tant que GNU, et auquel Linux a été ajouté, appelez-le <a href=\"/gnu/linux-"
-"and-gnu.html\">GNU/Linux</a> ; n'imitez pas ceux qui l'appellent « Linux ». "
+"and-gnu.html\">GNU/Linux</a> ; n'imitez pas ceux qui l'appellent « Linux ». "
 "Quand les gens auront pris conscience de ce que nous avons déjà accompli, "
 "ils <a href=\"/gnu/why-gnu-linux.html\">soutiendront davantage nos efforts "
 "présents et à venir</a>. Cela nous aidera, tout en vous prenant très peu de "
@@ -468,7 +478,7 @@ msgid ""
 msgstr ""
 "Montrez que vous soutenez le mouvement du logiciel libre et notre <a href=\"/"
 "philosophy/free-sw.html\">idéal de liberté pour les utilisateurs de "
-"l'informatique</a>, en disant « logiciel libre »."
+"l'informatique</a>, en disant « logiciel libre »."
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -476,7 +486,7 @@ msgid ""
 "&ldquo;open source&rdquo;</a> which stands for rejection of our ideals."
 msgstr ""
 "<a href=\"/philosophy/open-source-misses-the-point.html\">Évitez le terme "
-"« open source »</a> qui signifie le rejet de nos idéaux."
+"« open source »</a> qui signifie le rejet de nos idéaux."
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -647,8 +657,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1996-2008, 2013-2021 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 1996-2008, 2013-2021 Free Software Foundation, Inc."
+msgid "Copyright &copy; 1996-2008, 2013-2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1996-2008, 2013-2022 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -665,7 +675,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Cédric Corazza.<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Cédric Corazza<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 
