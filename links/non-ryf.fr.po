@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: non-ryf.html\n"
-"POT-Creation-Date: 2020-01-22 08:26+0000\n"
-"PO-Revision-Date: 2020-12-06 17:35+0100\n"
+"POT-Creation-Date: 2022-05-02 08:56+0000\n"
+"PO-Revision-Date: 2022-05-02 14:32+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -23,15 +23,15 @@ msgstr ""
 "Ordinateurs non RYF avec GNU/Linux préinstallé - Projet GNU - Free Software "
 "Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid ""
-"Non-<abbr title=\"Respects Your Freedom\">RYF</abbr> computers with <abbr "
-"title=\"GNU's Not Unix!\">GNU</abbr>/Linux preinstalled"
+"Non-<abbr title=\"Respects Your Freedom\">RYF</abbr> computers with GNU/"
+"Linux preinstalled"
 msgstr ""
 "Ordinateurs non <abbr title=\"Respects Your Freedom\">RYF</abbr> avec GNU/"
 "Linux préinstallé"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The computers sold by these companies require the use of a proprietary "
 "BIOS.  A BIOS is a program used to load the operating system and start the "
@@ -41,7 +41,7 @@ msgstr ""
 "BIOS est un programme utilisé pour charger le système d'exploitation et "
 "démarrer l'ordinateur)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Also, if the computer uses an Intel processor, it most probably has the "
 "Intel Management Engine (ME) which <a href=\"https://www.fsf.org/blogs/"
@@ -56,7 +56,7 @@ msgstr ""
 "href=\"/proprietary/proprietary-insecurity.html#intel-me-10-year-"
 "vulnerability\">failles de sécurité dans le passé</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Due to the above issues, computers sold by these companies do not have FSF's "
 "<a href=\"https://fsf.org/ryf\">Respects Your Freedom certification</a> "
@@ -69,7 +69,7 @@ msgstr ""
 "capables de fonctionner avec un <a href=\"/distros/free-distros.html"
 "\">système d'exploitation GNU/Linux entièrement libre</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you represent a company and would like to have your computers mentioned "
 "here please make sure that the default preinstalled GNU/Linux distro on your "
@@ -82,15 +82,15 @@ msgstr ""
 "\">label de la FSF</a>, ou au moins que l'une de ces distros peut être "
 "choisie en option au moment de l'achat."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"http://libre.thinkpenguin.com/\">ThinkPenguin.com</a> offers "
+"<a href=\"https://www.thinkpenguin.com/\">ThinkPenguin.com</a> offers "
 "computers preinstalled with Trisquel."
 msgstr ""
-"<a href=\"http://libre.thinkpenguin.com/\">ThinkPenguin.com</a> propose des "
+"<a href=\"https://www.thinkpenguin.com/\">ThinkPenguin.com</a> propose des "
 "ordinateurs préinstallés avec Trisquel."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "<a href=\"https://puri.sm/\">Purism</a> offers laptops and smartphones "
 "preinstalled with PureOS."
@@ -141,9 +141,10 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
+# Pas de changement significatif en 2022.
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2017, 2018, 2019, 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2017-2020 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2017, 2020, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2017, 2020, 2022 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -160,7 +161,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction et révision : <a href=\"mailto:trad-gnu&#64;april.org\">trad-"
+"Traduction et révision : <a href=\"mailto:trad-gnu&#64;april.org\">trad-"
 "gnu&#64;april.org</a>"
 
 #.  timestamp start 
