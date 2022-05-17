@@ -8,16 +8,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu.html\n"
-"POT-Creation-Date: 2021-10-24 18:55+0000\n"
-"PO-Revision-Date: 2021-12-22 14:46+0100\n"
+"POT-Creation-Date: 2022-05-17 10:30+0000\n"
+"PO-Revision-Date: 2022-05-17 17:06+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid "About the GNU Operating System - GNU project - Free Software Foundation"
@@ -92,6 +90,18 @@ msgid "<a href=\"/gnu/manifesto.html\"> The GNU Manifesto</a>"
 msgstr "<a href=\"/gnu/manifesto.html\">Le manifeste GNU</a>"
 
 #. #set var='DATE' value='<span class="date-tag">
+#. *[1984]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/gnu/first-hackers-conference-1984.html\"> First Hackers "
+"Conference</a>"
+msgstr ""
+"<a href=\"/gnu/first-hackers-conference-1984.html\"> First Hackers "
+"Conference</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
 #. *[1983]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
@@ -163,8 +173,8 @@ msgstr ""
 "software.html\"><i>One Man's Fight for Free Software</i></a> (Le combat d'un "
 "homme pour le logiciel libre), par John Markoff &mdash; Un article sur "
 "Richard Stallman et les débuts du développement de GNU, publié dans le "
-"<cite>New York Times</cite> le 11 janvier 1989. Cet article a un problème : "
-"il utilise le terme de propagande « propriété intellectuelle » comme si cela "
+"<cite>New York Times</cite> le 11 janvier 1989. Cet article a un problème : "
+"il utilise le terme de propagande « propriété intellectuelle » comme si cela "
 "se référait à quelque chose de cohérent. Le terme est si confus qu'en parler "
 "<a href=\"/philosophy/not-ipr.html\">n'a aucun sens</a>. L'article est "
 "également un peu confus au sujet de Symbolics. Ce que Stallman faisait, "
@@ -180,10 +190,10 @@ msgid ""
 "the term &ldquo;free software&rdquo;; apparently he had not yet started to "
 "put those two words together."
 msgstr ""
-"Voici deux billets que Stallman a écrits pour un « babillard » <i>[bulletin "
+"Voici deux billets que Stallman a écrits pour un « babillard » <i>[bulletin "
 "board]</i> de Stanford lors d'une visite en mai 1983. Ils présentent "
 "certaines de ses réflexions sur la manière de lancer le développement du "
-"système GNU. Ils n'utilisent pas l'expression « logiciel libre » ; "
+"système GNU. Ils n'utilisent pas l'expression « logiciel libre » ; "
 "apparemment, il n'avait pas encore commencé à associer ces deux mots."
 
 #. #set var='DATE' value='<span class="date-tag">
@@ -369,10 +379,10 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2002, 2006-2008, 2011, 2014-2016, 2020, 2021 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 2002, 2006-2008, 2011, 2014-2016, 2020, 2021, 2022 Free "
+"Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2002, 2006-2008, 2011, 2014-2016, 2020, 2021 Free Software "
+"Copyright &copy; 2002, 2006-2008, 2011, 2014-2016, 2020-2022 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -390,7 +400,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Cédric Corazza.<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Cédric Corazza.<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 
