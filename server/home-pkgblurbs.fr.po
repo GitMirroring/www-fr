@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home-pkgblurbs.html\n"
-"POT-Creation-Date: 2022-05-29 18:56+0000\n"
-"PO-Revision-Date: 2022-05-31 11:05+0200\n"
+"POT-Creation-Date: 2022-06-09 12:30+0000\n"
+"PO-Revision-Date: 2022-06-09 14:55+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -444,6 +444,10 @@ msgstr ""
 "PostScript ou Encapsulated PostScript.  <small>(<a href=\"/manual/manual."
 "html#barcode\">doc</a>)</small>"
 
+#. type: Attribute 'alt' of: <h4><img>
+msgid "logo for bash"
+msgstr "logo de bash"
+
 #. type: Content of: <h4>
 msgid "<a href=\"/software/bash/\">Bash</a>"
 msgstr "<a href=\"/software/bash/\">Bash</a>"
@@ -852,7 +856,10 @@ msgstr ""
 "Cim est le compilateur GNU pour Simula, le premier langage de programmation "
 "orienté objet.  <small>(<a href=\"/manual/manual.html#cim\">doc</a>)</small>"
 
-#.  TRANSLATORS: stale 
+#. type: Attribute 'alt' of: <h4><img>
+msgid "logo for classpath"
+msgstr "logo de classpath"
+
 #. type: Content of: <h4>
 msgid "<a href=\"/software/classpath/\">Classpath</a>"
 msgstr "<a href=\"/software/classpath/\">Classpath</a>"
@@ -1971,6 +1978,10 @@ msgstr ""
 "ramasse-miettes innovante <i>(stratified garbage collection)</i> et un "
 "débogueur de code source, ainsi qu'une interface avec le système de widgets "
 "Tk.  <small>(<a href=\"/manual/manual.html#gcl\">doc</a>)</small>"
+
+#. type: Attribute 'alt' of: <h4><img>
+msgid "logo for gcompris"
+msgstr "logo de gcompris"
 
 #. type: Content of: <h4>
 msgid "<a href=\"/software/gcompris/\">GCompris</a>"
@@ -3357,7 +3368,10 @@ msgstr ""
 "documentation affichées par la commande « man ».  <small>(<a href=\"/manual/"
 "manual.html#groff\">doc</a>)</small>"
 
-#.  TRANSLATORS: stale 
+#. type: Attribute 'alt' of: <h4><img>
+msgid "logo for grub"
+msgstr "logo de grub"
+
 #. type: Content of: <h4>
 msgid "<a href=\"/software/grub/\">GRUB</a>"
 msgstr "<a href=\"/software/grub/\">GRUB</a>"
@@ -5132,16 +5146,16 @@ msgstr "<a href=\"/software/mes/\">Mes</a>"
 #. type: Content of: <p>
 msgid ""
 "GNU Mes aims to help create full source bootstrapping for GNU/Linux systems "
-"such as Guix System.  It features a mutual self-hosting Scheme interpreter "
+"such as GuixSD.  It features a mutual self-hosting Scheme interpreter "
 "written in a simple C, and a Nyacc-based C compiler written in GNU Guile-"
 "compatible Scheme.  The Mes C library supports bootstrapping gcc.  <small>"
 "(<a href=\"/manual/manual.html#mes\">doc</a>)</small>"
 msgstr ""
-"GNU Mes vise à la génération complète de systèmes GNU/Linux comme le système "
-"Guix à partir des sources. Il inclut un interpréteur Scheme écrit en C "
-"simple, et un compilateur C, basé sur Nyacc, capables de se générer "
-"mutuellement. La bibliothèque C de Mes permet la génération initiale de "
-"gcc.  <small>(<a href=\"/manual/manual.html#mes\">doc</a>)</small>"
+"GNU Mes vise à la génération complète de systèmes GNU/Linux comme GuixSD à "
+"partir des sources. Il inclut un interpréteur Scheme écrit en C simple, et "
+"un compilateur C, basé sur Nyacc, capables de se générer mutuellement. La "
+"bibliothèque C de Mes permet la génération initiale de gcc.  <small>(<a href="
+"\"/manual/manual.html#mes\">doc</a>)</small>"
 
 #. type: Content of: <h4>
 msgid "<a href=\"/software/metahtml/\">Metahtml</a>"
@@ -5447,6 +5461,10 @@ msgstr ""
 "l'intégrer aux boîtes à outils de cryptographie des langages orientés objet, "
 "ou aux applications elles-mêmes.  <small>(<a href=\"/manual/manual."
 "html#nettle\">doc</a>)</small>"
+
+#. type: Attribute 'alt' of: <h4><img>
+msgid "logo for ocrad"
+msgstr "logo d'ocrad"
 
 #. type: Content of: <h4>
 msgid "<a href=\"/software/ocrad/\">Ocrad</a>"
