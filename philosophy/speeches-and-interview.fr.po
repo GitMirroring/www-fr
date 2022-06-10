@@ -2,13 +2,13 @@
 # Copyright (C) 2008 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2008.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012, 2013, 2014, 2015.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012-2022.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: speeches-and-interview.html\n"
-"POT-Creation-Date: 2022-05-31 07:57+0000\n"
-"PO-Revision-Date: 2022-05-31 11:05+0200\n"
+"POT-Creation-Date: 2022-06-10 10:28+0000\n"
+"PO-Revision-Date: 2022-06-10 12:41+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -20,913 +20,1454 @@ msgstr ""
 msgid "Speeches and Interviews - GNU Project - Free Software Foundation"
 msgstr "Discours et entretiens - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Speeches and Interviews"
 msgstr "Discours et entretiens"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"See the <a href=\"https://www.fsf.org/tedx\" >video recording</a> (and <a "
-"href=\"https://static.fsf.org/nosvn/RMS_Intro_to_FS_TEDx_Slideshow.odp"
-"\">slides</a>)  of Richard Stallman's TEDx talk in Geneva, Switzerland on "
-"April 7, 2014."
+"See the <a href=\"//www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-"
+"software-free-society/\"> video recording</a> (and <a href=\"//static.fsf."
+"org/nosvn/RMS_Intro_to_FS_TEDx_Slideshow.odp\">slides</a>)  of Richard "
+"Stallman's TEDx talk in Geneva, Switzerland on April 7, 2014."
 msgstr ""
-"Regardez l'<a href=\"https://www.fsf.org/tedx\" >enregistrement vidéo</a> "
-"(et <a href=\"https://static.fsf.org/nosvn/RMS_Intro_to_FS_TEDx_Slideshow.odp"
-"\">les diapos</a>) de la conférence donnée par Richard M. Stallman au TEDx, "
-"à Genève (Suisse) le 7 avril 2014."
+"Regardez l'<a href=\"//www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-"
+"software-free-society/\">enregistrement vidéo</a> (et <a href=\"https://"
+"static.fsf.org/nosvn/RMS_Intro_to_FS_TEDx_Slideshow.odp\">les diapos</a>) de "
+"la conférence donnée par Richard M. Stallman au TEDx, à Genève (Suisse) le "
+"7 avril 2014."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"Here are more of Stallman's speech and interview recordings, listed in "
-"reverse chronological order.  Further recordings of speeches and other Free "
-"Software Foundation and GNU project events are available at <a href=\"//"
-"audio-video.gnu.org\">https://audio-video.gnu.org</a>."
+"Most recordings of speeches and other FSF and GNU Project events are at <a "
+"href=\"//audio-video.gnu.org\">audio-video.gnu.org</a>:"
 msgstr ""
-"Vous trouverez ci-dessous les enregistrements de quelques autres conférences "
-"et interviews données par Richard Stallman, en ordre chronologique inverse. "
-"D'autres encore sont disponibles sur <a href=\"//audio-video.gnu.org\">audio-"
-"video.gnu.org</a>, avec les enregistrements de diverses manifestations de la "
-"<i>Free Software Foundation</i> et du projet GNU."
+"La plupart des enregistrements de conférences et autres événements du projet "
+"GNU et de la FSF sont sur <a href=\"//audio-video.gnu.org\">audio-video.gnu."
+"org</a>."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><div>
 msgid ""
-"<a href=\"https://newleftreview.org/issues/ii113/articles/richard-stallman-"
-"talking-to-the-mailman\">Interview with Richard Stallman</a> by Rob Lucas "
-"published on the New Left Review, Issue 113, September 2018."
+"<a href=\"//audio-video.gnu.org/audio/\">Audio recordings</a>&nbsp; <a href="
+"\"//audio-video.gnu.org/video/\">Video recordings</a>"
 msgstr ""
-"<a href=\"https://newleftreview.org/issues/ii113/articles/richard-stallman-"
-"talking-to-the-mailman\">Entretien avec Richard Stallman</a>, mené par Rob "
-"Lucas et publié dans la <cite>New Left Review</cite>, numéro 113, en "
-"september 2018."
+"<a href=\"//audio-video.gnu.org/audio/\">Enregistrements audio</a>&nbsp; <a "
+"href=\"//audio-video.gnu.org/video/\">Enregistrements vidéo</a>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"In some browsers, acronyms such as &ldquo;GNU,&rdquo; &ldquo;MIT,&rdquo; "
-"&ldquo;AI,&amp;rdquo; &ldquo;US,&rdquo; &ldquo;PDP-10,&rdquo; and &ldquo;"
-"AT&amp;T&rdquo; get rendered in lowercase, and sequences of acronyms like "
-"&ldquo;GNU GPL&rdquo; and &ldquo;MIT AI&rdquo; are rendered without space in "
-"the interview page at New Left Review."
+"Listed below in reverse chronological order are speeches and interviews for "
+"which full or partial transcriptions are available, and some of those hosted "
+"on websites other than audio-video.gnu.org. Except as otherwise stated, they "
+"were given by Richard Stallman. If you wish to contribute a transcription, "
+"please write to &lt;<a href=\"mailto:webmasters@gnu.org\">webmasters@gnu."
+"org</a>&gt;."
 msgstr ""
-"Lorsqu'on lit cet article de la <cite>New Left Review</cite> dans certains "
-"navigateurs, les acronymes comme « GNU », « MIT », « AI », « US », "
-"« PDP-10 » et « AT&amp;T » apparaissent en minuscules, et les suites "
-"d'acronymes comme « GNU GPL » et « MIT AI » apparaissent fusionnées."
+"Les deux listes ci-dessous répertorient seulement (en ordre chronologique "
+"inversé) les conférences et entretiens pour lesquels des transcriptions sont "
+"disponibles, ou qui sont hébergés sur d'autres sites. Sauf indication "
+"contraire, l'orateur ou la personne interviewée est Richard Stallman. Si "
+"vous souhaitez proposer une transcription, merci d'écrire à &lt;<a href="
+"\"mailto:webmasters@gnu.org\">webmasters@gnu.org</a>&gt;."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><h3>
 msgid ""
-"<a href=\"/philosophy/rms-pour-une-societe-numerique-libre.html\"> Pour une "
-"société numérique libre</a>, transcript (in French) of a talk by RMS at "
-"<cite>Médiathèque Aragon</cite> in Choisy-le-Roi, France on April 16, 2016."
+"Speeches&nbsp; <small>[<a href=\"#interviews\">Skip to Interviews</a>]</"
+"small>"
 msgstr ""
-"<a href=\"/philosophy/rms-pour-une-societe-numerique-libre.html\">Pour une "
-"société numérique libre</a>, transcription d'une conférence donnée en "
-"français à la Médiathèque Aragon, à Choisy-le-Roi, le 16 avril 2016."
+"Conférences&nbsp; <small>[<a href=\"#interviews\">&rarr; entretiens</a>]</"
+"small>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"//audio-video.gnu.org/video/#2015-07-10--rms--a-free-digital-"
-"society\">A Free Digital Society</a>, video recording of a talk given by "
-"Richard M. Stallman at Gerthsen-Hörsaal in Karlsruhe, Germany on July 10, "
-"2015."
+"<span class=\"date-tag\">April 16, 2016</span> <span class=\"lang\">[in "
+"French]</span>"
 msgstr ""
-"<a href=\"//audio-video.gnu.org/video/#2015-07-10--rms--a-free-digital-"
-"society\">A Free Digital Society</a> (Une société numérique libre), "
-"enregistrement vidéo d'une conférence donnée par Richard M. Stallman au "
-"<i>Gerthsen-Hörsaal</i> à Karlsruhe (Allemagne) le 10 juillet 2015."
+"<span class=\"date-tag\">16 avril 2016</span> <span class=\"lang\">[en "
+"français]</span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"//audio-video.gnu.org/video/#2015-05-27--rms--chania--greece"
-"\">Video</a> and <a href=\"//audio-video.gnu.org/audio/#2015-05-27--rms--"
-"chania--greece\">audio</a> recordings of a talk given by Richard M. Stallman "
-"at the Technical University of Crete in Chani&aacute;, Greece on May 27, "
-"2015."
+"<span class=\"speech-title\"> <a href=\"/philosophy/rms-pour-une-societe-"
+"numerique-libre.fr.html\" hreflang=\"fr\"> <i>Pour une société numérique "
+"libre</i></a> [For a free digital society]</span>"
 msgstr ""
-"Enregistrements <a href=\"//audio-video.gnu.org/video/#2015-05-27--rms--"
-"chania--greece\">vidéo</a> et <a href=\"//audio-video.gnu.org/audio/"
-"#2015-05-27--rms--chania--greece\">audio</a> d'une conférence donnée par "
-"Richard M. Stallman à l'Université technique de Crète à La Canée (Grèce) le "
-"27 mai 2015."
+"<span class=\"speech-title\"><a href=\"/philosophy/rms-pour-une-societe-"
+"numerique-libre.fr.html\" hreflang=\"fr\">Pour une société numérique libre</"
+"a></span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"//audio-video.gnu.org/video/#2015-05-12--rms--logiciels-libres-et-"
-"l-education\">Logiciels Libres et l'éducation (in French)</a>, video "
-"recording of a talk given by Richard M. Stallman at Amphi Guilcher, Faculté "
-"Segalen in Brest, France on May 12, 2015."
-msgstr ""
-"<a href=\"//audio-video.gnu.org/video/#2015-05-12--rms--logiciels-libres-et-"
-"l-education\">Logiciels Libres et l'éducation (en français)</a>, "
-"enregistrement vidéo d'une conférence donnée par Richard M. Stallman à "
-"l'Amphi Guilcher, Faculté Segalen, Brest, le 12 mai 2015."
+"<span class=\"descr\">at the Médiathèque Aragon in Choisy-le-Roi, France</"
+"span>"
+msgstr "<span class=\"descr\">à la Médiathèque Aragon de Choisy-le-Roi</span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"//audio-video.gnu.org/video/#2015-03-16--rms--free-software-and-"
-"your-freedom\">Free Software and Your Freedom</a>, video recording of a talk "
-"given by Richard M. Stallman at Grainger Auditorium in Champaign-Urbana, IL, "
-"USA on March 16, 2015."
+"<a href=\"//audio-video.gnu.org/video/2016-04-16--rms--pour-une-societe-"
+"numerique-libre--choisy-le-roi--france.ogv\" hreflang=\"fr\">video</a>"
 msgstr ""
-"<a href=\"//audio-video.gnu.org/video/#2015-03-16--rms--free-software-and-"
-"your-freedom\">Free Software and Your Freedom</a> (Le logiciel libre et ta "
-"liberté), enregistrement vidéo d'une conférence donnée par Richard M. "
-"Stallman au Grainger Auditorium à Champaign-Urbana, Illinois (USA) le "
-"16 mars 2015."
+"<a href=\"//audio-video.gnu.org/video/2016-04-16--rms--pour-une-societe-"
+"numerique-libre--choisy-le-roi--france.ogv\">vidéo</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">August 3, 2013</span>"
+msgstr "<span class=\"date-tag\">3 août 2013</span>"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"//audio-video.gnu.org/audio/#2014-12-29--rms--freedom-in-your-"
-"computer-and-in-the-net\">Audio</a> and <a href=\"//audio-video.gnu.org/"
-"video/#2014-12-29--rms--freedom-in-your-computer-and-in-the-net\">video</a> "
-"recordings of &ldquo;Free Software in Your Computer and in the Net&rdquo;, a "
-"talk given by Richard M. Stallman at Congress Centrum in Hamburg, Germany on "
-"December 29, 2014."
+"<span class=\"speech-title\"> <a href=\"//www.fsf.org/blogs/rms/20130803-"
+"berlin\"> Induction into the Internet Hall of Fame</a> &mdash; Acceptance "
+"speech</span>"
 msgstr ""
-"Enregistrements <a href=\"//audio-video.gnu.org/audio/#2014-12-29--rms--"
-"freedom-in-your-computer-and-in-the-net\">audio</a> and <a href=\"//audio-"
-"video.gnu.org/video/#2014-12-29--rms--freedom-in-your-computer-and-in-the-net"
-"\">vidéo</a> de <i>« Free Software in Your Computer and in the Net »</i> (Le "
-"logiciel libre dans ton ordinateur et sur le net), une conférence donnée par "
-"Richard M. Stallman au centre des congrès de Hambourg (Allemagne) le "
-"29 décembre 2014."
+"<span class=\"speech-title\"> <a href=\"//www.fsf.org/blogs/rms/20130803-"
+"berlin\" hreflang=\"en\">Intronisation à l'<i>Internet Hall of Fame</i></a> "
+"&mdash; Discours de remerciement</span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"//audio-video.gnu.org/video/#2014-12-04--rms--por-una-sociedad-"
-"digital-libre\">Por una Sociedad Digital Libre (in Spanish)</a>, video "
-"recording of a talk given by Richard M. Stallman at Salón de Actos, Facultad "
-"de Informática de la Universidad Complutense de Madrid in Madrid, Spain on "
-"December 4, 2014."
+"<a href=\"//audio-video.gnu.org/video/2013-08-03--rms--berlin--internet-hall-"
+"of-fame.webm\"> video</a>"
 msgstr ""
-"<a href=\"//audio-video.gnu.org/video/#2014-12-04--rms--por-una-sociedad-"
-"digital-libre\">Por una Sociedad Digital Libre (en espagnol)</a>, "
-"enregistrement vidéo d'une conférence donnée par Richard M. Stallman au "
-"Salón de Actos, Facultad de Informática de la Universidad Complutense de "
-"Madrid à Madrid (Espagne) le 4 décembre 2014."
+"<a href=\"//audio-video.gnu.org/video/2013-08-03--rms--berlin--internet-hall-"
+"of-fame.webm\" hreflang=\"en\">vidéo</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"//audio-video.gnu.org/audio/#2014-11-21--rms--internet-le-logiciel-"
-"libre-et-l-entreprise-libertes-sans-frontiere\">Le logiciel libre et ta "
-"liberté (in French)</a>, audio recording of a talk given by Richard M. "
-"Stallman in Paris, France on November 21, 2014."
+"<span class=\"date-tag\">March 22, 2013</span> <span class=\"lang\">[in "
+"French]</span>"
 msgstr ""
-"<a href=\"//audio-video.gnu.org/audio/#2014-11-21--rms--internet-le-logiciel-"
-"libre-et-l-entreprise-libertes-sans-frontiere\">Le logiciel libre et ta "
-"liberté (en français)</a>, enregistrement vidéo d'une conférence donnée par "
-"Richard M. Stallman à Paris le 21 novembre 2014."
+"<span class=\"date-tag\">22 mars 2013</span> <span class=\"lang\">[en "
+"français]</span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"//audio-video.gnu.org/video/#2014-11-07--rms--copyright-vs-"
-"community\">Copyright vs. Community</a>, video recording of a talk given by "
-"Richard M. Stallman at Hoffman Hall, Portland State University in Portland, "
-"OR, USA on November 7, 2014."
+"<span class=\"speech-title\"> <a href=\"/philosophy/vers-une-societe-"
+"numerique-libre.fr.html\" hreflang=\"fr\"> <i>Vers une société numérique "
+"libre</i></a> [Towards a free digital society]</span>"
 msgstr ""
-"<a href=\"//audio-video.gnu.org/video/#2014-11-07--rms--copyright-vs-"
-"community\">Copyright vs. Community</a> (Copyright contre comunauté), "
-"enregistrement vidéo d'une conférence donnée par Richard M. Stallman au "
-"Hoffman Hall, Portland State University à Portland, Orégon (USA) le "
-"7 novembre 2014."
+"<span class=\"speech-title\"> <a href=\"/philosophy/vers-une-societe-"
+"numerique-libre.fr.html\">Vers une société numérique libre</a></span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"descr\">at the University of Poitiers, France</span>"
+msgstr "<span class=\"descr\">à l'Université de Poitiers</span>"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"//audio-video.gnu.org/video/#2014-10-17-libre-software-libre-"
-"education\">Libre Software, Libre Education</a>, video recording of a talk "
-"given by Richard M. Stallman at Butler Library, Columbia University in New "
-"York, NY, USA on October 17, 2014."
+"<a href=\"https://uptv.univ-poitiers.fr/program/richard-stallman-vers-une-"
+"societe-numerique-libre/video/3736/index/index.html\" hreflang=\"fr\">video</"
+"a>"
 msgstr ""
-"<a href=\"//audio-video.gnu.org/video/#2014-10-17-libre-software-libre-"
-"education\">Libre Software, Libre Education</a>, enregistrement vidéo d'une "
-"conférence donnée par Richard M. Stallman à la Butler Library, Columbia "
-"University à New York (USA) le 17 octobre 2014."
+"<a href=\"https://uptv.univ-poitiers.fr/program/richard-stallman-vers-une-"
+"societe-numerique-libre/video/3736/index/index.html\">vidéo</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">November 2012</span>"
+msgstr "<span class=\"date-tag\">Novembre 2012</span>"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"//audio-video.gnu.org/video/#2014-10-14--stallman--uga\">Should We "
-"Have More Surveillance Than the USSR?</a>, video recording of a talk given "
-"by Richard M. Stallman at The University of Georgia Chapel in Athens, GA, "
-"USA on October 14, 2014."
+"<span class=\"speech-title\"> <a href=\"/philosophy/rms-patents.html\"> "
+"Solutions to the Software Patent Problem</a></span>"
 msgstr ""
-"<a href=\"//audio-video.gnu.org/video/#2014-10-14--stallman--uga\">Should We "
-"Have More Surveillance Than the USSR?</a> (Faut-il que nous ayons plus de "
-"surveillance que l'URSS ?), enregistrement vidéo d'une conférence donnée par "
-"Richard M. Stallman at l'église de l'Université de Géorgie à Athens, Géorgie "
-"(USA), le 14 octobre 2014."
+"<span class=\"speech-title\"> <a href=\"/philosophy/rms-patents.html\"> "
+"Solutions au problème des brevets logiciels</a></span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"//audio-video.gnu.org/video/#2014-07-06--rms--le-logiciel-libre-et-"
-"ta-liberte\">Le logiciel libre et ta liberté (in French)</a>, video "
-"recording of a talk given by Richard M. Stallman at Esplanade Charles de "
-"Gaulle in Montpellier, France on July 06, 2014."
+"<span class=\"descr\">at the Locatelli Center, Santa Clara University</span>"
 msgstr ""
-"<a href=\"//audio-video.gnu.org/video/#2014-07-06--rms--le-logiciel-libre-et-"
-"ta-liberte\">Le logiciel libre et ta liberté (en français)</a>, "
-"enregistrement vidéo d'une conférence donnée par Richard M. Stallman à "
-"l'Esplanade Charles de Gaulle à Montpellier, le 6 juillet 2014."
+"<span class=\"descr\">au Locatelli Center, Université de Santa Clara</span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"//audio-video.gnu.org/video/#2014-05-11--rms--a-free-digital-"
-"society\">A Free Digital Society</a>, video recording of a talk given by "
-"Richard M. Stallman at National Chi Nan University in Puli, Nantou, Taiwan "
-"on May 11, 2014."
+"<a href=\"//audio-video.gnu.org/video/keynote-what-is-the-problem.webm\"> "
+"video</a>"
 msgstr ""
-"<a href=\"//audio-video.gnu.org/video/#2014-05-11--rms--a-free-digital-"
-"society\">A Free Digital Society</a> (Une société numérique libre), "
-"enregistrement vidéo d'une conférence donnée par Richard M. Stallman à "
-"l'Université nationale Chi Nan à Puli, Nantou (Taiwan) le 11 mai 2014."
+"<a href=\"//audio-video.gnu.org/video/keynote-what-is-the-problem.webm\" "
+"hreflang=\"en\"> vidéo</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">October 19, 2011</span>"
+msgstr "<span class=\"date-tag\">19 octobre, 2011</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/free-digital-society.html"
+"\"> A Free Digital Society - What Makes Digital Inclusion Good or Bad?</a> </"
+"span>"
+msgstr ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/free-digital-society.html"
+"\">Une société numérique libre - Qu'est-ce qui rend une société numérique "
+"bonne ou mauvaise ?</a> </span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"descr\">at Sciences Po Paris</span>"
+msgstr "<span class=\"descr\">à Sciences Po Paris</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"//audio-video.gnu.org/video/stallman-sciencespo-freesociety.webm"
+"\"> video</a>"
+msgstr ""
+"<a href=\"//audio-video.gnu.org/video/stallman-sciencespo-freesociety.webm\" "
+"hreflang=\"en\">vidéo</a>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">October 12, 2009</span>"
+msgstr "<span class=\"date-tag\">12 octobre 2009</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/copyright-versus-"
+"community.html\"> Copyright versus Community in the Age of Computer "
+"Networks</a></span>"
+msgstr ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/copyright-versus-"
+"community.html\">Copyright et mondialisation à l'âge des réseaux "
+"informatiques</a></span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"descr\">at the LIANZA conference in Christchurch, New Zealand</"
+"span>"
+msgstr ""
+"<span class=\"descr\">au congrès de l'Association des bibliothèques et de "
+"l'information de Nouvelle-Zélande (LIANZA) à Christchurch</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"//audio-video.gnu.org/audio/Richard_Stallman_LIANZA_09.ogg\"> "
+"audio</a>"
+msgstr ""
+"<a href=\"//audio-video.gnu.org/audio/Richard_Stallman_LIANZA_09.ogg\" "
+"hreflang=\"en\">audio</a>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">October 8, 2009</span>"
+msgstr "<span class=\"date-tag\">8 octobre 2009</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/danger-of-software-"
+"patents.html\"> The Danger of Software Patents</a></span>"
+msgstr ""
+"<span class=\"speech-title\"><a href=\"/philosophy/danger-of-software-"
+"patents.html\">Le danger des brevets logiciels</a></span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"descr\">at Victoria University of Wellington, New Zealand</"
+"span>"
+msgstr ""
+"<span class=\"descr\">à l'Université Victoria de Wellington, Nouvelle-"
+"Zélande</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<a href=\"//audio-video.gnu.org/audio/patentsvuw2009.ogg\"> audio</a>"
+msgstr ""
+"<a href=\"//audio-video.gnu.org/audio/patentsvuw2009.ogg\" hreflang=\"en"
+"\">audio</a>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">July 15, 2008</span>"
+msgstr "<span class=\"date-tag\">15 juillet 2008</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"/education/misc/rms-education-es-"
+"transcription.txt\" hreflang=\"es\"> Free Software and Education</a>, six-"
+"minutes speech</span> <span class=\"lang\">[in Spanish]</span>"
+msgstr ""
+"<span class=\"speech-title\"> <a href=\"/education/misc/rms-education-es-"
+"transcription.txt\" hreflang=\"es\">Free Software et Education</a>, mini-"
+"conférence de 6 minutes</span> <span class=\"lang\">[en espagnol]</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"descr\">at the FKFT2008 Conference, Barcelona, Spain</span>"
+msgstr ""
+"<span class=\"descr\">au congrès FKFT2008 Conference, Barcelone, Espagne</"
+"span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"/education/misc/edu-misc.html#transcription-rms-education\"> "
+"Transcriptions</a> and <a href=\"/education/misc/edu-misc.html#subtitles-rms-"
+"education\"> subtitles</a> in several languages."
+msgstr ""
+"<a href=\"/education/misc/edu-misc.html#transcription-rms-education\"> "
+"Transcriptions</a> et <a href=\"/education/misc/edu-misc.html#subtitles-rms-"
+"education\">sous-titres</a> en plusieurs langues."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"//audio-video.gnu.org/video/rms-education-es.ogv\" hreflang=\"es"
+"\"> Original video</a> in Spanish (no subtitles)"
+msgstr ""
+"<a href=\"//audio-video.gnu.org/video/rms-education-es.ogv\" hreflang=\"es"
+"\">Video sans sous-titres</a>, en espagnol"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"Videos with embedded subtitles in <a href=\"//audio-video.gnu.org/video/rms-"
+"education-es-high-sub.pt-br.ogv\"> Brazilian Portuguese</a>,&nbsp; <a href="
+"\"//audio-video.gnu.org/video/rms-education-es-high-sub.nl.ogv\"> Dutch</a>,"
+"&nbsp; <a href=\"//audio-video.gnu.org/video/rms-education-es-high-sub.en.ogv"
+"\"> English</a>,&nbsp; <a href=\"//audio-video.gnu.org/video/rms-education-"
+"es-high-sub.fr.ogv\"> French</a>,&nbsp; <a href=\"//audio-video.gnu.org/"
+"video/rms-education-es-high-sub.it.ogv\"> Italian</a>,&nbsp; <a href=\"//"
+"audio-video.gnu.org/video/rms-education-es-high-sub.es.ogv\"> Spanish</a>"
+msgstr ""
+"Vidéos avec sous-titres intégrés en \n"
+"<a href=\"//audio-video.gnu.org/video/rms-education-es-high-sub.fr.ogv"
+"\">français</a>,&nbsp; \n"
+"<a href=\"//audio-video.gnu.org/video/rms-education-es-high-sub.en.ogv"
+"\">anglais</a>,&nbsp; \n"
+"<a href=\"//audio-video.gnu.org/video/rms-education-es-high-sub.es.ogv"
+"\">espagnol</a>,&nbsp;<a href=\"//audio-video.gnu.org/video/rms-education-es-"
+"high-sub.it.ogv\">italien</a>,&nbsp; \n"
+"<a href=\"//audio-video.gnu.org/video/rms-education-es-high-sub.nl.ogv"
+"\">néerlandais</a>,&nbsp; \n"
+"<a href=\"//audio-video.gnu.org/video/rms-education-es-high-sub.pt-br.ogv"
+"\">portugais brésilien</a>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"date-tag\">April 3, 2007</span> <span class=\"lang\">[in "
+"French]</span>"
+msgstr ""
+"<span class=\"date-tag\">3 avril 2007</span> <span class=\"lang\">[en "
+"français]</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20210417172347/https://www.librealire.org/conference-de-richard-stallman-"
+"a-l-enst-de-paris\"> Free Software and the GNU Project</a></span>"
+msgstr ""
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20210417172347/https://www.librealire.org/conference-de-richard-stallman-"
+"a-l-enst-de-paris\">Le logiciel libre et le projet GNU</a></span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"descr\">at Télécom Paris (ENST), France</span>"
+msgstr "<span class=\"descr\">à Télécom Paris (ENST), France</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"https://web.archive.org/web/20151018090232/http://media.april.org/"
+"video/RMS-ENST-20070403/RMS03042007.theora.ogg\"> video</a>&nbsp; <a href="
+"\"https://web.archive.org/web/20151018033034/http://media.april.org/video/"
+"RMS-ENST-20070403/RMS03042007.ogg\"> audio</a>"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20151018090232/http://media.april.org/"
+"video/RMS-ENST-20070403/RMS03042007.theora.ogg\">vidéo</a>&nbsp; <a href="
+"\"https://web.archive.org/web/20151018033034/http://media.april.org/video/"
+"RMS-ENST-20070403/RMS03042007.ogg\">audio</a>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">August 2006</span>"
+msgstr "<span class=\"date-tag\">Août 2006</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/rms-kol.html\"> Free "
+"Software and the West Bengal Government</a></span>"
+msgstr ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/rms-kol.html\">Le "
+"logiciel libre dans l'administration du Bengale-Occidental</a></span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"descr\">in Kolkata (formerly Calcutta)</span>"
+msgstr "<span class=\"descr\">à Kolkata (anciennement Calcutta)</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">May 3, 2006</span>"
+msgstr "<span class=\"date-tag\">3 mai 2006</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"https://en.wikisource.org/wiki/"
+"Free_Software_and_Free_Media\"> Free Software and Free Media</a> (by Eben "
+"Moglen)</span>"
+msgstr ""
+"<span class=\"speech-title\"> <a href=\"https://en.wikisource.org/wiki/"
+"Free_Software_and_Free_Media\" hreflang=\"en\"><i>Free Software and Free "
+"Media</i></a> (Logiciel libre et médias libres), par Eben Moglen)</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"descr\">at the Jefferson Market Library in New York, for the "
+"Metropolitan NY Chapter of the Internet Society</span>"
+msgstr ""
+"<span class=\"descr\">à la bibliothèque <i>Jefferson Market Library</i> de "
+"New York, pour le <i>Metropolitan NY Chapter of the Internet Society</i></"
+"span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<a href=\"https://punkcast.com/964/\"> video</a>"
+msgstr "<a href=\"https://punkcast.com/964/\">vidéo</a>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">April 7, 2005</span>"
+msgstr "<span class=\"date-tag\">7 avril 2005</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> Goals and Philosophy of Free Software and the "
+"GNU Project</span>"
+msgstr ""
+"<span class=\"speech-title\"><i>Goals and Philosophy of Free Software and "
+"the GNU Project</i> (Objectifs et philosophie du projet GNU)</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"descr\">at the University of Pittsburgh</span>"
+msgstr "<span class=\"descr\">à l'Université de Pittsburgh</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"https://web.archive.org/web/20180628165142/http://wm-eddie.info/"
+"rms.html\"> introduction</a> (no transcript of the speech)"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20180628165142/http://wm-eddie.info/"
+"rms.html\" hreflang=\"en\">introduction</a> (pas de transcription de la "
+"conférence)"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"https://web.archive.org/web/20160329115124/http://wm-eddie."
+"info/20050407_RMS.ogg\"> audio</a>"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20160329115124/http://wm-eddie."
+"info/20050407_RMS.ogg\" hreflang=\"en\">audio</a>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">October 14, 2004</span>"
+msgstr "<span class=\"date-tag\">14 octobre 2004</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"speech-title\"> The Danger of Software Patents</span>"
+msgstr ""
+"<span class=\"speech-title\"><i>The Danger of Software Patents</i></span> "
+"(Le danger des brevets logiciels)"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"descr\">at the University of New South Wales, Sydney, "
+"Australia</span>"
+msgstr ""
+"<span class=\"descr\">à l'Université de Nouvelle-Galles du Sud, Sydney, "
+"Australie</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"https://web.archive.org/web/20210411070158/http://www.ariel.com.au/"
+"a/rms-unsw.html\"> detailed synopsis</a> by Patrick Jordan (no transcript of "
+"the speech)"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20210411070158/http://www.ariel.com.au/"
+"a/rms-unsw.html\" hreflang=\"en\">résumé détaillé</a> par Patrick Jordan "
+"(pas de transcription de la conférence)"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"https://audio-video.gnu.org/audio/dangers_of_software_patents-"
+"Richard_Stallman-nsw_04.ogg\"> audio</a>"
+msgstr ""
+"<a href=\"https://audio-video.gnu.org/audio/dangers_of_software_patents-"
+"Richard_Stallman-nsw_04.ogg\" hreflang=\"en\"> audio</a>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">June 11, 2004</span>"
+msgstr "<span class=\"date-tag\">11 juin 2004</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/google-engineering-talk."
+"html\"> GNU &amp; The Free Software Foundation</a></span>"
+msgstr ""
+"<span class=\"speech-title\"><a href=\"/philosophy/google-engineering-talk."
+"html\">GNU et la Fondation pour le logiciel libre</a></span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"descr\">an Engineering Tech Talk at Google</span>"
+msgstr ""
+"<span class=\"descr\"><i>Engineering Tech Talk</i> (conférence technique) au "
+"siège de Google</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">February 23, 2004</span>"
+msgstr "<span class=\"date-tag\">23 février 2004</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/moglen-harvard-"
+"speech-2004.html\"> Copyright Law and SCO</a> (by Eben Moglen)</span>"
+msgstr ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/moglen-harvard-"
+"speech-2004.html\">Droit d'auteur et SCO</a>, par Eben Moglen</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"descr\">at Harvard</span>"
+msgstr "<span class=\"descr\">à Harvard</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">February 17, 2004</span>"
+msgstr "<span class=\"date-tag\">17 février 2004</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/nit-india.html\"> Free "
+"Software</a></span>"
+msgstr ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/nit-india.html"
+"\">Logiciel libre</a></span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"descr\">at the National Institute of Technology, "
+"Tiruchirappalli, India</span>"
+msgstr ""
+"<span class=\"descr\">au <i>National Institute of Technology</i>, "
+"Tiruchirappalli, Inde</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">July 16, 2003</span>"
+msgstr "<span class=\"date-tag\">16 juillet 2003</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/wsis-2003.html\"> Free "
+"Software and Sustainable Development</a></span>"
+msgstr ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/wsis-2003.html"
+"\">Logiciel libre et développement durable</a></span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"descr\">at the World Summit on the Information Society</span>"
+msgstr ""
+"<span class=\"descr\">au Sommet mondial sur la société de l'information</"
+"span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">April 21, 2003</span>"
+msgstr "<span class=\"date-tag\">21 avril 2003</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/rieti.html\"> The Future "
+"of Jiyuna (Free) Software</a></span>"
+msgstr ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/rieti.html\">L'avenir du "
+"logiciel libre</a></span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"descr\">at the Research Institute of Economy, Trade and "
+"Industry (RIETI), Japanese Ministry of Economy</span>"
+msgstr ""
+"<span class=\"descr\">au RIETI <i>(Research Institute of Economy, Trade and "
+"Industry)</i>, ministère japonais de l'Économie</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">March 25, 2002</span>"
+msgstr "<span class=\"date-tag\">25 mars 2002</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/software-patents.html\"> "
+"Software Patents - Obstacles to Software Development</a></span>"
+msgstr ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/software-patents.html\"> "
+"Les brevets logiciels, obstacles au développement logiciel</a></span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"descr\">at the University of Cambridge Computer Laboratory</"
+"span>"
+msgstr ""
+"<span class=\"descr\">au Labo d'informatique de l'Université de Cambridge</"
+"span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"//audio-video.gnu.org/audio/#patent-cambridge-2002-03-25\"> audio</"
+"a>"
+msgstr ""
+"<a href=\"//audio-video.gnu.org/audio/#patent-cambridge-2002-03-25\" "
+"hreflang=\"en\">audio</a>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"date-tag\">January 30, 2002</span> <span class=\"lang\">[in "
+"French]</span>"
+msgstr ""
+"<span class=\"date-tag\">30 janvier 2002</span> <span class=\"lang\">[en "
+"français]</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/2002-linuxexpo-paris.fr."
+"html\" hreflang=\"fr\"> <i>L'éthique du système GNU/Linux et de la "
+"communauté des logiciels libres, les tâches à accomplir et les risques à "
+"envisager</i></a> [Ethics of the GNU/Linux system and the free software "
+"community, pending tasks, and foreseeable risks]</span>"
+msgstr ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/2002-linuxexpo-paris.fr."
+"html\">L'éthique du système GNU/Linux et de la communauté des logiciels "
+"libres, les tâches à accomplir et les risques à envisager</a></span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"descr\">at Linux Expo 2002, CNIT de La Défense, Paris, France</"
+"span>"
+msgstr ""
+"<span class=\"descr\">à Linux Expo 2002, CNIT de La Défense, Paris</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"//audio-video.gnu.org/audio/francais/rms-speech-paris-30-jan-2002."
+"ogg\" hreflang=\"fr\">audio</a>"
+msgstr ""
+"<a href=\"//audio-video.gnu.org/audio/francais/rms-speech-paris-30-jan-2002."
+"ogg\">audio</a>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"date-tag\">November 20, 2001</span> <span class=\"lang\">[in "
+"French]</span>"
+msgstr ""
+"<span class=\"date-tag\">November 20, 2001</span> <span class=\"lang\">[en "
+"français]</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"speech-title\"> Free Software and Government</span>"
+msgstr "<span class=\"speech-title\">Logiciel libre et administration</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"descr\">at the French National Assembly</span>"
+msgstr "<span class=\"descr\">à l'Assemblée nationale</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"https://web.archive.org/web/20210414194638/https://www.april.org/"
+"actions/rms/20011120/\" hreflang=\"fr\">transcript of introductory speech by "
+"Noël Mamère</a>"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20210414194638/https://www.april.org/"
+"actions/rms/20011120/\">transcription du discours d'introduction de Noël "
+"Mamère</a>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"https://web.archive.org/web/20220321194812/https://www.april.org/"
+"actions/rms/20011120/stream.html\" hreflang=\"fr\">audio</a>"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20171012124221/http://april.org/"
+"actions/rms/19981110/photos/\">photos</a>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">July 24, 2001</span>"
+msgstr "<span class=\"date-tag\">24 juillet 2001</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/stallman-mec-india.html"
+"\"> The Danger of Software Patents</a></span>"
+msgstr ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/stallman-mec-india.html"
+"\">Le danger des brevets logiciels</a></span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"descr\">at Government Model Engineering College, Kerala, "
+"India</span>"
+msgstr ""
+"<span class=\"descr\">au Model Engineering College de l'État du Kerala, "
+"Inde</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<a href=\"//audio-video.gnu.org/audio/rms-mec-india.ogg\"> audio</a>"
+msgstr ""
+"<a href=\"//audio-video.gnu.org/audio/rms-mec-india.ogg\" hreflang=\"en"
+"\">audio</a>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">May 29, 2001</span>"
+msgstr "<span class=\"date-tag\">29 mai 2001</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/rms-nyu-2001-transcript."
+"html\"> Free Software: Freedom and Cooperation</a></span>"
+msgstr ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/rms-nyu-2001-transcript."
+"html\">Logiciel libre : liberté et coopération</a></span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"descr\">at New York University</span>"
+msgstr "<span class=\"descr\">à New York University</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">April 19, 2001</span>"
+msgstr "<span class=\"date-tag\">19 avril 2001</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/copyright-and-"
+"globalization.html\"> Copyright and Globalization in the Age of Computer "
+"Networks</a></span>"
+msgstr ""
+"<span class=\"speech-title\"><a href=\"/philosophy/copyright-and-"
+"globalization.html\">Copyright et mondialisation à l'âge des réseaux "
+"informatiques</a></span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"descr\">at MIT in the Communications Forum</span>"
+msgstr "<span class=\"descr\">au MIT, dans le Forum des communications</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">July 2000</span>"
+msgstr "<span class=\"date-tag\">Juillet 2000</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/copyright-versus-"
+"community-2000.html\"> Copyright versus Community in the Age of Computer "
+"Networks</a></span>"
+msgstr ""
+"<span class=\"speech-title\"><a href=\"/philosophy/copyright-versus-"
+"community-2000.html\">Copyright et mondialisation à l'âge des réseaux "
+"informatiques</a></span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">December 5, 1998</span>"
+msgstr "<span class=\"date-tag\">5 décembre 1998</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/greve-clown.html\"> "
+"History and Philosophy of the GNU Project</a> (by Georg Greve)</span>"
+msgstr ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/greve-clown.html"
+"\">Histoire et philosophie du projet GNU</a>, par Georg Greve</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"descr\">at the University of Paderborn, Germany</span>"
+msgstr "<span class=\"descr\">à l'Université de Paderborn, Allemagne</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"The speech was given <a href=\"/philosophy/greve-clown.de.html\" hreflang="
+"\"de\"> <span class=\"lang\">in German</span></a>, and subsequently "
+"translated to <a href=\"/philosophy/greve-clown.en.html\">English</a> by the "
+"author."
+msgstr ""
+"Cette conférence a été donnée <a href=\"/philosophy/greve-clown.de.html\" "
+"hreflang=\"de\"><span class=\"lang\">en allemand</span></a>, puis traduite "
+"<a href=\"/philosophy/greve-clown.en.html\" hreflang=\"en\">en anglais</a> "
+"par l'auteur."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"date-tag\">November 10, 1998</span> <span class=\"lang\">[in "
+"French]</span>"
+msgstr ""
+"<span class=\"date-tag\">10 novembre 1998</span> <span class=\"lang\">[en "
+"français]</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20171012122917/http://april.org/files/documents/html/texte.html\" "
+"hreflang=\"fr\"> <i>Logiciel libre</i></a> [Free software]</span>"
+msgstr ""
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20171012122917/http://april.org/files/documents/html/texte.html\">Le "
+"logiciel libre</a></span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"descr\">at Paris 8 University, France</span>"
+msgstr "<span class=\"descr\">à l'Université Paris 8</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"https://web.archive.org/web/20171012124221/http://april.org/"
+"actions/rms/19981110/photos/\"> photos</a>"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20171012124221/http://april.org/"
+"actions/rms/19981110/photos/\">photos</a>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">October 30, 1986</span>"
+msgstr "<span class=\"date-tag\">30 octobre 1986</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/stallman-kth.html\"> The "
+"hacker community and the early days of the free software movement</a> </span>"
+msgstr ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/stallman-kth.html\">La "
+"communauté des hackers et les débuts du mouvement du logiciel libre</a></"
+"span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"descr\">at the Kungliga Tekniska Högskolan (Royal Institute of "
+"Technology) in Stockholm, Sweden</span>"
+msgstr ""
+"<span class=\"descr\">au Kungliga Tekniska Högskolan (Institut royal de "
+"technologie), Stockholm, Suède</span>"
+
+#. type: Content of: <div><h3>
+msgid ""
+"Interviews&nbsp; <small>[<a href=\"#speeches\">Skip to Speeches</a>]</small>"
+msgstr ""
+"Entretiens&nbsp; <small>[<a href=\"#speeches\">&rarr; conférences</a>]</"
+"small>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">September 2018</span>"
+msgstr "<span class=\"date-tag\">Septembre 2018</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"https://newleftreview.org/issues/"
+"ii113/articles/richard-stallman-talking-to-the-mailman.pdf\"> Talking to the "
+"Mailman</a></span>"
+msgstr ""
+"<span class=\"speech-title\"><a href=\"https://newleftreview.org/issues/"
+"ii113/articles/richard-stallman-talking-to-the-mailman\">Talking to the "
+"Mailman</a> (Entretien avec le messager)</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "conducted by Rob Lucas"
+msgstr "mené par Rob Lucas"
+
+#. type: Content of: <div><ul><li><p>
+msgid "(published in the <cite>New Left Review</cite>, issue&nbsp;113)"
+msgstr "(publié dans la <cite>New Left Review</cite>, numéro 113)"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">March 18, 2014</span>"
+msgstr "<span class=\"date-tag\">18 mars 2014</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"speech-title\"> Freedom, Malware &amp; Cannibalism</span>"
+msgstr ""
+"<span class=\"speech-title\">Freedom, Malware &amp; Cannibalism</span> "
+"(Liberté, maliciels et cannibalisme)"
+
+#. type: Content of: <div><ul><li><p>
+msgid "conducted by Justin Hall at the Internet Archive in San Francisco"
+msgstr "mené par Justin Hall à l'Internet Archive, San Francisco"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "<a href=\"https://archive.org/details/"
-"RichardStallmanInterviewByJustinHall201403\"> Freedom, Malware &amp; "
-"Cannibalism</a>, video recording of an interview conducted by Justin Hall in "
-"March, 2014."
+"RichardStallmanInterviewByJustinHall201403\"> introduction</a> (no "
+"transcript of the interview)"
 msgstr ""
-"<i><a href=\"https://archive.org/details/"
-"RichardStallmanInterviewByJustinHall201403\">Freedom, Malware &amp; "
-"Cannibalism</a></i> (Liberté, logiciels malveillants et cannibalisme), "
-"enregistrement vidéo d'un entretien de Richard Stallman avec Justin Hall en "
-"mars 2014."
+"<a href=\"https://archive.org/details/"
+"RichardStallmanInterviewByJustinHall201403\" hreflang=\"en\">introduction</"
+"a> (pas de transcription de l'entretien)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"/philosophy/rms-patents.html\"> Solutions to the Software Patent "
-"Problem</a>, a speech given by Richard Stallman at Locatelli Center, Santa "
-"Clara University, November, 2012."
+"<a href=\"https://archive.org/download/"
+"RichardStallmanInterviewByJustinHall201403/Richard%20Stallman%20Interview"
+"%20by%20Justin%20Hall%202014-03.ogv\"> video</a>"
 msgstr ""
-"<a href=\"/philosophy/rms-patents.html\">Solutions du problème des brevets "
-"logiciels</a>, conférence donnée par Richard Stallman au Locatelli Center, "
-"Université de Santa Clara, en novembre 2012."
+"<a href=\"https://archive.org/download/"
+"RichardStallmanInterviewByJustinHall201403/Richard%20Stallman%20Interview"
+"%20by%20Justin%20Hall%202014-03.ogv\" hreflang=\"en\">vidéo</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">November 12, 2012</span>"
+msgstr "<span class=\"date-tag\">12 novembre 2012</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"speech-title\"> Interview on Hacker Public Radio</span>"
+msgstr "<span class=\"speech-title\">Entretien sur Hacker Public Radio</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "conducted by pokey"
+msgstr "mené par pokey"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"http://hackerpublicradio.org/eps.php?id=1116\"> Audio recording of "
-"Richard Stallman interviewed by Hacker Public Radio</a> conducted on "
-"November 12, 2012"
+"<a href=\"https://web.archive.org/web/20220309092526/https://"
+"hackerpublicradio.org/eps.php?id=1116\"> introduction and comments</a> (no "
+"transcript of the interview)"
 msgstr ""
-"<a href=\"http://hackerpublicradio.org/eps.php?id=1116\">Enregistrement "
-"audio d'un entretien avec Richard Stallman pour <i>Hacker Public Radio</i></"
-"a> (en anglais), le 12 novembre 2012."
+"<a href=\"https://web.archive.org/web/20220309092526/https://"
+"hackerpublicradio.org/eps.php?id=1116\" hreflang=\"en\">introduction et "
+"commentaires</a> (pas de transcription de l'entretien)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"//audio-video.gnu.org/video/#2012-RMS-SFD-Iran\">Welcome to "
-"Software Freedom Day</a>, video recording of a talk given by Richard M. "
-"Stallman at the Free Software Foundation office in Boston, MA, USA on "
-"September 11, 2012 for the Iran Software Freedom Day."
+"<a href=\"https://web.archive.org/web/20191220202249/https://"
+"hackerpublicradio.org/local/hpr1116.ogg\"> audio</a>"
 msgstr ""
-"<a href=\"//audio-video.gnu.org/video/#2012-RMS-SFD-Iran\">Welcome to "
-"Software Freedom Day</a> (Bienvenue à la journée de la liberté), "
-"enregistrement vidéo d'une conférence donnée par Richard M. Stallman au "
-"siège de la Free Software Foundation à Boston, Massachusetts (USA) le "
-"11 septembre 2012 pour la Journée iranienne de la liberté du logiciel."
+"<a href=\"https://web.archive.org/web/20191220202249/https://"
+"hackerpublicradio.org/local/hpr1116.ogg\" hreflang=\"en\">audio</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">May 2012</span>"
+msgstr "<span class=\"date-tag\">Mai 2012</span>"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"/philosophy/ough-interview.html\">Richard Stallman interviewed by "
-"Theodoros Papatheodorou</a>, transcript of an interview conducted in May, "
-"2012."
+"<span class=\"speech-title\"> <a href=\"/philosophy/ough-interview.html\"> "
+"Richard Stallman: A Legend of Informatics</a></span>"
 msgstr ""
-"Transcription (traduite en français) d'un <a href=\"/philosophy/ough-"
-"interview.html\">entretien avec Richard Stallman mené par Theodoros "
-"Papatheodorou</a> en mai 2012."
+"<span class=\"speech-title\"> <a href=\"/philosophy/ough-interview.html\"> "
+"Richard Stallman, une légende de l'informatique</a></span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "conducted by Theodoros Papatheodorou for <cite>OUGH!</cite>"
+msgstr "mené par Theodoros Papatheodorou pour <cite>OUGH!</cite>"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"Richard Stallman was <a href=\"http://liberte-info.net/interviews/"
-"richard_stallman.html\"> interviewed by Medhi on May 14 2012.</a>"
+"(originally published <span class=\"lang\">in Greek</span>, in two parts: <a "
+"href=\"https://web.archive.org/web/20210119115640/https://www.ough.gr/index."
+"php?mod=articles&amp;op=view&amp;id=753\" hreflang=\"el\">Part&nbsp;I</a>, "
+"<a href=\"https://web.archive.org/web/20210422231305/https://www.ough.gr/"
+"index.php?mod=articles&amp;op=view&amp;id=839\" hreflang=\"el\">Part&nbsp;"
+"II</a>)"
 msgstr ""
-"<a href=\"http://liberte-info.net/interviews/richard_stallman.html"
-"\">Entretien (en anglais) de Richard Stallman avec Mehdi</a>, le 14 mai 2012."
+"(publié initialement <span class=\"lang\">en grec</span>, en deux parties : "
+"<a href=\"https://web.archive.org/web/20210119115640/https://www.ough.gr/"
+"index.php?mod=articles&amp;op=view&amp;id=753\" hreflang=\"el\">1re partie</"
+"a>, <a href=\"https://web.archive.org/web/20210422231305/https://www.ough.gr/"
+"index.php?mod=articles&amp;op=view&amp;id=839\" hreflang=\"el\">2e partie</"
+"a>)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">May 14, 2012</span>"
+msgstr "<span class=\"date-tag\">14 mai 2012</span>"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"//audio-video.gnu.org/video/#2012-02-29--rms--free-software-and-"
-"your-freedom\">Free Software and Your Freedom</a>, video recording of a talk "
-"given by Richard M. Stallman at XIX SINFO, Instituto Superior Técnico in "
-"Lisbon, Portugal on February 29, 2012."
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20220320064515/https://liberte-info.net/interviews/richard_stallman.html"
+"\"> The US is democratic in form, but its democracy is so sick that it "
+"hardly functions</a></span>"
 msgstr ""
-"<a href=\"//audio-video.gnu.org/video/#2012-02-29--rms--free-software-and-"
-"your-freedom\">Free Software and Your Freedom</a>, enregistrement vidéo "
-"d'une conférence donnée par Richard M. Stallman à XIX SINFO, Instituto "
-"Superior Técnico, à Lisbonne (Portugal) le 29 février 2012."
+"<span class=\"speech-title\"><a href=\"https://web.archive.org/"
+"web/20220320064515/https://liberte-info.net/interviews/richard_stallman.html"
+"\">The US is democratic in form, but its democracy is so sick that it hardly "
+"functions</a> (Les États-Unis sont démocratiques dans la forme, mais leur "
+"démocratie est si malade qu'elle fonctionne à peine)</span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "conducted by Mehdi for <cite>Liberté Info</cite>"
+msgstr "mené par Mehdi pour <cite>Liberté Info</cite>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">January 19, 2012</span>"
+msgstr "<span class=\"date-tag\">19 janvier 2012</span>"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"/philosophy/rms-aj.html\">RMS on Alex Jones Show</a>, transcript "
-"of an interview conducted on January 19, 2012."
+"<span class=\"speech-title\"> <a href=\"/philosophy/rms-aj.html\"> Richard "
+"Stallman Discusses SOPA and PIPA on the Alex Jones Show</a></span>"
 msgstr ""
-"<a href=\"/philosophy/rms-aj.html\">RMS à l'<i>Alex Jones Show</i></a>, "
-"transcription (traduite en français) d'un entretien du 19 janvier 2012."
+"<span class=\"speech-title\"><a href=\"/philosophy/rms-aj.html\">Richard "
+"Stallman discute de SOPA et PIPA à l'<i>Alex Jones Show</i></a></span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"/philosophy/free-digital-society.html\">A Free Digital Society</"
-"a>, transcript of a talk by <a href=\"http://www.stallman.org\">Richard "
-"Stallman</a>."
+"The interview was conducted the day after the global web blackout protests, "
+"that <a href=\"https://web.archive.org/web/20120118201902/http://www.gnu.org/"
+"\"> gnu.org&nbsp;joined</a>."
 msgstr ""
-"<a href=\"/philosophy/free-digital-society.html\">Une société numérique "
-"libre</a>, transcription (traduite en français) d'un discours de <a href="
-"\"http://www.stallman.org\">Richard Stallman</a>."
+"Cet entretien a été mené le lendemain du black-out mondial du web en "
+"protestation contre ces projets de loi, <a href=\"https://web.archive.org/"
+"web/20120118201902/http://www.gnu.org/\">black-out auquel s'était joint gnu."
+"org</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"/philosophy/the-law-of-success-2.html\">The Law of Success 2.0: An "
-"Interview with Richard Stallman</a>, with Haegwan Kim, posted November 4, "
-"2010."
+"<a href=\"https://inv.bp.projectsegfau.lt/watch?v=fwz_vMdxmDU\"> video</a> "
+"(does not include Alex Jones' introduction)"
 msgstr ""
-"<a href=\"/philosophy/the-law-of-success-2.html\">La loi de la réussite "
-"2.0 : un entretien avec Richard Stallman</a> conduit par Haegwan Kim, mis en "
-"ligne le 4 novembre 2010 (traduit en français)."
+"<a href=\"https://inv.bp.projectsegfau.lt/watch?v=fwz_vMdxmDU\">vidéo</a> "
+"(sans l'introduction d'Alex Jones)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">November 4, 2010</span>"
+msgstr "<span class=\"date-tag\">4 novembre 2010</span>"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"http://www.greenleft.org.au/node/45532\">Richard Stallman and the "
-"free software movement</a>, transcript of an interview with <a href=\"http://"
-"www.stallman.org\">Richard Stallman</a>."
+"<span class=\"speech-title\"> <a href=\"/philosophy/the-law-of-success-2.html"
+"\"> The Law of Success 2.0: An Interview with Richard Stallman</a></span>"
 msgstr ""
-"<i><a href=\"http://www.greenleft.org.au/node/45532\">Richard Stallman and "
-"the Free Software Movement</a></i> (Richard Stallman et le mouvement du "
-"logiciel libre), transcription d'un entretien avec <a href=\"http://www."
-"stallman.org\">Richard Stallman</a>."
+"<span class=\"speech-title\"><a href=\"/philosophy/the-law-of-success-2.html"
+"\">La loi de la réussite 2.0 : un entretien avec Richard Stallman</a></span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "conducted by Haegwan Kim"
+msgstr "mené par Haegwan Kim"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">September 28, 2010</span>"
+msgstr "<span class=\"date-tag\">28 septembre 2010</span>"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"/philosophy/rms-on-radio-nz.html\">RMS on Radio New Zealand</a>.  "
-"Transcript of an interview with Richard Stallman, October 2009."
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20211026085549/https://www.greenleft.org.au/content/richard-stallman-and-"
+"free-software-movement\"> Richard Stallman and the Free Software Movement</"
+"a></span>"
 msgstr ""
-"<a href=\"/philosophy/rms-on-radio-nz.html\">RMS sur Radio New Zealand</a>, "
-"transcription (traduite en français) d'un entretien avec Richard Stallman "
-"datant d'octobre 2009."
+"<span class=\"speech-title\"><a href=\"https://web.archive.org/"
+"web/20211026085549/https://www.greenleft.org.au/content/richard-stallman-and-"
+"free-software-movement\" hreflang=\"en\">Richard Stallman and the Free "
+"Software Movement</a> (Richard Stallman et le mouvement du logiciel libre)</"
+"span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "conducted by Greg Adamson for <cite>Green Left</cite>"
+msgstr "mené par Greg Adamson pour <cite>Green Left</cite>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">October 2009</span>"
+msgstr "<span class=\"date-tag\">October 2009</span>"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"/philosophy/copyright-versus-community.html\" id=\"StallmanTalkLSM"
-"\">Copyright versus community in the age of computer networks</a>: "
-"transcript of a keynote by Richard Stallman at the LIANZA conference in "
-"Christchurch, New Zealand, on October 12, 2009."
+"<span class=\"speech-title\"> <a href=\"/philosophy/rms-on-radio-nz.html\"> "
+"RMS on Radio NZ - October 2009</a></span>"
 msgstr ""
-"<a href=\"/philosophy/copyright-versus-community.html\" id=\"StallmanTalkLSM"
-"\">Copyright contre communauté à l'âge des réseaux informatiques</a> : "
-"transcription (traduite en français) d'un discours de Richard Stallman au "
-"congrès de l'Association des bibliothèques et de l'information de Nouvelle-"
-"Zélande (LIANZA) à Christchurch, Nouvelle-Zélande, le 12 octobre 2009."
+"<span class=\"speech-title\"> <a href=\"/philosophy/rms-on-radio-nz.html\"> "
+"RMS sur Radio NZ - Octobre 2009</a></span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "conducted by Kim Hill for Radio New Zealand"
+msgstr "mené par Kim Hill pour Radio New Zealand"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"/philosophy/danger-of-software-patents.html\">The Danger of "
-"Software Patents</a>, transcript of a talk by <a href=\"http://www.stallman."
-"org\">Richard Stallman</a>."
+"Main topics: surveillance, &ldquo;war on terrorism,&rdquo; free trade "
+"treaties, DRM, supporting artists, and more."
 msgstr ""
-"<a href=\"/philosophy/danger-of-software-patents.html\">Le danger des "
-"brevets logiciels</a>, transcription (traduite en français) d'un discours de "
-"<a href=\"http://www.stallman.org\">Richard Stallman</a>."
+"Sujets principaux : surveillance, « guerre contre le terrorisme », traités "
+"de libre échange, DRM, soutien aux artistes et autres."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">April 13, 2009</span>"
+msgstr "<span class=\"date-tag\">13 avril 2009</span>"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"http://broadcast.oreilly.com/2009/04/stallman-discusses-free-"
-"softwa.html\">Transcript of an interview with Richard Stallman</a> conducted "
-"by Federico Biancuzzi for O'Reilly Media. As well as a wide-ranging "
-"discussion of developments in Free Software licencing the interview covers "
-"issues including the history and current activities of the FSF, the spread "
-"of DMCA-like laws around the world, software patents and the need for free "
-"device drivers."
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20090430053331/http://broadcast.oreilly.com/2009/04/stallman-discusses-"
+"free-softwa.html\"> Stallman Discusses Free Software and GPLv3</a></span>"
 msgstr ""
-"Transcription d'un <a href=\"http://broadcast.oreilly.com/2009/04/stallman-"
-"discusses-free-softwa.html\">entretien avec Richard Stallman</a> mené (en "
-"anglais) par Federico Biancuzzi pour O'Reilly Media. L'entretien couvre une "
-"large discussion des licences de logiciel libre ainsi que l'histoire et les "
-"activités actuelles de la FSF, l'expansion de lois similaires à la loi DMCA "
-"dans le monde, les brevets logiciels et le besoin de pilotes de "
-"périphériques libres."
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20090430053331/http://broadcast.oreilly.com/2009/04/stallman-discusses-"
+"free-softwa.html\" hreflang=\"en\">Stallman Discusses Free Software and "
+"GPLv3</a> (Stallman discute du logiciel libre et de la GPLv3)</span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "conducted by Federico Biacuzzi for <cite>O’Reilly Media</cite>"
+msgstr "mené par Federico Biacuzzi pour <cite>O’Reilly Media</cite>"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"http://web.archive.org/web/20111114124839/http://nb.inode.co.nz/"
-"articles/rmsrnz/index.html\">Transcript of an interview</a> with Richard "
-"Stallman for Radio New Zealand, conducted by Kim Hill on August 9, 2008.  It "
-"covers various topics &mdash; free software, the dawn of the free software "
-"movement, the fallacy of the term &ldquo;intellectual property&rdquo;, "
-"Google's services and New Zealand's Copyright laws."
+"As well as a wide-ranging discussion of developments in free software "
+"licensing, the interview covers issues including the history and current "
+"activities of the FSF, the spread of DMCA-like laws around the world, "
+"software patents and the need for free device drivers."
 msgstr ""
-"Transcription d'un <a href=\"http://web.archive.org/web/20111114124839/"
-"http://nb.inode.co.nz/articles/rmsrnz/index.html\">entretien avec "
-"Richard Stallman</a> mené par Kim Hill pour Radio New Zealand le "
-"9 août 2008. Il couvre divers sujet : les logiciels libres, la naissance du "
-"mouvement du logiciel libre, l'idée fausse que comporte le terme « propriété "
-"intellectuelle », les services de Google et les lois sur le copyright en "
-"Nouvelle-Zélande."
+"L'entretien couvre une large discussion des licences de logiciel libre ainsi "
+"que l'histoire et les activités actuelles de la FSF, l'expansion de lois "
+"similaires à la loi DMCA dans le monde, les brevets logiciels et le besoin "
+"de pilotes de périphériques libres."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">September 28, 2008</span>"
+msgstr "<span class=\"date-tag\">28 september 2008</span>"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"http://web.archive.org/web/20090516000904/http://www.zeuux.org/"
-"philosophy/billxu-rms-fsm-ancient-to-gplv2.html\"> Free Software Movement: "
-"From Genesis to the GNU GPL version 2</a>, an interview with Richard "
-"Stallman conducted by Bill Xu (<a href=\"http://web.archive.org/"
-"web/20100621084138/http://www.zeuux.org/philosophy/billxu-rms-fsm-ancient-to-"
-"gplv2.cn.html\">Chinese version</a> also available)."
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20090516000904/http://www.zeuux.org/philosophy/billxu-rms-fsm-ancient-to-"
+"gplv2.html\"> Free Software Movement: From Genesis to the GNU GPL version 2</"
+"a> (v.1.8)</span>"
 msgstr ""
-"<i><a href=\"http://web.archive.org/web/20090516000904/http://www.zeuux.org/"
-"philosophy/billxu-rms-fsm-ancient-to-gplv2.html\">Free Software Movement: "
-"From Genesis to the GNU GPL version 2</a></i> (Mouvement du logiciel libre : "
-"de la génèse à la GNU GPL version 2), un entretien avec Richard Stallman "
-"mené par Bill Xu (la <a href=\"http://web.archive.org/web/20100621084138/"
-"http://www.zeuux.org/philosophy/billxu-rms-fsm-ancient-to-gplv2.cn.html"
-"\">version chinoise</a> est également disponible)."
+"<span class=\"speech-title\"><i><a href=\"http://web.archive.org/"
+"web/20090516000904/http://www.zeuux.org/philosophy/billxu-rms-fsm-ancient-to-"
+"gplv2.html\" hreflang=\"en\">Free Software Movement: From Genesis to the GNU "
+"GPL version 2</a></i> [v.1.8] (Mouvement du logiciel libre : de la génèse à "
+"la GNU GPL version 2)</span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "conducted by Bill Xu for <cite>Zeuux</cite>"
+msgstr "mené par Bill Xu pour <cite>Zeuux</cite>"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"//audio-video.gnu.org/video/copy_vs_comm.ogg\">Video recording of "
-"Copyright vs. Community speech</a> with <a href=\"//audio-video.gnu.org/"
-"video/copy_vs_comm.txt\">brief text description</a>, given by Richard "
-"Stallman on July 5, 2007 in Mississauga, Ontario, Canada."
+"(also published <a href=\"https://web.archive.org/web/20100621084138/http://"
+"www.zeuux.org/philosophy/billxu-rms-fsm-ancient-to-gplv2.cn.html\" hreflang="
+"\"zh-cn\"><span class=\"lang\">in Chinese</span></a>)"
 msgstr ""
-"<a href=\"//audio-video.gnu.org/video/copy_vs_comm.ogg\">Enregistrement "
-"vidéo de <i>Copyright vs. Community</i></a> (Copyright contre communauté), "
-"conférence donnée par Richard Stallman le 5 juillet 2007 à Mississauga, "
-"Ontario, Canada (avec une <a href=\"//audio-video.gnu.org/video/copy_vs_comm."
-"txt\">brève description</a>)."
+"(également publié <a href=\"https://web.archive.org/web/20100621084138/"
+"http://www.zeuux.org/philosophy/billxu-rms-fsm-ancient-to-gplv2.cn.html\" "
+"hreflang=\"zh-cn\"><span class=\"lang\">en chinois</span></a>)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">August 9, 2008</span>"
+msgstr "<span class=\"date-tag\">9 aoüt 2008</span>"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"/philosophy/rms-kol.html\">Transcript of a speech</a> given by <a "
-"href=\"http://www.stallman.org\">Richard Stallman</a> about free software "
-"and the West Bengal government, in Kolkata (formerly Calcutta) on August, "
-"2006."
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20111114124839/http://nb.inode.co.nz/articles/rmsrnz/index.html\"> RMS "
+"on Radio NZ - August 2008</a></span>"
 msgstr ""
-"Transcription (traduite en français) d'une conférence sur <a href=\"/"
-"philosophy/rms-kol.html\">le logiciel libre dans l'administration du Bengale-"
-"Occidental</a>, donnée par <a href=\"http://www.stallman.org"
-"\">Richard Stallman</a> à Kolkata (anciennement Calcutta) en août 2006."
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20111114124839/http://nb.inode.co.nz/articles/rmsrnz/index.html\" "
+"hreflang=\"en\">RMS on Radio NZ - August 2008</a> (RMS sur Radio NZ - "
+"Octobre 2009)</span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"http://archive.org/details/QuestionsPleaseOnFreeSoftware"
-"\">Jonathan Roberts interviews Richard Stallman and others</a> on free "
-"software."
+"It covers various topics: free software, the dawn of the free software "
+"movement, the fallacy of the term &ldquo;intellectual property,&rdquo; "
+"Google's services and New Zealand's copyright laws."
 msgstr ""
-"Jonathan Roberts s'entretient avec Richard Stallman et d'autres sur <a href="
-"\"http://archive.org/details/QuestionsPleaseOnFreeSoftware\">le logiciel "
-"libre</a> (en anglais)."
+"Sujets principaux : le logiciel libre, la naissance du mouvement du logiciel "
+"libre, l'idée fausse que suggère le terme « propriété intellectuelle », les "
+"services de Google et le droit du copyright en Nouvelle-Zélande."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">July 7, 2008</span>"
+msgstr "<span class=\"date-tag\">7 juillet 2008</span>"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"http://web.archive.org/web/20090907065901/http://www.zeuux.org/law/"
-"billxu-rms-drm.html\">Bill Xu interviews Richard Stallman on DRM</a>. You "
-"can also read it <a href=\"http://web.archive.org/web/20100621070721/http://"
-"www.zeuux.org/law/billxu-rms-drm.cn.html\">in Chinese</a>."
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20090117072920/http://www.zeuux.org/law/billxu-rms-drm.html\"> Join the "
+"FSF to Eliminate DRM</a> (v.1.5)</span>"
 msgstr ""
-"Bill Xu s'entretient avec Richard Stallman sur <a href=\"http://web.archive."
-"org/web/20090907065901/http://www.zeuux.org/law/billxu-rms-drm.html\">les "
-"DRM</a> (en anglais). Vous pouvez aussi lire ce texte <a href=\"http://web."
-"archive.org/web/20100621070721/http://www.zeuux.org/law/billxu-rms-drm.cn."
-"html\">en chinois</a>."
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20090117072920/http://www.zeuux.org/law/billxu-rms-drm.html\"> Join the "
+"FSF to Eliminate DRM</a> [v.1.5] (Rejoignez la FSF pour éliminer les DRM)</"
+"span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"Eben Moglen, <a href=\"http://punkcast.com/964/\">Free Software and Free "
-"Media</a>, at the Jefferson Market Library in New York, New York, May 3, "
-"2006 for the Metropolitan NY Chapter of the Internet Society"
+"(also published <a href=\"https://web.archive.org/web/20100621070721/http://"
+"www.zeuux.org/law/billxu-rms-drm.cn.html\" hreflang=\"zh-cn\"><span class="
+"\"lang\">in Chinese</span></a>)"
 msgstr ""
-"<a href=\"http://punkcast.com/964/\">Free Software and Free Media</a> "
-"(Logiciels libres et médias libres), conférence donnée par Eben Moglen à la "
-"bibliothèque <i>Jefferson Market Library</i> de New York, le 3 mai 2006 pour "
-"le <i>Metropolitan NY Chapter of the Internet Society</i>."
+"(également publié <a href=\"https://web.archive.org/web/20100621070721/"
+"http://www.zeuux.org/law/billxu-rms-drm.cn.html\" hreflang=\"zh-cn\"><span "
+"class=\"lang\">en chinois</span></a>)"
 
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"https://www.countercurrents.org/stallman201205.htm\"> Richard "
-"Stallman interviewed</a> by Justin Podur on Free Software as a Social "
-"Movement, 01 December 2005"
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">April 13, 2008</span>"
+msgstr "<span class=\"date-tag\">13 avril 2008</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"speech-title\"> Questions Please on Free Software</span>"
+msgstr "<span class=\"speech-title\">Questions Please on Free Software</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "interview of Richard Stallman and others by Jonathan Roberts"
 msgstr ""
-"Entretien (en anglais) avec Richard Stallman sur <a href=\"https://www."
-"countercurrents.org/stallman201205.htm\">le logiciel libre en tant que "
-"mouvement social</a>, mené par Justin Podur le 1er décembre 2005."
+"Jonathan Roberts s'entretient avec Richard Stallman et d'autres sur le "
+"logiciel libre"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"http://www.onlamp.com/pub/a/onlamp/2005/09/22/gpl3.html\">Richard "
-"Stallman interviewed</a> by Federico Biancuzzi about the importance of the "
-"GPL, for ONLamp.com, 22 September 2005"
+"<a href=\"https://archive.org/details/QuestionsPleaseOnFreeSoftware\"> "
+"introduction</a> (no transcript of the interview)"
 msgstr ""
-"Richard Stallman interrogé (en anglais) sur <a href=\"http://www.onlamp.com/"
-"pub/a/onlamp/2005/09/22/gpl3.html\">l'importance de la GPL</a> par Federico "
-"Biancuzzi, pour ONLamp.com, le 22 septembre 2005."
+"<a href=\"https://archive.org/details/QuestionsPleaseOnFreeSoftware\" "
+"hreflang=\"en\">introduction</a> (pas de transcription)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"https://web.archive.org/web/20180628165142/http://wm-eddie.info/"
-"rms.html\">Presentation of the goals and philosophy of the GNU operating "
-"system</a> by <a href=\"http://www.stallman.org\">Richard Stallman</a> at "
-"the University of Pittsburgh, April 7th 2005"
+"<a href=\"https://archive.org/download/QuestionsPleaseOnFreeSoftware/"
+"Questions_please_1.mp3\"> audio</a>"
 msgstr ""
-"<a href=\"https://web.archive.org/web/20180628165142/http://wm-eddie.info/"
-"rms.html\">Présentation des buts et de la philosophie du système "
-"d'exploitation GNU</a> par <a href=\"http://www.stallman.org"
-"\">Richard Stallman</a>, à l'Université de Pittsburgh le 7 avril 2005."
+"<a href=\"https://archive.org/download/QuestionsPleaseOnFreeSoftware/"
+"Questions_please_1.mp3\" hreflang=\"en\">audio</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">December 01, 2005</span>"
+msgstr "<span class=\"date-tag\">1er décembre 2005</span>"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"http://www.stallman.org\">Richard Stallman</a>'s <a href=\"https://"
-"web.archive.org/web/20050517082933/http://www.ofb.biz/modules.php?"
-"name=News&amp;file=article&amp;sid=353\"> interview</a> with Timothy R. "
-"Butler on &ldquo;The state of GNU/Linux&rdquo;, 31 March 2005."
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20220310132952/https://www.countercurrents.org/stallman201205.htm\"> "
+"Free Software as a Social Movement</a></span>"
 msgstr ""
-"Timothy R. Butler interroge <a href=\"http://www.stallman.org"
-"\">Richard Stallman</a> (en anglais) sur <a href=\"https://web.archive.org/"
-"web/20050517082933/http://www.ofb.biz/modules.php?name=News&amp;"
-"file=article&amp;sid=353\">l'état d'avancement de GNU/Linux</a>, le "
-"31 mars 2005."
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20220310132952/https://www.countercurrents.org/stallman201205.htm\" "
+"hreflang=\"en\">Free Software as a Social Movement</a> (Le logiciel libre, "
+"un mouvement sociétal</span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "conducted by Justin Podur for <cite>Countercurrents</cite>"
+msgstr "mené par Justin Podur pour <cite>Countercurrents</cite>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">September 22, 2005</span>"
+msgstr "<span class=\"date-tag\">22 septembre 2005</span>"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"/philosophy/rms-kernel-trap-interview.html\">Interview with "
-"Richard Stallman</a> by Jeremy Andrews in 2005."
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20051001021518/http://www.onlamp.com/pub/a/onlamp/2005/09/22/gpl3.html"
+"\"> The GNU GPL Is Here to Stay</a></span>"
 msgstr ""
-"<a href=\"/philosophy/rms-kernel-trap-interview.html\">Entretien avec "
-"Richard Stallman</a> mené par Jeremy Andrews en 2005"
+"<span class=\"speech-title\"><a href=\"https://web.archive.org/"
+"web/20051001021518/http://www.onlamp.com/pub/a/onlamp/2005/09/22/gpl3.html\" "
+"hreflang=\"en\">The GNU GPL Is Here to Stay</a></span> (La GPL est là pour "
+"de bon)"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "conducted by Federico Biancuzzi for <cite>ONLamp.com</cite>"
+msgstr "mené par Federico Biancuzzi pour <cite>ONLamp.com</cite>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">March 31, 2005</span>"
+msgstr "<span class=\"date-tag\">31 mars 2005</span>"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"/philosophy/google-engineering-talk.html\">GNU &amp; The Free "
-"Software Foundation</a>, an Engineering Tech Talk at Google by <a href="
-"\"http://www.stallman.org\">Richard Stallman</a>, 2004"
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20071006051044/http://www.ofb.biz/article.pl?sid=353\"> Stallman on the "
+"State of GNU/Linux</a></span>"
 msgstr ""
-"<a href=\"/philosophy/google-engineering-talk.html\">GNU et la Fondation "
-"pour le logiciel libre</a> : une conférence (traduite en français) de la "
-"série <i>Engineering Tech Talk</i> de Google, donnée par <a href=\"http://"
-"www.stallman.org\">Richard Stallman</a> en 2004."
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20071006051044/http://www.ofb.biz/article.pl?sid=353\" hreflang=\"en"
+"\">Stallman on the State of GNU/Linux</a> (Stallman fait le point sur GNU/"
+"Linux)</span> "
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "conducted by Timothy R. Butler for <cite>Open for Business</cite>"
+msgstr "mené par Timothy R. Butler pour <cite>Open for Business</cite>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">January 4, 2005</span>"
+msgstr "<span class=\"date-tag\">4 janvier 2005</span>"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"/philosophy/nit-india.html\">Transcript of a speech</a> on free "
-"software given by <a href=\"http://www.stallman.org\"> Richard M. Stallman</"
-"a> at National Institute of Technology, Trichy, India, 17 February 2004."
+"<span class=\"speech-title\"> <a href=\"/philosophy/rms-kernel-trap-"
+"interview.html\"> Interview for <cite>KernelTrap</cite></a></span>"
 msgstr ""
-"Transcription (traduite en français) d'une conférence sur <a href=\"/"
-"philosophy/nit-india.html\">le logiciel libre</a>, donnée par <a href="
-"\"http://www.stallman.org\">Richard M. Stallman</a> au <i>National Institute "
-"of Technology</i>, Trichy (Inde), le 17 février 2004."
+"<span class=\"speech-title\"><a href=\"/philosophy/rms-kernel-trap-interview."
+"html\">Entretien pour <cite>KernelTrap</cite></a></span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
+msgid "conducted by Jeremy Andrews"
+msgstr "mené par Jeremy Andrews"
+
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"http://www.stallman.org\">Richard Stallman</a>'s <a href=\"http://"
-"web.archive.org/web/20050310003435/http://www.neteconomie.com/perl/navig.pl/"
-"neteconomie/infos/article/20041208104640\"> interview with NetEconomie.com "
-"[Archived Page]</a> (In French) 10 December 2004"
+"It covers topics such as Stallman's background as a programmer, the founding "
+"of the GNU Project and the FSF and Stallman's transition to activism, the "
+"naming controversies, the Hurd, Emacs, whether free software affects "
+"unemployment and low wages, some new technologies, and more."
 msgstr ""
-"<a href=\"http://web.archive.org/web/20050310003435/http://www.neteconomie."
-"com/perl/navig.pl/neteconomie/infos/article/20041208104640\">NetEconomie.com "
-"s'entretient avec Richard Stallman</a> le 10 décembre 2004 (en français)."
+"Sujets abordés : les débuts de Stallman comme programmeur, la fondation du "
+"projet GNU et de la FSF, l'évolution de Stallman vers l'activisme, le Hurd, "
+"Emacs, l'effet éventuel du logiciel libre sur le chômage et les bas "
+"salaires, certaines nouvelles technologies et plus encore."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"https://web.archive.org/web/20210411070158/http://www.ariel.com.au/"
-"a/rms-unsw.html\"> Synopsis of a speech</a> given by <a href=\"http://www."
-"stallman.org\">Richard M. Stallman</a> about software patents on 14 October "
-"2004."
+"<span class=\"date-tag\">December 10, 2004</span> <span class=\"lang\">[in "
+"French]</span>"
 msgstr ""
-"<a href=\"https://web.archive.org/web/20210411070158/http://www.ariel.com.au/"
-"a/rms-unsw.html\">Résumé en anglais d'une conférence sur les brevets "
-"logiciels</a> donnée par <a href=\"http://www.stallman.org"
-"\">Richard M. Stallman</a> le 14 octobre 2004."
+"<span class=\"date-tag\">December 10, 2004</span> <span class=\"lang\">[en "
+"français]</span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"/philosophy/rms-interview-edinburgh.html\">Interview</a> with "
-"Richard Stallman that took place at the School of Informatics, Edinburgh "
-"University, on 27<sup>th</sup> May 2004.  Originally published at Indymedia, "
-"most of the questions are about the relationship between the free software "
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20050310003435/http://www.neteconomie.com/perl/navig.pl/neteconomie/"
+"infos/article/20041208104640\" hreflang=\"fr\"> <i>Richard « GNU » Stallman "
+"précise son point de vue sur les brevets logiciels</i></a> [Richard &ldquo;"
+"GNU&rdquo; Stallman clarifies his views on software patents]</span>"
+msgstr ""
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20050310003435/http://www.neteconomie.com/perl/navig.pl/neteconomie/"
+"infos/article/20041208104640\"> <i>Richard « GNU » Stallman précise son "
+"point de vue sur les brevets logiciels</i></a></span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "conducted by Ariane Beky for <cite>NetEconomie</cite>"
+msgstr "mené par Ariane Beky pour <cite>NetEconomie</cite>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">May 27, 2004</span>"
+msgstr "<span class=\"date-tag\">27 mai 2004</span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<span class=\"speech-title\"> <a href=\"/philosophy/rms-interview-edinburgh."
+"html\"> Free Software, Free Society!</a></span>"
+msgstr ""
+"<span class=\"speech-title\"><a href=\"/philosophy/rms-interview-edinburgh."
+"html\">Logiciel libre, société libre !</a></span>"
+
+#. type: Content of: <div><ul><li><p>
+msgid "at the Edinburgh University Informatics Colloquium"
+msgstr "au Colloque d'informatique de l'Université d'Édimbourg"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"Most of the questions are about the relationship between the free software "
 "movement and other social movements, and the different values of the &ldquo;"
 "open source&rdquo; campaign."
 msgstr ""
-"<a href=\"/philosophy/rms-interview-edinburgh.html\">Entretien</a> avec "
-"Richard Stallman à la <i>School of Informatics</i>, Université d'Édimbourg, "
-"le 27 mai 2004, initialement publié sur Indymedia. La plupart des questions "
-"portent sur le mouvement du logiciel libre et les autres mouvements sociaux, "
-"ainsi que sur les différences entre leurs valeurs et celles de la campagne "
-"pour l'« open source »."
+"La plupart des questions portent sur le mouvement du logiciel libre et les "
+"autres mouvements sociaux, ainsi que sur les différences entre leurs valeurs "
+"et celles de la campagne pour l'« open source »."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"http://web.archive.org/web/20040603002019/http://laurel.datsi.fi."
-"upm.es/~fsanchez/rms/\" > Web page with interviews/audio/video from speeches "
-"in Madrid (May 2004) [Archived Page]</a> given by <a href=\"http://www."
-"stallman.org\">Richard M. Stallman</a> (site is in Spanish)"
+"<a href=\"//audio-video.gnu.org/audio/rms-interview-edinburgh-11k-270504.ogg"
+"\"> audio</a>"
 msgstr ""
-"<a href=\"http://web.archive.org/web/20040603002019/http://laurel.datsi.fi."
-"upm.es/~fsanchez/rms/\">Page web [archivée] avec des entretiens audio et "
-"vidéo de conférences données à Madrid en mai 2004</a> par <a href=\"http://"
-"www.stallman.org\">Richard M. Stallman</a> (le site est en espagnol)."
+"<a href=\"//audio-video.gnu.org/audio/rms-interview-edinburgh-11k-270504.ogg"
+"\" hreflang=\"en\">audio</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"/philosophy/moglen-harvard-speech-2004.html\" >Transcript of a "
-"speech</a> about copyright law and SCO given by <a href=\"http://emoglen.law."
-"columbia.edu/\" >Prof. Eben Moglen</a> at Harvard on 23 February, 2004."
+"<span class=\"date-tag\">April 27, 2004</span> <span class=\"lang\">[in "
+"Spanish]</span>"
 msgstr ""
-"Transcription (traduite en français) d'une <a href=\"/philosophy/moglen-"
-"harvard-speech-2004.html\">conférence sur le droit du copyright et l'affaire "
-"SCO</a> donnée à Harvard par le <a href=\"http://emoglen.law.columbia.edu/"
-"\">Professeur Eben Moglen</a> le 23 février 2004."
+"<span class=\"date-tag\">April 27, 2004</span><span class=\"lang\">[en "
+"espagnol]</span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"/philosophy/wsis-2003.html\">Transcript of a speech</a> about free "
-"software and sustainable development given by <a href=\"http://www.stallman."
-"org\">Richard M. Stallman</a> at WSIS, 16 July 2003."
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20220320232131/https://www.elmundo.es/navegante/2004/04/27/"
+"entrevistas/1083074999.html\" hreflang=\"es\"> <i>La única manera de ser "
+"libre es rechazar los programas propietarios</i></a> [The only way to be "
+"free is to refuse proprietary software]</span>"
 msgstr ""
-"Transcription (traduite en français) d'une conférence sur <a href=\"/"
-"philosophy/wsis-2003.html\">les logiciels libres et le développement "
-"durable</a>, donnée par <a href=\"http://www.stallman.org"
-"\">Richard M. Stallman</a> au <abbr title=\"Sommet mondial sur la société de "
-"l'information\">SMSI</abbr> le 16 juillet 2003."
+"<span class=\"speech-title\"><a href=\"https://web.archive.org/"
+"web/20220320232131/https://www.elmundo.es/navegante/2004/04/27/"
+"entrevistas/1083074999.html\" hreflang=\"es\"> <i>La única manera de ser "
+"libre es rechazar los programas propietarios</i></a> (le seul moyen d'être "
+"libre est de refuser le logiciel privateur)</span>"
 
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"/philosophy/rieti.html\">Transcript of a speech</a> about the "
-"future of free software given by <a href=\"http://www.stallman.org\">Richard "
-"M. Stallman</a>, 21 April 2003."
-msgstr ""
-"Transcription (traduite en français) d'une conférence sur <a href=\"/"
-"philosophy/rieti.html\">l'avenir du logiciel libre</a>, donnée par  <a href="
-"\"http://www.stallman.org\">Richard M. Stallman</a> le 21 avril 2003."
+#. type: Content of: <div><ul><li><p>
+msgid "conducted by Pablo Romero"
+msgstr "mené par Pablo Romero"
 
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"//audio-video.gnu.org/audio/bradley-m-kuhn-software-freedom-and-"
-"the-gnu-generation-07-2002.ogg\"> Audio recording of a speech, "
-"<cite>Software Freedom and the GNU Generation</cite>, given by Bradley M. "
-"Kuhn</a> 22 April 2003."
-msgstr ""
-"<a href=\"//audio-video.gnu.org/audio/bradley-m-kuhn-software-freedom-and-"
-"the-gnu-generation-07-2002.ogg\">Enregistrement audio de <cite>Software "
-"Freedom and the GNU Generation</cite></a> (Liberté du logiciel et génération "
-"GNU), conférence donnée par Bradley M. Kuhn le 22 avril 2003."
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">August 13, 2003</span>"
+msgstr "<span class=\"date-tag\">13 août 2003</span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"//audio-video.gnu.org/audio/rms-speech-cambridgeuni-england2002.ogg"
-"\">Audio recording of a speech, <cite>Software Patents:Obstacles to software "
-"development</cite>, given by Richard M. Stallman at the University of "
-"Cambridge, England</a> 25th March 2002.  A <a href=\"/philosophy/software-"
-"patents.html\">transcript of the speech</a> is also available."
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20071017093941/http://www.ofb.biz//article.pl?sid=260\"> GNU Questions: "
+"RMS on SCO, Distributions, DRM</a></span>"
 msgstr ""
-"<a href=\"//audio-video.gnu.org/audio/rms-speech-cambridgeuni-england2002.ogg"
-"\">Enregistrement audio de <cite>Software Patents: Obstacles to software "
-"development</cite></a> (Brevets logiciels : obstacles au développement "
-"logiciel), conférence donnée par Richard M. Stallman à l'Université de "
-"Cambridge (Angleterre) le 25 mars 2002. Une <a href=\"/philosophy/software-"
-"patents.html\">transcription</a> (traduite en français) est également "
-"disponible."
+"<span class=\"speech-title\"><a href=\"https://web.archive.org/"
+"web/20071017093941/http://www.ofb.biz//article.pl?sid=260\" hreflang=\"en"
+"\">GNU Questions: RMS on SCO, Distributions, DRM</a> (Questions GNU : RMS "
+"parle de SCO, des distributions et des DRM)</span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"http://www.stallman.org\">Richard Stallman</a>'s interview in "
-"2002, about <a href=\"/philosophy/rms-hack.html\"> the hacker community and "
-"ethics</a>. This interview is also <a href=\"http://web.archive.org/"
-"web/20100903110335/http://www.uta.fi/~fiteva/rms_int_fi.html\">available in "
-"Finnish</a> [Archived]."
+"<span class=\"date-tag\">April 22, 2003</span> <span class=\"lang\">[in "
+"Italian]</span>"
 msgstr ""
-"Entretien avec <a href=\"http://www.stallman.org\">Richard Stallman</a> "
-"en 2002 sur <a href=\"/philosophy/rms-hack.html\">la communauté des hackers "
-"et l'éthique</a> (également <a href=\"http://web.archive.org/"
-"web/20100903110335/http://www.uta.fi/~fiteva/rms_int_fi.html\">disponible en "
-"finnois</a>)."
+"<span class=\"date-tag\">22 avril 2003</span><span class=\"lang\">[en "
+"italien]</span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"http://www.stallman.org\">Richard Stallman</a>'s <a href=\"https://"
-"web.archive.org/web/20030314184246/http://www.mytech.it/mytech/internet/"
-"art006010045404.jsp\"> interview, <cite>Perch&eacute; l'open source non "
-"&egrave; tutto</cite>, in Italian,</a> to the Mytech website, 22 April "
-"2003.  (The title reads, <cite>Why Open Source is not all</cite>.)"
+"<span class=\"speech-title\"> <a href=\"https://web.archive.org/"
+"web/20030314184246/http://www.mytech.it/mytech/internet/art006010045404.jsp"
+"\" hreflang=\"it\"> <i>Perché l'open source non è tutto</i></a> [Why Open "
+"Source is not all]</span>"
 msgstr ""
-" Entretien en italien avec <a href=\"http://www.stallman.org\">Richard "
-"Stallman</a> pour le site <i>Mytech</i>, <cite><a href=\"https://web.archive."
-"org/web/20030314184246/http://www.mytech.it/mytech/internet/art006010045404."
-"jsp\">Perché l'open source non è tutto</a></cite> (Pourquoi l'open source "
-"n'est pas tout), le 22 avril 2003."
+"<span class=\"speech-title\"><a href=\"https://web.archive.org/"
+"web/20030314184246/http://www.mytech.it/mytech/internet/art006010045404.jsp"
+"\"><i>Perché l'open source non è tutto</i></a> (Pourquoi l'open source n'est "
+"pas tout)</span>"
 
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"//audio-video.gnu.org/audio/rms-speech-qmul-london2002.ogg\">Audio "
-"recording of a speech, <cite>Copyright vs Community in the age of computer "
-"Networks</cite>, given by Richard M. Stallman at Queen Mary University of "
-"London, England</a> 12th Feb 2002."
-msgstr ""
-"<a href=\"//audio-video.gnu.org/audio/rms-speech-qmul-london2002.ogg"
-"\">Enregistrement audio de <cite>Copyright vs Community in the Age of "
-"Computer Networks</cite></a> (Copyright contre communauté à l'âge des "
-"réseaux informatiques), conférence donnée par Richard M. Stallman à la "
-"<i>Queen Mary University</i> de Londres le 12 février 2002."
+#. type: Content of: <div><ul><li><p>
+msgid "conducted by Antonio Volpon for <cite>Mytech</cite>"
+msgstr "mené par Antonio Volpon pour le <cite>Mytech</cite>"
 
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"//audio-video.gnu.org/audio/francais/rms-speech-paris-30-jan-2002."
-"ogg\">Audio recording in French of a speech, <cite>l'&eacute;thique du "
-"syst&egrave;me GNU/Linux et de la communaut&eacute; des logiciels libres, "
-"les t&acirc;ches &agrave; accomplir et les risques &agrave; envisager</"
-"cite>, given by Richard M. Stallman at Linux Expo 2002</a>, CNIT de La "
-"D&eacute;fense (Paris, France), 30th Jan 2002.  A <a href=\"/philosophy/2002-"
-"linuxexpo-paris.fr.html\">transcript of the speech</a> is available."
-msgstr ""
-"Enregistrement audio d'une conférence donnée en français par "
-"Richard M. Stallman au CNIT de la Défense le 30 janvier 2002, <cite><a href="
-"\"//audio-video.gnu.org/audio/francais/rms-speech-paris-30-jan-2002.ogg"
-"\">L'éthique du système GNU/Linux et de la communauté des logiciels libres, "
-"les tâches à accomplir et les risques à envisager</a></cite>.  Une <a href="
-"\"/philosophy/2002-linuxexpo-paris.fr.html\">transcription</a> est "
-"disponible."
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">2002</span>"
+msgstr "<span class=\"date-tag\">2002</span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"http://www.april.org/actions/rms/20011120/stream.html\">Audio "
-"recordings and a partial transcript</a> of the conference given by <a href="
-"\"http://www.stallman.org\">Richard M. Stallman</a> to the French National "
-"Assembly on 20th November 2001."
+"<span class=\"speech-title\"> <a href=\"/philosophy/rms-hack.html\"> The "
+"Hacker Community and Ethics</a></span>"
 msgstr ""
-"<a href=\"http://www.april.org/actions/rms/20011120/stream.html"
-"\">Enregistrement audio et transcription partielle d'une conférence</a> "
-"donnée en français par <a href=\"http://www.stallman.org"
-"\">Richard M. Stallman</a> à l'Assemblée nationale, le 20 novembre 2001."
+"<span class=\"speech-title\"> <a href=\"/philosophy/rms-hack.html\">Éthique "
+"et communauté du hacker</a></span>"
 
-#.  (Content is removed, the site shows 'Page Not Found' - 25-Mar-2011 - shailesh) Also, the MEC has posted an <a href="http://www.mec.ac.in/events/rms/">
-#. audio recording and transcript</a> at their website.
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"/philosophy/stallman-mec-india.html\">Transcript of the speech, "
-"<cite>The Danger of Software Patents</cite></a> by <a href=\"http://www."
-"stallman.org\">Richard M. Stallman</a> given at Government Model Engineering "
-"College, India on 24th July 2001."
-msgstr ""
-"<a href=\"/philosophy/stallman-mec-india.html\">Le danger des brevets "
-"logiciels</a>, transcription (traduite en français) d'une conférence donnée "
-"par <a href=\"http://www.stallman.org\">Richard M. Stallman</a> au "
-"<i>Government Model Engineering College</i> (Inde) le 24 juillet 2001."
+#. type: Content of: <div><ul><li><p>
+msgid "conducted by Tere Vadén"
+msgstr "mené par Tere Vadén"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"http://www.stallman.org\">Richard Stallman</a>'s <a href=\"/"
-"philosophy/luispo-rms-interview.html\"> interview</a> about free software "
-"and business with Louis Suarez-Potts in May of 2001."
+"(also published <a href=\"https://web.archive.org/web/20100903110335/http://"
+"www.uta.fi/~fiteva/rms_int_fi.html\" hreflang=\"fi\"><span class=\"lang\">in "
+"Finnish</span></a>)"
 msgstr ""
-"Entretien avec <a href=\"http://www.stallman.org\">Richard Stallman</a> sur "
-"<a href=\"/philosophy/luispo-rms-interview.html\">le logiciel libre et "
-"l'industrie</a>, mené par Louis Suarez-Potts en mai 2001 (traduit en "
-"français)."
+"(également publié <a href=\"https://web.archive.org/web/20100903110335/"
+"http://www.uta.fi/~fiteva/rms_int_fi.html\" hreflang=\"fi\"><span class="
+"\"lang\">en Finnois</span></a>)"
 
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"//audio-video.gnu.org/audio/rms-speech-nyu2001.ogg\">Audio "
-"recording of a speech, <cite>Free Software: Freedom and Cooperation</cite>, "
-"given by Richard M. Stallman at New York University</a>.  A <a href=\"/"
-"events/rms-nyu-2001-transcript.html\">transcript of the speech</a> is also "
-"available."
-msgstr ""
-"<a href=\"//audio-video.gnu.org/audio/rms-speech-nyu2001.ogg"
-"\">Enregistrement audio de <cite>Free Software: Freedom and Cooperation</"
-"cite></a> (Logiciel libre : liberté et coopération), conférence donnée par "
-"Richard M. Stallman à l'Université de New York. Une <a href=\"/events/rms-"
-"nyu-2001-transcript.html\">transcription</a> (traduite en français) est "
-"également disponible."
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">May 2001</span>"
+msgstr "<span class=\"date-tag\">Mai 2001</span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"/philosophy/copyright-and-globalization.html\">Transcript of a "
-"speech, <cite>Copyright and Globalization in the Age of Computer Networks</"
-"cite>, given by Richard M. Stallman at MIT</a>."
+"<span class=\"speech-title\"> <a href=\"/philosophy/luispo-rms-interview.html"
+"\"> Free Software and Business</a></span>"
 msgstr ""
-"<a href=\"/philosophy/copyright-and-globalization.html\">Copyright et "
-"mondialisation à l'âge des réseaux informatiques</a> : transcription "
-"(traduite en français) d'une conférence donnée par Richard M. Stallman "
-"au MIT."
+"<span class=\"speech-title\"> <a href=\"/philosophy/luispo-rms-interview.html"
+"\">Logiciel libre et entreprises</a></span>"
 
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"//audio-video.gnu.org/audio/rms-speech-mit2001.ogg\">Audio "
-"recording of a speech, <cite>Copyright and Globalization in the Age of "
-"Computer Networks</cite>, given by Richard M. Stallman at MIT</a>."
-msgstr ""
-"<a href=\"//audio-video.gnu.org/audio/rms-speech-mit2001.ogg"
-"\">Enregistrement audio de <cite>Copyright and Globalization in the Age of "
-"Computer Networks</cite></a> (Copyright et mondialisation à l'âge des "
-"réseaux informatiques), conférence donnée par Richard M. Stallman au MIT."
+#. type: Content of: <div><ul><li><p>
+msgid "conducted by Louis Suarez-Potts"
+msgstr "mené par Louis Suarez-Potts"
 
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"//audio-video.gnu.org/audio/rms-speech-arsdigita2001.ogg\">Audio "
-"recording of a speech, <cite>The Free Software Movement and the GNU/Linux "
-"Operating System</cite>, given by Richard M. Stallman at ArsDigita "
-"University</a>."
-msgstr ""
-"<a href=\"//audio-video.gnu.org/audio/rms-speech-arsdigita2001.ogg"
-"\">Enregistrement audio de <cite>The Free Software Movement and the GNU/"
-"Linux Operating System</cite></a> (Le mouvement du logiciel libre et le "
-"système d'exploitation GNU/Linux), conférence donnée par Richard M. Stallman "
-"à l'Université ArsDigita."
+#. type: Content of: <div><ul><li><p>
+msgid "<span class=\"date-tag\">July 1986</span>"
+msgstr "<span class=\"date-tag\">Juillet 1986</span>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"<a href=\"//audio-video.gnu.org/audio/rms-speech-slovenia-2000.ogg\">Audio "
-"recording of a speech, <cite>The Free Software Movement and the GNU/Linux "
-"Operating System</cite>, given by Richard M. Stallman at Auditorium Smelt, "
-"Ljubljana, Slovenia</a>."
+"<span class=\"speech-title\"> <a href=\"/gnu/byte-interview.html\"> "
+"Development of the GNU System</a></span>"
 msgstr ""
-"<a href=\"//audio-video.gnu.org/audio/rms-speech-slovenia-2000.ogg"
-"\">Enregistrement audio de <cite>The Free Software Movement and the GNU/"
-"Linux Operating System</cite></a>, conférence donnée par Richard M. Stallman "
-"à l'Auditorium Smelt, Ljubljana (Slovénie)."
+"<span class=\"speech-title\"> <a href=\"/gnu/byte-interview.html\"> "
+"Développement du système GNU</a></span>"
 
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"//audio-video.gnu.org/audio/rms-speech-linuxtag2000.ogg\">Audio "
-"recording of a speech, <cite>The Free Software Movement and the GNU/Linux "
-"Operating System</cite>, given by Richard M. Stallman at LinuxTag 2000</a>."
-msgstr ""
-"<a href=\"//audio-video.gnu.org/audio/rms-speech-linuxtag2000.ogg"
-"\">Enregistrement audio de <cite>The Free Software Movement and the GNU/"
-"Linux Operating System</cite></a>, conférence donnée par Richard M. Stallman "
-"au LinuxTag 2000."
-
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"/philosophy/copyright-versus-community-2000.html\">Copyright "
-"versus Community in the Age of Computer Networks</a>, transcription of a "
-"speech by Richard Stallman, 2000."
-msgstr ""
-"<a href=\"/philosophy/copyright-versus-community-2000.html\">Copyright et "
-"mondialisation à l'âge des réseaux informatiques</a> : transcription "
-"(traduite en français) d'une conférence donnée par Richard Stallman en 2000."
-
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"//audio-video.gnu.org/audio/rms-speech-cglug2000.ogg\">Audio "
-"recording of a speech, <cite>The Free Software Movement and the GNU/Linux "
-"Operating System</cite>, given by Richard M. Stallman at the University of "
-"Cincinnati</a>."
-msgstr ""
-"<a href=\"//audio-video.gnu.org/audio/rms-speech-cglug2000.ogg"
-"\">Enregistrement audio de <cite>The Free Software Movement and the GNU/"
-"Linux Operating System</cite></a>, conférence donnée par Richard M. Stallman "
-"à l'Université de Cincinnati."
-
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"http://www.april.org/actions/rms/10111998/texte.html"
-"\">Transcription (in French)</a> of a speech that <a href=\"http://www."
-"stallman.org/\">Richard Stallman</a> gave in 1998 at the University of Paris."
-msgstr ""
-"Transcription d'une <a href=\"http://www.april.org/actions/rms/10111998/"
-"texte.html\">conférence en français</a> que <a href=\"http://www.stallman."
-"org/\">Richard Stallman</a> a donnée en 1998 à l'Université Paris 8 de Saint-"
-"Denis."
-
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"/philosophy/greve-clown.en.html\">English translation of a speech</"
-"a> about the history and philosophy of the GNU Project that Georg Greve gave "
-"in 1998 at the GNU/Linux Cluster &ldquo;CLOWN&rdquo; in Germany (<a href=\"/"
-"philosophy/greve-clown.de.html\">German original</a>)."
-msgstr ""
-"Traduction d'une <a href=\"/philosophy/greve-clown.html\">conférence donnée "
-"par Georg Greve au GNU/Linux Cluster (CLOWN)</a> en Allemagne (<a href=\"/"
-"philosophy/greve-clown.de.html\">original en allemand</a>)."
-
-#. type: Content of: <ul><li>
-msgid ""
-"<a href=\"/gnu/byte-interview.html\">BYTE Interview</a> in July 1986 with <a "
-"href=\"http://www.stallman.org/\">Richard Stallman</a> about the development "
-"of the GNU system."
-msgstr ""
-"<cite>BYTE</cite> interroge <a href=\"http://www.stallman.org/"
-"\">Richard Stallman</a> sur <a href=\"/gnu/byte-interview.html\">le "
-"développement du système GNU</a> en juillet 1986 (entretien traduit en "
-"français)."
-
-#. type: Content of: <ul><li>
-msgid ""
-"A <a href=\"/philosophy/stallman-kth.html\">speech</a> that <a href=\"http://"
-"www.stallman.org/\">Richard Stallman</a> gave in 1986 at the Royal Institute "
-"of Technology in Sweden about the hacker community and the early days of the "
-"free software movement."
-msgstr ""
-"Conférence (traduite en français) sur <a href=\"/philosophy/stallman-kth.html"
-"\">la communauté des hackers et les débuts du mouvement du logiciel libre</"
-"a>, donnée par <a href=\"http://www.stallman.org/\">Richard Stallman</a> à "
-"l'Institut royal de technologie de Suède en 1986."
-
-#. type: Content of: <ul><li>
-msgid ""
-"Two more recordings of <a href=\"//audio-video.gnu.org/audio/francais"
-"\">interviews in French</a> are available at audio-video.gnu.org."
-msgstr ""
-"Vous trouverez <a href=\"//audio-video.gnu.org/audio/francais\">deux autres "
-"interviews en français</a> sur audio-video.gnu.org."
+#. type: Content of: <div><ul><li><p>
+msgid "conducted by David Betz and Jon Edwards for <cite>BYTE</cite>"
+msgstr "mené par David Betz and Jon Edwards pour <cite>BYTE</cite>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -948,16 +1489,16 @@ msgstr ""
 "\"mailto:webmasters@gnu.org\">webmasters@gnu.org</a>&gt;."
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
-#.         replace it with the translation of these two:
-#.         We work hard and do our best to provide accurate, good quality
-#.         translations.  However, we are not exempt from imperfection.
-#.         Please send your comments and general suggestions in this regard
-#.         to <a href="mailto:web-translators@gnu.org">
-#.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and contributing translations of
-#.         our web pages, see <a
-#.         href="/server/standards/README.translations.html">Translations
-#.         README</a>. 
+#.       replace it with the translation of these two:
+#.       We work hard and do our best to provide accurate, good quality
+#.       translations.  However, we are not exempt from imperfection.
+#.       Please send your comments and general suggestions in this regard
+#.       to <a href="mailto:web-translators@gnu.org">
+#.       &lt;web-translators@gnu.org&gt;</a>.</p>
+#.       <p>For information on coordinating and contributing translations of
+#.       our web pages, see <a
+#.       href="/server/standards/README.translations.html">Translations
+#.       README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
