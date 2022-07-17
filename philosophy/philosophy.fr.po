@@ -8,15 +8,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: philosophy.html\n"
-"POT-Creation-Date: 2021-08-19 14:56+0000\n"
-"PO-Revision-Date: 2021-08-19 18:36+0200\n"
+"POT-Creation-Date: 2022-07-17 17:55+0000\n"
+"PO-Revision-Date: 2022-07-17 21:20+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
 
 #. type: Content of: <title>
 msgid "Philosophy of the GNU Project - GNU Project - Free Software Foundation"
@@ -32,7 +31,7 @@ msgid ""
 "issue is not about price.)  We developed the GNU operating system so that "
 "users can have freedom in their computing."
 msgstr ""
-"« Logiciel libre » signifie que les utilisateurs du logiciel possèdent la "
+"« Logiciel libre » signifie que les utilisateurs du logiciel possèdent la "
 "liberté (il ne s'agit pas de prix).<a id=\"TransNote1-rev\" href="
 "\"#TransNote1\"><sup>1</sup></a> Nous avons développé le système "
 "d'exploitation GNU pour que les utilisateurs aient la liberté dans leurs "
@@ -45,8 +44,8 @@ msgid ""
 "and change the program in source code form, (2) to redistribute exact "
 "copies, and (3) to distribute modified versions."
 msgstr ""
-"Plus précisément, « logiciel libre » signifie que les utilisateurs possèdent "
-"les <a href=\"/philosophy/free-sw.html\">quatre libertés essentielles</a> : "
+"Plus précisément, « logiciel libre » signifie que les utilisateurs possèdent "
+"les <a href=\"/philosophy/free-sw.html\">quatre libertés essentielles</a> : "
 "(0) exécuter le programme, (1) étudier et modifier le programme sous forme "
 "de code source, (2) en redistribuer des copies exactes, (3) en redistribuer "
 "des versions modifiées."
@@ -60,14 +59,23 @@ msgid ""
 msgstr ""
 "Le logiciel diffère des objets matériels – chaise, sandwich ou essence, par "
 "exemple – en ce qu'il peut être copié et modifié beaucoup plus facilement. "
-"C'est ce qui fait son utilité ; nous croyons que les utilisateurs d'un "
+"C'est ce qui fait son utilité ; nous croyons que les utilisateurs d'un "
 "programme, et pas seulement le développeur, doivent être libres d'utiliser "
 "ces possibilités à leur avantage."
 
 #. type: Content of: <div><div><div><p>
-msgid "For further reading, please select a section from the menu above."
+msgid ""
+"The articles in the short list below give an overview of GNU philosophy. For "
+"further reading, please check the menu above, especially <b><a href=\"/"
+"philosophy/essays-and-articles.html\">Essays &amp; Articles</a></b>, and "
+"<b><a href=\"/philosophy/speeches-and-interviews.html\"> Speeches &amp; "
+"Interviews</a></b>."
 msgstr ""
-"Pour approfondir le sujet, veuillez choisir une section du menu ci-dessus."
+"Les articles de la courte liste ci-dessous donnent un aperçu de la "
+"philosophie GNU. Pour approfondir, explorez les différentes rubriques du "
+"sous-menu, en particulier <b><a href=\"/philosophy/essays-and-articles.html"
+"\">Essais &amp; articles</a></b> et <b><a href=\"/philosophy/speeches-and-"
+"interviews.html\">Discours &amp; entretiens</a></b>."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -84,7 +92,7 @@ msgstr "Introduction"
 #. type: Content of: <div><div><ul><li>
 msgid "<a href=\"/philosophy/free-sw.html\">What is Free Software?</a>"
 msgstr ""
-"<a href=\"/philosophy/free-sw.html\">Qu'est-ce que le logiciel libre ?</a>"
+"<a href=\"/philosophy/free-sw.html\">Qu'est-ce que le logiciel libre ?</a>"
 
 #. type: Content of: <div><div><ul><li>
 msgid ""
@@ -96,8 +104,8 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 msgid ""
-"<a href=\"/proprietary/proprietary.html\"> Proprietary software is often "
-"malware</a>"
+"<a href=\"/proprietary/proprietary.html\"> Proprietary Software Is Often "
+"Malware</a>"
 msgstr ""
 "<a href=\"/proprietary/proprietary.html\">Le logiciel privateur est souvent "
 "malveillant</a>"
@@ -109,7 +117,7 @@ msgstr "<a href=\"/gnu/gnu.html\">Histoire de GNU/Linux</a>"
 #. type: Content of: <div><div><ul><li>
 msgid "<a href=\"/philosophy/pragmatic.html\">Copyleft: Pragmatic Idealism</a>"
 msgstr ""
-"<a href=\"/philosophy/pragmatic.html\">Copyleft : idéalisme pragmatique</a>"
+"<a href=\"/philosophy/pragmatic.html\">Copyleft : idéalisme pragmatique</a>"
 
 #. type: Content of: <div><div><ul><li>
 msgid ""
@@ -123,7 +131,7 @@ msgstr ""
 msgid "<a href=\"/philosophy/selling.html\">Selling Free Software</a> is OK!"
 msgstr ""
 "<a href=\"/philosophy/selling.html\">Vendre des logiciels libres</a>, ce "
-"n'est pas un problème !"
+"n'est pas un problème !"
 
 #. type: Content of: <div><div><ul><li>
 msgid ""
@@ -135,16 +143,15 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"/philosophy/right-to-read.html\">The Right to Read: A Dystopian "
-"Short Story</a> by <a href=\"http://www.stallman.org/\"> Richard Stallman</a>"
+"Short Story</a> by Richard Stallman"
 msgstr ""
-"<a href=\"/philosophy/right-to-read.html\">Le droit de lire : une courte "
-"histoire dystopique</a> par <a href=\"http://www.stallman.org/\">Richard "
-"Stallman</a>"
+"<a href=\"/philosophy/right-to-read.html\">Le droit de lire : une courte "
+"histoire dystopique</a> par Richard Stallman"
 
 #. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"/philosophy/open-source-misses-the-point.html\">Why &ldquo;Open "
-"Source&rdquo; misses the point of Free Software</a>"
+"Source&rdquo; Misses the Point of Free Software</a>"
 msgstr ""
 "<a href=\"/philosophy/open-source-misses-the-point.html\">En quoi l'open "
 "source perd de vue l'éthique du logiciel libre</a>"
@@ -159,16 +166,23 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 msgid ""
-"<a href=\"/philosophy/government-free-software.html\">Measures governments "
-"can use to promote free software</a>"
+"<a href=\"/philosophy/government-free-software.html\">Measures Governments "
+"Can Use to Promote Free Software</a>"
 msgstr ""
 "<a href=\"/philosophy/government-free-software.html\">Mesures à la portée "
 "des gouvernements pour promouvoir le logiciel libre</a>"
 
 #. type: Content of: <div><div><ul><li>
-msgid "<a href=\"/education/education.html\">Free software in education</a>"
+msgid "<a href=\"/education/education.html\">Free Software and Education</a>"
+msgstr "<a href=\"/education/education.html\">Logiciel libre et éducation</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href=\"/philosophy/limit-patent-effect.html\">Giving the Software Field "
+"Protection from Patents</a>"
 msgstr ""
-"<a href=\"/education/education.html\">Le logiciel libre dans l'éducation</a>"
+"<a href=\"/philosophy/limit-patent-effect.html\">Protéger le secteur du "
+"logiciel des brevets</a>"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -184,10 +198,11 @@ msgstr ""
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
-"<hr /><b>Note de traduction</b><ol>\n"
-"<li id=\"TransNote1\">En anglais, le mot <i>free</i> veut dire « libre », "
-"mais aussi « gratuit », d'où la confusion possible. <a href=\"#TransNote1-rev"
-"\" class=\"nounderline\">&#8593;</a></li></ol>"
+"<hr /><b>Note de traduction</b><ol id=\"translator-notes-alpha\">\n"
+"<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
+"\">&#8593;</a> \n"
+"En anglais, le mot <i>free</i> veut dire « libre », mais aussi « gratuit », "
+"d'où la confusion possible.</li></ol>"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -228,8 +243,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2013, 2015-2018, 2021 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2013, 2015-2018, 2021 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2013, 2015-2018, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2013, 2015-2018, 2022 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -246,7 +261,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Odile Bénassy.<br />Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Odile Bénassy<br />Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 
