@@ -4,22 +4,20 @@
 # Marc de Maillard, 2008.
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2008.
 # Denis Barbier <bouzim@gmail.com>, 2011.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012-2021.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012-2022.
 # Sogal <sogal AT member.fsf.org>, 2014, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-linux-faq.html\n"
-"POT-Creation-Date: 2021-11-02 14:27+0000\n"
-"PO-Revision-Date: 2021-11-02 18:44+0100\n"
+"POT-Creation-Date: 2022-07-27 06:26+0000\n"
+"PO-Revision-Date: 2022-07-27 09:55+0200\n"
 "Last-Translator: Sogal <sogal AT member.fsf.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid "GNU/Linux FAQ - GNU Project - Free Software Foundation"
@@ -329,6 +327,14 @@ msgid ""
 msgstr ""
 "<a href=\"#whyslash\">Pourquoi écrivez-vous « GNU/Linux » au lieu de « GNU "
 "Linux » ?</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href=\"#linuxlibre\">Does GNU have its own version of Linux, the kernel?</"
+"a>"
+msgstr ""
+"<a href=\"#linuxlibre\">Est-ce que GNU a sa propre version du noyau Linux ?</"
+"a>"
 
 #. type: Content of: <div><div><ul><li>
 msgid ""
@@ -2029,14 +2035,14 @@ msgstr ""
 msgid ""
 "We're talking about a version of GNU, the operating system, distinguished by "
 "having Linux as the kernel.  A slash fits the situation because it means "
-"&ldquo;combination.&rdquo; (Think of &ldquo;Input/Output.&rdquo;)  This "
-"system is the combination of GNU and Linux; hence, &ldquo;GNU/Linux.&rdquo;"
+"&ldquo;combination.&rdquo; (Think of &ldquo;Input/Output.&rdquo;)  It's the "
+"GNU system, with the kernel Linux underneath; hence, &ldquo;GNU/Linux.&rdquo;"
 msgstr ""
 "Nous parlons ici d'une version de GNU, le système d'exploitation, distinguée "
 "par le fait d'avoir Linux comme noyau. Une barre de fraction correspond bien "
 "à la situation puisqu'elle signifie « combinaison » (pensez à « Entrée/"
-"Sortie »). Ce système est une combinaison de GNU et de Linux, d'où le nom "
-"« GNU/Linux »."
+"Sortie »). C'est le système GNU avec le noyau Linux par-dessous ; d'où le "
+"nom « GNU/Linux »."
 
 #. type: Content of: <div><dl><dd><p>
 msgid ""
@@ -2048,6 +2054,39 @@ msgstr ""
 "Il y a d'autres moyens d'exprimer cette combinaison. Si vous pensez qu'un "
 "signe plus est plus clair, utilisez-le. En français, un tiret est clair : "
 "« GNU-Linux ». En espagnol, on dit parfois « GNU con Linux »."
+
+#. type: Content of: <div><dl><dt>
+msgid ""
+"Does GNU have its own version of Linux, the kernel? <span class=\"anchor-"
+"reference-id\">(<a href=\"#linuxlibre\">#linuxlibre</a>)</span>"
+msgstr ""
+"Est-ce que GNU a sa propre version du noyau Linux ? <span class=\"anchor-"
+"reference-id\">(<a href=\"#linuxlibre\">#linuxlibre</a>)</span>"
+
+#. type: Content of: <div><dl><dd>
+msgid ""
+"Yes and no.  The free GNU/Linux distros use slightly modified versions of "
+"Linux, modified to remove the nonfree firmware &ldquo;blobs&rdquo; contained "
+"in the &ldquo;standard&rdquo; release of Linux.  Some of them use <a href="
+"\"https://directory.fsf.org/wiki/Linux-libre\">GNU Linux-Libre</a>, which is "
+"the GNU Project's freed version of Linux.  But this is not a fork; rather, "
+"it is a version of Linux&mdash;we take the source of each standard Linux "
+"release and de-blob it."
+msgstr ""
+"Oui et non. Les distros GNU/Linux libres utilisent des versions de Linux "
+"légèrement modifiées, la modification consistant à retirer les « blobs » de "
+"micrologiciel non libre contenus dans la version standard de Linux. "
+"Certaines distros utilisent <a href=\"https://directory.fsf.org/wiki/Linux-"
+"libre\">GNU Linux-Libre</a>, qui est la version libérée de Linux. Ce n'est "
+"pas un <i>fork</i>, mais plutôt une autre version de Linux; nous prenons le "
+"code source de chaque version standard de Linux et en retirons les blobs."
+
+#. type: Content of: <div><dl><dd><p>
+msgid ""
+"Other free distros make their own arrangements to remove the blobs from "
+"Linux."
+msgstr ""
+"D'autres distros libres retirent les blobs de Linux par leurs propres moyens."
 
 #. type: Content of: <div><dl><dt>
 msgid ""
@@ -3635,10 +3674,10 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2001-2011, 2013-2018, 2020, 2021 Free Software Foundation, "
+"Copyright &copy; 2001-2011, 2013-2018, 2020, 2022 Free Software Foundation, "
 "Inc."
 msgstr ""
-"Copyright &copy; 2001-2011, 2013-2018, 2020, 2021 Free Software Foundation, "
+"Copyright &copy; 2001-2011, 2013-2018, 2020, 2022 Free Software Foundation, "
 "Inc."
 
 #. type: Content of: <div><p>
