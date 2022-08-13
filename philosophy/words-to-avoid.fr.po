@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
-"POT-Creation-Date: 2022-05-29 17:55+0000\n"
-"PO-Revision-Date: 2022-05-31 11:05+0200\n"
+"POT-Creation-Date: 2022-08-13 16:25+0000\n"
+"PO-Revision-Date: 2022-08-13 19:55+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -172,6 +172,16 @@ msgid "&ldquo;<a href=\"#FreelyAvailable\">Freely available</a>&rdquo; |"
 msgstr ""
 "<!-- « gratuitement+ » --> « <a href=\"#FreelyAvailable"
 "\">disponible gratuitement</a> » |"
+
+#.  GNUN-SORT-NEXT-ITEM 
+#. type: Content of: <div><div><p>
+msgid "&ldquo;<a href=\"#Freemium\">Freemium</a>&rdquo; |"
+msgstr "« <a href=\"#Freemium\"><i>freemium</i></a> » |"
+
+#.  GNUN-SORT-NEXT-ITEM 
+#. type: Content of: <div><div><p>
+msgid "&ldquo;<a href=\"#FreeToPlay\">Free-to-play</a>&rdquo; |"
+msgstr "« <a href=\"#FreeToPlay\"><i>free-to-play</i></a> » |"
 
 #.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
@@ -1068,8 +1078,8 @@ msgstr ""
 msgid ""
 "We first condemned this usage of &ldquo;content&rdquo; in 2002.  Since then, "
 "Tom Chatfield recognized the same point <a href=\"https://www.theguardian."
-"com/culture/2016/aug/02/how-to-deal-with-trump-trolls-online\">in the "
-"Guardian</a>:"
+"com/culture/2016/aug/02/how-to-deal-with-trump-trolls-online\"> in <cite>The "
+"Guardian</cite></a>:"
 msgstr ""
 "La première fois que nous avons condammé cet usage, c'était en 2002. Depuis, "
 "Tom Chatfield l'a également pointé du doigt <a href=\"https://www."
@@ -1097,6 +1107,27 @@ msgstr ""
 "Dit autrement, « contenu » rabaisse les écrits et publications au niveau "
 "d'une bouillie tout juste bonne à être quantifiée et injectée dans les "
 "« tuyaux » d'Internet."
+
+#. type: Content of: <div><p>
+msgid ""
+"Later, <a href=\"https://www.theguardian.com/film/2022/aug/03/tax-concerns-"
+"axed-batgirl-but-studios-will-suffer-if-they-become-too-cynical\"> Peter "
+"Bradshaw noticed it too.</a>"
+msgstr ""
+"Plus tard, <a href=\"https://www.theguardian.com/film/2022/aug/03/tax-"
+"concerns-axed-batgirl-but-studios-will-suffer-if-they-become-too-cynical"
+"\">Peter Bradshaw l'a remarqué également</a>."
+
+#. type: Content of: <div><blockquote><p>
+msgid ""
+"This is what happens when studios treat movies as pure, undifferentiated "
+"corporate &ldquo;content,&rdquo; a Gazprom pipeline of superhero mush which "
+"can be turned off when the accountants say that it makes sense to do so."
+msgstr ""
+"Voilà ce qui arrive quand les studios traitent les films comme du pur "
+"« contenu » industriel indifférencié, un pipeline de Gazprom déversant une "
+"bouillie de superhéros, qui peut être arrêté quand les comptables disent que "
+"c'est judicieux de le faire."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1552,6 +1583,46 @@ msgstr ""
 "obtenir une copie. Le « logiciel libre » est défini en termes de liberté "
 "accordée aux utilisateurs qui en ont une copie. Ce sont des réponses à des "
 "questions différentes."
+
+#. type: Content of: <div><h3>
+msgid "&ldquo;Freemium&rdquo;"
+msgstr "« <i>Freemium</i> »"
+
+#. type: Content of: <div><p>
+msgid ""
+"The confusing term &ldquo;freemium&rdquo; is used in marketing to describe "
+"<em>nonfree</em> software whose standard version is gratis, with paid "
+"<em>nonfree</em> add-ons available."
+msgstr ""
+"Le terme <i>freemium</i> prête à confusion. Il est utilisé en marketing pour "
+"décrire un logiciel <em>non libre</em> dont la version standard est gratuite "
+"avec des extensions payantes <em>non libres</em>."
+
+#. type: Content of: <div><p>
+msgid ""
+"Using this term works against the free software movement, because it leads "
+"people to think of &ldquo;free&rdquo; as meaning &ldquo;zero price.&rdquo;"
+msgstr ""
+"L'utilisation de ce terme dessert le mouvement du logiciel libre, car il "
+"amène les gens à penser que <i>free</i> signifie « gratuit »."
+
+#. type: Content of: <div><h3>
+msgid "&ldquo;Free-to-play&rdquo;"
+msgstr "« <i>Free-to-play</i> (F2P) »"
+
+#. type: Content of: <div><p>
+msgid ""
+"The confusing term &ldquo;free-to-play&rdquo; is used in marketing to "
+"describe <em>nonfree</em> games which don't require a payment before a user "
+"starts to play.  In many of these games, doing well in the game requires "
+"paying later, so the term &ldquo;gratis-to-start&rdquo; is a more accurate "
+"description."
+msgstr ""
+"Le terme <i>free-to-play</i> prête à confusion. Il est utilisé en marketing "
+"pour décrire des jeux <em>non libres</em> qui ne nécessitent pas de paiement "
+"pour que l'utilisateur commence à jouer. Dans beaucoup de ces jeux, il est "
+"obligé de payer plus tard pour gagner. Le terme « gratuit au démarrage » est "
+"donc une description plus juste."
 
 #. type: Content of: <div><h3>
 msgid "&ldquo;Freeware&rdquo;"
