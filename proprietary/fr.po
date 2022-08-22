@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary/\n"
-"POT-Creation-Date: 2022-05-10 17:55+0000\n"
-"PO-Revision-Date: 2022-07-09 12:11+0200\n"
+"POT-Creation-Date: 2022-08-22 09:55+0000\n"
+"PO-Revision-Date: 2022-08-22 20:01+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -129,6 +129,21 @@ msgstr ""
 "d'anonymisation. Ce n'est pas que cela serve à grand chose en général, mais "
 "en négligeant ne serait-ce que d'essayer, l'agence a montré qu'elle était "
 "complètement fermée à la question du respect de la vie privée des étudiants."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The Markup investigated 80,000 popular web sites and <a href=\"https://"
+"themarkup.org/blacklight/2020/09/22/blacklight-tracking-advertisers-digital-"
+"privacy-sensitive-websites\"> reports on how much they snoop on users</a>.  "
+"Almost 70,000 had third-party trackers. 5,000 fingerprinted the browser to "
+"identify users.  12,000 recorded the user's mouse clicks and movements."
+msgstr ""
+"<i>The Markup</i> a publié <a href=\"https://themarkup.org/"
+"blacklight/2020/09/22/blacklight-tracking-advertisers-digital-privacy-"
+"sensitive-websites\">une statistique de l'espionnage des utilisateurs</a> "
+"par 80 000 sites web populaires. Près de 70 000 avaient des traceurs tiers. "
+"5 000 enregistraient les caractéristiques du navigateur pour identifier les "
+"utilisateurs. 12 000 enregistraient les clics et mouvements de la souris."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -573,6 +588,17 @@ msgstr ""
 "depuis 2018, en ordre chronologique inverse (dans certains cas, la dernière "
 "référence a été mise à jour postérieurement à l'ajout)."
 
+#. type: Content of: <div><p>
+msgid ""
+"<strong><a href=\"/proprietary/proprietary-insecurity.html#uefi-rootkit\"> "
+"UEFI makes computers vulnerable to advanced persistent threats that are "
+"almost impossible to detect once installed...</a></strong>"
+msgstr ""
+"<strong><a href=\"/proprietary/proprietary-insecurity.html#uefi-rootkit\"> "
+"L'UEFI rend les ordinateurs vulnérables à des menaces persistantes "
+"sophistiquées qui sont à peu près impossibles à détecter une fois "
+"installées...</a></strong>"
+
 #. type: Content of: <div><ul><li><small>
 msgid "<small class='date-tag'>Added:"
 msgstr "<small class='date-tag'>Ajout :"
@@ -585,6 +611,53 @@ msgstr "&ndash; Dernière référence :"
 #. type: Content of: <div><ul><li>
 msgid "</small>"
 msgstr "</small>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"The nonfree software in a Tesla artificially <a href=\"https://www."
+"theguardian.com/business/2022/jul/30/will-connected-cars-persuade-drivers-to-"
+"pay-for-a-high-spec-ride\"> limits the car's driving range</a>, demanding "
+"ransom to unlock the battery's full charge."
+msgstr ""
+"Le logiciel non libre des voitures Tesla <a href=\"https://www.theguardian."
+"com/business/2022/jul/30/will-connected-cars-persuade-drivers-to-pay-for-a-"
+"high-spec-ride\">limite artificiellement leur autonomie</a> et exige une "
+"rançon pour déverrouiller la pleine capacité de la batterie."
+
+#. type: Content of: <div><ul><li><p>
+msgid "This is one more reason why cars must not be &ldquo;connected.&rdquo;"
+msgstr "Voilà une raison de plus pour éviter les voitures « connectées »."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"ATMs and vending machines in Russia run nonfree software&mdash;The machines' "
+"owners <a href=\"https://www.themoscowtimes.com/2022/07/01/russian-atms-"
+"reject-new-100-ruble-bill-kommersant-a78175\"> cannot fix them</a>."
+msgstr ""
+"Les distributeurs et guichets bancaires automatiques de Russie fonctionnent "
+"avec du logiciel non libre. les propriétaires de ces machines <a href="
+"\"https://www.themoscowtimes.com/2022/07/01/russian-atms-reject-new-100-"
+"ruble-bill-kommersant-a78175\">ne peuvent plus les réparer</a>."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"Adobe <a href=\"https://www.vice.com/en/article/a3xk3p/adobe-tells-users-"
+"they-can-get-sued-for-using-old-versions-of-photoshop\"> revoked the license "
+"of some older versions</a> of its applications, and warned customers that "
+"they can get sued for using them."
+msgstr ""
+"Adobe <a href=\"https://www.vice.com/en/article/a3xk3p/adobe-tells-users-"
+"they-can-get-sued-for-using-old-versions-of-photoshop\">a révoqué la licence "
+"de certaines versions anciennes</a> de ses applications et prévenu ses "
+"clients qu'ils pouvaient être poursuivis s'ils les utilisaient."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"This is further proof that users of nonfree software are in the hands of its "
+"developer."
+msgstr ""
+"Voilà une preuve supplémentaires que les utilisateurs de logiciel non libre "
+"sont à la merci des développeurs."
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
@@ -5804,6 +5877,62 @@ msgid "Microsoft's Software is Malware"
 msgstr "Malveillance des logiciels Microsoft"
 
 #. type: Content of: <div><div><div><h3>
+msgid "UEFI-induced vulnerability"
+msgstr "Vulnérabilité induite par l'UEFI"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"UEFI makes computers <a href=\"https://arstechnica.com/information-"
+"technology/2022/07/researchers-unpack-unkillable-uefi-rootkit-that-survives-"
+"os-reinstalls/\"> vulnerable to advanced persistent threats</a> that are "
+"almost impossible to detect once installed. Here are <a href=\"https://"
+"securelist.com/cosmicstrand-uefi-firmware-rootkit/106973/\"> technical "
+"details</a>."
+msgstr ""
+"L'UEFI rend les ordinateurs <a href=\"https://arstechnica.com/information-"
+"technology/2022/07/researchers-unpack-unkillable-uefi-rootkit-that-survives-"
+"os-reinstalls/\">vulnérables à des menaces persistantes sophistiquées</a> "
+"qui sont à peu près impossibles à détecter une fois installées. Voici "
+"quelques <a href=\"https://securelist.com/cosmicstrand-uefi-firmware-"
+"rootkit/106973/\">détails techniques</a>."
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"Kaspersky discovered this example by chance, but is unable to check in "
+"general for the presence of such rootkits in computers."
+msgstr ""
+"Kaspersky a découvert cet exemple par hasard, mais n'a pas de méthode "
+"générale pour tester la présence de rootkits similaires dans les ordinateurs."
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"Nonfree software does not make your computer secure&mdash;it does the "
+"opposite: it prevents you from trying to secure it. UEFI is a nonfree "
+"program required for booting which is impossible to replace; in effect, a "
+"low-level rootkit. All the things that Intel has done to make its power over "
+"you secure against you also protect UEFI-level rootkits against you."
+msgstr ""
+"Le logiciel non libre ne sécurise pas votre ordinateur. Bien au contraire, "
+"il vous empêche d'essayer de le sécuriser. L'UEFI est un programme non libre "
+"nécessaire au démarrage qui est impossible à remplacer; en fait, c'est un "
+"rootkit de bas niveau. Tout ce que fait Intel pour contrer vos essais "
+"d'échapper à son pouvoir protège également les rootkits infectant l'UEFI."
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"Instead of allowing Intel, AMD, Apple and perhaps ARM to impose security "
+"through tyranny, we should legislate to require them to allow users to "
+"install their choice of startup software, and make available the information "
+"needed to develop such. Think of this as right-to-repair at the "
+"initialization stage."
+msgstr ""
+"Au lieu de permettre à Intel, AMD, Apple et peut-être ARM d'imposer la "
+"sécurité par la tyrannie, nous devrions faire adopter une loi qui les oblige "
+"à laisser les utilisateurs installer le logiciel de démarrage de leur choix "
+"et à rendre disponible l'information nécessaire à son développement – une "
+"sorte de droit de réparer au niveau de l'initialisation."
+
+#. type: Content of: <div><div><div><h3>
 msgid "Types of Microsoft malware"
 msgstr "Types de malveillance chez Microsoft"
 
@@ -6945,8 +7074,8 @@ msgstr ""
 "produits est une invitation au sabotage."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2016-2021 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2016-2021 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2016-2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2016-2022 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Proprietary Censorship - GNU Project - Free Software Foundation"
@@ -7370,10 +7499,6 @@ msgstr ""
 "Après un règlement à l'amiable, <a href=\"https://arstechnica.com/tech-"
 "policy/2016/06/if-you-used-to-run-linux-on-your-ps3-you-could-get-55-from-"
 "sony/\">le moment est venu pour Sony de payer pour ce sabotage</a>."
-
-#. type: Content of: <div><p>
-msgid "Copyright &copy; 2016-2022 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2016-2022 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Potential Malware - GNU Project - Free Software Foundation"
@@ -14367,3 +14492,6 @@ msgstr "<a href=\"/proprietary/malware-google.html#content\">Google</a>"
 #. type: Content of: <div><div><dl><dd><ul><li>
 msgid "<a href=\"/proprietary/malware-microsoft.html#content\">Microsoft</a>"
 msgstr "<a href=\"/proprietary/malware-microsoft.html#content\">Microsoft</a>"
+
+#~ msgid "Copyright &copy; 2016-2021 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2016-2021 Free Software Foundation, Inc."
