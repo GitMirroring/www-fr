@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: graphics.html\n"
-"POT-Creation-Date: 2022-04-30 17:25+0000\n"
-"PO-Revision-Date: 2022-05-01 08:53+0200\n"
+"POT-Creation-Date: 2022-08-24 09:27+0000\n"
+"PO-Revision-Date: 2022-08-24 15:01+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -2203,18 +2203,37 @@ msgstr "Icones de favoris et boutons <small>(archivés)"
 msgid "by Edward Alfert</small>"
 msgstr "par Edward Alfert</small>"
 
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"https://openclipart.org/search/?query=gnu\">"
+msgstr "<a href=\"https://openclipart.org/search/?query=gnu\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU as wizard]&nbsp;"
+msgstr " [GNU avec un chapeau de sorcier] "
+
+#. type: Content of: <table><tr><td>
+msgid "GNU-related public-domain graphics"
+msgstr "Images du domaine public sur le thème de GNU"
+
+#. type: Content of: <table><tr><td>
+msgid "<small>at openclipart.org</small>"
+msgstr "<small>sur openclipart.org</small>"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"https://openclipart.org/search/?query=stallman\">"
+msgstr "<a href=\"https://openclipart.org/search/?query=stallman\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Stallman head]&nbsp;"
+msgstr " [Tête de Stallman] "
+
+#. type: Content of: <table><tr><td>
+msgid "Stallman-related public-domain graphics"
+msgstr "Images du domaine public sur le thème de Stallman"
+
 #. type: Content of: <p>
 msgid "<a href=\"#select\">Back to selection form</a>"
 msgstr "<a href=\"#select\">Retour au formulaire de sélection</a>"
-
-#. type: Content of: <p>
-msgid ""
-"You can also find GNU-related public domain graphics at <a href=\"https://"
-"openclipart.org/search/?query=GNU\">openclipart.org</a>."
-msgstr ""
-"On peut aussi trouver sur <a href=\"https://openclipart.org/search/?query=GNU"
-"\">openclipart.org</a> des illustrations sur le thème de GNU appartenant au "
-"domaine public."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>

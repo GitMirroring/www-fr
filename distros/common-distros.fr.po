@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: common-distros.html\n"
-"POT-Creation-Date: 2022-01-19 13:59+0000\n"
-"PO-Revision-Date: 2022-01-19 19:21+0100\n"
+"POT-Creation-Date: 2022-08-24 12:26+0000\n"
+"PO-Revision-Date: 2022-08-24 15:03+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -330,6 +330,25 @@ msgstr ""
 "Mint n'a pas de règle contre l'inclusion de logiciel non libre ; on trouve "
 "des blobs binaires non libres dans les pilotes empaquetés avec le noyau et "
 "des programmes non libres dans ses dépôts. Il y a même des codecs privateurs."
+
+#. type: Content of: <div><h3>
+msgid "NixOS"
+msgstr "NixOS"
+
+#. type: Content of: <div><p>
+msgid ""
+"NixOS doesn't have any policy that completely forbids nonfree software. "
+"Instead, it has an option that needs to be activated to install nonfree "
+"packages. But even with that option disabled, it still ships nonfree blobs "
+"in its main repository, either with the Linux kernel, or through separate "
+"package(s) like sof-firmware."
+msgstr ""
+"NixOS n'a pas de règle qui interdise complètement le logiciel non libre. Au "
+"lieu de ça, elle a une option qu'on doit activer pour installer des paquets "
+"non libres. Mais même lorsque cette option est désactivée, la distribution "
+"propose toujours des blobs non libres dans son dépôt principal <i>[main]</"
+"i>, soit avec le noyau Linux, soit dans des paquets séparés comme <i>sof-"
+"firmware</i>."
 
 #. type: Content of: <div><h3>
 msgid "openSUSE"
@@ -713,10 +732,9 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
-# No significant change in 2022.
 #. type: Content of: <div><p>
 msgid "Copyright &copy; 2009-2019, 2021, 2022 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2009-2019, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2009-2019, 2021, 2022 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
