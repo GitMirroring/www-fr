@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: graphics.html\n"
-"POT-Creation-Date: 2022-08-24 09:27+0000\n"
-"PO-Revision-Date: 2022-08-24 15:01+0200\n"
+"POT-Creation-Date: 2022-09-25 13:26+0000\n"
+"PO-Revision-Date: 2022-09-25 16:39+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -134,6 +134,10 @@ msgid "<select name=\"type\" id=\"type\" title=\"Type\">"
 msgstr "<select name=\"type\" id=\"type\" title=\"Type\">"
 
 #. type: Content of: <div><form><div><select><option>
+msgid "AI art"
+msgstr "Images générées par IA"
+
+#. type: Content of: <div><form><div><select><option>
 msgid "ASCII / TTY art"
 msgstr "Format ASCII ou TTY"
 
@@ -182,16 +186,28 @@ msgid "What's new?"
 msgstr "Quoi de neuf ?"
 
 #. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/ai-art.html\">"
+msgstr "<a href=\"/graphics/ai-art.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Gnu with wood-like hair structure]&nbsp;"
+msgstr " [Gnou avec un pelage en veines de bois] "
+
+#. type: Content of: <table><tr><td>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <table><tr><td>
+msgid "September 2022: GNU-themed AI art"
+msgstr "Septembre 2022 : Images générées par IA sur le thème de GNU"
+
+#. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/techy-gnu-tux-bivouac.html\">"
 msgstr "<a href=\"/graphics/techy-gnu-tux-bivouac.html\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "&nbsp;[Gnu and Tux bivouac in the desert]&nbsp;"
 msgstr " [Gnu et Tux bivouaquent dans le désert] "
-
-#. type: Content of: <table><tr><td>
-msgid "</a>"
-msgstr "</a>"
 
 #. type: Content of: <table><tr><td>
 msgid "October 2021: Gnu and Tux Bivouac"
@@ -496,6 +512,10 @@ msgstr "Logo sphérique pour Hurd"
 #. type: Content of: <table><tr><td>
 msgid "<small>by Teddy Hogeborn</small>"
 msgstr "<small>de Teddy Hogeborn</small>"
+
+#. type: Content of: <table><tr><td>
+msgid "GNU-themed AI art"
+msgstr "Images générées par IA sur le thème de GNU"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/alternative-ascii.html\">"
