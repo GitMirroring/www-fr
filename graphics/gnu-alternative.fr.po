@@ -7,28 +7,29 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-alternative.html\n"
-"POT-Creation-Date: 2020-10-06 08:26+0000\n"
-"PO-Revision-Date: 2020-12-06 14:03+0100\n"
+"POT-Creation-Date: 2022-09-30 17:55+0000\n"
+"PO-Revision-Date: 2022-10-01 08:16+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
-msgid "GNU Alternative - GNU Project - Free Software Foundation"
-msgstr "Tête de GNU alternative - Projet GNU - Free Software Foundation"
+msgid ""
+"GNU Alternative by Martin R. Peck - GNU Project - Free Software Foundation"
+msgstr ""
+"Tête de GNU alternative par Martin R. Peck - Projet GNU - Free Software "
+"Foundation"
 
 #. type: Content of: <h2>
 msgid "GNU Alternative"
 msgstr "Tête de GNU alternative"
 
 #. type: Content of: <address>
-msgid "by an anonymous artist"
-msgstr "par un artiste anonyme"
+msgid "by Martin R. Peck"
+msgstr "par Martin R. Peck"
 
 #. type: Content of: <div><div><a>
 msgid "<a href=\"/graphics/gnu-alternative.jpg\">"
@@ -67,6 +68,14 @@ msgstr ""
 "SVG&nbsp; <a href=\"/graphics/gnu-alternative.svg\">14 ko</a>, vectorisé par "
 "Sergiy S. Kolesnikov"
 
+#. type: Content of: <div><ul><li>
+msgid ""
+"SVG&nbsp; <a href=\"/graphics/gnu-alternative-redrawn.svg\">1.4kB</a>, "
+"redrawn by Yevhen Babiichuk."
+msgstr ""
+"SVG&nbsp; <a href=\"/graphics/gnu-alternative.svg\">14 ko</a>, redessiné par "
+"Yevhen Babiichuk."
+
 #. type: Content of: <div><div><p>
 msgid "Copyright &copy; 2000 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 2000 Free Software Foundation, Inc."
@@ -96,7 +105,7 @@ msgid ""
 msgstr ""
 "Toutefois, la tête de GNU est aussi un logo déposé du projet GNU. <strong>Si "
 "vous voulez vous servir de cette tête de GNU pour mettre en lien un site web "
-"de la <i>Free Software Foundation</i> ou du projet GNU, n'hésitez pas ; de "
+"de la <i>Free Software Foundation</i> ou du projet GNU, n'hésitez pas ; de "
 "même, vous n'avez pas besoin de permission supplémentaire pour l'utiliser "
 "dans des contextes qui parlent de GNU de manière positive et exacte. Pour "
 "tout autre usage, veuillez au préalable demander la permission à <a href="
@@ -147,10 +156,10 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"<em>Page text:</em>&nbsp; Copyright &copy; 2019, 2020 Free Software "
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019, 2020, 2022 Free Software "
 "Foundation, Inc."
 msgstr ""
-"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019, 2020 Free Software "
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2022 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -167,10 +176,13 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Cédric Corazza.<br />Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Cédric Corazza.<br />Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+#~ msgid "by an anonymous artist"
+#~ msgstr "par un artiste anonyme"
