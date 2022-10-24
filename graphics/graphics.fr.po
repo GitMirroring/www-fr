@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: graphics.html\n"
-"POT-Creation-Date: 2022-10-07 09:29+0000\n"
-"PO-Revision-Date: 2022-10-07 11:50+0200\n"
+"POT-Creation-Date: 2022-10-24 09:55+0000\n"
+"PO-Revision-Date: 2022-10-24 14:22+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -186,16 +186,32 @@ msgid "What's new?"
 msgstr "Quoi de neuf ?"
 
 #. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/chan-i-love-fs-banner.html\">"
+msgstr "<a href=\"/graphics/chan-i-love-fs-banner.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Banner in cartoon style promoting free software]&nbsp;"
+msgstr " [Bannière de promotion du logiciel libre en style BD] "
+
+#. type: Content of: <table><tr><td>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <table><tr><td>
+msgid "October 2022: I Love Free Software"
+msgstr "Octobre 2022: J'aime le logiciel libre"
+
+#. type: Content of: <table><tr><td>
+msgid "<small>by Carlos Chan</small>"
+msgstr "<small>par Carlos Chan</small>"
+
+#. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/ai-art.html\">"
 msgstr "<a href=\"/graphics/ai-art.html\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "&nbsp;[Gnu with wood-like hair structure]&nbsp;"
 msgstr " [Gnou avec un pelage en veines de bois] "
-
-#. type: Content of: <table><tr><td>
-msgid "</a>"
-msgstr "</a>"
 
 #. type: Content of: <table><tr><td>
 msgid "September 2022: GNU-themed AI art"
@@ -628,6 +644,10 @@ msgstr "Le duo dynamique : le Gnou et le Manchot en vol"
 #. type: Content of: <table><tr><td>
 msgid "<small>by Lissanne Lake</small>"
 msgstr "<small>par Lissanne Lake</small>"
+
+#. type: Content of: <table><tr><td>
+msgid "I Love Free Software"
+msgstr "J'aime le logiciel libre"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/copyleft-sticker.html\">"
