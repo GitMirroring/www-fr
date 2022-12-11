@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-1.html\n"
-"POT-Creation-Date: 2022-12-10 17:56+0000\n"
-"PO-Revision-Date: 2022-12-10 19:26+0100\n"
+"POT-Creation-Date: 2022-12-11 15:25+0000\n"
+"PO-Revision-Date: 2022-12-11 15:49+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -65,25 +65,21 @@ msgstr ""
 "<small id=\"fsf-support\">Soutenu par la <a href=\"#mission-statement\">Free "
 "Software Foundation</a></small>"
 
-#. type: Content of: <div><div><a>
-msgid ""
-"<a id=\"search-button\" class=\"switch\" href=\"//www.gnu.org/cgi-bin/"
-"estseek.cgi\">"
-msgstr ""
-"<a id=\"search-button\" class=\"switch\" href=\"//www.gnu.org/cgi-bin/"
-"estseek.cgi\">"
+#. type: Content of: <div><div><div><a>
+msgid "<a href=\"//www.gnu.org/cgi-bin/estseek.cgi\">"
+msgstr "<a href=\"//www.gnu.org/cgi-bin/estseek.cgi\">"
 
-#. type: Attribute 'alt' of: <div><div><a><img>
+#. type: Attribute 'alt' of: <div><div><div><a><img>
 msgid "&nbsp;[Search www.gnu.org]&nbsp;"
 msgstr " [Rechercher sur www.gnu.org] "
 
-#. #if expr="$TRANSLATION_LIST = /<span dir=\"ltr\">/" 
-#. #endif 
-#. type: Content of: <div><div>
-msgid ""
-"</a> <a id=\"language-button\" href=\"#language-container\">LANGUAGES</a>"
-msgstr ""
-"</a> <a id=\"language-button\" href=\"#language-container\">LANGUAGES</a>"
+#. type: Content of: <div><div><div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><div><div>
+msgid "<a href=\"#language-container\">LANGUAGES</a>"
+msgstr "<a href=\"#language-container\">LANGUAGES</a>"
 
 #~ msgid ""
 #~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
