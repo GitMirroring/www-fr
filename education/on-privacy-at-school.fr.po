@@ -1,0 +1,333 @@
+# French translation of https://www.gnu.org/education/on-privacy-at-school.html
+# Copyright (C) 2022 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Patrick Creusot, 2022.
+# Francois Ochsenbein, 2022.
+# Laurent Lyaudet, 2022.
+# Thérèse Godefroy <godef.th@free.fr>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: on-privacy-at-school.html\n"
+"POT-Creation-Date: 2022-12-09 11:25+0000\n"
+"PO-Revision-Date: 2022-12-30 18:14+0100\n"
+"Last-Translator: Thérèse Godefroy <godef.th@free.fr>\n"
+"Language-Team: French <trad-gnu@april.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Content of: <title>
+msgid "On Privacy at School - GNU Project - Free Software Foundation"
+msgstr "Sur la vie privée à l'école - Projet GNU - Free Software Foundation"
+
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Menu Éducation"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Menu Éducation]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Accueil GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/bigtech-threats-to-education-and-society.html\">Big&nbsp;"
+"Tech&nbsp;Threats</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Éducation</a>&nbsp;/ <a "
+"href=\"/education/bigtech-threats-to-education-and-society.html"
+"\">Menaces des géants de la tech</a>&nbsp;/"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Examples of <a href=\"/proprietary/malware-edtech.html#content\">malware in "
+"educational proprietary technologies</a>."
+msgstr ""
+"Exemples de la <a href=\"/proprietary/malware-edtech.html#content"
+"\">malveillance des technologies privatrices de l'éducation</a>."
+
+#. type: Content of: <div><h2>
+msgid "On Privacy at School"
+msgstr "Sur la vie privée à l'école"
+
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "par Richard Stallman"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Wired published an article of advice for students about <a href=\"https://"
+"www.wired.com/story/how-to-protect-yourself-school-surveillance-tech-privacy/"
+"\"> how to resist surveillance by their schools</a>."
+msgstr ""
+"Un article de <cite>Wired</cite> donne  des conseils aux étudiants sur <a "
+"href=\"https://www.wired.com/story/how-to-protect-yourself-school-"
+"surveillance-tech-privacy/\">la manière de résister à la surveillance "
+"exercée par leurs écoles</a>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The advice it gives is valid as far as it goes, but it falls far short of "
+"what students need to know to resist all the threats."
+msgstr ""
+"Les conseils qu'il donne sont valables dans une certaine mesure, mais ils "
+"sont loin de couvrir tout ce que les étudiants doivent savoir pour résister "
+"à ces menaces."
+
+#. type: Content of: <div><div><p>
+msgid "The article poses the question:"
+msgstr "L'article pose la question :"
+
+#. type: Content of: <div><div><blockquote><p>
+msgid "How is student data secured?"
+msgstr "Comment les données des étudiants sont-elles sécurisées ?"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This question invites confusion. If someone claims to keep data about you "
+"&ldquo;secure,&rdquo; what does that mean? Secure <em>from whom</em>? The "
+"school's computers are unlikely to keep anyone secure from <a href=\"/"
+"education/governments-let-companies-snoop-on-students.html\"> snooping "
+"EdTech companies</a> that operate with the school's cooperation."
+msgstr ""
+"La question prête à confusion. Si quelqu'un affirme assurer la « sécurité » "
+"de vos données, qu'est-ce que cela signifie ? Sécurité <em>par rapport à "
+"qui</em> ? Il est peu probable que les ordinateurs de l'école assurent la "
+"sécurité de quiconque par rapport à un <a href=\"/education/governments-let-"
+"companies-snoop-on-students.html\">espionnage par les entreprises de "
+"technologie de l'éducation</a> (EdTech, en abrégé) qui opèrent avec la "
+"bénédiction de l'école."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"&ldquo;Using your own personal device&rdquo; usually means using a <a href="
+"\"/proprietary/malware-mobiles.html\">snoop-phone</a>. It may protect you "
+"from snooping by the school and by <a href=\"/proprietary/malware-edtech.html"
+"\">EdTech companies</a>, provided you never use it to visit a site that has "
+"anything to do with the school or an EdTech company and never do unencrypted "
+"communication&#8239;<a href=\"#Note1\" id=\"Note1-rev\">[1]</a>.  But the "
+"device was made by a computer company&mdash;usually <a href=\"/proprietary/"
+"malware-apple.html\">Apple</a> or <a href=\"/proprietary/malware-google.html"
+"\">Google</a>&mdash;that also made the operating system in it. That system "
+"always contains nonfree software that snoops on you plenty. Most <a href=\"/"
+"proprietary/proprietary-surveillance.html#SpywareInApplications\"> apps</a> "
+"for that snoop-phone are nonfree, and they snoop for various companies, "
+"often behind the back of the organization that commissioned development of "
+"the app itself. Encryption features or apps, if they are part of that "
+"nonfree operating system or nonfree themselves, are likely to snoop on users "
+"too."
+msgstr ""
+"« L'utilisation de son appareil personnel » équivaut généralement à "
+"l'utilisation d'un <a href=\"/proprietary/malware-mobiles.html\">téléphone "
+"espion</a> Cela peut éviter d'être espionné par l'école et par des <a href="
+"\"/proprietary/malware-edtech.html\">entreprises d'EdTech</a>, à condition "
+"de ne jamais l'utiliser pour rendre visite à un site en rapport avec l'école "
+"ou une entreprise d'EdTech et de ne jamais effectuer de communications non "
+"chiffrées <a href=\"#Note1\" id=\"Note1-rev\">[1]</a>. Mais l'appareil a été "
+"fabriqué par une entreprise informatique (habituellement <a href=\"/"
+"proprietary/malware-apple.html\">Apple</a> ou <a href=\"/proprietary/malware-"
+"google.html\">Google</a>) qui a également conçu le système d'exploitation "
+"qui va avec. Ce système contient toujours du logiciel non libre qui vous "
+"espionne copieusement. La plupart des <a href=\"/proprietary/proprietary-"
+"surveillance.html#SpywareInApplications\">applis</a> destinées à ces "
+"téléphones espions ne sont pas libres et vous espionnent pour diverses "
+"entreprises, souvent en lien avec l'organisation qui a commandé le "
+"développement de l'appli elle-même. Les fonctions ou applis de chiffrement, "
+"si elles font partie de ce système d'exploitation non libre ou si elles-"
+"mêmes ne sont pas libres, espionnent probablement les utilisateurs à leur "
+"tour."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The only way to protect yourself against this is to <a href=\"/education/"
+"bigtech-threats-to-education-and-society.html\">reject nonfree programs</a> "
+"(programs that are not free/libre) in your device.  (Alas, iPhones entirely "
+"prohibit free software.) And even then, the hardware may have a back door, "
+"such as Microsoft's Pluton chip or the <a href=\"/proprietary/proprietary-"
+"insecurity.html#M201706050\">Intel Management Engine</a>."
+msgstr ""
+"Le seul moyen de vous protéger contre tout ça est de <a href=\"/education/"
+"bigtech-threats-to-education-and-society.html\">rejeter les programmes non "
+"libres</a> de vos appareils (malheureusement, les iPhones bannissent "
+"complètement le logiciel libre). Et même ainsi, le matériel peut contenir "
+"une porte dérobée, comme la puce Pluton de Microsoft ou le <a href=\"/"
+"proprietary/proprietary-insecurity.html#M201706050\">moteur de gestion "
+"d'Intel</a> <i>[Intel Management Engine – IME]</i>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Connecting a phone or computer to USB, even &ldquo;for charging,&rdquo; "
+"makes it vulnerable. Some <a href=\"https://www.wallofsheep.com/pages/juice"
+"\">security conferences</a>, with the purpose of educating the public about "
+"security issues, have installed a place full of USB sockets which were set "
+"up also to snoop on any computer (including a snoop-phone) plugged in there. "
+"The participants saw a USB jack and thought, &ldquo;This is where we should "
+"charge our devices,&rdquo; and assumed it was safe to use. When the "
+"conference organizers revealed the snooping, they taught these users a "
+"lesson about security."
+msgstr ""
+"La connexion d'un smartphone ou d'un ordinateur à une prise USB, ne serait-"
+"ce que « pour le charger », le rend vulnérable. Dans les locaux de certains "
+"<a href=\"https://www.wallofsheep.com/pages/juice\">congrès sur la sécurité</"
+"a> destinés à informer le public sur ces problèmes, il y avait un endroit "
+"plein de prises USB configurées pour espionner tous les ordinateur qu'on y "
+"connectait, y compris les téléphones espions. Voyant ces prises USB, les "
+"participants se disaient « C'est là que nous devons charger nos appareils » "
+"et supposaient qu'ils pouvaient le faire en toute sécurité. Quand les "
+"organisateurs leur révélaient l'espionnage auquel ils s'étaient livrés,  "
+"c'était une bonne leçon de sécurité qu'ils donnaient aux participants."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Privacy is not only for children and teenagers. We need to demand privacy "
+"for adults, too. This means that schools, stores, clinics, transportation "
+"companies, and other organizations people deal with must not demand you tell "
+"them who you are unless that is directly necessary, and must not otherwise "
+"try to find out."
+msgstr ""
+"La vie privée ne concerne pas que les enfants et les adolescents. Nous "
+"devons exiger le respect de la vie privée pour les adultes également. Cela "
+"implique que les écoles, les boutiques, les cliniques, les sociétés de "
+"transport et les autres organisations qui interviennent dans nos démarches "
+"ne doivent pas exiger que vous leur révéliez votre identité à moins que ce "
+"ne soit indispensable et, sinon, ne doivent en aucun cas essayer de la "
+"découvrir."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<a href=\"#Note1-rev\" id=\"Note1\">[1]</a> To be secure for you, encryption "
+"has to be done with a free program that you have installed into your "
+"computer. If a <a href=\"/proprietary/proprietary-insecurity."
+"html#M201309054\">nonfree program running in your computer does the "
+"encryption</a>, including <a href=\"/philosophy/javascript-trap.html"
+"\">JavaScript</a> sent to the browser by an online &ldquo;service,&rdquo; or "
+"if it is done in the <a href=\"/philosophy/who-does-that-server-really-serve."
+"html\">online &ldquo;service&rdquo; server</a> itself, it is not secure."
+msgstr ""
+"<a href=\"#Note1-rev\" id=\"Note1\">[1]</a> Pour assurer votre sécurité, le "
+"chiffrement doit être réalisé avec un logiciel libre que vous avez installé "
+"sur votre ordinateur. Si c'est un <a href=\"/proprietary/proprietary-"
+"insecurity.html#M201309054\">logiciel privateur tournant sur votre "
+"ordinateur qui réalise le chiffrement</a> (y compris si c'est du <a href=\"/"
+"philosophy/javascript-trap.html\">Javascript</a> envoyé par un « service » "
+"en ligne à votre navigateur ou exécuté par le <a href=\"/philosophy/who-does-"
+"that-server-really-serve.html\">serveur du « service » en ligne</a> lui-"
+"même), votre sécurité n'est pas assurée."
+
+#. type: Content of: <div><div><p>
+msgid "To learn more:"
+msgstr "Pour approfondir :"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<a href=\"/education/governments-let-companies-snoop-on-students.html#content"
+"\"> Many Governments Encourage Schools to Let Companies Snoop on Students</a>"
+msgstr ""
+"<a href=\"/education/governments-let-companies-snoop-on-students.html#content"
+"\">De nombreux gouvernements encouragent les écoles à laisser les "
+"entreprises espionner les élèves</a>"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<a href=\"/education/resisting-proprietary-software.html#content\"> "
+"Resisting Proprietary Software</a>"
+msgstr ""
+"<a href=\"/education/resisting-proprietary-software.html#content\">Résister "
+"aux logiciels privateurs</a>"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<a href=\"/education/dangers-of-proprietary-systems-in-online-teaching."
+"html#content\"> The Dangers of Proprietary Systems in Online Teaching</a>"
+msgstr ""
+"<a href=\"/education/dangers-of-proprietary-systems-in-online-teaching."
+"html#content\">Les dangers des systèmes privateurs dans l'enseignement en "
+"ligne</a>"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Veuillez envoyer les requêtes concernant la FSF et GNU à &lt;<a href="
+"\"mailto:gnu@gnu.org\">gnu@gnu.org</a>&gt;. Il existe aussi <a href=\"/"
+"contact/\">d'autres moyens de contacter</a> la FSF. Les liens orphelins et "
+"autres corrections ou suggestions peuvent être signalés à &lt;<a href="
+"\"mailto:webmasters@gnu.org\">webmasters@gnu.org</a>&gt;."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
+"\"mailto:trad-gnu@april.org\">trad-gnu@april.org</a>&gt;, et sur les "
+"traductions en général à &lt;<a href=\"mailto:web-translators@gnu.org\">web-"
+"translators@gnu.org</a>&gt;. Si vous souhaitez y contribuer, vous trouverez "
+"dans le <a href=\"/server/standards/README.translations.html\">guide de "
+"traduction</a> les infos nécessaires."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2022 Richard Stallman"
+msgstr "Copyright &copy; 2022 Richard Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Cette page peut être utilisée suivant les conditions de la licence <a rel="
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduction : Patrick Creusot<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
+"april.org\">trad-gnu&#64;april.org</a>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Dernière mise à jour :"
