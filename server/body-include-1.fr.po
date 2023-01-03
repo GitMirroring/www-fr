@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-1.html\n"
-"POT-Creation-Date: 2022-12-11 15:25+0000\n"
-"PO-Revision-Date: 2022-12-11 15:49+0100\n"
+"POT-Creation-Date: 2023-01-03 09:56+0000\n"
+"PO-Revision-Date: 2023-01-03 11:10+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -69,6 +69,10 @@ msgstr ""
 msgid "<a href=\"//www.gnu.org/cgi-bin/estseek.cgi\">"
 msgstr "<a href=\"//www.gnu.org/cgi-bin/estseek.cgi\">"
 
+#. type: Attribute 'title' of: <div><div><div><a><img>
+msgid "Site search"
+msgstr "Recherche sur le site"
+
 #. type: Attribute 'alt' of: <div><div><div><a><img>
 msgid "&nbsp;[Search www.gnu.org]&nbsp;"
 msgstr " [Rechercher sur www.gnu.org] "
@@ -77,9 +81,17 @@ msgstr " [Rechercher sur www.gnu.org] "
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <div><div><div>
-msgid "<a href=\"#language-container\">LANGUAGES</a>"
-msgstr "<a href=\"#language-container\">LANGUAGES</a>"
+#. type: Content of: <div><div><div><a>
+msgid "<a href=\"#language-container\">"
+msgstr "<a href=\"#language-container\">"
+
+#. type: Attribute 'title' of: <div><div><div><a><img>
+msgid "Languages"
+msgstr "Languages"
+
+#. type: Attribute 'alt' of: <div><div><div><a><img>
+msgid "&nbsp;[Other languages]&nbsp;"
+msgstr " [Autres langues] "
 
 #~ msgid ""
 #~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
