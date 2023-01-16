@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: translations.html\n"
-"POT-Creation-Date: 2022-11-16 15:25+0000\n"
-"PO-Revision-Date: 2022-11-16 21:07+0100\n"
+"POT-Creation-Date: 2023-01-16 08:55+0000\n"
+"PO-Revision-Date: 2023-01-16 18:21+0100\n"
 "Last-Translator: Sogal <sogal AT member.fsf.org>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -272,6 +272,15 @@ msgstr ""
 "<code>[de]</code> Traduction de la GPL en <a href=\"http://www.gnu.de/"
 "documents/gpl-3.0.de.html\">allemand</a>"
 
+#.  RT #1891745 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<code>[el]</code> <a href=\"https://mathe.ellak.gr/gpl-3-0-txt/\"> Greek</a> "
+"translation of the GPL"
+msgstr ""
+"<code>[el]</code> Traduction de la GPL en <a href=\"https://mathe.ellak.gr/"
+"gpl-3-0-txt/\">grec</a>"
+
 #.  RT #1210844 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -418,6 +427,15 @@ msgstr ""
 "<code>[ar]</code> Traduction de l'AGPL en <a href=\"http://fairsultan.files."
 "wordpress.com/2013/03/agpl-3-0-ar.pdf\">arabe</a> (PDF)"
 
+#.  RT #1891745 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<code>[el]</code> <a href=\"https://mathe.ellak.gr/agpl-3-0-txt/\"> Greek</"
+"a> translation of the AGPL"
+msgstr ""
+"<code>[el]</code> Traduction de l'AGPL en <a href=\"https://mathe.ellak.gr/"
+"agpl-3-0-txt/\">grec</a>"
+
 #.  RT #1316961 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -484,6 +502,15 @@ msgid ""
 msgstr ""
 "<code>[de]</code> Traduction de la LGPL en <a href=\"http://www.gnu.de/"
 "documents/lgpl-3.0.de.html\">allemand</a>"
+
+#.  RT #1891745 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<code>[el]</code> <a href=\"https://mathe.ellak.gr/lgpl-3-0-txt/\"> Greek</"
+"a> translation of the LGPL"
+msgstr ""
+"<code>[el]</code> Traduction de la LGPL en <a href=\"https://mathe.ellak.gr/"
+"lgpl-3-0-txt/\">grec</a>"
 
 #.  RT #1210844 
 #. type: Content of: <div><ul><li>
@@ -583,6 +610,15 @@ msgstr ""
 "FDL 1.3. Vous pouvez en apprendre plus sur les différences entre ces deux "
 "versions dans <a href=\"/licenses/fdl-1.3-faq.html\">notre FAQ</a>."
 
+#.  RT #1891745 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<code>[el]</code> <a href=\"https://mathe.ellak.gr/fdl-1-3-txt/\"> Greek</a> "
+"translation of the GFDL"
+msgstr ""
+"<code>[el]</code> Traduction de la GFDL en <a href=\"https://mathe.ellak.gr/"
+"fdl-1-3-txt/\">grec</a>"
+
 #.  RT #922239 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -680,6 +716,15 @@ msgstr ""
 "\">GCC</abbr> <abbr title=\"Runtime Library Exception\">RLE</abbr>), "
 "version 3.1"
 
+#.  RT #1891745 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<code>[el]</code> <a href=\"https://mathe.ellak.gr/gcc-exception-3-1-txt/\"> "
+"Greek</a> translation of the GCC RLE"
+msgstr ""
+"<code>[el]</code> Traduction de la GCC RLE en <a href=\"https://mathe.ellak."
+"gr/gcc-exception-3-1-txt/\">grec</a>"
+
 #.  RT #1249115 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -712,6 +757,16 @@ msgstr ""
 #. type: Content of: <div><h4>
 msgid "GNU Autoconf Configure Script Exception, version 3"
 msgstr "Exception du script configure de GNU Autoconf, version 3"
+
+#.  RT #1891745 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<code>[el]</code> <a href=\"https://mathe.ellak.gr/autoconf-exception-3-0-"
+"txt/\"> Greek</a> translation of GNU Autoconf Configure Script Exception"
+msgstr ""
+"<code>[el]</code> Traduction de l'exception du script configure de GNU "
+"Autoconf en <a href=\"https://mathe.ellak.gr/autoconf-exception-3-0-txt/"
+"\">grec</a>"
 
 #.  RT #1249115 
 #. type: Content of: <div><ul><li>
@@ -783,10 +838,11 @@ msgstr ""
 # Pas de changement significatif en 2022.
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996-1999, 2008, 2011, 2015, 2022 Free Software Foundation, "
-"Inc."
+"Copyright &copy; 1996-1999, 2008, 2011, 2015, 2022, 2023 Free Software "
+"Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1996-1999, 2008, 2011, 2015 Free Software Foundation, Inc."
+"Copyright &copy; 1996-1999, 2008, 2011, 2015, 2023 Free Software Foundation, "
+"Inc."
 
 #. type: Content of: <div><p>
 msgid ""
