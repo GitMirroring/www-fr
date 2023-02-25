@@ -4,14 +4,14 @@
 # Vincent Veyron, Olivier Berger, 2001.
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2008.
 # Pierrick L'Ébraly, 2012.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012-2015, 2017.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012-2019, 2021, 2023.
 # Sogal <sogal AT member.fsf.org>, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gpl-faq.html\n"
-"POT-Creation-Date: 2021-12-28 14:55+0000\n"
-"PO-Revision-Date: 2022-05-04 16:13+0200\n"
+"POT-Creation-Date: 2023-02-25 07:56+0000\n"
+"PO-Revision-Date: 2023-02-25 14:34+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -1301,6 +1301,30 @@ msgid ""
 msgstr ""
 "<a href=\"#SystemLibraryException\">Puis-je lier un programme sous GPL avec "
 "une bibliothèque système privatrice ?</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"#AGPLPL\">Can I link GPLv3-covered modules and AGPLv3-covered "
+"modules into one executable?</a>"
+msgstr ""
+"<a href=\"#AGPLPL\">Puis-je lier des modules sous GPLv3 et des modules sous "
+"AGPLv3 en un seul exécutable ?</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"#AGPLLibrary\">Can I link a GPLv3-covered program with an AGPLv3-"
+"covered library?</a>"
+msgstr ""
+"<a href=\"#AGPLLibrary\">Puis-je lier un programme sous GPLv3 avec une "
+"bibliothèque sous AGPLv3 ?</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"#AGPLAndGPLLibrary\">Can I link an AGPLv3-covered program with a "
+"GPLv3-covered library?</a>"
+msgstr ""
+"<a href=\"#AGPLAndGPLLibrary\">Puis-je lier un programme sous AGPLv3 avec "
+"une bibliothèque sous GPLv3 ?</a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -2631,6 +2655,56 @@ msgstr ""
 "Système » dans l'article 1, pour les exclure de la définition de la « Source "
 "Correspondante » ; la GPLv2 traite la question un peu différemment, vers la "
 "fin de l'article 3."
+
+#. type: Content of: <dl><dt>
+msgid ""
+"Can I link GPLv3-covered modules and AGPLv3-covered modules into one "
+"executable? <span class=\"anchor-reference-id\">(<a href=\"#AGPLGPL"
+"\">#AGPLGPL</a>)</span>"
+msgstr ""
+"Puis-je lier des modules sous GPLv3 et des modules sous AGPLv3 en un seul "
+"exécutable ? <span class=\"anchor-reference-id\">(<a href=\"#AGPLGPL"
+"\">#AGPLGPL</a>)</span>"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"You can always link GPLv3-covered modules with AGPLv3-covered modules.  That "
+"is because each of these licenses explicitly permits linking with code under "
+"the other license."
+msgstr ""
+"Vous pouvez toujours lier des modules sous GPLv3 avec des modules sous "
+"AGPLv3, ceci parce que chacune de ces licences permet explicitement la "
+"liaison avec du code sous l'autre licence."
+
+#. type: Content of: <dl><dt>
+msgid ""
+"Can I link a GPLv3-covered program with an AGPLv3-covered library? <span "
+"class=\"anchor-reference-id\">(<a href=\"#AGPLLibrary\">#AGPLLibrary</a>)</"
+"span>"
+msgstr ""
+"Puis-je lier un programme sous GPLv3 avec une bibliothèque sous AGPLv3 ? "
+"<span class=\"anchor-reference-id\">(<a href=\"#AGPLLibrary\">#AGPLLibrary</"
+"a>)</span>"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"You can always <a href=\"#AGPLGPL\">link GPLv3-covered modules with AGPLv3-"
+"covered modules</a>.  That is true regardless of whether some of the modules "
+"are libraries."
+msgstr ""
+"Vous pouvez toujours <a href=\"#AGPLGPL\">lier des modules sous GPLv3 avec "
+"des modules sous AGPLv3</a>. C'est vrai même si certains de ces modules sont "
+"des bibliothèques."
+
+#. type: Content of: <dl><dt>
+msgid ""
+"Can I link an AGPLv3-covered program with a GPLv3-covered library? <span "
+"class=\"anchor-reference-id\">(<a href=\"#AGPLAndGPLLibrary"
+"\">#AGPLAndGPLLibrary</a>)</span>"
+msgstr ""
+"Puis-je lier un programme sous AGPLv3 avec un programme sous GPLv3 ? <span "
+"class=\"anchor-reference-id\">(<a href=\"#AGPLAndGPLLibrary"
+"\">#AGPLAndGPLLibrary</a>)</span>"
 
 #. type: Content of: <dl><dt>
 msgid ""
@@ -5149,13 +5223,13 @@ msgstr ""
 msgid ""
 "If the version has been released elsewhere, then the thief probably does "
 "have the right to make copies and redistribute them under the GPL, but if "
-"the thief is imprisoned for stealing the CD, they may have to wait until "
+"thieves are imprisoned for stealing the CD, they may have to wait until "
 "their release before doing so."
 msgstr ""
-"Si la version a été publiée ailleurs, alors il est probable que le voleur a "
-"effectivement le droit de faire des copies et de les redistribuer sous GPL, "
-"mais si on le met en prison pour avoir volé le CD, il se peut qu'il doive "
-"attendre sa libération pour le faire."
+"Si la version a été publiée ailleurs, alors il est probable que les voleurs "
+"ont effectivement le droit de faire des copies et de les redistribuer sous "
+"GPL, mais si on les met en prison pour avoir volé le CD, il se peut qu'ils "
+"doivent attendre leur libération pour le faire."
 
 #. type: Content of: <dl><dd><p>
 msgid ""
@@ -7946,7 +8020,7 @@ msgstr "<a href=\"#matrix-skip-target\">Sauter les notes</a>"
 #. type: Content of: <p>
 msgid ""
 "1: You must follow the terms of GPLv2 when incorporating the code in this "
-"case. You cannot take advantage of terms in later versions of the GPL."
+"case.  You cannot take advantage of terms in later versions of the GPL."
 msgstr ""
 "1 : Dans ce cas, vous devez suivre les termes de la GPLv2 en incorporant le "
 "code. Vous ne pouvez pas bénéficier des termes des versions ultérieures de "
@@ -7954,22 +8028,21 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"2: While you may release your project (either your original work and/or work "
-"that you received and modified)  under GPLv2-or-later in this case, note "
-"that the other code you're using must remain under GPLv2 only.  As long as "
-"your project depends on that code, you won't be able to upgrade the license "
-"of your project to GPLv3-or-later, and the work as a whole (any combination "
-"of both your project and the other code) can only be conveyed under the "
-"terms of GPLv2."
+"2: While you may release under GPLv2-or-later both your original work, and/"
+"or modified versions of work you received under GPLv2-or-later, the GPLv2-"
+"only code that you're using must remain under GPLv2 only.  As long as your "
+"project depends on that code, you won't be able to upgrade the license of "
+"your own code to GPLv3-or-later, and the work as a whole (any combination of "
+"both your project and the other code) can only be conveyed under the terms "
+"of GPLv2."
 msgstr ""
-"2 : Dans ce cas, vous pouvez publier votre projet (que ce soit un programme "
-"dont vous êtes l'auteur original ou un programme que vous avez reçu et "
-"modifié) sous la GPLv2 ou version ultérieure. Notez que l'autre code que "
-"vous utilisez doit rester sous GPLv2 seulement. Tant que votre projet dépend "
-"de ce code, vous ne serez pas en mesure de faire passer votre projet sous "
-"GPLv3 ou ultérieure, et la création dans son ensemble (toute combinaison de "
-"votre projet avec l'autre code) ne pourra être transmis que sous les termes "
-"de la GPLv2."
+"2 : Vous pouvez publier votre projet (que ce soit un programme dont vous "
+"êtes l'auteur original ou un programme que vous avez reçu et modifié) sous "
+"GPLv2 ou ultérieure, mais le code qui est sous GPLv2 seulement doit rester "
+"sous GPLv2 seulement. Tant que votre projet dépend de ce code, vous ne serez "
+"pas en mesure de faire passer votre projet sous GPLv3 ou ultérieure, et la "
+"création dans son ensemble (toute combinaison de votre projet avec l'autre "
+"code) ne pourra être transmis que sous les termes de la GPLv2."
 
 #. type: Content of: <p>
 msgid ""
@@ -8245,8 +8318,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2001-2019, 2021 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2001-2019, 2021 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2001-2019, 2021, 2023 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2001-2019, 2021, 2023 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
