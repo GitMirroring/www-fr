@@ -2,13 +2,13 @@
 # Copyright (C) 2005 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Romain Gardon, 2005.
-# Thérèse Godefroy <godef.th AT free.fr>, 2012-2022.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012-2023.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: graphics.html\n"
-"POT-Creation-Date: 2023-02-24 21:25+0000\n"
-"PO-Revision-Date: 2023-02-25 14:34+0100\n"
+"POT-Creation-Date: 2023-02-27 18:25+0000\n"
+"PO-Revision-Date: 2023-02-27 22:01+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -85,11 +85,11 @@ msgstr "tout"
 
 #. type: Content of: <div><form><div><select><option>
 msgid "Gnu head"
-msgstr "Tête de GNU"
+msgstr "tête de GNU"
 
 #. type: Content of: <div><form><div><select><option>
 msgid "Gnu character"
-msgstr "Personnage Gnou"
+msgstr "personnage Gnou"
 
 #. type: Content of: <div><form><div><select><option>
 msgid "Tux / Freedo"
@@ -104,20 +104,16 @@ msgid "Emacs"
 msgstr "Emacs"
 
 #. type: Content of: <div><form><div><select><option>
-msgid "Other free software / FSF"
-msgstr "Autres logiciels libres / FSF"
+msgid "other free software / FSF"
+msgstr "autres logiciels libres / FSF"
 
 #. type: Content of: <div><form><div><select><option>
-msgid "license"
-msgstr "licence"
+msgid "licenses"
+msgstr "licences"
 
 #. type: Content of: <div><form><div><select><option>
-msgid "DRM"
-msgstr "DRM"
-
-#. type: Content of: <div><form><div><select><option>
-msgid "surveillance"
-msgstr "surveillance"
+msgid "proprietary malware"
+msgstr "maliciels du privateur"
 
 #. #endif 
 #. type: Content of: <div><form><div>
@@ -142,8 +138,12 @@ msgid "ASCII / TTY art"
 msgstr "Format ASCII ou TTY"
 
 #. type: Content of: <div><form><div><select><option>
-msgid "banner / badge / t-shirt"
-msgstr "bannière / badge / t-shirt"
+msgid "banner"
+msgstr "bannière"
+
+#. type: Content of: <div><form><div><select><option>
+msgid "badge / t-shirt"
+msgstr "badge / t-shirt"
 
 #. type: Content of: <div><form><div><select><option>
 msgid "button / stamp / sticker"
@@ -328,38 +328,6 @@ msgstr "Mars 2021 : Logos responsifs pour gnu.org"
 #. type: Content of: <table><tr><td>
 msgid "<small>by JC</small>"
 msgstr "<small>par JC</small>"
-
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"/graphics/wilgus-gnutiling.html\">"
-msgstr "<a href=\"/graphics/wilgus-gnutiling.html\">"
-
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "&nbsp;[Embossed GNU-head tiling]&nbsp;"
-msgstr " [Mosaïque de têtes de GNU en léger relief] "
-
-#. type: Content of: <table><tr><td>
-msgid "May 2020: GNU-Head Tiling wallpapers"
-msgstr "Mai 2020 : Mosaïques de têtes de GNU"
-
-#. type: Content of: <table><tr><td>
-msgid "<small>by Kacper Wilgus</small>"
-msgstr "<small>par Kacper Wilgus</small>"
-
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"/graphics/gnu-smiling.html\">"
-msgstr "<a href=\"/graphics/gnu-smiling.html\">"
-
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "&nbsp;[Smiling GNU head]&nbsp;"
-msgstr " [Tête de GNU souriante] "
-
-#. type: Content of: <table><tr><td>
-msgid "March 2020: GNU Smiling"
-msgstr "Mars 2020 : GNU souriant"
-
-#. type: Content of: <table><tr><td>
-msgid "<small>by Las</small>"
-msgstr "<small>par Las</small>"
 
 #. type: Content of: <h3>
 msgid "GNU Art on this site"
@@ -1193,9 +1161,21 @@ msgstr "Illustrations GNU/Linux"
 msgid "<small>by Rui Damas</small>"
 msgstr "<small>par Rui Damas</small>"
 
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/gnu-smiling.html\">"
+msgstr "<a href=\"/graphics/gnu-smiling.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Smiling GNU head]&nbsp;"
+msgstr " [Tête de GNU souriante] "
+
 #. type: Content of: <table><tr><td>
 msgid "GNU Smiling"
 msgstr "GNU souriant"
+
+#. type: Content of: <table><tr><td>
+msgid "<small>by Las</small>"
+msgstr "<small>par Las</small>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnubanner.html\">"
@@ -1849,9 +1829,21 @@ msgstr " [Tête de gnou avec devise sur des banderoles] "
 msgid "What's GNU"
 msgstr "<i>« What's GNU »</i>"
 
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/wilgus-gnutiling.html\">"
+msgstr "<a href=\"/graphics/wilgus-gnutiling.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Embossed GNU-head tiling]&nbsp;"
+msgstr " [Mosaïque de têtes de GNU en léger relief] "
+
 #. type: Content of: <table><tr><td>
 msgid "GNU-Head Tiling wallpapers"
 msgstr "Mosaïques de têtes de GNU"
+
+#. type: Content of: <table><tr><td>
+msgid "<small>by Kacper Wilgus</small>"
+msgstr "<small>par Kacper Wilgus</small>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/winkler-gnu.html\">"
