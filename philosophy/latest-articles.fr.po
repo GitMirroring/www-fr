@@ -6,15 +6,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: latest-articles.html\n"
-"POT-Creation-Date: 2021-08-18 15:55+0000\n"
-"PO-Revision-Date: 2021-08-19 10:59+0200\n"
+"POT-Creation-Date: 2023-03-24 13:25+0000\n"
+"PO-Revision-Date: 2023-03-24 15:04+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
 
 #. type: Content of: <title>
 msgid "Latest Articles - GNU Project - Free Software Foundation"
@@ -34,6 +33,15 @@ msgstr ""
 
 #. type: Content of: <div><ul><li>
 msgid ""
+"<a href=\"/philosophy/tivoization.html\">Tivoization</a> &mdash; When free "
+"software isn't free in practice"
+msgstr ""
+"<i><a href=\"/philosophy/tivoization.html\">Tivoization</a> &mdash; When "
+"free software isn't free in practice</i> (Tivoïsation – Quand le logiciel "
+"libre n'est pas libre en pratique)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
 "<a href=\"/philosophy/wwworst-app-store.html\">The WWWorst app store</a>"
 msgstr ""
 "<a href=\"/philosophy/wwworst-app-store.html\">Un app store de la pire "
@@ -45,7 +53,7 @@ msgid ""
 "Free Software? Free Software and Appliances</a>"
 msgstr ""
 "<a href=\"/philosophy/free-software-rocket.html\">Le logiciel des fusées "
-"doit-il être entièrement libre ? Logiciel libre et matériel</a>"
+"doit-il être entièrement libre ? Logiciel libre et matériel</a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -65,7 +73,7 @@ msgid ""
 "<a href=\"/philosophy/install-fest-devil.html\">Install Fests: What to Do "
 "about the Deal with the Devil</a>"
 msgstr ""
-"<a href=\"/philosophy/install-fest-devil.html\">Install parties : comment "
+"<a href=\"/philosophy/install-fest-devil.html\">Install parties : comment "
 "réagir au pacte avec le diable</a>"
 
 #. type: Content of: <div><ul><li>
@@ -74,7 +82,7 @@ msgid ""
 "Upgrade an Installation of Windows?</a>"
 msgstr ""
 "<a href=\"/philosophy/upgrade-windows.html\">Comment bien mettre à niveau "
-"une installation de Windows ?</a>"
+"une installation de Windows ?</a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -106,7 +114,7 @@ msgid ""
 "Please Don't Say &ldquo;Licensed under GNU GPL 2&rdquo;!</a>"
 msgstr ""
 "<a href=\"/licenses/identify-licenses-clearly.html\">Par souci de clarté, ne "
-"dites pas « sous licence GNU GPL 2 ! »</a>"
+"dites pas « sous licence GNU GPL 2 ! »</a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -129,7 +137,7 @@ msgid ""
 "<a href=\"/philosophy/contradictory-support.html\"> Beware of Contradictory "
 "&ldquo;Support&rdquo;</a>"
 msgstr ""
-"<a href=\"/philosophy/contradictory-support.html\">Attention au « soutien » "
+"<a href=\"/philosophy/contradictory-support.html\">Attention au « soutien » "
 "contredit par les faits</a>"
 
 #. type: Content of: <div><ul><li>
@@ -139,14 +147,6 @@ msgid ""
 msgstr ""
 "<a href=\"/philosophy/when-free-depends-on-nonfree.html\">Quand le logiciel "
 "libre dépend du logiciel non libre</a> "
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/applying-free-sw-criteria.html\"> Applying the Free "
-"Software Criteria</a>"
-msgstr ""
-"<a href=\"/philosophy/applying-free-sw-criteria.html\">Mettre en application "
-"les critères du logiciel libre</a>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -192,8 +192,10 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1996-2010, 2013-2021 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 1996-2010, 2013-2021 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 1996-2010, 2013-2021, 2023 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 1996-2010, 2013-2021, 2023 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -215,3 +217,10 @@ msgstr " "
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+#~ msgid ""
+#~ "<a href=\"/philosophy/applying-free-sw-criteria.html\"> Applying the Free "
+#~ "Software Criteria</a>"
+#~ msgstr ""
+#~ "<a href=\"/philosophy/applying-free-sw-criteria.html\">Mettre en "
+#~ "application les critères du logiciel libre</a>"
