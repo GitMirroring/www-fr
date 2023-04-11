@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: third-party-ideas.html\n"
-"POT-Creation-Date: 2022-10-10 19:55+0000\n"
-"PO-Revision-Date: 2022-12-03 16:21+0100\n"
+"POT-Creation-Date: 2023-04-11 13:55+0000\n"
+"PO-Revision-Date: 2023-04-11 16:27+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -976,14 +976,15 @@ msgstr ""
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"Not available online, but as early as 1960 Bernard Galler wrote a letter to "
-"the editor of the Communications of the ACM (vol.3, no.4, pp.A12-A13), "
-"saying in part (mentioning price, but clearly implying freedom):"
+"As early as 1960, Bernard Galler wrote a <a href=\"https://dl.acm.org/"
+"doi/10.1145/367177.367178\"> letter to the editor of the Communications of "
+"the ACM</a> (vol.3, no.4, pp.A12-A13), saying in part (mentioning price, but "
+"clearly implying freedom):"
 msgstr ""
-"En 1960, Bernard Galler a écrit une lettre (non disponible en ligne) à "
-"l'éditeur des <cite>Communications of the ACM</cite> (vol.3, no.4, pp.A12-"
-"A13), disant entre autres (en mentionnant le prix, mais impliquant "
-"clairement la liberté) :"
+"En 1960, Bernard Galler a écrit une <a href=\"https://dl.acm.org/"
+"doi/10.1145/367177.367178\">lettre à l'éditeur des <cite>Communications of "
+"the ACM</cite></a> (vol.3, no.4, pp.A12-A13), disant entre autres (en "
+"mentionnant le prix, mais impliquant clairement la liberté) :"
 
 #. type: Content of: <div><ul><li><blockquote><p>
 msgid ""
@@ -1067,8 +1068,10 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
+# Pas de changement significatif en 2023.
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1996-2009, 2015, 2022 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 1996-2009, 2015, 2022, 2023 Free Software Foundation, Inc."
 msgstr "Copyright &copy; 1996-2009, 2015, 2022 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
