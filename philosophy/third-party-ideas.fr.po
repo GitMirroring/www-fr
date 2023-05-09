@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: third-party-ideas.html\n"
-"POT-Creation-Date: 2023-04-11 13:55+0000\n"
-"PO-Revision-Date: 2023-04-11 16:27+0200\n"
+"POT-Creation-Date: 2023-05-09 18:25+0000\n"
+"PO-Revision-Date: 2023-05-09 21:32+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -27,7 +27,7 @@ msgstr "Idées de tierces personnes"
 #. type: Content of: <div><div><p>
 msgid ""
 "These articles give other people's philosophical opinions in support of free "
-"software, or related issues, and don't speak for the GNU project&mdash;but "
+"software, or related issues, and don't speak for the GNU Project&mdash;but "
 "we more or less agree with them."
 msgstr ""
 "Ces articles donnent les opinions philosophiques d'autres personnes en "
@@ -48,297 +48,789 @@ msgstr ""
 "informatique et les communications électroniques</a> ont aussi des opinions "
 "philosophiques en faveur des logiciels libres ou sur des sujets connexes."
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/you-the-problem-tpm2-solves.html\">You, the Problem "
-"TPM2 Solves</a>, by Chao-Kuei Hung."
-msgstr ""
-"<a href=\"/philosophy/you-the-problem-tpm2-solves.html\">C'est vous, le "
-"problème que résout TPM2</a>, par Chao-Kuei Hung."
+#. type: Content of: <div><div><h3>
+msgid "Table of Contents"
+msgstr "Table des matières"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
-"<a href=\"/philosophy/lessig-fsfs-intro.html\">Introduction by Lawrence "
-"Lessig</a> to <a href=\"https://shop.fsf.org/books-docs/free-software-free-"
-"society-selected-essays-richard-m-stallman-3rd-edition\"><i> Free Software, "
-"Free Society: The Selected Essays of Richard M. Stallman</i></a>."
+"<a href=\"#extension\">Extending the Free Software Idea to Other Areas</a>"
 msgstr ""
-"<a href=\"/philosophy/lessig-fsfs-intro.html\">Introduction de Lawrence "
-"Lessig</a> à <a href=\"https://shop.fsf.org/books-docs/free-software-free-"
-"society-selected-essays-richard-m-stallman-3rd-edition\"><i> Free Software, "
-"Free Society: The Selected Essays of Richard M. Stallman</i></a> (Logiciel "
-"libre, société libre : essais choisis de Richard M. Stallman)."
+"<a href=\"#extension\">Extension des idées du logiciel libre à d'autres "
+"domaines</a>"
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://freedom-to-tinker.com/blog/tblee/trouble-free-riding\">The "
-"Trouble with &ldquo;Free Riding&rdquo;</a>, by Timothy B. Lee."
-msgstr ""
-"<a href=\"http://freedom-to-tinker.com/blog/tblee/trouble-free-riding"
-"\"><cite>The Trouble with &ldquo;Free Riding&rdquo;</cite></a> (Le problème "
-"du parasitisme), par Timothy B. Lee."
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#upholding\">Upholding Software Freedom</a>"
+msgstr "<a href=\"#upholding\">Défense du logiciel libre</a>"
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://www.cato-unbound.org/2008/06/09/rasmus-fleischer/the-future-"
-"of-copyright/\">The Future of Copyright</a>, an essay by Rasmus Fleischer."
-msgstr ""
-"<a href=\"http://www.cato-unbound.org/2008/06/09/rasmus-fleischer/the-future-"
-"of-copyright/\"><cite>The Future of Copyright</cite></a> (L'avenir du "
-"copyright), un essai de Rasmus Fleischer."
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#licensing\">Licensing Free Software</a>"
+msgstr "<a href=\"#licensing\">Licences de logiciel libre</a>"
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://web.archive.org/web/20190917154711/https://cic.unb.br/"
-"~rezende/trabs/stockholm.html\">The Digital Stockholm Syndrome</a>: "
-"reflections over some psychological responses to market forces, by Pedro "
-"Rezende, University of Brasilia."
-msgstr ""
-"<a href=\"https://web.archive.org/web/20190917154711/https://cic.unb.br/"
-"~rezende/trabs/stockholm.html\"><cite>The Digital Stockholm Syndrome</cite></"
-"a> (Le syndrome de Stockholm numérique) : réflexions sur certaines réponses "
-"psychologiques aux forces du marché, par Pedro Rezende, Université de "
-"Brasilia."
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#laws\">Legal Issues</a>"
+msgstr "<a href=\"#laws\">Questions juridiques</a>"
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://questioncopyright.org\">QuestionCopyright.org</a> is a web "
-"site about the history and effects of copyright, dedicated to raise "
-"awareness of the harmful consequences of today's copyright system."
-msgstr ""
-"<a href=\"http://questioncopyright.org\">QuestionCopyright.org</a> est un "
-"site web sur l'histoire et les effets du copyright, destiné à faire prendre "
-"conscience des conséquences dommageables du système de copyright actuel."
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#patents\">Patents</a>"
+msgstr "<a href=\"#patents\">Brevets</a>"
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://www.informationweek.com/it-life/how-vista-lets-microsoft-"
-"lock-users-in\"> How Vista Lets Microsoft Lock Users In</a> by Cory "
-"Doctorow.  <b>Note:</b> We think it is a mistake to use the enemy's "
-"favorable-sounding propaganda terms such as &ldquo;trusted computing&rdquo; "
-"to describe a malicious plan."
-msgstr ""
-"<cite><a href=\"https://www.informationweek.com/it-life/how-vista-lets-"
-"microsoft-lock-users-in\">How Vista Lets Microsoft Lock Users In</a></cite> "
-"(Comment Vista permet à Microsoft de verrouiller les utilisateurs), par Cory "
-"Doctorow. <b>Note</b> : Nous pensons que c'est une erreur d'utiliser des "
-"termes de propagande de l'ennemi qui paraissent favorables, tels "
-"qu'« informatique de confiance », pour décrire un projet malfaisant."
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#copyright\">Copyright</a>"
+msgstr "<a href=\"#copyright\">Copyright</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li><ul><li>
 msgid ""
-"<a href=\"https://web.archive.org/web/20180914161858/http://movingtofreedom."
-"org/archives/\"> movingtofreedom.org</a>, Scott Carpenter's blog with many "
-"freedom-related articles."
+"<a href=\"#noip\">The propaganda term &ldquo;Intellectual Property&rdquo;</a>"
 msgstr ""
-"<a href=\"https://web.archive.org/web/20180914161858/http://movingtofreedom."
-"org/archives/\">movingtofreedom.org</a>, le blog de Scott Carpenter avec "
-"beaucoup d'articles relatifs à la liberté."
+"<a href=\"#noip\">Le terme de propagande « propriété intellectuelle »</a>"
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://lwn.net/Articles/194701/\">A couple of lessons on the "
-"hazards of proprietary software</a>."
-msgstr ""
-"<a href=\"http://lwn.net/Articles/194701/\"><cite>A couple of lessons on the "
-"hazards of proprietary software</cite></a> (Deux leçons sur les dangers du "
-"logiciel privateur<a id=\"TransNote2-rev\" href=\"#TransNote2\"><sup>2</"
-"sup></a>)."
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#sco\">Response to SCO's attacks</a>"
+msgstr "<a href=\"#sco\">Réponse aux attaques de SCO</a>"
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://southflorida.bizjournals.com/southflorida/"
-"stories/2006/07/03/story8.html\"> Multiple doctors cut off from records by "
-"Dr. Notes</a>, an example of how proprietary software gives the developers "
-"unjust power over the users."
-msgstr ""
-"<a href=\"http://southflorida.bizjournals.com/southflorida/"
-"stories/2006/07/03/story8.html\">Multiple doctors cut off from records by "
-"Dr. Notes</a> (Plusieurs médecins coupés de leurs dossiers par Dr Notes) : "
-"un exemple de la façon dont le logiciel privateur donne aux développeurs un "
-"pouvoir injuste sur les utilisateurs."
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#cultural\">Cultural and Social Issues</a>"
+msgstr "<a href=\"#cultural\">Enjeux culturels et sociétaux</a>"
 
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#general\">General</a>"
+msgstr "<a href=\"#general\">Sujets généraux</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#society\">Digital society</a>"
+msgstr "<a href=\"#society\">Société numérique</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid ""
+"<a href=\"#drm\">Digital restrictions management and treacherous computing</"
+"a>"
+msgstr ""
+"<a href=\"#drm\">Gestion numérique des restrictions et informatique "
+"déloyale</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#access\">Accessing culture</a>"
+msgstr "<a href=\"#access\">Accès à la culture</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#funding\">Funding cultural works</a>"
+msgstr "<a href=\"#funding\">Financement des œuvres culturelles</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid "<a href=\"#evils\">Surveillance, censorship, lock-in, etc.</a>"
+msgstr "<a href=\"#evils\">Surveillance, censure, verrouillage, etc.</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#historical\">Historical</a>"
+msgstr "<a href=\"#historical\">Précurseurs</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#humor\">Philosophical Humor</a>"
+msgstr "<a href=\"#humor\">Humour philosophique</a>"
+
+#. type: Content of: <div><h3>
+msgid "Extending the Free Software Idea to Other Areas"
+msgstr "Extension des idées du logiciel libre à d'autres domaines"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[2004]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"Jimmy Wales explains why <a href=\"http://blog.jimmywales.com/index.php/"
-"archives/2004/10/21/free-knowledge-requires-free-software-and-free-file-"
-"formats/\"> Free Knowledge requires Free Software and Free File Formats</a>. "
-"In this paper, he also exposes why <a href=\"http://www.wikipedia.org"
-"\">Wikipedia</a> needs to be free software."
+"<a href=\"http://blog.jimmywales.com/index.php/archives/2004/10/21/free-"
+"knowledge-requires-free-software-and-free-file-formats/\"> Free Knowledge "
+"requires Free Software and Free File Formats</a> (by Jimmy Wales)  &mdash; "
+"This paper also explains why <a href=\"http://www.wikipedia.org\">Wikipedia</"
+"a> needs to be free software."
 msgstr ""
-"<cite><a href=\"http://blog.jimmywales.com/index.php/archives/2004/10/21/"
-"free-knowledge-requires-free-software-and-free-file-formats/\">Free "
-"Knowledge requires Free Software and Free File Formats</a></cite> : Jimmy "
-"Wales explique pourquoi le savoir libre nécessite des logiciels libres et "
+"<i><a href=\"http://blog.jimmywales.com/index.php/archives/2004/10/21/free-"
+"knowledge-requires-free-software-and-free-file-formats/\">Free Knowledge "
+"requires Free Software and Free File Formats</a></i>, par Jimmy Wales – Cet "
+"article explique pourquoi le savoir libre nécessite des logiciels libres et "
 "des formats de fichiers libres. Il explique également pourquoi <a href="
 "\"http://www.wikipedia.org\">Wikipédia</a> a besoin d'être un logiciel libre."
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2010]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://www.juergen-ernst.de/info_swpat_en.html\">Software patents "
-"under the magnifying glass</a>. In this article, the author uses arguments "
-"based on lambda calculus to show why software cannot be patented."
+"<a href=\"https://simplemachines.it/index.php/historical-projects/sim-one\"> "
+"Sim.One hardware project</a> &mdash; This project of SimpleMachines has "
+"created free (as in freedom)  computer design specifications."
 msgstr ""
-"<cite><a href=\"http://www.juergen-ernst.de/info_swpat_en.html\">Software "
-"patents under the magnifying glass</a></cite> (Les brevets logiciels à la "
-"loupe). Dans cet article, l'auteur utilise des arguments basés sur le lambda-"
-"calcul pour montrer pourquoi les logiciels ne peuvent être brevetés."
+"<a href=\"https://simplemachines.it/index.php/historical-projects/sim-one"
+"\">Projet de matériel SIM.ONE</a> – Ce projet de SimpleMachines a créé des "
+"spécifications pour la conception d'ordinateurs libres."
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2007]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/patent-practice-panel.html\">Transcript of a panel "
-"presentation</a>, <cite>New developments in patent practice: assessing the "
-"risks and cost of portfolio licensing and hold-ups</cite>, given by Daniel "
-"B. Ravicher as the executive director of the Public Patent Foundation on "
-"Wednesday, November 10, 2004, at a conference organized by the Foundation "
-"for a Free Information Infrastructure (FFII) in Brussels, Belgium. The GNU "
-"Project disagrees with the article's assumption that nonfree programs are "
-"morally legitimate competitors."
+"<a href=\"/philosophy/why-audio-format-matters.html\"> Why Audio Format "
+"matters</a> (by Karl Fogel)"
+msgstr ""
+"<a href=\"/philosophy/why-audio-format-matters.html\">De l'importance du "
+"format audio</a>, par Karl Fogel"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2006]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://lwn.net/Articles/204641/\"> Free gadgets need free "
+"software</a> (by Jonathan Corbet)  &mdash; An editorial reporting a firmware "
+"&ldquo;upgrade&rdquo; that removes the ability to record radio broadcasts."
+msgstr ""
+"<i><a href=\"http://lwn.net/Articles/204641/\">Free gadgets need free "
+"software</a></i> (Les gadgets libres nécessitent du logiciel libre) par "
+"Jonathan Corbet – Un éditorial qui rapporte comment une « mise à jour » de "
+"firmware supprime la possibilité d'enregistrer des programmes radiodiffusés."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2001-2004]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20191221223329/http://www.piecepack."
+"org/\">Piecepack</a> &mdash; A set of boardgame pieces which everyone is "
+"free to use in creating or playing various types of games."
+msgstr ""
+"<a href=\"https://web.archive.org/web/20191221223329/http://www.piecepack."
+"org/\">Piecepack</a>  – Un ensemble de pions de jeux société que chacun est "
+"libre d'utiliser pour créer différents types de jeux ou y jouer."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1997]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/nonsoftware-copyleft.html\"> Applying Copyleft To Non-"
+"Software Information</a> (by Michael Stutz)"
+msgstr ""
+"<a href=\"/philosophy/nonsoftware-copyleft.html\">Appliquer le copyleft à de "
+"l'information qui n'est pas du logiciel</a>, par Michael Stutz"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1994]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://www.ram.org/ramblings/philosophy/fmp.html\"> The Free Music "
+"Philosophy</a> (by Ram Samudrala)"
+msgstr ""
+"<i><a href=\"http://www.ram.org/ramblings/philosophy/fmp.html\">The Free "
+"Music Philosophy</a></i> (La philosophie de la musique libre), par Ram "
+"Samudrala"
+
+#. type: Content of: <div><h3>
+msgid "Upholding Software Freedom"
+msgstr "Défense du logiciel libre"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2005]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://ocw.mit.edu/courses/15-352-managing-innovation-emerging-"
+"trends-spring-2005/8733c45a525ebcede867a9fb282398ca_lakhaniwolf.pdf\"> Why "
+"Hackers Do What They Do: Understanding Motivation and Effort in Free/Open "
+"Source Software Projects</a> (by Karim R. Lakhani and Robert G. Wolf)  "
+"&mdash; A research paper on the motivation of free software developers, "
+"which says that a considerable fraction are motivated by the view that "
+"software should be free.  This was despite the fact that they surveyed the "
+"developers on SourceForge, a site that does not support the view that this "
+"is an ethical issue."
+msgstr ""
+"<i><a href=\"https://ocw.mit.edu/courses/15-352-managing-innovation-emerging-"
+"trends-spring-2005/8733c45a525ebcede867a9fb282398ca_lakhaniwolf.pdf\">Why "
+"Hackers Do What They Do: Understanding Motivation and Effort in Free/Open "
+"Source Software Projects</a></i> (Pourquoi les hackers font ce qu'ils font : "
+"comprendre la motivation et l'effort dans les projets de logiciel libre) par "
+"Karim R. Lakhani et Robert G. Wolf) – Cette recherche, menée sur "
+"SourceForge, montre que, dans une proportion considérable, les développeurs "
+"sont motivés par l'idée que le logiciel doit être libre. Et ce, bien que "
+"SourceForge ne soutienne pas l'idée qu'il s'agit d'un problème éthique."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2004]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://www.linuxjournal.com/article/7813\">Bit Prepared II: "
+"Richard Stallman Meets the World Scout Bureau</a> (by Marco Fioretti)  "
+"&mdash; A discussion between Marco Fioretti, Ray Saunders and Richard "
+"Stallman about the similarities between the ideals of scouting and free "
+"software, and ways to uphold free software in scouting."
+msgstr ""
+"<a href=\"http://www.linuxjournal.com/article/7813\">Bit Prepared II: "
+"Richard Stallman Meets the World Scout Bureau</a>, par Marco Fioretti – Une "
+"entrevue de Richard Stallman avec le Bureau mondial du scoutisme (représenté "
+"par Marco Fioretti et Ray Saunders) sur les similarités entre les idéaux du "
+"scoutisme et du logiciel libre et sur les moyens de promouvoir le logiciel "
+"libre dans le scoutisme."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2002]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://www.fsfla.org/~lxoliva/papers/free-software/selection-html/"
+"\"> Competitive Advantages of Free Software</a> (by Alexandre Oliva)"
+msgstr ""
+"<i><a href=\"http://www.fsfla.org/~lxoliva/papers/free-software/selection-"
+"html/\">The Competitive Advantages of Free Software</a></i> (Les avantages "
+"compétitifs du logiciel libre), par Alexandre Oliva"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2002]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20030904102640/http://proposicion.org."
+"ar/doc/gob/Conde-281102/index.html.en\"> Senator Alberto Conde's answer to "
+"CESSI</a> (translated from Spanish)  &mdash; The <abbr title=\"Chamber of "
+"Software and Information Technology Services\"> CESSI</abbr> had raised "
+"objections to <a href=\"https://web.archive.org/web/20030204005052/http://"
+"www.proposicion.org.ar/proyecto/leyes/E-135.02-03/\"> Bill E-135/02-03</a> "
+"(submitted by Senator Alberto Conde himself), which proposed the use of free "
+"software in the public sector for the province of Buenos Aires."
+msgstr ""
+"<a href=\"https://web.archive.org/web/20030904102640/http://proposicion.org."
+"ar/doc/gob/Conde-281102/index.html.en\">Réponse du Sénateur Alberto Conde à "
+"la CESSI</a> (traduite de l'espagnol) – La <abbr title=\"Cámara de Empresas "
+"de Software y Servicios Informáticos - Chambre des entreprises de logiciel "
+"et des services informatiques\">CESSI</abbr> avait soulevé des objections à "
+"la proposition de loi <a href=\"https://web.archive.org/web/20030204005052/"
+"http://www.proposicion.org.ar/proyecto/leyes/E-135.02-03/\">E-135/02-03</a> "
+"(soumise par le Sénateur Alberto Conde lui-même) sur l'utilisation de "
+"logiciel libre dans le secteur public pour la province de Buenos-Aires."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2002]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20030207075039/http://www."
+"pimientolinux.com/peru2ms/villanueva_to_ms.html\"> Letter of Peruvian "
+"Congressman Dr. Edgar David Villanueva Nu&ntilde;ez to a Microsoft manager</"
+"a> &mdash; The Microsoft official had criticized the country's pending Free "
+"Software in Public Administration bill. This letter (translated from "
+"Spanish) does an excellent job of allaying concerns about free software "
+"often raised by Microsoft and others."
+msgstr ""
+"<a href=\"https://web.archive.org/web/20030207075039/http://www."
+"pimientolinux.com/peru2ms/villanueva_to_ms.html\">Lettre du député péruvien "
+"Dr Edgar David Villanueva Nu&ntilde;ez au directeur général de Microsoft "
+"Pérou</a> – Le dirigeant de Microsoft avait exprimé son inquiétude au sujet "
+"d'une proposition de loi sur le logiciel libre dans l'administration "
+"publique. Cette lettre (traduite de l'espagnol) dissipe parfaitement les "
+"inquiétudes relatives au logiciel libre que Microsoft et d'autres mettent "
+"souvent en avant."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20010410172314/http://www-personal.si."
+"umich.edu/~beejoo/gnuproject.html\"> The GNU Project FTP Site: A Digital "
+"Collection Supporting a Social Movement</a> (by Michelle Bejian)"
+msgstr ""
+"<i><a href=\"http://web.archive.org/web/20010410172314/http://www-personal."
+"si.umich.edu/~beejoo/gnuproject.html\">The GNU Project FTP Site: A Digital "
+"Collection Supporting a Social Movement</a></i> (Le site FTP du projet GNU : "
+"une collection de documents numériques en faveur d'un mouvement sociétal), "
+"par Michelle Bejian"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/software-libre-commercial-viability.html\"> Software "
+"Libre and Commercial Viability</a> (by Alessandro Rubini)"
+msgstr ""
+"<a href=\"/philosophy/software-libre-commercial-viability.html\">Logiciel "
+"libre et viabilité commerciale</a>, par Alessandro Rubini"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1997]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/free-world.html\"> Only the Free World Can Stand Up to "
+"Microsoft</a> (by Tom Hull)"
+msgstr ""
+"<a href=\"/philosophy/free-world.html\">Seul le monde du Libre peut résister "
+"à Microsoft</a>, par Tom Hull"
+
+#. type: Content of: <div><h3>
+msgid "Licensing Free Software"
+msgstr "Licences de logiciel libre"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2008]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/vaccination.html\"> Viral Code and Vaccination</a> (by "
+"Robert J. Chassell)"
+msgstr ""
+"<a href=\"/philosophy/vaccination.html\">Code viral et vaccination</a>, par "
+"Robert J. Chassell"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2006]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.semanticscholar.org/paper/A-Comparative-Ethical-"
+"Assessment-of-Free-Software-Chopra-Dexter/"
+"e85cbde10ed21ad05698a857f5018cb135c230c2\"> A Comparative Ethical Assessment "
+"of Free Software Licensing Schemes</a> (by Samir Chopra and Scott Dexter)"
+msgstr ""
+"<i><a href=\"https://www.semanticscholar.org/paper/A-Comparative-Ethical-"
+"Assessment-of-Free-Software-Chopra-Dexter/"
+"e85cbde10ed21ad05698a857f5018cb135c230c2\">A Comparative Ethical Assessment "
+"of Free Software Licensing Schemes</a></i> (Une évaluation éthique "
+"comparative des combinaisons de licences de logiciel libre), par Samir "
+"Chopra et Scott Dexter"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2001]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20030803114409/http://perens.com/"
+"Articles/StandTogether.html\"> Free Software Leaders Stand Together</a> "
+"&mdash; A joint statement, cosigned by Richard Stallman, responding to "
+"comments on the GPL by Craig Mundie, of Microsoft."
+msgstr ""
+"<a href=\"http://web.archive.org/web/20030803114409/http://perens.com/"
+"Articles/StandTogether.html\">Des dirigeants du logiciel libre font front "
+"commun</a> – Déclaration conjointe, consignée par Richard Stallman, en "
+"réponse aux commentaires de Craig Mundie (Microsoft) sur la GPL."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2000]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a id=\"PatentgrantundertheGPL\" href=\"https://web.archive.org/"
+"web/20170628063222/http://www.advogato.org/article/89.html\"> GPL patent "
+"grant for 19 patents</a> (by Raph Levien)"
+msgstr ""
+"<i><a href=\"https://web.archive.org/web/20170628063222/http://www.advogato."
+"org/article/89.html\" id=\"PatentgrantundertheGPL\">GPL patent grant for 19 "
+"patents</a></i> (Licences pour 19 brevets associées à la GPL), par Raph "
+"Levien"
+
+#. type: Content of: <div><h3>
+msgid "Legal Issues"
+msgstr "Questions juridiques"
+
+#. type: Content of: <div><h4>
+msgid "Patents"
+msgstr "Brevets"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999-2013]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://www.freeprotocols.org/\"> The Free Protocols Foundation</a> "
+"&mdash; An independent public forum, dedicated to the support of patent-free "
+"protocols."
+msgstr ""
+"<i><a href=\"http://www.freeprotocols.org/\">The Free Protocols Foundation</"
+"a></i> (la Fondation pour les protocoles libres) – Un forum public "
+"indépendant ayant pour objectif de soutenir les protocoles libres de tout "
+"brevet."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2004]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://www.juergen-ernst.de/info_swpat_en.html\"> Software patents "
+"under the magnifying glass</a> (by Ernst Juergen)  &mdash; In this article, "
+"the author uses arguments based on lambda calculus to show why software "
+"cannot be patented."
+msgstr ""
+"<i><a href=\"http://www.juergen-ernst.de/info_swpat_en.html\">Software "
+"patents under the magnifying glass</a></i> (Les brevets logiciels à la "
+"loupe) – Dans cet article, l'auteur utilise des arguments basés sur le "
+"lambda-calcul pour montrer pourquoi les logiciels ne peuvent être brevetés."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2004]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/patent-practice-panel.html\"> New Developments in "
+"Patent Practice: Assessing the Risks and Cost of Portfolio Licensing and "
+"Hold-ups</a> (by Daniel B. Ravicher, executive director of the Public Patent "
+"Foundation)  &mdash; Transcript of a panel presentation given on Wednesday, "
+"November 10, 2004, at a conference organized by the Foundation for a Free "
+"Information Infrastructure (FFII) in Brussels, Belgium."
 msgstr ""
 "<a href=\"/philosophy/patent-practice-panel.html\">Nouveaux développements "
 "dans la pratique des brevets : évaluer les risques et les coûts d'un "
-"portefeuille de licences et des hold-ups dont il fait l'objet</a> : "
-"transcription (traduite en français) d'une présentation à la table ronde "
-"<cite>New developments in patent practice: assessing the risks and cost of "
-"portfolio licensing and hold-ups</cite>), faite par Daniel B. Ravicher en "
-"tant que directeur général de la <i>Public Patent Foundation</i> le mercredi "
-"10 novembre 2004, lors d'un congrès organisé par la <i>Foundation for a Free "
-"Information Infrastructure</i> (FFII) à Bruxelles, Belgique. Le projet GNU "
-"rejette le présupposé de cette présentation, que les programmes non libres "
-"seraient des concurrents moralement légitimes."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://lwn.net/Articles/204641/\">Free gadgets need free software</"
-"a>, an editorial reporting a firmware &ldquo;upgrade&rdquo; that removes the "
-"ability to record radio broadcasts."
-msgstr ""
-"<cite><a href=\"http://lwn.net/Articles/204641/\">Free gadgets need free "
-"software</a></cite> (Les gadgets libres nécessitent du logiciel libre) : un "
-"éditorial qui rapporte comment une « mise à jour » de firmware supprime la "
-"possibilité d'enregistrer des programmes radiodiffusés."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"Lakhani and Wolf's <a href=\"http://ocw.mit.edu/courses/sloan-school-of-"
-"management/15-352-managing-innovation-emerging-trends-spring-2005/readings/"
-"lakhaniwolf.pdf\">paper on the motivation of free software developers</a> "
-"says that a considerable fraction are motivated by the view that software "
-"should be free.  This was despite the fact that they surveyed the developers "
-"on SourceForge, a site that does not support the view that this is an "
-"ethical issue."
-msgstr ""
-"L'article de Lakhani et Wolf <a href=\"http://ocw.mit.edu/courses/sloan-"
-"school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/"
-"readings/lakhaniwolf.pdf\">sur la motivation des développeurs de logiciel "
-"libre</a> dit que, dans une proportion considérable, ils sont motivés par "
-"l'idée que le logiciel doit être libre. Et ce, en dépit du fait que leur "
-"enquête sur les développeurs a été faite sur SourceForge, un site qui ne "
-"soutient pas l'idée qu'il s'agisse d'un problème éthique."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://web.archive.org/web/20110807055230/http://www.theinquirer."
-"net/inquirer/news/1010603/groklaw-sends-dear-darl-letter\">Groklaw sends a "
-"Dear Darl letter</a>: a group from the free software and open source "
-"community has put together a response to SCO CEO Darl McBride's Open Letter "
-"to the Open Source Community."
-msgstr ""
-"<cite><a href=\"https://web.archive.org/web/20110807055230/http://www."
-"theinquirer.net/inquirer/news/1010603/groklaw-sends-dear-darl-letter"
-"\">Groklaw sends a Dear Darl letter</a></cite> (Groklaw écrit à son « cher "
-"Darl ») : un groupe de la communauté du logiciel libre et open source fait "
-"une réponse conjointe à la lettre ouverte du PDG de SCO, Darl McBride, à la "
-"communauté open source."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://web.archive.org/web/20060313152550/http://www."
-"hardwarecentral.com/hardwarecentral/editorials/4788/1/\">Hardware Central "
-"[Archived Page]</a>.  We disagree with one aspect of this article's "
-"conclusion: It's not legitimate for Microsoft to help Disney and the RIAA "
-"impose Digital Restrictions Management on you, any more than it is "
-"legitimate for Disney and the RIAA to try it.  The full power of computing "
-"should be available to you, not just to the owners of information."
-msgstr ""
-"<a href=\"http://web.archive.org/web/20060313152550/http://www."
-"hardwarecentral.com/hardwarecentral/editorials/4788/1/\">Hardware Central "
-"[page archivée]</a>. Nous ne sommes pas d'accord avec un aspect de la "
-"conclusion de cet article : il n'est pas légitime pour Microsoft d'aider "
-"Disney et la RIAA à vous imposer la gestion numérique des restrictions "
-"(<abbr title=\"Digital Restrictions Management\">DRM</abbr>), pas plus qu'il "
-"n'est légitime pour Disney et la RIAA d'essayer de le faire. Toute la "
-"puissance de votre ordinateur doit vous être accessible à vous, et pas "
-"seulement à ceux qui sont propriétaires de l'information."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"The SCO Sue Me Petition has overwhelmed its inceptor and the petition is no "
-"longer taking votes. The author of the petition, John Everitt, was expecting "
-"only several responses but instead he had thousands of participants. <a href="
-"\"https://www.linuxjournal.com/article/6913\">In the last available public "
-"communication about the petition</a>, he urged people to help <a href="
-"\"http://www.fsf.org\">FSF</a> in any way possible."
-msgstr ""
-"La pétition <cite>Hey SCO, Sue Me</cite> (Eh SCO, fais-moi un procès !) a "
-"submergé son initiateur et la pétition ne recueille plus les signatures. "
-"L'auteur de cette pétition, John Everitt, s'attendait seulement à recevoir "
-"quelques réponses, mais au lieu de cela, il a eu des milliers de "
-"participants. <a href=\"https://www.linuxjournal.com/article/6913\">Dans la "
-"dernière communication publique disponible sur cette pétition</a>, il "
-"pressait les gens d'aider la <a href=\"http://www.fsf.org\">FSF</a> de "
-"toutes les façons possibles."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://web.archive.org/web/20030904102640/http://proposicion.org."
-"ar/doc/gob/Conde-281102/index.html.en\">Senator Alberto Conde's answer</a> "
-"to CESSI regarding Bill E-135/02-03 which proposes use of Free Software in "
-"the public sector for the province of Buenos Aires. <a href=\"https://web."
-"archive.org/web/20030204005052/http://www.proposicion.org.ar/proyecto/leyes/"
-"E-135.02-03/\">The bill</a> has been submitted by Senator Alberto Conde "
-"himself."
-msgstr ""
-"<a href=\"https://web.archive.org/web/20030904102640/http://proposicion.org."
-"ar/doc/gob/Conde-281102/index.html.en\">La réponse du Sénateur Alberto "
-"Conde</a> à la <abbr title=\"Cámara de Empresas de Software y Servicios "
-"Informáticos\">CESSI</abbr> (Chambre des entreprises de logiciel et des "
-"services informatiques) concernant la proposition de loi E-135/02-03 sur "
-"l'utilisation de logiciel libre dans le secteur public pour la province de "
-"Buenos-Aires. <a href=\"https://web.archive.org/web/20030204005052/http://"
-"www.proposicion.org.ar/proyecto/leyes/E-135.02-03/\">La proposition de loi</"
-"a> a été soumise par le Sénateur Alberto Conde lui-même."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"Some economists argue that copyright and patents <a href=\"https://reason."
-"com/2003/03/01/creation-myths-2/\"> fail to promote the progress</a> that "
-"they supposedly exist to promote."
-msgstr ""
-"Plusieurs économistes exposent les raisons pour lesquelles le copyright et "
-"les brevets <a href=\"https://reason.com/2003/03/01/creation-myths-2/\">ne "
-"réussissent pas à promouvoir le progrès</a>, objectif ayant présidé à leur "
-"création."
+"portefeuille de licences et des hold-ups dont il fait l'objet</a>, par "
+"Daniel B. Ravicher, directeur général de la <i>Public Patent Foundation</i> "
+"– transcription d'une présentation faite le mercredi 10 novembre 2004 à une "
+"table ronde du congrès organisé par la <i>Foundation for a Free Information "
+"Infrastructure</i> (FFII) à Bruxelles, Belgique. "
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
-"This article takes a narrowly economic view of its subject, measuring social "
-"alternatives only by what goods are available for what price, assuming that "
-"you the citizen are a mere consumer and place no value on your freedom in "
-"itself.  It also uses the misleading term <a href=\"/philosophy/words-to-"
-"avoid.html#IntellectualProperty\">&ldquo;intellectual property&rdquo;</a>, "
-"which is misleading because it lumps copyrights and patents together.  The "
-"article also lumps them together, which it can get away with because it "
-"ignores the (different) social issues that copyrights and patents raise."
+"<em>Note:</em>&nbsp; The GNU Project disagrees with the article's assumption "
+"that nonfree programs are morally legitimate competitors."
 msgstr ""
-"Cet article adopte une vision économique étroite du sujet, mesurant les "
-"alternatives sociales en termes de disponibilité et de prix des marchandises "
-"en supposant que vous, le citoyen, êtes un simple consommateur et ne donnez "
-"aucune valeur à votre liberté. Il utilise également l'expression trompeuse "
-"« <a href=\"/philosophy/words-to-avoid.html#IntellectualProperty\">propriété "
-"intellectuelle</a> » (trompeuse, car elle met dans le même sac copyright et "
-"brevets), ce qui ne le dérange pas, car il ignore les enjeux sociétaux "
-"(différents) des copyright et des brevets."
+"<em>Note :</em> Le projet GNU rejette le présupposé de cette présentation, "
+"que les programmes non libres seraient des concurrents moralement légitimes."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2001-2004]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://fare.tunes.org/articles/patents.html\"> Patents Are an "
+"Economic Absurdity</a> (by Far&eacute;)"
+msgstr ""
+"<i><a href=\"http://fare.tunes.org/articles/patents.html\"> Patents Are an "
+"Economic Absurdity</a></i> (Les brevets sont une absurdité économique), par "
+"Faré"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<em>Note:</em>&nbsp; This article adopts as a premise the popular view that "
+"free trade is desirable. We don't always agree&mdash;beyond a certain point; "
+"free trade gives businesses too much power, allowing them to intimidate "
+"democracy. But that is a different matter."
+msgstr ""
+"<em>Note :</em> Cet article adopte comme prémisse la conception populaire "
+"que le libre-échange est souhaitable. Nous ne sommes pas toujours d'accord –"
+" au-delà d'un certain point, le libre-échange donne aux entreprises beaucoup "
+"trop de pouvoir, leur permettant d'intimider la démocratie. Mais ceci est un "
+"autre problème."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2001]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/dmarti-patent.html\"> Patent Reform Now!</a> (by Don "
+"Marti)  &mdash; A call on free software supporters to nominate Richard M. "
+"Stallman to the US Patent and Trademark Office's Patent Public Advisory "
+"Committee."
+msgstr ""
+"<a href=\"/philosophy/dmarti-patent.html\">Réformons les brevets logiciels "
+"maintenant !</a> par Don Marti – Un appel aux partisans du logiciel libre "
+"pour qu'ils proposent Richard M. Stallman au <i>Patent Public Advisory "
+"Committee</i> (Comité consultatif public sur les brevets) de l'<abbr title="
+"\"US Patent and Trademark Office\">USPTO</abbr> (Office américain des "
+"brevets et des marques)."
+
+#. type: Content of: <div><h4>
+msgid "Copyright"
+msgstr "Copyright"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2005&hellip;&nbsp;]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://questioncopyright.org\"> QuestionCopyright.org</a> &mdash; "
+"A website about the history and effects of copyright, dedicated to raising "
+"awareness of the harmful consequences of today's copyright system."
+msgstr ""
+"<a href=\"http://questioncopyright.org\">QuestionCopyright.org</a> – Un site "
+"web sur l'histoire et les effets du copyright, destiné à faire prendre "
+"conscience des conséquences dommageables du système de copyright actuel."
+
+#. #set var='DATE' value="<span class='date-tag'>
+#. [2017&hellip;&nbsp;]</span>"
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://lumendatabase.org/\"> The Lumen database</a> (formerly "
+"Chilling Effects)  &mdash; A collection point for cease and desist notices "
+"concerning online activity&mdash;we invite visitors to enter C&amp;Ds they "
+"have received or sent.  The website collects the C&amp;Ds in a searchable "
+"database and hyperlinks them to explanations of the legal issues."
+msgstr ""
+"<a href=\"https://lumendatabase.org/\">The Lumen database</a> (autrefois "
+"Chilling Effects) – Un lieu de collecte pour les ordonnances de cessation et "
+"d'abstention <i>[cease and desist notices]</i> concernant l'activité en "
+"ligne (nous invitons les visiteurs à y mettre les ordonnances de cessation "
+"et d'abstention qu'ils ont reçues ou envoyées). Ce site rassemble les "
+"ordonnances de cessation et d'abstention dans une base de données, avec des "
+"liens vers les explications des problèmes juridiques qu'elles soulèvent."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2008]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://www.cato-unbound.org/2008/06/09/rasmus-fleischer/the-future-"
+"of-copyright/\"> The Future of Copyright</a> (by Rasmus Fleischer)"
+msgstr ""
+"<i><a href=\"http://www.cato-unbound.org/2008/06/09/rasmus-fleischer/the-"
+"future-of-copyright/\">The Future of Copyright</a></i> (L'avenir du "
+"copyright), par Rasmus Fleischer"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2002]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://eon.law.harvard.edu/openlaw/eldredvashcroft/progress.html"
+"\"> What is Congress Supposed to Promote?</a> (by Malla Pollack)  &mdash; "
+"This article explains how the United States government's recent tendencies "
+"to provide maximum control to copyright holders defies the justification for "
+"establishment of copyright set out in the constitution."
+msgstr ""
+"<i><a href=\"http://eon.law.harvard.edu/openlaw/eldredvashcroft/progress.html"
+"\">What is Congress Supposed to Promote?</a></i> (Qu'est-ce que le Congrès "
+"est censé promouvoir ?), par Malla Pollack – Cet article explique comment la "
+"tendance actuelle du gouvernement des États-Unis à donner aux détenteurs de "
+"copyright un contrôle de plus en plus grand défie la justification donnée "
+"par la constitution à la mise en place du copyright."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2001]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://papers.ssrn.com/sol3/papers.cfm?"
+"abstract_id=267848#PaperDownload\">Locating Copyright Within the First "
+"Amendment Skein</a> (by Neil W. Netanel)  &mdash; The author argues that the "
+"United States court system has been wrong in its dated assumption that fair "
+"use eliminates the conflict between copyright law and the First Amendment."
+msgstr ""
+"<i><a href=\"http://papers.ssrn.com/sol3/papers.cfm?"
+"abstract_id=267848#PaperDownload\">Locating Copyright Within the First "
+"Amendment Skein</a></i> (Rechercher le copyright dans l'écheveau du Premier "
+"amendement), par Neil W. Netanel – L'auteur soutient que le système "
+"judiciaire des États-Unis a fait une erreur dans son hypothèse dépassée que "
+"« l'usage raisonnable » élimine le conflit entre le droit du copyright et le "
+"premier amendement."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2001]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://slashdot.org/article.pl?sid=01/03/28/0121209&amp;"
+"mode=nocomment\"> A book review of <cite>Digital Copyright</cite></a>"
+msgstr ""
+"<a href=\"http://slashdot.org/article.pl?sid=01/03/28/0121209&amp;"
+"mode=nocomment\">Une critique du livre <cite>Digital Copyright</cite></a>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2000, 2017]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://quod.lib.umich.edu/m/maize/mpub9798641\"> Digital "
+"Copyright</a> (by Jessica Littman), published by the University of Michigan "
+"Library"
+msgstr ""
+"<cite><a href=\"https://quod.lib.umich.edu/m/maize/mpub9798641\">Digital "
+"Copyright</a></cite> (Copyright numérique), par Jessica Littman, publié par "
+"la bibliothèque de l'Université du Michigan"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20130509191813/http://www.maui.net/"
+"%7Ezen_gtr/zgzinepg4.html\"> The Manifesto: Piracy is Your Friend</a> (by "
+"Jaron Lanier)"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20130509191813/http://www.maui.net/"
+"%7Ezen_gtr/zgzinepg4.html\">Le manifeste&nbsp;: <i>Piracy is your Friend</"
+"i></a> (Le piratage est votre ami), par Jaron Lanier"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<em>Note:</em>&nbsp; The GNU Project recommends <a href=\"/philosophy/words-"
+"to-avoid.html#Piracy\">avoiding the term piracy</a> since it implies that "
+"sharing copies is somehow illegitimate."
+msgstr ""
+"<em>Note :</em> le projet GNU recommande <a href=\"/philosophy/words-to-"
+"avoid.html\">d'éviter</a> le terme <a href=\"/philosophy/words-to-avoid."
+"html#Piracy\">piratage</a> parce qu'il implique que le partage de copies est "
+"en quelque sorte illégitime."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://old.law.columbia.edu/my_pubs/anarchism.html\"> Anarchism "
+"Triumphant: Free Software and the Death of Copyright</a> (by Eben Moglen)"
+msgstr ""
+"<cite><a href=\"http://old.law.columbia.edu/my_pubs/anarchism.html"
+"\">Anarchism Triumphant: Free Software and the Death of Copyright</a></cite> "
+"(L'anarchisme triomphant : le logiciel libre et la mort du copyright), par "
+"Eben Moglen"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2000]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://www.compilerpress.ca/Cultural%20Economics/Works/CPU%202000."
+"htm\"> Copyright C.P.U.</a> (by Harry Hillman Chartrand)  &mdash; This is a "
+"good summary of the history of copyright."
+msgstr ""
+"<i><a href=\"http://www.compilerpress.ca/Cultural%20Economics/Works/CPU"
+"%202000.htm\">Copyright C.P.U.</a></i>, par Harry Hillman Chartrand – Un bon "
+"résumé de l'histoire du copyright."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2000]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a id=\"ConceptofCopyrightFightsMarkoff\" href=\"http://www.nytimes.com/"
+"library/tech/00/05/biztech/articles/10digital.html\"> The Concept of "
+"Copyright Fights for Internet Survival</a> (by John Markoff)"
+msgstr ""
+"<i><a href=\"http://www.nytimes.com/library/tech/00/05/biztech/"
+"articles/10digital.html\" id=\"ConceptofCopyrightFightsMarkoff\">The Concept "
+"of Copyright Fights for Internet Survival</a></i> (Le concept de lutte "
+"contre le copyright pour la survie d'Internet), par John Markoff"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2000]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a id=\"TheRealPurposeOfCopyrightBerry\" href=\"https://web.archive.org/"
+"web/20150331194505/http://lj.libraryjournal.com/2000/07/copyright/the-real-"
+"purpose-of-copyright/\"> The Real Purpose of Copyright</a> (by John N. Berry "
+"III)"
+msgstr ""
+"<i><a id=\"TheRealPurposeOfCopyrightBerry\" href=\"http://www.libraryjournal."
+"com/article/CA158872.html\">The Real Purpose of Copyright</a></i> "
+"(L'objectif réel du copyright), par John N. Berry III"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2000]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.lewrockwell.com/2000/09/stephan-kinsella/in-defense-of-"
+"napster-and-against-the-second-homesteading-rule/\"> In Defense of Napster "
+"and Against the Second Homesteading Rule</a> (by Lew Rockwell)"
+msgstr ""
+"<i><a href=\"https://www.lewrockwell.com/2000/09/stephan-kinsella/in-defense-"
+"of-napster-and-against-the-second-homesteading-rule/\">In Defense of Napster "
+"and Against the Second Homesteading Rule</a></i> (Pour la défense de Napster "
+"et contre la « deuxième règle d'appropriation »<a id=\"TransNote2-rev\" href="
+"\"#TransNote2\"><sup>3</sup></a>), par Lew Rockwell"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1841]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.gutenberg.org/files/2170/2170-h/2170-h."
+"htm#2H_4_0018\"> Speech by British historian Thomas Macaulay</a> &mdash; He "
+"had ideas about copyright in 1841 which still hold true today."
+msgstr ""
+"<a href=\"http://www.gutenberg.org/files/2170/2170-h/2170-h."
+"htm#2H_4_0018\">Discours de l'historien britannique Thomas Macaulay</a> – Il "
+"avait des idées sur le copyright en 1841 qui sont toujours valables "
+"aujourd'hui."
+
+#. type: Content of: <div><h4>
+msgid "The propaganda term &ldquo;Intellectual Property&rdquo;"
+msgstr "Le terme de propagande « propriété intellectuelle »"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2003]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://reason.com/2003/03/01/creation-myths-2/\"> Creation Myths: "
+"Does innovation require intellectual property rights?</a> (by Douglas "
+"Clement)  &mdash; Some economists argue that copyright and patents fail to "
+"promote the progress that they supposedly exist to promote."
+msgstr ""
+"<a href=\"https://reason.com/2003/03/01/creation-myths-2/\"> Creation Myths: "
+"Does innovation require intellectual property rights?</a> (Est-ce que "
+"l'innovation exige des droits de propriété intellectuelle?), par Douglas "
+"Clement  – Plusieurs économistes exposent les raisons pour lesquelles le "
+"copyright et les brevets ne réussissent pas à promouvoir le progrès, "
+"objectif ayant présidé à leur création."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<em>Note:</em>&nbsp; This article takes a narrowly economic view of its "
+"subject, measuring social alternatives only by what goods are available for "
+"what price, assuming that you the citizen are a mere consumer and place no "
+"value on your freedom in itself.  It also uses the misleading term &ldquo;<a "
+"href=\"/philosophy/words-to-avoid.html#IntellectualProperty\">intellectual "
+"property</a>,&rdquo; which is misleading because it lumps copyrights and "
+"patents together.  The article also lumps them together, which it can get "
+"away with because it ignores the (different) social issues that copyrights "
+"and patents raise."
+msgstr ""
+"<em>Note: </em> Cet article adopte une vision économique étroite du sujet, "
+"mesurant les alternatives sociales en termes de disponibilité et de prix des "
+"marchandises en supposant que vous, le citoyen, êtes un simple consommateur "
+"et ne donnez aucune valeur à votre liberté. Il utilise également "
+"l'expression trompeuse « <a href=\"/philosophy/words-to-avoid."
+"html#IntellectualProperty\">propriété intellectuelle</a> » (trompeuse, car "
+"elle met dans le même sac copyright et brevets), ce qui ne le dérange pas "
+"car il ignore les enjeux sociétaux (différents) des copyright et des brevets."
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
@@ -352,650 +844,583 @@ msgstr ""
 "éthique que représente l'interdiction du partage, il ne peut être que plus "
 "dangereux encore lorsqu'on prend aussi en compte l'éthique."
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2001]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"Two articles by Duncan Campbell describe how NSA backdoors were hidden in "
-"proprietary software programs: <a href=\"https://web.archive.org/"
-"web/20130723003646/http://www.heise.de/tp/artikel/2/2898/1.html\">Only NSA "
-"can listen, so that's OK</a> and <a href=\"https://www.heise.de/tp/features/"
-"How-NSA-access-was-built-into-Windows-3444341.html\">How NSA access was "
-"built into Windows</a>.  Both are clear demonstrations of how users of "
-"proprietary software can often be unaware of what they are actually running."
+"<a href=\"https://besser.tsoa.nyu.edu/howard/Papers/pw-public-spaces.html\"> "
+"Intellectual Property: The Attack on Public Space in Cyberspace</a> (by "
+"Howard Besser)  &mdash; This article describes how various industries are "
+"using their leverage with copyright to make fewer locations on the Internet "
+"less and less public."
 msgstr ""
-"Deux articles de Duncan Campbell décrivent comment des portes dérobées <i>"
-"[backdoors]</i> de la NSA ont été cachées dans des logiciels privateurs : "
-"<cite><a href=\"https://web.archive.org/web/20130723003646/http://www.heise."
-"de/tp/artikel/2/2898/1.html\">Only NSA can listen, so that's OK</a></cite> "
-"(Seule la NSA peut écouter, alors c'est OK) et <cite><a href=\"https://www."
-"heise.de/tp/features/How-NSA-access-was-built-into-Windows-3444341.html"
-"\">How NSA access was built into Windows</a></cite> (Comment un accès pour "
-"la NSA a été intégré à Windows). Ils démontrent clairement que les "
-"utilisateurs de logiciel privateur peuvent souvent ne pas être conscients de "
-"ce qui s'exécute en fait sur leur machine."
+"<i><a href=\"http://besser.tsoa.nyu.edu/howard/Papers/pw-public-spaces.html"
+"\">Intellectual Property: The Attack on Public Space in Cyberspace</a></i> "
+"(Propriété intellectuelle : l'attaque de l'espace public dans le "
+"cyberspace), par Howard Besser – Cet article décrit comment différentes "
+"industries utilisent leur influence par le biais du copyright pour réduire "
+"le nombre des lieux publics sur Internet et les rendre de moins en moins "
+"publics."
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2001]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://www.compilerpress.ca/Cultural%20Economics/Works/CPU%202000."
-"htm\">Copyright C.P.U.</a>, by Harry Hillman Chartrand, is a good summary of "
-"the history of copyright."
+"<a href=\"http://www.mises.org/journals/jls/15_2/15_2_1.pdf\"> Against "
+"Intellectual Property</a> (by Stephan Kinsella)"
 msgstr ""
-"<cite><a href=\"http://www.compilerpress.ca/Cultural%20Economics/Works/CPU"
-"%202000.htm\">Copyright C.P.U.</a></cite>, de Harry Hillman Chartrand, est "
-"un bon résumé de l'histoire du copyright."
+"<a href=\"http://www.stephankinsella.com/wp-content/uploads/publications/"
+"trans/Kinsella,%20Against%20Intellectual%20Property-French.pdf\">Contre la "
+"Propriété Intellectuelle</a> Stephan Kinsella, traduit par Stéphane Geyres "
+"et Daivy Merlijs"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [1995]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"Malla Pollack's <a href=\"http://eon.law.harvard.edu/openlaw/eldredvashcroft/"
-"progress.html\">What is Congress Supposed to Promote?</a> explains how the "
-"United States' government's recent tendencies to provide maximum control to "
-"copyright holders defies the justification for establishment of copyright "
-"set out in the constitution."
+"<a href=\"http://freenation.org/a/f31l1.html\"> The Libertarian Case Against "
+"Intellectual Property Rights</a> (by Roderick T. Long)"
 msgstr ""
-"<cite><a href=\"http://eon.law.harvard.edu/openlaw/eldredvashcroft/progress."
-"html\">What is Congress Supposed to Promote?</a></cite> (Qu'est-ce que le "
-"Congrès est censé promouvoir ?), de Malla Pollack, explique comment la "
-"tendance actuelle du gouvernement des États-Unis à donner aux détenteurs de "
-"copyright un contrôle de plus en plus grand défie la justification donnée "
-"par la constitution à la mise en place du copyright."
+"<i><a href=\"http://freenation.org/a/f31l1.html\">The Libertarian Case "
+"Against Intellectual Property Rights</a></i> (Le plaidoyer libertarien "
+"contre les droits de propriété intellectuelle), par Roderick T. Long"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><ul><li><p>
 msgid ""
-"Peruvian Congressman Dr. Edgar David Villanueva Nu&ntilde;ez wrote a letter "
-"to a Microsoft manager after they wrote expressing concern about the "
-"country's pending Free Software in Public Administration bill.  It does an "
-"excellent job of allaying concerns about free software often raised by "
-"Microsoft and others.  The English translation of the letter is <a href="
-"\"http://web.archive.org/web/20030207075039/http://www.pimientolinux.com/"
-"peru2ms/villanueva_to_ms.html\"> here</a>."
+"<em>Note:</em>&nbsp; The Free Software Movement does not endorse "
+"Libertarianism, and <a href=\"/philosophy/rms-comment-longs-article.html\"> "
+"we do not agree entirely</a> with that article.  But it is useful for "
+"refuting one specific argument that is made in favor of proprietary software."
 msgstr ""
-"Le député péruvien Dr Edgar David Villanueva Nu&ntilde;ez a écrit une lettre "
-"au directeur général de Microsoft Pérou, après que cette société ait exprimé "
-"son inquiétude au sujet de la proposition de loi sur le logiciel libre dans "
-"l'administration publique. Elle dissipe parfaitement les inquiétudes "
-"relatives au logiciel libre que Microsoft et d'autres mettent souvent en "
-"avant. La traduction en anglais de cette lettre est archivée <a href="
-"\"http://web.archive.org/web/20030207075039/http://www.pimientolinux.com/"
-"peru2ms/villanueva_to_ms.html\">ici</a>."
+"<em>Note :</em> Le mouvement du logiciel libre ne soutient pas les idées "
+"libertariennes, et <a href=\"/philosophy/rms-comment-longs-article.html"
+"\">nous ne sommes pas complètement d'accord</a> avec cet article. Mais il "
+"est utile pour réfuter un argument spécifique qui est donné en faveur du "
+"logiciel privateur."
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [1994]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://www.gutenberg.org/files/2170/2170-h/2170-h."
-"htm#2H_4_0018\">British historian Thomas Macaulay</a> had ideas about "
-"copyright in 1841 which still hold true today."
+"<a href=\"http://www.ram.org/ramblings/philosophy/fmp/copying_primer.html\"> "
+"A primer on the ethics of &ldquo;Intellectual property&rdquo;</a> (by Ram "
+"Samudrala)"
 msgstr ""
-"<a href=\"http://www.gutenberg.org/files/2170/2170-h/2170-h."
-"htm#2H_4_0018\">L'historien britannique Thomas Macaulay</a> avait des idées "
-"sur le copyright en 1841 qui sont toujours valables aujourd'hui."
+"<i><a href=\"http://www.ram.org/ramblings/philosophy/fmp/copying_primer.html"
+"\">A primer on the ethics of &ldquo;Intellectual property&rdquo;</a></i> "
+"(Une introduction à l'éthique de la « propriété intellectuelle »), par Ram "
+"Samudrala"
 
+#. type: Content of: <div><h4>
+msgid "Response to SCO's attacks"
+msgstr "Réponse aux attaques de SCO"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2003]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"openrevolt.org was a site devoted to providing information about the "
-"European Copyright Directive and similar legislation.  It concentrated on "
-"the two principal problems of the EUCD, which make it easier for copyright "
-"holders to censor webpages on ISPs and give legal protection to copy-"
-"protection measures."
+"<a href=\"https://web.archive.org/web/20110807055230/http://www.theinquirer."
+"net/inquirer/news/1010603/groklaw-sends-dear-darl-letter\"> Groklaw sends a "
+"Dear Darl letter</a> (by Egan Orion)  &mdash; A group from the free software "
+"and open source community has put together a response to SCO CEO Darl "
+"McBride's Open Letter to the Open Source Community."
 msgstr ""
-"openrevolt.org était un site d'information à propos de la directive "
+"<i><a href=\"https://web.archive.org/web/20110807055230/http://www."
+"theinquirer.net/inquirer/news/1010603/groklaw-sends-dear-darl-letter"
+"\">Groklaw sends a Dear Darl letter</a></i> (Groklaw écrit à son « cher "
+"Darl »), par Egan Orion – Un groupe de la communauté du logiciel libre et "
+"open source répond à la lettre ouverte du PDG de SCO, Darl McBride, à la "
+"communauté open source."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2003]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.linuxjournal.com/article/6913\"> &ldquo;Hey SCO, Sue "
+"Me&rdquo;: What's Next?</a> (by Taran Rampersad)  &mdash; In the last "
+"available public communication about the SCO Sue Me Petition, its author "
+"(John Everitt) urged people to help the <a href=\"https://www.fsf.org\">FSF</"
+"a> in any way possible. He was expecting only several responses, but instead "
+"he had thousands of participants."
+msgstr ""
+"<i><a href=\"https://www.linuxjournal.com/article/6913\">&ldquo;Hey SCO, Sue "
+"Me&rdquo;: What's Next?</a></i> (Eh SCO, fais-moi un procès !) par Taran "
+"Rampersad – Dans la dernière communication publique disponible sur cette "
+"pétition, son auteur (John Everitt) pressait les gens d'aider la <a href="
+"\"http://www.fsf.org\">FSF</a> de toutes les façons possibles. Il "
+"s'attendait seulement à recevoir quelques réponses, mais au lieu de cela, il "
+"y a eu des milliers de participants."
+
+#. type: Content of: <div><h3>
+msgid "Cultural and Social Issues"
+msgstr "Enjeux culturels et sociétaux"
+
+#. type: Content of: <div><h4>
+msgid "General"
+msgstr "Sujet généraux"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2008]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://freedom-to-tinker.com/blog/tblee/trouble-free-riding\"> The "
+"Trouble with &ldquo;Free Riding&rdquo;</a> (by Timothy B. Lee)"
+msgstr ""
+"<i><a href=\"http://freedom-to-tinker.com/blog/tblee/trouble-free-riding"
+"\">The Trouble with &ldquo;Free Riding&rdquo;</a></i> (Le problème du "
+"parasitisme), par Timothy B. Lee"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/economics_frank/frank.html\"> Does Studying Economics "
+"Inhibit Cooperation?</a> (by Robert H. Frank, Thomas Gilovich, and Dennis T. "
+"Regan)"
+msgstr ""
+"<i><a href=\"/philosophy/economics_frank/frank.html\">Does Studying "
+"Economics Inhibit Cooperation?</a></i> (Le fait d'étudier l'économie inhibe-"
+"t-il l'esprit de coopération ?), par Robert H. Frank, Thomas Gilovich et "
+"Dennis T. Regan"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1998]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/self-interest.html\"> Is self-interest sufficient to "
+"organize a free economy?</a> (by Loyd Fueston)"
+msgstr ""
+"<a href=\"/philosophy/self-interest.html\">L'intérêt personnel est-il "
+"suffisant pour organiser une économie libre ?</a> par Loyd Fueston"
+
+#. type: Content of: <div><h4>
+msgid "Digital society"
+msgstr "Société numérique"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2008]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://pedro.jmrezende.com.br/trabs/Stockholm.pdf\"> The Digital "
+"Stockholm Syndrome</a> (by Pedro Rezende)  &mdash; Reflections over some "
+"psychological responses to market forces."
+msgstr ""
+"<i><a href=\"https://web.archive.org/web/20190917154711/https://cic.unb.br/"
+"~rezende/trabs/stockholm.html\">The Digital Stockholm Syndrome</a></i> (Le "
+"syndrome de Stockholm numérique), par Pedro Rezende – réflexions sur "
+"certaines réponses psychologiques aux forces du marché."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2002]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/lessig-fsfs-intro.html\"> Introduction by Lawrence "
+"Lessig</a> to <a href=\"https://shop.fsf.org/books-docs/free-software-free-"
+"society-selected-essays-richard-m-stallman-3rd-edition\"> <cite>Free "
+"Software, Free Society: The Selected Essays of Richard M. Stallman</cite></a>"
+msgstr ""
+"<a href=\"/philosophy/lessig-fsfs-intro.html\">Introduction de Lawrence "
+"Lessig</a> à <a href=\"https://shop.fsf.org/books-docs/free-software-free-"
+"society-selected-essays-richard-m-stallman-3rd-edition\"><cite>Free "
+"Software, Free Society: The Selected Essays of Richard M. Stallman</cite></"
+"a> (Logiciel libre, société libre : essais choisis de Richard M. Stallman)"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20130409233705/http://www-rohan.sdsu."
+"edu/~digger/596/werry_comm.pdf\"> Imagined Electronic Community: "
+"Representations of Virtual Community in Contemporary Business Discourse</a> "
+"(by Chris Werry)"
+msgstr ""
+"<i><a href=\"https://web.archive.org/web/20130409233705/http://www-rohan."
+"sdsu.edu/~digger/596/werry_comm.pdf\">Imagined Electronic Community: "
+"Representations of Virtual Community in Contemporary Business Discourse</a></"
+"i> (La communauté électronique imaginaire : représentations de la communauté "
+"virtuelle dans le discours du monde des affaires contemporain), par Chris "
+"Werry"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://danny.oz.au/freedom/ip/aidfs.html\"> Development, Ethical "
+"Trading, and Free Software</a> (by Danny Yee)"
+msgstr ""
+"<i><a href=\"http://danny.oz.au/freedom/ip/aidfs.html\">Development, Ethical "
+"Trading, and Free Software</a></i> (Développement, commerce éthique et "
+"logiciel libre), par Danny Yee"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999?]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/kragen-software.html\"> People, places, things and "
+"ideas</a> (by Kragen Sitaker)"
+msgstr ""
+"<a href=\"/philosophy/kragen-software.html\">Les gens, les lieux, les choses "
+"et les idées</a>, par Kragen Sitaker"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1996]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/ICT-for-prosperity.html\"> Shaping Collaborative ICT "
+"Development and Initiatives for Global Prosperity</a> (by Robert J. Chassell)"
+msgstr ""
+"<a href=\"/philosophy/ICT-for-prosperity.html\">Façonner le développement et "
+"les projets collaboratifs dans les TIC pour la prospérité mondiale</a>, par "
+"Robert J. Chassell"
+
+#. type: Content of: <div><h4>
+msgid "Digital restrictions management and treacherous computing"
+msgstr "Gestion numérique des restrictions et informatique déloyale"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2022]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/you-the-problem-tpm2-solves.html\"> You, the Problem "
+"TPM2 Solves</a> (by Chao-Kuei Hung)"
+msgstr ""
+"<a href=\"/philosophy/you-the-problem-tpm2-solves.html\">C'est vous, le "
+"problème que résout TPM2</a>, par Chao-Kuei Hung"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2006]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20060313152550/http://www."
+"hardwarecentral.com/hardwarecentral/editorials/4788/1/\"> <cite>Hardware "
+"Central</cite> editorial</a> (by Eric Grevstad)  &mdash; Among other things, "
+"it discusses Microsoft's &ldquo;Trusted Computing.&rdquo;"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20060313152550/http://www."
+"hardwarecentral.com/hardwarecentral/editorials/4788/1/\">Éditorial de "
+"<cite>Hardware Central</cite></a>, par Eric Grevstad – Il parle entre autres "
+"de l'« informatique de confiance » prônée par Microsoft."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<em>Note:</em>&nbsp; We disagree with one aspect of this article's "
+"conclusion: it's not legitimate for Microsoft to help Disney and the RIAA "
+"impose Digital Restrictions Management on you, any more than it is "
+"legitimate for Disney and the RIAA to try it.  The full power of computing "
+"should be available to you, not just to the owners of information."
+msgstr ""
+"<em>Note :</em> Nous ne sommes pas d'accord avec un aspect de la conclusion "
+"de cet article : il n'est pas légitime pour Microsoft d'aider Disney et la "
+"RIAA à vous imposer la gestion numérique des restrictions (<abbr title="
+"\"Digital Restrictions Management\">DRM</abbr>), pas plus qu'il n'est "
+"légitime pour Disney et la RIAA d'essayer de le faire. Toute la puissance de "
+"votre ordinateur doit vous être accessible à vous, et pas seulement à ceux "
+"qui sont propriétaires de l'information."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2000-2003]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://www.cs.cmu.edu/~dst/DeCSS/Gallery/\"> Gallery of CSS "
+"Descramblers</a> (by D.S. Touretzky)  &mdash; Examples demonstrating how "
+"outrageous and absurd the Digital Millennium Copyright Act is."
+msgstr ""
+"<a href=\"http://www.cs.cmu.edu/~dst/DeCSS/Gallery/\"> Gallery of CSS "
+"Descramblers</a> (galerie des décodeurs de DVD), par D.S. Touretzky – "
+"Exemples démontrant combien la loi sur le copyright du millénaire numérique "
+"<i>[Digital Millennium Copyright Act]</i> est scandaleuse et absurde."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2002]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20020222080928/www.byte.com/documents/"
+"s=2302/byt1011380870846/\"> Coding is a Crime</a> (by Shannon Cochran)  "
+"&mdash; A commentary on the indictment of Jon Johansen on felony charges for "
+"helping write DeCSS."
+msgstr ""
+"<i><a href=\"http://web.archive.org/web/20020222080928/www.byte.com/"
+"documents/s=2302/byt1011380870846/\">Coding is a Crime</a></i> (Coder est un "
+"délit), par Shannon Cochran – Un commentaire sur l'inculpation de Jon "
+"Johansen pour avoir aidé à écrire DeCSS."
+
+#. type: Content of: <div><h4>
+msgid "Accessing culture"
+msgstr "Accès à la culture"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2003]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://law.duke.edu/pd/papers/boyle.pdf\"> The Second Enclosure "
+"Movement and the Construction of the Public Domain</a> (by James Boyle)"
+msgstr ""
+"<i><a href=\"http://law.duke.edu/pd/papers/boyle.pdf\">The Second Enclosure "
+"Movement and the Construction of the Public Domain</a></i> (Le mouvement de "
+"la deuxième enceinte et la construction du domaine public), par James Boyle"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2002]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20090502161838/http://www.openrevolt."
+"org/\"> openrevolt.org</a> &mdash; This site was devoted to providing "
+"information about the European Copyright Directive and similar legislation.  "
+"It concentrated on the two principal problems of the EUCD, which make it "
+"easier for copyright holders to censor webpages on ISPs and give legal "
+"protection to copy-protection measures."
+msgstr ""
+"<a href=\"https://web.archive.org/web/20090502161838/http://www.openrevolt."
+"org/\">openrevolt.org</a> – C'était un site d'information sur la directive "
 "européenne sur le droit d'auteur et lois similaires. Il se concentrait sur "
 "les deux problèmes principaux de l'<abbr title=\"European Union Copyright "
 "Directive\">EUCD</abbr> : faciliter aux détenteurs de copyright la censure "
 "de pages web chez les fournisseurs de services Internet et donner une "
 "protection juridique aux mesures de protection contre la copie."
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [1998]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://www.chillingeffects.org\">Chilling Effects</a> is a "
-"collection point for cease and desist notices concerning online "
-"activity&mdash;we invite visitors to enter C&amp;Ds they have received or "
-"sent.  The website collects the C&amp;Ds in a searchable database and "
-"hyperlinks them to explanations of the legal issues."
-msgstr ""
-"<a href=\"http://www.chillingeffects.org\">Chilling Effects</a> est un lieu "
-"de collecte pour les ordonnances de cessation et d'abstention <i>[cease and "
-"desist notices]</i> concernant l'activité en ligne (nous invitons les "
-"visiteurs à y mettre les ordonnances de cessation et d'abstention qu'ils ont "
-"reçues ou envoyées). Ce site rassemble les ordonnances de cessation et "
-"d'abstention dans une base de données, avec des liens vers les explications "
-"des problèmes juridiques qu'elles soulèvent."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://web.archive.org/web/20020222080928/www.byte.com/documents/"
-"s=2302/byt1011380870846/\"> Coding is a Crime</a>, by Shannon Cochran, is a "
-"commentary on the indictment of Jon Johansen on felony charges for helping "
-"write DeCSS."
-msgstr ""
-"<cite><a href=\"http://web.archive.org/web/20020222080928/www.byte.com/"
-"documents/s=2302/byt1011380870846/\">Coding is a Crime</a></cite> (Coder est "
-"un délit), par Shannon Cochran, est un commentaire sur l'inculpation de Jon "
-"Johansen pour avoir aidé à écrire DeCSS."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://law.duke.edu/pd/papers/boyle.pdf\">The Second Enclosure "
-"Movement and the Construction of the Public Domain</a>, by James Boyle."
-msgstr ""
-"<cite><a href=\"http://law.duke.edu/pd/papers/boyle.pdf\">The Second "
-"Enclosure Movement and the Construction of the Public Domain</a></cite> (Le "
-"mouvement de la deuxième enceinte et la construction du domaine public), par "
-"James Boyle."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://besser.tsoa.nyu.edu/howard/Papers/pw-public-spaces.html"
-"\">Intellectual Property: The Attack on Public Space in Cyberspace</a>, by "
-"Howard Besser, describes how various industries are using their leverage "
-"with copyright to make fewer locations on the Internet less and less public."
-msgstr ""
-"<a href=\"http://besser.tsoa.nyu.edu/howard/Papers/pw-public-spaces.html"
-"\"><cite>Intellectual Property: The Attack on Public Space in Cyberspace</"
-"cite></a> (Propriété intellectuelle : l'attaque de l'espace public dans le "
-"cyberspace), par Howard Besser, décrit comment différentes industries "
-"utilisent leur influence par le biais du copyright pour réduire le nombre "
-"des lieux publics sur Internet et les rendre de moins en moins publics."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://papers.ssrn.com/sol3/papers.cfm?"
-"abstract_id=267848#PaperDownload\">Locating Copyright Within the First "
-"Amendment Skein</a>, by Neil W. Netanel, argues that the United States court "
-"system has been wrong in its dated assumption that fair use eliminates the "
-"conflict between copyright law and the First Amendment."
-msgstr ""
-"<cite><a href=\"http://papers.ssrn.com/sol3/papers.cfm?"
-"abstract_id=267848#PaperDownload\">Locating Copyright Within the First "
-"Amendment Skein</a></cite> (Rechercher le copyright dans l'écheveau du "
-"Premier amendement), par Neil W. Netanel, dit que le système judiciaire des "
-"États-Unis a fait une erreur dans son hypothèse dépassée que « l'usage "
-"raisonnable » élimine le conflit entre le droit du copyright et le Premier "
-"amendement."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"Richard Stallman co-signed <a href=\"http://web.archive.org/"
-"web/20030803114409/http://perens.com/Articles/StandTogether.html\">a joint "
-"statement responding to comments by Craig Mundie of Microsoft [Archived Page]"
-"</a>."
-msgstr ""
-"Richard Stallman a cosigné <a href=\"http://web.archive.org/"
-"web/20030803114409/http://perens.com/Articles/StandTogether.html\">une "
-"déclaration conjointe en réponse aux commentaires de Craig Mundie, de "
-"Microsoft [page archivée]</a>."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"In <a href=\"/philosophy/dmarti-patent.html\">Patent Reform Now!</a>, Don "
-"Marti calls for free software supporters to nominate Richard M. Stallman to "
-"US Patent and Trademark Office's Patent Public Advisory Committee."
-msgstr ""
-"Dans <a href=\"/philosophy/dmarti-patent.html\">Réformons les brevets "
-"logiciels maintenant !</a> Don Marti appelle les partisans du logiciel libre "
-"à nommer Richard M. Stallman au <i>Patent Public Advisory Committee</i> "
-"(Comité consultatif public sur les brevets) de l'<abbr title=\"US Patent and "
-"Trademark Office\">USPTO</abbr> (Office américain des brevets et des "
-"marques)."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/stophr3028.html\">Stop H.R. 3028</a>, &ldquo;The "
-"Trademark Cyberpiracy Prevention Act of 1999.&rdquo;"
-msgstr ""
-"<a href=\"/philosophy/stophr3028.html\">Stoppez HR 3028</a>, la loi de 1999 "
-"sur la prévention du cyberpiratage des marques déposées."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://web.archive.org/web/20010410172314/http://www-personal.si."
-"umich.edu/~beejoo/gnuproject.html\"> The GNU Project FTP Site: A Digital "
-"Collection Supporting a Social Movement [Archived Page]</a>, by Michelle "
-"Bejian."
-msgstr ""
-"<cite><a href=\"http://web.archive.org/web/20010410172314/http://www-"
-"personal.si.umich.edu/~beejoo/gnuproject.html\">The GNU Project FTP Site: A "
-"Digital Collection Supporting a Social Movement [page archivée]</a></cite> "
-"(Le site FTP du projet GNU : une collection de documents numériques en "
-"faveur d'un mouvement sociétal), par Michelle Bejian."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://web.archive.org/web/20000815064842/http://oppression."
-"nerdherd.org/Stories/1998/9810/ucla/ucla.html\">UCLA discriminates against "
-"students using GNU/Linux.  One part of their justification is supporting the "
-"power of software owners. [Archived Page]</a>"
-msgstr ""
-"<a href=\"http://web.archive.org/web/20000815064842/http://oppression."
-"nerdherd.org/Stories/1998/9810/ucla/ucla.html\"><abbr title=\"University of "
-"California at Los Angeles\">UCLA</abbr> fait subir aux étudiants qui "
-"utilisent GNU/Linux une discrimination basée, entre autres, sur leur soutien "
-"au pouvoir des propriétaires de logiciel [page archivée]</a>."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://web.archive.org/web/19991012082619/http://simson.net/"
-"clips/98.Globe.05-07.Read_them_and_weep.htm\">Read Them And Weep [Archived "
-"Page]</a>, by Simson Garfinkel, talks about the pending bills that would "
-"give information owners sweeping new powers, and restrict the activities of "
-"users."
-msgstr ""
-"<cite><a href=\"http://web.archive.org/web/19991012082619/http://simson.net/"
-"clips/98.Globe.05-07.Read_them_and_weep.htm\">Read Them And Weep</a></cite> "
-"(Lisez-les et pleurez – page archivée), par Simson Garfinkel : commentaires "
-"sur des projets de loi qui donneraient aux propriétaires de l'information de "
-"nouveaux pouvoirs extraordinaires et restreindraient les activités des "
-"utilisateurs."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/nonsoftware-copyleft.html\">Applying Copyleft To Non-"
-"Software Information</a>, by Michael Stutz."
-msgstr ""
-"« <a href=\"/philosophy/nonsoftware-copyleft.html\">Appliquer le copyleft à "
-"de l'information qui n'est pas du logiciel</a> », par Michael Stutz."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/free-world.html\">Only the Free World Can Stand Up to "
-"Microsoft</a>, by Tom Hull."
-msgstr ""
-"« <a href=\"/philosophy/free-world.html\">Seul le monde du Libre peut "
-"résister à Microsoft</a> », par Tom Hull."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://www.ram.org/ramblings/philosophy/fmp.html\">The Free Music "
-"Philosophy</a>, by Ram Samudrala."
-msgstr ""
-"<a href=\"http://www.ram.org/ramblings/philosophy/fmp.html\"><cite>The Free "
-"Music Philosophy</cite></a> (La philosophie de la musique libre), par Ram "
-"Samudrala."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"Record companies argue for more copyright power by saying they are the "
-"support of the musicians.  <a href=\"https://web.archive.org/"
-"web/20040916075542/http://www.negativland.com/albini.html\"> This article</"
-"a> shows how record companies really treat musicians."
-msgstr ""
-"L'industrie du disque demande plus de pouvoir de copyright, arguant du fait "
-"qu'elle est le soutien des musiciens. <a href=\"https://web.archive.org/"
-"web/20040916075542/http://www.negativland.com/albini.html\">Cet article</a> "
-"montre comment les maisons de disques traitent effectivement les musiciens."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://web.archive.org/web/20130509191813/http://www.maui.net/"
-"%7Ezen_gtr/zgzinepg4.html\"> The Manifesto: Piracy is Your Friend</a> by "
-"Jaron Lanier."
-msgstr ""
-"<a href=\"https://web.archive.org/web/20130509191813/http://www.maui.net/"
-"%7Ezen_gtr/zgzinepg4.html\">Le manifeste&nbsp;: <i>Piracy is your Friend</"
-"i></a> (Le piratage est votre ami), par Jaron Lanier."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<strong>Note</strong> that the GNU Project recommends <a href=\"/philosophy/"
-"words-to-avoid.html\">avoiding</a> the term <a href=\"/philosophy/words-to-"
-"avoid.html#Piracy\">piracy</a> since it implies that sharing copies is "
-"somehow illegitimate."
-msgstr ""
-"<strong>Notez</strong> que le projet GNU recommande <a href=\"/philosophy/"
-"words-to-avoid.html\">d'éviter</a> le terme <a href=\"/philosophy/words-to-"
-"avoid.html#Piracy\">piratage</a> parce qu'il implique que le partage de "
-"copies est en quelque sorte illégitime."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://www.ram.org/ramblings/philosophy/fmp/copying_primer.html"
-"\">A primer on the ethics of &ldquo;Intellectual property&rdquo;</a>, by Ram "
-"Samudrala."
-msgstr ""
-"<a href=\"http://www.ram.org/ramblings/philosophy/fmp/copying_primer.html"
-"\"><cite>A primer on the ethics of &ldquo;Intellectual property&rdquo;</"
-"cite></a> (Une introduction à l'éthique de la « propriété intellectuelle »), "
-"par Ram Samudrala."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/self-interest.html\">Is self-interest sufficient to "
-"organize a free economy?</a> by Loyd Fueston."
-msgstr ""
-"<a href=\"/philosophy/self-interest.html\">L'intérêt personnel est-il "
-"suffisant pour organiser une économie libre ?</a> par Loyd Fueston."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/kragen-software.html\">People, places, things and "
-"ideas</a> by Kragen Sitaker"
-msgstr ""
-"<a href=\"/philosophy/kragen-software.html\">Les gens, les lieux, les choses "
-"et les idées</a> par Kragen Sitaker"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://freenation.org/a/f31l1.html\">The Libertarian Case Against "
-"Intellectual Property Rights</a> by Roderick T. Long"
-msgstr ""
-"<a href=\"http://freenation.org/a/f31l1.html\"><cite>The Libertarian Case "
-"Against Intellectual Property Rights</cite></a> (Le plaidoyer libertarien "
-"contre les droits de propriété intellectuelle), par Roderick T. Long."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"The Free Software Movement does not endorse Libertarianism, and <a href=\"/"
-"philosophy/rms-comment-longs-article.html\">we do not agree entirely</a> "
-"with that article.  But it is useful for refuting one specific argument that "
-"is made in favor of proprietary software."
-msgstr ""
-"Le mouvement du logiciel libre ne soutient pas les idées libertariennes, et "
-"<a href=\"/philosophy/rms-comment-longs-article.html\">nous ne sommes pas "
-"complètement d'accord</a> avec cet article. Mais il est utile pour réfuter "
-"un argument spécifique qui est donné en faveur du logiciel privateur."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://old.law.columbia.edu/my_pubs/anarchism.html\">Anarchism "
-"Triumphant: Free Software and the Death of Copyright</a>"
-msgstr ""
-"<cite><a href=\"http://old.law.columbia.edu/my_pubs/anarchism.html"
-"\">Anarchism Triumphant: Free Software and the Death of Copyright</a></cite> "
-"(L'anarchisme triomphant : le logiciel libre et la mort du copyright)."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://web.archive.org/web/20130409233705/http://www-rohan.sdsu."
-"edu/~digger/596/werry_comm.pdf\">Imagined Electronic Community: "
-"Representations of Virtual Community in Contemporary Business Discourse</a> "
-"by Chris Werry."
-msgstr ""
-"<cite><a href=\"https://web.archive.org/web/20130409233705/http://www-rohan."
-"sdsu.edu/~digger/596/werry_comm.pdf\">Imagined Electronic Community: "
-"Representations of Virtual Community in Contemporary Business Discourse</a></"
-"cite> (La communauté électronique imaginaire : représentations de la "
-"communauté virtuelle dans le discours du monde des affaires contemporain), "
-"par Chris Werry."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/economics_frank/frank.html\">Does Studying Economics "
-"Inhibit Cooperation?</a> by Frank, Gilovich, and Regan."
-msgstr ""
-"<cite><a href=\"/philosophy/economics_frank/frank.html\">Does Studying "
-"Economics Inhibit Cooperation?</a></cite> (Le fait d'étudier l'économie "
-"inhibe-t-il l'esprit de coopération ?), par Frank, Gilovich et Regan."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://danny.oz.au/freedom/ip/aidfs.html\">Development, Ethical "
-"Trading, and Free Software</a> by Danny Yee."
-msgstr ""
-"<cite><a href=\"http://danny.oz.au/freedom/ip/aidfs.html\">Development, "
-"Ethical Trading, and Free Software</a></cite> (Développement, commerce "
-"éthique et logiciel libre), par Danny Yee."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/bdk.html\">The Ballad of Dennis Karjala</a>: A "
-"political comment in the form of a broadside ballad by Timothy R. Phillips."
-msgstr ""
-"<a href=\"/philosophy/bdk.html\">La ballade de Dennis Karjala</a> : un "
-"commentaire politique sous forme de complainte du 16e siècle <i>[broadside "
-"ballad]</i>, par Timothy R. Phillips."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/ICT-for-prosperity.html\">Shaping Collaborative ICT "
-"Development and Initiatives for Global Prosperity</a> by Robert J. Chassell."
-msgstr ""
-"<a href=\"/philosophy/ICT-for-prosperity.html\">Façonner le développement et "
-"les projets collaboratifs dans les TIC pour la prospérité mondiale</a>, par "
-"Robert J. Chassell."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://www.fsfla.org/~lxoliva/papers/free-software/selection-html/"
-"\"> Competitive Advantages of Free Software</a> by Alexandre Oliva."
-msgstr ""
-"<cite><a href=\"http://www.fsfla.org/~lxoliva/papers/free-software/selection-"
-"html/\">The Competitive Advantages of Free Software</a></cite> (Les "
-"avantages compétitifs du logiciel libre), par Alexandre Oliva."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://web.archive.org/web/20170628063222/http://www.advogato.org/"
-"article/89.html\" id=\"PatentgrantundertheGPL\">Patent grant under the GPL</"
-"a> by Raph Levien."
-msgstr ""
-"<cite><a href=\"https://web.archive.org/web/20170628063222/http://www."
-"advogato.org/article/89.html\" id=\"PatentgrantundertheGPL\">Patent grant "
-"under the GPL</a></cite> (Licences de brevets associées à la GPL), par Raph "
-"Levien."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://www.nytimes.com/library/tech/00/05/biztech/"
-"articles/10digital.html\" id=\"ConceptofCopyrightFightsMarkoff\">The Concept "
-"of Copyright Fights for Internet Survival</a> by John Markoff."
-msgstr ""
-"<cite><a href=\"http://www.nytimes.com/library/tech/00/05/biztech/"
-"articles/10digital.html\" id=\"ConceptofCopyrightFightsMarkoff\">The Concept "
-"of Copyright Fights for Internet Survival</a></cite> (Le concept de lutte "
-"contre le copyright pour la survie d'Internet), par John Markoff."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a id=\"TheRealPurposeOfCopyrightBerry\" href=\"http://www.libraryjournal."
-"com/article/CA158872.html\">The Real Purpose of Copyright</a> by John N. "
-"Berry III."
-msgstr ""
-"<cite><a id=\"TheRealPurposeOfCopyrightBerry\" href=\"http://www."
-"libraryjournal.com/article/CA158872.html\">The Real Purpose of Copyright</"
-"a></cite> (L'objectif réel du copyright), par John N. Berry III."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a id=\"Copyrightfire\" href=\"/philosophy/fire.html\">Copyrighting Fire! "
-"(Humor)</a> by Ian Clarke."
-msgstr ""
-"<a id=\"Copyrightfire\" href=\"/philosophy/fire.html\">Le feu sous "
-"copyright !</a> (humour), par Ian Clarke."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://www.praxagora.com/andyo/professional/infirmation_technology."
-"html\" id=\"INFOTECH\">The Future Brings &ldquo;Infirmation Technology&rdquo;"
-"</a> by Andy Oram."
-msgstr ""
-"<cite><a href=\"http://www.praxagora.com/andyo/professional/"
-"infirmation_technology.html\" id=\"INFOTECH\">The Future Brings &ldquo;"
-"Infirmation Technology&rdquo;</a></cite> (L'avenir apporte la « technologie "
-"de l'infirmation »), par  Andy Oram (le titre est un jeu de mot sur "
-"« infirme » et « information »)."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://www.freeprotocols.org/\">The Free Protocols Foundation</a> "
-"is an independent public forum, dedicated to the support of patent-free "
-"protocols."
-msgstr ""
-"<a href=\"http://www.freeprotocols.org/\">The Free Protocols Foundation</a> "
-"(la Fondation pour les protocoles libres) est un forum public indépendant, "
-"dont l'objectif est de soutenir les protocoles libres de tout brevet."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/software-libre-commercial-viability.html\">Software "
-"Libre and Commercial Viability</a> by Alessandro Rubini"
-msgstr ""
-"<a href=\"/philosophy/software-libre-commercial-viability.html\">Logiciel "
-"libre et viabilité commerciale</a>, par Alessandro Rubini."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://www.bmartin.cc/pubs/98il/\"> Information liberation</a> by "
-"Brian Martin. We urge people to avoid using the term <a href=\"/philosophy/"
-"words-to-avoid.html\">intellectual property</a> and to instead speak about "
-"copyrights, patents, and/or trademarks."
+"<a href=\"http://www.bmartin.cc/pubs/98il/\"> Information liberation</a> (by "
+"Brian Martin), published by Freedom Press"
 msgstr ""
 "<cite><a href=\"http://www.bmartin.cc/pubs/98il/\">Information liberation</"
-"a></cite> (Libération de l'information), par Brian Martin. Nous insistons "
-"pour qu'on évite d'utiliser le terme <a href=\"/philosophy/words-to-avoid."
-"html\">propriété intellectuelle</a> et qu'à la place on parle de copyrights, "
-"de brevets ou de marques."
+"a></cite> (libération de l'information), par Brian Martin, publié by Freedom "
+"Press"
 
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<em>Note:</em>&nbsp; We urge people to avoid using the term <a href=\"/"
+"philosophy/words-to-avoid.html\">intellectual property</a>, and to instead "
+"speak about copyrights, patents, and/or trademarks."
+msgstr ""
+"<em>Note :</em> Évitez d'utiliser le terme <a href=\"/philosophy/words-to-"
+"avoid.html\">propriété intellectuelle</a>. Parlez plutôt de copyrights, de "
+"brevets ou de marques."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1998]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"https://web.archive.org/web/20211118053107/http://wearcam.org/"
-"seatsale/index.htm\"> Seat Sale</a>, a satire about copyright."
+"<a href=\"https://web.archive.org/web/19991012082619/http://simson.net/"
+"clips/98.Globe.05-07.Read_them_and_weep.htm\"> Read Them and Weep</a> (by "
+"Simson Garfinkel)  &mdash; This article talks about the pending bills that "
+"would give information owners sweeping new powers, and restrict the "
+"activities of users."
 msgstr ""
-"<cite><a href=\"https://web.archive.org/web/20211118053107/http://wearcam."
-"org/seatsale/index.htm\">Seat Sale</a></cite> (Siège à vendre), une satire à "
-"propos du copyright."
+"<i><a href=\"http://web.archive.org/web/19991012082619/http://simson.net/"
+"clips/98.Globe.05-07.Read_them_and_weep.htm\">Read Them And Weep</a></i> "
+"(Lisez-les et pleurez), par Simson Garfinkel – Commentaires sur des projets "
+"de loi qui donneraient aux propriétaires de l'information de nouveaux "
+"pouvoirs extraordinaires et restreindraient les activités des utilisateurs."
 
+#. type: Content of: <div><h4>
+msgid "Funding cultural works"
+msgstr "Financement des œuvres culturelles"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1993]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"A <a href=\"http://www.cs.cmu.edu/~dst/DeCSS/Gallery/\">gallery</a> of "
-"examples demonstrating how outrageous and absurd the Digital Millennium "
-"Copyright Act is."
+"<a href=\"https://genius.com/Steve-albini-the-problem-with-music-annotated"
+"\"> The Problem With Music</a> (by Steve Albini)  &mdash; Record companies "
+"argue for more copyright power by saying they are the support of musicians. "
+"This article shows how they really treat musicians."
 msgstr ""
-"Une <a href=\"http://www.cs.cmu.edu/~dst/DeCSS/Gallery/\">galerie</a> "
-"d'exemples démontrant combien la Loi sur le copyright du millénaire "
-"numérique <i>[Digital Millennium Copyright Act]</i> est scandaleuse et "
-"absurde."
+"<a href=\"https://genius.com/Steve-albini-the-problem-with-music-annotated"
+"\">The Problem With Music</a> (le problème de la musique), par Steve Albini "
+"– L'industrie du disque demande plus de pouvoir de copyright, arguant du "
+"fait qu'elle est le soutien des musiciens. Cet article montre comment les "
+"maisons de disques traitent effectivement les musiciens."
 
+#. type: Content of: <div><h4>
+msgid "Surveillance, censorship, lock-in, etc."
+msgstr "Surveillance, censure, verrouillage, etc."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2006]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://slashdot.org/article.pl?sid=01/03/28/0121209&amp;"
-"mode=nocomment\"> A book review of <cite>Digital Copyright</cite></a>."
+"<a href=\"https://www.informationweek.com/it-life/how-vista-lets-microsoft-"
+"lock-users-in\"> How Vista Lets Microsoft Lock Users In</a> (by Cory "
+"Doctorow)"
 msgstr ""
-"<a href=\"http://slashdot.org/article.pl?sid=01/03/28/0121209&amp;"
-"mode=nocomment\">Une critique du livre <cite>Digital Copyright</cite></a>."
+"<i><a href=\"https://www.informationweek.com/it-life/how-vista-lets-"
+"microsoft-lock-users-in\">How Vista Lets Microsoft Lock Users In</a></i> "
+"(Comment Vista permet à Microsoft de verrouiller les utilisateurs), par Cory "
+"Doctorow."
 
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<em>Note:</em>&nbsp; We think it is a mistake to use the enemy's favorable-"
+"sounding propaganda terms such as &ldquo;trusted computing&rdquo; to "
+"describe a malicious plan."
+msgstr ""
+"<em>Note :</em> Nous pensons que c'est une erreur d'utiliser des termes de "
+"propagande de l'ennemi qui paraissent favorables, tels qu'« informatique de "
+"confiance », pour décrire un projet malfaisant."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2006]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"https://web.archive.org/web/20191221223329/http://www.piecepack."
-"org/\">Piecepack</a> is a set of boardgame pieces which everyone is free to "
-"use in creating or playing various types of games."
+"<a href=\"https://lwn.net/Articles/194701/\"> A couple of lessons on the "
+"hazards of proprietary software</a> (by Jonathan Corbet)"
 msgstr ""
-"<a href=\"https://web.archive.org/web/20191221223329/http://www.piecepack."
-"org/\">Piecepack</a> est un ensemble de pions de jeux société que chacun est "
-"libre d'utiliser pour créer différents types de jeux ou y jouer."
+"<i><a href=\"http://lwn.net/Articles/194701/\">A couple of lessons on the "
+"hazards of proprietary software</a></i> (Deux leçons sur les dangers du "
+"logiciel privateur), par Jonathan Corbet"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2006]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"Eastern Gianozia has put together a <a href=\"https://web.archive.org/"
-"web/20190924041236/http://www.gianoziaorientale.org/info/foreign_politics."
-"html\"> tongue-in-cheek look at Software Patents and DRM</a>."
+"<a href=\"http://southflorida.bizjournals.com/southflorida/"
+"stories/2006/07/03/story8.html\"> Multiple doctors cut off from records by "
+"Dr. Notes</a> (by Brian Bandell)  &mdash; An example of how proprietary "
+"software gives the developers unjust power over the users."
 msgstr ""
-"La Gianozia orientale porte <a href=\"https://web.archive.org/"
-"web/20190924041236/http://www.gianoziaorientale.org/info/foreign_politics."
-"html\">un regard ironique sur les brevets logiciels et les DRM</a>."
+"<i><a href=\"http://southflorida.bizjournals.com/southflorida/"
+"stories/2006/07/03/story8.html\">Multiple doctors cut off from records by "
+"Dr. Notes</a></i> (Plusieurs médecins coupés de leurs dossiers par Dr Notes) "
+"– Un exemple de la façon dont le logiciel privateur donne aux développeurs "
+"un pouvoir injuste sur les utilisateurs."
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2000]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://www.linuxjournal.com/article/7813\">Free Software and "
-"Scouting</a>"
+"<a href=\"https://web.archive.org/web/20000815064842/http://oppression."
+"nerdherd.org/Stories/1998/9810/ucla/ucla.html\"> GNU/Linux discrimination at "
+"UCLA</a> (by Dan Helfman)  &mdash; One part of their justification is "
+"supporting the power of software owners."
 msgstr ""
-"<cite><a href=\"http://www.linuxjournal.com/article/7813\">Free Software and "
-"Scouting</a></cite> (Logiciel libre et scoutisme)."
+"<i><a href=\"http://web.archive.org/web/20000815064842/http://oppression."
+"nerdherd.org/Stories/1998/9810/ucla/ucla.html\">GNU/Linux discrimination at "
+"UCLA</a></i> (Discrimination contre GNU/Linux par l'Université de Californie "
+"à Los Angeles), par Dan Helfman – Elle est basée en partie sur leur soutien "
+"au pouvoir des propriétaires de logiciel."
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://fare.tunes.org/articles/patents.html\">Patents Are an "
-"Economic Absurdity</a>: This article adopts as a premise the popular view "
-"that free trade is desirable. We don't always agree&mdash;beyond a certain "
-"point, free trade gives businesses too much power, allowing them to "
-"intimidate democracy. But that is a different matter."
+"<a href=\"https://web.archive.org/web/20130723003646/http://www.heise.de/tp/"
+"artikel/2/2898/1.html\"> Only NSA can listen, so that's OK</a>, and <a href="
+"\"https://www.heise.de/tp/features/How-NSA-access-was-built-into-"
+"Windows-3444341.html\"> How NSA access was built into Windows</a> (both by "
+"Duncan Campbell)  &mdash; These articles describe how NSA backdoors were "
+"hidden in proprietary software programs.  Both are clear demonstrations of "
+"how users of proprietary software can often be unaware of what they are "
+"actually running."
 msgstr ""
-"<cite><a href=\"http://fare.tunes.org/articles/patents.html\">Patents Are an "
-"Economic Absurdity</a></cite> (Les brevets sont une absurdité économique) : "
-"cet article adopte comme prémisse la conception populaire que le libre-"
-"échange est souhaitable. Nous ne sommes pas toujours d'accord – au-delà d'un "
-"certain point, le libre-échange donne aux entreprises beaucoup trop de "
-"pouvoir, leur permettant d'intimider la démocratie. Mais ceci est un autre "
-"problème."
+"<i><a href=\"https://web.archive.org/web/20130723003646/http://www.heise.de/"
+"tp/artikel/2/2898/1.html\">Only NSA can listen, so that's OK</a></i> (Seule "
+"la NSA peut écouter, alors c'est OK) et <i><a href=\"https://www.heise.de/tp/"
+"features/How-NSA-access-was-built-into-Windows-3444341.html\">How NSA access "
+"was built into Windows</a></i> (Comment un accès pour la NSA a été intégré à "
+"Windows), tous deux par Duncan Campbell – Ces articles décrivent comment des "
+"portes dérobées <i>[backdoors]</i> de la NSA ont été cachées dans des "
+"logiciels privateurs. Ils démontrent clairement que les utilisateurs de "
+"logiciel privateur peuvent souvent ne pas être conscients de ce qui "
+"s'exécute en fait sur leur machine."
 
+#. type: Content of: <div><h3>
+msgid "Historical"
+msgstr "Précurseurs"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1960]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"https://www.lewrockwell.com/2000/09/stephan-kinsella/in-defense-of-"
-"napster-and-against-the-second-homesteading-rule/\">In Defense of Napster "
-"and Against the Second Homesteading Rule</a>"
+"<a href=\"https://dl.acm.org/doi/pdf/10.1145/367177.367178\"> Letter to the "
+"editor of the Communications of the ACM [vol.3, no.4, pp.A12-A13]</a> (by "
+"Bernard Galler)  &mdash; As early as 1960, the author says in part "
+"(mentioning price, but clearly implying freedom):"
 msgstr ""
-"<cite><a href=\"https://www.lewrockwell.com/2000/09/stephan-kinsella/in-"
-"defense-of-napster-and-against-the-second-homesteading-rule/\">In Defense of "
-"Napster and Against the Second Homesteading Rule</a></cite> (Pour la défense "
-"de Napster et contre la « deuxième règle d'appropriation »<a id=\"TransNote3-"
-"rev\" href=\"#TransNote3\"><sup>3</sup></a>)."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://www.mises.org/journals/jls/15_2/15_2_1.pdf\">Against "
-"Intellectual Property</a>, Spring 2001, Journal of Libertarian Studies (PDF)"
-msgstr ""
-"<cite><a href=\"http://www.mises.org/journals/jls/15_2/15_2_1.pdf\">Against "
-"Intellectual Property</a></cite> (Contre la propriété intellectuelle), "
-"<cite>Journal of Libertarian Studies</cite>, printemps 2001 (PDF)."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://web.archive.org/web/20121029031829/http://www.sci.brooklyn."
-"cuny.edu/~sdexter/Pubs/cepe2005.pdf\"> A Comparative Ethical Assessment of "
-"Free Software Licensing Schemes</a> by Samir Chopra and Scott Dexter"
-msgstr ""
-"<cite><a href=\"http://web.archive.org/web/20121029031829/http://www.sci."
-"brooklyn.cuny.edu/~sdexter/Pubs/cepe2005.pdf\">A Comparative Ethical "
-"Assessment of Free Software Licensing Schemes</a></cite> (Une évaluation "
-"éthique comparative des combinaisons de licences de logiciel libre), par "
-"Samir Chopra et Scott Dexter."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"The <a href=\"http://web.archive.org/web/20131126094524/http://"
-"simplemachines.it/index.php/sim-one-project\">SIM.ONE hardware project</a> "
-"has created free (as in freedom)  computer design specifications."
-msgstr ""
-"Le <a href=\"http://web.archive.org/web/20131126094524/http://simplemachines."
-"it/index.php/sim-one-project\">projet de matériel SIM.ONE</a> a créé des "
-"spécifications pour la conception d'ordinateurs libres (libres comme dans "
-"liberté)."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/vaccination.html\">Viral Code and Vaccination</a>, an "
-"article by Robert J. Chassell."
-msgstr ""
-"<a href=\"/philosophy/vaccination.html\">Code viral et vaccination</a>, un "
-"article de Robert J. Chassell."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/why-audio-format-matters.html\">Why Audio Format "
-"matters</a> by Karl Fogel"
-msgstr ""
-"<a href=\"/philosophy/why-audio-format-matters.html\">De l'importance du "
-"format audio</a>, par Karl Fogel."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"As early as 1960, Bernard Galler wrote a <a href=\"https://dl.acm.org/"
-"doi/10.1145/367177.367178\"> letter to the editor of the Communications of "
-"the ACM</a> (vol.3, no.4, pp.A12-A13), saying in part (mentioning price, but "
-"clearly implying freedom):"
-msgstr ""
-"En 1960, Bernard Galler a écrit une <a href=\"https://dl.acm.org/"
-"doi/10.1145/367177.367178\">lettre à l'éditeur des <cite>Communications of "
-"the ACM</cite></a> (vol.3, no.4, pp.A12-A13), disant entre autres (en "
-"mentionnant le prix, mais impliquant clairement la liberté) :"
+"<a href=\"https://dl.acm.org/doi/10.1145/367177.367178\">Lettre à l'éditeur "
+"des <cite>Communications of the ACM</cite> (vol.3, no.4, pp.A12-A13)</a>, "
+"par Bernard Galler – Dès 1960, l'auteur dit entre autres (en mentionnant le "
+"prix, mais impliquant clairement la liberté) :"
 
 #. type: Content of: <div><ul><li><blockquote><p>
 msgid ""
-"&hellip; it is clear that what is being charged for is the development of "
+"<i>&hellip; it is clear that what is being charged for is the development of "
 "the program, and while I am particularly unhappy that it comes from a "
 "university, I believe it is damaging to the whole profession. There isn't a "
 "704 installation that hasn't directly benefited from the free exchange of "
 "programs made possible by the distribution facilities of SHARE.  If we start "
-"to sell our programs, this will set very undesirable precedents."
+"to sell our programs, this will set very undesirable precedents.</i>"
 msgstr ""
-"&hellip; il est clair que ce qui est facturé est le développement du "
+"<i>&hellip; it is clear that what is being charged for is the development of "
+"the program, and while I am particularly unhappy that it comes from a "
+"university, I believe it is damaging to the whole profession. There isn't a "
+"704 installation that hasn't directly benefited from the free exchange of "
+"programs made possible by the distribution facilities of SHARE.  If we start "
+"to sell our programs, this will set very undesirable precedents.</i></p>\n"
+"\n"
+"<p>&hellip; il est clair que ce qui est facturé est le développement du "
 "programme et, tout en étant particulièrement mécontent que cela provienne "
 "d'une université, je pense que c'est dommageable pour l'ensemble de la "
 "profession. Il n'y a pas une installation 704 qui n'ait pas directement "
@@ -1004,8 +1429,93 @@ msgstr ""
 "créera des précédents très fâcheux."
 
 #. type: Content of: <div><ul><li>
-msgid "(Thanks to Nelson Beebe for the reference.)"
-msgstr "(Merci à Nelson Beebe pour la référence)."
+msgid "<small>(Thanks to Nelson Beebe for the reference.)</small>"
+msgstr "<small>(Merci à Nelson Beebe pour la référence.)</small>"
+
+#. type: Content of: <div><h3>
+msgid "Philosophical Humor"
+msgstr "Humour philosophique"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2011]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://maxbarry.com/2011/03/23/news.html\"> Tomato parable</a> "
+"(by Max Barry)"
+msgstr ""
+"<a href=\"https://maxbarry.com/2011/03/23/news.html\">La parabole des "
+"tomates</a>, par Max Barry"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2009]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20190924041236/http://www."
+"gianoziaorientale.org/info/foreign_politics.html\"> Eastern Gianozia</a> "
+"&mdash; A tongue-in-cheek look at software patents and DRM."
+msgstr ""
+"<i><a href=\"https://web.archive.org/web/20190924041236/http://www."
+"gianoziaorientale.org/info/foreign_politics.html\">Eastern Gianozia</a></i> "
+"– Un regard ironique sur les brevets logiciels et les DRM."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2001]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20211118053107/http://wearcam.org/"
+"seatsale/index.htm\"> Seat Sale</a> (by Steve Mann)  &mdash; A satire about "
+"copyright."
+msgstr ""
+"<i><a href=\"https://web.archive.org/web/20211118053107/http://wearcam.org/"
+"seatsale/index.htm\">Seat Sale</a></i> (Siège à vendre) – Une satire à "
+"propos du copyright."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2000]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/bdk.html\"> The Ballad of Dennis Karjala</a> (by "
+"Timothy R. Phillips)  &mdash; A political comment in the form of a broadside "
+"ballad."
+msgstr ""
+"<a href=\"/philosophy/bdk.html\">La ballade de Dennis Karjala</a> – Un "
+"commentaire politique sous forme de complainte du 16e siècle <i>[broadside "
+"ballad]</i>, par Timothy R. Phillips"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2000]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a id=\"Copyrightfire\" href=\"/philosophy/fire.html\"> Copyrighting Fire!</"
+"a> (by Ian Clarke)"
+msgstr ""
+"<a id=\"Copyrightfire\" href=\"/philosophy/fire.html\">Le feu sous "
+"copyright !</a>, par Ian Clarke"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2000]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a id=\"INFOTECH\" href=\"http://www.praxagora.com/andyo/professional/"
+"infirmation_technology.html\"> The Future Brings &ldquo;Infirmation "
+"Technology&rdquo;</a> (by Andy Oram)"
+msgstr ""
+"<i><a id=\"INFOTECH\" href=\"http://www.praxagora.com/andyo/professional/"
+"infirmation_technology.html\">The Future Brings &ldquo;Infirmation "
+"Technology&rdquo;</a></i> (L'avenir apporte la « technologie de "
+"l'infirmation »), par Andy Oram"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -1016,9 +1526,6 @@ msgstr ""
 "\">&#8593;</a> \n"
 "La plupart de ces articles sont an anglais.</li>\n"
 "<li><a id=\"TransNote2\" href=\"#TransNote2-rev\" class=\"nounderline"
-"\">&#8593;</a> \n"
-"Autre traduction de <i>proprietary</i> : propriétaire.</li>\n"
-"<li><a id=\"TransNote3\" href=\"#TransNote3-rev\" class=\"nounderline"
 "\">&#8593;</a> \n"
 "Voir <cite><a href=\"http://www.stephankinsella.com/wp-content/uploads/"
 "publications/trans/Kinsella,%20Against%20Intellectual%20Property-French.pdf"
@@ -1053,12 +1560,13 @@ msgstr ""
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
 #.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
-#.         href="/server/standards/README.translations.html">Translations
+#.         href="/server/standards/README.translations.html">
+#.   Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and contributing "
+"Please see the <a href=\"/server/standards/README.translations.html\"> "
+"Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -1072,7 +1580,8 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid ""
 "Copyright &copy; 1996-2009, 2015, 2022, 2023 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 1996-2009, 2015, 2022 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 1996-2009, 2015, 2022, 2023 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: essays-and-articles.html\n"
-"POT-Creation-Date: 2023-03-24 12:55+0000\n"
-"PO-Revision-Date: 2023-03-23 13:21+0100\n"
+"POT-Creation-Date: 2023-05-09 18:25+0000\n"
+"PO-Revision-Date: 2023-05-09 20:34+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -144,8 +144,12 @@ msgid "<a href=\"#society\">Digital society</a>"
 msgstr "<a href=\"#society\">Société numérique</a>"
 
 #. type: Content of: <div><div><ul><li><ul><li>
-msgid "<a href=\"#drm\">Digital restrictions management</a>"
-msgstr "<a href=\"#drm\">Gestion numérique des restrictions</a>"
+msgid ""
+"<a href=\"#drm\">Digital restrictions management and treacherous computing</"
+"a>"
+msgstr ""
+"<a href=\"#drm\">Gestion numérique des restrictions et informatique "
+"déloyale</a>"
 
 #. type: Content of: <div><div><ul><li><ul><li>
 msgid "<a href=\"#ns\">Network services</a>"
@@ -173,8 +177,10 @@ msgid "<a href=\"#terminology\">Terminology and Definitions</a>"
 msgstr "<a href=\"#terminology\">Terminologie et définitions</a>"
 
 #. type: Content of: <div><div><ul><li>
-msgid "<a href=\"/fun/humor.html#Philosophy\">Philosophical Humor</a>"
-msgstr "<a href=\"/fun/humor.html#Philosophy\">Humour philosophique</a>"
+msgid ""
+"<a href=\"/philosophy/third-party-ideas.html#humor\">Philosophical Humor</a>"
+msgstr ""
+"<a href=\"/philosophy/third-party-ideas.html#humor\">Humour philosophique</a>"
 
 #. type: Content of: <div><h3>
 msgid "About Free Software"
@@ -1223,7 +1229,7 @@ msgstr ""
 "Sun dans la pénombre</a>, par RMS"
 
 #. type: Content of: <div><h3>
-msgid "Legal issues"
+msgid "Legal Issues"
 msgstr "Questions juridiques"
 
 #. type: Content of: <div><h4>
@@ -1839,8 +1845,8 @@ msgstr ""
 "l'information</a>, par RMS"
 
 #. type: Content of: <div><h4>
-msgid "Digital restrictions management"
-msgstr "Gestion numérique des restrictions"
+msgid "Digital restrictions management and treacherous computing"
+msgstr "Gestion numérique des restrictions et informatique déloyale"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. *[2006]</span>'
@@ -2391,18 +2397,6 @@ msgstr ""
 "restrictions au public et propose de modifier la terminologie pour que les "
 "gens ne s'en rendent pas compte."
 
-#. type: Content of: <div><h3>
-msgid "Philosophical humor"
-msgstr "Humour philosophique"
-
-#. type: Content of: <div><p>
-msgid ""
-"<a href=\"/fun/humor.html#Philosophy\">Laugh along with GNU (Philosophy)</a> "
-"&mdash; We don't have to be serious <i>all</i> the time."
-msgstr ""
-"<a href=\"/fun/humor.html#Philosophy\">Rions avec le GNU (philosophie)</a> – "
-"Nous n'avons pas à être sérieux tout le temps."
-
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
@@ -2472,3 +2466,13 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+#~ msgid "Philosophical humor"
+#~ msgstr "Humour philosophique"
+
+#~ msgid ""
+#~ "<a href=\"/fun/humor.html#Philosophy\">Laugh along with GNU (Philosophy)</"
+#~ "a> &mdash; We don't have to be serious <i>all</i> the time."
+#~ msgstr ""
+#~ "<a href=\"/fun/humor.html#Philosophy\">Rions avec le GNU (philosophie)</"
+#~ "a> – Nous n'avons pas à être sérieux tout le temps."

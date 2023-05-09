@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: humor.html\n"
-"POT-Creation-Date: 2022-06-04 09:27+0000\n"
-"PO-Revision-Date: 2022-06-04 22:22+0200\n"
+"POT-Creation-Date: 2023-05-09 17:55+0000\n"
+"PO-Revision-Date: 2023-05-09 20:08+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -209,6 +209,14 @@ msgid "<a href=\"/fun/jokes/helloworld.html\">Hello World!</a>"
 msgstr "<a href=\"/fun/jokes/helloworld.html\"><i>Hello World!</i></a>"
 
 #. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/fun/jokes/hello_world_patent.html\">The Swedish YAAS Foundation "
+"Patent</a>"
+msgstr ""
+"<a href=\"/fun/jokes/hello_world_patent.html\">Le brevet de la fondation "
+"suédoise YASS</a>"
+
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"/fun/jokes/long-options.html\">Long Options?</a>"
 msgstr "<a href=\"/fun/jokes/long-options.html\">Options longues ?</a>"
 
@@ -305,8 +313,8 @@ msgid "Music"
 msgstr "Musique"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"/music/music.html\">GNU Music and Songs</a>"
-msgstr "<a href=\"/music/music.html\">Musiques et chants du GNU</a>"
+msgid "See <a href=\"/music/music.html\">GNU Music and Songs</a>"
+msgstr "Voir <a href=\"/music/music.html\">Musiques et chants du GNU</a>"
 
 #. type: Content of: <div><h3>
 msgid "Poems"
@@ -335,28 +343,12 @@ msgid "Philosophy"
 msgstr "Philosophie"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"/philosophy/bdk.html\">The Ballad of Dennis Karjala</a>"
-msgstr "<a href=\"/philosophy/bdk.html\">La ballade de Dennis Karjala</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/philosophy/fire.html\">Copyrighting Fire!</a>"
-msgstr "<a href=\"/philosophy/fire.html\">Le feu sous copyright !</a>"
-
-#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/fun/jokes/hello_world_patent.html\">The Swedish YAAS Foundation "
-"Patent</a>"
+"See <a href=\"/philosophy/third-party-ideas.html#humor\">the Philosophical "
+"Humor section in Third Party Ideas</a>"
 msgstr ""
-"<a href=\"/fun/jokes/hello_world_patent.html\">Le brevet de la fondation "
-"suédoise YASS</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://maxbarry.com/2011/03/23/news.html\">Tomato parable</a>"
-msgstr ""
-"<a href=\"https://maxbarry.com/2011/03/23/news.html\">Parabole des tomates</"
-"a> [traduction en <a href=\"https://framablog.org/2017/04/14/le-libre-"
-"explique-aux-jardiniers/\">français</a>]"
+"Voir <a href=\"/philosophy/third-party-ideas.html#humor\">Idées de tierces "
+"personnes</a>, section Humour philosophique"
 
 #. type: Content of: <div><h3>
 msgid "The Fourth Estate"
@@ -599,8 +591,8 @@ msgstr ""
 
 # Pas de changement significatif en 2022.
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1999-2022 Richard M. Stallman"
-msgstr "Copyright &copy; 1999-2021 Richard M. Stallman"
+msgid "Copyright &copy; 1999-2023 Richard M. Stallman"
+msgstr "Copyright &copy; 1999-2021, 2023 Richard M. Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -624,3 +616,16 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+#~ msgid "<a href=\"/philosophy/bdk.html\">The Ballad of Dennis Karjala</a>"
+#~ msgstr "<a href=\"/philosophy/bdk.html\">La ballade de Dennis Karjala</a>"
+
+#~ msgid "<a href=\"/philosophy/fire.html\">Copyrighting Fire!</a>"
+#~ msgstr "<a href=\"/philosophy/fire.html\">Le feu sous copyright !</a>"
+
+#~ msgid ""
+#~ "<a href=\"https://maxbarry.com/2011/03/23/news.html\">Tomato parable</a>"
+#~ msgstr ""
+#~ "<a href=\"https://maxbarry.com/2011/03/23/news.html\">Parabole des "
+#~ "tomates</a> [traduction en <a href=\"https://framablog.org/2017/04/14/le-"
+#~ "libre-explique-aux-jardiniers/\">français</a>]"
