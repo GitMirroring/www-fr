@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: third-party-ideas.html\n"
-"POT-Creation-Date: 2023-05-09 18:25+0000\n"
+"POT-Creation-Date: 2023-05-11 11:25+0000\n"
 "PO-Revision-Date: 2023-05-10 16:37+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -102,14 +102,6 @@ msgid "<a href=\"#society\">Digital society</a>"
 msgstr "<a href=\"#society\">Société numérique</a>"
 
 #. type: Content of: <div><div><ul><li><ul><li>
-msgid ""
-"<a href=\"#drm\">Digital restrictions management and treacherous computing</"
-"a>"
-msgstr ""
-"<a href=\"#drm\">Gestion numérique des restrictions et informatique "
-"déloyale</a>"
-
-#. type: Content of: <div><div><ul><li><ul><li>
 msgid "<a href=\"#access\">Accessing culture</a>"
 msgstr "<a href=\"#access\">Accès à la culture</a>"
 
@@ -118,12 +110,16 @@ msgid "<a href=\"#funding\">Funding cultural works</a>"
 msgstr "<a href=\"#funding\">Financement des œuvres culturelles</a>"
 
 #. type: Content of: <div><div><ul><li><ul><li>
+msgid ""
+"<a href=\"#drm\">Digital restrictions management and treacherous computing</"
+"a>"
+msgstr ""
+"<a href=\"#drm\">Gestion numérique des restrictions et informatique "
+"déloyale</a>"
+
+#. type: Content of: <div><div><ul><li><ul><li>
 msgid "<a href=\"#evils\">Surveillance, censorship, lock-in, etc.</a>"
 msgstr "<a href=\"#evils\">Surveillance, censure, verrouillage, etc.</a>"
-
-#. type: Content of: <div><div><ul><li>
-msgid "<a href=\"#historical\">Historical</a>"
-msgstr "<a href=\"#historical\">Précurseurs</a>"
 
 #. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#humor\">Philosophical Humor</a>"
@@ -177,21 +173,6 @@ msgid ""
 msgstr ""
 "<a href=\"/philosophy/why-audio-format-matters.html\">De l'importance du "
 "format audio</a>, par Karl Fogel"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. [2006]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"http://lwn.net/Articles/204641/\"> Free gadgets need free "
-"software</a> (by Jonathan Corbet)  &mdash; An editorial reporting a firmware "
-"&ldquo;upgrade&rdquo; that removes the ability to record radio broadcasts."
-msgstr ""
-"<i><a href=\"http://lwn.net/Articles/204641/\">Free gadgets need free "
-"software</a></i> (Les gadgets libres nécessitent du logiciel libre) par "
-"Jonathan Corbet – Un éditorial qui rapporte comment une « mise à jour » de "
-"firmware supprime la possibilité d'enregistrer des programmes radiodiffusés."
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [2001-2004]</span>'
@@ -382,6 +363,50 @@ msgid ""
 msgstr ""
 "<a href=\"/philosophy/free-world.html\">Seul le monde du Libre peut résister "
 "à Microsoft</a>, par Tom Hull"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1960]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://dl.acm.org/doi/pdf/10.1145/367177.367178\"> Letter to the "
+"editor of the Communications of the ACM [vol.3, no.4, pp.A12-A13]</a> (by "
+"Bernard Galler)  &mdash; As early as 1960, the author says in part "
+"(mentioning price, but clearly implying freedom):"
+msgstr ""
+"<a href=\"https://dl.acm.org/doi/10.1145/367177.367178\">Lettre à l'éditeur "
+"des <cite>Communications of the ACM</cite> (vol.3, no.4, pp.A12-A13)</a>, "
+"par Bernard Galler – Dès 1960, l'auteur dit entre autres (en mentionnant le "
+"prix, mais impliquant clairement la liberté) :"
+
+#. type: Content of: <div><ul><li><blockquote><p>
+msgid ""
+"<i>&hellip; it is clear that what is being charged for is the development of "
+"the program, and while I am particularly unhappy that it comes from a "
+"university, I believe it is damaging to the whole profession. There isn't a "
+"704 installation that hasn't directly benefited from the free exchange of "
+"programs made possible by the distribution facilities of SHARE.  If we start "
+"to sell our programs, this will set very undesirable precedents.</i>"
+msgstr ""
+"<i>&hellip; it is clear that what is being charged for is the development of "
+"the program, and while I am particularly unhappy that it comes from a "
+"university, I believe it is damaging to the whole profession. There isn't a "
+"704 installation that hasn't directly benefited from the free exchange of "
+"programs made possible by the distribution facilities of SHARE.  If we start "
+"to sell our programs, this will set very undesirable precedents.</i></p>\n"
+"\n"
+"<p>&hellip; il est clair que ce qui est facturé est le développement du "
+"programme et, tout en étant particulièrement mécontent que cela provienne "
+"d'une université, je pense que c'est dommageable pour l'ensemble de la "
+"profession. Il n'y a pas une installation 704 qui n'ait pas directement "
+"bénéficié du libre échange de programmes rendu possible par le système de "
+"distribution de SHARE. Si nous commençons à vendre nos programmes, cela "
+"créera des précédents très fâcheux."
+
+#. type: Content of: <div><ul><li>
+msgid "<small>(Thanks to Nelson Beebe for the reference.)</small>"
+msgstr "<small>(Merci à Nelson Beebe pour la référence.)</small>"
 
 #. type: Content of: <div><h3>
 msgid "Licensing Free Software"
@@ -1107,52 +1132,21 @@ msgstr ""
 "Robert J. Chassell"
 
 #. type: Content of: <div><h4>
-msgid "Digital restrictions management and treacherous computing"
-msgstr "Gestion numérique des restrictions et informatique déloyale"
+msgid "Accessing culture"
+msgstr "Accès à la culture"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. [2022]</span>'
+#. [2003]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/you-the-problem-tpm2-solves.html\"> You, the Problem "
-"TPM2 Solves</a> (by Chao-Kuei Hung)"
+"<a href=\"https://law.duke.edu/pd/papers/boyle.pdf\"> The Second Enclosure "
+"Movement and the Construction of the Public Domain</a> (by James Boyle)"
 msgstr ""
-"<a href=\"/philosophy/you-the-problem-tpm2-solves.html\">C'est vous, le "
-"problème que résout TPM2</a>, par Chao-Kuei Hung"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. [2006]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://web.archive.org/web/20060313152550/http://www."
-"hardwarecentral.com/hardwarecentral/editorials/4788/1/\"> <cite>Hardware "
-"Central</cite> editorial</a> (by Eric Grevstad)  &mdash; Among other things, "
-"it discusses Microsoft's &ldquo;Trusted Computing.&rdquo;"
-msgstr ""
-"<a href=\"https://web.archive.org/web/20060313152550/http://www."
-"hardwarecentral.com/hardwarecentral/editorials/4788/1/\">Éditorial de "
-"<cite>Hardware Central</cite></a>, par Eric Grevstad – Il parle entre autres "
-"de l'« informatique de confiance » prônée par Microsoft."
-
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"<em>Note:</em>&nbsp; We disagree with one aspect of this article's "
-"conclusion: it's not legitimate for Microsoft to help Disney and the RIAA "
-"impose Digital Restrictions Management on you, any more than it is "
-"legitimate for Disney and the RIAA to try it.  The full power of computing "
-"should be available to you, not just to the owners of information."
-msgstr ""
-"<em>Note :</em> Nous ne sommes pas d'accord avec un aspect de la conclusion "
-"de cet article : il n'est pas légitime pour Microsoft d'aider Disney et la "
-"RIAA à vous imposer la gestion numérique des restrictions (<abbr title="
-"\"Digital Restrictions Management\">DRM</abbr>), pas plus qu'il n'est "
-"légitime pour Disney et la RIAA d'essayer de le faire. Toute la puissance de "
-"votre ordinateur doit vous être accessible à vous, et pas seulement à ceux "
-"qui sont propriétaires de l'information."
+"<i><a href=\"http://law.duke.edu/pd/papers/boyle.pdf\">The Second Enclosure "
+"Movement and the Construction of the Public Domain</a></i> (Le mouvement de "
+"la deuxième enceinte et la construction du domaine public), par James Boyle"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [2000-2003]</span>'
@@ -1184,23 +1178,6 @@ msgstr ""
 "documents/s=2302/byt1011380870846/\">Coding is a Crime</a></i> (Coder est un "
 "délit), par Shannon Cochran – Un commentaire sur l'inculpation de Jon "
 "Johansen pour avoir aidé à écrire DeCSS."
-
-#. type: Content of: <div><h4>
-msgid "Accessing culture"
-msgstr "Accès à la culture"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. [2003]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://law.duke.edu/pd/papers/boyle.pdf\"> The Second Enclosure "
-"Movement and the Construction of the Public Domain</a> (by James Boyle)"
-msgstr ""
-"<i><a href=\"http://law.duke.edu/pd/papers/boyle.pdf\">The Second Enclosure "
-"Movement and the Construction of the Public Domain</a></i> (Le mouvement de "
-"la deuxième enceinte et la construction du domaine public), par James Boyle"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [2002]</span>'
@@ -1286,8 +1263,20 @@ msgstr ""
 "maisons de disques traitent effectivement les musiciens."
 
 #. type: Content of: <div><h4>
-msgid "Surveillance, censorship, lock-in, etc."
-msgstr "Surveillance, censure, verrouillage, etc."
+msgid "Digital restrictions management and treacherous computing"
+msgstr "Gestion numérique des restrictions et informatique déloyale"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2022]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/you-the-problem-tpm2-solves.html\"> You, the Problem "
+"TPM2 Solves</a> (by Chao-Kuei Hung)"
+msgstr ""
+"<a href=\"/philosophy/you-the-problem-tpm2-solves.html\">C'est vous, le "
+"problème que résout TPM2</a>, par Chao-Kuei Hung"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [2006]</span>'
@@ -1313,6 +1302,57 @@ msgstr ""
 "<em>Note :</em> Nous pensons que c'est une erreur d'utiliser des termes de "
 "propagande de l'ennemi qui paraissent favorables, tels qu'« informatique de "
 "confiance », pour décrire un projet malfaisant."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2006]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20060313152550/http://www."
+"hardwarecentral.com/hardwarecentral/editorials/4788/1/\"> <cite>Hardware "
+"Central</cite> editorial</a> (by Eric Grevstad)  &mdash; Among other things, "
+"it discusses Microsoft's &ldquo;Trusted Computing.&rdquo;"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20060313152550/http://www."
+"hardwarecentral.com/hardwarecentral/editorials/4788/1/\">Éditorial de "
+"<cite>Hardware Central</cite></a>, par Eric Grevstad – Il parle entre autres "
+"de l'« informatique de confiance » prônée par Microsoft."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<em>Note:</em>&nbsp; We disagree with one aspect of this article's "
+"conclusion: it's not legitimate for Microsoft to help Disney and the RIAA "
+"impose Digital Restrictions Management on you, any more than it is "
+"legitimate for Disney and the RIAA to try it.  The full power of computing "
+"should be available to you, not just to the owners of information."
+msgstr ""
+"<em>Note :</em> Nous ne sommes pas d'accord avec un aspect de la conclusion "
+"de cet article : il n'est pas légitime pour Microsoft d'aider Disney et la "
+"RIAA à vous imposer la gestion numérique des restrictions (<abbr title="
+"\"Digital Restrictions Management\">DRM</abbr>), pas plus qu'il n'est "
+"légitime pour Disney et la RIAA d'essayer de le faire. Toute la puissance de "
+"votre ordinateur doit vous être accessible à vous, et pas seulement à ceux "
+"qui sont propriétaires de l'information."
+
+#. type: Content of: <div><h4>
+msgid "Surveillance, censorship, lock-in, etc."
+msgstr "Surveillance, censure, verrouillage, etc."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2006]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://lwn.net/Articles/204641/\"> Free gadgets need free "
+"software</a> (by Jonathan Corbet)  &mdash; An editorial reporting a firmware "
+"&ldquo;upgrade&rdquo; that removes the ability to record radio broadcasts."
+msgstr ""
+"<i><a href=\"http://lwn.net/Articles/204641/\">Free gadgets need free "
+"software</a></i> (Les gadgets libres nécessitent du logiciel libre) par "
+"Jonathan Corbet – Un éditorial qui rapporte comment une « mise à jour » de "
+"firmware supprime la possibilité d'enregistrer des programmes radiodiffusés."
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [2006]</span>'
@@ -1386,54 +1426,6 @@ msgstr ""
 "logiciels privateurs. Ils démontrent clairement que les utilisateurs de "
 "logiciel privateur peuvent souvent ne pas être conscients de ce qui "
 "s'exécute en fait sur leur machine."
-
-#. type: Content of: <div><h3>
-msgid "Historical"
-msgstr "Précurseurs"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. [1960]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://dl.acm.org/doi/pdf/10.1145/367177.367178\"> Letter to the "
-"editor of the Communications of the ACM [vol.3, no.4, pp.A12-A13]</a> (by "
-"Bernard Galler)  &mdash; As early as 1960, the author says in part "
-"(mentioning price, but clearly implying freedom):"
-msgstr ""
-"<a href=\"https://dl.acm.org/doi/10.1145/367177.367178\">Lettre à l'éditeur "
-"des <cite>Communications of the ACM</cite> (vol.3, no.4, pp.A12-A13)</a>, "
-"par Bernard Galler – Dès 1960, l'auteur dit entre autres (en mentionnant le "
-"prix, mais impliquant clairement la liberté) :"
-
-#. type: Content of: <div><ul><li><blockquote><p>
-msgid ""
-"<i>&hellip; it is clear that what is being charged for is the development of "
-"the program, and while I am particularly unhappy that it comes from a "
-"university, I believe it is damaging to the whole profession. There isn't a "
-"704 installation that hasn't directly benefited from the free exchange of "
-"programs made possible by the distribution facilities of SHARE.  If we start "
-"to sell our programs, this will set very undesirable precedents.</i>"
-msgstr ""
-"<i>&hellip; it is clear that what is being charged for is the development of "
-"the program, and while I am particularly unhappy that it comes from a "
-"university, I believe it is damaging to the whole profession. There isn't a "
-"704 installation that hasn't directly benefited from the free exchange of "
-"programs made possible by the distribution facilities of SHARE.  If we start "
-"to sell our programs, this will set very undesirable precedents.</i></p>\n"
-"\n"
-"<p>&hellip; il est clair que ce qui est facturé est le développement du "
-"programme et, tout en étant particulièrement mécontent que cela provienne "
-"d'une université, je pense que c'est dommageable pour l'ensemble de la "
-"profession. Il n'y a pas une installation 704 qui n'ait pas directement "
-"bénéficié du libre échange de programmes rendu possible par le système de "
-"distribution de SHARE. Si nous commençons à vendre nos programmes, cela "
-"créera des précédents très fâcheux."
-
-#. type: Content of: <div><ul><li>
-msgid "<small>(Thanks to Nelson Beebe for the reference.)</small>"
-msgstr "<small>(Merci à Nelson Beebe pour la référence.)</small>"
 
 #. type: Content of: <div><h3>
 msgid "Philosophical Humor"
