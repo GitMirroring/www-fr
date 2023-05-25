@@ -7,16 +7,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wallpapers.html\n"
-"POT-Creation-Date: 2021-05-06 11:55+0000\n"
-"PO-Revision-Date: 2021-07-04 20:19+0200\n"
+"POT-Creation-Date: 2023-05-25 10:25+0000\n"
+"PO-Revision-Date: 2023-05-25 13:33+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: Gtranslator 2.91.5\n"
 
 #. type: Content of: <title>
 msgid "Wallpapers - GNU Project - Free Software Foundation"
@@ -28,7 +26,7 @@ msgstr "Fonds d'écran"
 
 #. type: Content of: <div><div><p>
 msgid "See also:"
-msgstr "Voir également :"
+msgstr "Voir également :"
 
 #. type: Content of: <div><div><ul><li>
 msgid ""
@@ -67,14 +65,14 @@ msgid ""
 "<a href=\"/graphics/free-your-soul.html\">Free Your Soul wallpaper</a> by "
 "Sayem Chaklader,"
 msgstr ""
-"<a href=\"/graphics/free-your-soul.html\">Fond d'écran <i>« Free Your "
-"Soul »</i></a> (Libérez votre esprit) de Sayem Chaklader."
+"<a href=\"/graphics/free-your-soul.html\">Fond d'écran <i>« Free Your "
+"Soul »</i></a> (Libérez votre esprit) de Sayem Chaklader."
 
 #. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"/graphics/plant-onion.html\">Plant Onions!</a> by P&eacute;h&auml;,"
 msgstr ""
-"<i>« <a href=\"/graphics/plant-onion.html\">Plant Onions!</a> »</i> (Plantez "
+"<i>« <a href=\"/graphics/plant-onion.html\">Plant Onions!</a> »</i> (Plantez "
 "des oignons) de Péhä."
 
 #. type: Content of: <div><div><ul><li>
@@ -82,8 +80,8 @@ msgid ""
 "<a href=\"/graphics/this-is-freedom-wallpaper.html\">This is Freedom "
 "wallpaper</a> by Vadim Gush,"
 msgstr ""
-"<a href=\"/graphics/this-is-freedom-wallpaper.html\">Fond d'écran <i>« This "
-"is Freedom »</i></a> (Voici la liberté) de Vadim Gush."
+"<a href=\"/graphics/this-is-freedom-wallpaper.html\">Fond d'écran <i>« This "
+"is Freedom »</i></a> (Voici la liberté) de Vadim Gush."
 
 #. type: Content of: <div><div><ul><li>
 msgid ""
@@ -94,16 +92,52 @@ msgstr ""
 "Emacs</a> par Loic Duros et l'équipe de la FSF."
 
 #. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/gnu-linux-simple-wallpaper.png\">"
+msgstr "<a href=\"/graphics/gnu-linux-simple-wallpaper.png\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[GNU/Linux simple wallpaper]&nbsp;"
+msgstr " [Fond d'écran 'GNU/Linux simple'] "
+
+#. type: Content of: <table><tr><td>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <table><tr><td><p>
+msgid "<em>GNU/Linux Simple</em>"
+msgstr "<em>GNU/Linux simple</em>"
+
+#. type: Content of: <table><tr><td><p><small>
+msgid ""
+"<small>By Sujeewa Sandeepa Kularathna (based on Aurelio Heckert's <a href=\"/"
+"graphics/heckert_gnu.html\">Bold GNU Head</a>)"
+msgstr ""
+"<small>de Sujeewa Sandeepa Kularathna (basé sur on la <a href=\"/graphics/"
+"heckert_gnu.html\">Tête de GNU contrastée</a> d'Aurelio Heckert)"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> "
+"CC BY-SA 4.0</a></small>"
+msgstr ""
+"<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/4.0/"
+"deed.fr\">CC BY-SA 4.0</a></small>"
+
+#. type: Content of: <table><tr><td><p>
+msgid ""
+"3840x2160:&nbsp; PNG <a href=\"/graphics/gnu-linux-simple-wallpaper.png"
+"\">176kB</a>"
+msgstr ""
+"3840x2160:&nbsp; PNG <a href=\"/graphics/gnu-linux-simple-wallpaper.png"
+"\">176 koB</a>"
+
+#. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/Free_as_in_Freedom_gnu-org_fsf-org.png\">"
 msgstr "<a href=\"/graphics/Free_as_in_Freedom_gnu-org_fsf-org.png\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "&nbsp;[Free as in Freedom, gnu.org fsf.org wallpaper]&nbsp;"
 msgstr " [Fond d'écran 'Libre comme dans liberté, gnu.org fsf.org'] "
-
-#. type: Content of: <table><tr><td>
-msgid "</a>"
-msgstr "</a>"
 
 #. type: Content of: <table><tr><td><p>
 msgid "<em>Free As In Freedom</em>"
@@ -128,8 +162,8 @@ msgid ""
 "org_fsf-org.xcf\">86kB</a>"
 msgstr ""
 "1024x768:&nbsp; PNG <a href=\"/graphics/Free_as_in_Freedom_gnu-org_fsf-org."
-"png\">30 ko</a>,&nbsp; XCF&nbsp;<a href=\"/graphics/Free_as_in_Freedom_gnu-"
-"org_fsf-org.xcf\">86 ko</a>"
+"png\">30 ko</a>,&nbsp; XCF&nbsp;<a href=\"/graphics/Free_as_in_Freedom_gnu-"
+"org_fsf-org.xcf\">86 ko</a>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnulinux_rms_phrase.png\">"
@@ -169,7 +203,7 @@ msgstr ""
 msgid ""
 "2120x1280:&nbsp; PNG <a href=\"/graphics/gnulinux_rms_phrase.png\">1.1MB</a>"
 msgstr ""
-"2120x1280:&nbsp; PNG <a href=\"/graphics/gnulinux_rms_phrase.png\">1,1 Mo</a>"
+"2120x1280:&nbsp; PNG <a href=\"/graphics/gnulinux_rms_phrase.png\">1,1 Mo</a>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/free_as_in_freedom.png\">"
@@ -191,7 +225,7 @@ msgstr "<small>de Cortman"
 msgid ""
 "1920x1080:&nbsp; PNG <a href=\"/graphics/free_as_in_freedom.png\">64kB</a>"
 msgstr ""
-"1920x1080:&nbsp; PNG <a href=\"/graphics/free_as_in_freedom.png\">64 ko</a>"
+"1920x1080:&nbsp; PNG <a href=\"/graphics/free_as_in_freedom.png\">64 ko</a>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/FSS_1280.png\">"
@@ -227,15 +261,15 @@ msgstr "Lettres blanches"
 
 #. type: Content of: <table><tr><td><dl><dd>
 msgid "800x600:&nbsp; PNG <a href=\"/graphics/FSS_800.png\">98kB</a>"
-msgstr "800x600:&nbsp; PNG <a href=\"/graphics/FSS_800.png\">98 ko</a>"
+msgstr "800x600:&nbsp; PNG <a href=\"/graphics/FSS_800.png\">98 ko</a>"
 
 #. type: Content of: <table><tr><td><dl><dd>
 msgid "1024x768:&nbsp; PNG <a href=\"/graphics/FSS_1024.png\">141kB</a>"
-msgstr "1024x768:&nbsp; PNG <a href=\"/graphics/FSS_1024.png\">141 ko</a>"
+msgstr "1024x768:&nbsp; PNG <a href=\"/graphics/FSS_1024.png\">141 ko</a>"
 
 #. type: Content of: <table><tr><td><dl><dd>
 msgid "1280x960:&nbsp; PNG <a href=\"/graphics/FSS_1280.png\">160kB</a>"
-msgstr "1280x960:&nbsp; PNG <a href=\"/graphics/FSS_1280.png\">160 ko</a>"
+msgstr "1280x960:&nbsp; PNG <a href=\"/graphics/FSS_1280.png\">160 ko</a>"
 
 #. type: Content of: <table><tr><td><dl><dt>
 msgid "Black font"
@@ -243,15 +277,15 @@ msgstr "Lettres noires"
 
 #. type: Content of: <table><tr><td><dl><dd>
 msgid "800x600:&nbsp; PNG <a href=\"/graphics/FSS-2_800.png\">99kB</a>"
-msgstr "800x600:&nbsp; PNG <a href=\"/graphics/FSS-2_800.png\">99 ko</a>"
+msgstr "800x600:&nbsp; PNG <a href=\"/graphics/FSS-2_800.png\">99 ko</a>"
 
 #. type: Content of: <table><tr><td><dl><dd>
 msgid "1024x768:&nbsp; PNG <a href=\"/graphics/FSS-2_1024.png\">143kB</a>"
-msgstr "1024x768:&nbsp; PNG <a href=\"/graphics/FSS-2_1024.png\">143 ko</a>"
+msgstr "1024x768:&nbsp; PNG <a href=\"/graphics/FSS-2_1024.png\">143 ko</a>"
 
 #. type: Content of: <table><tr><td><dl><dd>
 msgid "1280x960:&nbsp; PNG <a href=\"/graphics/FSS-2_1280.png\">161kB</a>"
-msgstr "1280x960:&nbsp; PNG <a href=\"/graphics/FSS-2_1280.png\">161 ko</a>"
+msgstr "1280x960:&nbsp; PNG <a href=\"/graphics/FSS-2_1280.png\">161 ko</a>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/time_for_freedom.png\">"
@@ -280,7 +314,7 @@ msgstr ""
 msgid ""
 "1600x1200:&nbsp; PNG <a href=\"/graphics/time_for_freedom.png\">2.6MB</a>"
 msgstr ""
-"1600x1200:&nbsp; PNG <a href=\"/graphics/time_for_freedom.png\">2,6 Mo</a>"
+"1600x1200:&nbsp; PNG <a href=\"/graphics/time_for_freedom.png\">2,6 Mo</a>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/grab-your-freedom.jpg\">"
@@ -288,11 +322,11 @@ msgstr "<a href=\"/graphics/grab-your-freedom.jpg\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "&nbsp;[Grab Your Freedom Today wallpaper]&nbsp;"
-msgstr " [Fond d'écran 'Prends ta liberté en mains dès aujourd'hui !'] "
+msgstr " [Fond d'écran 'Prends ta liberté en mains dès aujourd'hui !'] "
 
 #. type: Content of: <table><tr><td><p>
 msgid "<em>GNU/Linux &mdash; Grab Your Freedom Today!</em>"
-msgstr "<em>GNU/Linux – Prends ta liberté en mains dès aujourd'hui !</em>"
+msgstr "<em>GNU/Linux – Prends ta liberté en mains dès aujourd'hui !</em>"
 
 #. type: Content of: <table><tr><td><p><small>
 msgid "<small>Copyright &copy; 2008 Shree Kant Bohra"
@@ -311,7 +345,7 @@ msgstr ""
 msgid ""
 "900x900:&nbsp; JPEG <a href=\"/graphics/grab-your-freedom.jpg\">74kB</a>"
 msgstr ""
-"900x900:&nbsp; JPEG <a href=\"/graphics/grab-your-freedom.jpg\">74 ko</a>"
+"900x900:&nbsp; JPEG <a href=\"/graphics/grab-your-freedom.jpg\">74 ko</a>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnu-born-free-run-free-wallpaper.png\">"
@@ -347,7 +381,7 @@ msgid ""
 "\">158kB</a>"
 msgstr ""
 "1280x800:&nbsp; PNG <a href=\"/graphics/gnu-born-free-run-free-wallpaper.png"
-"\">158 ko</a>"
+"\">158 ko</a>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/winkler-gnu-blue.png\">"
@@ -370,7 +404,7 @@ msgstr "<small>Copyright &copy; 2007 Kyle Winkler"
 #. type: Content of: <table><tr><td><p>
 msgid "1280x800:&nbsp; PNG <a href=\"/graphics/winkler-gnu-blue.png\">93kB</a>"
 msgstr ""
-"1280x800:&nbsp; PNG <a href=\"/graphics/winkler-gnu-blue.png\">93 ko</a>"
+"1280x800:&nbsp; PNG <a href=\"/graphics/winkler-gnu-blue.png\">93 ko</a>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/einstein-gnu-think-freely.png\">"
@@ -389,8 +423,8 @@ msgid ""
 "<small>(a travesty on the &ldquo;<a href=\"http://en.wikipedia.org/wiki/"
 "Think_Different\">Think different</a>&rdquo; advertising slogan)</small>"
 msgstr ""
-"<small>(parodie du slogan publicitaire « <a href=\"http://en.wikipedia.org/"
-"wiki/Think_Different\">Think different</a> »)</small>"
+"<small>(parodie du slogan publicitaire « <a href=\"http://en.wikipedia.org/"
+"wiki/Think_Different\">Think different</a> »)</small>"
 
 #. type: Content of: <table><tr><td><p><small>
 msgid "<small>Copyright &copy; 2007 Joakim Olsson"
@@ -423,7 +457,7 @@ msgid ""
 "\">450kB</a>"
 msgstr ""
 "1280x1024:&nbsp; PNG <a href=\"/graphics/einstein-gnu-think-freely.png"
-"\">450 ko</a>"
+"\">450 ko</a>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnu-alt-wp1.png\">"
@@ -439,7 +473,7 @@ msgstr "<em>Propulsé par GNU</em>"
 
 #. type: Content of: <table><tr><td><p><small>
 msgid "<small>Copyright &copy; 2006 “Requiem”"
-msgstr "<small>Copyright &copy; 2006 « Requiem »"
+msgstr "<small>Copyright &copy; 2006 « Requiem »"
 
 #. type: Content of: <table><tr><td><p><small>
 msgid ""
@@ -460,7 +494,7 @@ msgstr ""
 
 #. type: Content of: <table><tr><td><p>
 msgid "1024x768:&nbsp; PNG <a href=\"/graphics/gnu-alt-wp1.png\">844kB</a>"
-msgstr "1024x768:&nbsp; PNG <a href=\"/graphics/gnu-alt-wp1.png\">844 ko</a>"
+msgstr "1024x768:&nbsp; PNG <a href=\"/graphics/gnu-alt-wp1.png\">844 ko</a>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnu-alt-wp2.png\">"
@@ -476,7 +510,7 @@ msgstr "<em>La route de la GPL</em>"
 
 #. type: Content of: <table><tr><td><p>
 msgid "1024x768:&nbsp; PNG <a href=\"/graphics/gnu-alt-wp2.png\">487kB</a>"
-msgstr "1024x768:&nbsp; PNG <a href=\"/graphics/gnu-alt-wp2.png\">487 ko</a>"
+msgstr "1024x768:&nbsp; PNG <a href=\"/graphics/gnu-alt-wp2.png\">487 ko</a>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnu-linux-black-wallpaper.png\">"
@@ -510,7 +544,7 @@ msgid ""
 "\">402kB</a>"
 msgstr ""
 "1600x1200:&nbsp; PNG <a href=\"/graphics/gnu-linux-black-wallpaper.png"
-"\">402 ko</a>"
+"\">402 ko</a>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnu-linux-white-wallpaper.png\">"
@@ -532,7 +566,7 @@ msgid ""
 "\">553kB</a>"
 msgstr ""
 "1600x1200:&nbsp; PNG <a href=\"/graphics/gnu-linux-white-wallpaper.png"
-"\">553 koB</a>"
+"\">553 koB</a>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnu-linux-color-wallpaper.png\">"
@@ -554,7 +588,7 @@ msgid ""
 "\">667kB</a>"
 msgstr ""
 "1600x1200:&nbsp; PNG <a href=\"/graphics/gnu-linux-color-wallpaper.png"
-"\">667 ko</a>"
+"\">667 ko</a>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/I_run_GNU_by_GNUlancer.png\">"
@@ -586,8 +620,8 @@ msgid ""
 "\">852kB</a>"
 msgstr ""
 "1280x1024:&nbsp; PNG <a href=\"/graphics/I_run_GNU_by_GNUlancer.png"
-"\">292 ko</a>, XCF&nbsp;<a href=\"/graphics/"
-"__I_run_GNU___source_file_by_GNUlancer.xcf\">852 ko</a>"
+"\">292 ko</a>, XCF&nbsp;<a href=\"/graphics/"
+"__I_run_GNU___source_file_by_GNUlancer.xcf\">852 ko</a>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/gnublue.png\">"
@@ -614,7 +648,7 @@ msgstr ""
 
 #. type: Content of: <table><tr><td><p>
 msgid "1024x768:&nbsp; PNG <a href=\"/graphics/gnublue.png\">300kB</a>"
-msgstr "1024x768:&nbsp; PNG <a href=\"/graphics/gnublue.png\">300 ko</a>"
+msgstr "1024x768:&nbsp; PNG <a href=\"/graphics/gnublue.png\">300 ko</a>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/babies/GnuTux.jpg\">"
@@ -639,7 +673,7 @@ msgstr "<small>de Nicolas Rougier"
 #. type: Content of: <table><tr><td><p>
 msgid "1280x1024:&nbsp; JPEG <a href=\"/graphics/babies/GnuTux.jpg\">93kB</a>"
 msgstr ""
-"1280x1024:&nbsp; JPEG <a href=\"/graphics/babies/GnuTux.jpg\">93 ko</a>"
+"1280x1024:&nbsp; JPEG <a href=\"/graphics/babies/GnuTux.jpg\">93 ko</a>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/babies/GnuTuxBlack.jpg\">"
@@ -657,7 +691,7 @@ msgstr ""
 msgid ""
 "1280x1024:&nbsp; JPEG <a href=\"/graphics/babies/GnuTuxBlack.jpg\">94kB</a>"
 msgstr ""
-"1280x1024:&nbsp; JPEG <a href=\"/graphics/babies/GnuTuxBlack.jpg\">94 ko</a>"
+"1280x1024:&nbsp; JPEG <a href=\"/graphics/babies/GnuTuxBlack.jpg\">94 ko</a>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/meditate_fel.jpg\">"
@@ -680,8 +714,8 @@ msgid ""
 "(based on the Nevrax Team's <a href=\"/graphics/meditate.html#meditate-fs\"> "
 "Flute-playing Gnu poster</a>)"
 msgstr ""
-"(basé sur le <a href=\"/graphics/meditate.html#meditate-fs\">poster « Gnou "
-"jouant de la flute »</a> de Nevrax)"
+"(basé sur le <a href=\"/graphics/meditate.html#meditate-fs\">poster « Gnou "
+"jouant de la flute »</a> de Nevrax)"
 
 #. type: Content of: <table><tr><td><p>
 msgid ""
@@ -694,7 +728,7 @@ msgstr ""
 
 #. type: Content of: <table><tr><td><p>
 msgid "3000x2248:&nbsp;"
-msgstr "3000x2248 :&nbsp;"
+msgstr "3000x2248 :&nbsp;"
 
 #. type: Content of: <table><tr><td><p>
 msgid ""
@@ -702,9 +736,9 @@ msgid ""
 "href=\"/graphics/meditate_fel.png\">1.4MB</a>,&nbsp; XCF&nbsp;(gzipped)&nbsp;"
 "<a href=\"/graphics/meditate_fel_xcf.tar.gz\">2.1MB</a>"
 msgstr ""
-"JPEG <a href=\"/graphics/meditate_fel.jpg\">491 ko</a>,&nbsp; PNG&nbsp;<a "
-"href=\"/graphics/meditate_fel.png\">1,4 Mo</a>,&nbsp; XCF&nbsp;(gzipped)"
-"&nbsp;<a href=\"/graphics/meditate_fel_xcf.tar.gz\">2,1 Mo</a>"
+"JPEG <a href=\"/graphics/meditate_fel.jpg\">491 ko</a>,&nbsp; PNG&nbsp;<a "
+"href=\"/graphics/meditate_fel.png\">1,4 Mo</a>,&nbsp; XCF&nbsp;(gzipped)"
+"&nbsp;<a href=\"/graphics/meditate_fel_xcf.tar.gz\">2,1 Mo</a>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -751,11 +785,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"<em>Page text:</em>&nbsp; Copyright &copy; 2019-2021 Free Software "
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019-2021, 2023 Free Software "
 "Foundation, Inc."
 msgstr ""
-"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019-2021 Free Software "
-"Foundation, Inc."
+"<em>Texte de la page :</em>&nbsp; Copyright &copy; 2019-2021, 2023 Free "
+"Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -771,7 +805,7 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Cédric Corazza.<br />Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Cédric Corazza.<br />Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>"
 
 #.  timestamp start 
