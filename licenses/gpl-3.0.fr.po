@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gpl-3.0.html\n"
-"POT-Creation-Date: 2022-01-10 19:26+0000\n"
-"PO-Revision-Date: 2022-01-10 21:58+0100\n"
+"POT-Creation-Date: 2023-06-11 11:26+0000\n"
+"PO-Revision-Date: 2023-06-11 16:58+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -27,7 +27,11 @@ msgstr "Licence publique générale GNU"
 
 #. type: Attribute 'alt' of: <div><img>
 msgid "[GPLv3 Logo]"
-msgstr " [Logo de la GPLv3] "
+msgstr " [Logo de la GPLv3] "
+
+#. type: Content of: <div><p>
+msgid "<b><a href=\"#license-text\">Skip to license text</a></b>"
+msgstr "<b><a href=\"#license-text\">Texte de la GPLv3</a></b>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"/licenses/quick-guide-gplv3.html\">A Quick Guide to GPLv3</a>"
