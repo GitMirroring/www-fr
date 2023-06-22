@@ -1,0 +1,245 @@
+# French translation of https://www.gnu.org/philosophy/tivoization.html
+# Copyright (C) 2023 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Thérèse Godefroy <godef.th AT free.fr>, 2023.
+# François Ochsenbein, 2023.
+# Laurent Lyaudet, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: tivoization.html\n"
+"POT-Creation-Date: 2023-06-22 13:25+0000\n"
+"PO-Revision-Date: 2023-06-22 18:01+0200\n"
+"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"Language-Team: French <trad-gnu@april.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Content of: <title>
+msgid "Tivoization - GNU Project - Free Software Foundation"
+msgstr "Tivoïsation - Projet GNU - Free Software Foundation"
+
+#. type: Content of: <div><h2>
+msgid "Tivoization"
+msgstr "Tivoïsation"
+
+#. type: Content of: <div><p>
+msgid ""
+"There is a paradoxical class of firmware, for which the source code is <a "
+"href=\"/philosophy/free-sw.html\">free software</a>, because it carries a <a "
+"href=\"/licenses/license-list.html\">free software license</a>, but specific "
+"hardware, for which these programs are designed, renders any binaries "
+"produced from that source code nonfree in practice. That is because that "
+"hardware requires the binary to be signed by the hardware manufacturer, "
+"either in order to run at all, or in order to make use of crucial hardware "
+"facilities, effectively forbidding users to run modified versions. We call "
+"these programs <em>tivoized blobs</em>."
+msgstr ""
+"Il existe une classe paradoxale de microcode <i>[firmware]</i> pour laquelle "
+"le code source est <a href=\"/philosophy/free-sw.html\">libre</a>, car "
+"porteur d'une <a href=\"/licenses/license-list.html\">licence de logiciel "
+"libre</a>, mais dont les binaires sont rendus non libres en pratique par le "
+"matériel particulier pour lequel ces programmes sont conçus. La raison de ce "
+"paradoxe est que le matériel exige des binaires signés par son fabricant, "
+"soit pour démarrer, soit pour activer des fonctionnalités essentielles, ce "
+"qui interdit de fait aux utilisateurs l'exécution de versions modifiées du "
+"microcode. Nous appelons ces programmes des <em>blobs tivoïsés</em>."
+
+#. type: Content of: <div><p>
+msgid ""
+"While it is still physically possible to replace the released binary on the "
+"hardware that enforces signatures, it is useless to do so, since the "
+"hardware would refuse to run the modified version, or to do some special job "
+"such as decoding the DRM. Therefore, the freedom #1 (one of <a href=\"/"
+"philosophy/free-sw.html\">the four essential freedoms</a>) is missing, and "
+"that binary is not free, even though the source code may carry a free "
+"software license. Indirectly, tivoization affects the other freedoms (to use "
+"and to distribute modified versions), because any modification of the "
+"firmware by yourself will result in broken hardware. The binary may qualify "
+"as <a href=\"/philosophy/free-open-overlap.html\">open source</a>, because "
+"the term &ldquo;open source&rdquo; <a href=\"/philosophy/open-source-misses-"
+"the-point.html\">is defined in terms of how the source is treated</a>."
+msgstr ""
+"Bien qu'il soit toujours physiquement possible de remplacer les binaires "
+"d'origine dans du matériel qui met en œuvre la vérification des signatures, "
+"cela ne sert à rien, car l'appareil refuse d'exécuter la version modifiée ou "
+"d'effectuer une tâche particulière comme de décoder un DRM. Par conséquent, "
+"la liberté n° 1 (l'une des <a href=\"/philosophy/free-sw.html\">quatre "
+"libertés fondamentales</a>) fait défaut, et donc ces binaires ne sont pas "
+"libres même si leur code source est publié sous licence libre. La "
+"tivoïsation affecte indirectement les autres libertés (celles d'utiliser et "
+"de distribuer des versions modifiées), car toute personnalisation du "
+"microcode rendra le matériel inutilisable. Ces binaires peuvent cependant "
+"être qualifiés d'<a href=\"/philosophy/free-open-overlap.html\">open source</"
+"a>, parce que le terme « open source » <a href=\"/philosophy/open-source-"
+"misses-the-point.html\">est défini par la manière dont le code source est "
+"traité</a>."
+
+#. type: Content of: <div><p>
+msgid ""
+"The publisher or the manufacturer may advertize this forced signature check "
+"as a &ldquo;feature.&rdquo; Here is their argument: your computer won't boot "
+"(or will lack important features) if the hardware detects corrupted "
+"firmware, so tivoization protects you and your data. But we should wonder: "
+"whom does it protect, and from whom? Who is the owner of this lock? Who "
+"decides what is good or bad software for our own computing? If it is not us, "
+"then <a href=\"/philosophy/loyal-computers.html\">this computer is not "
+"loyal</a>."
+msgstr ""
+"L'éditeur du microcode ou le fabricant du matériel peuvent mettre en avant "
+"cette vérification forcée de la signature comme une « fonctionnalité ». "
+"Voici leur argument : votre ordinateur ne démarrera pas (ou sera dépourvu de "
+"certaines fonctionnalités importantes) si le matériel détecte un microcode "
+"corrompu, donc la tivoïsation protège vos données. Mais nous devrions nous "
+"demander : qui protège-t-elle, et de qui ? Qui est propriétaire de ce "
+"verrou ? Qui décide que tel logiciel est bon ou mauvais pour mon activité "
+"informatique ? Si ce n'est pas moi, alors <a href=\"/philosophy/loyal-"
+"computers.html\">cet ordinateur n'est pas loyal</a>."
+
+#. type: Content of: <div><p>
+msgid ""
+"The tivoization is a not a security feature, it is a trap for our freedoms. "
+"It prevents users from upgrading their own hardware or firmware, and it "
+"suggests a false sense of security by giving the control of their computer "
+"only to some &ldquo;trusted&rdquo; firmware provider, compelling users to "
+"take the provider's word for their safety."
+msgstr ""
+"La tivoïsation n'est pas un dispositif de sécurité, c'est un piège pour nos "
+"libertés. Elle empêche les utilisateurs de mettre à niveau leur matériel ou "
+"leur microcode et elle leur inspire un faux sentiment de sécurité en donnant "
+"le contrôle exclusif de leur ordinateur à un fournisseur « fiable » de "
+"microcode, ce qui les force à croire le fournisseur sur parole."
+
+#. type: Content of: <div><p>
+msgid ""
+"The firmware that drives the hardware at the lowest level also has the most "
+"control over it. It often contains <a href=\"https://libreboot.at/faq."
+"html#intelme\">back doors</a> and <a href=\"/proprietary/proprietary-"
+"insecurity.html#uefi-rootkit\">vulnerabilities</a> which only the &ldquo;"
+"trusted&rdquo; provider (trusted by the hardware)  is allowed to fix."
+msgstr ""
+"Le microcode de plus bas niveau est celui qui a le contrôle le plus poussé "
+"sur le matériel. Il contient souvent des <a href=\"https://libreboot.at/faq."
+"html#intelme\">portes dérobées</a> et des <a href=\"/proprietary/proprietary-"
+"insecurity.html#uefi-rootkit\">vulnérabilités</a> que seul le fournisseur "
+"« de confiance » (lisez « auquel le matériel fait confiance ») est autorisé "
+"à corriger."
+
+#. type: Content of: <div><p>
+msgid ""
+"Preventing unsigned or self-signed versions of the firmware to be run is a "
+"way for the manufacturer and publisher to keep the control over your "
+"computing, even more than if the source code itself were proprietary! It "
+"only serves the purpose of the publisher or manufacturer, and has no benefit "
+"to the software user or the hardware owner. On the other hand, supposing "
+"some models of hardware will run modified versions, there is no advantage "
+"for you in using the manufacturer's signed version instead of a self-signed "
+"variant."
+msgstr ""
+"Empêcher l'exécution de versions non signées ou autosignées du microcode est "
+"une manière pour le fabricant et l'éditeur d'exercer encore plus de contrôle "
+"sur votre informatique que si le code source lui-même était privateur ! Cela "
+"ne fait que servir les objectifs de l'éditeur ou du fabricant et ne présente "
+"aucun avantage pour l'utilisateur du logiciel ou le propriétaire du "
+"matériel. Par ailleurs, à supposer que certains modèles fonctionnent avec "
+"des versions modifiées, il n'y a aucun avantage à utiliser la version signée "
+"par le fabricant plutôt qu'une version autosignée."
+
+#. type: Content of: <div><p>
+msgid ""
+"Among the most important additions in the GNU General Public License version "
+"3, in 2007, was to prohibit taking a GPLv3-covered program and <a href=\"/"
+"licenses/quick-guide-gplv3.html\">distributing it under tivoization</a>, "
+"because it denies users the freedom, in practice, to modify the program and "
+"then use the modified version."
+msgstr ""
+"L'une des clauses les plus importantes ajoutées en 2007 à la licence "
+"publique générale GNU, dans sa version 3, est l'interdiction de prendre un "
+"programme sous GPLv3 et de le <a href=\"/licenses/quick-guide-gplv3.html"
+"\">distribuer sous tivoïsation</a>, parce qu'en pratique cela retire à "
+"l'utilisateur la liberté de modifier le programme et d'utiliser ensuite la "
+"version modifiée."
+
+#. type: Content of: <div><p>
+msgid ""
+"As stated by the <a href=\"/distros/free-system-distribution-guidelines.html"
+"\">GNU Free System Distribution Guidelines</a>, operating systems which "
+"provide such firmware are not free, whether the upstream source code is free "
+"or not."
+msgstr ""
+"D'après les <a href=\"/distros/free-system-distribution-guidelines.html"
+"\">recommandations de GNU pour les distributions systèmes libres</a>, les "
+"systèmes d'exploitation qui fournissent de tels microcodes ne sont pas "
+"libres, que le code source dont ils dérivent soit libre ou non."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Veuillez envoyer les requêtes concernant la FSF et GNU à &lt;<a href="
+"\"mailto:gnu@gnu.org\">gnu@gnu.org</a>&gt;. Il existe aussi <a href=\"/"
+"contact/\">d'autres moyens de contacter</a> la FSF. Les liens orphelins et "
+"autres corrections ou suggestions peuvent être signalés à &lt;<a href="
+"\"mailto:webmasters@gnu.org\">webmasters@gnu.org</a>&gt;."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
+"\"mailto:trad-gnu@april.org\">trad-gnu@april.org</a>&gt;, et sur les "
+"traductions en général à &lt;<a href=\"mailto:web-translators@gnu.org\">web-"
+"translators@gnu.org</a>&gt;. Si vous souhaitez y contribuer, vous trouverez "
+"dans le <a href=\"/server/standards/README.translations.html\">guide de "
+"traduction</a> les infos nécessaires."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2023 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2023 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Cette page peut être utilisée suivant les conditions de la licence <a rel="
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduction et révision : <a href=\"mailto:trad-gnu&#64;april.org\">trad-"
+"gnu&#64;april.org</a>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Dernière mise à jour :"
