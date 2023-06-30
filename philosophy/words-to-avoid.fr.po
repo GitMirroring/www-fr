@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
-"POT-Creation-Date: 2023-02-12 20:55+0000\n"
-"PO-Revision-Date: 2023-02-13 11:16+0100\n"
+"POT-Creation-Date: 2023-06-29 14:25+0000\n"
+"PO-Revision-Date: 2023-06-30 13:30+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -275,6 +275,11 @@ msgstr ""
 
 #.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
+msgid "&ldquo;<a href=\"#Players\">Players (said of businesses)</a>&rdquo; |"
+msgstr "<!--Players-->"
+
+#.  GNUN-SORT-NEXT-ITEM 
+#. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#PowerPoint\">PowerPoint</a>&rdquo; |"
 msgstr "« <a href=\"#PowerPoint\">PowerPoint</a> » |"
 
@@ -530,13 +535,13 @@ msgstr "« Actifs » <i>[assets]</i>"
 msgid ""
 "To refer to published works as &ldquo;assets,&rdquo; or &ldquo;digital "
 "assets,&rdquo; is even worse than calling them <a href=\"#Content\">&ldquo;"
-"content&rdquo;</a>&mdash;it presumes they have no value to society except "
+"content&rdquo;</a>&mdash;it dismisses their value to society aside from "
 "commercial value."
 msgstr ""
 "Parler d'« actifs » ou d'« actifs numériques » lorsqu'il s'agit d'œuvres "
 "publiées est encore pire que de le les appeler « <a href=\"#Content"
-"\">contenu</a> ». Cela suppose que, pour la société, elles n'ont qu'une "
-"valeur comptable."
+"\">contenu</a> ». Cela réduit leur valeur pour la société à une valeur "
+"comptable."
 
 #. type: Content of: <div><h3>
 msgid "&ldquo;BSD-style&rdquo;"
@@ -2146,6 +2151,30 @@ msgstr ""
 "\"https://www.gimp.org/\">GIMP</a>."
 
 #. type: Content of: <div><h3>
+msgid "&ldquo;Players&rdquo; (said of businesses)"
+msgstr "<!--Players-->"
+
+#. type: Content of: <div><p>
+msgid ""
+"To describe businesses as &ldquo;players&rdquo; presumes that they are "
+"motivated purely and simply by &ldquo;winning&rdquo; what they treat as a "
+"poker-like game&mdash;in effect, subordinating all else to profit.  Often "
+"businesses (and their executives) do act that way, but not always, and we "
+"often pressure them to respect other values as well."
+msgstr " "
+
+#. type: Content of: <div><p>
+msgid ""
+"The moral cynicism of &ldquo;players&rdquo; resonates with a general "
+"condemnation of business, which to some extent business in general deserves; "
+"at the same time, it tends to dissuade the attempt to judge any business's "
+"acts or practices in moral terms.  Even to raise the question of whether a "
+"certain business treats people unjustly is dissuaded by the &ldquo;"
+"players&rdquo; metaphor's murmuring, in the background, &ldquo;Why bother "
+"asking?&rdquo; I suggest avoiding that metaphor."
+msgstr " "
+
+#. type: Content of: <div><h3>
 msgid "&ldquo;Piracy&rdquo;"
 msgstr "« Piratage » et « piraterie »"
 
@@ -2785,12 +2814,11 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
-# No significant change in 2022.
 #. type: Content of: <div><p>
 msgid ""
 "Copyright &copy; 1996-2018, 2020, 2021, 2022, 2023 Free Software Foundation, "
 "Inc."
-msgstr "Copyright &copy; 1996-2018, 2020-2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1996-2018, 2020-2023 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
