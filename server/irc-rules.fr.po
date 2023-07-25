@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: irc-rules.html\n"
-"POT-Creation-Date: 2023-01-30 17:56+0000\n"
-"PO-Revision-Date: 2023-01-19 20:59+0100\n"
+"POT-Creation-Date: 2023-07-25 03:25+0000\n"
+"PO-Revision-Date: 2023-07-25 09:33+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -107,6 +107,16 @@ msgstr ""
 
 #. type: Content of: <div><ul><li>
 msgid ""
+"<a href=\"ircs://irc.libera.chat:6697/gnu-ca\">#gnu-ca</a> &mdash; IRC home "
+"of <a href=\"https://www.gnu.ca\">GNU Canada</a>, the Canadian chapter of "
+"the GNU Project"
+msgstr ""
+"<a href=\"ircs://irc.libera.chat:6697/gnu-ca\">#gnu-ca</a> – point de "
+"rencontre de <a href=\"https://www.gnu.ca\">GNU Canada</a>, la branche "
+"canadienne du projet GNU"
+
+#. type: Content of: <div><ul><li>
+msgid ""
 "<a href=\"ircs://irc.libera.chat:6697/fsf\">#fsf</a> &mdash; Discussion "
 "about the <a href=\"https://www.fsf.org/\">FSF (Free Software Foundation) "
 "and fsf.org</a>"
@@ -171,10 +181,11 @@ msgstr ""
 #. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"ircs://irc.libera.chat:6697/erc\">#erc</a> &mdash; IRC channel "
-"about ERC, an IRC client built into GNU Emacs"
+"about <a href=\"/software/emacs/erc.html\">ERC</a>, an IRC client built into "
+"GNU Emacs"
 msgstr ""
-"<a href=\"ircs://irc.libera.chat:6697/erc\">#erc</a> – un canal dédié à ERC, "
-"un client IRC pour Emacs"
+"<a href=\"ircs://irc.libera.chat:6697/erc\">#erc</a> – un canal dédié à <a "
+"href=\"/software/emacs/erc.html\">ERC</a>, un client IRC intégré à Emacs"
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -187,10 +198,10 @@ msgstr ""
 #. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"ircs://irc.libera.chat:6697/emacsconf\">#emacsconf</a> &mdash; "
-"Discussion about the Emacs Conference"
+"Discussion about the <a href=\"https://emacsconf.org\">Emacs Conference</a>"
 msgstr ""
 "<a href=\"ircs://irc.libera.chat:6697/emacsconf\">#emacsconf</a> – "
-"discussion sur le congrès d'Emacs"
+"discussion sur le <a href=\"https://emacsconf.org\">congrès d'Emacs</a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
