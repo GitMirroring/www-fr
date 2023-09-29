@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home-pkgblurbs.html\n"
-"POT-Creation-Date: 2023-06-10 11:58+0000\n"
-"PO-Revision-Date: 2023-06-10 15:58+0200\n"
+"POT-Creation-Date: 2023-09-29 17:56+0000\n"
+"PO-Revision-Date: 2023-09-29 22:47+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -135,12 +135,10 @@ msgstr ""
 "pouvant être utilisés dans des scripts.  <small>(<a href=\"/manual/manual."
 "html#adns\">doc</a>)</small>"
 
-#.  TRANSLATORS: stale 
 #. type: Content of: <h4>
 msgid "<a href=\"/software/alive/\">Alive</a>"
 msgstr "<a href=\"/software/alive/\">Alive</a>"
 
-#.  TRANSLATORS: stale 
 #. type: Content of: <p>
 msgid ""
 "GNU Alive sends periodic pings to a server, generally to keep a connection "
@@ -1377,6 +1375,24 @@ msgstr ""
 "html#dominion\">doc</a>)</small>"
 
 #. type: Attribute 'alt' of: <h4><img>
+msgid "logo for dr-geo"
+msgstr "logo de dr-geo"
+
+#. type: Content of: <h4>
+msgid "<a href=\"/software/dr-geo/\">Dr. Geo</a>"
+msgstr "<a href=\"/software/dr-geo/\">Dr. Geo</a>"
+
+#. type: Content of: <p>
+msgid ""
+"GNU Dr. Geo is a program for designing and manipulating interactive "
+"geometric sketches.  <small>(<a href=\"/manual/manual.html#dr-geo\">doc</a>)"
+"</small>"
+msgstr ""
+"GNU Dr. Geo est un programme destiné à concevoir et manipuler des diagrammes "
+"géométriques interactifs.  <small>(<a href=\"/manual/manual.html#dr-geo"
+"\">doc</a></small>)"
+
+#. type: Attribute 'alt' of: <h4><img>
 msgid "logo for easejs"
 msgstr "logo d'easejs"
 
@@ -2474,6 +2490,10 @@ msgstr ""
 "de passe pour ce site.  <small>(<a href=\"/manual/manual.html#gnu-pw-mgr"
 "\">doc</a>)</small>"
 
+#. type: Attribute 'alt' of: <h4><img>
+msgid "logo for gnuastro"
+msgstr "logo de gnuastro"
+
 #. type: Content of: <h4>
 msgid "<a href=\"/software/gnuastro/\">Gnuastro</a>"
 msgstr "<a href=\"/software/gnuastro/\">Gnuastro</a>"
@@ -2575,6 +2595,20 @@ msgstr ""
 "défaut) ou modifier les couleurs. Vous pourrez même remplacer les couleurs "
 "des faces par des photos. Ce jeu est extensible par script avec Guile.  "
 "<small>(<a href=\"/manual/manual.html#gnubik\">doc</a>)</small>"
+
+#. type: Content of: <h4>
+msgid "<a href=\"/software/gnuboot/\">GNU Boot</a>"
+msgstr "<a href=\"/software/gnuboot/\">GNU Boot</a>"
+
+#. type: Content of: <p>
+msgid ""
+"GNU Boot is a free boot firmware distribution for initializing your hardware "
+"and booting your operating system.  <small>(<a href=\"/manual/manual."
+"html#gnuboot\">doc</a>)</small>"
+msgstr ""
+"GNU Boot est une distribution libre de microprogrammes de démarrage qui "
+"initialisent votre matériel et lancent votre système d'exploitation.  <small>"
+"(<a href=\"/manual/manual.html#gnuboot\">doc</a>)</small>"
 
 #.  TRANSLATORS: stale 
 #. type: Content of: <h4>
@@ -3722,14 +3756,16 @@ msgstr "<a href=\"/software/guile-sdl/\">Guile-SDL</a>"
 msgid ""
 "Guile-SDL is a set of bindings to the Simple DirectMedia Layer (SDL). With "
 "them, Guile programmers can have easy access to graphics, sound and device "
-"input (keyboards, joysticks, mice, etc.).  <small>(<a href=\"/manual/manual."
-"html#guile-sdl\">doc</a>)</small>"
+"input (keyboards, joysticks, mice, etc.).  This package is looking for a "
+"maintainer.  <small>(<a href=\"/manual/manual.html#guile-sdl\">doc</a>)</"
+"small>"
 msgstr ""
 "Guile-SDL est un ensemble de modules de liaison pour la bibliothèque <abbr "
 "title=\"Simple DirectMedia Layer\">SDL</abbr> qui donnent aux programmeurs "
 "un accès facile aux données provenant de périphériques graphiques ou audio, "
-"ou saisies par l'utilisateur (claviers, joysticks, souris, etc.)  <small>(<a "
-"href=\"/manual/manual.html#guile-sdl\">doc</a>)</small>"
+"ou saisies par l'utilisateur (claviers, joysticks, souris, etc.) Ce paquet "
+"est à la recherche d'un mainteneur.  <small>(<a href=\"/manual/manual."
+"html#guile-sdl\">doc</a>)</small>"
 
 #. type: Attribute 'alt' of: <h4><img>
 msgid "logo for guix"
@@ -6624,14 +6660,15 @@ msgstr "<a href=\"/software/superopt/\">Superopt</a>"
 msgid ""
 "GNU Superopt is a function sequence generator for superoptimization.  It "
 "uses an exhaustive generate-and-test approach to find the shortest "
-"instruction sequence for a given function.  <small>(<a href=\"/manual/manual."
-"html#superopt\">doc</a>)</small>"
+"instruction sequence for a given function.  This package is looking for a "
+"maintainer.  <small>(<a href=\"/manual/manual.html#superopt\">doc</a>)</"
+"small>"
 msgstr ""
 "GNU Superopt est un générateur de séquences d'instructions pour la "
 "superoptimisation des fonctions. Il utilise une approche exhaustive qui "
 "génère des séquences d'instructions pour une fonction donnée et les teste "
-"pour trouver la plus courte.  <small>(<a href=\"/manual/manual.html#superopt"
-"\">doc</a>)</small>"
+"pour trouver la plus courte. Ce paquet est à la recherche d'un mainteneur.  "
+"<small>(<a href=\"/manual/manual.html#superopt\">doc</a>)</small>"
 
 #. type: Content of: <h4>
 msgid "<a href=\"/software/swbis/\">Swbis</a>"
