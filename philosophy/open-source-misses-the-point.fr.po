@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: open-source-misses-the-point.html\n"
-"POT-Creation-Date: 2022-02-03 02:27+0000\n"
-"PO-Revision-Date: 2022-05-04 16:13+0200\n"
+"POT-Creation-Date: 2023-10-08 12:25+0000\n"
+"PO-Revision-Date: 2023-10-08 15:18+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -982,10 +982,21 @@ msgstr ""
 "soutenez notre cause."
 
 #. type: Content of: <div><h3>
-msgid "Note"
-msgstr "Note"
+msgid "Notes"
+msgstr "Notes"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><ul><li>
+msgid ""
+"Joe Barr wrote an article called <a href=\"https://web.archive.org/"
+"web/20010618050431/itworld.com/AppDev/350/LWD010523vcontrol4/pfindex.html\"> "
+"Live and let license</a> that gives his perspective on this issue."
+msgstr ""
+"Joe Barr a écrit un article appelé <i><a href=\"https://web.archive.org/"
+"web/20010618050431/itworld.com/AppDev/350/LWD010523vcontrol4/pfindex.html"
+"\">Live and Let Live</a></i> (Vivre et laisser mettre sous licence) qui "
+"donne son point de vue sur cette question."
+
+#. type: Content of: <div><ul><li>
 msgid ""
 "Lakhani and Wolf's <a href=\"https://ocw.mit.edu/courses/sloan-school-of-"
 "management/15-352-managing-innovation-emerging-trends-spring-2005/readings/"
@@ -1066,8 +1077,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2007, 2010, 2012-2016, 2019-2022 Richard Stallman"
-msgstr "Copyright &copy; 2007, 2010, 2012-2016, 2019-2022 Richard Stallman"
+msgid "Copyright &copy; 2007, 2010, 2012-2016, 2019-2023 Richard Stallman"
+msgstr "Copyright &copy; 2007, 2010, 2012-2016, 2019-2023 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1091,3 +1102,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+#~ msgid "Copyright &copy; 2007, 2010, 2012-2016, 2019-2022 Richard Stallman"
+#~ msgstr "Copyright &copy; 2007, 2010, 2012-2016, 2019-2022 Richard Stallman"
