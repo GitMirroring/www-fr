@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gpl-2.0-faq.html\n"
-"POT-Creation-Date: 2021-12-29 15:55+0000\n"
+"POT-Creation-Date: 2023-11-04 21:25+0000\n"
 "PO-Revision-Date: 2021-12-29 17:19+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -815,19 +815,6 @@ msgstr ""
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"#WillYouMakeAnException\" id=\"TOCWillYouMakeAnException\">Using a "
-"certain GNU program under the GPL does not fit our project to make "
-"proprietary software.  Will you make an exception for us? It would mean more "
-"users of that program.</a>"
-msgstr ""
-"<a href=\"#WillYouMakeAnException\" id=\"TOCWillYouMakeAnException"
-"\">L'utilisation d'un certain programme GNU placé sous GPL ne cadre pas avec "
-"notre projet de réalisation d'un logiciel privateur. Pourriez-vous faire une "
-"exception pour nous? Cela augmenterait le nombre d'utilisateurs de ce "
-"programme</a>."
-
-#. type: Content of: <div><ul><li>
-msgid ""
 "<a href=\"#IfInterpreterIsGPL\" id=\"TOCIfInterpreterIsGPL\">If a "
 "programming language interpreter is released under the GPL, does that mean "
 "programs written to be interpreted by it must be under GPL-compatible "
@@ -902,6 +889,19 @@ msgstr ""
 "<a href=\"#GPLInProprietarySystem\" id=\"TOCGPLInProprietarySystem"
 "\">J'aimerais incorporer un logiciel sous GPL dans mon système privateur. "
 "Est-ce possible ?</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"#WillYouMakeAnException\" id=\"TOCWillYouMakeAnException\">Using a "
+"certain GNU program under the GPL does not fit our project to make "
+"proprietary software.  Will you make an exception for us? It would mean more "
+"users of that program.</a>"
+msgstr ""
+"<a href=\"#WillYouMakeAnException\" id=\"TOCWillYouMakeAnException"
+"\">L'utilisation d'un certain programme GNU placé sous GPL ne cadre pas avec "
+"notre projet de réalisation d'un logiciel privateur. Pourriez-vous faire une "
+"exception pour nous? Cela augmenterait le nombre d'utilisateurs de ce "
+"programme</a>."
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -3524,6 +3524,58 @@ msgstr ""
 
 #. type: Content of: <dl><dt>
 msgid ""
+"<b><a href=\"#TOCWillYouMakeAnException\" id=\"WillYouMakeAnException"
+"\">Using a certain GNU program under the GPL does not fit our project to "
+"make proprietary software.  Will you make an exception for us? It would mean "
+"more users of that program.</a></b>"
+msgstr ""
+"<b><a href=\"#TOCWillYouMakeAnException\" id=\"WillYouMakeAnException"
+"\">L'utilisation d'un certain programme GNU placé sous GPL ne cadre pas avec "
+"notre projet de réalisation d'un logiciel privateur. Pourriez-vous faire une "
+"exception pour nous ? Cela augmenterait le nombre d'utilisateurs de ce "
+"programme</a>.</b>"
+
+#. type: Content of: <dl><dd>
+msgid "Sorry, we don't make such exceptions.  It would not be right."
+msgstr ""
+"Désolé, nous ne faisons pas d'exception de ce genre, cela ne serait pas bien."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"Maximizing the number of users is not our aim.  Rather, we are trying to "
+"give the crucial freedoms to as many users as possible.  In general, "
+"proprietary software projects hinder rather than help the cause of freedom."
+msgstr ""
+"Notre objectif n'est pas de maximiser le nombre d'utilisateurs. Nous "
+"essayons plutôt de donner les libertés fondamentales au plus grand nombre "
+"possible d'utilisateurs. D'une manière générale, les projets logiciels "
+"privateurs contrecarrent plus qu'ils ne favorisent la cause de la liberté."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"We do occasionally make license exceptions to assist a project which is "
+"producing free software under a license other than the GPL.  However, we "
+"have to see a good reason why this will advance the cause of free software."
+msgstr ""
+"Il nous arrive de créer des exceptions de licence pour aider un projet de "
+"logiciel libre sous une autre licence que la GPL. Toutefois, il faut pour "
+"cela nous montrer une bonne raison que cela fasse avancer la cause du "
+"logiciel libre."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"We also do sometimes change the distribution terms of a package, when that "
+"seems clearly the right way to serve the cause of free software; but we are "
+"very cautious about this, so you will have to show us very convincing "
+"reasons."
+msgstr ""
+"Il nous arrive aussi quelquefois de modifier les clauses de distribution "
+"d'un paquet, quand cela nous apparaît clairement comme un moyen de "
+"promouvoir la cause du logiciel libre, mais nous sommes très prudents à ce "
+"sujet et il vous faudra nous donner des raisons très convaincantes."
+
+#. type: Content of: <dl><dt>
+msgid ""
 "<b><a href=\"#TOCGPLWrapper\" id=\"GPLWrapper\"> I'd like to incorporate GPL-"
 "covered software in my proprietary system.  Can I do this by putting a "
 "&ldquo;wrapper&rdquo; module, under a GPL-compatible lax permissive license "
@@ -4267,58 +4319,6 @@ msgstr ""
 "Nous décidons donc de quelle licence utiliser pour chaque bibliothèque au "
 "cas par cas. Il existe une <a href=\"/licenses/why-not-lgpl.html\">longue "
 "explication</a> sur la façon dont nous procédons pour nous décider."
-
-#. type: Content of: <dl><dt>
-msgid ""
-"<b><a href=\"#TOCWillYouMakeAnException\" id=\"WillYouMakeAnException"
-"\">Using a certain GNU program under the GPL does not fit our project to "
-"make proprietary software.  Will you make an exception for us? It would mean "
-"more users of that program.</a></b>"
-msgstr ""
-"<b><a href=\"#TOCWillYouMakeAnException\" id=\"WillYouMakeAnException"
-"\">L'utilisation d'un certain programme GNU placé sous GPL ne cadre pas avec "
-"notre projet de réalisation d'un logiciel privateur. Pourriez-vous faire une "
-"exception pour nous ? Cela augmenterait le nombre d'utilisateurs de ce "
-"programme</a>.</b>"
-
-#. type: Content of: <dl><dd>
-msgid "Sorry, we don't make such exceptions.  It would not be right."
-msgstr ""
-"Désolé, nous ne faisons pas d'exception de ce genre, cela ne serait pas bien."
-
-#. type: Content of: <dl><dd><p>
-msgid ""
-"Maximizing the number of users is not our aim.  Rather, we are trying to "
-"give the crucial freedoms to as many users as possible.  In general, "
-"proprietary software projects hinder rather than help the cause of freedom."
-msgstr ""
-"Notre objectif n'est pas de maximiser le nombre d'utilisateurs. Nous "
-"essayons plutôt de donner les libertés fondamentales au plus grand nombre "
-"possible d'utilisateurs. D'une manière générale, les projets logiciels "
-"privateurs contrecarrent plus qu'ils ne favorisent la cause de la liberté."
-
-#. type: Content of: <dl><dd><p>
-msgid ""
-"We do occasionally make license exceptions to assist a project which is "
-"producing free software under a license other than the GPL.  However, we "
-"have to see a good reason why this will advance the cause of free software."
-msgstr ""
-"Il nous arrive de créer des exceptions de licence pour aider un projet de "
-"logiciel libre sous une autre licence que la GPL. Toutefois, il faut pour "
-"cela nous montrer une bonne raison que cela fasse avancer la cause du "
-"logiciel libre."
-
-#. type: Content of: <dl><dd><p>
-msgid ""
-"We also do sometimes change the distribution terms of a package, when that "
-"seems clearly the right way to serve the cause of free software; but we are "
-"very cautious about this, so you will have to show us very convincing "
-"reasons."
-msgstr ""
-"Il nous arrive aussi quelquefois de modifier les clauses de distribution "
-"d'un paquet, quand cela nous apparaît clairement comme un moyen de "
-"promouvoir la cause du logiciel libre, mais nous sommes très prudents à ce "
-"sujet et il vous faudra nous donner des raisons très convaincantes."
 
 #. type: Content of: <dl><dt>
 msgid ""
@@ -5352,11 +5352,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2001-2007, 2009, 2011, 2014, 2015, 2017, 2019, 2021 Free "
-"Software Foundation, Inc."
+"Copyright &copy; 2001-2007, 2009, 2011, 2014, 2015, 2017, 2019, 2021, 2023 "
+"Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2001-2007, 2009, 2011, 2014, 2015, 2017, 2019, 2021 Free "
-"Software Foundation, Inc."
+"Copyright &copy; 2001-2007, 2009, 2011, 2014, 2015, 2017, 2019, 2021, 2023 "
+"Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -5380,3 +5380,10 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+#~ msgid ""
+#~ "Copyright &copy; 2001-2007, 2009, 2011, 2014, 2015, 2017, 2019, 2021 Free "
+#~ "Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 2001-2007, 2009, 2011, 2014, 2015, 2017, 2019, 2021 Free "
+#~ "Software Foundation, Inc."
