@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home-pkgblurbs.html\n"
-"POT-Creation-Date: 2023-09-29 17:56+0000\n"
-"PO-Revision-Date: 2023-09-29 22:47+0200\n"
+"POT-Creation-Date: 2023-11-19 04:26+0000\n"
+"PO-Revision-Date: 2023-11-19 12:20+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -701,6 +701,23 @@ msgstr ""
 "que d'obliger les étudiants à écrire du code, le programme leur offre une "
 "interface intuitive, avec des infobulles interactives pour les guider.  "
 "<small>(<a href=\"/manual/manual.html#c-graph\">doc</a>)</small>"
+
+#. type: Content of: <h4>
+msgid ""
+"<a href=\"/software/c-intro-and-ref/\">GNU C Introduction and Reference</a>"
+msgstr ""
+"<a href=\"/software/c-intro-and-ref/\">GNU C : Introduction et manuel de "
+"référence</a>"
+
+#. type: Content of: <p>
+msgid ""
+"This manual provides an introduction for learning the GNU C language and "
+"also serves as a reference for it.  <small>(<a href=\"/manual/manual.html#c-"
+"intro-and-ref\">doc</a>)</small>"
+msgstr ""
+"Ce manuel est une introduction à l'étude du langage C de GNU et sert de "
+"référence pour ce langage.  <small>(<a href=\"/manual/manual.html#guile-"
+"ncurses\">doc</a>)</small>"
 
 #. type: Content of: <h4>
 msgid "<a href=\"/software/ccaudio/\">ccAudio</a>"
@@ -3295,6 +3312,20 @@ msgstr ""
 "« parfaite » signifie qu'il ne peut y avoir aucune collision et que la "
 "recherche peut être faite avec une seule chaîne de caractères comme "
 "critère.  <small>(<a href=\"/manual/manual.html#gperf\">doc</a>)</small>"
+
+#. type: Content of: <h4>
+msgid "<a href=\"/software/gprofng-gui/\">Gprofng-gui</a>"
+msgstr "<a href=\"/software/gprofng-gui/\">Gprofng-gui</a>"
+
+#. type: Content of: <p>
+msgid ""
+"gprofng GUI is a full-fledged graphical interface to operate gprofng, which "
+"is part of the GNU binutils.  <small>(<a href=\"/manual/manual.html#gprofng-"
+"gui\">doc</a>)</small>"
+msgstr ""
+"gprofng GUI est une interface graphique complète pour gprofng qui fait "
+"partie de GNU Binutils.  chaque projet.  <small>(<a href=\"/manual/manual."
+"html##gprofng-gui\">doc</a>)</small>"
 
 #. type: Attribute 'alt' of: <h4><img>
 msgid "logo for gprolog"

@@ -8,15 +8,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: tasks.html\n"
-"POT-Creation-Date: 2014-04-05 00:03+0000\n"
-"PO-Revision-Date: 2015-08-13 11:22+0200\n"
+"POT-Creation-Date: 2023-11-19 14:25+0000\n"
+"PO-Revision-Date: 2023-11-19 22:58+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms:  \n"
 
 #. type: Content of: <title>
 msgid "Tasks to do for www.gnu.org - GNU Project - Free Software Foundation"
@@ -29,14 +28,12 @@ msgstr "Tâches à faire pour www.gnu.org"
 
 #. type: Content of: <p>
 msgid ""
-"Here are many possible tasks for improving the GNU web pages.  If you would "
-"like to help with one of them, please e-mail <a href=\"mailto:webmasters@gnu."
-"org\">&lt;webmasters@gnu.org&gt;</a> BEFORE you do any work on them."
+"This page used to list some important tasks for which we need help.  Please "
+"follow the links to the specific areas where they have been moved."
 msgstr ""
-"Voici les nombreuses tâches à faire pour améliorer les pages web de GNU. Si "
-"vous voulez participer à l'une d'entre elles, veuillez écrire à <a href="
-"\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> AVANT de faire "
-"quoi que ce soit."
+"Cette page répertoriait certaines tâches importantes pour lesquelles nous "
+"avions besoin d'aide. Merci de suivre les liens vers les pages où elles se "
+"trouvent maintenant."
 
 #. type: Content of: <h3>
 msgid "Accessibility"
@@ -44,139 +41,46 @@ msgstr "Accessibilité"
 
 #. type: Content of: <p>
 msgid ""
-"Investigate how www.gnu.org could provide better accessibility to all "
-"regardless of disability."
+"Moved to <a href=\"/accessibility/accessibility.html#recommendations"
+"\">Accessibility</a>."
 msgstr ""
-"Cherchez comment www.gnu.org pourrait améliorer l'accessibilité pour toutes "
-"les personnes, quel que soit leur handicap."
-
-#. type: Content of: <ul><li>
-msgid ""
-"A good place to start is the <a href=\"http://www.w3.org/WAI/\">Web "
-"Accessibility Initiative (WAI)</a>."
-msgstr ""
-"Le site de la <a href=\"http://www.w3.org/WAI/\">Web Accessibility "
-"Initiative (WAI)</a> est un bon point de départ. "
-
-#. type: Content of: <ul><li>
-msgid "Other resources on and off the web could also be checked."
-msgstr "D'autres ressources sont disponibles sur le web et ailleurs."
-
-#. type: Content of: <ul><li>
-msgid ""
-"People at or near MIT could check with MIT's <a href=\"http://web.mit.edu/"
-"atic/www/\">Adaptive Technology for Information and Computing</a> in person."
-msgstr ""
-"Les personnes du MIT ou proches du MIT peuvent s'informer en personne auprès "
-"du département <a href=\"http://web.mit.edu/atic/www/\">Adaptive Technology "
-"for Information and Computing</a> (Technologies adaptatives pour "
-"l'information et l'informatique)."
-
-#. type: Content of: <ul><li>
-msgid ""
-"People who have access to similar centers at other schools, organizations, "
-"and companies could check with them."
-msgstr ""
-"Les personnes qui ont accès à des centres similaires dans d'autres "
-"établissements d'enseignement, organisations ou sociétés peuvent s'informer "
-"auprès d'eux."
-
-#. type: Content of: <ul><li>
-msgid ""
-"Disabled users of the web could also be interviewed, and perhaps even added "
-"to the webmasters team for this task and others."
-msgstr ""
-"Vous pouvez aussi vous entretenir avec des personnes ayant des problèmes "
-"d'accessibilité sur le web et peut-être même leur faire intégrer l'équipe de "
-"webmestres pour cette tâche et d'autres."
+"Voir <a href=\"/accessibility/accessibility.html#recommendations\">Appel de "
+"GNU à l'accessibilité</a>."
 
 #. type: Content of: <h3>
 msgid "Format Conversions"
 msgstr "Conversion de formats"
 
-#. type: Content of: <ul><li>
-msgid ""
-"We are looking for people to volunteer to convert documentation from various "
-"formats to the <a href=\"/software/texinfo/texinfo.html\">Texinfo</a> "
-"format. This is something we need occasionally. We would like to have a list "
-"of people we could ask on these occasions. If you want to volunteer, please "
-"send mail to <a href=\"mailto:gvc@gnu.org\">&lt;gvc@gnu.org&gt;</a>."
+#. type: Content of: <p>
+msgid "Moved to <a href=\"/help/help.html#texinfo\">Help</a>."
 msgstr ""
-"Nous avons besoin occasionnellement de convertir de la documentation sous "
-"divers format vers le format <a href=\"/software/texinfo/texinfo.html"
-"\">Texinfo</a> et souhaiterions avoir une liste de personnes à qui demander "
-"ce travail ponctuel. Pour vous porter volontaire, veuillez écrire à <a href="
-"\"mailto:gvc@gnu.org\">&lt;gvc@gnu.org&gt;</a>."
-
-#. type: Content of: <ul><li>
-msgid ""
-"Rewrite the various philosophy pages in <a href=\"/software/texinfo/texinfo."
-"html\">Texinfo</a> and convert to HTML using texi2html.  They could then be "
-"easily included in:"
-msgstr ""
-"Il faudrait réécrire toutes les pages de la section Philosophie en <a href="
-"\"/software/texinfo/texinfo.html\">Texinfo</a>, puis les convertir en HTML "
-"en utilisant texi2html. Cela permettrait de les inclure facilement dans :"
-
-#. type: Content of: <ul><li><ul><li>
-msgid ""
-"the <a href=\"http://ftp.gnu.org/gnu/GNUinfo\">/gnu/GNUinfo</a> subdirectory "
-"of <a href=\"http://ftp.gnu.org/\">ftp.gnu.org</a>"
-msgstr ""
-"le sous-répertoire <a href=\"http://ftp.gnu.org/gnu/GNUinfo\">/gnu/GNUinfo</"
-"a> de <a href=\"http://ftp.gnu.org/\">ftp.gnu.org</a>"
-
-#. type: Content of: <ul><li><ul><li>
-msgid "the etc/ subdirectory of the GNU Emacs distribution"
-msgstr "le sous-répertoire etc/ de la distribution GNU Emacs"
-
-#. type: Content of: <ul><li><ul><li>
-msgid "in the GNU system's Info tree"
-msgstr "l'arbre Info du système GNU"
-
-#. type: Content of: <ul><li><ul><li>
-msgid "other useful locations."
-msgstr "d'autres emplacements utiles."
+"Voir <a href=\"/help/help.html#texinfo\">Comment aider le projet GNU et le "
+"mouvement du logiciel libre</a>."
 
 #. type: Content of: <h3>
 msgid "Writing Web Pages"
 msgstr "Rédaction web"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <p>
 msgid ""
-"Write web pages for GNU programs that lacks web pages on our server or whose "
-"web pages are obsolete using our <a href=\"/software/boilerplate_software."
-"html\">software boilerplate</a> as a template. Also read our <a href=\"/"
-"server/standards/README.software.html\">software page standards</a>."
+"Moved to <a href=\"/server/standards/README.webmastering.html#gnupackages"
+"\">GNU Webmastering Guidelines</a>."
 msgstr ""
-"Rédigez des pages web pour les programmes GNU qui n'en ont pas encore sur "
-"notre serveur, ou dont le contenu est obsolète, en utilisant le <a href=\"/"
-"software/boilerplate_software.html\">canevas « software »</a> comme modèle "
-"(consultez également nos <a href=\"/server/standards/README.software.html"
-"\">standards pour les pages dédiées aux logiciels</a>)."
+"Voir <cite><a href=\"/server/standards/README.webmastering.html#gnupackages"
+"\">GNU Webmastering Guidelines</a></cite> (directives pour l'entretien du "
+"site GNU)."
 
 #. type: Content of: <h3>
 msgid "Broken Links"
 msgstr "Liens orphelins"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <p>
 msgid ""
-"Help is needed <a href=\"/server/standards/README.webmastering.html#deadlink"
-"\">repairing broken links</a>.  There are numerous <a href=\"/server/"
-"standards/README.webmastering.html#symlinks\">symlinks</a>, so please do not "
-"break these in your repair efforts.  Time and care is needed to track down "
-"broken links, and in most cases find suitable replacements.  Please ensure "
-"that our <a href=\"/server/standards/README.webmastering.html#addlink"
-"\">linking</a> <a href=\"/server/standards/README.webmastering."
-"html#pollinking\">policy</a> is followed in finding replacements."
+"Mentioned in the <a href=\"/server/standards/README.webmastering."
+"html#deadlink\"> GNU Webmastering Guidelines</a>."
 msgstr ""
-"Nous avons besoin d'aide pour <a href=\"/server/standards/README."
-"webmastering.html#deadlink\">réparer les liens orphelins</a>. C'est un "
-"travail long et délicat: il faut éviter de corrompre les nombreux <a href=\"/"
-"server/standards/README.webmastering.html#symlinks\">symlinks</a> et, dans "
-"la plupart des cas, trouver des substituts appropriés respectant nos <a href="
-"\"/server/standards/README.webmastering.html#pollinking\">règles</a> de <a "
-"href=\"/server/standards/README.webmastering.html#addlink\">mise en lien</a>."
+"Mentionnés dans <cite><a href=\"/server/standards/README.webmastering."
+"html#deadlink\">GNU Webmastering Guidelines</a></cite>."
 
 #. type: Content of: <h3>
 msgid "Localization"
@@ -184,17 +88,13 @@ msgstr "Localisation"
 
 #. type: Content of: <p>
 msgid ""
-"Help <a href=\"/server/standards/README.translations.html\">translate GNU "
-"web pages</a> from English into other languages.  You can either join an "
-"existing translation team, or form a new one.  Check the <a href=\"/server/"
-"standards/README.translations.html#TranslationsUnderway\">existing "
-"translation teams</a>."
+"A call for help with <a href=\"/server/standards/README.translations.html"
+"\">translations</a> is present in the footer of all non-software GNU web "
+"pages."
 msgstr ""
-"Aidez à <a href=\"/server/standards/README.translations.html\">traduire les "
-"pages web de GNU</a> de l'anglais vers d'autres langues. Vous pouvez "
-"rejoindre une <a href=\"/server/standards/README.translations."
-"html#TranslationsUnderway\">équipe de traduction existante</a> ou en créer "
-"une nouvelle."
+"Il y a un appel à l'aide pour les <a href=\"/server/standards/README."
+"translations.html\">traductions</a> dans le pied de page de toutes les pages "
+"web de GNU, sauf celles qui concernent des logiciels particuliers."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -242,27 +142,27 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 2001, 2004, 2005, 2006, 2007, 2008, 2013, "
-"2014 Free Software Foundation, Inc."
+"2014, 2023 Free Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 2001, 2004, 2005, 2006, 2007, 2008, 2013, "
-"2014 Free Software Foundation, Inc."
+"2014, 2023 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Cette page peut être utilisée suivant les conditions de la licence <a rel="
-"\"license\" href=\"http://creativecommons.org/licenses/by-nd/3.0/us/deed.fr"
-"\">Creative Commons attribution, pas de modification, 3.0 États-Unis (CC BY-"
-"ND 3.0 US)</a>."
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Cédric Corazza.<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
+"Traduction : Cédric Corazza.<br /> Révision : <a href=\"mailto:trad-gnu&#64;"
 "april.org\">trad-gnu&#64;april.org</a>."
 
 #.  timestamp start 

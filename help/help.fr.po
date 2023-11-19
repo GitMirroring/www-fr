@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: help.html\n"
-"POT-Creation-Date: 2022-05-14 15:25+0000\n"
-"PO-Revision-Date: 2022-05-14 18:04+0200\n"
+"POT-Creation-Date: 2023-11-19 15:25+0000\n"
+"PO-Revision-Date: 2023-11-19 22:58+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -74,6 +74,13 @@ msgstr ""
 "<a href=\"#develop\">Aidez à développer le système d'exploitation GNU</a>"
 
 #. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"#smallprograms\">Important new small-to-medium programs needed</a>"
+msgstr ""
+"<a href=\"#smallprograms\">Logiciels importants mais pas très longs dont "
+"nous avons besoin</a>"
+
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#helpgnu\">Help support GNU development and use</a>"
 msgstr ""
 "<a href=\"#helpgnu\">Contribuez à soutenir le développement et l'utilisation "
@@ -110,6 +117,20 @@ msgid ""
 msgstr ""
 "Écrivez <a href=\"/philosophy/free-doc.html\">des manuels et de la "
 "documentation libres</a> pour les logiciels GNU."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Volunteer to convert documentation from various formats to the <a href=\"/"
+"software/texinfo/texinfo.html\">Texinfo</a> format. This is something we "
+"need occasionally. We would like to have a list of people we could ask on "
+"these occasions. If you want to volunteer, please send mail to <a href="
+"\"mailto:gvc@gnu.org\">&lt;gvc@gnu.org&gt;</a>."
+msgstr ""
+"Nous avons besoin occasionnellement de convertir de la documentation sous "
+"divers format vers le format <a href=\"/software/texinfo/texinfo.html"
+"\">Texinfo</a> et souhaiterions avoir une liste de personnes à qui demander "
+"ce travail ponctuel. Pour vous porter volontaire, veuillez écrire à <a href="
+"\"mailto:gvc@gnu.org\">&lt;gvc@gnu.org&gt;</a>."
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -170,11 +191,13 @@ msgstr ""
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"Improve <a href=\"/accessibility/accessibility.html\">accessibility of free "
-"software</a>."
+"Improve <a href=\"/accessibility/accessibility.html\">accessibility</a> of "
+"free software and web pages to meet the needs of all users regardless of "
+"disability."
 msgstr ""
 "Améliorer <a href=\"/accessibility/accessibility.html\">l'accessibilité des "
-"logiciels libres</a>."
+"logiciels libres</a> et des pages web pour répondre aux besoins des tous les "
+"utilisateurs, même en situation de handicap et quel que soit ce dernier."
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -393,15 +416,6 @@ msgstr ""
 #. type: Content of: <div><ul><li>
 msgid "Donate <a href=\"/help/help-hardware.html\">hardware</a> to the FSF."
 msgstr "Donnez du <a href=\"/help/help-hardware.html\">matériel</a> à la FSF."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"Take on one of the <a href=\"/server/tasks.html\">jobs</a> we need done for "
-"this <a href=\"/server/server.html\">web server</a>."
-msgstr ""
-"Prenez en charge une des <a href=\"/server/tasks.html\">tâches</a> "
-"nécessaires à l'opération de ce <a href=\"/server/server.html\">serveur web</"
-"a>."
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -657,8 +671,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1996-2008, 2013-2022 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 1996-2008, 2013-2022 Free Software Foundation, Inc."
+msgid "Copyright &copy; 1996-2008, 2013-2023 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1996-2008, 2013-2023 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -682,3 +696,11 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+#~ msgid ""
+#~ "Take on one of the <a href=\"/server/tasks.html\">jobs</a> we need done "
+#~ "for this <a href=\"/server/server.html\">web server</a>."
+#~ msgstr ""
+#~ "Prenez en charge une des <a href=\"/server/tasks.html\">tâches</a> "
+#~ "nécessaires à l'opération de ce <a href=\"/server/server.html\">serveur "
+#~ "web</a>."
