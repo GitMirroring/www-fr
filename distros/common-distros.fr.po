@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: common-distros.html\n"
-"POT-Creation-Date: 2023-11-21 13:56+0000\n"
-"PO-Revision-Date: 2023-11-21 14:55+0100\n"
+"POT-Creation-Date: 2023-12-15 11:56+0000\n"
+"PO-Revision-Date: 2023-12-15 13:09+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -134,8 +134,8 @@ msgstr ""
 "avec son noyau Linux."
 
 #. type: Content of: <div><h3>
-msgid "Canaima"
-msgstr "Canaima"
+msgid "Canaima GNU/Linux"
+msgstr "Canaima GNU/Linux"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -700,12 +700,12 @@ msgstr ""
 "bibliothèques non libres."
 
 #. type: Content of: <div><h3>
-msgid "Graphene OS"
-msgstr "Graphene OS"
+msgid "GrapheneOS"
+msgstr "GrapheneOS"
 
 #. type: Content of: <div><p>
 msgid ""
-"Graphene OS is a version of Android which is described as &ldquo;open source,"
+"GrapheneOS is a version of Android which is described as &ldquo;open source,"
 "&rdquo; but it seems to include software that <a href=\"/philosophy/open-"
 "source-misses-the-point.html\"> isn't free software or even &ldquo;open "
 "source&rdquo;</a>.  For instance, it comes with firmware programs for "
@@ -713,7 +713,7 @@ msgid ""
 "source code.  It is said to be &ldquo;de-Googled,&rdquo; but includes a way "
 "to download and install the nonfree Google Play program."
 msgstr ""
-"Graphene OS est une version d'Android décrite comme « open source », mais "
+"GrapheneOS est une version d'Android décrite comme « open source », mais "
 "elle semble contenir des logiciels qui ne sont <a href=\"/philosophy/open-"
 "source-misses-the-point.html\">ni libres ni même open source</a>. Par "
 "exemple, elle est fournie avec des fichiers de microcode (pour "
@@ -841,3 +841,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+#~ msgid "Canaima"
+#~ msgstr "Canaima"
