@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-insecurity.html\n"
-"POT-Creation-Date: 2023-08-19 09:25+0000\n"
-"PO-Revision-Date: 2023-08-19 11:38+0200\n"
+"POT-Creation-Date: 2024-01-03 11:55+0000\n"
+"PO-Revision-Date: 2024-01-03 14:52+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -192,6 +192,23 @@ msgstr ""
 "à laisser les utilisateurs installer le logiciel de démarrage de leur choix "
 "et à rendre disponible l'information nécessaire à son développement – une "
 "sorte de droit de réparer au niveau de l'initialisation."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"https://www.bleepingcomputer.com/news/security/logofail-attack-can-"
+"install-uefi-bootkits-through-bootup-logos/\">x86 and ARM based computers "
+"shipped with UEFI are potentially vulnerable to a design omission called "
+"LogoFAIL</a>. A cracker can replace the BIOS logo with a fake one that "
+"contains malicious code. Users can't fix this omission because it is in the "
+"nonfree UEFI firmware that users can't replace."
+msgstr ""
+"Les ordinateurs basés sur x86 and ARM et livrés avec l'interface UEFI sont "
+"<a href=\"https://www.bleepingcomputer.com/news/security/logofail-attack-can-"
+"install-uefi-bootkits-through-bootup-logos/\">potentiellement vulnérables à "
+"un défaut de conception appelé LogoFAIL</a>. Un cracker peut remplacer le "
+"logo du BIOS par une version modifiée contenant du code malveillant. Les "
+"utilisateurs ne peuvent pas corriger ce défaut car il réside dans le "
+"micrologiciel non libre de l'UEFI qu'ils ne peuvent pas remplacer."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -2161,8 +2178,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2013, 2015-2023 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2013, 2015-2023 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2013, 2015-2024 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2013, 2015-2024 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

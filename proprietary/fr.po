@@ -1,13 +1,13 @@
 # French compendium for articles in https://www.gnu.org/proprietary/
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Thérèse Godefroy <godef.th AT free.fr>, 2019-2023.
+# Thérèse Godefroy <godef.th AT free.fr>, 2019-2024.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary/\n"
 "POT-Creation-Date: 2023-05-31 14:26+0000\n"
-"PO-Revision-Date: 2024-01-01 13:00+0100\n"
+"PO-Revision-Date: 2024-01-03 14:52+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -246,6 +246,91 @@ msgstr ""
 "L'UEFI rend les ordinateurs vulnérables à des menaces persistantes "
 "sophistiquées qui sont à peu près impossibles à détecter une fois "
 "installées...</a></strong>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"https://www.bleepingcomputer.com/news/security/logofail-attack-can-"
+"install-uefi-bootkits-through-bootup-logos/\">x86 and ARM based computers "
+"shipped with UEFI are potentially vulnerable to a design omission called "
+"LogoFAIL</a>. A cracker can replace the BIOS logo with a fake one that "
+"contains malicious code. Users can't fix this omission because it is in the "
+"nonfree UEFI firmware that users can't replace."
+msgstr ""
+"Les ordinateurs basés sur x86 and ARM et livrés avec l'interface UEFI sont "
+"<a href=\"https://www.bleepingcomputer.com/news/security/logofail-attack-can-"
+"install-uefi-bootkits-through-bootup-logos/\">potentiellement vulnérables à "
+"un défaut de conception appelé LogoFAIL</a>. Un cracker peut remplacer le "
+"logo du BIOS par une version modifiée contenant du code malveillant. Les "
+"utilisateurs ne peuvent pas corriger ce défaut car il réside dans le "
+"micrologiciel non libre de l'UEFI qu'ils ne peuvent pas remplacer."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-"
+"hardware-hacking/\">Newag, a Polish railway manufacturer, puts DRM inside "
+"trains to prevent third-party repairs</a>."
+msgstr ""
+"<a href=\"https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-"
+"hardware-hacking/\">Newag, une entreprise ferroviaire polonaise, met un DRM "
+"dans ses trains pour empêcher les réparations par des tiers</a>."
+
+#. type: Content of: <div><ul><li><ul><li><p>
+msgid ""
+"The train's software contains code to detect if the GPS coordinates are near "
+"some third party repairers, or the train has not been running for some time. "
+"If yes, the train will be &ldquo;locked up&rdquo; (i.e. bricked). It was "
+"also possible to unlock it by pressing a secret combination of buttons in "
+"the cockpit, but this ability was removed by a manufacturer's software "
+"update."
+msgstr ""
+"Le logiciel du train contient du code qui détecte s'il se trouve à proximité "
+"d'un réparateur tiers d'après ses coordonnées GPS, ou bien s'il a roulé "
+"pendant un certain temps. Si oui, le train se « verrouille » (autrement dit, "
+"se met hors service). Il était possible de le déverrouiller à l'aide d'une "
+"combinaison secrète de boutons dans le cockpit, mais le constructeur a "
+"supprimé cette possibilité par une mise à jour logicielle."
+
+#. type: Content of: <div><ul><li><ul><li><p>
+msgid ""
+"The train will also lock up after a certain date, which is hardcoded in the "
+"software."
+msgstr ""
+"Le train se verrouille également après une certaine date, codée en dur dans "
+"le logiciel."
+
+#. type: Content of: <div><ul><li><ul><li><p>
+msgid ""
+"The company pushes a software update that detects if the DRM code has been "
+"bypassed, i.e. the lock should have been engaged but the train is still "
+"operational. If yes, the controller cabin screen will display a scary "
+"message warning about &ldquo;copyright violation&rdquo;."
+msgstr ""
+"Le constructeur pousse une mise à jour logicielle qui détecte si le code du "
+"DRM a été contourné, c'est-à-dire si le train reste opérationnel malgré "
+"l'activation du verrou. Si oui, l'écran de contrôle de la cabine affiche un "
+"message inquiétant à propos d'une « violation de copyright »."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"Recent autos offer a feature by which the drivers can connect their snoop-"
+"phones to the car.  That feature <a href=\"https://therecord.media/class-"
+"action-lawsuit-cars-text-messages-privacy\"> snoops on the calls and texts</"
+"a> and gives the data to the car manufacturer, and to the state."
+msgstr ""
+"Les autos récentes proposent une fonctionnalité permettant aux conducteurs "
+"de connecter leur téléphone espion à la voiture. Cette fonctionnalité <a "
+"href=\"https://therecord.media/class-action-lawsuit-cars-text-messages-"
+"privacy\">espionne les appels et les textos</a> et communique ces données au "
+"constructeur et à l'État."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"A good privacy law would prohibit cars recording this data about the users' "
+"activities.  But not just <em>this</em> data&mdash;lots of other data too."
+msgstr ""
+"Une bonne législation sur la vie privée interdirait l'enregistrement de "
+"données sur les activités de l'utilisateur. Non seulement celles-ci, mais "
+"également beaucoup d'autres."
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
@@ -6322,10 +6407,9 @@ msgstr ""
 "conversion d'images au format Photos</a> vers un format libre est si longue "
 "et si fastidieuse que les utilisateurs renoncent s'ils en ont beaucoup."
 
-# Pas de changement significatif en 2024.
 #. type: Content of: <div><p>
 msgid "Copyright &copy; 2018-2024 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2018-2023 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2018-2024 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Proprietary Jails - GNU Project - Free Software Foundation"
@@ -8304,10 +8388,9 @@ msgstr ""
 "policy/2016/06/if-you-used-to-run-linux-on-your-ps3-you-could-get-55-from-"
 "sony/\">le moment est venu pour Sony de payer pour ce sabotage</a>."
 
-# Pas de changement significatif en 2024.
 #. type: Content of: <div><p>
 msgid "Copyright &copy; 2016-2024 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2016-2023 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2016-2024 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Potential Malware - GNU Project - Free Software Foundation"
@@ -9035,12 +9118,11 @@ msgstr ""
 msgid "Examples of addictive software"
 msgstr "Exemples de logiciels addictifs"
 
-# Pas de changement significatif en 2024.
 #. type: Content of: <div><p>
 msgid ""
 "Copyright &copy; 2019, 2020, 2021, 2022, 2023, 2024 Free Software "
 "Foundation, Inc."
-msgstr "Copyright &copy; 2019-2023 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2019-2024 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Proprietary DRM - GNU Project - Free Software Foundation"
@@ -9469,6 +9551,10 @@ msgstr ""
 "Les vidéos d'iTunes ont un DRM, ce qui permet à Apple de <a href=\"https://"
 "fr.wikipedia.org/wiki/FairPlay\">décider où ses clients peuvent regarder les "
 "vidéos qu'ils ont achetées</a>."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2014-2024 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014-2024 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Proprietary Tyrants - GNU Project - Free Software Foundation"
@@ -10549,8 +10635,8 @@ msgstr ""
 "ceci était apparemment intentionnel."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2013, 2015-2023 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2013, 2015-2023 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2013, 2015-2024 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2013, 2015-2024 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Malware In Cars - GNU Project - Free Software Foundation"
@@ -10815,6 +10901,10 @@ msgstr ""
 "radio</a>. Vous trouverez des informations supplémentaires sur le site de "
 "l'<a href=\"http://www.autosec.org/faq.html\">Automotive Security And "
 "Privacy Center</a>."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2017-2024 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2017-2024 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Proprietary Incompatibility - GNU Project - Free Software Foundation"
@@ -14198,6 +14288,10 @@ msgstr ""
 "boingboing.net/2012/12/29/your-cisco-phone-is-listening.html\">instruments "
 "d'espionnage</a>."
 
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2015-2024 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2015-2024 Free Software Foundation, Inc."
+
 #. type: Content of: <title>
 msgid "Malware in Mobile Devices - GNU Project - Free Software Foundation"
 msgstr "Malveillance des mobiles - Projet GNU - Free Software Foundation"
@@ -14592,11 +14686,6 @@ msgstr ""
 "class=\"not-a-duplicate\" href=\"#universal-back-door-phone-modem"
 "\">appareils d'écoute permanente</a>."
 
-# Pas de changement significatif en 2024.
-#. type: Content of: <div><p>
-msgid "Copyright &copy; 2014-2024 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014-2023 Free Software Foundation, Inc."
-
 #. type: Content of: <title>
 msgid "Proprietary Software - GNU Project - Free Software Foundation"
 msgstr "Logiciel privateur - Projet GNU - Free Software Foundation"
@@ -14990,10 +15079,9 @@ msgstr ""
 msgid "<a href=\"/proprietary/all.html\">More items&hellip;</a>"
 msgstr "<a href=\"/proprietary/all.html\">Voir plus&hellip;</a>"
 
-# Pas de changement significatif en 2024.
 #. type: Content of: <div><p>
 msgid "Copyright &copy; 2013-2024 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2013-2023 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2013-2024 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Proprietary Insecurity - GNU Project - Free Software Foundation"
