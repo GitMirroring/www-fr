@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: free-digital-society\n"
 "POT-Creation-Date: 2021-10-15 14:26+0000\n"
-"PO-Revision-Date: 2022-05-04 16:13+0200\n"
+"PO-Revision-Date: 2024-01-16 19:37+0100\n"
 "Last-Translator: Sébastien Poher <sbphr_AT_volted.net>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -46,11 +46,11 @@ msgstr ""
 
 #. type: Content of: <div><div><h3>
 msgid "Table of Contents"
-msgstr "<a id=\"TOC\">Table des matières</a>"
+msgstr "Table des matières"
 
 #. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#intro\">Introduction</a>"
-msgstr "<a href=\"#intro\">Introduction</a>"
+msgstr "<a href=\"#intro\" id=\"TOC\">Introduction</a>"
 
 #. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#surveillance\">Surveillance</a>"
