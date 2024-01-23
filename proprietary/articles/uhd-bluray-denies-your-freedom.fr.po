@@ -1,0 +1,562 @@
+# French translation of https://www.gnu.org/proprietary/uhd-bluray-denies-your-freedom.html
+# Copyright (C) 2024 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Thérèse Godefroy <godef.th AT free.fr>, 2024.
+# Not reviewed yet.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: uhd-bluray-denies-your-freedom.html\n"
+"POT-Creation-Date: 2024-01-23 17:25+0000\n"
+"PO-Revision-Date: 2024-01-24 11:24+0100\n"
+"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"Language-Team: French <trad-gnu@april.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Content of: <title>
+msgid ""
+"UHD Blu-ray Denies Your Freedom - GNU Project - Free Software Foundation"
+msgstr ""
+"Les disques Blu-ray Ultra HD piétinent votre liberté - Projet GNU - Free "
+"Software Foundation"
+
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Section contents"
+msgstr "Menu de section"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Section contents]&nbsp;"
+msgstr "&nbsp;[Menu de section]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "Accueil GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/proprietary/\">Malware</a>&nbsp;/ Articles&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/proprietary/\">Maliciels</a>&nbsp;/ Articles&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "UHD Blu-ray Denies Your Freedom"
+msgstr "Les Blu-ray UHD piétinent votre liberté"
+
+#. type: Content of: <div><div>
+msgid "The Anatomy of an Authoritarian Subjugation System"
+msgstr "Anatomie d'un système autoritaire d'asservissement"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The UHD (Ultra High Definition, also known as 4K) Blu-ray standard involves "
+"several types of restrictions, both at the hardware and the software levels, "
+"which make &ldquo;legitimate&rdquo; playback of UHD Blu-ray media impossible "
+"on a PC with <a href=\"/philosophy/free-sw.html\">free/libre</a> software."
+msgstr ""
+"Le standard Blu-ray Ultra HD (ou 4K) met en jeu plusieurs types de "
+"restrictions, aussi bien au niveau matériel que logiciel, qui rendent "
+"impossible la lecture « légitime » des disques de ce type sur PC avec du "
+"logiciel <a href=\"/philosophy/free-sw.html\">libre</a>."
+
+#. type: Content of: <div><h3>
+msgid "Companies that restrict your freedom"
+msgstr "Sociétés qui restreignent votre liberté"
+
+#. type: Content of: <div><p>
+msgid ""
+"The main DRM that restricts playback of Blu-ray media is the <a href="
+"\"https://en.wikipedia.org/wiki/Advanced_Access_Content_System\"> Advanced "
+"Access Content System (AACS)</a>. It is developed and enforced by <a href="
+"\"https://en.wikipedia.org/wiki/AACS_LA\"> AACS LA</a>, a consortium of "
+"megacorporations that want to achieve total control over the distribution "
+"and playback of high-definition optical disks. The founding members are IBM, "
+"Intel, Microsoft, Panasonic, Sony, Toshiba, Walt Disney and Warner Bros."
+msgstr ""
+"Le principal DRM qui restreint la lecture des disques Blu-ray est l'<abbr "
+"title=\"Advanced Access Content System\"><a href=\"https://en.wikipedia.org/"
+"wiki/Advanced_Access_Content_System\">AACS</a></abbr> (système avancé "
+"d'accès au contenu). Il est développé et imposé aux utilisateurs par <a href="
+"\"https://wikipedia.org/wiki/AACS_LA\">AACS LA</a>, un consortium de "
+"multinationales qui veulent obtenir un contrôle total sur la distribution et "
+"la lecture des disques optiques haute définition. Les membres fondateurs en "
+"sont IBM, Intel, Microsoft, Panasonic, Sony, Toshiba, Walt Disney et Warner "
+"Bros."
+
+#. type: Content of: <div><p>
+msgid ""
+"As it travels across connections, the audio/video data is subjected to the "
+"<a href=\"https://en.wikipedia.org/wiki/High-"
+"bandwidth_Digital_Content_Protection\"> High-bandwidth Digital Content "
+"Protection (HDCP)</a> DRM, which is developed by Intel."
+msgstr ""
+"Lorsqu'elles traversent les connexions entre appareils, les données audio-"
+"vidéo sont sujettes à un autre DRM, l'<abbr title=\"High-bandwidth Digital "
+"Content Protection\"><a href=\"https://wikipedia.org/wiki/High-"
+"bandwidth_Digital_Content_Protection\">HDCP</a></abbr> (protection du "
+"contenu numérique à large bande passante), développé par Intel."
+
+#. type: Content of: <div><h3>
+msgid "Hardware requirements"
+msgstr "Matériel requis"
+
+#. type: Content of: <div><p>
+msgid ""
+"Playing a UHD Blu-ray disk on a PC requires (1) an AACS-certified optical "
+"drive, (2) an Intel CPU made between 2015 and 2022, with integrated graphics "
+"(not found in every model) and a number of DRM-imposing or otherwise "
+"malicious anti-features, and (3) support for HDCP, the sole purpose of which "
+"is to make exact copying of the audio/video stream impossible. Such a "
+"computer does not respect users' freedom, and denies them control over it."
+msgstr ""
+"La lecture d'un disque Blu-ray UHD sur PC requiert (1) un lecteur optique "
+"certifié AACS, (2) un CPU Intel fabriqué entre 2015 et 2022, pourvu d'une "
+"carte graphique intégrée (ce qui n'est pas le cas de tous les modèles), et "
+"(3) la compatibilité avec l'HDCP, dont la seule raison d'être est de rendre "
+"impossible la copie exacte du flux audio-video. Un tel ordinateur ne "
+"respecte pas la liberté des utilisateurs et leur refuse le contrôle de leur "
+"informatique."
+
+#. type: Content of: <div><div>
+msgid ""
+"<a href=\"#show1\" id=\"show1\" class=\"show\"><i>[show details]</i></a> <a "
+"href=\"#hide1\" id=\"hide1\" class=\"hide\"><i>[hide details]</i></a>"
+msgstr ""
+"<a href=\"#show1\" id=\"show1\" class=\"show\"><i>[montrer les détails]</i></"
+"a> <a href=\"#hide1\" id=\"hide1\" class=\"hide\"><i>[cacher les détails]</"
+"i></a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "UHD-compatible optical drive"
+msgstr "Lecteur optique compatible UHD"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Not only are the technical requirements to read the UHD Blu-ray format very "
+"demanding, but the drive needs to be certified by AACS LA. This makes "
+"replacement of its firmware with free software impossible."
+msgstr ""
+"Ce lecteur doit non seulement satisfaire à des exigences techniques très "
+"rigoureuses, mais être certifié par AACS LA. Ceci rend impossible le "
+"remplacement de son micrologiciel par du logiciel libre."
+
+#. type: Content of: <div><div><ul><li>
+msgid "Intel SGX"
+msgstr "Intel SGX"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The PC must have an Intel CPU that supports the Intel Software Guard "
+"Extensions (SGX). SGX essentially creates a &ldquo;<a href=\"/philosophy/can-"
+"you-trust.html\">trusted</a>&rdquo; execution environment called <i>enclave</"
+"i>, which is designed to prevent users from tampering with imposed "
+"restrictions. Intel introduced this &ldquo;feature&rdquo; in 2015, but <a "
+"href=\"https://hackaday.com/2022/01/18/sgx-deprecation-prevents-pc-playback-"
+"of-4k-blu-ray-discs/\"> deprecated</a> and discontinued it from their "
+"mainstream CPUs in 2022, due to a series of reported <a href=\"https://en."
+"wikipedia.org/wiki/Software_Guard_Extensions#List_of_SGX_vulnerabilities\"> "
+"security vulnerabilities</a>. The playback software will refuse to play a "
+"movie if Intel SGX is not enabled in the BIOS, which means <em>your new PC "
+"will not play the UHD Blu-ray disk you just purchased</em>."
+msgstr ""
+"Le PC doit avoir un CPU Intel contenant le module <abbr title=\"Software "
+"Guard Extensions\">SGX</abbr>. Ce dernier crée un environnement d'exécution "
+"« <a href=\"/philosophy/can-you-trust.html\">fiable</a> » (appelé enclave), "
+"conçu pour empêcher les utilisateurs de contourner les restrictions qu'on "
+"leur impose. Intel a introduit cette « fonctionnalité » en 2015, mais l'a <a "
+"href=\"https://hackaday.com/2022/01/18/sgx-deprecation-prevents-pc-playback-"
+"of-4k-blu-ray-discs/\">rendue obsolète</a> en 2022 et a depuis lors cessé de "
+"l'utiliser dans ses principaux modèles de CPU, en raison d'une série de <a "
+"href=\"https://en.wikipedia.org/wiki/"
+"Software_Guard_Extensions#List_of_SGX_vulnerabilities\">vulnérabilités "
+"affectant la sécurité</a>. Étant donné que le logiciel refuse de déchiffrer "
+"le signal audio-vidéo si Intel SGX n'est pas activé dans le BIOS, cela veut "
+"dire que <em>votre nouveau PC sera incapable de lire le Blu-ray UHD que vous "
+"venez d'acheter</em>."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"https://sgx.fail/files/sgx.fail.pdf\">A group of researchers was "
+"able to exploit the security holes in Intel SGX and play a UHD Blu-ray disk "
+"without restrictions</a>. However, such exploitation is likely impossible "
+"for an average user to accomplish."
+msgstr ""
+"<a href=\"https://sgx.fail/files/sgx.fail.pdf\">Un groupe de chercheurs a pu "
+"exploiter les failles de sécurité du module SGX pour lire un disque Blu-ray "
+"UHD sans restriction</a>. Cependant, cet exploit est probablement impossible "
+"à réaliser pour un utilisateur lambda."
+
+#. type: Content of: <div><div><ul><li>
+msgid "Intel ME"
+msgstr "Intel ME"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The Intel Management Engine (ME) is also required. If its version is too "
+"old, the software will refuse to play.  <a href=\"https://www.fsf.org/blogs/"
+"sysadmin/the-management-engine-an-attack-on-computer-users-freedom\"> The ME "
+"is a proprietary embedded system that resides in every Intel CPU</a>.  Users "
+"have no control over it; they cannot replace it with a free system nor can "
+"they write free software for it. As the CPU cannot boot without the ME, this "
+"is the perfect tool for remote access and surveillance through a backdoor."
+msgstr ""
+"Le moteur de gestion (<abbr title=\"Management Engine\">ME</abbr>) Intel est "
+"également requis. Si sa version est trop ancienne, le logiciel refuse de "
+"lire le disque. <a href=\"https://www.fsf.org/blogs/sysadmin/the-management-"
+"engine-an-attack-on-computer-users-freedom\">C'est un sous-système privateur "
+"embarqué incorporé à presque tous les CPU d'Intel</a>. Les utilisateurs "
+"n'ont aucun contrôle sur lui ; ils ne peuvent pas le remplacer par un "
+"système libre ni écrire des programmes libres pour lui. Comme le CPU ne peut "
+"pas démarrer sans le moteur de gestion, c'est l'outil rêvé pour accéder au "
+"système principal par une porte dérobée et faire de la surveillance."
+
+#. type: Content of: <div><div><ul><li>
+msgid "Integrated graphics"
+msgstr "Processeur graphique intégré"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The Graphics Processing Unit (GPU) must be <a href=\"https://en.wikipedia."
+"org/wiki/Graphics_processing_unit#Integrated_graphics_processing_unit\"> "
+"integrated into the CPU</a>. Why insist on integrated graphics, which is "
+"typically less capable than dedicated GPUs? Presumably because the "
+"integrated GPU shares the SGX enclave with the CPU, thereby minimizing the "
+"chances that users will access and copy audio/video data."
+msgstr ""
+"Le processeur graphique (<abbr title=\"Graphics Processing Unit\">GPU</"
+"abbr>) doit être <a href=\"https://en.wikipedia.org/wiki/"
+"Graphics_processing_unit#Integrated_graphics_processing_unit\"> intégré au "
+"CPU</a>. Pourquoi exiger un GPU intégré, qui est généralement moins efficace "
+"qu'un GPU dédié ? Vraisemblablement parce que le GPU intégré partage "
+"l'enclave SGX avec le CPU, ce qui minimise la probabilité que les "
+"utilisateurs accèdent aux données audio-vidéo et les copient."
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-drm.html#M200803040\">HDCP</a> compliance"
+msgstr ""
+"Compatibilité avec <a href=\"/proprietary/proprietary-drm."
+"html#M200803040\">HDCP</a>"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The integrated GPU, monitor and audio/video cable must support HDCP 2.2 over "
+"the HDMI 2.0a/DisplayPort 1.3 interface, and be HDCP-certified. One of the "
+"requirements is that the monitor should be unable to record the audio/video "
+"stream, except in a very degraded form."
+msgstr ""
+"Le GPU intégré, le moniteur et le cable audio-vidéo doivent gérer le "
+"protocole HDCP 2.2 sur les interfaces HDMI 2.0a et DisplayPort 1.3, et être "
+"certifiés HDCP. L'une des conditions est que le moniteur soit incapable "
+"d'enregistrer le flux audio-vidéo, sauf en mode très dégradé."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"HDCP authenticates the two devices and encrypts the stream between them. It "
+"can also revoke the keys of devices that have been &ldquo;compromised&rdquo; "
+"(i.e., that users have liberated)."
+msgstr ""
+"Le protocole HDCP authentifie les deux appareils et chiffre le flux qui "
+"passe de l'un à l'autre. Il peut également révoquer les clés des appareils "
+"qui ont été « compromis » (autrement dit, libérés par les utilisateurs)."
+
+#. type: Content of: <div><h3>
+msgid "The AACS DRM"
+msgstr "Gestion numérique des restrictions par l'AACS"
+
+#. type: Content of: <div><p>
+msgid ""
+"AACS is a set of cryptographically complex standards for encrypting high-"
+"definition media and restricting their playback, which currently applies to "
+"HD DVD, Blu-ray, and UHD Blu-ray disks. The flavor of AACS used by UHD Blu-"
+"ray further attacks users' freedom (and possibly privacy) by forcing them to "
+"connect to a company server to download the decryption keys."
+msgstr ""
+"l'AACS est un ensemble de normes cryptographiques complexes servant à "
+"chiffrer les média haute définition et restreindre leur lecture. Il "
+"s'applique actuellement aux disques DVD HD, Blu-ray et Blu-ray UHD. La "
+"variante d'AACS utilisée par les UHD va encore plus loin dans ses atteintes "
+"à la liberté des utilisateurs (peut-être même à leur vie privée) en les "
+"forçant à se connecter aux serveurs d'une société pour télécharger les clés "
+"de chiffrement."
+
+#. type: Content of: <div><p>
+msgid ""
+"Decryption proceeds in several steps, the first one being the mutual "
+"authentication of the player and optical drive to make sure they both carry "
+"valid certificates, issued by AACS LA. This organization can arbitrarily "
+"revoke certificates, making the affected devices or software unusable with "
+"AACS-restricted media."
+msgstr ""
+"Le déchiffrement procède en plusieurs étapes, dont la première est "
+"l'authentification mutuelle du lecteur optique et du logiciel pour s'assurer "
+"qu'ils possèdent tous deux des certificats valides délivrés par AACS LA. "
+"Cette organisation peut arbitrairement révoquer ces certificats et rendre "
+"les appareils ou logiciels concernés inutilisables avec des médias chiffrés "
+"par l'AACS."
+
+#. type: Content of: <div><p>
+msgid ""
+"But the worst blow to users' freedom is that certification requires the "
+"developers of software players to sign a license agreement that "
+"<em>prohibits free sofware</em>."
+msgstr ""
+"Mais la pire attaque contre la liberté des utilisateurs est que, pour "
+"obtenir la certification de leur logiciel, les développeurs doivent signer "
+"un accord de licence qui <em>interdit le logiciel libre</em>."
+
+#. type: Content of: <div><div>
+msgid ""
+"<a href=\"#show2\" id=\"show2\" class=\"show\"><i>[show details]</i></a> <a "
+"href=\"#hide2\" id=\"hide2\" class=\"hide\"><i>[hide details]</i></a>"
+msgstr ""
+"<a href=\"#show2\" id=\"show2\" class=\"show\"><i>[montrer les détails]</i></"
+"a> <a href=\"#hide2\" id=\"hide2\" class=\"hide\"><i>[cacher les détails]</"
+"i></a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "The Adopter Agreement"
+msgstr "L'accord de licence"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"While regular Blu-ray disks are encrypted with AACS 1.0, UHD Blu-ray disks "
+"are encrypted with AACS 2.0 or 2.1. Unlike version 1.0, versions 2.0 and 2.1 "
+"of the specifications are unpublished, and the developers can only obtain "
+"them <a href=\"https://aacsla.com/license-aacs/\">after signing a license "
+"agreement with AACS LA</a>, and paying huge &ldquo;administrative&rdquo; "
+"fees ($25,000 per year in 2009 according to Exhibit B of the <a href="
+"\"https://aacsla.com/wp-content/uploads/2022/09/AACS1-Adopter-Agrmt-220519-"
+"v1.1-FINAL_review-only.pdf\"> AACS&nbsp;1 Adopter Agreement</a>)."
+msgstr ""
+"Alors que les Blu-ray ordinaires sont chiffrés par l'AACS 1.0, les UHD sont "
+"chiffrés par l'AACS 2.0 ou 2.1. Contrairement à la version 1.0, les "
+"versions 2.0 et 2.1 des spécifications ne sont pas publiées et les "
+"développeurs ne peuvent les obtenir qu'après avoir <a href=\"https://aacsla."
+"com/license-aacs/\">signé un accord de licence avec AACS LA</a> et payé des "
+"frais « administratifs » exorbitants (25 000 $ par an en 2009, d'après "
+"l'annexe B de l'<a href=\"https://aacsla.com/wp-content/uploads/2022/09/"
+"AACS1-Adopter-Agrmt-220519-v1.1-FINAL_review-only.pdf\"><i>AACS 1 Adopter "
+"Agreement</i></a>)."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<em>More importantly, the agreement is incompatible with the freedom to "
+"study how the program works and change it (<a href=\"/philosophy/free-sw."
+"html#four-freedoms\">freedom&nbsp;1</a>)</em>, and therefore prohibits free "
+"software. See for example this excerpt from Section&nbsp;7 (our emphasis):"
+msgstr ""
+"Mais le plus important, c'est que <em>cet accord est incompatible avec la "
+"liberté d'étudier comment fonctionne le programme et de le modifier (<a href="
+"\"/philosophy/free-sw.html#four-freedoms\">liberté 1</a>)</em> ; il interdit "
+"donc le logiciel libre. Voir par exemple cet extrait de l'article 7 "
+"(souligné par nous) :"
+
+#. type: Content of: <div><div><ul><li><blockquote><p>
+msgid "Such implementation shall:"
+msgstr "Une telle implémentation doit :"
+
+#. type: Content of: <div><div><ul><li><blockquote><p>
+msgid ""
+"7.6.4.1. Comply with Section 7.4 above [&hellip;], provided further that "
+"maintaining confidentiality of Device Keys [&hellip;] shall be implemented "
+"by a reasonable method that effectively and uniquely associates those values "
+"with a single device [&hellip;] and that effectively isolates those values "
+"from exposure by mere use of programming instructions or data [&hellip;]; "
+"and, in addition, <strong>in every case of implementation in Software, using "
+"techniques of obfuscation clearly designed to effectively disguise and "
+"hamper attempts to discover the approaches used</strong>; and"
+msgstr ""
+"7.6.4.1. se conformer à l'article 7.4 ci-dessus [&hellip;], à la condition "
+"supplémentaire que le maintien de la confidentialité des Clés d'appareil "
+"[&hellip;] soit obligatoirement implémentée par une méthode raisonnable qui "
+"associe ces valeurs de manière efficace et exclusive avec un seul appareil "
+"[&hellip;] et isole efficacement ces valeurs de l'exposition par le simple "
+"usage d'instructions ou de données de programmation ; et de plus, "
+"<strong>dans tous les cas d'implémentation logicielle, en utilisant des "
+"techniques d'obfuscation clairement conçues pour, de manière efficace, "
+"déguiser les approches utilisées et entraver les tentatives de les "
+"découvrir</strong> ; et"
+
+#. type: Content of: <div><div><ul><li><blockquote><p>
+msgid ""
+"7.6.4.2. Be designed so as to perform or ensure checking of the integrity of "
+"its component parts such that unauthorized modifications will be expected to "
+"result in a failure of the implementation to provide the authorized "
+"authentication and/or decryption function. [&hellip;]"
+msgstr ""
+"7.6.4.2. être conçue pour effectuer ou assurer la vérification de "
+"l'intégrité des parties qui la composent de manière que le résultat attendu "
+"de modifications non autorisées soit un échec de l'implémentation à fournir "
+"l'authentification autorisée et/ou la fonction de déchiffrement. [&hellip;]</"
+"p>\n"
+"</blockquote>\n"
+"<p>Texte original en anglais :</p>\n"
+"<blockquote>\n"
+"<p><i>Such implementation shall:<br />\n"
+"7.6.4.1. Comply with Section 7.4 above [&hellip;], provided further that "
+"maintaining confidentiality of Device Keys [&hellip;] shall be implemented "
+"by a reasonable method that effectively and uniquely associates those values "
+"with a single device [&hellip;] and that effectively isolates those values "
+"from exposure by mere use of programming instructions or data [&hellip;]; "
+"and, in addition, <strong>in every case of implementation in Software, using "
+"techniques of obfuscation clearly designed to effectively disguise and "
+"hamper attempts to discover the approaches used</strong>; and<br />\n"
+"7.6.4.2. Be designed so as to perform or ensure checking of the integrity of "
+"its component parts such that unauthorized modifications will be expected to "
+"result in a failure of the implementation to provide the authorized "
+"authentication and/or decryption function. [&hellip;]</i>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "Disabling the player"
+msgstr "Mise hors service du lecteur"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"If the player certificate has been &ldquo;compromised&rdquo; according to "
+"AACS LA, this organization issues a revocation certificate, which is burned "
+"into all new UHD Blu-ray disks as part of a list of all the revocation "
+"certificates issued so far. When playback of a new disk is attempted, the "
+"revocation list is automatically loaded into the drive firmware, and from "
+"then on, the drive refuses to interact with the newly revoked player; <em>it "
+"becomes impossible to play AACS-restricted disks, old ones as well as new "
+"ones</em>. This method is also used by <a href=\"https://wiki.archlinux.org/"
+"title/Blu-ray\">AACS&nbsp;1.0</a> for regular Blu-ray disks. What a nice "
+"backdoor in the drive firmware! This is reminiscent of the <a href=\"/"
+"proprietary/malware-amazon.html#M201210220.1\">Orwellian erasure of "
+"<cite>1984</cite> from users' Swindles by Amazon</a>."
+msgstr ""
+"Si le certificat du lecteur a été « compromis » selon AACS LA, cette "
+"organisation émet un certificat de révocation qui est gravé dans tous les "
+"nouveaux disques Blu-ray UHD, à la suite de tous les certificats de "
+"révocation émis jusque là. Lorsqu'on tente de lire un nouveau disque, la "
+"liste de révocation des chargée automatiquement dans le micrologiciel du "
+"lecteur optique, et par la suite le lecteur optique refuse d'interagir avec "
+"le logiciel de lecture qui vient d'être révoqué ; <em>il devient impossible "
+"de lire des disques chiffrés par AACS, les anciens aussi bien que les "
+"nouveaux</em>. Cette méthode est également utilisée par <a href=\"https://"
+"wiki.archlinux.org/title/Blu-ray\">AACS 1.0</a> pour les Blu-ray ordinaires. "
+"Quelle belle porte dérobée dans le micrologiciel du lecteur optique ! Cela "
+"rappelle l'<a href=\"/proprietary/malware-amazon."
+"html#M201210220.1\">effacement orwellien par Amazon de <cite>1984</cite> sur "
+"les Swindles des utilisateurs</a>."
+
+#. type: Content of: <div><div><ul><li>
+msgid "Tethering"
+msgstr "Dépendance d'un serveur"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"UHD Blu-ray actually uses an &ldquo;enhanced&rdquo; flavor of AACS 2.0/2.1 "
+"that does not allow shipping encryption keys with certified playback "
+"software.  Instead, <a href=\"https://sgx.fail/files/sgx.fail.pdf\">the keys "
+"must be downloaded from a remote server</a>. This makes repeated updates and "
+"internet connections a requirement if the user purchases several UHD Blu-ray "
+"disks over time. Moreover, fetching the encryption keys from a remote server "
+"that users have no control over exposes the user's viewing history."
+msgstr ""
+"Les disques Blu-ray UHD utilisent en fait une variante « améliorée » "
+"d'AACS 2.0/2.1 qui ne permet pas la fourniture de clés de chiffrement avec "
+"les logiciels de lecture certifiés, mais oblige l'utilisateur à les <a href="
+"\"https://sgx.fail/files/sgx.fail.pdf\">télécharger d'un serveur distant</"
+"a>. Ceci rend obligatoire des connexions à Internet et des mises à jour "
+"répétées du logiciel si l'utilisateur achète plusieurs disques Blu-ray UHD "
+"au cours du temps. De plus, la connexion à un serveur distant sur lequel les "
+"utilisateurs n'ont aucun contrôle révèle leur historique de visionnage."
+
+#. type: Content of: <div><p>
+msgid ""
+"In short, the UHD Blu-ray standard is fundamentally incompatible with user "
+"freedom. Therefore, we need to take action to defend this freedom: <a href="
+"\"/philosophy/opposing-drm.html\">we must boycott media, services, and "
+"players that implement AACS or other forms of DRM</a>, and call for "
+"legislation to prohibit these."
+msgstr ""
+"En résumé, le standard Blu-ray UHD est fondamentalement incompatible avec la "
+"liberté des utilisateurs. Nous devons donc mener des actions pour défendre "
+"cette liberté : <a href=\"/philosophy/opposing-drm.html\">nous devons "
+"boycotter les médias, les services et les lecteurs vidéos qui implémentent "
+"l'AACS ou autres formes de DRM</a> et demander des lois qui les interdisent."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Veuillez envoyer les requêtes concernant la FSF et GNU à &lt;<a href="
+"\"mailto:gnu@gnu.org\">gnu@gnu.org</a>&gt;. Il existe aussi <a href=\"/"
+"contact/\">d'autres moyens de contacter</a> la FSF. Les liens orphelins et "
+"autres corrections ou suggestions peuvent être signalés à &lt;<a href="
+"\"mailto:webmasters@gnu.org\">webmasters@gnu.org</a>&gt;."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
+"\"mailto:trad-gnu@april.org\">trad-gnu@april.org</a>&gt;, et sur les "
+"traductions en général à &lt;<a href=\"mailto:web-translators@gnu.org\">web-"
+"translators@gnu.org</a>&gt;. Si vous souhaitez y contribuer, vous trouverez "
+"dans le <a href=\"/server/standards/README.translations.html\">guide de "
+"traduction</a> les infos nécessaires."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2023, 2024 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2023, 2024 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 "
+"International License</a>."
+msgstr ""
+"Cette page peut être utilisée suivant les conditions de la licence <a rel="
+"\"license\" href=\"http://creativecommons.org/licenses/by/4.0/deed.fr"
+"\">Creative Commons attribution 4.0 internationale (CC BY 4.0)</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduction et révision : <a href=\"mailto:trad-gnu&#64;april.org\">trad-"
+"gnu&#64;april.org</a>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Dernière mise à jour :"
