@@ -1,6 +1,5 @@
 # This is -*-makefile-gmake-*-, because we adore GNU make.
-# Copyright (C) 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016,
-#   2017, 2018, 2019, 2020, 2021, 2022, 2023 Free Software Foundation, Inc.
+# Copyright (C) 2007-2024 Free Software Foundation, Inc.
 
 # This file is part of GNUnited Nations.
 
@@ -17,11 +16,11 @@
 # You should have received a copy of the GNU General Public License
 # along with GNUnited Nations.  If not, see <https://www.gnu.org/licenses/>.
 
-########################################################################
-### TRANSLATORS: Rename this file as GNUmakefile and install it in the #
-### root of your project's *Sources* repository.  For details, see the #
-### section "PO Files and Team" in the manual.                         #
-########################################################################
+##########################################################################
+### This is an edited version of GNUmakefile.team found in gnun 1.4, to  #
+### be used in the www-fr Git repo.                                      #
+### For details, see the section "PO and Team" in the GNUN manual.       #
+##########################################################################
 
 ### DEPENDENCIES ###
 # GNU make >= 3.81 (prereleases are OK too)
@@ -50,8 +49,6 @@ MSGCAT := msgcat
 MSGATTRIB := msgattrib
 CVS := cvs
 GIT := git
-# Baz can be used alternatively; its commands are compatible.
-TLA := tla
 # Default period of notifications.
 NOTIFICATION_PERIOD := 7
 # URL specifications; used in notifications to generate URLs of items.
@@ -119,23 +116,20 @@ $(info Repository: $(REPO))
 $(info translations = $(translations))
 MSGMERGEVERBOSE := --verbose
 CVSQUIET :=
-# Applicable for Bzr, Git and Hg.
+# Applicable for Git.
 QUIET := --verbose
 else
 CVSQUIET := -q
 QUIET := --quiet
 endif
 
-# The command to update a CVS repository containing necessary files only.
-# If a new directory or file is needed, they will need to be checked out
-# separately with "cvs update [-d] [NEW_DIR/]NEW_FILE".
+# The command to update a www CVS directory containing necessary files only.
+# This directory can be checked out with mini-www-checkout (which should be
+# on the "scripts" branch of www-fr, but isn't there yet; ask <thg@gnu.org>).
+# If a new directory or file is needed, it should be checked out separately
+# with "cvs update [-d] [NEW_DIR/]NEW_FILE".
 define cvs-update
 $(CVS) $(CVSQUIET) update -P
-endef
-
-# The command to update the Subversion repository.
-define svn-update
-$(SVN) $(CVSQUIET) update
 endef
 
 .PHONY: all
