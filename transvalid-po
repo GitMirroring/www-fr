@@ -4,7 +4,7 @@
 #    transvalid-po -- converts a PO file to HTML and validates both
 
 # SYNOPSIS
-#    transvalid-po [-d] [-m ORIGINAL_FILE] PO_FILE
+#    transvalid-po [-d] [-u] [-m ORIGINAL_FILE] PO_FILE
 #                  (options first)
 
 # DEPENDENCIES
@@ -87,7 +87,8 @@ Usage: transvalid-po [-d] [-m ORIGINAL_FILE] PO_FILE
   entered at the prompt.
 
 Options:
-  -d  Switch for deletion of obsolete messages (default: false)
+  -d  Delete obsolete messages if up to date (default: false)
+  -u  Delete Outdated-Since if up to date (default: false)
   -m ORIGINAL_FILE
       Absolute or relative path to the original HTML
   -V  Display version info and exit
@@ -101,10 +102,10 @@ function close_or_exit () {
 # turns off interactivity and lets the terminal close normally if the script
 # is called from transvalid-batch.
 if test "$batch" == "1"; then
-  exit $1
+  exit $exit_code
 else
   echo -e '\n*** Close the terminal window or press Return.'; read OK
-  test -z "$OK" && exit $1
+  test -z "$OK" && exit $?
 fi
 }
 
@@ -120,13 +121,15 @@ XMLLINT=$(which xmllint) \
 || (echo "!!! xmllint is not installed - exiting."; close_or_exit 1)
 MSGCAT=$(which msgcat) \
 || (echo "!!! msgcat is not installed - exiting."; close_or_exit 1)
+FUZZY_DIFF=$(which gnun-add-fuzzy-diff) \
+|| (echo "!!! gnun-add-fuzzy-diff is not installed - exiting."; close_or_exit 1)
 
 # xhtml1-strict.dtd, html5.dtd and entity definitions (xhtml-lat1.ent,
 # xhtml-special.ent, and xhtml-symbol.ent) are assumed to be in the same
 # directory as the script. Otherwise, specify their path (without a trailing
 # slash).
-DTD=${0%\/*}
-#DTD=/usr/local/share/gnun
+#DTD=${0%\/*}
+DTD=/usr/local/share/gnun
 
 ## Parameters
 
@@ -137,18 +140,17 @@ if test "$p" == "$PPID"; then
   batch=1
 fi
 
-
-# Do not delete obsolete messages and Outdated-Since by default.
-# TODO: split this into 2 functions?
-delobs=0
+delout=1  # Delete Outdated-Since if up to date.
+delobs=0  # Delete obsolete messages.
 
 # Parse the command line.
 OPTIND=1
-while getopts "h?Vdm:" opt; do
+while getopts "h?Vdum:" opt; do
   case "$opt" in
      h | \? ) usage; exit 0 ;;
      V ) version; exit 0 ;;
      d ) delobs=1 ;;
+     u ) delout=1 ;;
      m ) original=$OPTARG ;;
   esac
 done
@@ -198,12 +200,14 @@ function fix_html () {
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="$lang" lang="$lang">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="/layout.min.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/style.fr.css" media="all" />
 EOF
 
   # If this is a templated page, add missing tags and inactivate SSIs.
   if grep 'include virtual="/server/banner\.' "$2" > /dev/null; then
     # Special case of pages with a side menu.
-    if grep '<div class="nav">' "$2" > /dev/null; then
+    if grep '<div class="nav"' "$2" > /dev/null; then
       sed -i -e '/virtual="\/server\/banner\./c</head><body><div>' \
              -e 's/<!--#/<!-- /g' "$2"
     else
@@ -214,10 +218,10 @@ EOF
   else
     # Special case of side-menu includes.
     if grep '<div id="navlinks">' "$2" > /dev/null; then
-      sed -i -e '/charset=utf-8" \/>/ a<title></title></head><body><div>' \
+      sed -i -e '/href="\/style.fr.css"/ a<title></title></head><body><div>' \
              -e '$a</body></html>' "$2"
     else
-      sed -i -e '/charset=utf-8" \/>/ a<title></title></head><body>' \
+      sed -i -e '/href="\/style.fr.css"/ a<title></title></head><body>' \
              -e '$a</body></html>' "$2"
     fi
   fi
@@ -242,10 +246,14 @@ function update_po_header () {
   sed -i "s,\\(Revision-Date: \\).*,\\1$date\\\\n\"," "$1"
 }
 
+function delete_outdated () {
+  sed -i -e '/Outdated-Since/d' $1
+}
+
 function delete_obsolete () {
-# removes Outdated-Since and obsolete strings.
-  sed -i -e '/^"Outdated-Since/d' \
-         -e '/^# |/d' \
+# removes obsolete strings.
+  sed -i -e '/^# |/d' \
+         -e '/^#| /d' \
          -e '/#, fuzzy/ {N; /#, fuzzy\n#~| msgid/d}' \
          -e '/^#~/d'  $1
   sed -i ':a;/^[ \n]*$/{$d;N;ba}' $1
@@ -300,7 +308,7 @@ test "${po#/}" != "$po" || po="$(pwd)"/$po
 poname=${po#*/www*/} && poname=${poname/po\//}
 echo -e "\n=== $poname"
 # Find the common root of www-* and www.
-test "$poname" != "$po" && rootdir=${po%\/www*}
+test "$poname" != "$po" && rootdir=${po%%\/www*}
 
 # Get the language code from the name of the PO.
 lang=${poname%.po}
@@ -313,22 +321,27 @@ fi
 exit_code=0
 
 ## Reformat/validate the PO.
-$MSGCAT -w 79 -o "$po" "$po" || (exit_code=$?;
-echo  1>&2 "!!! $po is not valid."; close_or_exit exit_code=$?)
+$MSGCAT -w 79 -o "$po" "$po" 1>&2 || (exit_code=$?; close_or_exit $exit_code)
 
 if [ "${poname}" != "proprietary/$lang.po" ]; then
 
   # Merge with lang.po if the file is in proprietary/. This assumes that
   # lang.po will be updated.
-  if [[ "$poname" =~ 'proprietary/' ]] && [ -n "$MSGMERGE" ] \
+  if [[ "$poname" =~ 'proprietary/[^/]\+\.po' ]] && [ -n "$MSGMERGE" ] \
   && [ -f "proprietary/$lang.po" ]; then 
-    sed -n '1,/^#. type: Content of: <title>/p' $po > $top 
+    echo "" > $top
+    sed -n '1,/Content-Transfer-Encoding:/p' $po > $top
     $MSGMERGE -N -C ${po%/*.*.po}/$lang.po /dev/null $po -o $merged 
-    sed -i '1,/^#. type: Content of:/d' $merged
-    cat $top $merged > $po
+    sed -i '1,/Content-Transfer-Encoding:/d' $merged
+    if [ -n "$top" ]; then
+      cat $top $merged > $po
+    else
+      mv $merged $po
+    fi
   fi
 
-  check_fuzz "$po" || exit_code=$?
+  check_fuzz "$po" || (exit_code=$?; $FUZZY_DIFF -i "$po";
+    close_or_exit $exit_code)
 
   ## Get the original HTML.
   if test ! -f "$original"; then
@@ -343,9 +356,9 @@ if [ "${poname}" != "proprietary/$lang.po" ]; then
     original=${original#\'}; original=${original%\'}
   fi
 
-  test -s "$original" -a  "${original%.html}" != "$original" \
-  || (echo  1>&2 "!!! $original doesn't exist,
-    is empty or is not an HTML."; close_or_exit 1)
+  test -s "$original" -a  "${original%.html}" != "$original" ||
+    (exit_code=$?; echo 1>&2 "!!! $original doesn't exist,
+    is empty or is not an HTML."; close_or_exit $exit_code)
 
   ## Prepare the po4a "master".
 
@@ -367,29 +380,34 @@ if [ "${poname}" != "proprietary/$lang.po" ]; then
     # manual, is set at 30 to allow proofreading of a partial translation
     # or detection of faulty strings (the default is 80).
     $PO4A_TRANSLATE -f xhtml -M utf-8 -m "$master" -p "$po" -k 0 -L utf-8 \
-        -l "$translation" -a "$add_credits" -a "$add_notes" || exit_code=$?
+        -l "$translation" -a "$add_credits" -a "$add_notes" 2>/dev/null ||
+        (exit_code=$?; close_or_exit $exit_code)
   else
     $PO4A_TRANSLATE -f xhtml -M utf-8 -m "$master" -p "$po" -k 0 -L utf-8 \
-        -l "$translation" || exit_code=$?
+        -l "$translation" 2>/dev/null || (exit_code=$?; close_or_exit $exit_code)
   fi
 
   ## Validate and tweak the HTML.
 
   if test "$po" = "${po%/body-include-2.*.po}"; then
-    $XMLLINT --dtdvalid $DTD/html5.dtd --nonet --noout "$translation" || exit_code=$?
+    $XMLLINT --dtdvalid $DTD/html5.dtd --nonet --noout "$translation" 1>&2 ||
+        (exit_code=$?; close_or_exit $exit_code)
   fi
   make_links_absolute "$translation"
 fi
 
 ## Tweak the PO.
+$HOME/bin/fix-space "$po"
+if test "$delout" == "1"; then
+  delete_outdated "$po"
+fi
 if test "$delobs" == "1"; then
   delete_obsolete "$po"
 fi
 
 # The PO header is updated in transvalid-batch. Uncomment if updating a
 # single PO. Leave commented out if transvalid-po is used for validation only.
-#update_po_header "$po"
+update_po_header "$po"
 
-test "$exit_code" == "0" && echo "    OK"
-
-close_or_exit $exit_code
+echo '    OK'
+exit $exit_code
