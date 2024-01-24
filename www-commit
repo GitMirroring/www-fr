@@ -165,7 +165,7 @@ for s in $batch1 $batch2 $batch3; do
   i=0
   while [ "$i" -lt ${#sfiles[@]} ]; do
     cp ${sfiles[$i]} ../www/${dfiles[$i]}   # copy file from www-team to www
-    cp ${sfiles[$i]} /media/Gnu-local/www/${dfiles[$i]}
+#    cp ${sfiles[$i]} /media/Gnu-local/www/${dfiles[$i]}
     let i=i+1
   done
   if [ -z "$copyonly" ]; then
