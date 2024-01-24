@@ -1,6 +1,6 @@
 # This is -*-makefile-gmake-*-, because we adore GNU make.
-# Copyright (C) 2008, 2009, 2010, 2011, 2012,
-#   2014, 2016 Free Software Foundation, Inc.
+# Copyright (C) 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016,
+#   2017, 2018, 2019, 2020, 2021, 2022, 2023 Free Software Foundation, Inc.
 
 # This file is part of GNUnited Nations.
 
@@ -27,11 +27,7 @@
 # GNU make >= 3.81 (prereleases are OK too)
 # GNU gettext >= 0.16
 # CVS
-# Subversion (if the www-LANG repository is SVN)
-# GNU Bzr (if the www-LANG repository is Bzr)
 # Git (if the www-LANG repository is Git)
-# Mercurial (if the www-LANG repository is Hg)
-# GNU Arch (if the www-LANG repository is Arch)
 
 SHELL = /bin/bash
 
@@ -53,10 +49,7 @@ MSGFMT := msgfmt
 MSGCAT := msgcat
 MSGATTRIB := msgattrib
 CVS := cvs
-SVN := svn
-BZR := bzr
 GIT := git
-HG  := hg
 # Baz can be used alternatively; its commands are compatible.
 TLA := tla
 # Default period of notifications.
@@ -120,14 +113,6 @@ log := "Automatic merge from the master repository."
 pubwmsg := "Warning (%s): \`%s\' does not exist\
 \n    (either obsolete or \`cvsupdate\' in $(wwwdir) needed).\n"
 
-# Determine the VCS.
-REPO := $(shell (test -d CVS && echo CVS) || (test -d .svn && echo SVN) \
-	  || (test -d .bzr && echo Bzr) || (test -d .git && echo Git) \
-	  || (test -d .hg && echo Hg) || (test -d \{arch\} && echo Arch))
-ifndef REPO
-$(error Unsupported Version Control System)
-endif
-
 # For those who love details.
 ifdef VERBOSE
 $(info Repository: $(REPO))
@@ -141,7 +126,9 @@ CVSQUIET := -q
 QUIET := --quiet
 endif
 
-# The command to update the CVS repositories.
+# The command to update a CVS repository containing necessary files only.
+# If a new directory or file is needed, they will need to be checked out
+# separately with "cvs update [-d] [NEW_DIR/]NEW_FILE".
 define cvs-update
 $(CVS) $(CVSQUIET) update -P
 endef
@@ -163,21 +150,7 @@ update-www:
 	@echo Updating the repositories...
 	cd $(wwwdir) && $(cvs-update)
 update-team:
-ifeq ($(REPO),CVS)
-	$(cvs-update)
-else ifeq ($(REPO),SVN)
-	$(svn-update)
-else ifeq ($(REPO),Bzr)
-	$(BZR) pull $(QUIET)
-else ifeq ($(REPO),Git)
 	$(GIT) pull $(QUIET)
-else ifeq ($(REPO),Hg)
-# The "fetch" extension is not guaranteed to be available, and/or
-# enabled in user's ~/.hgrc.
-	$(HG) pull --update $(QUIET)
-else ifeq ($(REPO),Arch)
-	$(TLA) update
-endif
 
 # Synchronize (update) the PO files from the master POTs.
 # The revision of the PO file from ${wwwdir} is used as a possible
@@ -187,34 +160,11 @@ endif
 # Actual synchoronizations are defined as dependencies
 # to enable parallel processing.
 sync: update
-ifeq ($(VCS),yes)
-ifeq ($(REPO),CVS)
-	$(CVS) commit -m $(log)
-else ifeq ($(REPO),SVN)
-	$(SVN) commit -m $(log)
-else ifeq ($(REPO),Bzr)
-# The behavior of `bzr commit' is not very script-friendly: it will
-# exit with an error if there are no changes to commit.
-	if $(BZR) status --versioned --short | grep '^ M' > /dev/null; then \
-	  $(BZR) commit $(QUIET) -m $(log) && $(BZR) push $(QUIET); \
-	else \
-	  true; \
-	fi
-else ifeq ($(REPO),Git)
 # Git (`git commit', to be precise) will exit with an error if there
 # are only untracked files present (a common situation).  Sadly, there
 # doesn't seem to be a decent workaround, so exit status is ignored.
 	-$(GIT) commit --all $(QUIET) -m $(log)
 	$(GIT) push $(QUIET)
-else ifeq ($(REPO),Hg)
-	$(HG) commit $(QUIET) -m $(log) && $(HG) push $(QUIET)
-else ifeq ($(REPO),Arch)
-# Arch is so dumb that it will do a bogus commit (adding another
-# absolutely useless revision) even if there are no changes.
-# Fortunately, the exit status of `tla changes' is sane.
-	$(TLA) changes >/dev/null || $(TLA) commit -s $(log)
-endif
-endif
 
 sync-master :=
 # Sync master compendium when present.
@@ -236,14 +186,15 @@ endif
 endif
 
 # The command to compare PO files; "extracted" comments (including
-# `# type: ...'), old messages, dates are considered insignificant.
+# `# type: ...'), old messages, header msgstr are considered insignificant.
 define cmp-POs
-{ $(MSGATTRIB) --no-obsolete --force-po -w 79 -o $1.tmp.po $1; \
+{ $(MSGATTRIB) --no-obsolete --force-po -w 79 $1 \
+  | sed '1,/^msgstr/{/^msgstr/{:egin;N;/\n\n/d;begin}}' > $1.tmp.po; \
   $(MSGATTRIB) --no-obsolete --force-po -w 79 $2 \
-  | diff $1.tmp.po - | grep '^[<>] ' | egrep -v \
-'^..($$|#\. |# type: |"(POT-Creation-Date|PO-Revision-Date|(X-)?Outdated-Since):)' \
-   > /dev/null; \
-  status=$$?; rm $1.tmp.po; test $$status != 0; }
+  | sed '1,/^msgstr/{/^msgstr/{:egin;N;/\n\n/d;begin}}' \
+  | diff $1.tmp.po - | grep '^[<>] ' | egrep -v '^..($$|#\. |# type: )' \
+  >/dev/null; \
+  status=$$?; $(RM) $1.tmp.po; test $$status != 0; }
 endef
 
 # Merge a file.
@@ -304,21 +255,28 @@ sync-$(1): $(sync-master)
 	    www_po=$(wwwdir)`dirname $1`/po/`basename $1`; comp=; \
 	    if test -f $$$${www_po}; then \
 	      comp="-C $$$$www_po"; \
-	      $$(if $(master), test $$$$file -nt $(master) && ) \
-	      $$(call cmp-POs,$1,$$$${www_po}) \
-	        && echo "$$$${file#./}: Already in sync." \
-	        || { \
-		     echo -n "$$$${file#./}: Merging"; \
-		     $(MSGATTRIB) --no-fuzzy -o $(1)-tmp.www.po $$$$www_po  2>&1; \
-		     $(MSGATTRIB) --fuzzy -o $(1)-tmp.po $1 2>&1; \
-		     if test -s $(1)-tmp.po && test -s $(1)-tmp.www.po; then \
-		       $(MSGCAT) --use-first --more-than=1 \
-			  $(1)-tmp.www.po $(1)-tmp.po 2>&1 \
-		       | $(MSGCAT) --use-first --less-than=2 -o $(1) - $(1); \
-		     fi; \
-		     $(merge-file); \
-		     $(RM) $(1)-tmp.www.po $(1)-tmp.po; \
-		   } \
+	      if $$(if $(master), test $$$$file -nt $(master) &&) \
+	         $$(call cmp-POs,$1,$$$${www_po}); then \
+	        echo "$$$${file#./}: Already in sync."; \
+	      else \
+		echo -n "$$$${file#./}: Merging"; \
+		cp $(1) $(1)-back.po; \
+		$(MSGATTRIB) --no-fuzzy -o $(1)-tmp.www.po $$$$www_po  2>&1; \
+		$(MSGATTRIB) --fuzzy -o $(1)-tmp.po $1 2>&1; \
+		if test -s $(1)-tmp.po && test -s $(1)-tmp.www.po; then \
+		  $(MSGCAT) --use-first --more-than=1 \
+		    $(1)-tmp.www.po $(1)-tmp.po 2>&1 \
+		  | $(MSGCAT) --use-first --less-than=2 -o $(1) - $(1); \
+		fi; \
+		$(merge-file); $(RM) $(1)-tmp.www.po $(1)-tmp.po; \
+		if $$(call cmp-POs,$1,$(1)-back.po); then \
+		  echo "(No significant change; restoring old file)."; \
+		  cp $(1)-back.po $(1); \
+                else \
+		  $$(call cmp-POs,$1,$(1)-back.po); \
+		fi; \
+		$(RM) $(1)-back.po; \
+	      fi; \
 	    else \
 	      echo -n "$$$${file#./}: Merging new translation"; \
 	      $(merge-file); \
