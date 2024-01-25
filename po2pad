@@ -90,7 +90,7 @@ shift $((OPTIND-1))
 [ "$1" = "--" ] && shift
 
 
-echo -e "${0##*\/} - Préparation d'une page HTML pour le pad de traduction\n"
+echo -e "${0##*\/} - Préparation d'un PO ou POT pour le pad de traduction\n"
 
 
 ## File input
