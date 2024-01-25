@@ -145,10 +145,9 @@ if [ -n "$path" -a "$name" != "$file" ]; then
 
   # Make a working copy of the translated pad.
   cp $path $TMP1
-  # Make "\" and "&" inocuous.
+  # Make "\" and "&" innocuous.
   sed -i -e 's,\\,!!ESC!!,g' \
          -e 's,&,!!AMP!!,g' $TMP1
-
 
 ## Link insertion
 
@@ -242,7 +241,8 @@ if [ -n "$path" -a "$name" != "$file" ]; then
     sed -i -e 's,^[0-9]\+ ,msgstr ,' \
            -e '/^msgstr/ s,!!ESC!!,\\,g' \
            -e '/^msgstr/ s,!!AMP!!,\&,g' \
-           -e 's,^msgstr \(.*\)$,msgstr "\1",' \
+           -e 's,^msgstr $,msgstr "",' \
+           -e 's,^msgstr \([^"].*\)$,msgstr "\1",' \
     $TMP3
 
     # Substitute generic data in the POT header (this doesn't affect the PO if
