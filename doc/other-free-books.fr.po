@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: other-free-books.html\n"
-"POT-Creation-Date: 2024-01-23 18:56+0000\n"
-"PO-Revision-Date: 2024-01-23 20:12+0100\n"
+"POT-Creation-Date: 2024-01-31 14:55+0000\n"
+"PO-Revision-Date: 2024-02-01 10:15+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -49,10 +49,6 @@ msgstr "<a href=\"#English\">Livres libres en anglais</a>"
 #. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#Spanish\">Free books in Spanish</a>"
 msgstr "<a href=\"#Spanish\">Livres libres en espagnol</a>"
-
-#. type: Content of: <div><div><p>
-msgid "Newer listings are placed at the top of each list."
-msgstr "Les nouvelles références sont placées en début de liste."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -796,28 +792,24 @@ msgid "978-84-608-8894-9"
 msgstr "978-84-608-8894-9"
 
 #. type: Content of: <table><tr><td>
-msgid ""
-"<a href=\"https://web.archive.org/web/20190917161030/http://libremanuals.net/"
-"bash.html\"> Manual de Referencia de Bash</a>"
-msgstr ""
-"<a href=\"https://web.archive.org/web/20190917161030/http://libremanuals.net/"
-"bash.html\"><cite>Manual de Referencia de Bash</cite></a>"
-
-#. type: Content of: <table><tr><td>
-msgid "Brian Fox &amp; Chet Ramney"
-msgstr "Brian Fox &amp; Chet Ramney"
+msgid "Manual de Referencia de Bash, para Bash&nbsp;5.1"
+msgstr "Manual de Referencia de Bash, para Bash&nbsp;5.1"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"(translation by Jorge Maldonado Ventura, revised by David Arroyo Men&eacute;"
-"ndez)"
+"<a href=\"https://freakspot.net/programas/docs/bash/\">(pdf, html)</a> <a "
+"href=\"https://notabug.org/jorgesumle/bashrefes\">(source)</a>"
 msgstr ""
-"(traduction: Jorge Maldonado Ventura, révisée par David Arroyo Men&eacute;"
-"ndez)"
+"<a href=\"https://freakspot.net/programas/docs/bash/\">(pdf, html)</a> <a "
+"href=\"https://notabug.org/jorgesumle/bashrefes\">(source)</a>"
 
 #. type: Content of: <table><tr><td>
-msgid "978-84-09-01157-5"
-msgstr "978-84-09-01157-5"
+msgid "Brian Fox, Chet Ramey"
+msgstr "Brian Fox, Chet Ramney"
+
+#. type: Content of: <table><tr><td>
+msgid "(translation by Jorge Maldonado Ventura)"
+msgstr "(traduction: Jorge Maldonado Ventura)"
 
 #. type: Content of: <dl><dt>
 msgid ""
@@ -920,3 +912,16 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+#~ msgid "Newer listings are placed at the top of each list."
+#~ msgstr "Les nouvelles références sont placées en début de liste."
+
+#~ msgid ""
+#~ "<a href=\"https://web.archive.org/web/20190917161030/http://libremanuals."
+#~ "net/bash.html\"> Manual de Referencia de Bash</a>"
+#~ msgstr ""
+#~ "<a href=\"https://web.archive.org/web/20190917161030/http://libremanuals."
+#~ "net/bash.html\"><cite>Manual de Referencia de Bash</cite></a>"
+
+#~ msgid "978-84-09-01157-5"
+#~ msgstr "978-84-09-01157-5"
