@@ -80,6 +80,7 @@ function select_message () {
         [3] $message13
         [4] $message14
         [5] $message15
+        [6] $message16
         [other] no commit"
   read -s -n1 choice
   case "$choice" in
