@@ -61,8 +61,8 @@ set -o pipefail
 
 function version () {
 cat <<EOF
-${0##*\/} version 0.2
-Copyright (C) 2013, 2015, 2016, 2019, 2020 Thérèse Godefroy
+${0##*\/} version 0.3
+Copyright (C) 2013, 2015, 2016, 2019, 2020, 2024 Thérèse Godefroy
 You may redistribute and/or modify this script under
 the terms of the GNU General Public License, v.3+
 (because it borrows from GNUN, which is under GPLv3+).
@@ -277,6 +277,20 @@ function make_links_absolute () {
   sed -i 's,href="/,href="http://www.gnu.org/,g' "$1"
 }
 
+function fix_space () {
+  sed -i '
+      s, ;, ;,g
+      s, :, :,g
+      s, !, !,g
+      s, ?, ?,g
+      s, », »,g
+      s,« ,« ,g
+      s,Dernière mise à jour :,Dernière mise à jour :,
+      /^"X-Generator: /d
+      /^"Plural-Forms: /d
+    ' $1
+}
+
 #====================
 
 top=$(mktemp -t tvp.XXXXXX)         || close_or_exit 1
@@ -305,6 +319,7 @@ test "${po#/}" != "$po" || po="$(pwd)"/$po
 
 # Test whether the PO is in a www-related directory (www-team or even
 # www-test or www); remove "po/" from the path in case it is in www.
+podir=${po%/*}
 poname=${po#*/www*/} && poname=${poname/po\//}
 echo -e "\n=== $poname"
 # Find the common root of www-* and www.
@@ -323,26 +338,28 @@ exit_code=0
 ## Reformat/validate the PO.
 $MSGCAT -w 79 -o "$po" "$po" 1>&2 || (exit_code=$?; close_or_exit $exit_code)
 
-if [ "${poname}" != "proprietary/$lang.po" ]; then
+check_fuzz "$po" || (exit_code=$?; $FUZZY_DIFF -i "$po";
+  close_or_exit $exit_code)
 
-  # Merge with lang.po if the file is in proprietary/. This assumes that
-  # lang.po will be updated.
-  if [[ "$poname" =~ 'proprietary/[^/]\+\.po' ]] && [ -n "$MSGMERGE" ] \
-  && [ -f "proprietary/$lang.po" ]; then 
+if [[ "${poname}" =~ "proprietary/$lang.po" ]] && [ -n "$MSGMERGE" ]; then
+  check_fuzz "$po" || (exit_code=$?; $FUZZY_DIFF -i "$p";
+      close_or_exit $exit_code)
+  find "$podir" -maxdepth 1 -name "*.$lang.po" | sed '/menu/d' | sort |
+  while read p; do
     echo "" > $top
-    sed -n '1,/Content-Transfer-Encoding:/p' $po > $top
-    $MSGMERGE -N -C ${po%/*.*.po}/$lang.po /dev/null $po -o $merged 
+    sed -n '1,/Content-Transfer-Encoding:/p' "$p" > $top
+    $MSGMERGE -N -C ${p%/*.*.po}/$lang.po /dev/null "$p" -o $merged
     sed -i '1,/Content-Transfer-Encoding:/d' $merged
     if [ -n "$top" ]; then
-      cat $top $merged > $po
+      cat $top $merged > "$p"
     else
-      mv $merged $po
+      mv $merged "$p"
     fi
-  fi
+  done
+  echo "*** Several malware files need to be validated along with $lang.po.
+    (re)run transvalid-po."; exit 5
 
-  check_fuzz "$po" || (exit_code=$?; $FUZZY_DIFF -i "$po";
-    close_or_exit $exit_code)
-
+else
   ## Get the original HTML.
   if test ! -f "$original"; then
     # Check whether the context is that of www.gnu.org, with the PO in
@@ -397,7 +414,9 @@ if [ "${poname}" != "proprietary/$lang.po" ]; then
 fi
 
 ## Tweak the PO.
-$HOME/bin/fix-space "$po"
+if [ $lang="fr" ]; then
+  fix_space "$po"
+fi
 if test "$delout" == "1"; then
   delete_outdated "$po"
 fi

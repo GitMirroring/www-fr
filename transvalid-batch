@@ -49,8 +49,8 @@ set -o pipefail
 
 function version () {
 cat <<EOF
-${0##*\/} version 0.1
-Copyright (C) 2013, 2015, 2016 Thérèse Godefroy
+${0##*\/} version 0.2
+Copyright (C) 2013, 2015, 2016, 2024 Thérèse Godefroy
 You may redistribute this script and/or modify it under the terms
 of the Creative Commons CC0 license.
 EOF
@@ -130,6 +130,7 @@ function create_valid_list () {
 
   # If www-team is a Git repository, use git diff.
   if [ -d .git ]; then
+    git add .
     # What follows is for fuzzy heads who launch a script from the dashboard
     # without checking which branch they are on.
     # http://makandracards.com/makandra/12107-git-show-current-branch-name-only
@@ -185,6 +186,7 @@ function select_message () {
     [3]         : \"$message3\"
     [4]         : \"$message4\"
     [5]         : \"$message5\"
+    [6]         : \"$message6\"
     [other key] :  no commit"
   read -s -n1 choice
   case "$choice" in
@@ -193,6 +195,7 @@ function select_message () {
     3) message=$message3 ;;
     4) message=$message4 ;;
     5) message=$message5 ;;
+    6) message=$message6 ;;
     *) message= ;;
   esac
 }
@@ -221,7 +224,8 @@ fi
 ## Make the validation list
 
 valid_list=$(mktemp -t tvb.XXXXXX) || close_term 1
-trap 'rm -f "$valid_list"' EXIT
+tmp_list=$(mktemp -t tvb.XXXXXX) || close_term 1
+trap 'rm -f "$valid_list" "$tmp_list"' EXIT
 
 batch_exit_code=0
 create_valid_list
@@ -234,10 +238,20 @@ if [ ! -s "$valid_list" ]; then
   close_term 1
 else
   while read po; do
-    transvalid-po "$teamdir/$po" || batch_exit_code=$?
+    $HOME/bin/transvalid-po "$teamdir/$po" || batch_exit_code=$?
     update_po_header "$teamdir/$po"
   done < "$valid_list"
 
+  if [ "$batch_exit_code" = "5" ]; then
+    batch_exit_code=0
+    create_valid_list
+    grep "proprietary/[^/]\+\.$lang\.po" $valid_list > $tmp_list
+    mv $tmp_list $valid_list
+    while read po; do
+      $HOME/bin/transvalid-po "$teamdir/$po" || batch_exit_code=$?
+      update_po_header "$teamdir/$po"
+    done < "$valid_list"
+  fi
 ## Evaluate the result
 
   if [ "$batch_exit_code" = "0" ]; then
