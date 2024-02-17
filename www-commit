@@ -90,6 +90,7 @@ function select_message () {
     3) message=$message13 ;;
     4) message=$message14 ;;
     5) message=$message15 ;;
+    6) message=$message16 ;;
     *) message= ;;
   esac
 }
