@@ -237,13 +237,15 @@ if [ ! -s "$valid_list" ]; then
     If you use Git, please make sure your changes are staged.\n"
   close_term 1
 else
+  rerun=""
   while read po; do
     $HOME/bin/transvalid-po "$teamdir/$po" || batch_exit_code=$?
     update_po_header "$teamdir/$po"
   done < "$valid_list"
 
-  if [ "$batch_exit_code" = "5" ]; then
+  if [ "$batch_exit_code" = "5" ] && [ !"$rerun" ]; then
     batch_exit_code=0
+    rerun=1
     create_valid_list
     grep "proprietary/[^/]\+\.$lang\.po" $valid_list > $tmp_list
     mv $tmp_list $valid_list
@@ -252,6 +254,7 @@ else
       update_po_header "$teamdir/$po"
     done < "$valid_list"
   fi
+
 ## Evaluate the result
 
   if [ "$batch_exit_code" = "0" ]; then

@@ -356,8 +356,8 @@ if [[ "${poname}" =~ "proprietary/$lang.po" ]] && [ -n "$MSGMERGE" ]; then
       mv $merged "$p"
     fi
   done
-  echo "*** Several malware files need to be validated along with $lang.po.
-    (re)run transvalid-po."; exit 5
+  echo "*** Several malware files need to be validated along with $lang.po;
+    (re)run transvalid-batch."; exit 5
 
 else
   ## Get the original HTML.
