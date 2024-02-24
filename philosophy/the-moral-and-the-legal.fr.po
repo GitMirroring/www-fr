@@ -1,0 +1,261 @@
+# French translation of https://www.gnu.org/philosophy/the-moral-and-the-legal.html
+# Copyright (C) 2024 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Jean-Christophe Helary, 2024.
+# Thérèse Godefroy <godef.th AT free.fr>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: the-moral-and-the-legal.html\n"
+"POT-Creation-Date: 2024-01-17 11:25+0000\n"
+"PO-Revision-Date: 2024-02-28 12:43+0100\n"
+"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"Language-Team: French <trad-gnu@april.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Content of: <title>
+msgid "The Moral and the Legal - GNU Project - Free Software Foundation"
+msgstr "Le moral et le légal - Projet GNU - Free Software Foundation"
+
+#. type: Content of: <div><h2>
+msgid "The Moral and the Legal"
+msgstr "Le moral et le légal"
+
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "par Richard Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"Every legal issue about free/libre software is at root a moral issue.  "
+"Before we think about the legal level of the issue, we need to understand "
+"the moral level."
+msgstr ""
+"Toute question légale au sujet du logiciel libre est à sa racine une "
+"question morale. Avant de considérer l'aspect légal de la question, il nous "
+"faut comprendre son aspect moral."
+
+#. type: Content of: <div><p>
+msgid ""
+"The legal level is about what current laws require.  When we in the free "
+"software movement make a legal argument, that is what we are arguing about.  "
+"However, the moral level is what matters most&mdash;it is where our goals "
+"come from.  Liberty resides at that level, which is why we also call it "
+"&ldquo;libre&rdquo; software."
+msgstr ""
+"L'aspect légal correspond à ce que la règlementation en vigueur impose. "
+"Lorsque dans le mouvement du logiciel libre nous souhaitons développer un "
+"argument juridique, c'est dans ce cadre que nous le développons. Cependant, "
+"l'aspect moral d'une question est ce qui est le plus important – c'est la "
+"source même de nos objectifs. La liberté réside à ce niveau de "
+"considération, et c'est pour ceci que nous parlons de logiciel « libre »."
+
+#. type: Content of: <div><p>
+msgid ""
+"The two levels are not the same or even parallel.  In general, that <i>X</i> "
+"is currently lawful says nothing about whether <i>X</i> is morally "
+"legitimate, and vice versa.  We might propose to change some laws to better "
+"follow some of our moral ideas."
+msgstr ""
+"Les deux aspects ne sont ni identiques ni même parallèles. D'une manière "
+"générale, affirmer que ‘A’ est légal dans l'état des choses n'est jamais "
+"équivalent à affirmer que ‘A’ est moral, et vice versa. Il nous est possible "
+"de proposer des réformes législatives pour être mieux en capacité de mettre "
+"en pratique nous idées morales."
+
+#. type: Content of: <div><p>
+msgid ""
+"There is a pervasive tendency, especially in the US, to assume that laws "
+"dictate right and wrong.  If we in the free software movement post articles "
+"or letters that discuss only the legal level, readers will tend to assume we "
+"agree with that assumption&mdash;that what we judge by is legality above "
+"all, so that if an action is lawful we are unable to criticize it."
+msgstr ""
+"Aux États-Unis en particulier, il est très courant de penser que le droit "
+"détermine ce qui est bien et ce qui est mal. Si, dans le mouvement du "
+"logiciel libre, nos articles ou bulletins ne contenaient que des discussions "
+"sur des questions légales, notre lectorat pourrait présumer que nous sommes "
+"en accord avec ce postulat, c'est-à-dire que nous jugeons en priorité du "
+"caractère légal des questions et que nous nous mettons dans l'incapacité de "
+"critiquer une action si elle est légale."
+
+#. type: Content of: <div><p>
+msgid ""
+"Since our overall purpose is to end the lawful but unjust computing "
+"practices (nonfree software and <a href=\"/philosophy/who-does-that-server-"
+"really-serve.html\">SaaSS</a>)  because we judge morally that they are "
+"unjust, we must show we do not define morality as &ldquo;not breaking any "
+"laws.&rdquo; We need to keep reminding the public to pay attention to the "
+"deeper level, which is the moral level.  If, in a communication, we focus on "
+"the shallow aspects alone, we miss an opportunity to show the public our "
+"deeper message.  Because some readers are interested only in the legalities, "
+"we must show we don't consider those to be paramount."
+msgstr ""
+"Puisque notre objectif global est de mettre fin à des pratiques "
+"informatiques légales mais injustes (le logiciel non libre et le <a href=\"/"
+"philosophy/who-does-that-server-really-serve.html\">SaaSS</a> – service se "
+"substituant au logiciel), car nous les jugeons injustes sur le plan moral, "
+"nous devons montrer que nous ne définissons pas la moralité comme le fait de "
+"« n'enfreindre aucune loi ». Nous avons besoin de sans cesse rappeler au "
+"public qu'il doit s'intéresser à un aspect plus fondamental, l'aspect moral. "
+"Si dans notre communication nous mettons uniquement l'accent sur la surface "
+"des choses, nous ratons une occasion d'exposer au public le message plus "
+"profond qui est le nôtre. Puisque certains lecteurs ne s'intéressent qu'aux "
+"aspects légaux, nous devons montrer que nous ne considérons pas ces derniers "
+"comme essentiels."
+
+#. type: Content of: <div><p>
+msgid ""
+"In some cases, we contend, morality and legality say opposite things.  In "
+"the US, distributing a program that can break DRM is illegal; the companies "
+"that implement DRM point to this, and hope you will confuse legality with "
+"morality.  We are careful not to get confused that way.  Breaking DRM is "
+"morally admirable; what's immoral is to <em>implement</em> DRM."
+msgstr ""
+"Dans certains cas, à notre avis, la moralité et la légalité disent des "
+"choses opposées. Aux États-Unis, la distribution d'un programme qui peut "
+"casser les DRM est illégale ; les entreprises qui implémentent des DRM "
+"mettent ceci en avant et espèrent que vous confondrez légalité et moralité. "
+"Nous évitons soigneusement de faire cette confusion. Casser des DRM est "
+"moralement admirable ; ce qui est immoral est de les <em>implémenter</em>."
+
+#. type: Content of: <div><p>
+msgid ""
+"In anything we publish, and anything we send to strangers (they might "
+"redistribute it to the public), we have to show that our views about issues "
+"are primarily based on the moral level.  Even when the immediately crucial "
+"part is at the legal level, we must show how we judge programs, and laws "
+"themselves, at the moral level.  Thus, when people ask whether a program "
+"follows the <i>XYZ</i> law, we can say, &ldquo;We believe it does&mdash;and, "
+"most importantly, it respects users' freedom.&rdquo;"
+msgstr ""
+"Dans tout ce que nous publions et dans tout ce que nous envoyons à des "
+"personnes étrangères à notre mouvement (elles pourraient le redistribuer au "
+"public), nous devons montrer que notre point de vue se base principalement "
+"sur l'aspect moral. Même lorsque c'est l'aspect légal qui est essentiel au "
+"premier abord, nous devons montrer comment nous jugeons les programmes, et "
+"les lois elles-mêmes, sur le plan moral. Ainsi, lorsque des gens demandent "
+"si un programme respecte la loi ‘ABC’, nous pouvons répondre : <i>« Nous "
+"pensons que oui – et surtout, il respecte la liberté des utilisateurs. »</i>"
+
+#. type: Content of: <div><p>
+msgid ""
+"Presenting the two levels in relation to each other is a very good way of "
+"showing them both, and also showing how they are related.  For instance, "
+"when speaking for the FSF, it can be useful to say, &ldquo;Your program "
+"<i>FOO</i> contains part of the source code of <i>GNU BAR</i>&rdquo; (a "
+"legal issue)  &ldquo;and fails to follow the GNU GPL rules&rdquo; (a legal "
+"issue), &ldquo;and that denies other users some of the rights they are "
+"entitled to&rdquo; (the deeper moral issue).  &ldquo;To ensure all users of "
+"code from <i>GNU BAR</i> fully enjoy the <a href=\"/philosophy/free-sw.html"
+"\">four freedoms</a> for it&rdquo; (the goal at the moral level), &ldquo;we "
+"invoke our copyright to require you to stop distributing the code that "
+"way&rdquo; (using legal power as a tool to achieve the moral goal)."
+msgstr ""
+"Présenter ces deux aspects en relation l'un avec l'autre est un très bon "
+"moyen de les mettre tous deux en évidence, et aussi de montrer comment ils "
+"s'articulent. Par exemple, lorsqu'on parle au nom de la FSF, il peut être "
+"utile de dire : <i>« Votre programme ‘Chapi’ contient une partie du code "
+"source de ‘GNU Chapo’ </i>[une question légale]<i>, mais ne se conforme pas "
+"aux règles de la GNU GPL </i>[une question légale]<i>. Cela prive les autres "
+"utilisateurs de certains des droits qu'elle leur confère </i>[la question "
+"morale, plus fondamentale]<i>. Pour faire en sorte que tous les utilisateurs "
+"du code de ‘GNU Chapo’ jouissent sans restriction des <a href=\"/philosophy/"
+"free-sw.html\">quatre libertés</a> qui y sont attachées </i>[l'objectif sur "
+"le plan moral]<i>, nous exigeons en tant que détenteurs du copyright que "
+"vous cessiez de distribuer le code de cette façon </i>[utilisation du "
+"pouvoir juridique comme d'un outil pour atteindre l'objectif moral]<i>. »</i>"
+
+#. type: Content of: <div><p>
+msgid ""
+"That is not the only way to present them both.  In other contexts, not the "
+"FSF, you might need to say something very different.  The main thing is to "
+"remember to talk about the moral level often, so readers realize it is the "
+"deeper and more important of the two levels."
+msgstr ""
+"Ce n'est pas la seule manière de présenter ces deux aspects. Dans d'autres "
+"contextes que celui de la FSF, on devra peut-être dire quelque chose de très "
+"différent. Mais avant tout, n'oublions pas d'évoquer souvent l'aspect moral "
+"pour faire comprendre aux lecteurs que c'est le plus fondamental et le plus "
+"important des deux."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"See also <a href=\"/philosophy/compromise.html\">Avoiding Ruinous "
+"Compromises</a>."
+msgstr ""
+"Voir également <a href=\"/philosophy/compromise.html\">Éviter les compromis "
+"ruineux</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Veuillez envoyer les requêtes concernant la FSF et GNU à &lt;<a href="
+"\"mailto:gnu@gnu.org\">gnu@gnu.org</a>&gt;. Il existe aussi <a href=\"/"
+"contact/\">d'autres moyens de contacter</a> la FSF. Les liens orphelins et "
+"autres corrections ou suggestions peuvent être signalés à &lt;<a href="
+"\"mailto:webmasters@gnu.org\">webmasters@gnu.org</a>&gt;."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
+"\"mailto:trad-gnu@april.org\">trad-gnu@april.org</a>&gt;, et sur les "
+"traductions en général à &lt;<a href=\"mailto:web-translators@gnu.org\">web-"
+"translators@gnu.org</a>&gt;. Si vous souhaitez y contribuer, vous trouverez "
+"dans le <a href=\"/server/standards/README.translations.html\">guide de "
+"traduction</a> les infos nécessaires."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2024 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2024 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Cette page peut être utilisée suivant les conditions de la licence <a rel="
+"\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.fr"
+"\">Creative Commons attribution, pas de modification, 4.0 internationale "
+"(CC BY-ND 4.0)</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"Traduction : Jean-Christophe Helary et Thérèse Godefroy<br /> Révision : <a "
+"href=\"mailto:trad-gnu&#64;april.org\">trad-gnu&#64;april.org</a>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Dernière mise à jour :"
