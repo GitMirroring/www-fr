@@ -285,7 +285,6 @@ function fix_space () {
       s, ?, ?,g
       s, », »,g
       s,« ,« ,g
-      s,Dernière mise à jour :,Dernière mise à jour :,
       /^"X-Generator: /d
       /^"Plural-Forms: /d
     ' $1

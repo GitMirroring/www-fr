@@ -130,9 +130,8 @@ lang=${teamdir##*www-}
 batch1=$(mktemp -t commit.XXXXXX) || exit 1
 batch2=$(mktemp -t commit.XXXXXX) || exit 1
 batch3=$(mktemp -t commit.XXXXXX) || exit 1
-batch4=$(mktemp -t commit.XXXXXX) || exit 1
 d=$(mktemp -t commit.XXXXXX) || exit 1
-trap 'rm -f "$batch1" "$batch2" "$batch3" "$batch4" "$d"' EXIT
+trap 'rm -f "$batch1" "$batch2" "$batch3" "$d"' EXIT
 
 # Get lists of modified POs.
 git dn master master^ > $batch1
