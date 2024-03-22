@@ -49,9 +49,8 @@ mkdir -p $wdir
 function version () {
 cat <<EOF
 ${0##*\/} version 0.11
-Copyright (C) 2013, 2015, 2016 Whoever
 You may redistribute this script and/or modify it under the terms
-of the Creative Commons CC0 license.
+of the Creative Commons Zero.
 EOF
 }
 
