@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: proprietary/\n"
 "POT-Creation-Date: 2023-05-31 14:26+0000\n"
-"PO-Revision-Date: 2024-03-17 13:59+0100\n"
+"PO-Revision-Date: 2024-03-26 18:52+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -2085,16 +2085,18 @@ msgstr ""
 msgid ""
 "Some Xiaomi phones <a href=\"https://www.theguardian.com/world/2021/sep/22/"
 "lithuania-tells-citizens-to-throw-out-chinese-phones-over-censorship-concerns"
-"\">have a malfeature to bleep out phrases that express political views China "
-"does not like</a>. In phones sold in Europe, Xiaomi leaves this deactivated "
-"by default, but has a back door to activate the censorship."
+"\">have a malfeature to bleep out phrases that express political views the "
+"Chinese government does not like</a>. In phones sold in Europe, Xiaomi "
+"leaves this deactivated by default, but has a back door to activate the "
+"censorship."
 msgstr ""
 "Certains téléphones Xiaomi ont une malfonction qui <a href=\"https://www."
 "theguardian.com/world/2021/sep/22/lithuania-tells-citizens-to-throw-out-"
 "chinese-phones-over-censorship-concerns\">supprime par un blip les phrases "
-"exprimant des opinions politiques mal considérées en Chine</a>. Cet outil de "
-"censure est désactivé par défaut dans les téléphones vendus en Europe, mais "
-"Xiaomi a une porte dérobée qui lui permet de l'activer."
+"exprimant des opinions politiques mal considérées par le gouvernement "
+"chinois</a>. Cet outil de censure est désactivé par défaut dans les "
+"téléphones vendus en Europe, mais Xiaomi a une porte dérobée qui lui permet "
+"de l'activer."
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
@@ -3175,11 +3177,11 @@ msgstr ""
 msgid ""
 "<a href=\"https://www.washingtonpost.com/technology/2020/12/18/zoom-helped-"
 "china-surveillance/\"> A Zoom executive carried out snooping and censorship "
-"for China</a>."
+"for the Chinese government</a>."
 msgstr ""
 "<a href=\"https://www.washingtonpost.com/technology/2020/12/18/zoom-helped-"
 "china-surveillance/\">Un dirigeant de Zoom a fait de la surveillance et de "
-"la censure pour le compte de la Chine</a>."
+"la censure pour le compte du gouvernement chinois</a>."
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
@@ -4206,7 +4208,7 @@ msgid ""
 "check will only look for malware (not counting the malware that is <a href="
 "\"/proprietary/malware-apple.html#TOC\">part of the operating system</a>), "
 "but Apple could change that policy step by step.  Or perhaps Apple will "
-"define malware to include any app that China does not like."
+"define malware to include any app that the Chinese government does not like."
 msgstr ""
 "Proposer un service de vérification en option serait légitime et pourrait "
 "avoir son utilité. En revanche, exiger des utilisateurs qu'ils reçoivent "
@@ -4215,7 +4217,7 @@ msgstr ""
 "qui <a href=\"/proprietary/malware-apple.html#TOC\">font partie du système "
 "d'exploitation</a>), mais Apple pourrait modifier cette pratique petit à "
 "petit, ou peut-être inclure parmi les programmes malveillants toute "
-"application qui ne plaît pas à la Chine."
+"application qui ne plaît pas au gouvernement chinois."
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
@@ -6817,8 +6819,8 @@ msgstr ""
 "citer en référence. Si vous en connaissez un, merci de nous en informer."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014-2023 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014-2023 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014-2024 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014-2024 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid ""
@@ -7795,10 +7797,6 @@ msgid ""
 msgstr ""
 "Comme le montre cette page, si vous voulez débarrasser votre ordinateur des "
 "logiciels malveillants, le premier à supprimer est Windows."
-
-#. type: Content of: <div><p>
-msgid "Copyright &copy; 2014-2024 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014-2024 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Proprietary Manipulation - GNU Project - Free Software Foundation"
@@ -9259,6 +9257,10 @@ msgstr ""
 "web/20150721065208/http://www.idroidproject.org/wiki/Status\">de découvrir "
 "un bogue ou « d'exploiter une faille »</a> afin de rendre possible "
 "l'installation d'un système différent."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2014-2023 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014-2023 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Google's Software Is Malware - GNU Project - Free Software Foundation"
@@ -15728,8 +15730,9 @@ msgid "Malware in Online Conferencing"
 msgstr "Malveillance des logiciels de téléconférence"
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2020, 2021, 2022, 2023 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2020-2023 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2020, 2021, 2022, 2023, 2024 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2020-2024 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Amazon's Software Is Malware - GNU Project - Free Software Foundation"
