@@ -151,7 +151,7 @@ update-team:
 # source for missing translations, which covers the case when the
 # coordinator updates the translation directly in `www' repository.
 .PHONY: sync
-# Actual synchoronizations are defined as dependencies
+# Actual synchronizations are defined as dependencies
 # to enable parallel processing.
 sync: update
 # Git (`git commit', to be precise) will exit with an error if there
