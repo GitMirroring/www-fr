@@ -172,6 +172,17 @@ function create_valid_list () {
   esac
 }
 
+function transvalidate () {
+# transvalidates a list of POs if they have been modified.
+  while read po; do
+    $HOME/bin/transvalid-po "$teamdir/$po" || batch_exit_code=$?
+    if [ -d .git ]; then
+      git diff --exit-code --cached --quiet "$teamdir/$po" ||
+        update_po_header "$teamdir/$po"
+    fi
+  done < "$valid_list"
+}
+
 function update_po_header () {
 # updates the revision date.
   date=$(date +'%F %R%z')
@@ -238,10 +249,7 @@ if [ ! -s "$valid_list" ]; then
   close_term 1
 else
   rerun=""
-  while read po; do
-    $HOME/bin/transvalid-po "$teamdir/$po" || batch_exit_code=$?
-    update_po_header "$teamdir/$po"
-  done < "$valid_list"
+  transvalidate
 
   if [ "$batch_exit_code" = "5" ] && [ !"$rerun" ]; then
     batch_exit_code=0
@@ -249,10 +257,7 @@ else
     create_valid_list
     grep "proprietary/[^/]\+\.$lang\.po" $valid_list > $tmp_list
     mv $tmp_list $valid_list
-    while read po; do
-      $HOME/bin/transvalid-po "$teamdir/$po" || batch_exit_code=$?
-      update_po_header "$teamdir/$po"
-    done < "$valid_list"
+    transvalidate
   fi
 
 ## Evaluate the result

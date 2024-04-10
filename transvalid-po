@@ -425,7 +425,7 @@ fi
 
 # The PO header is updated in transvalid-batch. Uncomment if updating a
 # single PO. Leave commented out if transvalid-po is used for validation only.
-update_po_header "$po"
+#update_po_header "$po"
 
 echo '    OK'
 exit $exit_code
