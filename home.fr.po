@@ -4,14 +4,14 @@
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2004, 2008.
 # Matthieu Caneill <matthieu_caneill AT yahoo.fr>, 2011
 # Martin Gubri, 2011
-# Thérèse Godefroy <godef.th AT free.fr>, 2012-2021.
+# Thérèse Godefroy <godef.th AT free.fr>, 2012-2024.
 # Jean-Philippe Mengual <mengualjeanphi AT free.fr>, 2015
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2024-02-21 20:26+0000\n"
-"PO-Revision-Date: 2024-03-03 16:17+0100\n"
+"POT-Creation-Date: 2024-04-16 08:25+0000\n"
+"PO-Revision-Date: 2024-04-16 15:42+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -118,15 +118,12 @@ msgstr "<a href=\"/distros/free-distros.html\">Essayer GNU/Linux</a>"
 
 #. #if expr="$DISTRO = dragora" 
 #. type: Content of: <div><div><div><div><a>
-msgid "<a href=\"/distros/screenshots/dragora-ice.png\">"
-msgstr "<a href=\"/distros/screenshots/dragora-ice.png\">"
+msgid "<a href=\"/distros/screenshots/dragora-tde.jpg\">"
+msgstr "<a href=\"/distros/screenshots/dragora-tde.png\">"
 
 #. type: Attribute 'alt' of: <div><div><div><div><div><a><img>
-msgid ""
-"&nbsp;[Screenshot of Dragora&nbsp;3.0-beta1 with IceWM window manager]&nbsp;"
-msgstr ""
-"&nbsp;[Capture d'écran de Dragora&nbsp;3.0-beta1 avec le gestionnaire de "
-"fenêtres IceWM]&nbsp;"
+msgid "&nbsp;[Screenshot of Dragora&nbsp;3.0-beta2 with TDE desktop]&nbsp;"
+msgstr "&nbsp;[Capture d'écran de Dragora 3.0-beta2 avec le bureau TDE]&nbsp;"
 
 #. type: Content of: <div><div><div><h3>
 msgid "</a>"
@@ -135,12 +132,11 @@ msgstr "</a>"
 #. type: Content of: <div><div><div><div><p>
 msgid ""
 "<small><a href=\"https://dragora.org/en/index.html\"> Dragora&nbsp;3.0-"
-"beta1</a> with customized <a href=\"https://ice-wm.org/\"> IceWM</a> window "
-"manager</small>"
+"beta2</a> with <a href=\"https://www.trinitydesktop.org/\">TDE</a> desktop</"
+"small>"
 msgstr ""
-"<small><a href=\"https://dragora.org/en/index.html\">Dragora&nbsp;3.0-beta1</"
-"a> avec un gestionnaire de fenêtres <a href=\"https://ice-wm.org/\">IceWM</"
-"a> personnalisé</small>"
+"<small><a href=\"https://dragora.org/en/index.html\">Dragora&nbsp;3.0-beta2</"
+"a> avec le <a href=\"https://www.trinitydesktop.org/\">bureau TDE</a></small>"
 
 #. #endif 
 #. #if expr="$DISTRO = guix" 
@@ -251,8 +247,8 @@ msgid "<a href=\"/home.html?distro=dragora#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=dragora#gnu-linux\">"
 
 #. type: Content of: <div><div><div><div><div><p>
-msgid "<small>Dragora / IceWM</small>"
-msgstr "<small>Dragora / IceWM</small>"
+msgid "<small>Dragora / TDE</small>"
+msgstr "<small>Dragora / TDE</small>"
 
 #. type: Content of: <div><div><div><div><div><a>
 msgid "<a href=\"/home.html?distro=guix#gnu-linux\">"
