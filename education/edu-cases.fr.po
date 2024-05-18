@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-cases.html\n"
-"POT-Creation-Date: 2021-05-26 21:26+0000\n"
-"PO-Revision-Date: 2024-03-03 16:17+0100\n"
+"POT-Creation-Date: 2024-05-18 13:55+0000\n"
+"PO-Revision-Date: 2024-05-18 17:59+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -80,10 +80,12 @@ msgstr ""
 #. type: Content of: <div><div><p>
 msgid ""
 "&nbsp;<a href=\"/education/edu-cases-argentina.html\">Argentina</a>&nbsp; "
-"&nbsp;<a href=\"/education/edu-cases-india.html\">India</a>&nbsp;"
+"&nbsp;<a href=\"/education/edu-cases-india.html\">India</a>&nbsp; &nbsp;<a "
+"href=\"/education/edu-cases-italy.html\">Italy</a>&nbsp;"
 msgstr ""
 "&nbsp;<a href=\"/education/edu-cases-argentina.html\">Argentine</a>&nbsp; "
-"&nbsp;<a href=\"/education/edu-cases-india.html\">Inde</a>&nbsp;"
+"&nbsp;<a href=\"/education/edu-cases-india.html\">Inde</a>&nbsp; &nbsp;<a "
+"href=\"/education/edu-cases-italy.html\">Italie</a>&nbsp;"
 
 #. type: Content of: <div><h3>
 msgid "Argentina"
@@ -139,11 +141,35 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"One of the several thousand schools that migrated completely to Free "
-"Software under the government's project IT@School."
+"One of the several thousand schools that migrated completely to free/libre "
+"software under the government's project <a href=\"https://web.archive.org/"
+"web/20181214064758/https://www.itschool.gov.in/otherprograms.php\"> "
+"IT@School</a>."
 msgstr ""
 "Une école parmi plusieurs milliers qui sont passées complètement au logiciel "
-"libre dans le cadre du projet gouvernemental IT@School."
+"libre dans le cadre du projet gouvernemental <a href=\"https://web.archive."
+"org/web/20181214064758/https://www.itschool.gov.in/otherprograms.php"
+"\">IT@School</a>."
+
+#. type: Content of: <div><h3>
+msgid "Italy"
+msgstr "Italie"
+
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"/education/edu-cases-italy-south-tyrol.html\"> Migration in South "
+"Tyrol</a>"
+msgstr ""
+"<a href=\"/education/edu-cases-italy-south-tyrol.html\">Migration dans le "
+"Tyrol du Sud</a>"
+
+#. type: Content of: <div><p>
+msgid ""
+"All Italian-language schools in the Autonomous Province of Bolzano (South "
+"Tyrol) were migrated to free/libre software."
+msgstr ""
+"Toutes les écoles en langue italienne de la Province autonome de Bolzano "
+"(Tyrol du Sud) sont passées au logiciel libre."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div><div>
@@ -188,10 +214,11 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
-# Pas de changement significatif depuis 2011.
+# Pas de changement significatif en 2016, 2020 et 2021.
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2016, 2020, 2021 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2011, 2016, 2020, 2021, 2024 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2024 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
