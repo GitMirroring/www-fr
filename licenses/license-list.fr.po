@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: license-list.html\n"
-"POT-Creation-Date: 2024-06-11 15:26+0000\n"
-"PO-Revision-Date: 2024-06-11 18:26+0200\n"
+"POT-Creation-Date: 2024-10-13 20:55+0000\n"
+"PO-Revision-Date: 2024-10-14 21:00+0200\n"
 "Last-Translator: Thérèse godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -3440,11 +3440,10 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid ""
 "Of course, we urge you to avoid using nonfree software licenses, and to "
-"avoid nonfree software in general."
+"avoid using nonfree programs."
 msgstr ""
 "Bien entendu, nous vous demandons instamment d'éviter l'usage de licences de "
-"logiciel non libre et aussi, plus généralement, l'usage de logiciels non "
-"libres."
+"logiciel non libres et de programmes non libres."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -3896,14 +3895,22 @@ msgstr ""
 msgid ""
 "This is not a free software license, because it <a href=\"/philosophy/"
 "programs-must-not-limit-freedom-to-run.html\">restricts what jobs users can "
-"use the software for</a>.  That denies freedom 0.  This entry was previously "
-"listed as the First Do No Harm license."
+"use the software for</a>.  That denies freedom 0.  Please don't use this "
+"license, and we urge you to avoid any software that has been released under "
+"it."
 msgstr ""
 "La « licence hippocratique » n'est pas une licence de logiciel libre, car "
 "elle <a href=\"/philosophy/programs-must-not-limit-freedom-to-run.html"
 "\">restreint les types de travaux que peut faire l'utilisateur avec le "
-"programme</a>. Cela lui enlève la liberté 0. Cette licence était auparavant "
-"répertoriée sous le nom de <i>First Do No Harm license</i>."
+"programme</a>. Cela lui enlève la liberté 0. N'utilisez pas cette licence "
+"et, s'il vous plaît, évitez absolument d'utiliser les logiciels publiés sous "
+"cette licence."
+
+#. type: Content of: <div><dl><dd><p>
+msgid "This entry was previously listed as the First Do No Harm license."
+msgstr ""
+"Cette licence était auparavant répertoriée sous le nom de <i>First Do No "
+"Harm license</i> (avant tout, évitez de nuire)."
 
 #. type: Content of: <div><dl><dt>
 msgid ""
@@ -3927,7 +3934,9 @@ msgstr ""
 
 #. type: Content of: <div><dl><dd><ul><li>
 msgid "It permits use only in &ldquo;normal circumstances&rdquo;."
-msgstr "elle ne permet l'utilisation que dans des « circonstances normales » ;"
+msgstr ""
+"elle ne permet l'utilisation du programme que dans des « circonstances "
+"normales » ;"
 
 #. type: Content of: <div><dl><dd><ul><li>
 msgid "It does not allow distribution of source code without binaries."
@@ -3936,6 +3945,14 @@ msgstr "elle ne permet pas la distribution du code source sans les binaires ;"
 #. type: Content of: <div><dl><dd><ul><li>
 msgid "Its permissions lapse after 50 years."
 msgstr "ses permissions sont caduques après 50 ans."
+
+#. type: Content of: <div><dl><dd><p>
+msgid ""
+"Please don't use this license, and we urge you to avoid any software that "
+"has been released under it."
+msgstr ""
+"N'utilisez pas cette licence et, s'il vous plaît, évitez absolument "
+"d'utiliser les logiciels publiés sous cette licence."
 
 #. type: Content of: <div><dl><dt>
 msgid ""
@@ -3951,12 +3968,15 @@ msgstr ""
 msgid ""
 "This is not a free software license, because it <a href=\"/licenses/hessla."
 "html\">restricts what jobs people can use the software for, and restricts in "
-"substantive ways what jobs modified versions of the program can do</a>."
+"substantive ways what jobs modified versions of the program can do</a>.  "
+"Please don't use this license, and we urge you to avoid any software that "
+"has been released under it."
 msgstr ""
 "Ce n'est pas une licence de logiciel libre, car elle <a href=\"/licenses/"
-"hessla.html\">restreint les utilisations du logiciel et également, de "
-"manière importante, les utilisations possibles des versions modifiées du "
-"logiciel</a>."
+"hessla.html\">restreint les usages du logiciel et également, de manière "
+"importante, les usages possibles de ses versions modifiées</a>. N'utilisez "
+"pas cette licence et, s'il vous plaît, évitez absolument d'utiliser les "
+"logiciels publiés sous cette licence."
 
 #. type: Content of: <div><dl><dt>
 msgid ""
@@ -4062,10 +4082,12 @@ msgstr ""
 #. type: Content of: <div><dl><dd><p>
 msgid ""
 "Microsoft has other licenses which it describes as &ldquo;Shared "
-"Source&rdquo;, some of which have different restrictions."
+"Source&rdquo;, some of which have different restrictions.  Thus, &ldquo;"
+"Shared Source&rdquo; is too vague to draw moral conclusions from."
 msgstr ""
 "Microsoft a d'autres licences qu'elle décrit comme <em>Shared Source</em>, "
-"parmi lesquelles certaines ont diverses restrictions."
+"parmi lesquelles certaines ont diverses restrictions. Ainsi, the terme "
+"<em>Shared Source</em> est trop vague pour en tirer des conclusions morales."
 
 #. type: Content of: <div><dl><dt>
 msgid ""
@@ -4150,7 +4172,7 @@ msgstr ""
 "versions, ce qui signifie que les permissions données auparavant peuvent "
 "être retirées."
 
-#. type: Content of: <div><dl><dd>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "There might be additional fatal flaws; after seeing this many, we stopped "
 "looking for more."
@@ -5674,10 +5696,9 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
-# Pas de changement significatif 2022-2024.
 #. type: Content of: <div><p>
 msgid "Copyright &copy; 1999-2024 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 1999-2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1999-2021, 2024 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
