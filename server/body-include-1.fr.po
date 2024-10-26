@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-1.html\n"
-"POT-Creation-Date: 2024-09-09 16:57+0000\n"
+"POT-Creation-Date: 2024-10-26 05:55+0000\n"
 "PO-Revision-Date: 2024-07-22 11:49+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -78,19 +78,21 @@ msgstr ""
 "Software Foundation</a></small>"
 
 #. type: Content of: <div><div><div><a>
+msgid "<a href=\"//www.gnu.org/cgi-bin/estseek.cgi\">"
+msgstr "<a href=\"//www.gnu.org/cgi-bin/estseek.cgi\">"
+
+#. type: Attribute 'alt' of: <div><div><div><a><img>
+msgid "&nbsp;[Search www.gnu.org]&nbsp;"
+msgstr " [Rechercher sur www.gnu.org] "
+
+#. type: Content of: <div><div><div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><div><div><a>
 msgid "<a href=\"#language-container\">"
 msgstr "<a href=\"#language-container\">"
 
 #. type: Attribute 'alt' of: <div><div><div><a><img>
 msgid "&nbsp;[Other languages]&nbsp;"
 msgstr " [Autres langues] "
-
-#. type: Content of: <div><div><div>
-msgid "</a>"
-msgstr "</a>"
-
-#~ msgid "&nbsp;[Search www.gnu.org]&nbsp;"
-#~ msgstr " [Rechercher sur www.gnu.org] "
-
-#~ msgid "<a href=\"//www.gnu.org/cgi-bin/estseek.cgi\">"
-#~ msgstr "<a href=\"//www.gnu.org/cgi-bin/estseek.cgi\">"
