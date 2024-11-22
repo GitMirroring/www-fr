@@ -35,10 +35,10 @@
 #       displayed, the user is prompted to send the list of outdated POs to a
 #       specified address and commit them to the Git repo. This requires
 #       setting the email address and subject line. The message is sent with
-#       Mutt.
+#       Mutt. (This is commented out.)
 #    9. [Git repo only] The up-to-date POs that were copied to www-team are
 #       committed to Git. This could be extended to CVS repos, but the commits
-#       would be irreversible.
+#       would be more difficult to revert.
 #
 #    Requirements:
 #    * www and www-team must have the same parent directory.
@@ -97,6 +97,7 @@ Options:
       The email will be sent with Mutt.
 
   -s "SUBJECT LINE"     [$subject]
+      (optional)
 
   -V  Display version info and exit.
   -h  Display this help and exit.
@@ -149,8 +150,8 @@ if [ -n "$poeditor" ] && [ -z "$(which $poeditor)" ]; then
   echo "*** The specified PO editor is not installed."
   poeditor=""
 fi
-MUTT=$(which mutt) ||
-  echo "*** No email will be sent because Mutt is not installed."
+#MUTT=$(which mutt) ||
+#  echo "*** No email will be sent because Mutt is not installed."
 
 
 ## Functions
@@ -381,15 +382,15 @@ if [ -f ../update-report ]; then
     git add $(< ../update-list)
     # Optionally send the list of outdated POs to the team and commit the POs.
     # (This depends on the workflow.)
-    if [ -n "$MUTT" ] && [[ "$address" == *@* ]] && [ -n "$subject" ]; then
-      echo -e "\n*** Send the report to the mailing list and commit the POs?
-          \"Yes\" = [Enter]    \"No\" = any other key\n"
-      read -s -n1 OK
-      if test -z "$OK";  then
-        $MUTT -s "[cvs-sync] $subject" -i ../update-report -- $address < "."
-        git commit -m "$subject" $(< ../update-list)
-      fi
-    fi
+#    if [ -n "$MUTT" ] && [[ "$address" == *@* ]] && [ -n "$subject" ]; then
+#      echo -e "\n*** Send the report to the mailing list and commit the POs?
+#          \"Yes\" = [Enter]    \"No\" = any other key\n"
+#      read -s -n1 OK
+#      if test -z "$OK";  then
+#        $MUTT -s "[cvs-sync] $subject" -i ../update-report -- $address < "."
+#        git commit -m "$subject" $(< ../update-list)
+#      fi
+#    fi
   fi
 else
   echo -e "\n*** No new outdated PO."
