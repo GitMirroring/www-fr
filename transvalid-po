@@ -142,16 +142,19 @@ fi
 
 delout=1  # Delete Outdated-Since if up to date.
 delobs=0  # Delete obsolete messages.
+rerun=0   # First run of transvalid-batch.
 
 # Parse the command line.
 OPTIND=1
-while getopts "h?Vdum:" opt; do
+
+while getopts "h?Vdum:r" opt; do
   case "$opt" in
      h | \? ) usage; exit 0 ;;
      V ) version; exit 0 ;;
      d ) delobs=1 ;;
      u ) delout=1 ;;
      m ) original=$OPTARG ;;
+     r ) rerun=1 ;;
   esac
 done
 shift $((OPTIND-1))
@@ -340,23 +343,25 @@ $MSGCAT -w 79 -o "$po" "$po" 1>&2 || (exit_code=$?; close_or_exit $exit_code)
 check_fuzz "$po" || (exit_code=$?; $FUZZY_DIFF -i "$po";
   close_or_exit $exit_code)
 
-if [[ "${poname}" =~ "proprietary/$lang.po" ]] && [ -n "$MSGMERGE" ]; then
-  check_fuzz "$po" || (exit_code=$?; $FUZZY_DIFF -i "$p";
-      close_or_exit $exit_code)
-  find "$podir" -maxdepth 1 -name "*.$lang.po" | sed '/menu/d' | sort |
-  while read p; do
-    echo "" > $top
-    sed -n '1,/Content-Transfer-Encoding:/p' "$p" > $top
-    $MSGMERGE -N -C ${p%/*.*.po}/$lang.po /dev/null "$p" -o $merged
-    sed -i '1,/Content-Transfer-Encoding:/d' $merged
-    if [ -n "$top" ]; then
-      cat $top $merged > "$p"
-    else
-      mv $merged "$p"
-    fi
-  done
-  echo "*** Several malware files need to be validated along with $lang.po;
+if [[ "${poname}" =~ "proprietary/$lang.po" ]]; then
+  if [ "$rerun" = "0" ] && [ -n "$MSGMERGE" ]; then
+    check_fuzz "$po" || (exit_code=$?; $FUZZY_DIFF -i "$p";
+        close_or_exit $exit_code)
+    find "$podir" -maxdepth 1 -name "*.$lang.po" | sed '/menu/d' | sort |
+    while read p; do
+      echo "" > $top
+      sed -n '1,/Content-Transfer-Encoding:/p' "$p" > $top
+      $MSGMERGE -N -C ${p%/*.*.po}/$lang.po /dev/null "$p" -o $merged
+      sed -i '1,/Content-Transfer-Encoding:/d' $merged
+      if [ -n "$top" ]; then
+        cat $top $merged > "$p"
+      else
+        mv $merged "$p"
+      fi
+    done
+    echo "*** Several malware files need to be validated along with $lang.po;
     (re)run transvalid-batch."; exit 5
+  fi
 
 else
   ## Get the original HTML.

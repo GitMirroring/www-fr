@@ -174,8 +174,13 @@ function create_valid_list () {
 
 function transvalidate () {
 # transvalidates a list of POs if they have been modified.
+  if [ "$rerun" = "1" ]; then
+    TRANSVALID="$HOME/bin/transvalid-po -r"
+  else
+    TRANSVALID="$HOME/bin/transvalid-po"
+  fi
   while read po; do
-    $HOME/bin/transvalid-po "$teamdir/$po" || batch_exit_code=$?
+    $TRANSVALID "$teamdir/$po" || batch_exit_code=$?
     if [ -d .git ]; then
       git diff --exit-code --cached --quiet "$teamdir/$po" ||
         update_po_header "$teamdir/$po"
@@ -243,19 +248,19 @@ create_valid_list
 
 ## Transvalidate the POs
 
+rerun=0
 if [ ! -s "$valid_list" ]; then
   echo -e  1>&2 "\n!!! There is no PO to work on.
     If you use Git, please make sure your changes are staged.\n"
   close_term 1
 else
-  rerun=""
   transvalidate
 
-  if [ "$batch_exit_code" = "5" ] && [ !"$rerun" ]; then
-    batch_exit_code=0
+  if [ "$batch_exit_code" = "5" ]; then
     rerun=1
+    batch_exit_code=0
     create_valid_list
-    grep "proprietary/[^/]\+\.$lang\.po" $valid_list > $tmp_list
+    grep "proprietary/[^/]*\.\?$lang\.po" $valid_list > $tmp_list
     mv $tmp_list $valid_list
     transvalidate
   fi
