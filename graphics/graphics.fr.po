@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: graphics.html\n"
-"POT-Creation-Date: 2024-11-18 07:55+0000\n"
-"PO-Revision-Date: 2024-11-18 09:10+0100\n"
+"POT-Creation-Date: 2024-12-06 08:25+0000\n"
+"PO-Revision-Date: 2024-12-06 11:36+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -98,40 +98,44 @@ msgid "all"
 msgstr "tout"
 
 #. type: Content of: <div><form><div><select><option>
-msgid "Gnu head"
-msgstr "tête de GNU"
-
-#. type: Content of: <div><form><div><select><option>
-msgid "Gnu character"
-msgstr "personnage Gnou"
-
-#. type: Content of: <div><form><div><select><option>
-msgid "Tux / Freedo"
-msgstr "Tux / Freedo"
-
-#. type: Content of: <div><form><div><select><option>
-msgid "RMS"
-msgstr "RMS"
-
-#. type: Content of: <div><form><div><select><option>
-msgid "Emacs"
-msgstr "Emacs"
-
-#. type: Content of: <div><form><div><select><option>
-msgid "other free software / FSF"
-msgstr "autres logiciels libres / FSF"
-
-#. type: Content of: <div><form><div><select><option>
-msgid "licenses"
-msgstr "licences"
+msgid "activism"
+msgstr "activisme"
 
 #. type: Content of: <div><form><div><select><option>
 msgid "copyleft"
 msgstr "copyleft"
 
 #. type: Content of: <div><form><div><select><option>
-msgid "proprietary malware"
-msgstr "maliciels du privateur"
+msgid "Emacs"
+msgstr "Emacs"
+
+#. type: Content of: <div><form><div><select><option>
+msgid "free software / FSF"
+msgstr "logiciels libres / FSF"
+
+#. type: Content of: <div><form><div><select><option>
+msgid "Gnu character"
+msgstr "personnage Gnou"
+
+#. type: Content of: <div><form><div><select><option>
+msgid "Gnu head"
+msgstr "tête de GNU"
+
+#. type: Content of: <div><form><div><select><option>
+msgid "licenses"
+msgstr "licences"
+
+#. type: Content of: <div><form><div><select><option>
+msgid "malware"
+msgstr "maliciels"
+
+#. type: Content of: <div><form><div><select><option>
+msgid "RMS"
+msgstr "RMS"
+
+#. type: Content of: <div><form><div><select><option>
+msgid "Tux / Freedo"
+msgstr "Tux / Freedo"
 
 #. #endif 
 #. type: Content of: <div><form><div>
@@ -152,32 +156,32 @@ msgid "ASCII / TTY art"
 msgstr "Format ASCII ou TTY"
 
 #. type: Content of: <div><form><div><select><option>
-msgid "banner"
-msgstr "bannière"
-
-#. type: Content of: <div><form><div><select><option>
 msgid "badge / t-shirt"
 msgstr "badge / t-shirt"
+
+#. type: Content of: <div><form><div><select><option>
+msgid "banner"
+msgstr "bannière"
 
 #. type: Content of: <div><form><div><select><option>
 msgid "button / stamp / sticker"
 msgstr "bouton / timbre / autocollant"
 
 #. type: Content of: <div><form><div><select><option>
-msgid "icon / avatar"
-msgstr "icone / avatar"
-
-#. type: Content of: <div><form><div><select><option>
 msgid "cartoon"
 msgstr "dessin humoristique"
 
 #. type: Content of: <div><form><div><select><option>
-msgid "plastic art"
-msgstr "arts plastiques"
+msgid "icon / avatar"
+msgstr "icone / avatar"
 
 #. type: Content of: <div><form><div><select><option>
 msgid "logo"
 msgstr "logo"
+
+#. type: Content of: <div><form><div><select><option>
+msgid "plastic art"
+msgstr "arts plastiques"
 
 #. type: Content of: <div><form><div><select><option>
 msgid "poster"
@@ -283,6 +287,30 @@ msgid "<small>by Muhammed Omar Ali &amp; Fatamy</small>"
 msgstr "<small>par Muhammed Omar Ali et Fatamy</small>"
 
 #. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/digital-safety-guide.html\">"
+msgstr "<a href=\"/graphics/digital-safety-guide.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid ""
+"&nbsp;[Poster describing the dangers of proprietary software and how to "
+"replace it with free/libre software]&nbsp;"
+msgstr ""
+" [Poster décrivant les dangers du logiciel privateur et comment le remplacer "
+"par du logiciel libre] "
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"<a href=\"/graphics/digital-safety-guide.html\">December 2024: Digital "
+"Safety Guide</a>"
+msgstr ""
+"<a href=\"/graphics/digital-safety-guide.html\">Décembre 2024 : Guide de "
+"sécurité numérique</a>"
+
+#. type: Content of: <table><tr><td>
+msgid "<small>by Jeison Yehuda Amihud</small>"
+msgstr "<small>par Jeison Yehuda Amihud</small>"
+
+#. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/amihud-4-freedoms.html\">"
 msgstr "<a href=\"/graphics/amihud-4-freedoms.html\">"
 
@@ -297,10 +325,6 @@ msgid ""
 msgstr ""
 "<a href=\"/graphics/amihud-4-freedoms.html\">Août 2021 : Poster « Les quatre "
 "libertés »</a>"
-
-#. type: Content of: <table><tr><td>
-msgid "<small>by Jeison Yehuda Amihud</small>"
-msgstr "<small>par Jeison Yehuda Amihud</small>"
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/goschler-its-me-and-gnu.html\">"
@@ -513,6 +537,13 @@ msgstr "<small>par Vijay Kumar</small>"
 msgid "<a href=\"/graphics/amihud-4-freedoms.html\">Four-Freedoms Poster</a>"
 msgstr ""
 "<a href=\"/graphics/amihud-4-freedoms.html\">Poster « Les quatre libertés »</"
+"a>"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"<a href=\"/graphics/digital-safety-guide.html\">Digital Safety Guide</a>"
+msgstr ""
+"<a href=\"/graphics/digital-safety-guide.html\">Guide de sécurité numérique</"
 "a>"
 
 #. type: Content of: <table><tr><td><a>
@@ -2542,3 +2573,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+#~ msgid "proprietary malware"
+#~ msgstr "maliciels du privateur"
