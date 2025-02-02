@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: proprietary/\n"
 "POT-Creation-Date: 2023-05-31 14:26+0000\n"
-"PO-Revision-Date: 2025-01-21 20:57+0100\n"
+"PO-Revision-Date: 2025-02-02 15:18+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -256,6 +256,29 @@ msgstr ""
 "L'UEFI rend les ordinateurs vulnérables à des menaces persistantes "
 "sophistiquées qui sont à peu près impossibles à détecter une fois "
 "installées...</a></strong>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"Google is <a href=\"https://slate.com/technology/2025/01/google-gemini-ai-"
+"workspace-default-opt-in.html\"> forcing its bullshit generator, Gemini, on "
+"many users of Gmail</a> without asking them, and not even offering the users "
+"a way to deactivate it."
+msgstr ""
+"Google <a href=\"https://slate.com/technology/2025/01/google-gemini-ai-"
+"workspace-default-opt-in.html\">impose Gemini, son générateur de conneries, "
+"à de nombreux utilisateurs de Gmail</a> sans leur demander leur avis, ni "
+"même leur proposer un moyen de le désactiver."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"Workplace IT managers, whose employees are forced to use Gmail, can get it "
+"turned off after a laborious procedure, followed by waiting&mdash;the "
+"darkest of dark patterns."
+msgstr ""
+"Les responsables informatiques des entreprises dont les collaborateurs sont "
+"forcés d'utiliser Gmail peuvent faire désactiver Gemini après des démarches "
+"laborieuses suivies d'une attente interminable. C'est le pire des <i>dark "
+"patterns</i>."
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
@@ -8022,9 +8045,9 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2019, 2020, 2021, 2022, 2023, 2024 Free Software "
+"Copyright &copy; 2019, 2020, 2021, 2022, 2023, 2024, 2025 Free Software "
 "Foundation, Inc."
-msgstr "Copyright &copy; 2019-2024 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2019-2025 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Proprietary Subscriptions - GNU Project - Free Software Foundation"
@@ -8374,8 +8397,8 @@ msgstr ""
 "que l'utilisateur n'intervienne pour l'en empêcher."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015-2024 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2015-2024 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2015-2025 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2015-2025 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Malware in Games - GNU Project - Free Software Foundation"
@@ -9445,6 +9468,10 @@ msgstr "Types de malveillance chez Google"
 msgid "<a href=\"#censorship\">Censorship</a>"
 msgstr "<a href=\"#censorship\">Censure</a>"
 
+#. type: Content of: <div><div><div><ul><li>
+msgid "<a href=\"#manipulation\">Manipulation</a>"
+msgstr "<a href=\"#manipulation\">Manipulation</a>"
+
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
 "In Android, <a href=\"https://www.computerworld.com/article/2506557/google-"
@@ -9523,6 +9550,10 @@ msgstr ""
 "Cette section décrit comment certains logiciels de Google importunent ou "
 "harcèlent l'utilisateur, ou bien lui causent des ennuis. Cela ressemble à du "
 "sabotage, mais le mot « sabotage » est trop fort."
+
+#. type: Content of: <div><div><h3>
+msgid "Manipulation"
+msgstr "Manipulation"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -9767,8 +9798,8 @@ msgstr ""
 "clavier</a>, un caractère à la fois."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2017-2024 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2017-2024 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2017-2025 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2017-2025 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Proprietary Obsolescence - GNU Project - Free Software Foundation"
@@ -9827,6 +9858,12 @@ msgid ""
 msgstr ""
 "En même temps, Apple empêche les gens de corriger les problèmes par eux-"
 "mêmes ; c'est la nature du logiciel privateur."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2019, 2020, 2021, 2022, 2023, 2024 Free Software "
+"Foundation, Inc."
+msgstr "Copyright &copy; 2019-2024 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Proprietary Fraud - GNU Project - Free Software Foundation"
@@ -10951,10 +10988,6 @@ msgstr ""
 "l'<a href=\"https://web.archive.org/web/20240308015157/http://www.autosec."
 "org/faq.html\">Automotive Security And Privacy Center</a>."
 
-#. type: Content of: <div><p>
-msgid "Copyright &copy; 2017-2025 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2017-2025 Free Software Foundation, Inc."
-
 #. type: Content of: <title>
 msgid "Proprietary Incompatibility - GNU Project - Free Software Foundation"
 msgstr ""
@@ -11686,10 +11719,6 @@ msgid "<a href=\"#incompatibility\">Incompatibility</a>"
 msgstr "<a href=\"#incompatibility\">Incompatibilité</a>"
 
 #. type: Content of: <div><div><div><ul><li>
-msgid "<a href=\"#manipulation\">Manipulation</a>"
-msgstr "<a href=\"#manipulation\">Manipulation</a>"
-
-#. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#pressuring\">Pressuring</a>"
 msgstr "<a href=\"#pressuring\">Pression sur le client</a>"
 
@@ -11791,10 +11820,6 @@ msgid ""
 msgstr ""
 "Une prison est un système qui censure l'installation de certains programmes "
 "d'application."
-
-#. type: Content of: <div><div><h3>
-msgid "Manipulation"
-msgstr "Manipulation"
 
 #. type: Content of: <div><div><h3>
 msgid "Pressuring"
@@ -12097,6 +12122,10 @@ msgstr ""
 "apps-without-registering-an-apple-id\">nécessaire pour installer ne serait-"
 "ce que des applis gratuites</a>) sans donner une adresse de courriel valide "
 "et recevoir le code de vérification envoyé dessus par Apple."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2015-2024 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2015-2024 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Proprietary Deception - GNU Project - Free Software Foundation"
@@ -14595,10 +14624,6 @@ msgstr ""
 "boingboing.net/2012/12/29/your-cisco-phone-is-listening.html\">instruments "
 "d'espionnage</a>."
 
-#. type: Content of: <div><p>
-msgid "Copyright &copy; 2015-2025 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2015-2025 Free Software Foundation, Inc."
-
 #. type: Content of: <title>
 msgid "Malware in Mobile Devices - GNU Project - Free Software Foundation"
 msgstr "Malveillance des mobiles - Projet GNU - Free Software Foundation"
@@ -16305,3 +16330,6 @@ msgid ""
 msgstr ""
 "<a href=\"/proprietary/articles/uhd-bluray-denies-your-freedom\">Les Blu-ray "
 "Ultra HD piétinent votre liberté</a>"
+
+#~ msgid "Copyright &copy; 2017-2024 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2017-2024 Free Software Foundation, Inc."
