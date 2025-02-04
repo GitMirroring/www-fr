@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: proprietary/\n"
 "POT-Creation-Date: 2023-05-31 14:26+0000\n"
-"PO-Revision-Date: 2025-02-02 15:18+0100\n"
+"PO-Revision-Date: 2025-02-04 15:58+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -235,27 +235,6 @@ msgstr "&ndash; Dernière référence :"
 #. type: Content of: <div><ul><li>
 msgid "</small>"
 msgstr "</small>"
-
-#. type: Content of: <div><p>
-msgid ""
-"<strong><a href=\"/proprietary/articles/uhd-bluray-denies-your-freedom.html"
-"\"> UHD Blu-ray denies your freedom</a> &mdash; The anatomy of an "
-"Authoritarian Subjugation System</strong>"
-msgstr ""
-"<strong><a href=\"/proprietary/articles/uhd-bluray-denies-your-freedom.html"
-"\">Les Blu-ray Ultra HD piétinent votre liberté</a></strong> – anatomie d'un "
-"système autoritaire d'asservissement"
-
-#. type: Content of: <div><p>
-msgid ""
-"<strong><a href=\"/proprietary/proprietary-insecurity.html#uefi-rootkit\"> "
-"UEFI makes computers vulnerable to advanced persistent threats that are "
-"almost impossible to detect once installed...</a></strong>"
-msgstr ""
-"<strong><a href=\"/proprietary/proprietary-insecurity.html#uefi-rootkit\"> "
-"L'UEFI rend les ordinateurs vulnérables à des menaces persistantes "
-"sophistiquées qui sont à peu près impossibles à détecter une fois "
-"installées...</a></strong>"
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
@@ -487,6 +466,21 @@ msgstr ""
 "forcer les développeurs de logiciel privateur à supprimer de petits "
 "désagréments. Mais ne comptez pas sur l'indignation publique pour leur faire "
 "supprimer des maliciels plus lucratifs. Fuyez le logiciel privateur ! "
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<a href=\"/proprietary/uhd-bluray-denies-your-freedom.html\">UHD Blu-ray "
+"disks are encrypted with AACS, one of the worst kinds of DRM</a>.  Playing "
+"them on a PC requires software and hardware that meet stringent proprietary "
+"specifications, which developers can only obtain after signing an agreement "
+"that explicitly forbids them from disclosing any source code."
+msgstr ""
+"<a href=\"/proprietary/uhd-bluray-denies-your-freedom.html\">Les disques Blu-"
+"ray Ultra HD sont chiffrés avec l'AACS, une des pires sortes de DRM</a>. "
+"Pour les lire sur PC, il faut un logiciel et du matériel respectant des "
+"spécifications rigoureuses que les développeurs ne peuvent obtenir qu'après "
+"avoir signé un accord qui interdit explicitement la divulgation du code "
+"source."
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
@@ -8958,21 +8952,6 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
-"<a href=\"/proprietary/uhd-bluray-denies-your-freedom.html\">UHD Blu-ray "
-"disks are encrypted with AACS, one of the worst kinds of DRM</a>.  Playing "
-"them on a PC requires software and hardware that meet stringent proprietary "
-"specifications, which developers can only obtain after signing an agreement "
-"that explicitly forbids them from disclosing any source code."
-msgstr ""
-"<a href=\"/proprietary/uhd-bluray-denies-your-freedom.html\">Les disques Blu-"
-"ray Ultra HD sont chiffrés avec l'AACS, une des pires sortes de DRM</a>. "
-"Pour les lire sur PC, il faut un logiciel et du matériel respectant des "
-"spécifications rigoureuses que les développeurs ne peuvent obtenir qu'après "
-"avoir signé un accord qui interdit explicitement la divulgation du code "
-"source."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
 "The DMCA and the EU Copyright Directive make it <a href=\"https://boingboing."
 "net/2017/11/25/la-la-la-cant-hear-you.html\"> illegal to study how iOS "
 "cr&hellip;apps spy on users</a>, because this would require circumventing "
@@ -9361,6 +9340,10 @@ msgstr ""
 "Les vidéos d'iTunes ont un DRM, ce qui permet à Apple de <a href=\"https://"
 "fr.wikipedia.org/wiki/FairPlay\">décider où ses clients peuvent regarder les "
 "vidéos qu'ils ont achetées</a>."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2014-2025 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014-2025 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Proprietary Tyrants - GNU Project - Free Software Foundation"
@@ -11651,10 +11634,6 @@ msgstr ""
 "L'EFF donne d'autres exemples de <a href=\"https://www.eff.org/"
 "deeplinks/2015/02/who-really-owns-your-drones\">l'utilisation de portes "
 "dérobées</a>."
-
-#. type: Content of: <div><p>
-msgid "Copyright &copy; 2014-2025 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014-2025 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid ""
@@ -16330,6 +16309,3 @@ msgid ""
 msgstr ""
 "<a href=\"/proprietary/articles/uhd-bluray-denies-your-freedom\">Les Blu-ray "
 "Ultra HD piétinent votre liberté</a>"
-
-#~ msgid "Copyright &copy; 2017-2024 Free Software Foundation, Inc."
-#~ msgstr "Copyright &copy; 2017-2024 Free Software Foundation, Inc."
