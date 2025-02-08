@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: proprietary/\n"
 "POT-Creation-Date: 2023-05-31 14:26+0000\n"
-"PO-Revision-Date: 2025-02-04 15:58+0100\n"
+"PO-Revision-Date: 2025-02-08 15:28+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -3886,17 +3886,17 @@ msgstr ""
 msgid ""
 "The Focals eyeglass display, with snooping microphone, has been eliminated.  "
 "Google eliminated it by buying the manufacturer and shutting it down.  It "
-"also <a href=\"https://www.ctvnews.ca/sci-tech/canadian-smart-glasses-going-"
-"offline-weeks-after-company-bought-by-google-1.5042010\">shut down the "
+"also <a href=\"https://www.ctvnews.ca/sci-tech/article/canadian-smart-"
+"glasses-going-offline-weeks-after-company-bought-by-google/\">shut down the "
 "server these devices depend on</a>, which caused the ones already sold to "
 "cease to function."
 msgstr ""
 "Les lunettes connectées Focals, avec leur micro espion, ont été éliminées. "
 "Google les a éliminées en achetant leur fabricant et en le faisant fermer. "
-"Il a également <a href=\"https://www.ctvnews.ca/sci-tech/canadian-smart-"
-"glasses-going-offline-weeks-after-company-bought-by-"
-"google-1.5042010\">arrêté le serveur dont ces appareils dépendaient</a>, ce "
-"qui a mis hors service les lunettes déjà vendues."
+"Il a également <a href=\"https://www.ctvnews.ca/sci-tech/article/canadian-"
+"smart-glasses-going-offline-weeks-after-company-bought-by-google/\">arrêté "
+"le serveur dont ces appareils dépendaient</a>, ce qui a mis hors service les "
+"lunettes déjà vendues."
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
@@ -8914,6 +8914,10 @@ msgstr ""
 "creative-cloud-petition/\">requièrent une connexion périodique à un serveur</"
 "a>."
 
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2016-2025 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2016-2025 Free Software Foundation, Inc."
+
 #. type: Content of: <title>
 msgid "Proprietary DRM - GNU Project - Free Software Foundation"
 msgstr "DRM du logiciel privateur - Projet GNU - Free Software Foundation"
@@ -10704,8 +10708,8 @@ msgstr ""
 "ceci était apparemment intentionnel."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2013, 2015-2024 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2013, 2015-2024 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2013, 2015-2025 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2013, 2015-2025 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid "Malware In Cars - GNU Project - Free Software Foundation"
@@ -14075,13 +14079,14 @@ msgstr ""
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Over 70 brands of network-connected surveillance cameras have <a href="
-"\"http://www.kerneronsec.com/2016/02/remote-code-execution-in-cctv-dvrs-of."
-"html\"> security bugs that allow anyone to watch through them</a>."
+"\"https://web.archive.org/web/20250117130741/http://www.kerneronsec."
+"com/2016/02/remote-code-execution-in-cctv-dvrs-of.html\"> security bugs that "
+"allow anyone to watch through them</a>."
 msgstr ""
 "Plus de 70 modèles de caméras de surveillance connectées au réseau <a href="
-"\"http://www.kerneronsec.com/2016/02/remote-code-execution-in-cctv-dvrs-of."
-"html\">ont des failles de sécurité qui permettent à n'importe qui de s'en "
-"servir pour regarder</a>."
+"\"https://web.archive.org/web/20250117130741/http://www.kerneronsec."
+"com/2016/02/remote-code-execution-in-cctv-dvrs-of.html\">ont des failles de "
+"sécurité qui permettent à n'importe qui de s'en servir pour regarder</a>."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -15855,10 +15860,6 @@ msgstr ""
 "hack/\">Dans les « maisons intelligentes »</a>, on découvre des "
 "vulnérabilités stupides permettant les intrusions."
 
-#. type: Content of: <div><p>
-msgid "Copyright &copy; 2013, 2015-2025 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2013, 2015-2025 Free Software Foundation, Inc."
-
 #. type: Content of: <title>
 msgid "Proprietary Coverups - GNU Project - Free Software Foundation"
 msgstr "Dissimulation privatrice - Projet GNU - Free Software Foundation"
@@ -16309,3 +16310,6 @@ msgid ""
 msgstr ""
 "<a href=\"/proprietary/articles/uhd-bluray-denies-your-freedom\">Les Blu-ray "
 "Ultra HD piétinent votre liberté</a>"
+
+#~ msgid "Copyright &copy; 2013, 2015-2024 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2013, 2015-2024 Free Software Foundation, Inc."
