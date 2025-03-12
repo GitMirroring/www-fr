@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-tyrants.html\n"
-"POT-Creation-Date: 2023-05-30 13:28+0000\n"
-"PO-Revision-Date: 2024-03-13 15:19+0100\n"
+"POT-Creation-Date: 2025-03-11 17:55+0000\n"
+"PO-Revision-Date: 2025-03-12 13:02+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -102,6 +102,46 @@ msgstr ""
 "webmasters@gnu.org\">webmasters@gnu.org</a>&gt; pour nous en informer. Merci "
 "de fournir les URL d'une ou deux références fiables et spécifiques pour "
 "l'étayer."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid "Bungie's Destiny 2 is plagued with two major flaws:"
+msgstr ""
+"Destiny 2 (développé par Bungie Studios) est affligé de deux défauts "
+"majeurs :"
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid ""
+"Like all proprietary tethered games, <a href=\"https://destinytracker.com/"
+"destiny-2/articles/is-destiny-2-down-how-to-check-server-maintenance-and-"
+"downtime\"> it can't be played when the company's servers are offline</a>."
+msgstr ""
+"Comme tous les jeux privateurs ancrés à des serveurs, <a href=\"https://"
+"destinytracker.com/destiny-2/articles/is-destiny-2-down-how-to-check-server-"
+"maintenance-and-downtime\">on ne peut pas y jouer quand les serveurs de la "
+"société sont hors ligne</a>."
+
+#. type: Content of: <div><div><ul><li><ul><li>
+msgid ""
+"Ever since Bungie chose BattlEye as an anti-cheat program, Destiny&nbsp;2 "
+"has been <a href=\"https://areweanticheatyet.com/\"> incompatible with GNU/"
+"Linux</a> <small>[this page can't be viewed without JavaScript]</small>. "
+"Bungie forces Steam Deck users to <a href=\"https://www.pcguide.com/steam-"
+"deck/play-destiny-2/\"> replace SteamOS with Windows, or play from Edge "
+"browser</a>.  This doesn't have to be so, as several other games that use "
+"BattlEye do support GNU/Linux systems. Rather than doing the necessary "
+"adjustments, Bungie forces users to run nonfree software in order to keep an "
+"absolute control over them."
+msgstr ""
+"Depuis que Bungie a choisi BattlEye comme programme anti-triche, Destiny 2 "
+"est <a href=\"https://areweanticheatyet.com/\">incompatible avec GNU/Linux</"
+"a> <small>[cette page ne s'affiche pas sans JavaScript]</small>. Bungie "
+"oblige les utilisateurs à <a href=\"https://www.pcguide.com/steam-deck/play-"
+"destiny-2/\">remplacer SteamOS par Windows ou à jouer à partir du navigateur "
+"Edge</a>. Il y a moyen de faire autrement, car plusieurs autres jeux qui "
+"utilisent BattleEye sont compatibles avec des systèmes GNU/Linux. Plutôt que "
+"de faire les ajustements nécessaires, Bungie force les utilisateurs à "
+"exécuter du logiciel non libre de manière à garder un contrôle absolu sur "
+"eux."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -281,8 +321,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014-2023 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014-2023 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014-2023, 2025 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014-2023, 2025 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -305,3 +345,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
+
+#~ msgid "Copyright &copy; 2014-2023 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2014-2023 Free Software Foundation, Inc."
