@@ -228,6 +228,8 @@ EOF
              -e '$a</body></html>' "$2"
     fi
   fi
+  # For proprietary/all.html
+  sed -i "/<li id='</ {s,<li id='<.*>'>,<li>,}" "$2"
 }
 
 function remove_last_update () {
@@ -344,6 +346,7 @@ check_fuzz "$po" || (exit_code=$?; $FUZZY_DIFF -i "$po";
   close_or_exit $exit_code)
 
 if [[ "${poname}" =~ "proprietary/$lang.po" ]]; then
+  # Don't transvalidate the compendium. Merge it with the other malware files.
   if [ "$rerun" = "0" ] && [ -n "$MSGMERGE" ]; then
     check_fuzz "$po" || (exit_code=$?; $FUZZY_DIFF -i "$p";
         close_or_exit $exit_code)
@@ -410,6 +413,7 @@ else
 
   ## Validate and tweak the HTML.
 
+  # Don't test files that wouldn't pass validation because of SSIs.
   if test "$po" = "${po%/body-include-2.*.po}"; then
     $XMLLINT --dtdvalid $DTD/html5.dtd --nonet --noout "$translation" 1>&2 ||
         (exit_code=$?; close_or_exit $exit_code)
@@ -418,6 +422,7 @@ else
 fi
 
 ## Tweak the PO.
+
 if [ $lang="fr" ]; then
   fix_space "$po"
 fi

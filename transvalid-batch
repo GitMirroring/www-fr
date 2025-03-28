@@ -50,7 +50,7 @@ set -o pipefail
 function version () {
 cat <<EOF
 ${0##*\/} version 0.2
-Copyright (C) 2013, 2015, 2016, 2024 Thérèse Godefroy
+Copyright (C) 2013, 2015, 2016, 2024, 2025 Thérèse Godefroy
 You may redistribute this script and/or modify it under the terms
 of the Creative Commons Attribution license.
 EOF
@@ -92,6 +92,8 @@ teamdir=""
 editor=""
 message=""
 test -s "$conf" && source $conf
+
+TRANSVALID="$HOME/bin/transvalid-po"
 
 # Parse the command line.
 OPTIND=1
@@ -174,13 +176,9 @@ function create_valid_list () {
 
 function transvalidate () {
 # transvalidates a list of POs if they have been modified.
-  if [ "$rerun" = "1" ]; then
-    TRANSVALID="$HOME/bin/transvalid-po -r"
-  else
-    TRANSVALID="$HOME/bin/transvalid-po"
-  fi
   while read po; do
     $TRANSVALID "$teamdir/$po" || batch_exit_code=$?
+    # Update the PO header if the PO has changed (git diff exit code = 1)
     if [ -d .git ]; then
       git diff --exit-code --cached --quiet "$teamdir/$po" ||
         update_po_header "$teamdir/$po"
@@ -259,10 +257,13 @@ else
   if [ "$batch_exit_code" = "5" ]; then
     rerun=1
     batch_exit_code=0
+    # Create a validation list with files in proprietary/, except $lang.po.
     create_valid_list
-    grep "proprietary/[^/]*\.\?$lang\.po" $valid_list > $tmp_list
+    grep "proprietary/[^/]\+\.$lang\.po" $valid_list > $tmp_list
     mv $tmp_list $valid_list
     transvalidate
+    # Add $lang.po to the commit list.
+    sed -i "aproprietary/$lang.po" $valid_list
   fi
 
 ## Evaluate the result
