@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: proprietary/\n"
 "POT-Creation-Date: 2023-05-31 14:26+0000\n"
-"PO-Revision-Date: 2025-05-27 11:37+0200\n"
+"PO-Revision-Date: 2025-05-28 19:23+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -2421,6 +2421,49 @@ msgstr ""
 #. type: Content of: <div><div><h3>
 msgid "Surveillance"
 msgstr "Surveillance"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Microsoft Teams has been <a href=\"https://www.theguardian.com/australia-"
+"news/2025/may/19/nsw-education-department-caught-unaware-after-microsoft-"
+"teams-began-collecting-students-biometric-data\"> collecting voice and face "
+"data</a> from students of an Australian school, to feed the CoPilot chatbot. "
+"It took the school network administrators a whole month to realize what was "
+"happening, and disable this malfeature. It was obviously beyond their "
+"imagination that Microsoft could have <a href=\"https://learn.microsoft.com/"
+"microsoftteams/rooms/voice-and-face-recognition#admin-settings\"> made "
+"biometric data collection the default</a> in Teams!"
+msgstr ""
+"Microsoft Teams a <a href=\"https://www.theguardian.com/australia-news/2025/"
+"may/19/nsw-education-department-caught-unaware-after-microsoft-teams-began-"
+"collecting-students-biometric-data\">collecté les données de reconnaissance "
+"faciale et vocale</a> d'étudiants d'une école australienne pour alimenter le "
+"chatbot CoPilot. Il a fallu un mois entier aux administrateurs système de "
+"l'école pour s'en rendre compte et déactiver cette malfonction. Il ne "
+"pouvaient évidemment pas imaginer que Microsoft pouvait avoir <a href="
+"\"https://learn.microsoft.com/microsoftteams/rooms/voice-and-face-"
+"recognition#admin-settings\">activé la collection de données biométriques "
+"dans la configuration par défaut</a> de Teams !"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Let's hope legislators and regulatory agencies all over the world will "
+"quickly put a stop to this sort of outrageous practice."
+msgstr ""
+"Espérons que les législateurs et les organismes de régulation partout dans "
+"le monde mettront fin rapidement à ce genre de pratiques scandaleuses."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"In any case people would be better off switching to a free-software "
+"replacement such as Jitsi Meet for medium-size groups, or Big Blue Button "
+"for larger ones. Many public instances are available, and groups of users "
+"can also set up their own servers."
+msgstr ""
+"De toute façon, il est préférable d'utiliser un remplaçant libre comme Jitsi "
+"Meet pour les groupes de taille moyenne, ou Big Blue Button pour les groupes "
+"plus nombreux. De nombreuses instances publiques sont disponibles et les "
+"groupes d'utilisateurs pouvent aussi installer leurs propres serveurs."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
@@ -12012,8 +12055,9 @@ msgstr ""
 "logiciel utilisé dans les environnements éducatifs."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2021, 2022, 2023, 2024 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2021-2024 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2021, 2022, 2023, 2024, 2025 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2021-2025 Free Software Foundation, Inc."
 
 #. type: Content of: <title>
 msgid ""
@@ -13071,8 +13115,8 @@ msgid "<a href=\"#SpywareInMobileApps\">Mobile Apps</a>"
 msgstr "<a href=\"#SpywareInMobileApps\">Sur mobile</a>"
 
 #. type: Content of: <div><div><div><ul><li>
-msgid "<a href=\"#SpywareInSkype\">Skype</a>"
-msgstr "<a href=\"#SpywareInSkype\">Skype</a>"
+msgid "<a href=\"#SpywareInSkype\">Online Conferencing</a>"
+msgstr "<a href=\"#SpywareInSkype\">Téléconférence</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 msgid "<a href=\"#SpywareInGames\">Games</a>"
@@ -14257,8 +14301,8 @@ msgstr ""
 "a>)."
 
 #. type: Content of: <div><div><div><h4>
-msgid "Skype"
-msgstr "Skype"
+msgid "Online Conferencing"
+msgstr "Téléconférence"
 
 #. type: Content of: <div><div><div>
 msgid ""
@@ -17025,3 +17069,7 @@ msgid ""
 msgstr ""
 "<a href=\"/proprietary/articles/uhd-bluray-denies-your-freedom\">Les Blu-ray "
 "Ultra HD piétinent votre liberté</a>"
+
+#~ msgid ""
+#~ "Copyright &copy; 2021, 2022, 2023, 2024 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2021-2024 Free Software Foundation, Inc."
