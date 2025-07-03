@@ -2,13 +2,14 @@
 # Copyright (C) 2014 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Sébastien Poher <sbphr @T volted.net>, 2014, 2015.
+# Laurent Lyaudet <laurent.lyaudet@gmail.com>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: loyal-computers.html\n"
 "POT-Creation-Date: 2021-09-05 09:56+0000\n"
-"PO-Revision-Date: 2024-03-29 15:48+0100\n"
-"Last-Translator: Sébastien Poher <sbphr @T volted.net>\n"
+"PO-Revision-Date: 2025-07-03 14:54+0200\n"
+"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -61,7 +62,7 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid "Our tentative definition consists of these principles."
-msgstr "Notre définition provisoire est constituée des principes suivants :"
+msgstr "Notre définition provisoire est constituée des principes suivants :"
 
 #. type: Content of: <div><dl><dt>
 msgid "Installability"
@@ -170,7 +171,7 @@ msgid ""
 "application with DRM that you can't break, denying you effective control "
 "over the software you use to communicate with them."
 msgstr ""
-"Ceci implique que l'ordinateur rejette « l'attestation à distance », c'est-à-"
+"Ceci implique que l'ordinateur rejette « l'attestation à distance », c'est-à-"
 "dire qu'il ne permette pas à d'autres ordinateurs de déterminer, via le "
 "réseau, si votre ordinateur exécute un logiciel précis. L'attestation "
 "distante donne aux sites web le pouvoir de vous obliger à vous y connecter "
@@ -191,7 +192,7 @@ msgid ""
 msgstr ""
 "Nous pouvons nous représenter l'attestation distante comme une combine "
 "globale permettant à n'importe quel site web d'imposer une tivoisation, ou "
-"« verrouillage », du logiciel local que vous utilisez pour vous y connecter. "
+"« verrouillage », du logiciel local que vous utilisez pour vous y connecter. "
 "La tivoisation simple d'un programme empêche les versions modifiées de "
 "fonctionner correctement, ce qui en fait un logiciel privateur. "
 "L'attestation distante empêche les versions modifiées de fonctionner avec "
@@ -317,7 +318,7 @@ msgid ""
 "requirement."
 msgstr ""
 "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/www/philosophy/loyal-"
-"computers.html?r1=1.5&amp;r2=1.6\">Version 1.6</a> : Exigence "
+"computers.html?r1=1.5&amp;r2=1.6\">Version 1.6</a> : Exigence "
 "supplémentaire, la capacité d'installer des logiciels."
 
 #. type: Content of: <div><ul><li>
@@ -327,7 +328,7 @@ msgid ""
 "not a requirement for loyalty."
 msgstr ""
 "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/www/philosophy/loyal-"
-"computers.html?r1=1.4&amp;r2=1.5\">Version 1.5</a> : Une documentation "
+"computers.html?r1=1.4&amp;r2=1.5\">Version 1.5</a> : Une documentation "
 "complète n'est pas une condition de loyauté."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
@@ -393,10 +394,10 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Sébastien Poher<br /> Révision : <a href=\"mailto:trad-"
+"Traduction : Sébastien Poher<br /> Révision : <a href=\"mailto:trad-"
 "gnu@april.org\">trad-gnu@april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Dernière mise à jour :"
+msgstr "Dernière mise à jour :"

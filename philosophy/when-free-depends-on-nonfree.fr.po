@@ -3,14 +3,15 @@
 # This file is distributed under the same license as the original article.
 # Sébastien Poher <sogal@member.fsf.org>, 2016.
 # Thérèse Godefroy <godef.th AT free.fr>, 2016, 2017.
+# Laurent Lyaudet <laurent.lyaudet@gmail.com>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: when-free-depends-on-nonfree.html\n"
 "Report-Msgid-Bugs-To: trad-gnu@april.org\n"
 "POT-Creation-Date: 2021-09-05 10:26+0000\n"
-"PO-Revision-Date: 2024-03-03 16:18+0100\n"
-"Last-Translator: Sébastien Poher <sogal@member.fsf.org>\n"
+"PO-Revision-Date: 2025-07-03 14:54+0200\n"
+"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -62,7 +63,7 @@ msgid ""
 "nonfree program."
 msgstr ""
 "Si l'utilisation du programme libre dépend inévitablement d'un programme "
-"privateur tiers, nous disons que le programme libre est « piégé ». Son code "
+"privateur tiers, nous disons que le programme libre est « piégé ». Son code "
 "est du logiciel libre et vous pouvez donc en copier certaines parties dans "
 "d'autres programmes libres, ce qui donnera de bons résultats, des résultats "
 "éthiques. Mais vous ne devez pas <em>exécuter</em> le programme piégé, car "
@@ -125,7 +126,7 @@ msgstr ""
 "Ce genre de dépendance est simple à concevoir, car elle résulte d'une "
 "situation à un moment donné. À l'instant T, le programme libre P ne pourra "
 "pas s'exécuter sans la plateforme privatrice Q. En termes linguistiques, on "
-"dira que cette relation est « synchronique »."
+"dira que cette relation est « synchronique »."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -175,7 +176,7 @@ msgstr ""
 "vous tentez d'en faire usage sur le long terme, ce qui implique de le mettre "
 "à jour de temps en temps ; ce n'est pas possible sans un logiciel privateur "
 "ou l'équivalent. Ce programme de base de données est piégé dans le temps, "
-"nous pouvons donc dire qu'il est piégé de manière « diachronique », pour "
+"nous pouvons donc dire qu'il est piégé de manière « diachronique », pour "
 "emprunter un autre terme linguistique."
 
 #. type: Content of: <div><p>
@@ -191,13 +192,13 @@ msgid ""
 "rewrote GNU Health to use <a href=\"https://www.tryton.org\">Tryton</a> "
 "instead."
 msgstr ""
-"Par exemple, le programme OpenERP (renommé depuis « Odoo »), bien que libre, "
+"Par exemple, le programme OpenERP (renommé depuis « Odoo »), bien que libre, "
 "est diachroniquement piégé. <a href=\"/software/health/\">GNU Health</a>, "
 "notre logiciel libre de gestion des centres médicaux, utilisait initialement "
 "OpenERP. En 2011, le développeur de GNU Health, Luis Falcón, a découvert que "
 "la mise à jour vers une nouvelle version d'OpenERP nécessitait l'envoi de la "
 "base de données (remplie des données médicales des patients) au serveur "
-"d'OpenERP afin d'être reformatée. C'est du SaaSS : il exige de l'utilisateur "
+"d'OpenERP afin d'être reformatée. C'est du SaaSS : il exige de l'utilisateur "
 "de GNU Health (un centre médical) qu'il confie son système informatique et "
 "ses données à la société développant OpenERP. Plutôt que de s'incliner, "
 "Falcón a réécrit GNU Health afin qu'il utilise <a href=\"https://www.tryton."
@@ -223,7 +224,7 @@ msgstr ""
 "être sûrs que ces données seraient à l'abri des <a href=\"/philosophy/"
 "surveillance-vs-democracy.html\">agences de renseignement de divers pays</a> "
 "ou des crackers de sécurité informatique (<a href=\"https://stallman.org/"
-"articles/on-hacking.html\">merci de ne pas les appeler « hackers »</a>)."
+"articles/on-hacking.html\">merci de ne pas les appeler « hackers »</a>)."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -322,10 +323,10 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Sébastien Poher<br />Révision : <a href=\"mailto:trad-gnu@april."
+"Traduction : Sébastien Poher<br />Révision : <a href=\"mailto:trad-gnu@april."
 "org\">trad-gnu@april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Dernière mise à jour :"
+msgstr "Dernière mise à jour :"

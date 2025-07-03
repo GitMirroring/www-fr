@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the original article.
 # Alexandre Garreau <galex-713 AT galex-713.eu>, 2019.
 # Thérèse Godefroy <godef.th AT free.fr>, 2019.
+# Laurent Lyaudet <laurent.lyaudet@gmail.com>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: upgrade-windows.html\n"
 "POT-Creation-Date: 2025-04-13 15:58+0000\n"
-"PO-Revision-Date: 2025-04-13 18:25+0200\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"PO-Revision-Date: 2025-07-03 14:54+0200\n"
+"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -42,7 +43,7 @@ msgid ""
 "case for Windows. Therefore, we make a different recommendation."
 msgstr ""
 "Dans le monde informatique, on insiste habituellement pour que les "
-"utilisateurs « mettent à niveau » leur installation de Windows (ou autre "
+"utilisateurs « mettent à niveau » leur installation de Windows (ou autre "
 "logiciel non libre) en passant à une version plus récente, de manière à "
 "obtenir des correctifs de sécurité. Cette conclusion se base sur l'hypothèse "
 "que ces programmes sont du logiciel honnête, conçu pour bien traiter "
@@ -59,8 +60,8 @@ msgid ""
 msgstr ""
 "En fait, les nouvelles versions de Windows ont des failles avant même leur "
 "sortie. Elles sont conçues avec différents types de fonctionnalités "
-"malveillantes ; voir « <a href=\"/proprietary/malware-microsoft.html"
-"\">Malveillance des logiciels Microsoft</a> »."
+"malveillantes ; voir « <a href=\"/proprietary/malware-microsoft.html"
+"\">Malveillance des logiciels Microsoft</a> »."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -93,7 +94,7 @@ msgid ""
 "fsf.org/windows\">upgrade to GNU/Linux</a>."
 msgstr ""
 "Notre conseil à ceux qui utilisent une version de Windows, quelle qu'elle "
-"soit : <a href=\"https://www.fsf.org/windows\">passez à GNU/Linux</a>."
+"soit : <a href=\"https://www.fsf.org/windows\">passez à GNU/Linux</a>."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -106,8 +107,8 @@ msgid ""
 msgstr ""
 "L'adaptation des logiciels GNU à n'importe quelle version de Windows (ou à "
 "n'importe quel système de type non GNU) ne fait pas partie de la mission "
-"principale du projet GNU. Nous avons pour slogan « Fonctionne mieux sous GNU/"
-"Linux. » Nous coopérons cependant avec les utilisateurs qui souhaitent "
+"principale du projet GNU. Nous avons pour slogan « Fonctionne mieux sous GNU/"
+"Linux. » Nous coopérons cependant avec les utilisateurs qui souhaitent "
 "continuer à assurer cette adaptation. Pourquoi pas, si ce n'est pas trop "
 "difficile ? Nous n'y sommes pas obligés, mais dans la mesure où c'est "
 "faisable et où cela ne nous empêche pas d'avancer, nous n'avons aucune "
@@ -176,10 +177,10 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Alexandre Garreau<br /> Révision : <a href=\"mailto:trad-"
+"Traduction : Alexandre Garreau<br /> Révision : <a href=\"mailto:trad-"
 "gnu@april.org\">trad-gnu@april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Dernière mise à jour :"
+msgstr "Dernière mise à jour :"

@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the original article.
 # Thérèse Godefroy <godef.th AT free.fr>, 2023.
 # François Ochsenbein, 2023.
-# Laurent Lyaudet, 2023.
+# Laurent Lyaudet <laurent.lyaudet@gmail.com>, 2023, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: tivoization.html\n"
 "POT-Creation-Date: 2025-01-20 10:26+0000\n"
-"PO-Revision-Date: 2025-01-20 11:49+0100\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"PO-Revision-Date: 2025-07-03 14:54+0200\n"
+"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -73,7 +73,7 @@ msgstr ""
 "de distribuer des versions modifiées), car toute personnalisation du "
 "microcode rendra le matériel inutilisable. Ces binaires peuvent cependant "
 "être qualifiés d'<a href=\"/philosophy/free-open-overlap.html\">open source</"
-"a>, parce que le terme « open source » <a href=\"/philosophy/open-source-"
+"a>, parce que le terme « open source » <a href=\"/philosophy/open-source-"
 "misses-the-point.html\">est défini par la manière dont le code source est "
 "traité</a>."
 
@@ -89,11 +89,11 @@ msgid ""
 "loyal</a>."
 msgstr ""
 "L'éditeur du microcode ou le fabricant du matériel peuvent mettre en avant "
-"cette vérification forcée de la signature comme une « fonctionnalité ». "
-"Voici leur argument : votre ordinateur ne démarrera pas (ou sera dépourvu de "
+"cette vérification forcée de la signature comme une « fonctionnalité ». "
+"Voici leur argument : votre ordinateur ne démarrera pas (ou sera dépourvu de "
 "certaines fonctionnalités importantes) si le matériel détecte un microcode "
 "corrompu, donc la tivoïsation protège vos données. Mais nous devrions nous "
-"demander : qui protège-t-elle, et de qui ? Qui est propriétaire de ce "
+"demander : qui protège-t-elle, et de qui ? Qui est propriétaire de ce "
 "verrou ? Qui décide que tel logiciel est bon ou mauvais pour mon activité "
 "informatique ? Si ce n'est pas moi, alors <a href=\"/philosophy/loyal-"
 "computers.html\">cet ordinateur n'est pas loyal</a>."
@@ -109,7 +109,7 @@ msgstr ""
 "La tivoïsation n'est pas un dispositif de sécurité, c'est un piège pour nos "
 "libertés. Elle empêche les utilisateurs de mettre à niveau leur matériel ou "
 "leur microcode et elle leur inspire un faux sentiment de sécurité en donnant "
-"le contrôle exclusif de leur ordinateur à un fournisseur « fiable » de "
+"le contrôle exclusif de leur ordinateur à un fournisseur « fiable » de "
 "microcode, ce qui les force à croire le fournisseur sur parole."
 
 #. type: Content of: <div><p>
@@ -124,7 +124,7 @@ msgstr ""
 "sur le matériel. Il contient souvent des <a href=\"https://libreboot.org/faq."
 "html#intelme\">portes dérobées</a> et des <a href=\"/proprietary/proprietary-"
 "insecurity.html#uefi-rootkit\">vulnérabilités</a> que seul le fournisseur "
-"« de confiance » (lisez « auquel le matériel fait confiance ») est autorisé "
+"« de confiance » (lisez « auquel le matériel fait confiance ») est autorisé "
 "à corriger."
 
 #. type: Content of: <div><p>
@@ -237,10 +237,10 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction et révision : <a href=\"mailto:trad-gnu@april.org\">trad-"
+"Traduction et révision : <a href=\"mailto:trad-gnu@april.org\">trad-"
 "gnu@april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Dernière mise à jour :"
+msgstr "Dernière mise à jour :"

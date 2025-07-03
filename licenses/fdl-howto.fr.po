@@ -4,13 +4,14 @@
 # Benjamin Drieu, 2001.
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2008.
 # Thérèse Godefroy <godef.th AT free.fr>, 2011, 2012.
+# Laurent Lyaudet <laurent.lyaudet@gmail.com>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: fdl-howto.html\n"
 "POT-Creation-Date: 2022-01-02 17:25+0000\n"
-"PO-Revision-Date: 2024-03-03 16:17+0100\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"PO-Revision-Date: 2025-07-03 14:54+0200\n"
+"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -68,10 +69,10 @@ msgid ""
 "files we simply write:"
 msgstr ""
 "Il est suffisant de placer l'avis de licence complet dans le fichier "
-"« principal » de votre document. Par exemple, dans le cas du <cite>Emacs "
+"« principal » de votre document. Par exemple, dans le cas du <cite>Emacs "
 "Lisp Reference Manual</cite>, beaucoup de fichiers sont rassemblés dans "
 "<code>elisp.texi</code>. Nous mettons l'avis complet dans <code>elisp.texi</"
-"code> et nous écrivons simplement dans les autres fichiers :"
+"code> et nous écrivons simplement dans les autres fichiers :"
 
 #. type: Content of: <div><dl><dd><pre>
 #, no-wrap
@@ -186,11 +187,11 @@ msgstr ""
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
-"<b>Traduction :</b><ol>\n"
+"<b>Traduction :</b><ol>\n"
 "<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
 "\">&#8593;</a> \n"
 "@c -*-texinfo-*-\n"
-"@c Ceci est une partie du « Manuel de référence du Lisp de GNU Emacs »\n"
+"@c Ceci est une partie du « Manuel de référence du Lisp de GNU Emacs »\n"
 "@c Copyright (C) 1990, 1991, 1992, 1993, 1994, 1999\n"
 "@c   Free Software Foundation, Inc.\n"
 "@c Voir les conditions de reproduction dans le fichier elisp.texi.</li></ol>"
@@ -256,10 +257,10 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Benjamin Drieu<br /> Révision : <a href=\"mailto:trad-gnu@april."
+"Traduction : Benjamin Drieu<br /> Révision : <a href=\"mailto:trad-gnu@april."
 "org\">trad-gnu@april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Dernière mise à jour :"
+msgstr "Dernière mise à jour :"

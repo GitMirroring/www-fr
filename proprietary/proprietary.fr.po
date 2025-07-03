@@ -2,13 +2,14 @@
 # Copyright (C) 2013 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Thérèse Godefroy <godef.th AT free.fr>, 2013-2024.
+# Laurent Lyaudet <laurent.lyaudet@gmail.com>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary.html\n"
 "POT-Creation-Date: 2025-06-17 08:26+0000\n"
-"PO-Revision-Date: 2025-06-16 21:22+0200\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"PO-Revision-Date: 2025-07-03 14:54+0200\n"
+"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -58,7 +59,7 @@ msgid ""
 "malicious functionalities."
 msgstr ""
 "Cette page vous montrera par des exemples que cette injustice première "
-"conduit souvent à d'autres injustices : les fonctionnalités malveillantes."
+"conduit souvent à d'autres injustices : les fonctionnalités malveillantes."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -353,7 +354,7 @@ msgid ""
 "is not supposed to be in control of the computer where it is installed to "
 "send it commands."
 msgstr ""
-"<em>Porte dérobée :</em>  toute fonctionnalité d'un programme qui permet à "
+"<em>Porte dérobée :</em>  toute fonctionnalité d'un programme qui permet à "
 "un tiers n'ayant pas, en principe, le contrôle de l'ordinateur sur lequel il "
 "est installé de lui envoyer des commandes."
 
@@ -363,15 +364,15 @@ msgid ""
 "functionalities designed to restrict what users can do with the data in "
 "their computers."
 msgstr ""
-"<em>Gestion numérique des restrictions ou « <abbr title=\"Digital "
-"Restrictions Management\">DRM</abbr> » :</em>  fonctionnalités conçues pour "
+"<em>Gestion numérique des restrictions ou « <abbr title=\"Digital "
+"Restrictions Management\">DRM</abbr> » :</em>  fonctionnalités conçues pour "
 "limiter ce que les utilisateurs peuvent faire avec leurs ordinateurs."
 
 #. type: Content of: <div><table><tr><td><ol><li>
 msgid ""
 "<em>Jail:</em>&nbsp; system that imposes censorship on application programs."
 msgstr ""
-"<em>Prison :</em>  système qui impose une censure aux programmes "
+"<em>Prison :</em>  système qui impose une censure aux programmes "
 "d'application."
 
 #. type: Content of: <div><table><tr><td><ol><li>
@@ -379,7 +380,7 @@ msgid ""
 "<em>Tether:</em>&nbsp; functionality that requires permanent (or very "
 "frequent) connection to a server."
 msgstr ""
-"<em>Ancrage :</em>  nécessité d'une connexion fréquente ou permanente à un "
+"<em>Ancrage :</em>  nécessité d'une connexion fréquente ou permanente à un "
 "serveur."
 
 #. type: Content of: <div><table><tr><td><ol><li>
@@ -387,7 +388,7 @@ msgid ""
 "<em>Tyrant:</em>&nbsp; system that rejects any operating system not &ldquo;"
 "authorized&rdquo; by the manufacturer."
 msgstr ""
-"<em>Tyrannie :</em>  rejet de tout système d'exploitation non « autorisé » "
+"<em>Tyrannie :</em>  rejet de tout système d'exploitation non « autorisé » "
 "par le fabricant."
 
 #. type: Content of: <div><p>
@@ -448,7 +449,7 @@ msgstr ""
 "pourraient le reprendre à l'avenir, peut-être avec d'autres méthodes, et "
 "nous ne savons pas combien d'autres entreprises pourraient suivre leur "
 "exemple. Un moyen infaillible d'éviter ce traçage est de ne jamais installer "
-"aucune appli privatrice sur un téléphone « intelligent », particulièrement "
+"aucune appli privatrice sur un téléphone « intelligent », particulièrement "
 "si l'appli a un moyen d'identifier l'utilisateur. Pour éviter les applis "
 "privatrices, nous vous recommandons de substituer le magasin <a href="
 "\"https://f-droid.org/\">F-Droid</a> à Google Play."
@@ -472,8 +473,8 @@ msgid ""
 "defectivebydesign.org/\">Defective by design</a>."
 msgstr ""
 "Denuvo est un système de gestion numérique des restrictions (DRM) qui est "
-"intégré au code de certains jeux pour PC en tant que « solution anti-"
-"piratage ». Mais ce que fait Denuvo en réalité, c'est de rendre les jeux <a "
+"intégré au code de certains jeux pour PC en tant que « solution anti-"
+"piratage ». Mais ce que fait Denuvo en réalité, c'est de rendre les jeux <a "
 "href=\"https://www.defectivebydesign.org/\">défectueux à dessein</a>."
 
 #. type: Content of: <div><ul><li><ul><li>
@@ -532,7 +533,7 @@ msgstr ""
 "Amazon a décidé arbitrairement que <a href=\"https://pluralistic."
 "net/2025/03/15/altering-the-deal/#telescreen\">tous les appareils Echo "
 "enverront désormais tout ce qu'ils entendent aux serveurs d'Amazon</a>, même "
-"si leur « propriétaire » a opté pour le traitement local de l'audio."
+"si leur « propriétaire » a opté pour le traitement local de l'audio."
 
 #. type: Content of: <div><ul><li><p>
 msgid "The server will figure out what (if anything) someone asked it to do."
@@ -563,7 +564,7 @@ msgstr ""
 "Alors que Windows 10 va bientôt devenir obsolète, les utilisateurs dont "
 "l'ordinateur n'est pas assez moderne sont <a href=\"https://www.zdnet.com/"
 "article/cant-upgrade-your-windows-10-pc-here-are-you-options-before-it-all-"
-"ends-in-5-months/\">placés devant un choix injuste</a> : payer pour les "
+"ends-in-5-months/\">placés devant un choix injuste</a> : payer pour les "
 "mises à jour ou acheter un nouvel ordinateur. Mais leur option la meilleure "
 "est de remplacer Windows par un <a href=\"/distros/free-distros.html"
 "\">système d'exploitation libre</a> et jouir de la liberté et de la justice "
@@ -677,10 +678,10 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction et révision : <a href=\"mailto:trad-gnu@april.org\">trad-"
+"Traduction et révision : <a href=\"mailto:trad-gnu@april.org\">trad-"
 "gnu@april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Dernière mise à jour :"
+msgstr "Dernière mise à jour :"

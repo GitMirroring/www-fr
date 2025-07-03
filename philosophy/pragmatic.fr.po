@@ -4,13 +4,14 @@
 # FIRST AUTHOR: ? 2000.
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2008, 2009.
 # Thérèse Godefroy <godef.th AT free.fr>, 2012, 2013.
+# Laurent Lyaudet <laurent.lyaudet@gmail.com>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: pragmatic.html\n"
 "POT-Creation-Date: 2021-08-28 13:56+0000\n"
-"PO-Revision-Date: 2024-03-03 16:18+0100\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"PO-Revision-Date: 2025-07-03 14:54+0200\n"
+"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +25,7 @@ msgstr ""
 
 #. type: Content of: <div><h2>
 msgid "Copyleft: Pragmatic Idealism"
-msgstr "Copyleft : idéalisme pragmatique"
+msgstr "Copyleft : idéalisme pragmatique"
 
 #. type: Content of: <div><address>
 msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
@@ -50,7 +51,7 @@ msgid ""
 "\">encourage free software to spread</a>, replacing proprietary software "
 "that forbids cooperation, and thus make our society better."
 msgstr ""
-"C'est un but idéaliste qui motive mon travail pour le logiciel libre : "
+"C'est un but idéaliste qui motive mon travail pour le logiciel libre : "
 "propager la liberté et la coopération. Je veux <a href=\"/philosophy/why-"
 "copyleft.html\">encourager la diffusion des logiciels libres</a> et le "
 "remplacement des logiciels privateurs<a id=\"TransNote1-rev\" href="
@@ -79,7 +80,7 @@ msgstr ""
 "rendre libres également. Puisque les développeurs de logiciels privateurs "
 "utilisent le copyright pour nous empêcher de partager, j'estime que nous, "
 "coopérateurs, pouvons utiliser le copyright pour donner aux autres "
-"coopérateurs un avantage bien à eux : ils peuvent utiliser notre code."
+"coopérateurs un avantage bien à eux : ils peuvent utiliser notre code."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -89,7 +90,7 @@ msgid ""
 msgstr ""
 "Ceux qui utilisent la GNU GPL n'ont pas tous ce but. Il y a plusieurs "
 "années, on a demandé à l'un de mes amis de republier un programme copylefté "
-"sous des termes non copyleftés, et il a plus ou moins répondu ainsi :"
+"sous des termes non copyleftés, et il a plus ou moins répondu ainsi :"
 
 #. type: Content of: <div><blockquote><p>
 msgid ""
@@ -97,9 +98,9 @@ msgid ""
 "proprietary software&mdash;but when I work on proprietary software, I expect "
 "to get <em>paid</em>.&rdquo;"
 msgstr ""
-"« Parfois je travaille sur des logiciels libres et parfois sur des logiciels "
+"« Parfois je travaille sur des logiciels libres et parfois sur des logiciels "
 "privateurs ; mais quand je travaille sur des logiciels privateurs, je "
-"m'attends à être <em>payé</em>. »"
+"m'attends à être <em>payé</em>. »"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -122,7 +123,7 @@ msgid ""
 msgstr ""
 "Si vous voulez accomplir quelque chose dans le monde, l'idéalisme ne suffit "
 "pas ; le choix d'une méthode qui mène à l'accomplissement de ce but est "
-"nécessaire. En d'autres termes, vous devez être « pragmatique ». La GPL est-"
+"nécessaire. En d'autres termes, vous devez être « pragmatique ». La GPL est-"
 "elle pragmatique ? Regardons ce qu'elle a accompli."
 
 #. type: Content of: <div><p>
@@ -203,9 +204,9 @@ msgstr ""
 "Linux ou tout programme couvert par la GPL) sont souvent employés par des "
 "entreprises ou des universités. Lorsque le programmeur veut remettre son "
 "amélioration à la communauté et voir son code dans la version suivante, il "
-"est possible que son patron lui dise : « Attendez un peu ; votre code nous "
+"est possible que son patron lui dise : « Attendez un peu ; votre code nous "
 "appartient ! Nous ne voulons pas le partager ; nous avons décidé de placer "
-"votre version améliorée dans un logiciel privateur. »"
+"votre version améliorée dans un logiciel privateur. »"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -217,7 +218,7 @@ msgid ""
 msgstr ""
 "C'est à ce moment qu'intervient la GNU GPL. Le programmeur montre à son "
 "patron que ce logiciel privateur serait une violation de copyright, et ce "
-"dernier réalise qu'il ne lui reste que deux possibilités : publier le code "
+"dernier réalise qu'il ne lui reste que deux possibilités : publier le code "
 "en tant que logiciel libre ou pas du tout. Il laisse presque toujours le "
 "programmeur faire ce qu'il voulait initialement et le code est inclus dans "
 "la version suivante."
@@ -230,10 +231,10 @@ msgid ""
 "developers who &ldquo;need to be brought into the free software community."
 "&rdquo;"
 msgstr ""
-"La GNU GPL n'est pas M. Bonne Poire. Elle dit « non » à certaines choses "
+"La GNU GPL n'est pas M. Bonne Poire. Elle dit « non » à certaines choses "
 "qu'on aimerait parfois faire. Certains utilisateurs disent qu'il est dommage "
-"que la GPL « exclue » certains développeurs de logiciels privateurs qui "
-"« auraient besoin d'être amenés à la communauté du logiciel libre »."
+"que la GPL « exclue » certains développeurs de logiciels privateurs qui "
+"« auraient besoin d'être amenés à la communauté du logiciel libre »."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -246,8 +247,8 @@ msgstr ""
 "Mais nous ne les excluons pas de notre communauté ; ils ont choisi de ne pas "
 "y entrer. Décider de concevoir des logiciels privateurs, c'est décider de "
 "rester en dehors de notre communauté. Appartenir à notre communauté signifie "
-"prendre part à notre coopération ; nous ne pouvons pas « les amener à notre "
-"communauté » s'ils ne le désirent pas."
+"prendre part à notre coopération ; nous ne pouvons pas « les amener à notre "
+"communauté » s'ils ne le désirent pas."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -258,8 +259,8 @@ msgid ""
 msgstr ""
 "Ce que nous <em>pouvons</em> faire, c'est les inciter à nous rejoindre. La "
 "GNU GPL est faite pour utiliser comme appâts les logiciels que nous "
-"possédons : « Si vous faites des logiciels libres, vous pourrez utiliser ces "
-"codes. » Bien sûr, cela ne les convaincra pas tous, mais nous en gagnerons "
+"possédons : « Si vous faites des logiciels libres, vous pourrez utiliser ces "
+"codes. » Bien sûr, cela ne les convaincra pas tous, mais nous en gagnerons "
 "un de temps en temps."
 
 #. type: Content of: <div><p>
@@ -276,9 +277,9 @@ msgstr ""
 "mais leurs développeurs souhaitent souvent une aide de notre part. Les "
 "utilisateurs de logiciels libres peuvent offrir des satisfactions à l'ego "
 "des développeurs de logiciels libres – reconnaissance et gratitude – mais "
-"ils peuvent être tentés lorsqu'une entreprise leur dit : « Laissez-nous "
+"ils peuvent être tentés lorsqu'une entreprise leur dit : « Laissez-nous "
 "juste placer votre logiciel dans notre programme privateur et il sera "
-"utilisé par des milliers de gens ! » La tentation peut être forte, mais à "
+"utilisé par des milliers de gens ! » La tentation peut être forte, mais à "
 "long terme, nous nous sentirons tous mieux si nous y avons résisté."
 
 #. type: Content of: <div><p>
@@ -295,7 +296,7 @@ msgstr ""
 "Il est plus difficile de reconnaître les pressions et tentations quand elles "
 "viennent indirectement, au travers d'organisations pour les logiciels libres "
 "qui ont adopté une politique servant le logiciel privateur. Le Consortium X "
-"(et son successeur l'Open Group) en sont un exemple : fondé par des sociétés "
+"(et son successeur l'Open Group) en sont un exemple : fondé par des sociétés "
 "qui font des logiciels privateurs, ils se sont efforcés pendant des "
 "décennies de persuader les programmeurs de ne pas utiliser de copyleft. "
 "Maintenant que l'Open Group a <a href=\"/philosophy/x.html\">fait de X11R6.4 "
@@ -329,8 +330,8 @@ msgstr ""
 "Pour parler de manière pragmatique, avoir une vision à plus long terme "
 "affermira votre volonté de résister à cette pression. Si vous concentrez "
 "votre attention sur la liberté et la communauté que vous pouvez bâtir en "
-"restant ferme, vous trouverez la force de le faire. « Restez debout pour "
-"quelque chose ou vous tomberez pour rien. »"
+"restant ferme, vous trouverez la force de le faire. « Restez debout pour "
+"quelque chose ou vous tomberez pour rien. »"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -339,7 +340,7 @@ msgid ""
 "them, and use copyleft all the same."
 msgstr ""
 "Et si des personnes cyniques ridiculisent la liberté, ridiculisent la "
-"communauté&hellip; si des « réalistes forcenés » disent que le profit est le "
+"communauté&hellip; si des « réalistes forcenés » disent que le profit est le "
 "seul idéal&hellip; ignorez-les et utilisez le copyleft tout de même."
 
 #. type: Content of: <div><div><p>
@@ -359,7 +360,7 @@ msgstr ""
 "<b>Note de traduction</b><ol>\n"
 "<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
 "\">&#8593;</a> \n"
-"Autre traduction de <i>proprietary</i> : propriétaire.</li></ol>"
+"Autre traduction de <i>proprietary</i> : propriétaire.</li></ol>"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -419,10 +420,10 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : ?<br />Révision : <a href=\"mailto:trad-gnu@april.org\">trad-"
+"Traduction : ?<br />Révision : <a href=\"mailto:trad-gnu@april.org\">trad-"
 "gnu@april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Dernière mise à jour :"
+msgstr "Dernière mise à jour :"

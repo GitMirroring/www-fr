@@ -6,13 +6,14 @@
 # Martin Gubri, 2011
 # Thérèse Godefroy <godef.th AT free.fr>, 2012-2024.
 # Jean-Philippe Mengual <mengualjeanphi AT free.fr>, 2015
+# Laurent Lyaudet <laurent.lyaudet@gmail.com>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
 "POT-Creation-Date: 2025-01-26 12:56+0000\n"
-"PO-Revision-Date: 2025-01-26 14:48+0100\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"PO-Revision-Date: 2025-07-03 14:54+0200\n"
+"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -82,7 +83,7 @@ msgid ""
 msgstr ""
 "<a href=\"https://www.fsf.org/blogs/community/help-others-find-free-software-"
 "watch-and-share-escape-to-freedom\"><i>Escape to Freedom</i></a> (Évasion "
-"vers la liberté) : une vidéo de la FSF"
+"vers la liberté) : une vidéo de la FSF"
 
 #. type: Content of: <div><div><h2>
 msgid "What is GNU?"
@@ -350,8 +351,8 @@ msgid ""
 "as in &ldquo;free beer.&rdquo;"
 msgstr ""
 "Le logiciel libre est affaire de liberté, pas de prix. Pour comprendre ce "
-"concept, vous devez penser à « liberté d'expression », pas à « entrée "
-"libre » (NdT : en anglais, le mot <i>free</i> veut dire libre, mais aussi "
+"concept, vous devez penser à « liberté d'expression », pas à « entrée "
+"libre » (NdT : en anglais, le mot <i>free</i> veut dire libre, mais aussi "
 "gratuit, d'où la confusion possible)."
 
 #. type: Content of: <div><div><p>
@@ -360,7 +361,7 @@ msgid ""
 "philosophy/free-sw.html\">four essential freedoms</a>:"
 msgstr ""
 "Plus exactement, cela signifie que l'utilisateur d'un programme libre jouit "
-"des <a href=\"/philosophy/free-sw.html\">quatre libertés essentielles</a> :"
+"des <a href=\"/philosophy/free-sw.html\">quatre libertés essentielles</a> :"
 
 #. type: Content of: <div><div><ul><li>
 msgid ""
@@ -433,7 +434,7 @@ msgid ""
 "packages</a>."
 msgstr ""
 "<a id=\"More-GNU\">GNU</a> est un système d'exploitation de type Unix. Cela "
-"signifie qu'il s'agit d'un ensemble de nombreux programmes : applications, "
+"signifie qu'il s'agit d'un ensemble de nombreux programmes : applications, "
 "bibliothèques, outils de développement, même des jeux. Le développement de "
 "GNU, entamé en janvier 1984, est connu sous le nom de projet GNU. Un grand "
 "nombre des programmes qui font partie du système GNU sont publiés sous les "
@@ -447,8 +448,8 @@ msgid ""
 "pronounced <em>g'noo</em></a>, as one syllable, like saying &ldquo;"
 "grew&rdquo; but replacing the <em>r</em> with <em>n</em>."
 msgstr ""
-"Le nom « GNU » est un acronyme récursif pour « GNU's Not Unix ». <a href=\"/"
-"pronunciation/pronunciation.html\">« GNU » se prononce <em>gnou</em></a>, "
+"Le nom « GNU » est un acronyme récursif pour « GNU's Not Unix ». <a href=\"/"
+"pronunciation/pronunciation.html\">« GNU » se prononce <em>gnou</em></a>, "
 "avec un <em>g</em> dur."
 
 #. type: Content of: <div><div><p>
@@ -461,11 +462,11 @@ msgid ""
 "&ldquo;Linux&rdquo; by mistake</a>."
 msgstr ""
 "Dans un système de type Unix, le programme qui alloue les ressources d'une "
-"machine et communique avec le matériel s'appelle le « noyau ». GNU est "
+"machine et communique avec le matériel s'appelle le « noyau ». GNU est "
 "généralement utilisé avec un noyau appelé Linux.  Cette association forme le "
 "<a href=\"/gnu/linux-and-gnu.html\"><strong>système d'exploitation GNU/"
 "Linux</strong></a>. GNU/Linux est utilisé par des millions de gens même si "
-"beaucoup <a href=\"/gnu/gnu-linux-faq.html\">l'appellent « Linux » par "
+"beaucoup <a href=\"/gnu/gnu-linux-faq.html\">l'appellent « Linux » par "
 "erreur</a>."
 
 #. type: Content of: <div><div><p>
@@ -601,7 +602,7 @@ msgid ""
 msgstr ""
 "<strong>Pouvez-vous contribuer à la <a href=\"/server/takeaction.html#unmaint"
 "\">maintenance d'un paquet GNU</a> ? Ceux-ci sont tous à la recherche d'un "
-"repreneur :</strong>"
+"repreneur :</strong>"
 
 #. type: Content of: <div><div><div><ul><li>
 msgid ""
@@ -617,7 +618,7 @@ msgstr ""
 
 #. type: Content of: <div><div><div><p>
 msgid "Also, these packages are looking for co-maintainers:"
-msgstr "Et ceux-ci sont à la recherche d'un comainteneur :"
+msgstr "Et ceux-ci sont à la recherche d'un comainteneur :"
 
 #. type: Content of: <div><div><div><ul><li>
 msgid ""
@@ -740,13 +741,13 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Cédric Corazza<br />Révision : <a href=\"mailto:trad-gnu@april."
+"Traduction : Cédric Corazza<br />Révision : <a href=\"mailto:trad-gnu@april."
 "org\">trad-gnu@april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Dernière mise à jour :"
+msgstr "Dernière mise à jour :"
 
 #~ msgid ""
 #~ "This year, <a href=\"https://www.fsf.org/blogs/community/2024-ethical-"

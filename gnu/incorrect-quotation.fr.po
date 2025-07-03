@@ -2,13 +2,14 @@
 # Copyright (C) 2018 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Thérèse Godefroy <godef.th AT free.fr>, 2018.
+# Laurent Lyaudet <laurent.lyaudet@gmail.com>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: incorrect-quotation.html\n"
 "POT-Creation-Date: 2021-11-02 14:27+0000\n"
-"PO-Revision-Date: 2024-03-03 16:17+0100\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"PO-Revision-Date: 2025-07-03 14:54+0200\n"
+"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -70,7 +71,7 @@ msgstr ""
 "Beaucoup d'utilisateurs de l'informatique utilisent une version modifiée du "
 "système GNU tous les jours sans même s'en rendre compte. Par suite d'une "
 "tournure particulière des événements, la version de GNU qui est largement "
-"utilisée aujourd'hui est souvent appelée « Linux » et beaucoup de ses "
+"utilisée aujourd'hui est souvent appelée « Linux » et beaucoup de ses "
 "utilisateurs ne savent pas qu'il s'agit essentiellement du système GNU, "
 "développé par le projet GNU. Il existe bien un Linux que ces personnes "
 "utilisent, mais c'est juste une partie du système qu'elles utilisent."
@@ -90,9 +91,9 @@ msgstr ""
 "noyau est une partie essentielle du système d'exploitation, mais seul il est "
 "inutile ; il ne peut fonctionner que dans le contexte d'un système "
 "d'exploitation complet. Linux est normalement utilisé en combinaison avec le "
-"système d'exploitation GNU : le système complet est essentiellement GNU "
+"système d'exploitation GNU : le système complet est essentiellement GNU "
 "auquel on a ajouté Linux, c'est-à-dire GNU/Linux. Toutes les distributions "
-"appelées « Linux » sont en réalité des distributions de GNU/Linux."
+"appelées « Linux » sont en réalité des distributions de GNU/Linux."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -104,9 +105,9 @@ msgid ""
 msgstr ""
 "L'erreur fondamentale est que Linux n'est <em>pas</em> à proprement parler "
 "une partie du système GNU – dont le noyau est GNU Hurd. La version où il est "
-"associé à Linux, nous l'appelons « GNU/Linux » ; il est correct de l'appeler "
-"« GNU » quand vous voulez faire très court, mais c'est mieux de l'appeler "
-"« GNU/Linux » pour reconnaître la contribution de Torvalds."
+"associé à Linux, nous l'appelons « GNU/Linux » ; il est correct de l'appeler "
+"« GNU » quand vous voulez faire très court, mais c'est mieux de l'appeler "
+"« GNU/Linux » pour reconnaître la contribution de Torvalds."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -116,7 +117,7 @@ msgid ""
 "that job required developing whichever important packages we could not find "
 "elsewhere."
 msgstr ""
-"Nous n'utilisons pas le terme « corelibs » et je ne suis pas certain de ce "
+"Nous n'utilisons pas le terme « corelibs » et je ne suis pas certain de ce "
 "qu'il pourrait signifier, mais GNU va bien au-delà des logiciels "
 "particuliers que nous avons développés pour lui. J'ai entrepris en 1983 de "
 "développer un système d'exploitation que j'ai appelé GNU, et cette tâche "
@@ -196,10 +197,10 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Thérèse Godefroy<br />\n"
-"Révision : <a href=\"mailto:trad-gnu@april.org\">trad-gnu@april.org</a>"
+"Traduction : Thérèse Godefroy<br />\n"
+"Révision : <a href=\"mailto:trad-gnu@april.org\">trad-gnu@april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Dernière mise à jour :"
+msgstr "Dernière mise à jour :"

@@ -4,13 +4,14 @@
 # Benjamin Drieu, 1997. http://web.archive.org/web/19971009070944/http://april.org/
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2008, 2009.
 # Thérèse Godefroy <godef.th AT free.fr>, 2011, 2012, 2013.
+# Laurent Lyaudet <laurent.lyaudet@gmail.com>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: selling.html\n"
 "POT-Creation-Date: 2021-09-10 11:26+0000\n"
-"PO-Revision-Date: 2024-03-03 16:18+0100\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"PO-Revision-Date: 2025-07-03 14:54+0200\n"
+"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +33,7 @@ msgid ""
 "also available.</em>"
 msgstr ""
 "<em><a href=\"/philosophy/selling-exceptions.html\">Une analyse critique du "
-"principe de la « vente d'exceptions » aux licences de logiciel libre telles "
+"principe de la « vente d'exceptions » aux licences de logiciel libre telles "
 "que la GNU GPL</a> est également disponible.</em>"
 
 #. type: Content of: <div><p>
@@ -43,7 +44,7 @@ msgid ""
 "misunderstanding."
 msgstr ""
 "Beaucoup de gens croient que l'esprit du projet GNU est de ne pas faire "
-"payer la distribution de copies de logiciels, ou alors le moins possible : "
+"payer la distribution de copies de logiciels, ou alors le moins possible : "
 "juste assez pour couvrir les frais. C'est un malentendu."
 
 #. type: Content of: <div><p>
@@ -260,14 +261,14 @@ msgstr ""
 
 #. type: Content of: <div><h3>
 msgid "The term &ldquo;selling software&rdquo; can be confusing too"
-msgstr "L'expression « vendre des logiciels » peut aussi induire en erreur"
+msgstr "L'expression « vendre des logiciels » peut aussi induire en erreur"
 
 #. type: Content of: <div><p>
 msgid ""
 "Strictly speaking, &ldquo;selling&rdquo; means trading goods for money.  "
 "Selling a copy of a free program is legitimate, and we encourage it."
 msgstr ""
-"<i>Stricto sensu</i>, « vendre » signifie échanger des biens contre de "
+"<i>Stricto sensu</i>, « vendre » signifie échanger des biens contre de "
 "l'argent. Vendre une copie d'un logiciel libre est légal, et nous "
 "encourageons cette pratique."
 
@@ -278,9 +279,9 @@ msgid ""
 "it the way most companies do it: making the software proprietary rather than "
 "free."
 msgstr ""
-"Cependant, quand les gens envisagent de « <a href=\"/philosophy/words-to-"
-"avoid.html#SellSoftware\">vendre des logiciels</a> », ils imaginent "
-"habituellement le faire de la même manière que la plupart des entreprises : "
+"Cependant, quand les gens envisagent de « <a href=\"/philosophy/words-to-"
+"avoid.html#SellSoftware\">vendre des logiciels</a> », ils imaginent "
+"habituellement le faire de la même manière que la plupart des entreprises : "
 "rendre le logiciel privateur plutôt que libre."
 
 #. type: Content of: <div><p>
@@ -292,9 +293,9 @@ msgid ""
 "unambiguous."
 msgstr ""
 "Alors, à moins que vous ne soyez prêts à faire des distinctions précises, "
-"comme le fait cet article, nous vous suggérons d'éviter le terme « vendre "
-"des logiciels » et de choisir un autre vocabulaire à la place. Par exemple, "
-"vous pourriez dire « distribuer des logiciels libres contre rémunération », "
+"comme le fait cet article, nous vous suggérons d'éviter le terme « vendre "
+"des logiciels » et de choisir un autre vocabulaire à la place. Par exemple, "
+"vous pourriez dire « distribuer des logiciels libres contre rémunération », "
 "ce qui lève toute ambiguïté."
 
 #. type: Content of: <div><h3>
@@ -354,8 +355,8 @@ msgid ""
 "issue, and the only issue."
 msgstr ""
 "Parfois des entreprises, dont les activités franchissent la limite de ce que "
-"la GNU GPL permet, implorent des autorisations en disant qu'ils « ne vont "
-"pas faire payer les logiciels GNU », ou d'autres choses du même style. Cela "
+"la GNU GPL permet, implorent des autorisations en disant qu'ils « ne vont "
+"pas faire payer les logiciels GNU », ou d'autres choses du même style. Cela "
 "ne marchera pas avec nous. Le logiciel libre est avant tout la liberté, et "
 "faire respecter la GPL c'est défendre cette liberté. Quand nous défendons la "
 "liberté des utilisateurs, nous ne nous occupons pas de problèmes annexes "
@@ -367,7 +368,7 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
 "<hr /><b>Note de traduction</b><ol>\n"
-"<li id=\"TransNote1\">Autre traduction de <em>proprietary</em> : "
+"<li id=\"TransNote1\">Autre traduction de <em>proprietary</em> : "
 "propriétaire. <a href=\"#TransNote1-rev\" class=\"nounderline\">&#8593;</a></"
 "li>\n"
 "</ol>"
@@ -433,10 +434,10 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Benjamin Drieu<br /> Révision : <a href=\"mailto:trad-gnu@april."
+"Traduction : Benjamin Drieu<br /> Révision : <a href=\"mailto:trad-gnu@april."
 "org\">trad-gnu@april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Dernière mise à jour :"
+msgstr "Dernière mise à jour :"

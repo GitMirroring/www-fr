@@ -2,13 +2,14 @@
 # Copyright (C) 2012 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Thérèse Godefroy <godef.th AT free.fr>, 2012.
+# Laurent Lyaudet <laurent.lyaudet@gmail.com>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: javascript-labels-rationale.html\n"
 "POT-Creation-Date: 2022-01-02 17:25+0000\n"
-"PO-Revision-Date: 2024-03-03 16:17+0100\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"PO-Revision-Date: 2025-07-03 14:54+0200\n"
+"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -20,12 +21,12 @@ msgid ""
 "JavaScript License Web Labels: Background and Rationale - GNU Project - Free "
 "Software Foundation"
 msgstr ""
-"Étiquettes web de licence pour JavaScript : principe et explication - Projet "
+"Étiquettes web de licence pour JavaScript : principe et explication - Projet "
 "GNU - Free Software Foundation"
 
 #. type: Content of: <div><h2>
 msgid "JavaScript License Web Labels: Background and Rationale"
-msgstr "Étiquettes web de licence pour JavaScript : principe et explication"
+msgstr "Étiquettes web de licence pour JavaScript : principe et explication"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -78,7 +79,7 @@ msgstr ""
 "Un moyen simple d'indiquer la licence est de mettre un <a href=\"/philosophy/"
 "javascript-trap.html\">commentaire stylisé dans le code JavaScript</a>. "
 "Toutefois, ce n'est pas toujours pratique pour les fichiers compactés de "
-"bibliothèques, aussi avons-nous mis au point un autre moyen : les <a href=\"/"
+"bibliothèques, aussi avons-nous mis au point un autre moyen : les <a href=\"/"
 "licenses/javascript-labels.html\">étiquettes web pour JavaScript</a>."
 
 #. type: Content of: <div><h3>
@@ -100,7 +101,7 @@ msgstr ""
 "des termes de la licence et un accès au code source sont presque toujours "
 "faciles à suivre quand le logiciel est distribué par le web ou autres canaux "
 "Internet. Toutefois, la distribution du JavaScript intégré dans les sites "
-"web est compliquée par deux facteurs particuliers : les visiteurs reçoivent "
+"web est compliquée par deux facteurs particuliers : les visiteurs reçoivent "
 "d'habitude le logiciel sans l'avoir expressément demandé, et les webmestres "
 "ne peuvent servir qu'un seul fichier de code JavaScript (ils ne peuvent pas, "
 "par exemple, envoyer une archive contenant le reste des documents requis par "
@@ -132,8 +133,8 @@ msgstr ""
 "mettre à disposition la documentation supplémentaire relative aux licences –"
 " et donne aux visiteurs un endroit désigné pour aller la chercher – tout en "
 "traitant les deux problèmes exposés plus haut. D'une part elle donne de la "
-"visibilité à la distribution de logiciel en proposant « les informations sur "
-"la licence du JavaScript » via un lien. Et d'autre part les pages en lien "
+"visibilité à la distribution de logiciel en proposant « les informations sur "
+"la licence du JavaScript » via un lien. Et d'autre part les pages en lien "
 "donnent aux webmestres un endroit où publier ces documents, qui est "
 "suffisamment visible tout en n'étant pas déroutant pour les visiteurs."
 
@@ -228,7 +229,7 @@ msgstr ""
 "logiciels vérifiant les licences. Si nous recevons assez de suggestions pour "
 "publier une nouvelle méthode qui soit notablement meilleure que celle-ci, "
 "nous le feront (c'est pourquoi cette méthode utilise un identifiant si "
-"détaillé pour le tableau des informations de licence : cela permet au "
+"détaillé pour le tableau des informations de licence : cela permet au "
 "logiciel de distinguer cette méthode des autres que nous pourrions mettre au "
 "point à l'avenir). Si cette question vous intéresse, merci de <a href="
 "\"https://lists.gnu.org/mailman/listinfo/bug-librejs\">vous inscrire sur la "
@@ -242,7 +243,7 @@ msgstr ""
 "<hr /><b>Note de traduction</b><ol>\n"
 "<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
 "\">&#8593;</a> \n"
-"Autre traduction de <i>proprietary</i> : propriétaire.</li></ol>"
+"Autre traduction de <i>proprietary</i> : propriétaire.</li></ol>"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -302,10 +303,10 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Thérèse Godefroy<br />Révision : <a href=\"mailto:trad-"
+"Traduction : Thérèse Godefroy<br />Révision : <a href=\"mailto:trad-"
 "gnu@april.org\">trad-gnu@april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Dernière mise à jour :"
+msgstr "Dernière mise à jour :"

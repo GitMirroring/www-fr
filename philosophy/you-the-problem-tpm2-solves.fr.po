@@ -4,13 +4,14 @@
 # Nicolas Joubert, 2022.
 # François Ochsenbein, 2022.
 # Thérèse Godefroy <godef.th AT free.fr>, 2022.
+# Laurent Lyaudet <laurent.lyaudet@gmail.com>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: you-the-problem-tpm2-solves.html\n"
 "POT-Creation-Date: 2024-12-28 14:25+0000\n"
-"PO-Revision-Date: 2024-12-28 17:13+0100\n"
-"Last-Translator: Thérèse Godefroy <godef.th@free.fr>\n"
+"PO-Revision-Date: 2025-07-03 14:54+0200\n"
+"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -34,7 +35,7 @@ msgstr ""
 
 #. type: Content of: <div><h3>
 msgid "1. Trust: to Give or to Earn?"
-msgstr "1. Confiance : la donner ou la gagner ?"
+msgstr "1. Confiance : la donner ou la gagner ?"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -55,8 +56,8 @@ msgid ""
 "files, plugins to cheat in games, and video intercepting software to cheat "
 "in the exam, among many possibilities."
 msgstr ""
-"Microsoft veut vous faire croire que vous pouvez faire confiance au « module "
-"de plateforme fiable » <abbr title=\"Trusted Platform Module\">TPM</abbr>2 "
+"Microsoft veut vous faire croire que vous pouvez faire confiance au « module "
+"de plateforme fiable » <abbr title=\"Trusted Platform Module\">TPM</abbr>2 "
 "pour améliorer la sécurité. TPM2 est un prérequis obligatoire et non une "
 "option pour Windows 11. Cela ne cadre pas avec l'idée que nous nous faisons "
 "de la confiance. En réalité, l'objectif de TPM2 n'est pas de renforcer la "
@@ -102,12 +103,12 @@ msgstr ""
 "comme des maliciels de type rootkit. Microsoft a longtemps poursuivi cet "
 "objectif avec son <a href=\"https://www.schneier.com/blog/archives/2005/11/"
 "sonys_drm_rootk.html\">approbation complice</a> du rootkit de Sony et son "
-"insistance sur la « protection de contenu » depuis <a href=\"https://www.cs."
+"insistance sur la « protection de contenu » depuis <a href=\"https://www.cs."
 "auckland.ac.nz/~pgut001/pubs/vista_cost.html\">le misérable échec de Vista</"
 "a>. Avec l'aide de TPM2 et la garantie des mathématiques, Microsoft peut "
 "enfin l'imposer. Vous devez gagner la confiance de Microsoft et autres "
 "éditeurs de logiciel en laissant TPM2 certifier à distance qui vous êtes "
-"réellement et « jurer » en termes cryptographiques que vous n'êtes pas en "
+"réellement et « jurer » en termes cryptographiques que vous n'êtes pas en "
 "train d'exécuter quelque chose pour contrer leur logiciel."
 
 #. type: Content of: <div><h3>
@@ -354,7 +355,7 @@ msgstr ""
 "premières à appliquer l'attestation à distance. En effet, il est "
 "relativement facile pour les seigneurs de persuader la population de "
 "renoncer au contrôle de ses possessions physiques en échange de l'illusion "
-"d'une « équité » (entre paysans) dans ces domaines d'application."
+"d'une « équité » (entre paysans) dans ces domaines d'application."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -388,7 +389,7 @@ msgstr ""
 "logiciels inutiles de l'informatique en nuage. Gabriel Sieben <a href="
 "\"https://vuink.com/post/tnoevryfvrora-d-dgrpu/2022/07/29/remote-assertion-"
 "is-coming-back-how-much-freedom-will-it-take\">résume fort bien la "
-"situation</a> :"
+"situation</a> :"
 
 #. type: Content of: <div><blockquote><p>
 msgid ""
@@ -423,10 +424,10 @@ msgstr ""
 "communiquer avec amis et collègues, <a href=\"https://opensource.com/"
 "article/20/5/free-software-communication\">utilisez un protocole "
 "complètement décentralisé ou un service géré par la communauté</a>. Il "
-"existe cependant certains services du « nuage » (par exemple, les jeux) "
+"existe cependant certains services du « nuage » (par exemple, les jeux) "
 "auxquels beaucoup de gens ont du mal à résister. Il est donc important de "
 "sensibiliser une population plus large à cette question et d'en discuter, si "
-"nous pensons que la propagande du droit de « propriété intellectuelle » ne "
+"nous pensons que la propagande du droit de « propriété intellectuelle » ne "
 "doit jamais nier le droit de propriété physique."
 
 #. type: Content of: <div><div><p>
@@ -503,10 +504,10 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Nicolas Joubert<br /> Révision : <a href=\"mailto:trad-"
+"Traduction : Nicolas Joubert<br /> Révision : <a href=\"mailto:trad-"
 "gnu@april.org\">trad-gnu@april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Dernière mise à jour :"
+msgstr "Dernière mise à jour :"

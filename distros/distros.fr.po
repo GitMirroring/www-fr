@@ -4,13 +4,14 @@
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2009.
 # Denis Barbier <bouzim AT gmail.com>, 2011.
 # Thérèse Godefroy <godef.th AT free.fr>, 2012.
+# Laurent Lyaudet <laurent.lyaudet@gmail.com>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: distros.html\n"
 "POT-Creation-Date: 2022-01-22 17:57+0000\n"
-"PO-Revision-Date: 2024-03-03 16:17+0100\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"PO-Revision-Date: 2025-07-03 14:54+0200\n"
+"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -41,7 +42,7 @@ msgstr ""
 "Les distributions libres du <a href=\"/gnu/linux-and-gnu.html\">système GNU/"
 "Linux</a> ne contiennent et ne proposent que des logiciels libres. Elles "
 "rejettent les applications non libres, les plateformes de développement non "
-"libres, les pilotes non libres, les « blobs » de micrologiciel <i>[firmware]"
+"libres, les pilotes non libres, les « blobs » de micrologiciel <i>[firmware]"
 "</i> non libre et tout autre logiciel ou documentation non libre. Si par "
 "erreur elles en incluent, elles le retirent dès qu'elles s'en rendent compte."
 
@@ -58,9 +59,9 @@ msgid ""
 msgstr ""
 "Nous vous recommandons d'utiliser une distribution système GNU/Linux libre, "
 "une distribution qui ne contienne aucun logiciel privateur (aussi appelé "
-"« logiciel propriétaire »). De cette manière vous pouvez être sûr que vous "
+"« logiciel propriétaire »). De cette manière vous pouvez être sûr que vous "
 "n'installez pas de programme non libre. Voici notre liste de ces "
-"distributions :"
+"distributions :"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -125,7 +126,7 @@ msgid ""
 "entirely free:"
 msgstr ""
 "Voici une liste des problèmes qui empêchent une distribution d'être "
-"considérée comme entièrement libre :"
+"considérée comme entièrement libre :"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -146,7 +147,7 @@ msgid ""
 msgstr ""
 "Beaucoup de distributions GNU/Linux bien connues ne respectent pas nos "
 "recommandations. Vous pouvez découvrir ici les problèmes qu'elles "
-"présentent :"
+"présentent :"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -174,7 +175,7 @@ msgid ""
 "free software. You can read:"
 msgstr ""
 "Certaines distributions GNU/Linux donnent à l'utilisateur l'option "
-"d'installer uniquement du logiciel libre. Vous pouvez consulter :"
+"d'installer uniquement du logiciel libre. Vous pouvez consulter :"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -194,7 +195,7 @@ msgid ""
 "problems:"
 msgstr ""
 "Quand une distribution GNU/Linux contient du logiciel non libre, cela "
-"entraîne deux sortes de problèmes :"
+"entraîne deux sortes de problèmes :"
 
 #. type: Content of: <div><ul><li>
 msgid "If you install it, you may install and use nonfree software."
@@ -212,7 +213,7 @@ msgid ""
 "they install the nonfree software.  However, the second problem is the more "
 "important one, because it affects the community as a whole."
 msgstr ""
-"Le premier est un problème direct : installer du logiciel non libre affecte "
+"Le premier est un problème direct : installer du logiciel non libre affecte "
 "les utilisateurs. Cependant, le second problème est le plus important parce "
 "qu'il affecte l'ensemble de la communauté."
 
@@ -224,11 +225,11 @@ msgid ""
 "minds on freedom.&rdquo; If they did, they would have less of a bad "
 "influence."
 msgstr ""
-"Les développeurs de distributions non libres ne disent pas : « Nous vous "
+"Les développeurs de distributions non libres ne disent pas : « Nous vous "
 "présentons nos excuses pour la présence de composants non libres dans notre "
 "distribution. Nous ne savons pas ce qui nous a pris de les inclure. Nous "
 "espérons que pour la prochaine version nous garderons à l'esprit la "
-"liberté. » S'ils le faisaient, ils n'auraient pas une aussi mauvaise "
+"liberté. » S'ils le faisaient, ils n'auraient pas une aussi mauvaise "
 "influence."
 
 #. type: Content of: <div><p>
@@ -241,7 +242,7 @@ msgid ""
 msgstr ""
 "Au contraire, ils présentent généralement le logiciel non libre de leur "
 "distribution comme un aspect positif ; ils disent que leur but est d'offrir "
-"« la meilleure expérience utilisateur possible » ou quelque chose "
+"« la meilleure expérience utilisateur possible » ou quelque chose "
 "d'approchant, plutôt que la liberté. En d'autres termes, ils conduisent les "
 "gens à mettre la commodité au-dessus de la liberté ; leur travail va donc "
 "directement à l'encontre de notre campagne pour faire de la liberté "
@@ -320,10 +321,10 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Cédric Corazza<br /> Révision : <a href=\"mailto:trad-gnu@april."
+"Traduction : Cédric Corazza<br /> Révision : <a href=\"mailto:trad-gnu@april."
 "org\">trad-gnu@april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Dernière mise à jour :"
+msgstr "Dernière mise à jour :"

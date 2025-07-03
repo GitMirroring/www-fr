@@ -2,13 +2,14 @@
 # Copyright (C) 2014 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Thérèse Godefroy <godef.th AT free.fr>, 2014, 2015, 2020.
+# Laurent Lyaudet <laurent.lyaudet@gmail.com>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: whats-wrong-with-youtube.html\n"
 "POT-Creation-Date: 2025-06-08 09:26+0000\n"
-"PO-Revision-Date: 2025-06-08 15:14+0200\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"PO-Revision-Date: 2025-07-03 14:54+0200\n"
+"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -49,7 +50,7 @@ msgid ""
 "software:"
 msgstr ""
 "Cependant, il y a moyen de regarder les vidéos de YouTube sans exécuter de "
-"logiciel non libre :"
+"logiciel non libre :"
 
 #. type: Content of: <div><dl><dd><ul><li><p>
 msgid ""
@@ -94,7 +95,7 @@ msgstr ""
 "Le code JavaScript non libre ne permet pas au navigateur de sauvegarder une "
 "copie de la vidéo, même quand cette dernière est sous une licence qui permet "
 "la redistribution. C'est une forme de DRM qui ne peut même pas prétendre "
-"« faire appliquer le copyright »."
+"« faire appliquer le copyright »."
 
 #. type: Content of: <div><dl><dd><p>
 msgid ""
@@ -115,7 +116,7 @@ msgstr ""
 
 #. type: Content of: <div><dl><dd><p>
 msgid "However, some free programs bypass this block:"
-msgstr "Cependant, plusieurs programme contournent ce blocage :"
+msgstr "Cependant, plusieurs programme contournent ce blocage :"
 
 #. type: Content of: <div><dl><dd><ul><li><p>
 msgid ""
@@ -127,7 +128,7 @@ msgstr ""
 "<em><a href=\"https://github.com/yt-dlp/yt-dlp/releases\">yt-dlp</a></em>. "
 "Bien qu'hébergé sur GitHub, ce programme peut être téléchargé avec un "
 "browser sans exécuter de code JavaScript. Il peut également être téléchargé "
-"en ligne de commande. Par exemple :"
+"en ligne de commande. Par exemple :"
 
 #. type: Content of: <div><dl><dd><ul><li><p>
 msgid ""
@@ -173,7 +174,7 @@ msgid ""
 "people to run nonfree software."
 msgstr ""
 "Si malgré tout vous publiez une vidéo sur YouTube, merci de ne pas utiliser "
-"le nom de domaine « youtube.com » (ou ses alias) pour vous y référer. "
+"le nom de domaine « youtube.com » (ou ses alias) pour vous y référer. "
 "Référez-vous plutôt à l'un des sites intermédiaires Invidious qui accepte "
 "les connections venant de Tor (vérifiez !) C'est ce qu'il y a de plus "
 "fiable ; s'il y a un problème, votre lien restera inactif plutôt que de "
@@ -200,7 +201,7 @@ msgid ""
 "wiki.mediagoblin.org/Live_instances\">public servers</a>."
 msgstr ""
 "Il existe un autre moyen de publier des vidéos sur le web avec du logiciel "
-"libre : <a href=\"https://mediagoblin.org\">GNU MediaGoblin</a>. Dans "
+"libre : <a href=\"https://mediagoblin.org\">GNU MediaGoblin</a>. Dans "
 "l'idéal, vous installerez <a href=\"https://docs.mediagoblin.org/en/master/"
 "\">votre propre serveur</a> ou vous en ferez tourner un pour votre famille "
 "et vos amis, mais vous pouvez aussi envoyer les vidéos sur des <a href="
@@ -319,10 +320,10 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Thérèse Godefroy<br /> Révision : <a href=\"mailto:trad-"
+"Traduction : Thérèse Godefroy<br /> Révision : <a href=\"mailto:trad-"
 "gnu@april.org\">trad-gnu@april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Dernière mise à jour :"
+msgstr "Dernière mise à jour :"

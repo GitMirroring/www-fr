@@ -5,13 +5,14 @@
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2008, 2009.
 # Thérèse Godefroy <godef.th AT free.fr>, 2012, 2013, 2015.
 # Nicola Spanti, 2015.
+# Laurent Lyaudet <laurent.lyaudet@gmail.com>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: java-trap.html\n"
 "POT-Creation-Date: 2021-09-05 09:56+0000\n"
-"PO-Revision-Date: 2024-03-03 16:18+0100\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr\n"
+"PO-Revision-Date: 2025-07-03 14:54+0200\n"
+"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -73,7 +74,7 @@ msgstr ""
 "par Sun y est inclus. C'est donc cet environnement que vous devez utiliser. "
 "Beaucoup de distributions GNU/Linux sont fournies avec IcedTea, mais "
 "certaines contiennent des plateformes Java non libres. (Note ajoutée en "
-"octobre 2015 : l'implémentation libre de Java s'appelle OpenJDK dans "
+"octobre 2015 : l'implémentation libre de Java s'appelle OpenJDK dans "
 "beaucoup de distributions GNU/Linux.)"
 
 #. type: Content of: <div><div><p>
@@ -96,12 +97,12 @@ msgid ""
 "comes with IcedTea. (Note, added 10/2015: A free replacement for JavaFX "
 "called OpenJFX has been released.)"
 msgstr ""
-"De plus, il y a des programmes non libres dont le nom contient « Java », "
+"De plus, il y a des programmes non libres dont le nom contient « Java », "
 "comme JavaFX, et il y a des paquets Java non libres qui pourraient vous "
 "tenter mais que vous devez rejeter. Donc vérifiez les licences de tout "
 "paquet que vous envisagez d'utiliser. Si vous utilisez Swing, faites en "
 "sorte d'utiliser la version libre, qui est fournie avec IcedTea. (Note "
-"ajoutée en octobre 2015 : un programme libre remplaçant JavaFX a été publié "
+"ajoutée en octobre 2015 : un programme libre remplaçant JavaFX a été publié "
 "sous le nom d'OpenJFX.)"
 
 #. type: Content of: <div><div><p>
@@ -121,7 +122,7 @@ msgid ""
 "Please also see: <a href=\"/philosophy/javascript-trap.html\"> The "
 "JavaScript Trap</a>."
 msgstr ""
-"Veuillez aussi consulter : <a href=\"/philosophy/javascript-trap.html\">Le "
+"Veuillez aussi consulter : <a href=\"/philosophy/javascript-trap.html\">Le "
 "piège JavaScript</a>."
 
 #. type: Content of: <div><p>
@@ -139,7 +140,7 @@ msgstr ""
 "y a un piège dont il faut se méfier. Bien qu'intrinsèque, la liberté de "
 "votre programme peut être restreinte à cause de logiciels non libres dont il "
 "dépend. Comme c'est avec les programmes Java que ce problème est aujourd'hui "
-"le plus évident, nous l'avons nommé le « piège Java »."
+"le plus évident, nous l'avons nommé le « piège Java »."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -152,7 +153,7 @@ msgid ""
 "license."
 msgstr ""
 "Un programme est un logiciel libre si ses utilisateurs possèdent certaines "
-"libertés fondamentales. En gros, il s'agit de : la liberté d'exécuter le "
+"libertés fondamentales. En gros, il s'agit de : la liberté d'exécuter le "
 "programme, la liberté d'en étudier et modifier le code source, la liberté "
 "d'en redistribuer les fichiers source et binaires, et la liberté d'en "
 "publier des versions améliorées (voir la <a href=\"/philosophy/free-sw.html"
@@ -262,7 +263,7 @@ msgstr ""
 "êtes voué à utiliser des fonctionnalités Sun exclusives sans même vous en "
 "rendre compte. Vous pourriez les avoir utilisées pendant des mois avant de "
 "le découvrir et reprendre la tâche pourrait prendre plus de mois encore. "
-"Vous pourriez vous dire : « Recommencer demande trop de travail. » Alors "
+"Vous pourriez vous dire : « Recommencer demande trop de travail. » Alors "
 "votre programme sera tombé dans le piège Java ; il sera inutilisable dans le "
 "monde du Libre."
 
@@ -291,7 +292,7 @@ msgid ""
 "j2me_pb-1_0-fr-spec-license.html\"> J2ME&trade; Personal Basis Profile "
 "Specification</a> for examples.)"
 msgstr ""
-"Sun continue de créer des bibliothèques « de base » supplémentaires, presque "
+"Sun continue de créer des bibliothèques « de base » supplémentaires, presque "
 "toutes non libres ; dans bien des cas, même les spécifications de la "
 "bibliothèque sont des secrets de fabrication. De plus, la dernière licence "
 "de Sun concernant ces spécifications interdit la publication d'une mise en "
@@ -347,7 +348,7 @@ msgstr ""
 "acceptable car leur sauvetage ultérieur faisait partie de notre plan. Notre "
 "objectif global, un système d'exploitation autonome, comprenait des "
 "remplacements libres à toutes ces dépendances ; si nous atteignions ce but, "
-"tous nos programmes seraient sauvés. Et c'est ce qui se produisit : avec le "
+"tous nos programmes seraient sauvés. Et c'est ce qui se produisit : avec le "
 "système GNU/Linux, nous pouvons à présent exécuter ces programmes sur des "
 "plateformes libres."
 
@@ -413,7 +414,7 @@ msgstr ""
 
 #. type: Content of: <div><h3>
 msgid "See also:"
-msgstr "Voir également :"
+msgstr "Voir également :"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -486,10 +487,10 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Francis Pied<br /> Révision : <a href=\"mailto:trad-gnu@april."
+"Traduction : Francis Pied<br /> Révision : <a href=\"mailto:trad-gnu@april."
 "org\">trad-gnu@april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Dernière mise à jour :"
+msgstr "Dernière mise à jour :"

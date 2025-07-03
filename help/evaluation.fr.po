@@ -2,13 +2,14 @@
 # Copyright (C) 2011 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Thérèse Godefroy <godef.th AT free.fr>, 2011, 2012, 2014.
+# Laurent Lyaudet <laurent.lyaudet@gmail.com>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: evaluation\n"
 "POT-Creation-Date: 2024-04-13 12:55+0000\n"
-"PO-Revision-Date: 2024-04-13 17:19+0200\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"PO-Revision-Date: 2025-07-03 14:54+0200\n"
+"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -148,7 +149,7 @@ msgstr "Merci encore de vous intéresser à GNU."
 
 #. type: Content of: <h3>
 msgid "What it means for a program to be a GNU package"
-msgstr "Que signifie pour un programme « être un paquet GNU » ?"
+msgstr "Que signifie pour un programme « être un paquet GNU » ?"
 
 #. type: Content of: <p>
 msgid ""
@@ -156,8 +157,8 @@ msgid ""
 "package, which also explains the responsibilities of a GNU package "
 "maintainer."
 msgstr ""
-"Voici, expliqué par rms, ce que signifie pour un programme « être un paquet "
-"GNU » et quelles sont les responsabilités d'un mainteneur de paquet GNU. "
+"Voici, expliqué par rms, ce que signifie pour un programme « être un paquet "
+"GNU » et quelles sont les responsabilités d'un mainteneur de paquet GNU. "
 
 #. type: Content of: <p>
 msgid ""
@@ -166,8 +167,8 @@ msgid ""
 "the aegis of GNU&rdquo;&mdash;and say so in the program."
 msgstr ""
 "Faire d'un programme un logiciel GNU veut dire que son développeur et le "
-"projet GNU conviennent que « le programme fait partie du projet GNU, qu'il "
-"est diffusé sous l'égide de GNU » – et l'indiquent dans le programme."
+"projet GNU conviennent que « le programme fait partie du projet GNU, qu'il "
+"est diffusé sous l'égide de GNU » – et l'indiquent dans le programme."
 
 #. type: Content of: <p>
 msgid ""
@@ -258,7 +259,7 @@ msgid ""
 "sources, as long as converting it automatically into Texinfo gives good "
 "results."
 msgstr ""
-"Autre standard GNU important : les programmes GNU doivent comporter une "
+"Autre standard GNU important : les programmes GNU doivent comporter une "
 "documentation en format Texinfo. C'est le format standard de la "
 "documentation GNU, et il peut être converti automatiquement en divers autres "
 "formats. Vous pouvez utiliser DocBook ou tout autre format adéquat pour les "
@@ -321,8 +322,8 @@ msgstr ""
 "de programmes GNU qu'ils emploient la terminologie correcte. Par exemple, "
 "les fichiers de documentation et les commentaires d'un programme doivent "
 "parler de systèmes GNU/Linux, plutôt que d'appeler le système complet "
-"« Linux ». De même ils doivent utiliser l'expression « logiciel libre » "
-"plutôt que « open source ». Puisqu'un programme GNU est distribué sous les "
+"« Linux ». De même ils doivent utiliser l'expression « logiciel libre » "
+"plutôt que « open source ». Puisqu'un programme GNU est distribué sous les "
 "auspices de GNU, il ne doit en aucune manière contredire les positions du "
 "projet GNU."
 
@@ -370,7 +371,7 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid "More details are available in these documents:"
-msgstr "Vous trouverez plus de détails dans les documents suivants :"
+msgstr "Vous trouverez plus de détails dans les documents suivants :"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -388,7 +389,7 @@ msgstr ""
 msgid "For the basic ideas of GNU and free software, please read these essays:"
 msgstr ""
 "Veuillez lire ces essais, qui expliquent les idées de base de GNU et du "
-"logiciel libre :"
+"logiciel libre :"
 
 #. type: Content of: <ul><li>
 msgid "<a href=\"/gnu/the-gnu-project.html\">The GNU Project</a>"
@@ -629,7 +630,7 @@ msgstr ""
 "<hr /><b>Notes de traduction</b><ol>\n"
 "<li><a id=\"TransNote1\" href=\"#TransNote1-rev\" class=\"nounderline"
 "\">&#8593;</a> \n"
-"Traduction possible : GNUisance-en-chef.</li>\n"
+"Traduction possible : GNUisance-en-chef.</li>\n"
 "<li><a id=\"TransNote2\" href=\"#TransNote2-rev\" class=\"nounderline"
 "\">&#8593;</a> \n"
 "Le questionnaire n'a pas été traduit car il doit être rempli en anglais.</"
@@ -695,10 +696,10 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Thérèse Godefroy<br />Révision : <a href=\"mailto:trad-"
+"Traduction : Thérèse Godefroy<br />Révision : <a href=\"mailto:trad-"
 "gnu@april.org\">trad-gnu@april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Dernière mise à jour :"
+msgstr "Dernière mise à jour :"

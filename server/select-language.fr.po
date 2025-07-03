@@ -2,13 +2,14 @@
 # Copyright (C) 2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # Thérèse Godefroy <godef.th AT free.fr>, 2015.
+# Laurent Lyaudet <laurent.lyaudet@gmail.com>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: select-language.html\n"
 "POT-Creation-Date: 2025-02-11 07:26+0000\n"
-"PO-Revision-Date: 2025-02-11 11:36+0100\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"PO-Revision-Date: 2025-07-03 14:54+0200\n"
+"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +37,7 @@ msgstr ""
 "configurées dans votre navigateur. Votre sélection est enregistrée dans un "
 "<a href=\"#explanation\">cookie de session</a> et ne change pas vos "
 "préférences sur d'autres sites. Vous pouvez revenir à celles de votre "
-"navigateur en supprimant le cookie à l'aide de l'option « Réinitialiser »."
+"navigateur en supprimant le cookie à l'aide de l'option « Réinitialiser »."
 
 #. #set var="link" value="${link_head}reset'>" 
 #. #echo encoding="none" var='link'
@@ -411,8 +412,8 @@ msgstr ""
 "réglage et remplacer la langue configurée dans votre navigateur par une "
 "langue différente. Par exemple, vous pourriez choisir <em>anglais</em> pour "
 "naviguer sur www.gnu.org, même si la langue préférée de votre navigateur est "
-"le danois. Cette fonctionnalité utilise un cookie technique appelé « cookie "
-"de session »."
+"le danois. Cette fonctionnalité utilise un cookie technique appelé « cookie "
+"de session »."
 
 #. type: Content of: <p>
 msgid ""
@@ -518,4 +519,4 @@ msgstr " "
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Dernière mise à jour :"
+msgstr "Dernière mise à jour :"

@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the original article.
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2005, 2008.
 # Thérèse Godefroy <godef.th AT free.fr>, 2012.
+# Laurent Lyaudet <laurent.lyaudet@gmail.com>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: second-sight.html\n"
 "POT-Creation-Date: 2021-09-22 09:26+0000\n"
-"PO-Revision-Date: 2024-03-03 16:18+0100\n"
-"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
+"PO-Revision-Date: 2025-07-03 14:54+0200\n"
+"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -70,7 +71,7 @@ msgstr ""
 "Pire, ils imposent des restrictions frustrantes aux utilisateurs, les "
 "empêchant d'accéder au code source du logiciel, c'est-à-dire aux plans qu'un "
 "programmeur peut lire, comprendre et modifier. Tout ce que les utilisateurs "
-"obtiennent, c'est un exécutable, une « boîte noire », de sorte qu'ils ne "
+"obtiennent, c'est un exécutable, une « boîte noire », de sorte qu'ils ne "
 "peuvent pas l'adapter, le comprendre ni même vérifier ce qu'il fait."
 
 #. type: Content of: <div><p>
@@ -95,9 +96,9 @@ msgid ""
 "Free software means the users are free to use this software, redistribute "
 "it, study it, or even extend it to do more jobs."
 msgstr ""
-"Aujourd'hui, nous connaissons un autre moyen : le logiciel libre (également "
-"désigné par le terme « <a href=\"/philosophy/open-source-misses-the-point."
-"html\">open source</a> » ou <abbr title=\"Free and Open Source Software"
+"Aujourd'hui, nous connaissons un autre moyen : le logiciel libre (également "
+"désigné par le terme « <a href=\"/philosophy/open-source-misses-the-point."
+"html\">open source</a> » ou <abbr title=\"Free and Open Source Software"
 "\">FOSS</abbr><a id=\"TransNote1-rev\" href=\"#TransNote1\"><sup>1</sup></"
 "a>). Ce qui caractérise un logiciel libre est que les utilisateurs sont "
 "libres de l'utiliser, de le redistribuer, de l'étudier ou même de l'étendre "
@@ -168,20 +169,20 @@ msgid ""
 "2005, under the title &ldquo;Second Sight.&rdquo;"
 msgstr ""
 "Cet article a été publié initialement dans <cite>The Guardian</cite> le 3 "
-"mars 2005 sous le titre <i>« Second Sight »</i>."
+"mars 2005 sous le titre <i>« Second Sight »</i>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
 "<hr /><b>Notes de traduction</b><ol>\n"
-"<li id=\"TransNote1\">FOSS : logiciel libre et open source. <a href="
+"<li id=\"TransNote1\">FOSS : logiciel libre et open source. <a href="
 "\"#TransNote1-rev\" class=\"nounderline\">&#8593;</a></li>\n"
 "<li id=\"TransNote2\">Le mot anglais <i>free</i> a deux significations "
-"fréquentes, « libre » et « gratuit », ce qui prête à confusion dans "
+"fréquentes, « libre » et « gratuit », ce qui prête à confusion dans "
 "l'interprétation du terme <i>free software</i>. En français il ne devrait "
-"pas y avoir cette ambiguïté car « entrée libre » est à peu près le seul cas "
-"où l'on peut donner à « libre » le sens de « gratuit » ; on constate malgré "
+"pas y avoir cette ambiguïté car « entrée libre » est à peu près le seul cas "
+"où l'on peut donner à « libre » le sens de « gratuit » ; on constate malgré "
 "tout que le logiciel libre est souvent assimilé (par erreur) à du logiciel "
 "gratuit. <a href=\"#TransNote2-rev\" class=\"nounderline\">&#8593;</a></li>\n"
 "</ol>"
@@ -244,10 +245,10 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"Traduction : Cédric Corazza<br /> Révision : <a href=\"mailto:trad-gnu@april."
+"Traduction : Cédric Corazza<br /> Révision : <a href=\"mailto:trad-gnu@april."
 "org\">trad-gnu@april.org</a>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Dernière mise à jour :"
+msgstr "Dernière mise à jour :"
