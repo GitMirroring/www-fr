@@ -278,8 +278,8 @@ function create_addendum () {
 
 function make_links_absolute () {
 # replaces relative links to gnu.org articles with absolute links, otherwise
-# they are inactive.
-  sed -i 's,href="/,href="http://www.gnu.org/,g' "$1"
+# they are inactive; doesn't process protocol-less URLs.
+  sed -i 's,href="/\([^/]\),href="https://www.gnu.org/\1,g' "$1"
 }
 
 function fix_space () {
