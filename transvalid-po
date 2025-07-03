@@ -63,6 +63,7 @@ function version () {
 cat <<EOF
 ${0##*\/} version 0.3
 Copyright (C) 2013, 2015, 2016, 2019, 2020, 2024 Thérèse Godefroy
+              with input from Rafael Fontenelle
 You may redistribute and/or modify this script under
 the terms of the GNU General Public License, v.3+
 (because it borrows from GNUN, which is under GPLv3+).

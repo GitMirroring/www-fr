@@ -70,6 +70,7 @@ function version () {
 cat <<EOF
 ${0##*\/} version 0.2
 Copyright (C) 2013, 2015-2017, 2019 Thérèse Godefroy
+              with input from Rafael Fontenelle
 You may redistribute this script and/or modify it under the terms
 of the Creative Commons Attribution license.
 EOF
