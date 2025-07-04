@@ -286,14 +286,15 @@ function make_links_absolute () {
 function fix_space () {
 # makes sure the right kind of nonbreakable space is used with punctuation.
 # The normal spaces are not replaced because of possible interference with
-# code.
-  sed -i '
+# code, and the msgid is left unchanged.
+  sed -i '/^msgstr/,/^$/ {
       s, ;, ;,g
       s, :, :,g
       s, !, !,g
       s, ?, ?,g
       s, », »,g
       s,« ,« ,g
+    }
       /^"X-Generator: /d
       /^"Plural-Forms: /d
     ' $1
