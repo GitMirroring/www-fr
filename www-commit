@@ -15,6 +15,9 @@
 #    batches corresponding to the Git commits, then commits them to the www CVS
 #    repository.
 #
+#    *** This script cannot commit files in server/gnun/compendia/.
+#    *** They are not in a po directory as are the other POs.
+#
 #    Requirements:
 #    * www and www-team must have the same parent directory.
 #    * www-team must be a Git repository and contain the working copies of the
@@ -130,21 +133,26 @@ lang=${teamdir##*www-}
 batch1=$(mktemp -t commit.XXXXXX) || exit 1
 batch2=$(mktemp -t commit.XXXXXX) || exit 1
 batch3=$(mktemp -t commit.XXXXXX) || exit 1
+batch4=$(mktemp -t commit.XXXXXX) || exit 1
+batch5=$(mktemp -t commit.XXXXXX) || exit 1
 d=$(mktemp -t commit.XXXXXX) || exit 1
-trap 'rm -f "$batch1" "$batch2" "$batch3" "$d"' EXIT
+trap 'rm -f "$batch1" "$batch2" "$batch3" "$batch4" "$batch5" "$d"' EXIT
 
 # Get lists of modified POs.
-git dn master master^ > $batch1
-git dn master^ master^^ > $batch2
-git dn master^^ master^^^ > $batch3
+git dn www www^ > $batch1
+git dn www^ www^^ > $batch2
+git dn www^^ www^^^ > $batch3
+git dn www^^^ www^^^^ > $batch4
+git dn www^^^^ www^^^^^ > $batch5
 
 # Copy and commit.
 echo ''
 n=0
-for s in $batch1 $batch2 $batch3; do
+for s in $batch1 $batch2 $batch3 $batch4 $batch5; do
   let n=n+1 
   echo -e "\n=== Batch #$n:\n"
   cat $s                                            # source list (in www-team)
+  sed -i "/\\/master\\.$lang\\.po/d" $s
 
   echo "        [0] skip
         [1] copy only
@@ -171,7 +179,7 @@ for s in $batch1 $batch2 $batch3; do
   if [ -z "$copyonly" ]; then
     select_message
     if [ -z "$message" ]; then
-      echo "This batch will not be committed."
+      echo "No message. This batch will not be committed."
     else
       echo "cvs commit -m \"$message\" $(< $d)"
       echo "OK this commit."
