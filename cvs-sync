@@ -12,7 +12,8 @@
 
 # DESCRIPTION
 #    cvs-sync synchronizes the local www directory with the CVS repository
-#    on gnu.org, then www-team with the local www, and reports the differences.
+#    on gnu.org, then www-team (local branch 'www') with the local www
+#    directory, and reports the differences.
 #
 #    Method:
 #    1. cvs-sync calls 'cvs update' in www.
@@ -220,11 +221,10 @@ cd "$teamdir"
 if test -d ".git"; then
   # Find the current branch.
   curr_branch=$(git rev-parse --abbrev-ref HEAD)
-  if [ "$curr_branch" != 'master' ]; then
-    echo -e "\n!!! Please move to branch master."
+  if [ "$curr_branch" != 'www' ]; then
+    echo -e "\n!!! Please move to branch www."
     close_term 1
   fi
-  git pull || true
 fi
 
 # Create temporary files.
