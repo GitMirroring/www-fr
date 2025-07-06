@@ -139,11 +139,11 @@ d=$(mktemp -t commit.XXXXXX) || exit 1
 trap 'rm -f "$batch1" "$batch2" "$batch3" "$batch4" "$batch5" "$d"' EXIT
 
 # Get lists of modified POs.
-git dn www www^ > $batch1
-git dn www^ www^^ > $batch2
-git dn www^^ www^^^ > $batch3
-git dn www^^^ www^^^^ > $batch4
-git dn www^^^^ www^^^^^ > $batch5
+git diff --name-only www www^ > $batch1
+git diff --name-only www^ www^^ > $batch2
+git diff --name-only www^^ www^^^ > $batch3
+git diff --name-only www^^^ www^^^^ > $batch4
+git diff --name-only www^^^^ www^^^^^ > $batch5
 
 # Copy and commit.
 echo ''
