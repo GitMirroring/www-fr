@@ -46,9 +46,9 @@
 #    * the page is validated with xmllint;
 #    * the relative links to gnu.org articles are replaced with absolute links;
 #    * the PO is reformatted and validated with msgcat;
-#    * the revision date is updated;
-#    * (optionally) the obsolete messages and Oudated-Since line are deleted.
-#
+#    * (optionally) the obsolete messages and Oudated-Since line are deleted;
+#    * if the PO header needs to be updated, use transvalid-batch.
+
 #    [0] https://www.gnu.org/software/trans-coord/manual/gnun/gnun.html#Splitting-Long-Passages
 
 # OPTIONS
@@ -246,12 +246,6 @@ function add_split_tags () {
 <br />\n/*split*/\n<br />,' "$1"
 }
 
-function update_po_header () {
-# updates the revision date.
-  date=$(date +'%F %R%z')
-  sed -i "s,\\(Revision-Date: \\).*,\\1$date\\\\n\"," "$1"
-}
-
 function delete_outdated () {
   sed -i -e '/Outdated-Since/d' $1
 }
@@ -437,10 +431,6 @@ fi
 if test "$delobs" == "1"; then
   delete_obsolete "$po"
 fi
-
-# The PO header is updated in transvalid-batch. Uncomment if updating a
-# single PO. Leave commented out if transvalid-po is used for validation only.
-#update_po_header "$po"
 
 echo '    OK'
 exit $exit_code
