@@ -27,8 +27,8 @@
 #    * The script lists the POs that have been modified locally; the list can
 #      be amended by hand.
 #    * Each item is transvalidated.
-#    * If www-team is under Git control, there is an option to commit the
-#      batch of POs provided they are all valid.
+#    * If www-team is under Git control, the changes can be either unstaged or
+#      staged.
 
 # OPTIONS AND CURRENT SETTINGS
 #    Displayed by:   transvalid-batch -h
@@ -49,7 +49,7 @@ set -o pipefail
 
 function version () {
 cat <<EOF
-${0##*\/} version 0.2
+${0##*\/} version 0.3
 Copyright (C) 2013, 2015, 2016, 2024, 2025 Thérèse Godefroy
               with input from Rafael Fontenelle
 You may redistribute this script and/or modify it under the terms
@@ -75,6 +75,9 @@ Options and current settings:
   -m 'COMMIT MESSAGE'        [$message]
       Specify a commit message (optional, only applies to Git).
 
+  -t 'LAST TRANSLATOR'       [$translator]
+      Specify the name and email of the last translator.
+
   -V  Display version info and exit.
   -h  Display this help and exit.
 
@@ -92,18 +95,20 @@ conf="$HOME/.profile"
 teamdir=""
 editor=""
 message=""
+translator=""
 test -s "$conf" && source $conf
 
 TRANSVALID="$HOME/bin/transvalid-po"
 
 # Parse the command line.
 OPTIND=1
-while getopts "h?Ve:m:" opt; do
+while getopts "h?Ve:m:t:" opt; do
   case "$opt" in
     h | \? ) usage; exit 0 ;;
     V ) version; exit 0 ;;
     e ) editor=$OPTARG ;;
     m ) message=$OPTARG ;;
+    t ) translator=$OPTARG ;;
   esac
 done
 shift $((OPTIND-1))
@@ -188,9 +193,12 @@ function transvalidate () {
 }
 
 function update_po_header () {
-# updates the revision date.
+# updates the revision date and the last translator.
   date=$(date +'%F %R%z')
   sed -i "s,\\(Revision-Date: \\).*,\\1$date\\\\n\"," "$1"
+  test -z "$translator" &&
+    echo $translator
+    sed -i "s,\\(Last-Translator: \\).*,\\1$translator\\\\n\"," "$1"
 }
 
 function select_message () {
