@@ -83,6 +83,7 @@ function select_message () {
         [4] $message14
         [5] $message15
         [6] $message16
+        [7] $message17
         [other] no commit"
   read -s -n1 choice
   case "$choice" in
@@ -93,6 +94,7 @@ function select_message () {
     4) message=$message14 ;;
     5) message=$message15 ;;
     6) message=$message16 ;;
+    7) message=$message17 ;;
     *) message= ;;
   esac
 }
