@@ -132,6 +132,7 @@ FUZZY_DIFF=$(which gnun-add-fuzzy-diff) \
 #DTD=${0%\/*}
 DTD=/usr/local/share/gnun
 
+
 ## Parameters
 
 # Test whether the script is called from transvalid-batch. The -s option
@@ -278,10 +279,13 @@ function make_links_absolute () {
 }
 
 function fix_space () {
+# replaces entities with UTF-8 characters for easier reading, and
 # makes sure the right kind of nonbreakable space is used with punctuation.
 # The normal spaces are not replaced because of possible interference with
 # code, and the msgid is left unchanged.
   sed -i '/^msgstr/,/^$/ {
+      s,\&#8209;, ,g
+      s,\&ndash;,–,g
       s, ;, ;,g
       s, :, :,g
       s, !, !,g
@@ -302,6 +306,7 @@ master=$(mktemp -t tvp.XXXXXX)      || close_or_exit 1
 add_notes=$(mktemp -t tvp.XXXXXX)   || close_or_exit 1
 add_credits=$(mktemp -t tvp.XXXXXX) || close_or_exit 1
 trap 'rm -f "$top" "$merged" "$master" "$add_notes" "$add_credits"' EXIT
+
 
 ## Get the PO file and check it.
 
@@ -338,13 +343,19 @@ fi
 
 exit_code=0
 
-## Reformat/validate the PO.
+
+## Reformat and validate the PO.
+
 $MSGCAT -w 79 -o "$po" "$po" 1>&2 || (exit_code=$?; close_or_exit $exit_code)
 
 check_fuzz "$po" || (exit_code=$?; $FUZZY_DIFF -i "$po";
   close_or_exit $exit_code)
 
+
+## Generate and validate the translated HTML
+
 if [[ "${poname}" =~ "proprietary/$lang.po" ]]; then
+
   # Don't transvalidate the compendium. Merge it with the other malware files.
   if [ "$rerun" = "0" ] && [ -n "$MSGMERGE" ]; then
     check_fuzz "$po" || (exit_code=$?; $FUZZY_DIFF -i "$p";
@@ -366,6 +377,7 @@ if [[ "${poname}" =~ "proprietary/$lang.po" ]]; then
   fi
 
 else
+
   ## Get the original HTML.
   if test ! -f "$original"; then
     # Check whether the context is that of www.gnu.org, with the PO in
@@ -384,13 +396,11 @@ else
     is empty or is not an HTML."; close_or_exit $exit_code)
 
   ## Prepare the po4a "master".
-
   fix_html "$original" "$master"
   remove_last_update "$master"
   add_split_tags "$master"
 
   ## Generate the translated page.
-
   translation="${po/.po/-local.html}"
   rm -f "$translation"
 
@@ -411,7 +421,6 @@ else
   fi
 
   ## Validate and tweak the HTML.
-
   # Don't test files that wouldn't pass validation because of SSIs.
   if test "$po" = "${po%/body-include-2.*.po}"; then
     $XMLLINT --dtdvalid $DTD/html5.dtd --nonet --noout "$translation" 1>&2 ||
