@@ -7,9 +7,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-interference.html\n"
-"POT-Creation-Date: 2025-05-18 08:56+0000\n"
-"PO-Revision-Date: 2025-07-03 14:54+0200\n"
-"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
+"POT-Creation-Date: 2025-07-26 17:28+0000\n"
+"PO-Revision-Date: 2025-07-26 20:12+0200\n"
+"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -30,7 +30,7 @@ msgstr "Menu de section"
 
 #. type: Attribute 'alt' of: <div><a><img>
 msgid "&nbsp;[Section contents]&nbsp;"
-msgstr "&nbsp;[Menu de section]&nbsp;"
+msgstr " [Menu de section] "
 
 #. type: Content of: <div>
 msgid "</a>"
@@ -49,8 +49,7 @@ msgid ""
 "</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
 "type&nbsp;/"
 msgstr ""
-"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Maliciels</a>&nbsp;/ "
-"Par type&nbsp;/"
+"</a> / <a href=\"/proprietary/proprietary.html\">Maliciels</a> / Par type /"
 
 #. type: Content of: <div><h2>
 msgid "Proprietary Interference"
@@ -817,16 +816,17 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
-"The Microsoft Telemetry Compatibility service <a href=\"https://answers."
-"microsoft.com/en-us/windows/forum/all/microsoft-telemetry-compatibility/"
-"cefa7c8e-49c9-4965-aef6-2d5f01bb38f2\"> drastically reduces the performances "
-"of machines running Windows&nbsp;10</a>, and can't be disabled easily."
+"The Microsoft Telemetry Compatibility service <a href=\"https://web.archive."
+"org/web/20240606174511/https://answers.microsoft.com/en-us/windows/forum/all/"
+"microsoft-telemetry-compatibility/cefa7c8e-49c9-4965-aef6-2d5f01bb38f2\"> "
+"drastically reduces the performances of machines running Windows&nbsp;10</"
+"a>, and can't be disabled easily."
 msgstr ""
-"Le service <i>Microsoft Telemetry Compatibility</i> <a href=\"https://"
-"answers.microsoft.com/en-us/windows/forum/all/microsoft-telemetry-"
-"compatibility/cefa7c8e-49c9-4965-aef6-2d5f01bb38f2\">réduit considérablement "
-"les performances des machines sous Windows 10</a> et ne peut pas être "
-"désactivé facilement."
+"Le service <i>Microsoft Telemetry Compatibility</i> <a href=\"https://web."
+"archive.org/web/20240606174511/https://answers.microsoft.com/en-us/windows/"
+"forum/all/microsoft-telemetry-compatibility/cefa7c8e-49c9-4965-"
+"aef6-2d5f01bb38f2\">réduit considérablement les performances des machines "
+"sous Windows 10</a> et ne peut pas être désactivé facilement."
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
