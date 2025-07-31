@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2025-07-26 18:26+0000\n"
-"PO-Revision-Date: 2025-07-26 20:10+0200\n"
+"POT-Creation-Date: 2025-07-31 13:59+0000\n"
+"PO-Revision-Date: 2025-07-31 21:07+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -117,15 +117,11 @@ msgstr ""
 "n'incluant que des logiciels libres. Pour en <a href=\"#More-GNU\">apprendre "
 "plus sur GNU, voir ci-dessous</a>."
 
-#. type: Content of: <div><div><div>
+#. type: Content of: <div><div><p>
 msgid "<a href=\"/distros/free-distros.html\">Try GNU/Linux</a>"
 msgstr "<a href=\"/distros/free-distros.html\">Essayer GNU/Linux</a>"
 
-#. type: Content of: <div><div><div><p>
-msgid "<small><a href=\"#btn-right\">[Skip screenshots]</a></small>"
-msgstr "<small><a href=\"#btn-right\">[Sauter les copies d'écran]</a></small>"
-
-#. type: Content of: <div><div><div><div><div><p><a>
+#. type: Content of: <div><div><div><div><table><tr><td><a>
 msgid "<a href=\"#dragora\">"
 msgstr "<a href=\"#dragora\">"
 
@@ -133,11 +129,15 @@ msgstr "<a href=\"#dragora\">"
 msgid "&nbsp;[Screenshot of Dragora&nbsp;3.0-beta2 with TDE desktop]&nbsp;"
 msgstr " [Capture d'écran de Dragora 3.0-beta2 avec le bureau TDE] "
 
-#. type: Content of: <div><div><div><div><div><p>
-msgid "Dragora / TDE</a>"
-msgstr "Dragora / TDE</a>"
+#. type: Content of: <div><div><div><h3>
+msgid "</a>"
+msgstr "</a>"
 
-#. type: Content of: <div><div><div><div><div><p><a>
+#. type: Content of: <div><div><div><div><table><tr><td>
+msgid "<a href=\"#dragora\">Dragora / TDE</a>"
+msgstr "<a href=\"#dragora\">Dragora / TDE</a>"
+
+#. type: Content of: <div><div><div><div><table><tr><td><a>
 msgid "<a href=\"#guix\">"
 msgstr "<a href=\"#guix\">"
 
@@ -145,11 +145,11 @@ msgstr "<a href=\"#guix\">"
 msgid "&nbsp;[Screenshot of Guix&nbsp;1.4.0 with Plasma desktop]&nbsp;"
 msgstr " [Capture d'écran de Guix 1.4.0 avec le bureau Plasma] "
 
-#. type: Content of: <div><div><div><div><div><p>
-msgid "Guix / Plasma</a>"
-msgstr "Guix / Plasma</a>"
+#. type: Content of: <div><div><div><div><table><tr><td>
+msgid "<a href=\"#guix\">Guix / Plasma</a>"
+msgstr "<a href=\"#guix\">Guix / Plasma</a>"
 
-#. type: Content of: <div><div><div><div><div><p><a>
+#. type: Content of: <div><div><div><div><table><tr><td><a>
 msgid "<a href=\"#hyperbola\">"
 msgstr "<a href=\"#hyperbola\">"
 
@@ -157,11 +157,11 @@ msgstr "<a href=\"#hyperbola\">"
 msgid "&nbsp;[Screenshot of Hyperbola with i3 window manager]&nbsp;"
 msgstr " [Capture d'écran de Hyperbola avec le gestionnaire de fenêtres i3] "
 
-#. type: Content of: <div><div><div><div><div><p>
-msgid "Hyperbola / i3</a>"
-msgstr "Hyperbola / i3</a>"
+#. type: Content of: <div><div><div><div><table><tr><td>
+msgid "<a href=\"#hyperbola\">Hyperbola / i3</a>"
+msgstr "<a href=\"#hyperbola\">Hyperbola / i3</a>"
 
-#. type: Content of: <div><div><div><div><div><p><a>
+#. type: Content of: <div><div><div><div><table><tr><td><a>
 msgid "<a href=\"#parabola\">"
 msgstr "<a href=\"#parabola\">"
 
@@ -169,11 +169,11 @@ msgstr "<a href=\"#parabola\">"
 msgid "&nbsp;[Screenshot of Parabola with LXDE desktop]&nbsp;"
 msgstr " [Capture d'écran de Parabola avec le bureau LXDE] "
 
-#. type: Content of: <div><div><div><div><div><p>
-msgid "Parabola / LXDE</a>"
-msgstr "Parabola / LXDE</a>"
+#. type: Content of: <div><div><div><div><table><tr><td>
+msgid "<a href=\"#parabola\">Parabola / LXDE</a>"
+msgstr "<a href=\"#parabola\">Parabola / LXDE</a>"
 
-#. type: Content of: <div><div><div><div><div><p><a>
+#. type: Content of: <div><div><div><div><table><tr><td><a>
 msgid "<a href=\"#pureos\">"
 msgstr "<a href=\"#pureos\">"
 
@@ -181,11 +181,11 @@ msgstr "<a href=\"#pureos\">"
 msgid "&nbsp;[Screenshot of PureOS&nbsp;10.3 with GNOME&nbsp;3 desktop]&nbsp;"
 msgstr " [Capture d'écran de PureOS 10.3 avec le bureau GNOME 3] "
 
-#. type: Content of: <div><div><div><div><div><p>
-msgid "PureOS / GNOME3</a>"
-msgstr "PureOS / GNOME3</a>"
+#. type: Content of: <div><div><div><div><table><tr><td>
+msgid "<a href=\"#pureos\">PureOS / GNOME3</a>"
+msgstr "<a href=\"#pureos\">PureOS / GNOME3</a>"
 
-#. type: Content of: <div><div><div><div><div><p><a>
+#. type: Content of: <div><div><div><div><table><tr><td><a>
 msgid "<a href=\"#trisquel\">"
 msgstr "<a href=\"#trisquel\">"
 
@@ -193,25 +193,25 @@ msgstr "<a href=\"#trisquel\">"
 msgid "&nbsp;[Screenshot of Trisquel&nbsp;11 with MATE desktop]&nbsp;"
 msgstr " [Capture d'écran de Trisquel 11 avec le bureau MATE] "
 
-#. type: Content of: <div><div><div><div><div><p>
-msgid "Trisquel / MATE</a>"
-msgstr "Trisquel / MATE</a>"
+#. type: Content of: <div><div><div><div><table><tr><td>
+msgid "<a href=\"#trisquel\">Trisquel / MATE</a>"
+msgstr "<a href=\"#trisquel\">Trisquel / MATE</a>"
 
-#. type: Content of: <div><div><div><div><div>
+#. type: Content of: <div><div><div><p>
+msgid "<b><a href=\"#btn-right\">[Skip screenshots]</a></b>"
+msgstr "<b><a href=\"#btn-right\">[Sauter les copies d'écran]</a></b>"
+
+#. type: Content of: <div><div><div><div><div><div>
 msgid ""
-"<a class=\"close-screenshot\" title=\"close\" href=\"#skip-screenshots"
-"\">&times;</a>"
+"<small class=\"to-thumbnails\"><a href=\"#thumbs\">[back to thumbnails]</a></"
+"small>"
 msgstr ""
-"<a class=\"close-screenshot\" title=\"Fermer\" href=\"#skip-screenshots"
-"\">&times;</a>"
+"<small class=\"to-thumbnails\"><a href=\"#thumbs\">[retour aux miniatures]</"
+"a></small>"
 
 #. type: Content of: <div><div><div><div><div><a>
 msgid "<a href=\"/distros/screenshots/dragora-tde.jpg\">"
 msgstr "<a href=\"/distros/screenshots/dragora-tde.jpg\">"
-
-#. type: Content of: <div><div><div><h3>
-msgid "</a>"
-msgstr "</a>"
 
 #. type: Content of: <div><div><div><div><div><p>
 msgid ""
@@ -220,6 +220,16 @@ msgid ""
 msgstr ""
 "<a href=\"https://dragora.org/index.html\">Dragora 3.0-beta2</a> avec le <a "
 "href=\"https://www.trinitydesktop.org/\">bureau TDE</a>"
+
+#. type: Content of: <div><div><div><div><div><div>
+msgid ""
+"<small><a class=\"skip-screenshots\" href=\"#btn-right\">[skip screenshots]</"
+"a> <a class=\"to-thumbnails\" href=\"#thumbs\">[back to thumbnails]</a></"
+"small>"
+msgstr ""
+"<small><a class=\"skip-screenshots\" href=\"#btn-right\">[sauter les copies "
+"d'écran]</a> <a class=\"to-thumbnails\" href=\"#thumbs\">[retour aux "
+"miniatures]</a></small>"
 
 #. type: Content of: <div><div><div><div><div><a>
 msgid "<a href=\"https://guix.gnu.org/static/media/img/plasma.png\">"
@@ -234,6 +244,16 @@ msgstr ""
 "<a href=\"/software/guix/\">Guix 1.4.0</a> avec le bureau <a href=\"https://"
 "kde.org/plasma-desktop/\">Plasma</a>, son émulateur de terminal et les "
 "paramètres système"
+
+#. type: Content of: <div><div><div><div><div><div>
+msgid ""
+"<small class=\"skip-screenshots\"><a href=\"#btn-right\">[skip screenshots]</"
+"a></small> <small class=\"to-thumbnails\"><a href=\"#thumbs\">[back to "
+"thumbnails]</a></small>"
+msgstr ""
+"<small class=\"skip-screenshots\"><a href=\"#btn-right\">[sauter les copies "
+"d'écran]</a></small> <small class=\"to-thumbnails\"><a href=\"#thumbs\">"
+"[retour aux miniatures]</a></small>"
 
 #. type: Content of: <div><div><div><div><div><a>
 msgid "<a href=\"/distros/screenshots/hyperbola-i3.png\">"
@@ -296,7 +316,7 @@ msgstr ""
 "\"https://mate-desktop.org/\">MATE</a> et une partie de la suite <a href="
 "\"https://www.libreoffice.org/\">LibreOffice</a>"
 
-#. type: Content of: <div><div><div>
+#. type: Content of: <div><div><p>
 msgid ""
 "... or <a href=\"https://directory.fsf.org/wiki/Free_Software_Directory:"
 "Free_software_replacements\"> Try parts of GNU</a>"
