@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2025-07-31 13:59+0000\n"
-"PO-Revision-Date: 2025-07-31 21:07+0200\n"
+"POT-Creation-Date: 2025-07-31 18:56+0000\n"
+"PO-Revision-Date: 2025-08-01 11:24+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -121,6 +121,10 @@ msgstr ""
 msgid "<a href=\"/distros/free-distros.html\">Try GNU/Linux</a>"
 msgstr "<a href=\"/distros/free-distros.html\">Essayer GNU/Linux</a>"
 
+#. type: Content of: <div><div><div><p>
+msgid "<a href=\"#btn-right\">[Skip thumbnails]</a>"
+msgstr "<a href=\"#btn-right\">[Sauter les miniatures]</a>"
+
 #. type: Content of: <div><div><div><div><table><tr><td><a>
 msgid "<a href=\"#dragora\">"
 msgstr "<a href=\"#dragora\">"
@@ -199,7 +203,7 @@ msgstr "<a href=\"#trisquel\">Trisquel / MATE</a>"
 
 #. type: Content of: <div><div><div><p>
 msgid "<b><a href=\"#btn-right\">[Skip screenshots]</a></b>"
-msgstr "<b><a href=\"#btn-right\">[Sauter les copies d'écran]</a></b>"
+msgstr "<b><a href=\"#btn-right\">[Sauter les captures d'écran]</a></b>"
 
 #. type: Content of: <div><div><div><div><div><div>
 msgid ""
@@ -227,9 +231,9 @@ msgid ""
 "a> <a class=\"to-thumbnails\" href=\"#thumbs\">[back to thumbnails]</a></"
 "small>"
 msgstr ""
-"<small><a class=\"skip-screenshots\" href=\"#btn-right\">[sauter les copies "
-"d'écran]</a> <a class=\"to-thumbnails\" href=\"#thumbs\">[retour aux "
-"miniatures]</a></small>"
+"<small><a class=\"skip-screenshots\" href=\"#btn-right\">[sauter les "
+"captures d'écran]</a> <a class=\"to-thumbnails\" href=\"#thumbs\">[retour "
+"aux miniatures]</a></small>"
 
 #. type: Content of: <div><div><div><div><div><a>
 msgid "<a href=\"https://guix.gnu.org/static/media/img/plasma.png\">"
@@ -251,9 +255,9 @@ msgid ""
 "a></small> <small class=\"to-thumbnails\"><a href=\"#thumbs\">[back to "
 "thumbnails]</a></small>"
 msgstr ""
-"<small class=\"skip-screenshots\"><a href=\"#btn-right\">[sauter les copies "
-"d'écran]</a></small> <small class=\"to-thumbnails\"><a href=\"#thumbs\">"
-"[retour aux miniatures]</a></small>"
+"<small class=\"skip-screenshots\"><a href=\"#btn-right\">[sauter les "
+"captures d'écran]</a></small> <small class=\"to-thumbnails\"><a href="
+"\"#thumbs\">[retour aux miniatures]</a></small>"
 
 #. type: Content of: <div><div><div><div><div><a>
 msgid "<a href=\"/distros/screenshots/hyperbola-i3.png\">"
