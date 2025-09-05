@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: proprietary/\n"
 "POT-Creation-Date: 2023-05-31 14:26+0000\n"
-"PO-Revision-Date: 2025-08-31 10:43+0200\n"
+"PO-Revision-Date: 2025-09-05 10:41+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -1131,12 +1131,16 @@ msgid "&nbsp;<a href=\"#apple\">Apple</a>&nbsp;"
 msgstr "&nbsp;<a href=\"#apple\">Apple</a>&nbsp;"
 
 #. type: Content of: <div><div><div><ul><li>
-msgid "&nbsp;<a href=\"#microsoft\">Microsoft</a>&nbsp;"
-msgstr "&nbsp;<a href=\"#microsoft\">Microsoft</a>&nbsp;"
-
-#. type: Content of: <div><div><div><ul><li>
 msgid "&nbsp;<a href=\"#consoles\">Game&nbsp;consoles</a>&nbsp;"
 msgstr "&nbsp;<a href=\"#consoles\">Consoles de jeu</a>&nbsp;"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "&nbsp;<a href=\"#google\">Google</a>&nbsp;"
+msgstr "&nbsp;<a href=\"#google\">Google</a>&nbsp;"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "&nbsp;<a href=\"#microsoft\">Microsoft</a>&nbsp;"
+msgstr "&nbsp;<a href=\"#microsoft\">Microsoft</a>&nbsp;"
 
 #. type: Content of: <div><div><h3>
 msgid "Apple"
@@ -1575,45 +1579,6 @@ msgstr ""
 "à cause de son thème</a>."
 
 #. type: Content of: <div><div><h3>
-msgid "Microsoft"
-msgstr "Microsoft"
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"Windows 10 S was a jail: <a href=\"https://www.theguardian.com/"
-"technology/2017/may/03/windows-10-s-microsoft-faster-pc-comparison\"> only "
-"programs from the Windows Store could be installed and executed</a>. It was "
-"however possible to <a href=\"https://www.theverge.com/2017/6/13/15789998/"
-"microsoft-windows-10-s-upgrade-windows-10-pro-guide\"> upgrade to Windows 10 "
-"Pro</a>. The successor of Windows 10 S is a special configuration of Windows "
-"10 called <a href=\"https://support.microsoft.com/en-us/windows/windows-10-"
-"and-windows-11-in-s-mode-faq-851057d6-1ee9-b9e5-c30b-93baebeebc85\"> S mode</"
-"a>. The major difference with Windows 10 S is that there is an easy way to "
-"switch out of S mode."
-msgstr ""
-"Windows 10 S était une prison : <a href=\"https://www.theguardian.com/"
-"technology/2017/may/03/windows-10-s-microsoft-faster-pc-comparison\">Seuls "
-"les programmes du magasin de Windows pouvaient être installés et exécutés</"
-"a>. Il était cependant possible de <a href=\"https://www.theverge."
-"com/2017/6/13/15789998/microsoft-windows-10-s-upgrade-windows-10-pro-guide"
-"\">passer à Windows 10 Pro</a>. Le successeur de Windows 10 S est une "
-"configuration spéciale de Windows 10 appelée <a href=\"https://support."
-"microsoft.com/en-us/windows/windows-10-and-windows-11-in-s-mode-"
-"faq-851057d6-1ee9-b9e5-c30b-93baebeebc85\">mode S</a>. Sa différence "
-"principale avec Windows 10 est qu'on peut facilement sortir du mode S."
-
-#. type: Content of: <div><div><ul><li><p>
-msgid ""
-"<a href=\"https://web.archive.org/web/20190917162027/https://www.itworld.com/"
-"article/2832657/microsoft-metro-app-store-lock-down.html\"> Windows 8 on "
-"&ldquo;mobile devices&rdquo; (now defunct) was a jail</a>."
-msgstr ""
-"<a href=\"https://web.archive.org/web/20190917162027/https://www.itworld.com/"
-"article/2832657/microsoft-metro-app-store-lock-down.html\">Feu Windows 8 "
-"pour « appareils mobiles » était une prison</a> : il censurait le choix de "
-"l'utilisateur en matière de programmes d'application."
-
-#. type: Content of: <div><div><h3>
 msgid "Game consoles"
 msgstr "Consoles de jeu"
 
@@ -1671,6 +1636,87 @@ msgstr ""
 "tiers sur la console Xbox, <a href=\"https://events.ccc.de/congress/2005/"
 "fahrplan/attachments/591-paper_xbox.pdf\">il a fallu briser les restrictions "
 "imposées par Microsoft</a>."
+
+#. type: Content of: <div><div><h3>
+msgid "Google"
+msgstr "Google"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Google has announced the inclusion of a <a href=\"https://news.itsfoss.com/"
+"new-android-sideloading-rules\"> &ldquo;security&rdquo; measure</a> on "
+"Android &ldquo;smartphones&rdquo; which will require any software installed "
+"in certified Android devices to come from a developer who has gone through "
+"Google's new developer verification program."
+msgstr ""
+"Google a annoncé l'inclusion dans les « smartphones » Android d'une <a href="
+"\"https://news.itsfoss.com/new-android-sideloading-rules\">mesure de "
+"« sécurité »</a> qui s'assurera que tous les logiciels installés sur des "
+"appareils certifiés Android proviennent d'un développeur ayant suivi le "
+"nouveau programme de vérification de Google."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"The problem here is not that there's a system that provides trust on the "
+"origin of the software. A system like that might be useful, but the end user "
+"should still be able to select which organization provides that service, or "
+"maybe set up such an organization or renounce the service altogether."
+msgstr ""
+"Le problème n'est pas l'existence d'un système qui garantit l'origine du "
+"logiciel. Un tel système peut être utile, mais l'utilisateur final doit être "
+"en mesure de choisir quelle organisation lui fournit ce service, ou "
+"éventuellement de créer une organisation à cet effet, ou encore de renoncer "
+"purement et simplement à ce service."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Making this verification exclusive to Google makes us question which is the "
+"threat here? Is it a user installing malware inadvertedly? Or is it the user "
+"installing software that makes Google lose money?"
+msgstr ""
+"Le fait de donner l'exclusivité de cette vérification à Google nous amène à "
+"questionner la nature de la menace. Est-ce l'installation fortuite par "
+"l'utilisateur d'un logiciel malveillant ? Ou bien est-ce l'installation par "
+"l'utilisateur d'un logiciel qui ferait perdre de l'argent à Google ?"
+
+#. type: Content of: <div><div><h3>
+msgid "Microsoft"
+msgstr "Microsoft"
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"Windows 10 S was a jail: <a href=\"https://www.theguardian.com/"
+"technology/2017/may/03/windows-10-s-microsoft-faster-pc-comparison\"> only "
+"programs from the Windows Store could be installed and executed</a>. It was "
+"however possible to <a href=\"https://www.theverge.com/2017/6/13/15789998/"
+"microsoft-windows-10-s-upgrade-windows-10-pro-guide\"> upgrade to Windows 10 "
+"Pro</a>. The successor of Windows 10 S is a special configuration of Windows "
+"10 called <a href=\"https://support.microsoft.com/en-us/windows/windows-10-"
+"and-windows-11-in-s-mode-faq-851057d6-1ee9-b9e5-c30b-93baebeebc85\"> S mode</"
+"a>. The major difference with Windows 10 S is that there is an easy way to "
+"switch out of S mode."
+msgstr ""
+"Windows 10 S était une prison : <a href=\"https://www.theguardian.com/"
+"technology/2017/may/03/windows-10-s-microsoft-faster-pc-comparison\">Seuls "
+"les programmes du magasin de Windows pouvaient être installés et exécutés</"
+"a>. Il était cependant possible de <a href=\"https://www.theverge."
+"com/2017/6/13/15789998/microsoft-windows-10-s-upgrade-windows-10-pro-guide"
+"\">passer à Windows 10 Pro</a>. Le successeur de Windows 10 S est une "
+"configuration spéciale de Windows 10 appelée <a href=\"https://support."
+"microsoft.com/en-us/windows/windows-10-and-windows-11-in-s-mode-"
+"faq-851057d6-1ee9-b9e5-c30b-93baebeebc85\">mode S</a>. Sa différence "
+"principale avec Windows 10 est qu'on peut facilement sortir du mode S."
+
+#. type: Content of: <div><div><ul><li><p>
+msgid ""
+"<a href=\"https://web.archive.org/web/20190917162027/https://www.itworld.com/"
+"article/2832657/microsoft-metro-app-store-lock-down.html\"> Windows 8 on "
+"&ldquo;mobile devices&rdquo; (now defunct) was a jail</a>."
+msgstr ""
+"<a href=\"https://web.archive.org/web/20190917162027/https://www.itworld.com/"
+"article/2832657/microsoft-metro-app-store-lock-down.html\">Feu Windows 8 "
+"pour « appareils mobiles » était une prison</a> : il censurait le choix de "
+"l'utilisateur en matière de programmes d'application."
 
 #. type: Content of: <div><p>
 msgid "Copyright &copy; 2014-2025 Free Software Foundation, Inc."
@@ -4078,10 +4124,6 @@ msgstr ""
 "censure par l'intermédiaire de l'Apple Store. Pour plus de détails, veuillez "
 "consulter <a href=\"/proprietary/proprietary-jails.html#apple\">Prisons du "
 "logiciel privateur</a>."
-
-#. type: Content of: <div><div><h3>
-msgid "Google"
-msgstr "Google"
 
 #. type: Content of: <div><div><ul><li><p>
 msgid ""
