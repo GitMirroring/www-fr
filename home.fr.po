@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2025-08-31 07:55+0000\n"
-"PO-Revision-Date: 2025-08-31 10:48+0200\n"
+"POT-Creation-Date: 2025-09-08 15:55+0000\n"
+"PO-Revision-Date: 2025-09-08 18:16+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -203,9 +203,11 @@ msgstr ""
 "href=\"https://mate-desktop.org/\">MATE</a> et une partie de la suite <a "
 "href=\"https://www.libreoffice.org/\">LibreOffice</a></small>"
 
+#. #echo encoding='none' var='link'
+#.     
 #. type: Content of: <div><div><div><div><p>
-msgid "<small><a href=\"#thumbs\">[close screenshot]</a></small>"
-msgstr "<small><a href=\"#thumbs\">[Fermer la capture d'écran]</a></small>"
+msgid "[close screenshot]"
+msgstr "[Fermer la capture d'écran]"
 
 #. type: Content of: <div><div><div><div><p>
 msgid "<small>Dragora / TDE</small>"
