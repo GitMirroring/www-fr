@@ -8,9 +8,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: other-free-books.html\n"
-"POT-Creation-Date: 2024-11-21 13:25+0000\n"
-"PO-Revision-Date: 2025-07-03 14:54+0200\n"
-"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
+"POT-Creation-Date: 2025-09-14 07:25+0000\n"
+"PO-Revision-Date: 2025-09-14 17:02+0200\n"
+"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -43,13 +43,13 @@ msgstr ""
 msgid "Free Books from Other Publishers"
 msgstr "Livres libres d'autres éditeurs"
 
-#. type: Content of: <div><div><ul><li>
-msgid "<a href=\"#English\">Free books in English</a>"
-msgstr "<a href=\"#English\">Livres libres en anglais</a>"
-
-#. type: Content of: <div><div><ul><li>
-msgid "<a href=\"#Spanish\">Free books in Spanish</a>"
-msgstr "<a href=\"#Spanish\">Livres libres en espagnol</a>"
+#. type: Content of: <div><div><p>
+msgid ""
+"&nbsp;<a href=\"#English\">Free books in English</a>&nbsp; &nbsp;<a href="
+"\"#Spanish\">Free books in Spanish</a>&nbsp;"
+msgstr ""
+"&nbsp;<a href=\"#English\">Livres libres en anglais</a>&nbsp; &nbsp;<a href="
+"\"#Spanish\">Livres libres en espagnol</a>&nbsp;"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -143,8 +143,8 @@ msgid "Publisher"
 msgstr "Éditeur"
 
 #. type: Content of: <table><tr><th>
-msgid "ISBN 13"
-msgstr "ISBN 13"
+msgid "ISBN&nbsp;13"
+msgstr "ISBN 13"
 
 #. type: Content of: <table><tr><th>
 msgid "License"
@@ -803,7 +803,7 @@ msgstr "Brian Fox, Chet Ramney"
 msgid "(translated by Jorge Maldonado Ventura)"
 msgstr "(traduit par Jorge Maldonado Ventura)"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "<a href=\"#ALP_ENTRY\" id=\"ALP_NOTE\"><strong>Note on Advanced Linux "
 "Programming, First Edition:</strong></a>"
@@ -811,7 +811,7 @@ msgstr ""
 "<a href=\"#ALP_ENTRY\" id=\"ALP_NOTE\"><strong>Note sur <cite>Advanced Linux "
 "Programming</cite>, 1re édition :</strong></a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "The June 2001 printing of this book failed to list the license notification "
 "properly.  This printed edition says it is a proprietary book.  The "
@@ -874,10 +874,11 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
+# Pas de changement significatif en 2025.
 #. type: Content of: <div><p>
 msgid ""
 "Copyright &copy; 2000, 2001, 2003-2005, 2007-2009, 2011, 2012, 2013, "
-"2017-2019, 2023, 2024 Free Software Foundation, Inc."
+"2017-2019, 2023, 2024, 2025 Free Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 2000, 2001, 2003-2005, 2007-2009, 2011, 2012, 2013, "
 "2017-2019, 2023, 2024 Free Software Foundation, Inc."
