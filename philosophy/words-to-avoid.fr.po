@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
-"POT-Creation-Date: 2025-09-21 11:55+0000\n"
-"PO-Revision-Date: 2025-09-21 16:07+0200\n"
+"POT-Creation-Date: 2025-09-30 10:25+0000\n"
+"PO-Revision-Date: 2025-09-30 13:58+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -352,6 +352,11 @@ msgstr ""
 "<!-- « source » --> « <a href=\"#SourceModel\">modèle de source</a> » |"
 
 #.  GNUN-SORT-NEXT-ITEM 
+#. type: Content of: <div><div><p>
+msgid "&ldquo;<a href=\"#Steward\">Steward</a>&rdquo; |"
+msgstr "« <a href=\"#Steward\">intendant</a> » |"
+
+#.  GNUN-SORT-NEXT-ITEM 
 #. #if expr="$LANGUAGE_SUFFIX	= /^.(es)$/" 
 #.  TRANSLATORS: translate if this word is used often in your
 #.      language to refer to mobile computers; otherwise,
@@ -368,6 +373,12 @@ msgstr "« <a href=\"#Terminal\">terminal</a> » |"
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Theft\">Theft</a>&rdquo; |"
 msgstr "« <a href=\"#Theft\">vol</a> »"
+
+#.  GNUN-SORT-END-KEY 
+#.  GNUN-SORT-NEXT-ITEM 
+#. type: Content of: <div><div><p>
+msgid "&ldquo;<a href=\"#Tool\">Tool</a>&rdquo; |"
+msgstr "« <a href=\"#Tool\">outil</a> » |"
 
 #.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
@@ -627,7 +638,7 @@ msgid ""
 "understanding that verbiage semantically.  This conclusion has received "
 "support from the paper titled <a href=\"https://link.springer.com/"
 "article/10.1007/s10676-024-09775-5\"> <cite>ChatGPT is bullshit</cite></a> "
-"by <a href=\"#ft1\">Hicks et al.</a>, (2024)."
+"by <a href=\"#ft1\">Hicks et al.</a> (2024)."
 msgstr ""
 "« Générateur de conneries » est ce qui convient pour des systèmes comme les "
 "« grands modèles linguistiques » (LLM – <i>(Large Language Models</i>), par "
@@ -700,30 +711,35 @@ msgid ""
 "organism shows a certain medical condition, <a href=\"https://www."
 "theguardian.com/environment/2024/apr/03/early-warning-system-track-asian-"
 "hornets-university-of-exeter\">whether an insect is a bee-eating Asian "
-"hornet</a>, or <a href=\"https://www.theguardian.com/society/article/2024/"
+"hornet</a>, <a href=\"https://www.theguardian.com/society/article/2024/"
 "aug/19/ai-may-help-experts-identify-toddlers-at-risk-of-autism-researchers-"
-"say\">whether a toddler may be at risk of becoming autistic</a>.  Scientists "
-"validate the output by comparing the system's judgment against experimental "
-"tests.  That justifies referring to these systems as &ldquo;artificial "
-"intelligence.&rdquo; Likewise the systems that antisocial media use to "
-"decide what to show or recommend to a user, since the companies validate "
-"that they actually understand what will increase &ldquo;user engagement,"
-"&rdquo; even though that manipulation of users may be harmful <em>to them "
-"and to society as a whole</em>."
+"say\">whether a toddler may be at risk of becoming autistic</a>, or <a href="
+"\"https://www.theguardian.com/artanddesign/2025/sep/27/caravaggio-the-lute-"
+"player-badminton-ai-analysis\">how well a certain art work matches some "
+"artist's style and habits</a>.  Scientists validate the system by comparing "
+"its judgment against experimental tests.  That justifies referring to these "
+"systems as &ldquo;artificial intelligence.&rdquo; Likewise the systems that "
+"antisocial media use to decide what to show or recommend to a user, since "
+"the companies validate that they actually understand what will increase "
+"&ldquo;user engagement,&rdquo; even though that manipulation of users may be "
+"harmful <em>to them and to society as a whole</em>."
 msgstr ""
 "Il existe des systèmes qui se servent de l'apprentissage machine pour "
 "reconnaître des motifs spécifiques importants dans les données. Leurs "
 "résultats peuvent refléter une véritable connaissance (même si la précision "
 "en est imparfaite) ; ils peuvent suggérer, par exemple, que l'image d'un "
-"tissu provenant d'un organisme montre les signes d'une certaine maladie <a "
+"tissu provenant d'un organisme montre les signes d'une certaine maladie, <a "
 "href=\"https://www.theguardian.com/environment/2024/apr/03/early-warning-"
 "system-track-asian-hornets-university-of-exeter\">qu'un insecte est un "
 "frelon asiatique mangeur d'abeilles</a>, ou <a href=\"https://www."
 "theguardian.com/society/article/2024/aug/19/ai-may-help-experts-identify-"
 "toddlers-at-risk-of-autism-researchers-say\">qu'un enfant risque peut-être "
-"de devenir autiste</a>. Des scientifiques valident les résultats en "
-"comparant les propositions du système à des tests expérimentaux. Cela "
-"justifie l'appellation d'« intelligence artificielle » pour ces systèmes. De "
+"de devenir autiste</a>. Ils peuvent aussi évaluer <a href=\"https://www."
+"theguardian.com/artanddesign/2025/sep/27/caravaggio-the-lute-player-"
+"badminton-ai-analysis\">dans quelle mesure une certaine œuvre d'art "
+"s'accorde avec le style et les habitudes d'un artiste</a>. Des scientifiques "
+"valident le système en comparant ses propositions à des tests expérimentaux. "
+"Cela justifie d'appeler ces systèmes « intelligences artificielles ». De "
 "même pour les systèmes utilisés par les réseaux antisociaux pour décider de "
 "ce qu'il faut montrer ou recommander à un utilisateur, car ces entreprises "
 "vérifient qu'ils comprennent ce qui va augmenter « l'engagement de "
@@ -2920,6 +2936,34 @@ msgstr ""
 "d'« open source » dans des pages qui décrivent des programmes libres."
 
 #. type: Content of: <div><h3>
+msgid "&ldquo;Steward&rdquo;"
+msgstr "« Intendant »"
+
+#. type: Content of: <div><p>
+msgid ""
+"We urge you to completely avoid use of the word &ldquo;steward&rdquo; in "
+"association with any free program or with free software in general.  A "
+"European Union Directive has given the word a precise legal meaning which "
+"implies certain legal responsibilities.  Let's not risk imposing "
+"responsibilities on free software developers by casually calling people "
+"&ldquo;stewards.&rdquo;"
+msgstr ""
+"Nous vous exhortons à éviter d'associer le mot « intendant » avec tout "
+"programme libre ou avec le logiciel libre en général. Un règlement de "
+"l'Union européenne a donné à ce mot une signification juridique précise qui "
+"implique certaines responsabilités légales. Ne prenons pas le risque "
+"d'imposer des responsabilités à des développeurs de logiciels libres en les "
+"appelant « intendants » de manière informelle."
+
+#. type: Content of: <div><p>
+msgid ""
+"However, if your lawyer has given you specific legal advice about this, we "
+"encourage you to follow it."
+msgstr ""
+"Cependant, si votre avocat vous a donné un conseil particulier à ce sujet, "
+"nous vous invitons à le suivre."
+
+#. type: Content of: <div><h3>
 msgid "&ldquo;Terminal&rdquo;"
 msgstr "« Terminal »"
 
@@ -3002,6 +3046,67 @@ msgstr ""
 "reconnu que  <a href=\"https://torrentfreak.com/mpaa-banned-from-using-"
 "piracy-and-theft-terms-in-hotfile-trial-131129/\">« piratage » et « vol » "
 "étaient diffamatoires</a>."
+
+#. type: Content of: <div><h3>
+msgid "&ldquo;Tool&rdquo;"
+msgstr "« Outils »"
+
+#. type: Content of: <div><p>
+msgid "If someone invites you to use a &ldquo;tool&rdquo;, watch out!"
+msgstr "Si quelqu'un vous invite à utiliser le mot « outil », méfiez-vous !"
+
+#. type: Content of: <div><p>
+msgid ""
+"We used to use the word &ldquo;tool&rdquo; to refer to programs that "
+"programmers use in software development&mdash;such as the GNU Compiler "
+"Collection.  No problem with that meaning."
+msgstr ""
+"Nous avions l'habitude d'utiliser le mot « outil » pour désigner des "
+"programmes que les programmeurs utilisent dans le développement "
+"informatique, comme GCC (collection de compilateurs GNU). Aucun problème "
+"avec cette signification."
+
+#. type: Content of: <div><p>
+msgid ""
+"Nowadays we see people using the word &ldquo;tool&rdquo; to lump together "
+"programs and remote services, treating that difference as insignificant.  "
+"Morally, that distinction is crucial: a program that you can install to do "
+"your computing can respect your freedom (if it is free software), but a "
+"service <a href=\"/philosophy/who-does-that-server-really-serve.html\">to do "
+"some of <em>your</em> computing while running on someone else's server</a> "
+"cannot possibly respect your freedom."
+msgstr ""
+"De nos jours, nous voyons des gens utiliser ce mot pour mélanger des "
+"programmes et des services en ligne, en traitant leur différence comme "
+"quantité négligeable. Moralement, il est crucial de faire cette "
+"distinction : un programme que vous pouvez installer pour faire vos tâches "
+"informatiques peut respecter votre liberté s'il est libre, mais un service "
+"qui <a href=\"/philosophy/who-does-that-server-really-serve.html\">fait "
+"certaines de vos tâches informatiques <em>à vous</em> en tournant sur "
+"l'ordinateur de quelqu'un d'autre</a> ne peut en aucun cas respecter votre "
+"liberté."
+
+#. type: Content of: <div><p>
+msgid ""
+"Please avoid using the word &ldquo;tool&rdquo; with this vague meaning.  "
+"When you're talking about a program, always call it a &ldquo;program&rdquo; "
+"if it is a program released for users to run.  (If it is not free/libre, it "
+"is usually better not to mention it at all.)"
+msgstr ""
+"Évitez d'utiliser le mot « outil » dans ce sens imprécis. quand vous parlez "
+"d'un programme, appelez-le toujours « programme » s'il est destiné à tourner "
+"chez l'utilisateur. (S'il n'est pas libre, il est généralement préférable de "
+"ne pas en parler.)"
+
+#. type: Content of: <div><p>
+msgid ""
+"On the other hand, if it is a service and what it does is the user's own "
+"computing, that's worse than a nonfree program, so best not to promote it at "
+"all."
+msgstr ""
+"Par contre, si c'est un service et que ce qu'il fait est l'informatique de "
+"l'utilisateur, c'est pire qu'un programme non libre. Mieux vaut alors ne pas "
+"en faire du tout la promotion."
 
 #. type: Content of: <div><h3>
 msgid "&ldquo;Trusted Computing&rdquo;"
@@ -3135,12 +3240,11 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
-# Pas de changement significatif en 2025;
 #. type: Content of: <div><p>
 msgid ""
 "Copyright &copy; 1996-2018, 2020, 2021, 2022, 2023, 2024, 2025 Free Software "
 "Foundation, Inc."
-msgstr "Copyright &copy; 1996-2018, 2020-2024 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1996-2018, 2020-2025 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
