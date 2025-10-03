@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: outdated.html\n"
-"POT-Creation-Date: 2025-08-11 18:29+0000\n"
+"POT-Creation-Date: 2025-10-01 19:25+0000\n"
 "PO-Revision-Date: 2014-07-14 13:25+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #. #set var="ORIGINAL_LINK"
 #.        value="<a class=\"original-link\" href=\"${ORIGINAL_FILE}.en\">" 
-#. #if expr='${OUTDATED_SINCE}' 
+#. #if expr="${OUTDATED_SINCE} != ''" 
 #.  TRANSLATORS: The date will follow this string. 
 #. type: Content of: <div><div><p>
 msgid "This translation may not reflect the changes made since"
@@ -66,7 +66,7 @@ msgid "<span>.</span>"
 msgstr "."
 
 #
-#. #if expr='${DIFF_FILE}' 
+#. #if expr="${DIFF_FILE} != ''" 
 #. #set var="DIFF_LINK" value="<a href=\"${DIFF_FILE}\">" 
 #. TRANSLATORS: The link to the page with differences
 #.              will follow this string. 
