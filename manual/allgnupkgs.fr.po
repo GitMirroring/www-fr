@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: allgnupkgs.html\n"
-"POT-Creation-Date: 2025-11-09 11:31+0000\n"
-"PO-Revision-Date: 2025-11-10 07:23+0100\n"
+"POT-Creation-Date: 2025-11-11 13:26+0000\n"
+"PO-Revision-Date: 2025-11-11 15:01+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -4793,8 +4793,8 @@ msgstr ""
 "texte</a>"
 
 #. type: Content of: <div><dl><dt>
-msgid "<a href=\"http://aspell.net/man-html/index.html\">Aspell</a>"
-msgstr "<a href=\"http://aspell.net/man-html/index.html\">Aspell</a>"
+msgid "<a href=\"http://aspell.net/man-html/\">Aspell</a>"
+msgstr "<a href=\"http://aspell.net/man-html/\">Aspell</a>"
 
 #. type: Content of: <div><dl><dd>
 msgid "Spell checker.  [<a href=\"/software/aspell/\">aspell&nbsp;home</a>]"
@@ -5169,6 +5169,18 @@ msgstr ""
 "\"/software/rcs/\">rcs – accueil</a>]"
 
 #. type: Content of: <div><dl><dt>
+msgid "<a href=\"/software/vc-changelog/\">vc-changelog</a>"
+msgstr "<a href=\"/software/vc-changelog/\">vc-changelog</a>"
+
+#. type: Content of: <div><dl><dd>
+msgid ""
+"ChangeLog management especially with distributed version control.  [<a href="
+"\"/software/vc-changelog/\">vc-changelog&nbsp;home</a>]"
+msgstr ""
+"Gestion du changelog, en particulier avec le contrôle de version distribué. "
+"[<a href=\"/software/vc-changelog/\">vc-changelog – accueil</a>]"
+
+#. type: Content of: <div><dl><dt>
 msgid "<a href=\"/software/vc-dwim/manual/\">Vc-dwim</a>"
 msgstr "<a href=\"/software/vc-dwim/manual/\">Vc-dwim</a>"
 
@@ -5177,9 +5189,9 @@ msgid ""
 "Version-control-agnostic ChangeLog diff and commit tool.  [<a href=\"/"
 "software/vc-dwim/\">vc-dwim&nbsp;home</a>]"
 msgstr ""
-"Outil de commit et de génération de changelog par diff, indépendant du "
-"système de gestion de versions. [<a href=\"/software/vc-dwim/\">vc-dwim –"
-" accueil</a>]"
+"Outil pour générer le changelog par diff et pour faciliter le commit, "
+"indépendant du système de contrôle de version. [<a href=\"/software/vc-dwim/"
+"\">vc-dwim – accueil</a>]"
 
 #. type: Content of: <div><h3>
 msgid "<a href=\"//directory.fsf.org/category/video/\">Video</a>"
