@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-1.html\n"
-"POT-Creation-Date: 2025-11-16 16:57+0000\n"
-"PO-Revision-Date: 2025-11-11 16:16+0100\n"
+"POT-Creation-Date: 2026-01-07 16:26+0000\n"
+"PO-Revision-Date: 2026-01-08 08:25+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -23,30 +23,27 @@ msgid "<a class=\"skip\" href=\"#content\"><b>Skip to main text</b></a>"
 msgstr "<a class=\"skip\" href=\"#content\"><b>Lire l'article</b></a>"
 
 #. type: Content of: <div><div><p>
-msgid "<b>We support your freedom!</b>"
-msgstr "<b>Nous défendons votre liberté !</b>"
+msgid "<b>Push ahead for freedom, become an associate member today!</b>"
+msgstr "<b>Allez de l'avant pour la liberté, devenez membre associé !</b>"
 
 #. #echo encoding='none' var='fr_link' 
 #. type: Content of: <div><div><p>
 msgid ""
-"The free software movement has come a long way in forty years. We want to "
-"take a moment to thank the people and projects who have helped bring us to "
-"this point, and ask for your support in the decades to come. Help us reach "
-"our fundraising goal of $400,000 by January&nbsp;1, 2026 to keep us strong "
-"and steadfast in our continuing work."
+"Celebrate '26 by helping us reach our New Year's goal before Jan. 16: join "
+"as an associate member today. You will help the FSF remain strong and "
+"independent to empower technology users everywhere. Join us today and help "
+"us reach our goal of 100 new associate members!"
 msgstr ""
-"Le mouvement du logiciel libre a fait un long chemin en 40 ans. Nous "
-"souhaitons prendre quelques instants pour remercier les personnes et les "
-"projets qui nous ont aidés à arriver où nous en sommes et demandons votre "
-"soutien pour les prochaines décennies. Aidez-nous à atteindre notre objectif "
-"de 400 000 $ d'ici le 1er janvier 2026, pour que nous restions forts et "
-"déterminés dans notre travail au long cours."
+"Célébrez 2026 en nous aidant à atteindre notre objectif de nouvel an d'ici "
+"le 16 janvier : accueillir 100 nouveaux membres associés d'ici le "
+"16 janvier. Vous aiderez la FSF à rester forte et indépendante pour que, "
+"partout, elle donne le pouvoir aux utilisateurs. Adhérez dès aujourd'hui !"
 
 #. #echo encoding='none'
 #.       var='fr_link' 
 #. type: Content of: <div><div><p>
-msgid "Donate"
-msgstr "Faire un don"
+msgid "Join"
+msgstr "Adhérer"
 
 #. #echo
 #.       encoding='none' var='a_close' 
@@ -60,8 +57,8 @@ msgstr "En savoir plus"
 #. #echo encoding='none' var='span_goal'
 #.       
 #. type: Content of: <div><div>
-msgid "$400,000"
-msgstr "400 000 $"
+msgid "100 New Members"
+msgstr "100 nouveaux membres"
 
 #. type: Content of: <div><p><a>
 msgid "<a href=\"/\">"
@@ -103,6 +100,9 @@ msgstr "<a href=\"#language-container\">"
 #. type: Attribute 'alt' of: <div><div><div><a><img>
 msgid "&nbsp;[Other languages]&nbsp;"
 msgstr " [Autres langues] "
+
+#~ msgid "Donate"
+#~ msgstr "Faire un don"
 
 #~ msgid ""
 #~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
