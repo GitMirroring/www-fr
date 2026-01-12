@@ -64,6 +64,7 @@ cat <<EOF
 ${0##*\/} version 0.3
 Copyright (C) 2013, 2015, 2016, 2019, 2020, 2024 Thérèse Godefroy
               with input from Rafael Fontenelle
+Copyright (C) 2026 Laurent Lyaudet
 You may redistribute and/or modify this script under
 the terms of the GNU General Public License, v.3+
 (because it borrows from GNUN, which is under GPLv3+).
@@ -298,6 +299,17 @@ function fix_space () {
     ' $1
 }
 
+function detect_incorrect_line_break () {
+  # Detect when line splitting prevents correction by fix_space.
+  if [[ "$1" != *graphics/alternative-ascii.fr.po ]]; then
+    if grep -E '(^"[»:;?!]|«"$)' "$1"; then
+      echo "!!! There is a line-break before punctuation.
+      It can prevent correct spacing."
+      close_or_exit 1
+    fi
+  fi
+}
+
 #====================
 
 top=$(mktemp -t tvp.XXXXXX)         || close_or_exit 1
@@ -433,6 +445,7 @@ fi
 
 if [ $lang="fr" ]; then
   fix_space "$po"
+  detect_incorrect_line_break "$po"
 fi
 if test "$delout" == "1"; then
   delete_outdated "$po"
