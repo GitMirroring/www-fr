@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gpl-faq.html\n"
-"POT-Creation-Date: 2024-10-15 21:56+0000\n"
-"PO-Revision-Date: 2025-08-13 20:59+0200\n"
+"POT-Creation-Date: 2026-01-13 15:26+0000\n"
+"PO-Revision-Date: 2026-01-13 18:25+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -745,6 +745,15 @@ msgstr ""
 "utilisateur interactives qui ne sont pas de nature visuelle. Comment puis-je "
 "me conformer à l'exigence de « mentions légales appropriées » de la GPLv3 ?</"
 "a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"#GPLWithLGPL\">I release my program under LGPLv3.  Why should I "
+"include a copy of the ordinary GNU GPL in my package?</a>"
+msgstr ""
+"<a href=\"#GPLWithLGPL\">Je publie mon programme sous la LGPLv3. Pourquoi "
+"dois-je inclure une copie de la GNU GPL ordinaire dans mon paquet logiciel ?"
+"</a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -7004,6 +7013,29 @@ msgstr ""
 
 #. type: Content of: <dl><dt>
 msgid ""
+"I release my program under LGPLv3.  Why should I include a copy of the "
+"ordinary GNU GPL in my package? <span class=\"anchor-reference-id\">(<a href="
+"\"#GPLWithLGPL\" >#GPLWithLGPL</a>)</span>"
+msgstr ""
+"Je publie mon programme sous la LGPLv3. Pourquoi dois-je inclure une copie "
+"de la GNU GPL ordinaire dans mon paquet logiciel ? <span class=\"anchor-"
+"reference-id\">(<a href=\"#GPLWithLGPL\" >#GPLWithLGPL</a>)</span>"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"LGPLv3 is designed as a set of additional permissions on top of GPLv3, so "
+"your users need a copy of the GPL in order to understand the licensing "
+"conditions of your package.  We provide a file containing <a href=\"/"
+"licenses/lgpl+gpl-3.0.txt\">LGPLv3 and GPLv3</a>."
+msgstr ""
+"La LGPL est conçue comme un ensemble de permissions qui s'ajoutent aux "
+"termes de la GPLv3. Par conséquent, vos utilisateurs ont besoin d'avoir une "
+"copie de la GPL pour comprendre les conditions de licence de votre paquet. "
+"Nous proposons un fichier contenant <a href=\"/licenses/lgpl+gpl-3.0.txt"
+"\">la LGPLv3 and la GPLv3</a>."
+
+#. type: Content of: <dl><dt>
+msgid ""
 "If I give a copy of a GPLv3-covered program to a coworker at my company, "
 "have I &ldquo;conveyed&rdquo; the copy to that coworker? <span class="
 "\"anchor-reference-id\">(<a href=\"#v3CoworkerConveying\" "
@@ -8286,8 +8318,10 @@ msgstr ""
 # Pas de changement significatif en 2021.
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2001-2019, 2021, 2023, 2024 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2001-2019, 2023, 2024 Free Software Foundation, Inc."
+"Copyright &copy; 2001-2019, 2021, 2023, 2024, 2026 Free Software Foundation, "
+"Inc."
+msgstr ""
+"Copyright &copy; 2001-2019, 2023, 2024, 2026 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
