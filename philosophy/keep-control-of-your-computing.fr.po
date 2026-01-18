@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: keep-control-of-your-computing.html\n"
-"POT-Creation-Date: 2025-12-28 20:31+0000\n"
-"PO-Revision-Date: 2025-12-29 07:16+0100\n"
+"POT-Creation-Date: 2026-01-18 17:26+0000\n"
+"PO-Revision-Date: 2026-01-18 19:13+0100\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -206,7 +206,8 @@ msgid ""
 "computing and their data to companies they have absolutely no reason to "
 "trust. Its buzzword is &ldquo;cloud computing,&rdquo; a term used for so "
 "many different computing structures that its only real meaning is, &ldquo;Do "
-"it without thinking about what you're doing.&rdquo;"
+"it without thinking about what you're doing.&rdquo;&#8239;<a href=\"#ref1\" "
+"id=\"ref1-rev\"><sup>1</sup></a>"
 msgstr ""
 "Il existe une campagne de marketing systématique qui cherche à conduire les "
 "utilisateurs à confier leurs traitements et leurs données à des entreprises "
@@ -214,7 +215,8 @@ msgstr ""
 "est « informatique dans les nuages » <i>[cloud computing]</i>, une "
 "expression utilisée pour tellement de structures de traitement de "
 "l'information différentes que sa seule signification véritable est : "
-"« Faites-le sans réfléchir à ce que vous faites »."
+"« Faites-le sans réfléchir à ce que vous faites ».&#8239;<a href=\"#ref1\" "
+"id=\"ref1-rev\"><sup>1</sup></a>"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -248,6 +250,22 @@ msgstr ""
 "privée. Cela ne signifie pas que les utilisateurs d'Internet ne peuvent "
 "avoir le contrôle de leur informatique. Cela signifie qu'il vous faudra "
 "nager à contre-courant pour en bénéficier."
+
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"#ref1-rev\" id=\"ref1\">1.</a> In 2008, Stallman warned that <a "
+"href=\"https://web.archive.org/web/20130825032356/https://www.theguardian."
+"com/technology/2008/sep/29/cloud.computing.richard.stallman\">&ldquo;cloud "
+"computing&rdquo; is a trap</a>.  After that, he further developed his <a "
+"href=\"/philosophy/words-to-avoid.html#CloudComputing\">analysis of the "
+"term</a>."
+msgstr ""
+"<a href=\"#ref1-rev\" id=\"ref1\">1.</a> En 2008, Stallman nous a prévenus "
+"que <a href=\"https://web.archive.org/web/20130825032356/https://www."
+"theguardian.com/technology/2008/sep/29/cloud.computing.richard.stallman"
+"\">l'« informatique en nuage » est un piège</a>. Par la suite, il a "
+"développé son <a href=\"/philosophy/words-to-avoid.html#CloudComputing"
+"\">analyse de cette expression</a>."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -308,10 +326,10 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
-# Pas de changement significatif depuis 2011.
+# Pas de changement significatif en 2021 et 2025.
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2021, 2025 Richard Stallman"
-msgstr "Copyright &copy; 2011 Richard Stallman"
+msgid "Copyright &copy; 2011, 2021, 2025, 2026 Richard Stallman"
+msgstr "Copyright &copy; 2011, 2026 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -335,6 +353,3 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
-
-#~ msgid "First published in <cite>Der Spiegel Online</cite>."
-#~ msgstr "Publié initialement sur <cite>Der Spiegel Online</cite>."
