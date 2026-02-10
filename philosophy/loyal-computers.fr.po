@@ -7,9 +7,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: loyal-computers.html\n"
-"POT-Creation-Date: 2021-09-05 09:56+0000\n"
-"PO-Revision-Date: 2025-07-03 14:54+0200\n"
-"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
+"POT-Creation-Date: 2026-02-09 17:26+0000\n"
+"PO-Revision-Date: 2026-02-10 09:47+0100\n"
+"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -311,25 +311,23 @@ msgstr "Historique"
 msgid "Here is the list of substantive changes in this page."
 msgstr "Voici la liste des modifications significatives de cette page."
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/www/philosophy/loyal-"
-"computers.html?r1=1.5&amp;r2=1.6\">Version 1.6</a>: Add installability "
-"requirement."
-msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/www/philosophy/loyal-"
-"computers.html?r1=1.5&amp;r2=1.6\">Version 1.6</a> : Exigence "
-"supplémentaire, la capacité d'installer des logiciels."
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.6"
+msgstr "Version 1.6"
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/www/philosophy/loyal-"
-"computers.html?r1=1.4&amp;r2=1.5\">Version 1.5</a>: Full documentation is "
-"not a requirement for loyalty."
-msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/www/philosophy/loyal-"
-"computers.html?r1=1.4&amp;r2=1.5\">Version 1.5</a> : Une documentation "
-"complète n'est pas une condition de loyauté."
+#. type: Content of: <div><dl><dd>
+msgid "Add installability requirement."
+msgstr "Exigence supplémentaire, la capacité d'installer des logiciels."
+
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.5"
+msgstr "Version 1.5"
+
+#. type: Content of: <div><dl><dd>
+msgid "Full documentation is not a requirement for loyalty."
+msgstr "Une documentation complète n'est pas une condition de loyauté."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -376,8 +374,9 @@ msgstr ""
 
 # Pas de changement significatif en 2021.
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014, 2015, 2019, 2021 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014, 2015, 2019 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2014, 2015, 2019, 2021, 2026 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2015, 2019, 2026 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
