@@ -10,9 +10,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
-"POT-Creation-Date: 2025-05-30 16:59+0000\n"
-"PO-Revision-Date: 2025-07-03 14:54+0200\n"
-"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
+"POT-Creation-Date: 2026-02-24 10:56+0000\n"
+"PO-Revision-Date: 2026-02-25 07:54+0100\n"
+"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -319,22 +319,6 @@ msgstr ""
 "Trisquel, une distribution GNU/Linux basée sur Ubuntu, qui est orientée vers "
 "les petites entreprises, les particuliers et les centres éducatifs."
 
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"http://www.ututo.org/\">"
-msgstr "<a href=\"http://www.ututo.org/\">"
-
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "Ututo"
-msgstr "Ututo"
-
-#. type: Content of: <table><tr><td>
-msgid ""
-"<em>Ututo S</em>, a GNU/Linux 100% free distribution.  It was the first "
-"fully free GNU/Linux system recognized by the GNU Project."
-msgstr ""
-"<em>Ututo</em>, une distribution GNU/Linux 100 % libre. Ce fut le premier "
-"système GNU/Linux entièrement libre reconnu par le projet GNU."
-
 #. type: Content of: <h3>
 msgid "Small GNU/Linux distros"
 msgstr "Distributions GNU/Linux légères"
@@ -564,6 +548,26 @@ msgstr ""
 "<em>Retirée en mars 2019</em> à la demande de son mainteneur, car il cessé "
 "de la mettre à jour."
 
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"http://www.ututo.org/\">"
+msgstr "<a href=\"http://www.ututo.org/\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "Ututo"
+msgstr "Ututo"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"<em>Ututo S</em>, a GNU/Linux 100% free distribution.  It was the first "
+"fully free GNU/Linux system recognized by the GNU Project."
+msgstr ""
+"<em>Ututo</em>, une distribution GNU/Linux 100 % libre. Ce fut le premier "
+"système GNU/Linux entièrement libre reconnu par le projet GNU."
+
+#. type: Content of: <table><tr><td>
+msgid "<em>Removed February 2026</em>."
+msgstr "<em>Retirée en fébrier 2026</em>."
+
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
@@ -612,10 +616,9 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
-# Pas de changement significatif en 2022 et 2023.
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2004-2015, 2017-2025 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2004-2015, 2017-2025 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2004-2015, 2017-2026 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2004-2015, 2017-2026 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -639,8 +642,3 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Dernière mise à jour :"
-
-# Pas de changement significatif en 2022 et 2023.
-#~ msgid "Copyright &copy; 2004-2015, 2017-2024 Free Software Foundation, Inc."
-#~ msgstr ""
-#~ "Copyright &copy; 2004-2015, 2017-2024 Free Software Foundation, Inc."
