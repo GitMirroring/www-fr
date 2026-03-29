@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: education.html\n"
-"POT-Creation-Date: 2026-03-20 21:26+0000\n"
-"PO-Revision-Date: 2026-03-21 21:32+0100\n"
+"POT-Creation-Date: 2026-03-29 16:57+0000\n"
+"PO-Revision-Date: 2026-03-29 21:50+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -145,52 +145,70 @@ msgstr ""
 "précisément les grands principes du logiciel libre et leurs rapports à "
 "l'éducation."
 
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "English"
+msgstr "English"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "العربية"
+msgstr "العربية"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "Deutsch"
+msgstr "Deutsch"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "ελληνικά"
+msgstr "ελληνικά"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "español"
+msgstr "español"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "français"
+msgstr "français"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "italiano"
+msgstr "italiano"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "Nederlands"
+msgstr "Nederlands"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "português"
+msgstr "português"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "Shqip"
+msgstr "Shqip"
+
 #.  TRANSLATORS: Please replace the link to the video with subtitles in
 #.      English with a link to the video with subtitles in your language, 
 #.      if it exists. 
 #. type: Content of: <div><div><div><div><p>
 msgid ""
-"<a href=\"https://audio-video.gnu.org/video/rms-education-es-high-sub.en.webm"
-"\"> Download</a> this video at a higher definition.  <a href=\"/audio-video/"
-"philosophy-recordings.html#rms-200807150\">Other versions</a> of the video."
+"<a href=\"https://audio-video.gnu.org/video/rms-education-es.webm\">Download "
+"WebM (19 MB)</a>. This video is also available <a href=\"/education/misc/edu-"
+"misc.html#rms-movie-subs\">with embedded subtitles</a> in several languages."
 msgstr ""
-"<a href=\"https://audio-video.gnu.org/video/rms-education-es-high-sub.fr.webm"
-"\">Téléchargez</a> cette vidéo à plus haute définition. <a href=\"/audio-"
-"video/philosophy-recordings.html#rms-200807150\">Autres versions</a>."
+"<a href=\"https://audio-video.gnu.org/video/rms-education-es.webm"
+"\">Télécharger la version WebM (19 Mo)</a>. Cette vidéo est aussi disponible "
+"<a href=\"/education/misc/edu-misc.html#rms-movie-subs\">avec des sous-"
+"titres intégrés</a> en plusieurs langues."
 
-#.  TRANSLATORS: please add the link to your language here in the first 
-#.      place, followed by a comma. 
 #. type: Content of: <div><div><div><div><p>
 msgid ""
-"Transcriptions of this video are available in <a href=\"/education/misc/rms-"
-"education-es-translation-to-en.txt\">English</a>, <a href=\"/education/misc/"
-"rms-education-es-transcription.txt\">Spanish</a>, and <a href=\"/education/"
-"misc/edu-misc.html#transcription-rms-education\"> other languages</a>."
+"<a href=\"/education/misc/edu-misc.html#subtitles-rms-movie\">Subtitles</a> "
+"(WebVTT/SubRip) and <a href=\"/education/misc/edu-misc.html#transcripts-rms-"
+"movie\">Transcripts</a> are also available for download."
 msgstr ""
-"Des transcriptions de cette vidéo sont disponibles en \n"
-"<a href=\"/education/misc/rms-education-es-transcription.fr.txt\">français</"
-"a>,\n"
-"<a href=\"/education/misc/rms-education-es-translation-to-en.txt\">anglais</"
-"a>, \n"
-"<a href=\"/education/misc/rms-education-es-transcription.txt\">espagnol</a> "
-"et <a href=\"/education/misc/edu-misc.html#transcription-rms-education"
-"\">quelques autres langues</a>."
-
-#.  TRANSLATORS: please add the link to your language here in the first 
-#.      place, followed by a comma. 
-#. type: Content of: <div><div><div><div><p>
-msgid ""
-"SubRip subtitle files are also available for download in <a href=\"/"
-"education/misc/rms-education-es-sub.en.srt\">English</a>, <a href=\"/"
-"education/misc/rms-education-es-sub.es.srt\">Spanish</a>, and <a href=\"/"
-"education/misc/edu-misc.html#subtitles-rms-education\">other languages</a>."
-msgstr ""
-"Des fichiers de sous-titres SubRip sont aussi disponibles en \n"
-"<a href=\"/education/misc/rms-education-es-sub.fr.srt\">français</a>, \n"
-"<a href=\"/education/misc/rms-education-es-sub.en.srt\">anglais</a>, \n"
-"<a href=\"/education/misc/rms-education-es-sub.es.srt\">espagnol</a> et \n"
-"<a href=\"/education/misc/edu-misc.html#subtitles-rms-education\">quelques "
-"autres langues</a>."
+"Des <a href=\"/education/misc/edu-misc.html#subtitles-rms-movie\">sous-"
+"titres</a> (WebVTT/SubRip) et des <a href=\"/education/misc/edu-misc."
+"html#transcripts-rms-movie\">transcriptions</a> peuvent également être "
+"téléchargées."
 
 #. type: Content of: <div><div><h3>
 msgid "In Depth"
