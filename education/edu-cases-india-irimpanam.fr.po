@@ -8,9 +8,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-cases-india-irimpanam.html\n"
-"POT-Creation-Date: 2021-05-26 21:26+0000\n"
-"PO-Revision-Date: 2025-07-03 14:54+0200\n"
-"Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
+"POT-Creation-Date: 2026-04-09 12:56+0000\n"
+"PO-Revision-Date: 2026-04-09 20:36+0200\n"
+"Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -114,19 +114,20 @@ msgid ""
 "philosophy of the GNU Project, such as the freedom to share knowledge and "
 "the freedom to cooperate with our community by contributing improvements to "
 "computer programs. This awareness about Swathanthra Software <a href="
-"\"#swathanthra\">(1)</a> was largely the result of what we learned at the "
-"meetings organized by the <a href=\"https://web.archive.org/"
-"web/20160621163732/http://www.ilug-cochin.org/\"> Indian Libre User Group "
-"(ILUG-Cochin)</a> in the nearby city of Kochi. Attending those meetings also "
-"helped us to work in close connection with the Free Software community."
+"\"#swathanthra\" id=\"swathanthra-rev\"><sup>[1]</sup></a> was largely the "
+"result of what we learned at the meetings organized by the <a href=\"https://"
+"web.archive.org/web/20160621163732/http://www.ilug-cochin.org/\"> Indian "
+"Libre User Group (ILUG-Cochin)</a> in the nearby city of Kochi.  Attending "
+"those meetings also helped us to work in close connection with the Free "
+"Software community."
 msgstr ""
 "Notre établissement s'est penché plus particulièrement sur la promotion des "
 "principaux aspects de la philosophie du projet GNU, tels la liberté de "
 "diffuser le savoir et la liberté de coopérer avec notre communauté en "
 "contribuant à l'amélioration des logiciels. Cet intérêt pour les logiciels "
-"<i>Swathanthra</i> (<a id=\"swathanthra-rev\" href=\"#swathanthra\">1</a>) "
-"est dans une grande mesure le résultat de ce que nous avons appris lors de "
-"réunions organisées par le <a href=\"https://web.archive.org/"
+"<i>Swathanthra</i> <a href=\"#swathanthra\" id=\"swathanthra-rev\"><sup>[1]</"
+"sup></a> est dans une grande mesure le résultat de ce que nous avons appris "
+"lors de réunions organisées par le <a href=\"https://web.archive.org/"
 "web/20160621163732/http://www.ilug-cochin.org/\">groupe indien "
 "d'utilisateurs du libre (ILUG-Cochin)</a> de la ville voisine de Kochi. "
 "D'avoir participé à ses réunions nous a aussi aidé à travailler en relation "
@@ -285,6 +286,95 @@ msgstr ""
 msgid "Results"
 msgstr "Résultats"
 
+#. type: Content of: <div><div><p>
+msgid ""
+"The transparency and the cooperative method of Free Software helped students "
+"and teachers to dive deep into technology and make them capable of "
+"contributing to the community in various ways."
+msgstr ""
+"La transparence et les méthodes de coopération du logiciel libre ont aidé "
+"les élèves et les professeurs à s'immerger dans la technique et les a rendus "
+"capables de contribuer à la communauté de plusieurs manières."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"An important contribution was the addition of new stamps in Tux Paint.  A "
+"video was recorded to illustrate how it works and how the activity was done."
+msgstr ""
+"Une contribution importante a été l'ajout de nouveaux tampons à Tux Paint. "
+"Une vidéo a été enregistrée pour illustrer comment cela a été fait et "
+"comment cette activité a été conduite."
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "English"
+msgstr "English"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "español"
+msgstr "español"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "français"
+msgstr "français"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "português"
+msgstr "português"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "Shqip"
+msgstr "Shqip"
+
+#. type: Content of: <div><div><div><div><p>
+msgid ""
+"<a href=\"https://audio-video.gnu.org/video/irimpanam-low.webm\">Download "
+"WebM (27 MB)</a>. Higher resolution: <a href=\"https://audio-video.gnu.org/"
+"video/irimpanam-high.webm\">WebM (178 MB)</a> <a href=\"https://audio-video."
+"gnu.org/video/irimpanam-high.ogv\">Ogg (112 MB)</a>.  This video is also "
+"available <a href=\"/education/misc/edu-misc.html#irimpanam-movie-subs"
+"\">with embedded subtitles</a> in several languages."
+msgstr ""
+"<a href=\"https://audio-video.gnu.org/video/irimpanam-low.webm\">Télécharger "
+"le WebM (27 MB)</a>. Résolution supérieure : <a href=\"https://audio-video."
+"gnu.org/video/irimpanam-high.webm\">WebM (178 Mo)</a> <a href=\"https://"
+"audio-video.gnu.org/video/irimpanam-high.ogv\">Ogg (112 Mo)</a>. Cette vidéo "
+"est aussi disponible <a href=\"/education/misc/edu-misc.html#irimpanam-movie-"
+"subs\">avec des sous-titres intégrés</a> en plusieurs langues."
+
+#. type: Content of: <div><div><div><div><p>
+msgid ""
+"<a href=\"/education/misc/edu-misc.html#subtitles-irimpanam\">Subtitles</a> "
+"(WebVTT/SubRip)."
+msgstr ""
+"<a href=\"/education/misc/edu-misc.html#subtitles-irimpanam\">Sous-titres</"
+"a> (WebVTT/SubRip)."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Native flowers were photographed and the pictures edited by 6th and 7th "
+"grade students using the image editing program GIMP. The resulting images "
+"were then integrated in Tux Paint with the name of the flowers written in "
+"Malayalam. As a plus, students recorded with their own voices the name of "
+"the flowers, so when one of the stamps is selected, the user will hear the "
+"name of the flower in Malayalam."
+msgstr ""
+"Des élèves des grades 6 et 7 ont photographié des fleurs de la région et ont "
+"traité les images en utilisant le programme GIMP. Les images ainsi obtenues "
+"ont été intégrées à TuxPaint, avec le nom des fleurs en malayalam. De plus, "
+"les élèves se sont enregistrés en prononçant le nom de ces fleurs, et quand "
+"un utilisateur sélectionne un des tampons, il entend le nom de la fleur "
+"prononcé en malayalam."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Another important contribution was the localization of the interface of <a "
+"href=\"/education/edu-software-tuxpaint.html\">Tux Paint</a> in Malayalam, "
+"our mother tongue."
+msgstr ""
+"Une autre de nos contributions importantes a été de localiser l'interface de "
+"<a href=\"/education/edu-software-tuxpaint.html\">Tux Paint</a> en "
+"malayalam, notre langue maternelle."
+
 #. type: Content of: <div><div><div><a>
 msgid "<a href=\"/education/misc/tuxpaint.jpg\">"
 msgstr "<a href=\"/education/misc/tuxpaint.jpg\">"
@@ -304,69 +394,6 @@ msgid ""
 msgstr ""
 "<a href=\"/education/misc/adeenia.ogg\">Écoutez</a> un élève prononcer le "
 "nom malayalam de la rose du désert."
-
-#. type: Content of: <div><div><p>
-msgid ""
-"Education in the State of Kerala has become &ldquo;IT-enabled,&rdquo; "
-"meaning that students are getting first hand technology knowledge while "
-"learning regular curriculum subjects outside the IT Lab. This is possible "
-"due to the large number of high quality educational applications available "
-"in GNU/Linux."
-msgstr ""
-"Dans l'État du Kerala, l'enseignement est maintenant « assisté par "
-"l'informatique », c'est-à-dire que les élèves ont un accès direct au savoir "
-"technologique durant l'enseignement ordinaire et pas seulement au labo "
-"informatique, ceci grâce au grand nombre d'applications éducatives "
-"disponibles sous GNU/Linux."
-
-#. type: Content of: <div><div><p>
-msgid ""
-"The transparency and the cooperative method of Free Software helped students "
-"and teachers to dive deep into technology and made them capable of "
-"contributing to the community in various ways. One important contribution "
-"was the localization of the interface of <a href=\"/education/edu-software-"
-"tuxpaint.html\">Tux Paint</a> in Malayalam, our mother tongue."
-msgstr ""
-"La transparence et les méthodes de coopération du logiciel libre ont aidé "
-"les élèves et les professeurs à s'immerger dans la technique et les a rendus "
-"capables de contribuer à la communauté de plusieurs manières. Une de nos "
-"contributions importantes a été de localiser l'interface de <a href=\"/"
-"education/edu-software-tuxpaint.html\">Tux Paint</a> en malayalam, notre "
-"langue maternelle."
-
-#. type: Content of: <div><div><p>
-msgid ""
-"Another contribution was the addition of new stamps in TuxPaint. Native "
-"flowers were photographed and the pictures edited by 6th and 7th grade "
-"students using the image editing program GIMP. The resulting images were "
-"then integrated in TuxPaint with the name of the flowers written in "
-"Malayalam. As a plus, students recorded with their own voices the name of "
-"the flowers, so when the user selects one of the stamps, she will hear the "
-"name of the flower in Malayalam. A video was recorded to illustrate how it "
-"works and how the activity was done."
-msgstr ""
-"Une autre contribution a été l'addition de nouveaux tampons à TuxPaint. Des "
-"élèves des grades 6 et 7 ont photographié des fleurs de la région et ont "
-"traité les images en utilisant le programme GIMP. Les images ainsi obtenues "
-"ont été intégrées à TuxPaint, avec le nom des fleurs en malayalam. De plus, "
-"les élèves se sont enregistrés en prononçant le nom de ces fleurs, et quand "
-"un utilisateur sélectionne un des tampons, il entend le nom de la fleur "
-"prononcé en malayalam."
-
-#.  TRANSLATORS: Replace the link to the video with subtitles in English with 
-#.  a link to the video with subtitles in your language, if it exists. Likewise, 
-#.  modify the link to SubRip subtitles accordingly, and replace the word "English" 
-#.  with the name of your language. 
-#. type: Content of: <div><div><p>
-msgid ""
-"<a href=\"http://audio-video.gnu.org/video/irimpanam-high-sub.en.ogv\">Watch "
-"and download the video</a>. <a href=\"/education/misc/irimpanam.en.srt"
-"\">Read and download the English subtitles in SubRip format</a>."
-msgstr ""
-"Regardez ou téléchargez <a href=\"//audio-video.gnu.org/video/irimpanam-high-"
-"sub.fr.ogv\">la vidéo sous-titrée en français</a>, ou bien <a href=\"//audio-"
-"video.gnu.org/video/irimpanam-high.ogv\">la vidéo non sous-titrée</a> et <a "
-"href=\"/education/misc/irimpanam.fr.srt\">les sous-titres SubRip</a>."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -391,6 +418,20 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 msgid ""
+"Education in the State of Kerala has become &ldquo;IT-enabled,&rdquo; "
+"meaning that students are getting first hand technology knowledge while "
+"learning regular curriculum subjects outside the IT Lab. This is possible "
+"due to the large number of high quality educational applications available "
+"in GNU/Linux."
+msgstr ""
+"Dans l'État du Kerala, l'enseignement est maintenant « assisté par "
+"l'informatique », c'est-à-dire que les élèves ont un accès direct au savoir "
+"technologique durant l'enseignement ordinaire et pas seulement au labo "
+"informatique, ceci grâce au grand nombre d'applications éducatives "
+"disponibles sous GNU/Linux."
+
+#. type: Content of: <div><div><p>
+msgid ""
 "As a way of keeping in touch and sharing experiences with other schools and "
 "with the Free Software community, teachers and students each year "
 "participate in events such as the National Free Software Conference and the "
@@ -410,11 +451,6 @@ msgstr ""
 "L'implication et la collaboration des professeurs, des élèves et des groupes "
 "locaux a été essentielle au succès de ce projet gouvernemental ambitieux."
 
-#. type: Content of: <div><div><p>
-msgid ""
-"(1) Swathanthra is the Sanskrit word for &ldquo;free&rdquo; as in freedom."
-msgstr "(1) Swathanthra est le mot sanscrit pour « libre »."
-
 #. type: Content of: <div><div><h3>
 msgid "Credits"
 msgstr "Remerciements"
@@ -424,14 +460,37 @@ msgid ""
 "Credits for both images shown on this page, as well as for the audio file, "
 "go to Swathanthra Software Koottayma of VHSS Irimpanam, who released them "
 "under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
-"sa/3.0/\"> Creative Commons Attribution-Share Alike 3.0 Unported</a> License."
+"sa/3.0/\"> Creative Commons Attribution-Share Alike 3.0 Unported</a> (CC BY-"
+"SA)  license."
 msgstr ""
 "Les illustrations de cette page, ainsi que le fichier audio, sont l'œuvre du "
 "<i>Swathanthra Software Koottayma</i> du VHSS Irimpanam qui les a placées "
 "sous licence <a rel=\"license\" href=\"https://creativecommons.org/licenses/"
-"by-sa/3.0/deed.fr\">Creative Commons Attribution-Share Alike 3.0 Unported</"
-"a> (Creative Commons paternité, partage dans les mêmes conditions, 3.0 non "
-"transposée)."
+"by-sa/3.0/deed.fr\">Creative Commons paternité, partage dans les mêmes "
+"conditions, 3.0 non transposée</a> (CC BY-SA)."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The video is a derivate work by the GNU Education Team based on a longer "
+"recording by original author Thomas Yoyaku, professor at the VHSS Irimpanam "
+"school, released under a <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-sa/3.0/\"> Creative Commons Attribution-Share Alike 3.0 "
+"Unported</a> (CC BY-SA)  license."
+msgstr ""
+"La vidéo (faite par l'équipe Éducation de GNU) est dérivée d'un "
+"enregistrement plus long dont l'auteur original est Thomas Yoyaku, "
+"professeur au VHSS Irimpanam, publié sous licence <a rel=\"license\" href="
+"\"https://creativecommons.org/licenses/by-sa/3.0/deed.fr\">Creative Commons "
+"paternité, partage dans les mêmes conditions, 3.0 non transposée</a> (CC BY-"
+"SA)."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<a href=\"#swathanthra-rev\" id=\"swathanthra\">[1]</a> Swathanthra is the "
+"Sanskrit word for &ldquo;free&rdquo; as in freedom."
+msgstr ""
+"<a href=\"#swathanthra-rev\" id=\"swathanthra\">[1]</a> Swathanthra est le "
+"mot sanscrit pour « libre »."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div><div>
@@ -476,12 +535,12 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
-# Pas de changement significatif depuis 2012. Les liens ont été mis à jour.
+# Pas de changement significatif en 2016, 2018, 2020 et 2021.
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2011, 2012, 2016, 2018, 2020, 2021 Free Software "
+"Copyright &copy; 2011, 2012, 2016, 2018, 2020, 2021, 2026 Free Software "
 "Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2012 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2012, 2026 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
