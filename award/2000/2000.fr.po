@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 2000.html\n"
-"POT-Creation-Date: 2025-08-23 13:25+0000\n"
-"PO-Revision-Date: 2025-08-23 17:43+0200\n"
+"POT-Creation-Date: 2026-04-09 12:56+0000\n"
+"PO-Revision-Date: 2026-04-11 07:54+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -23,15 +23,15 @@ msgid ""
 "Software Foundation"
 msgstr "Prix du logiciel libre 2000 - Projet GNU - Free Software Foundation"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "2000 Free Software Awards"
 msgstr "Prix du logiciel libre 2000"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Description of Award Ceremony"
 msgstr "Description de la cérémonie du prix"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The 2000 Free Software Foundation Award Ceremony was held at the Museum of "
 "Jewish Art and History in Paris, France on the evening of 1 February 2001.  "
@@ -51,7 +51,7 @@ msgstr ""
 "la cérémonie. Les bénéfices de l'événement ont été reversés à la <a href="
 "\"https://fsfe.org/\">Free Software Foundation Europe</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Richard Stallman presented the award, a one-of-a-kind handmade quilt, to "
 "Brian Paul for his ground-breaking work on the Mesa 3D Graphics Library."
@@ -59,7 +59,7 @@ msgstr ""
 "Richard Stallman a remis le prix, une couverture unique faite à la main, à "
 "Brian Paul, pour son travail fondateur sur la bibliothèque graphique Mesa 3D."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Brian Paul was chosen from three finalists for the award.  The other "
 "finalists were Donald Becker, for his network device drivers for the GNU/"
@@ -69,7 +69,7 @@ msgstr ""
 "finalistes étaient Donald Becker pour ses pilotes de périphériques pour le "
 "système GNU/Linux et Patrick Lenz pour son travail sur freshmeat.net."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "At the ceremony, additional awards were also distributed.  Georg C. F. "
 "Greve, president designate of the FSF Europe, presented Daniel Riek with a "
@@ -85,7 +85,7 @@ msgstr ""
 "Dachary un prix commémorant son soutien sans faille et ses contributions au "
 "logiciel libre pendant les 14 dernières années."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"/award/2000/2000-pr.txt\">A Full press release for the event, in "
 "English, German and French, is available</a>.  <a href=\"/award/2000/2000-pr."
@@ -100,21 +100,43 @@ msgstr ""
 "\"/award/2000/2000-pr.de.txt\">en allemand uniquement</a> sont aussi "
 "disponibles."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Movie of the Ceremony"
 msgstr "Film de la cérémonie"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"An MPEG-2 movie of the event is available at <a href=\"http://audio-video."
-"gnu.org/video/.original_files/fsfaward2000.vob\"> <code>http://audio-video."
-"gnu.org/</code></a>.  Beware: it is a very big file (1.1 GB)."
+"The two first paragraphs below are kept here for historical purposes only. "
+"As of the time of writing (April 2026), the original .vob file is not made "
+"available to the public. It contained the patent-encumbered codec mpeg-2, in "
+"conflict with our policy of always distributing formats and codecs "
+"completely free and unencumbered by patents. Nowadays we can count on "
+"performant free codecs such as VP9 and Opus, which we used to convert the "
+"original .vob. It is smaller in size and it plays much better, although it "
+"was not possible to remove all of the flaws inherited from the original: <a "
+"href=\"https://audio-video.gnu.org/video/fsfaward2000.webm\">2000 Free "
+"Software Awards</a> (WebM 472 MB)."
 msgstr ""
-"Un film MPEG2 de la cérémonie est disponible sur <code><a href=\"http://"
-"audio-video.gnu.org/video/.original_files/fsfaward2000.vob\">http://audio-"
-"video.gnu.org/</a></code>. Attention, c'est un très gros fichier (1,1 Go)."
+"Les deux premiers paragraphes ci-dessous ne sont conservés qu'à des fins "
+"historiques. À ce jour (avril 2026), le fichier .vob original n'est plus "
+"accessible au public. Il contenait le codec mpeg-2, encombré de brevets et "
+"donc incompatible avec notre politique de toujours distribuer des formats "
+"complètement libres et non brevetés. De nos jours, nous disposons de VP9 et "
+"Opus, codecs libres performants qui nous ont servi à convertir le fichier ."
+"vob original. Le fichier converti est plus petit et se lit mieux, bien que "
+"nous n'ayons pas pu éliminer tous les défauts hérités de l'original : <a "
+"href=\"https://audio-video.gnu.org/video/fsfaward2000.webm\">Prix du "
+"logiciel libre 2000</a> (WebM 472 Mo)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
+msgid ""
+"An MPEG-2 movie of the event is available at <code>http://audio-video.gnu."
+"org/</code>.  Beware: it is a very big file (1.1 GB)."
+msgstr ""
+"Un film MPEG-2 de la cérémonie est disponible sur <code>https://audio-video."
+"gnu.org/</code>. Attention, c'est un très gros fichier (1,1 Go)."
+
+#. type: Content of: <div><p>
 msgid ""
 "The movie was captured and encoded using free software.  Since it's not yet "
 "mature, no streamed view is available, the stream is somewhat buggy and you "
@@ -138,7 +160,7 @@ msgstr ""
 "0.2.5 ou ultérieure, une solution développée pour le streaming en MPEG-2 sur "
 "un réseau local."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It's worth mentioning that <a href=\"http://www.videolan.org/\">VideoLAN</a> "
 "was officially <a href=\"http://videolan.org/images/paper.jpeg\">released "
@@ -154,11 +176,11 @@ msgstr ""
 "l'équipe IDEALX et des membres du projet <a href=\"http://www.videolan.org/"
 "\">VideoLAN</a> impliqués dans l'opération."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Text Transcript of the Ceremony"
 msgstr "Retranscription de la cérémonie"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A <a href=\"/award/2000/fsf-award-2000-transcript.txt\">text transcript of "
 "the event is available</a>."
@@ -166,15 +188,15 @@ msgstr ""
 "Une <a href=\"/award/2000/fsf-award-2000-transcript.txt\">retranscription de "
 "l'événement</a> est disponible."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Still Photos of the Ceremony"
 msgstr "Photos de la cérémonie"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Olivier Berger took some still photos of the ceremony:"
 msgstr "Olivier Berger a fait quelques photos de la cérémonie :"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/award/2000/stallman-paul.jpg\">Brian Paul receiving award from "
 "Richard Stallman (215 KB JPEG)</a>"
@@ -182,7 +204,7 @@ msgstr ""
 "<a href=\"/award/2000/stallman-paul.jpg\">Brian Paul recevant le prix des "
 "mains de Richard Stallman (JPEG de 215 ko)</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/award/2000/greve-riek.jpg\">Daniel Riek receiving a certificate "
 "from Georg C. F. Greve (164 KB JPEG)</a>"
@@ -190,7 +212,7 @@ msgstr ""
 "<a href=\"/award/2000/greve-riek.jpg\">Daniel Riek recevant un certificat "
 "des mains de Georg C. F. Greve (JPEG de 164 ko)</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/award/2000/stallman-dachary.jpg\">Loic Dachary receiving a "
 "commemorative GNU painting from Richard Stallman (Frederic had already left "
@@ -226,14 +248,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Merci d'adresser vos commentaires sur les pages en français à &lt;<a href="
@@ -246,8 +268,8 @@ msgstr ""
 # Pas de changement significatif depuis 2001.
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2001, 2002, 2005, 2006, 2008, 2014, 2025 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 2001, 2002, 2005, 2006, 2008, 2014, 2025, 2026 Free "
+"Software Foundation, Inc."
 msgstr "Copyright &copy; 2001 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
