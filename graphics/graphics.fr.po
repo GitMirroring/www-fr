@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: graphics.html\n"
-"POT-Creation-Date: 2026-05-03 06:56+0000\n"
-"PO-Revision-Date: 2026-05-03 10:46+0200\n"
+"POT-Creation-Date: 2026-05-23 14:57+0000\n"
+"PO-Revision-Date: 2026-05-23 18:59+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -205,16 +205,33 @@ msgid "What's new?"
 msgstr "Quoi de neuf ?"
 
 #. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/graphics/ninn-gnuhead.html\">"
+msgstr "<a href=\"/graphics/ninn-gnuhead.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "&nbsp;[Cubist GNU Head]&nbsp;"
+msgstr " [Tête de GNU cubiste] "
+
+#. type: Content of: <table><tr><td>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <table><tr><td>
+msgid "<a href=\"/graphics/ninn-gnuhead.html\">May 2026: Cubist GNU Head</a>"
+msgstr ""
+"<a href=\"/graphics/ninn-gnuhead.html\">Mai 2026 : Tête de GNU cubiste</a>"
+
+#. type: Content of: <table><tr><td>
+msgid "<small>by Eduardo R. a.k.a. Ninn</small>"
+msgstr "<small>par Eduardo R., alias Ninn</small>"
+
+#. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/distros-dragora-modern.html\">"
 msgstr "<a href=\"/graphics/distros-dragora-modern.html\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "&nbsp;[Modern Dragora Logo]&nbsp;"
 msgstr " [Logo moderne de Dragora] "
-
-#. type: Content of: <table><tr><td>
-msgid "</a>"
-msgstr "</a>"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -1659,6 +1676,10 @@ msgstr ""
 msgid "<small>by Navaneeth</small>"
 msgstr "<small>par Navaneeth</small>"
 
+#. type: Content of: <table><tr><td>
+msgid "<a href=\"/graphics/ninn-gnuhead.html\">Cubist GNU Head</a>"
+msgstr "<a href=\"/graphics/ninn-gnuhead.html\">Tête de GNU cubiste</a>"
+
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/graphics/philosophicalgnu.html\">"
 msgstr "<a href=\"/graphics/philosophicalgnu.html\">"
@@ -2564,12 +2585,11 @@ msgstr ""
 "dans le <a href=\"/server/standards/README.translations.html\">guide de "
 "traduction</a> les infos nécessaires."
 
-# Pas de changement significatif en 2026.
 #. type: Content of: <div><p>
 msgid ""
 "Copyright &copy; 1996-2007, 2010, 2012-2026 Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1996-2007, 2010, 2012-2025 Free Software Foundation, Inc."
+"Copyright &copy; 1996-2007, 2010, 2012-2026 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
