@@ -5,15 +5,15 @@
 # Karl Pradène, 2000.
 # Cédric Corazza <cedric.corazza AT wanadoo.fr>, 2008.
 # Denis Barbier <bouzim AT gmail.com>, 2011.
-# Thérèse Godefroy <godef.th AT free.fr>, 2011-2019, 2021-2023.
+# Thérèse Godefroy <godef.th AT free.fr>, 2011-2019, 2021, 2022, 2026.
 # Sébastien Poher <sogal@member.fsf.org>, 2015.
 # Laurent Lyaudet <laurent.lyaudet@gmail.com>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: free-sw.html\n"
-"POT-Creation-Date: 2026-01-28 17:57+0000\n"
-"PO-Revision-Date: 2026-01-29 07:28+0100\n"
+"POT-Creation-Date: 2026-06-09 18:26+0000\n"
+"PO-Revision-Date: 2026-06-10 10:55+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -253,12 +253,13 @@ msgstr "Les quatre libertés essentielles"
 
 #. type: Content of: <div><p>
 msgid ""
-"A program is free software if the program's users have the four essential "
-"freedoms: <a href=\"#f1\">[1]</a>"
+"A program is free software if the program's users (referred to individually "
+"here as &ldquo;you&rdquo;) have the four essential freedoms: <a href=\"#f1\">"
+"[1]</a>"
 msgstr ""
-"Un programme est un logiciel libre si vous, en tant qu'utilisateur de ce "
-"programme, avez les quatre libertés essentielles <a class=\"ftn\" id=\"f1-rev"
-"\" href=\"#f1\">[1]</a> :"
+"Un programme est un logiciel libre si ses utilisateurs (désignés ici "
+"individuellement par « vous »), avez les quatre libertés essentielles <a "
+"class=\"ftn\" id=\"f1-rev\" href=\"#f1\">[1]</a> :"
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -483,6 +484,20 @@ msgstr ""
 "souhait. On n'a donc pas besoin d'une « liberté de ne pas exécuter un "
 "programme »."
 
+#. type: Content of: <div><p>
+msgid ""
+"Permission to run the program must not be conditional on what you do with "
+"other separate programs, not even if they are in use on the same computer or "
+"for the same general activity.  &ldquo;Separate programs&rdquo; means that "
+"they have not been combined in a way that would make them count as a single "
+"larger work."
+msgstr ""
+"La permission d'exécuter un programme ne doit pas être conditionnée par ce "
+"que vous faites avec des programmes séparés, pas même s'ils sont utilisés "
+"sur le même ordinateur ou pour le même type d'activité. « Programmes "
+"séparés » signifie qu'ils n'ont pas été combinés d'une manière qui en ferait "
+"une œuvre unique plus vaste."
+
 #. type: Content of: <div><h4>
 msgid "The freedom to study the source code and make changes"
 msgstr "La liberté d'étudier le code source et de le modifier"
@@ -506,11 +521,18 @@ msgstr ""
 msgid ""
 "Source code is defined as the preferred form of the program for making "
 "changes in.  Thus, whatever form a developer changes to develop the program "
-"is the source code of that developer's version."
+"is the source code of that developer's version.  Placing a free license on a "
+"binary program does not make it source code&mdash;unless that binary "
+"program's developer always maintains it by patching that binary and has no "
+"real source code for it."
 msgstr ""
 "Le code source se définit comme la forme préférée sur laquelle faire des "
 "modifications. Ainsi, la forme qu'un développeur modifie pour développer un "
-"programme est le code source de cette version particulière."
+"programme est le code source de cette version particulière. Placer une "
+"licence libre sur un programme binaire n'en fait pas du code source, à moins "
+"que le dévelopeur de ce programme binaire le maintienne en permanence en y "
+"appliquant des correctifs et n'ait pas de vrai code source qui lui "
+"corresponde."
 
 #. type: Content of: <div><p>
 msgid ""
