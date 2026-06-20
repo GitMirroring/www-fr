@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu.html\n"
-"POT-Creation-Date: 2023-05-15 18:25+0000\n"
-"PO-Revision-Date: 2025-07-03 14:54+0200\n"
+"POT-Creation-Date: 2026-06-20 15:26+0000\n"
+"PO-Revision-Date: 2026-06-20 20:22+0200\n"
 "Last-Translator: Laurent Lyaudet <laurent.lyaudet@gmail.com>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -19,14 +19,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Content of: <title>
-msgid "About the GNU Operating System - GNU project - Free Software Foundation"
-msgstr ""
-"À propos du système d'exploitation GNU - Projet GNU - Free Software "
-"Foundation"
+msgid "About GNU - Free Software Foundation"
+msgstr "À propos de GNU - Free Software Foundation"
 
 #. type: Content of: <h2>
-msgid "About the GNU Operating System"
-msgstr "À propos du système d'exploitation GNU"
+msgid "About GNU"
+msgstr "À propos de GNU"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page lists a series of articles related to the GNU Project and the GNU "
+"Operating System. They are arranged in reverse chronological order. Items "
+"marked with an asterisk are recommended reads."
+msgstr ""
+"Cette page liste une série d'articles relatifs au projet GNU et au système "
+"d'exploitation GNU, en ordre chronologique inversé. Les articles marqués "
+"d'un astérisque sont des lectures recommandées."
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"/gnu/about-gnu.html\">GNU in a Nutshell</a>"
@@ -61,58 +69,6 @@ msgstr ""
 #. type: Content of: <div><h3>
 msgid "GNU History"
 msgstr "Histoire"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. *[1996]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/gnu/gnu-history.html\"> Overview of the GNU System</a>"
-msgstr "<a href=\"/gnu/gnu-history.html\">Un aperçu historique de GNU</a>"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. *[1998]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/gnu/thegnuproject.html\"> The GNU Project</a> (by Richard "
-"Stallman)  &mdash; A more detailed history of GNU."
-msgstr ""
-"<a href=\"/gnu/thegnuproject.html\">Le projet GNU</a>, par Richard Stallman "
-"– Une histoire plus détaillée de GNU"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. *[1985]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/gnu/manifesto.html\"> The GNU Manifesto</a>"
-msgstr "<a href=\"/gnu/manifesto.html\">Le manifeste GNU</a>"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. *[1984]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/gnu/first-hackers-conference-1984.html\"> First Hackers "
-"Conference</a>"
-msgstr ""
-"<a href=\"/gnu/first-hackers-conference-1984.html\"> First Hackers "
-"Conference</a>"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. *[1983]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/gnu/initial-announcement.html\"> Initial Announcement</a> of the "
-"GNU Project"
-msgstr ""
-"<a href=\"/gnu/initial-announcement.html\">L'annonce initiale</a> du projet "
-"GNU"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [2003]</span>'
@@ -151,6 +107,26 @@ msgstr ""
 "Stallman</a>"
 
 #. #set var='DATE' value='<span class="date-tag">
+#. *[1998]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/gnu/thegnuproject.html\"> The GNU Project</a> (by Richard "
+"Stallman)  &mdash; A more detailed history of GNU."
+msgstr ""
+"<a href=\"/gnu/thegnuproject.html\">Le projet GNU</a>, par Richard Stallman "
+"– Une histoire plus détaillée de GNU"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[1996]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/gnu/gnu-history.html\"> Overview of the GNU System</a>"
+msgstr "<a href=\"/gnu/gnu-history.html\">Un aperçu historique de GNU</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
 #. [1989]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
@@ -182,6 +158,38 @@ msgstr ""
 "lorsqu'il travaillait encore au MIT, était d'écrire, indépendamment, des "
 "améliorations comparables à celles que Symbolics faisait dans sa version du "
 "système pour machine Lisp du MIT <i>[MIT Lisp Machine System]</i>."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[1985]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/gnu/manifesto.html\"> The GNU Manifesto</a>"
+msgstr "<a href=\"/gnu/manifesto.html\">Le manifeste GNU</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[1984]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/gnu/first-hackers-conference-1984.html\"> First Hackers "
+"Conference</a>"
+msgstr ""
+"<a href=\"/gnu/first-hackers-conference-1984.html\"> First Hackers "
+"Conference</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[1983]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/gnu/initial-announcement.html\"> Initial Announcement</a> of the "
+"GNU Project"
+msgstr ""
+"<a href=\"/gnu/initial-announcement.html\">L'annonce initiale</a> du projet "
+"GNU"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [1983]</span>'
@@ -252,43 +260,6 @@ msgid "GNU and Linux"
 msgstr "GNU et Linux"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. *[2000-2007]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/gnu/why-gnu-linux.html\"> What's in a Name?</a> (by Richard "
-"Stallman)  &mdash; Why the &ldquo;Linux system&rdquo; should be called GNU/"
-"Linux."
-msgstr ""
-"<a href=\"/gnu/why-gnu-linux.html\">Qu'y a-t-il dans un nom ?</a>, par "
-"Richard Stallman – Pourquoi le « système Linux » doit être appelé GNU/Linux"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. [2001-2020]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/gnu/gnu-linux-faq.html\"> A GNU/Linux FAQ</a> (by Richard "
-"Stallman)"
-msgstr ""
-"<a href=\"/gnu/gnu-linux-faq.html\">Une FAQ sur GNU/Linux</a>, par Richard "
-"Stallman"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. [1997-2019]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/gnu/linux-and-gnu.html\"> Linux and the GNU System</a> (by "
-"Richard Stallman)  &mdash; The relationship between GNU and Linux."
-msgstr ""
-"<a href=\"/gnu/linux-and-gnu.html\">Linux et le système GNU</a>, par Richard "
-"Stallman – La relation entre GNU et Linux"
-
-#. #set var='DATE' value='<span class="date-tag">
 #. [2018]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
@@ -311,6 +282,43 @@ msgid ""
 msgstr ""
 "<a href=\"/gnu/gnu-users-never-heard-of-gnu.html\">Les utilisateurs de GNU "
 "qui n'ont jamais entendu parler de GNU</a>, par Richard Stallman"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[2001]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/gnu/gnu-linux-faq.html\"> A GNU/Linux FAQ</a> (by Richard "
+"Stallman)"
+msgstr ""
+"<a href=\"/gnu/gnu-linux-faq.html\">Une FAQ sur GNU/Linux</a>, par Richard "
+"Stallman"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[2000]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/gnu/why-gnu-linux.html\"> What's in a Name?</a> (by Richard "
+"Stallman)  &mdash; Why the &ldquo;Linux system&rdquo; should be called GNU/"
+"Linux."
+msgstr ""
+"<a href=\"/gnu/why-gnu-linux.html\">Qu'y a-t-il dans un nom ?</a>, par "
+"Richard Stallman – Pourquoi le « système Linux » doit être appelé GNU/Linux"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[1997]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/gnu/linux-and-gnu.html\"> Linux and the GNU System</a> (by "
+"Richard Stallman)  &mdash; The relationship between GNU and Linux."
+msgstr ""
+"<a href=\"/gnu/linux-and-gnu.html\">Linux et le système GNU</a>, par Richard "
+"Stallman – La relation entre GNU et Linux"
 
 #. type: Content of: <div><h3>
 msgid "Other GNU-related resources"
@@ -394,11 +402,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2002, 2006-2008, 2011, 2014-2016, 2020, 2021, 2022, 2023 "
-"Free Software Foundation, Inc."
+"Copyright &copy; 2002, 2006-2008, 2011, 2014-2016, 2020, 2021, 2022, 2023, "
+"2026 Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2002, 2006-2008, 2011, 2014-2016, 2020-2023 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 2002, 2006-2008, 2011, 2014-2016, 2020-2023, 2026 Free "
+"Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
