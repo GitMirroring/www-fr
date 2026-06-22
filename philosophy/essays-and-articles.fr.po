@@ -10,8 +10,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: essays-and-articles.html\n"
-"POT-Creation-Date: 2025-11-29 09:27+0000\n"
-"PO-Revision-Date: 2025-11-30 11:30+0100\n"
+"POT-Creation-Date: 2026-06-22 08:58+0000\n"
+"PO-Revision-Date: 2026-06-22 13:59+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -31,20 +31,13 @@ msgstr "Essais et articles"
 msgid ""
 "This page lists a series of articles describing the philosophy of the free "
 "software movement, which is the motivation for our development of the free "
-"software operating system GNU."
+"software operating system GNU. They are arranged in reverse chronological "
+"order. Items marked with an asterisk are recommended reads."
 msgstr ""
-"Cette page recense une série d'articles décrivant la philosophie du "
-"mouvement du logiciel libre, qui est la motivation de notre développement du "
-"système d'exploitation libre GNU."
-
-#. type: Content of: <div><div><p>
-msgid ""
-"The most important articles are marked with asterisks, and listed first in "
-"each category. The other ones are in reverse chronological order."
-msgstr ""
-"Les articles les plus importants de chaque catégorie sont marqués d'une "
-"astérisque et placés en premier. Les autres sont en ordre chronologique "
-"inverse."
+"Cette page liste (en ordre chronologique inversé) une série d'articles "
+"décrivant la philosophie du mouvement du logiciel libre, qui est la "
+"motivation de notre développement du système d'exploitation libre GNU. Les "
+"articles marqués d'un astérisque sont des lectures recommandées."
 
 #. type: Content of: <div><div><h3>
 msgid "Table of Contents"
@@ -209,16 +202,7 @@ msgid "Principles"
 msgstr "Principes"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. *[1996&hellip;&nbsp;]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/philosophy/free-sw.html\"> What is Free Software?</a>"
-msgstr ""
-"<a href=\"/philosophy/free-sw.html\">Qu'est-ce que le logiciel libre ?</a>"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. *[2015]</span>'
+#. <span>*</span>[2015]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
@@ -228,18 +212,6 @@ msgid ""
 msgstr ""
 "<a href=\"/philosophy/free-software-even-more-important.html\">Le logiciel "
 "libre est encore plus essentiel maintenant</a>, par RMS"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. *[1996]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/selling.html\"> Selling Free Software</a> &mdash; This "
-"is OK!"
-msgstr ""
-"<a href=\"/philosophy/selling.html\">Vendre des logiciels libres</a> – Ce "
-"n'est pas un problème !"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [2012]</span>'
@@ -266,6 +238,27 @@ msgid ""
 msgstr ""
 "<a href=\"/philosophy/your-freedom-needs-free-software.html\">Votre liberté "
 "a besoin du logiciel libre</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. <span>*</span>[1996]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/selling.html\"> Selling Free Software</a> &mdash; This "
+"is OK!"
+msgstr ""
+"<a href=\"/philosophy/selling.html\">Vendre des logiciels libres</a> – Ce "
+"n'est pas un problème !"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. <span>*</span>[1996&hellip;&nbsp;]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/philosophy/free-sw.html\"> What is Free Software?</a>"
+msgstr ""
+"<a href=\"/philosophy/free-sw.html\">Qu'est-ce que le logiciel libre ?</a>"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [1994]</span>'
@@ -298,7 +291,7 @@ msgid "Practice"
 msgstr "Pratique"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. *[2023]</span>'
+#. <span>*</span>[2023]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
@@ -308,19 +301,6 @@ msgid ""
 msgstr ""
 "<a href=\"/philosophy/tivoization.html\">Tivoïsation</a> – Quand le logiciel "
 "libre n'est pas libre en pratique"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. *[1999-2011]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/when-free-software-isnt-practically-superior.html\"> "
-"When Free Software Isn't (Practically) Superior</a> (by Benjamin Mako Hill)"
-msgstr ""
-"<a href=\"/philosophy/when-free-software-isnt-practically-superior.html"
-"\">Quand le logiciel libre n'est pas supérieur, en pratique</a>, par "
-"Benjamin Mako Hill"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [2015]</span>'
@@ -359,7 +339,20 @@ msgstr ""
 "des utilisateurs</a>, par RMS"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. [1997-2011]</span>'
+#. <span>*</span>[1999]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/when-free-software-isnt-practically-superior.html\"> "
+"When Free Software Isn't (Practically) Superior</a> (by Benjamin Mako Hill)"
+msgstr ""
+"<a href=\"/philosophy/when-free-software-isnt-practically-superior.html"
+"\">Quand le logiciel libre n'est pas supérieur, en pratique</a>, par "
+"Benjamin Mako Hill"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1997]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
@@ -372,18 +365,6 @@ msgstr ""
 #. type: Content of: <div><h4>
 msgid "Extension to other areas"
 msgstr "Extension à d'autres domaines"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. *[1996]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/free-doc.html\"> Why Free Software Needs Free "
-"Documentation</a>"
-msgstr ""
-"<a href=\"/philosophy/free-doc.html\">Pourquoi le logiciel libre a besoin "
-"d'une documentation libre</a>"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [2025]</span>'
@@ -434,7 +415,7 @@ msgstr ""
 "ordinateur vous est-il loyal ?</a>, par RMS"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. [2012]</span>'
+#. <span>*</span>[2012]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
@@ -456,6 +437,18 @@ msgid ""
 msgstr ""
 "<a href=\"/philosophy/gnutella.html\" id=\"Gnutella\">À propos de Gnutella</"
 "a>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. <span>*</span>[1996]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/free-doc.html\"> Why Free Software Needs Free "
+"Documentation</a>"
+msgstr ""
+"<a href=\"/philosophy/free-doc.html\">Pourquoi le logiciel libre a besoin "
+"d'une documentation libre</a>"
 
 #. type: Content of: <div><h4>
 msgid "Mixing free and nonfree"
@@ -510,18 +503,6 @@ msgid "Free software and open source"
 msgstr "Logiciel libre et open source"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. *[2007-2021]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/open-source-misses-the-point.html\"> Why &ldquo;Open "
-"Source&rdquo; Misses the Point of Free Software</a> (by RMS)"
-msgstr ""
-"<a href=\"/philosophy/open-source-misses-the-point.html\">En quoi l'open "
-"source perd de vue l'éthique du logiciel libre</a>, par RMS"
-
-#. #set var='DATE' value='<span class="date-tag">
 #. [2015]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
@@ -541,6 +522,18 @@ msgstr ""
 msgid ""
 "<a href=\"/philosophy/floss-and-foss.html\"> FLOSS and FOSS</a> (by RMS)"
 msgstr "<a href=\"/philosophy/floss-and-foss.html\">FLOSS et FOSS</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. <span>*</span>[2007&hellip;&nbsp;]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/open-source-misses-the-point.html\"> Why &ldquo;Open "
+"Source&rdquo; Misses the Point of Free Software</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/open-source-misses-the-point.html\">En quoi l'open "
+"source perd de vue l'éthique du logiciel libre</a>, par RMS"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [2002]</span>'
@@ -654,30 +647,6 @@ msgid "The need for free software"
 msgstr "La nécessité du logiciel libre"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. *[2011-2017]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/government-free-software.html\"> Measures Governments "
-"Can Use to Promote Free Software</a> (by RMS)"
-msgstr ""
-"<a href=\"/philosophy/government-free-software.html\">Mesures à la portée "
-"des gouvernements pour promouvoir le logiciel libre</a>, par RMS"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. *[2009-2014]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/education/edu-schools.html\"> Why Schools Should Use Exclusively "
-"Free Software</a> (by RMS)"
-msgstr ""
-"<a href=\"/education/edu-schools.html\">Pourquoi les écoles doivent utiliser "
-"exclusivement du logiciel libre</a>, par RMS"
-
-#. #set var='DATE' value='<span class="date-tag">
 #. [2014]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
@@ -700,6 +669,18 @@ msgid ""
 msgstr ""
 "<a href=\"/philosophy/uruguay.html\">Enseignement tiré de l'Uruguay</a> – La "
 "FSF tire les leçons d'une proposition de loi présentée en Uruguay."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. <span>*</span>[2011&hellip;&nbsp;]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/government-free-software.html\"> Measures Governments "
+"Can Use to Promote Free Software</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/government-free-software.html\">Mesures à la portée "
+"des gouvernements pour promouvoir le logiciel libre</a>, par RMS"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [2005]</span>'
@@ -728,12 +709,24 @@ msgstr ""
 "durable), par RMS – Un court article concernant l'utilisation de logiciels "
 "privateurs (propriétaires) dans le développement culturel."
 
+#. #set var='DATE' value='<span class="date-tag">
+#. <span>*</span>[2003&hellip;&nbsp;]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/education/edu-schools.html\"> Why Schools Should Use Exclusively "
+"Free Software</a> (by RMS)"
+msgstr ""
+"<a href=\"/education/edu-schools.html\">Pourquoi les écoles doivent utiliser "
+"exclusivement du logiciel libre</a>, par RMS"
+
 #. type: Content of: <div><h4>
 msgid "Guide for action"
 msgstr "Guide pour l'action"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. *[2024]</span>'
+#. <span>*</span>[2024]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
@@ -745,7 +738,7 @@ msgstr ""
 "par RMS"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. *[2020]</span>'
+#. <span>*</span>[2020]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
@@ -755,30 +748,6 @@ msgid ""
 msgstr ""
 "<a href=\"/philosophy/saying-no-even-once.html\">Dire non à l'informatique "
 "injuste, même une seule fois, est une aide</a>, par RMS"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. *[2009]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/fs-motives.html\"> Motives For Writing Free Software</"
-"a>"
-msgstr ""
-"<a href=\"/philosophy/fs-motives.html\">Raisons d'écrire des logiciels "
-"libres</a>"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. [2002-2020]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/no-word-attachments.html\" id=\"NoWordAttachments\"> "
-"We Can Put an End to Word Attachments</a> (by RMS)"
-msgstr ""
-"<a href=\"/philosophy/no-word-attachments.html\" id=\"NoWordAttachments"
-"\">Finissons-en avec les pièces jointes Word</a>, par RMS"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [2019]</span>'
@@ -805,7 +774,7 @@ msgstr ""
 "une installation de Windows ?</a> par RMS"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. [2018]</span>'
+#. <span>*</span>[2018]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
@@ -865,6 +834,18 @@ msgstr ""
 "par RMS"
 
 #. #set var='DATE' value='<span class="date-tag">
+#. <span>*</span>[2009]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/fs-motives.html\"> Motives For Writing Free Software</"
+"a>"
+msgstr ""
+"<a href=\"/philosophy/fs-motives.html\">Raisons d'écrire des logiciels "
+"libres</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
 #. [2009]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
@@ -898,7 +879,7 @@ msgstr ""
 "<a href=\"/philosophy/ucita.html\">Pourquoi nous devons contrer UCITA</a>"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. [2008]</span>'
+#. <span>*</span>[2008]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
@@ -953,6 +934,18 @@ msgstr ""
 "<a href=\"/philosophy/anonymous-response.html\">Une réponse aux pièces "
 "jointes Word</a>"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. [2002&hellip;&nbsp;]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/no-word-attachments.html\" id=\"NoWordAttachments\"> "
+"We Can Put an End to Word Attachments</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/no-word-attachments.html\" id=\"NoWordAttachments"
+"\">Finissons-en avec les pièces jointes Word</a>, par RMS"
+
 #. type: Content of: <div><h3>
 msgid "Licensing Free Software"
 msgstr "Licences de logiciel libre"
@@ -970,26 +963,7 @@ msgid "Copyleft"
 msgstr "Copyleft"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. *[2003]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/philosophy/why-copyleft.html\"> Why Copyleft?</a>"
-msgstr "<a href=\"/philosophy/why-copyleft.html\">Pourquoi le copyleft ?</a>"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. *[1998]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/pragmatic.html\"> Copyleft: Pragmatic Idealism</a> (by "
-"RMS)"
-msgstr ""
-"<a href=\"/philosophy/pragmatic.html\">Copyleft : idéalisme pragmatique</a>"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. [2009-2017]</span>'
+#. [2009&hellip;&nbsp;]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
@@ -1043,6 +1017,14 @@ msgstr ""
 "anglais de la fameuse décision du tribunal de grande instance de Munich</a> "
 "concernant l'applicabilité et la validité de la GPL, par les traducteurs de "
 "l'<i>Oxford Internet Institute</i>, sur <i>oii.ox.ac.uk</i>."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. <span>*</span>[2003]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/philosophy/why-copyleft.html\"> Why Copyleft?</a>"
+msgstr "<a href=\"/philosophy/why-copyleft.html\">Pourquoi le copyleft ?</a>"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [2002]</span>'
@@ -1128,6 +1110,17 @@ msgstr ""
 "<a href=\"/philosophy/using-gfdl.html\" id=\"UsingGFDL\">Utiliser la GNU FDL "
 "(GFDL)</a>, par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. <span>*</span>[1998]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/pragmatic.html\"> Copyleft: Pragmatic Idealism</a> (by "
+"RMS)"
+msgstr ""
+"<a href=\"/philosophy/pragmatic.html\">Copyleft : idéalisme pragmatique</a>"
+
 #. type: Content of: <div><h4>
 msgid "Non-copyleft"
 msgstr "Non copyleft"
@@ -1201,7 +1194,7 @@ msgid "Licensing traps"
 msgstr "Pièges"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. *[2009-2019]</span>'
+#. <span>*</span>[2009&hellip;&nbsp;]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
@@ -1216,7 +1209,19 @@ msgstr ""
 "votre navigateur web."
 
 #. #set var='DATE' value='<span class="date-tag">
-#. [2004-2015]</span>'
+#. [2006]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/sun-in-night-time.html\"> The Curious Incident of Sun "
+"in the Night-Time</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/sun-in-night-time.html\">Le curieux non-événement de "
+"Sun dans la pénombre</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2004&hellip;&nbsp;]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
@@ -1234,24 +1239,12 @@ msgstr ""
 "demeure important."
 
 #. #set var='DATE' value='<span class="date-tag">
-#. [1998-2009]</span>'
+#. [1998&hellip;&nbsp;]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"/philosophy/x.html\"> The X Window System Trap</a> (by RMS)"
 msgstr "<a href=\"/philosophy/x.html\">Le piège X Window System</a>, par RMS"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. [2006]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/sun-in-night-time.html\"> The Curious Incident of Sun "
-"in the Night-Time</a> (by RMS)"
-msgstr ""
-"<a href=\"/philosophy/sun-in-night-time.html\">Le curieux non-événement de "
-"Sun dans la pénombre</a>, par RMS"
 
 #. type: Content of: <div><h3>
 msgid "Legal Issues"
@@ -1262,7 +1255,7 @@ msgid "Patents"
 msgstr "Brevets"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. *[2012]</span>'
+#. <span>*</span>[2012]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
@@ -1286,24 +1279,7 @@ msgstr ""
 "européen pourrait engendrer des brevets logiciels sans limites</a>, par RMS"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. [2000-2007]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"https://web.archive.org/web/20240606183142/https://www.eff.org/"
-"search/site/dvd%20cases/\"> EFF &ldquo;Intellectual Property&rdquo;: MPAA "
-"(Motion Picture Association of America) DVD Cases Archive</a>"
-msgstr ""
-"<a href=\"https://web.archive.org/web/20240606183142/https://www.eff.org/"
-"search/site/dvd%20cases/\"><cite>EFF &ldquo;Intellectual Property&rdquo;: "
-"MPAA (Motion Picture Association of America) DVD Cases Archive</cite></a> "
-"(Dossier de l'EFF sur la « propriété intellectuelle » : archives des procès "
-"de la <abbr title=\"Motion Picture Association of America\">MPAA</abbr> à "
-"propos de DVD)"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. [2006]</span>'
+#. <span>*</span>[2006]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
@@ -1373,20 +1349,6 @@ msgstr ""
 "très proche des exemples hypothétiques donnés dans cet article."
 
 #. #set var='DATE' value='<span class="date-tag">
-#. [2004]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/fighting-software-patents.html\" id="
-"\"FightingSoftwarePatents\"> Fighting Software Patents&mdash;Singly and "
-"Together</a> (by RMS)"
-msgstr ""
-"<a href=\"/philosophy/fighting-software-patents.html\" id="
-"\"FightingSoftwarePatents\">Combattre les brevets logiciels, "
-"individuellement et collectivement</a>, par RMS"
-
-#. #set var='DATE' value='<span class="date-tag">
 #. [2005]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
@@ -1399,6 +1361,20 @@ msgstr ""
 "<a href=\"https://www.theguardian.com/technology/2005/jun/23/"
 "onlinesupplement.insideit\"><i>Patent absurdity</i></a> (L'absurdité des "
 "brevets), par RMS, sur <i>theguardian.com</i>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2004]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/fighting-software-patents.html\" id="
+"\"FightingSoftwarePatents\"> Fighting Software Patents&mdash;Singly and "
+"Together</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/fighting-software-patents.html\" id="
+"\"FightingSoftwarePatents\">Combattre les brevets logiciels, "
+"individuellement et collectivement</a>, par RMS"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [2003]</span>'
@@ -1452,6 +1428,23 @@ msgstr ""
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"/philosophy/hague.html\"> Harm from the Hague</a> (by RMS)"
 msgstr "<a href=\"/philosophy/hague.html\">Le danger de La Haye</a> par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [2000&hellip;&nbsp;]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20240606183142/https://www.eff.org/"
+"search/site/dvd%20cases/\"> EFF &ldquo;Intellectual Property&rdquo;: MPAA "
+"(Motion Picture Association of America) DVD Cases Archive</a>"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20240606183142/https://www.eff.org/"
+"search/site/dvd%20cases/\"><cite>EFF &ldquo;Intellectual Property&rdquo;: "
+"MPAA (Motion Picture Association of America) DVD Cases Archive</cite></a> "
+"(Dossier de l'EFF sur la « propriété intellectuelle » : archives des procès "
+"de la <abbr title=\"Motion Picture Association of America\">MPAA</abbr> à "
+"propos de DVD)"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [2000]</span>'
@@ -1584,32 +1577,6 @@ msgid "Copyright"
 msgstr "Copyright"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. *[2002]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/misinterpreting-copyright.html\"> Misinterpreting "
-"Copyright&mdash;A Series of Errors</a> (by RMS)  &mdash; About the flaws in "
-"popular defenses of copyright law."
-msgstr ""
-"<a href=\"/philosophy/misinterpreting-copyright.html\">Mauvaise "
-"interprétation du copyright</a>, par RMS – Sur les erreurs des argumentaires "
-"habituels défendant la loi sur le copyright."
-
-#. #set var='DATE' value='<span class="date-tag">
-#. *[1996]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/reevaluating-copyright.html\"> Reevaluating Copyright: "
-"The Public Must Prevail</a> (by RMS)"
-msgstr ""
-"<a href=\"/philosophy/reevaluating-copyright.html\">Dans une réévaluation du "
-"copyright, on doit donner la priorité au public</a>, par RMS"
-
-#. #set var='DATE' value='<span class="date-tag">
 #. [2010]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
@@ -1634,6 +1601,20 @@ msgstr ""
 "<a href=\"/philosophy/freedom-or-copyright.html\">La liberté ou le "
 "copyright ?</a> par RMS [<a href=\"/philosophy/freedom-or-copyright-old.html"
 "\">version plus ancienne</a>]"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. <span>*</span>[2002]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/misinterpreting-copyright.html\"> Misinterpreting "
+"Copyright&mdash;A Series of Errors</a> (by RMS)  &mdash; About the flaws in "
+"popular defenses of copyright law."
+msgstr ""
+"<a href=\"/philosophy/misinterpreting-copyright.html\">Mauvaise "
+"interprétation du copyright</a>, par RMS – Sur les erreurs des argumentaires "
+"habituels défendant la loi sur le copyright."
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [2002]</span>'
@@ -1716,6 +1697,18 @@ msgstr ""
 "<a href=\"/philosophy/rms-comment-longs-article.html\">Commentaires "
 "concernant l'article de Roderick Long</a>, par RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. <span>*</span>[1996]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/reevaluating-copyright.html\"> Reevaluating Copyright: "
+"The Public Must Prevail</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/reevaluating-copyright.html\">Dans une réévaluation du "
+"copyright, on doit donner la priorité au public</a>, par RMS"
+
 #. type: Content of: <div><h4>
 msgid ""
 "The propaganda term &ldquo;<a href=\"/philosophy/words-to-avoid."
@@ -1723,18 +1716,6 @@ msgid ""
 msgstr ""
 "Le terme de propagande « <a href=\"/philosophy/words-to-avoid."
 "html#IntellectualProperty\">propriété intellectuelle</a> »"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. *[2004]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/not-ipr.html\"> Did You Say &ldquo;Intellectual "
-"Property&rdquo;? It's a Seductive Mirage</a> (by RMS)"
-msgstr ""
-"<a href=\"/philosophy/not-ipr.html\">Vous avez dit « propriété "
-"intellectuelle » ? Un séduisant mirage</a>, par RMS"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [2015]</span>'
@@ -1760,6 +1741,18 @@ msgid ""
 msgstr ""
 "<a href=\"/philosophy/no-ip-ethos.html\">Ne laissez pas la « propriété "
 "intellectuelle » déformer votre ethos</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. <span>*</span>[2004]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/not-ipr.html\"> Did You Say &ldquo;Intellectual "
+"Property&rdquo;? It's a Seductive Mirage</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/not-ipr.html\">Vous avez dit « propriété "
+"intellectuelle » ? Un séduisant mirage</a>, par RMS"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [2003]</span>'
@@ -1792,7 +1785,7 @@ msgid "Response to SCO's attacks"
 msgstr "Réponse aux attaques de SCO"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. [2003-2004]</span>'
+#. [2003]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
@@ -1826,7 +1819,7 @@ msgid "Digital society"
 msgstr "Société numérique"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. *[2012]</span>'
+#. <span>*</span>[2012]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
@@ -1834,7 +1827,7 @@ msgid "<a href=\"/philosophy/stallmans-law.html\"> Stallman's Law</a>"
 msgstr "<a href=\"/philosophy/stallmans-law.html\">Loi de Stallman</a>"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. *[2009]</span>'
+#. <span>*</span>[2009]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
@@ -1875,7 +1868,19 @@ msgid "Digital restrictions management and treacherous computing"
 msgstr "Gestion numérique des restrictions et informatique déloyale"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. *[2006]</span>'
+#. [2013]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/nonfree-games.html\"> Nonfree DRM'd Games on GNU/"
+"Linux: Good or Bad?</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/nonfree-games.html\">Des jeux avec DRM sur GNU/Linux : "
+"bon ou mauvais ?</a> par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. <span>*</span>[2006]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
@@ -1889,7 +1894,19 @@ msgstr ""
 "les DRM."
 
 #. #set var='DATE' value='<span class="date-tag">
-#. *[2002]</span>'
+#. [2012]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/correcting-france-mistake.html\"> Correcting My "
+"Mistake about French Law</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/correcting-france-mistake.html\">Erratum sur une loi "
+"française</a> par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. <span>*</span>[2002]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
@@ -1902,45 +1919,9 @@ msgstr ""
 "votre ordinateur ?</a> par RMS – Sur les initiatives de la soi-disant "
 "« informatique de confiance »."
 
-#. #set var='DATE' value='<span class="date-tag">
-#. [2013]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/nonfree-games.html\"> Nonfree DRM'd Games on GNU/"
-"Linux: Good or Bad?</a> (by RMS)"
-msgstr ""
-"<a href=\"/philosophy/nonfree-games.html\">Des jeux avec DRM sur GNU/Linux : "
-"bon ou mauvais ?</a> par RMS"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. [2012]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/correcting-france-mistake.html\"> Correcting My "
-"Mistake about French Law</a> (by RMS)"
-msgstr ""
-"<a href=\"/philosophy/correcting-france-mistake.html\">Erratum sur une loi "
-"française</a> par RMS"
-
 #. type: Content of: <div><h4>
 msgid "Network Services"
 msgstr "Services en ligne"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. *[2010-2020]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/who-does-that-server-really-serve.html\"> Who does "
-"that server really serve?</a> (by RMS)"
-msgstr ""
-"<a href=\"/philosophy/who-does-that-server-really-serve.html\">Qui ce "
-"serveur sert-il réellement ?</a> par RMS"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [2020]</span>'
@@ -2001,24 +1982,24 @@ msgstr ""
 "contrôle de votre informatique, afin qu'elle ne vous contrôle pas !</a> par "
 "RMS"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. <span>*</span>[2010&hellip;&nbsp;]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/who-does-that-server-really-serve.html\"> Who does "
+"that server really serve?</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/who-does-that-server-really-serve.html\">Qui ce "
+"serveur sert-il réellement ?</a> par RMS"
+
 #. type: Content of: <div><h4>
 msgid "Accessing culture"
 msgstr "Accès à la culture"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. *[1996-2016]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/right-to-read.html\"> The Right to Read: A Dystopian "
-"Short Story</a> (by RMS)"
-msgstr ""
-"<a href=\"/philosophy/right-to-read.html\">Le droit de lire : une courte "
-"histoire dystopique</a>, par RMS"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. [2012]</span>'
+#. <span>*</span>[2012]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
@@ -2108,6 +2089,18 @@ msgstr ""
 "<a href=\"/philosophy/stophr3028.html\">Stoppez HR 3028 - Protégez Internet "
 "- Stoppez les monopoles des marques déposées</a>, par Marc Rotenberg"
 
+#. #set var='DATE' value='<span class="date-tag">
+#. <span>*</span>[1996&hellip;&nbsp;]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/right-to-read.html\"> The Right to Read: A Dystopian "
+"Short Story</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/right-to-read.html\">Le droit de lire : une courte "
+"histoire dystopique</a>, par RMS"
+
 #. type: Content of: <div><h4>
 msgid "Funding cultural works"
 msgstr "Financement des œuvres culturelles"
@@ -2137,32 +2130,6 @@ msgstr ""
 #. type: Content of: <div><h4>
 msgid "Surveillance, censorship, lock-in, etc."
 msgstr "Surveillance, censure, verrouillage, etc."
-
-#. #set var='DATE' value='<span class="date-tag">
-#. *[2013&hellip;&nbsp;]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/proprietary/proprietary.html\"> Proprietary Software Is Often "
-"Malware</a> &mdash; Clearly established cases of proprietary software that "
-"does nasty things to the users."
-msgstr ""
-"<a href=\"/proprietary/proprietary.html\">Le logiciel privateur est souvent "
-"malveillant</a> – Cas clairement établis de logiciels privateurs qui font "
-"des mauvais coups à leurs utilisateurs"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. *[2015&hellip;&nbsp;]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/surveillance-vs-democracy.html\"> How Much "
-"Surveillance Can Democracy Withstand?</a> (by RMS)"
-msgstr ""
-"<a href=\"/philosophy/surveillance-vs-democracy.html\">Quel niveau de "
-"surveillance la démocratie peut-elle endurer ?</a>, par RMS"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [2025]</span>'
@@ -2226,6 +2193,32 @@ msgid ""
 msgstr ""
 "<a href=\"/philosophy/surveillance-testimony.html\">Témoignage sur la "
 "surveillance</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. <span>*</span>[2015&hellip;&nbsp;]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/surveillance-vs-democracy.html\"> How Much "
+"Surveillance Can Democracy Withstand?</a> (by RMS)"
+msgstr ""
+"<a href=\"/philosophy/surveillance-vs-democracy.html\">Quel niveau de "
+"surveillance la démocratie peut-elle endurer ?</a>, par RMS"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. <span>*</span>[2013&hellip;&nbsp;]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary.html\"> Proprietary Software Is Often "
+"Malware</a> &mdash; Clearly established cases of proprietary software that "
+"does nasty things to the users."
+msgstr ""
+"<a href=\"/proprietary/proprietary.html\">Le logiciel privateur est souvent "
+"malveillant</a> – Cas clairement établis de logiciels privateurs qui font "
+"des mauvais coups à leurs utilisateurs"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. [2012]</span>'
@@ -2371,42 +2364,6 @@ msgid "Terminology and Definitions"
 msgstr "Terminologie et définitions"
 
 #. #set var='DATE' value='<span class="date-tag">
-#. *[1996&hellip;&nbsp;]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/words-to-avoid.html\"> Words to Avoid (or Use with "
-"Care) Because They Are Loaded or Confusing</a>"
-msgstr ""
-"<a href=\"/philosophy/words-to-avoid.html\">Mots à éviter ou à utiliser avec "
-"précaution, car connotés ou prêtant à confusion</a>"
-
-#. #set var='DATE' value='<span class="date-tag">
-#. [1999&hellip;&nbsp;]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/fs-translations.html\"> Translations of the term "
-"&ldquo;free software&rdquo;</a> into various languages."
-msgstr ""
-"<a href=\"/philosophy/fs-translations.html\">Traductions du terme <i>free "
-"software</i></a> en diverses langues."
-
-#. #set var='DATE' value='<span class="date-tag">
-#. [1996-2019]</span>'
-#.   
-#. #echo encoding='none' var='DATE' 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/philosophy/categories.html\"> Categories of Free and Nonfree "
-"Software</a>"
-msgstr ""
-"<a href=\"/philosophy/categories.html\">Catégories de logiciels libres et "
-"non libres</a>"
-
-#. #set var='DATE' value='<span class="date-tag">
 #. [2013]</span>'
 #.   
 #. #echo encoding='none' var='DATE' 
@@ -2434,6 +2391,42 @@ msgstr ""
 "– Où l'OMPI reconnaît que son système est conçu pour imposer des "
 "restrictions au public et propose de modifier la terminologie pour que les "
 "gens ne s'en rendent pas compte."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1999&hellip;&nbsp;]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/fs-translations.html\"> Translations of the term "
+"&ldquo;free software&rdquo;</a> into various languages."
+msgstr ""
+"<a href=\"/philosophy/fs-translations.html\">Traductions du terme <i>free "
+"software</i></a> en diverses langues."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. <span>*</span>[1996&hellip;&nbsp;]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/words-to-avoid.html\"> Words to Avoid (or Use with "
+"Care) Because They Are Loaded or Confusing</a>"
+msgstr ""
+"<a href=\"/philosophy/words-to-avoid.html\">Mots à éviter ou à utiliser avec "
+"précaution, car connotés ou prêtant à confusion</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1996&hellip;&nbsp;]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/categories.html\"> Categories of Free and Nonfree "
+"Software</a>"
+msgstr ""
+"<a href=\"/philosophy/categories.html\">Catégories de logiciels libres et "
+"non libres</a>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -2479,8 +2472,8 @@ msgstr ""
 "traduction</a> les infos nécessaires."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1996-2025 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 1996-2025 Free Software Foundation, Inc."
+msgid "Copyright &copy; 1996-2026 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1996-2026 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
