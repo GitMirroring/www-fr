@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
-"POT-Creation-Date: 2026-06-30 17:30+0000\n"
-"PO-Revision-Date: 2026-06-30 21:36+0200\n"
+"POT-Creation-Date: 2026-07-01 07:56+0000\n"
+"PO-Revision-Date: 2026-07-01 10:15+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
 "Language: fr\n"
@@ -118,8 +118,16 @@ msgstr "« <a href=\"#Content\">contenu</a> » |"
 
 #.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
+msgid ""
+"&ldquo;<a href=\"#ContentManagementSystem\">Content Management System</"
+"a>&rdquo; |"
+msgstr ""
+"« <a href=\"#ContentManagementSystem\">système de gestion de contenu</a> » |"
+
+#.  GNUN-SORT-NEXT-ITEM 
+#. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#CopyrightOwner\">Copyright Owner</a>&rdquo; |"
-msgstr "« <a href=\"#CopyrightOwner\">Propriétaire de copyright</a> » |"
+msgstr "« <a href=\"#CopyrightOwner\">propriétaire de copyright</a> » |"
 
 #.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
@@ -1615,6 +1623,10 @@ msgstr ""
 "dissidents politiques peuvent tout aussi bien se donner le nom de "
 "« fournisseurs de mécontentement » <i>[malcontent providers]</i>."
 
+#. type: Content of: <div><h3>
+msgid "&ldquo;Content Management System&rdquo;"
+msgstr "« Système de gestion de contenu »"
+
 #. type: Content of: <div><p>
 msgid ""
 "The term &ldquo;content management&rdquo; takes the prize for vacuity.  "
@@ -1626,9 +1638,10 @@ msgid ""
 msgstr ""
 "Le terme de « gestion de contenu » remporte le prix de la vacuité. "
 "« Contenu » signifie « un type d'information » et « gestion » dans ce "
-"contexte, « faire quelque chose avec cette information ». Donc un «  système "
-"de gestion de contenu » est un système pour faire quelque chose avec un type "
-"d'information. Cette description correspond à la plupart des programmes."
+"contexte, « faire quelque chose avec cette information ». Donc un « système "
+"de gestion de contenu » [CMS – <i>content management system</i>] est un "
+"système pour faire quelque chose avec un type d'information quelconque. "
+"Cette description correspond à la plupart des programmes."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1637,7 +1650,7 @@ msgid ""
 "system&rdquo; or &ldquo;website revision system&rdquo; (WRS)."
 msgstr ""
 "Dans la plupart des cas, ce terme se réfère en fait à un système pour mettre "
-"à jour des pages sur un site web. Pour cela, nous recommandons le terme "
+"à jour des pages d'un site web. Pour cela, nous recommandons le terme "
 "« système de révision pour site web »."
 
 #. type: Content of: <div><h3>
