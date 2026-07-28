@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-1.html\n"
-"POT-Creation-Date: 2026-07-23 15:55+0000\n"
+"POT-Creation-Date: 2026-07-27 07:55+0000\n"
 "PO-Revision-Date: 2026-07-24 06:33+0200\n"
 "Last-Translator: Thérèse Godefroy <godef.th AT free.fr>\n"
 "Language-Team: French <trad-gnu@april.org>\n"
@@ -18,50 +18,43 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div>
 msgid "<a class=\"skip\" href=\"#content\"><b>Skip to main text</b></a>"
 msgstr "<a class=\"skip\" href=\"#content\"><b>Lire l'article</b></a>"
 
-#. type: Content of: <div><div><p>
-msgid "<b>Commit to freedom</b>"
-msgstr "<b>Engagez-vous pour la liberté</b>"
-
-#. #echo encoding='none' var='fr_link' 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><form><div>
 msgid ""
-"Join us today! Until July 24, become a new associate member and get prized "
-"swag to flaunt your support for software freedom! The FSF empowers users "
-"with <em>free software</em>, technology built through global collaboration, "
-"mutual respect, and above all, freedom.  The FSF does not compromise when it "
-"comes to your freedom."
+"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
+"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
+"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
+"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
 msgstr ""
-"Rejoignez-vous dès aujourd'hui comme membre associé ! Si vous le faites "
-"d'ici le 24 juillet, vous recevrez des goodies exclusifs pour afficher votre "
-"soutien à la liberté des logiciels. La FSF donne le pouvoir aux utilisateurs "
-"avec le <em>logiciel libre</em>, une technologie construite autour de la "
-"collaboration mondiale, du respect mutuel et, par-dessus tout, de la "
-"liberté. La FSF ne fait pas de compromis quand il s'agit de votre liberté."
+"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
+"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
+"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
+"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
 
-#. #echo encoding='none'
-#.       var='fr_link' 
-#. type: Content of: <div><div><p>
-msgid "Join"
-msgstr "Adhérer"
+#. type: Content of: <div><form><div><label>
+msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>:"
+msgstr "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a> (traduit) :"
 
-#. #echo
-#.       encoding='none' var='a_close' 
-#. #echo encoding='none'
-#.       var='m_link' 
-#. type: Content of: <div><div><p>
-msgid "Read more"
-msgstr "En savoir plus"
+#. type: Content of: <div><form><div>
+msgid ""
+"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
+"maxlength=\"80\" value=\"email address\" onfocus=\"this.value=''\"/> <input "
+"type=\"submit\" name=\"_qf_Edit_next\" value=\"Sign up\" />"
+msgstr ""
+"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
+"maxlength=\"80\" value=\"adresse courriel\" onfocus=\"this.value=''\" /> "
+"<input type=\"submit\" name=\"_qf_Edit_next\" value=\"S'abonner\" />"
 
-#. #if expr="$hide_goal != yes" 
-#. #echo encoding='none' var='span_goal'
-#.       
 #. type: Content of: <div><div>
-msgid "175"
-msgstr "175"
+msgid ""
+"<a href=\"https://www.fsf.org/associate/support_freedom?"
+"referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
+msgstr ""
+"<a href=\"https://www.fsf.org/associate/support_freedom?"
+"referrer=4052\">ADHÉRER À LA FSF</a>"
 
 #. type: Content of: <div><p><a>
 msgid "<a href=\"/\">"
@@ -104,38 +97,11 @@ msgstr "<a href=\"#language-container\">"
 msgid "&nbsp;[Other languages]&nbsp;"
 msgstr " [Autres langues] "
 
-#~ msgid ""
-#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
-#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
-#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
-#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:"
-#~ "cancel\" />"
-#~ msgstr ""
-#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
-#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
-#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
-#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:"
-#~ "cancel\" />"
+#~ msgid "Join"
+#~ msgstr "Adhérer"
 
-#~ msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>:"
-#~ msgstr ""
-#~ "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a> (traduit) :"
-
-#~ msgid ""
-#~ "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
-#~ "maxlength=\"80\" value=\"email address\" onfocus=\"this.value=''\"/> "
-#~ "<input type=\"submit\" name=\"_qf_Edit_next\" value=\"Sign up\" />"
-#~ msgstr ""
-#~ "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
-#~ "maxlength=\"80\" value=\"adresse courriel\" onfocus=\"this.value=''\" /> "
-#~ "<input type=\"submit\" name=\"_qf_Edit_next\" value=\"S'abonner\" />"
-
-#~ msgid ""
-#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
-#~ "referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
-#~ msgstr ""
-#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
-#~ "referrer=4052\">ADHÉRER À LA FSF</a>"
+#~ msgid "Read more"
+#~ msgstr "En savoir plus"
 
 #~ msgid "Donate"
 #~ msgstr "Faire un don"
